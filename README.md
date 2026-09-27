@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 16:22 UTC
+## Latest list — 2026-09-27 17:19 UTC
 
-New packages created between 2026-09-27 15:22 UTC and 2026-09-27 16:22 UTC.
+New packages created between 2026-09-27 16:22 UTC and 2026-09-27 17:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-27T16-22-10-014845Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-27T17-19-04-191243Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-27 15:48:44 | [pixlay](https://aur.archlinux.org/packages/pixlay) | 0.1.2-1 | 0 | Native Linux photo collage maker designed for GNOME. |
-| 2026-09-27 15:53:18 | [kmeteo](https://aur.archlinux.org/packages/kmeteo) | 0.1.1-1 | 0 | Forecast application using OpenWeatherMap API built with Python and Qt |
-| 2026-09-27 15:57:51 | [bufusb-cli](https://aur.archlinux.org/packages/bufusb-cli) | 0.2.4-1 | 0 | A fast, safe bootable USB image flasher |
+| 2026-09-27 16:41:39 | [command-code-desktop](https://aur.archlinux.org/packages/command-code-desktop) | 0.1.41-1 | 0 | Desktop app for Command Code, an AI coding agent that learns your coding taste |
+| 2026-09-27 16:49:30 | [openai-chatgpt](https://aur.archlinux.org/packages/openai-chatgpt) | 26.803.81509-3 | 0 | OpenAI's ChatGPT desktop app for Linux (preview) |
+| 2026-09-27 17:03:07 | [tuxguitar-src](https://aur.archlinux.org/packages/tuxguitar-src) | 2.1.0-1 | 0 | Multitrack guitar tablature editor and player |
 
 ## Data source
 
