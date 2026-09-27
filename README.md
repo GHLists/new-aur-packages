@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 10:20 UTC
+## Latest list — 2026-09-27 11:20 UTC
 
-New packages created between 2026-09-27 09:21 UTC and 2026-09-27 10:20 UTC.
+New packages created between 2026-09-27 10:20 UTC and 2026-09-27 11:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-27T10-20-40-937189Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-27T11-20-21-145839Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-27 09:46:28 | [wivrn-client-git](https://aur.archlinux.org/packages/wivrn-client-git) | r2779.6f9e146-1 | 0 | A wireless Monado-based OpenXR runtime for standalone headsets. |
-| 2026-09-27 10:12:54 | [mic-overlay](https://aur.archlinux.org/packages/mic-overlay) | 0.2.2-1 | 0 | Microphone mute status overlay for KDE Plasma Wayland |
+| 2026-09-27 10:37:21 | [gtk-nocsd](https://aur.archlinux.org/packages/gtk-nocsd) | 4.8-1 | 1 | An LD_PRELOAD library to disable CSD in GTK3/4, LibHandy, and LibAdwaita apps. |
 
 ## Data source
 
