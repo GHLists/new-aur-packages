@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 19:20 UTC
+## Latest list — 2026-09-27 20:22 UTC
 
-New packages created between 2026-09-27 18:20 UTC and 2026-09-27 19:20 UTC.
+New packages created between 2026-09-27 19:20 UTC and 2026-09-27 20:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-27T19-20-31-180426Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-27T20-22-23-71896Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-27 18:31:18 | [app-finder](https://aur.archlinux.org/packages/app-finder) | 1.0.0-1 | 0 | Find AUR apps that were tested on a phone-sized screen, and install them, for Q… |
-| 2026-09-27 18:47:21 | [hyprquip-git](https://aur.archlinux.org/packages/hyprquip-git) | 0.1.0.r1.g7c294e3-1 | 0 | hyprland's official splash texts on any shell: desktop overlay, cli, hyprlock,… |
-| 2026-09-27 19:11:58 | [alien](https://aur.archlinux.org/packages/alien) | 8.95.9-1 | 0 | Convert between package formats: deb, rpm, tgz, slp, pkg, lsb, and pacman (.pkg… |
+| 2026-09-27 19:48:33 | [chord](https://aur.archlinux.org/packages/chord) | 0.1.0-1 | 0 | Text editor built with GTK 4, libadwaita and GtkSourceView |
+| 2026-09-27 19:54:12 | [darkubectl-bin](https://aur.archlinux.org/packages/darkubectl-bin) | 0.6.0-1 | 0 | kubectl-like access to the Hamravesh Darkube platform |
 
 ## Data source
 
