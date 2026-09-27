@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 13:19 UTC
+## Latest list — 2026-09-27 14:20 UTC
 
-New packages created between 2026-09-27 12:20 UTC and 2026-09-27 13:19 UTC.
+New packages created between 2026-09-27 13:19 UTC and 2026-09-27 14:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-27T13-19-11-32653Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-27T14-20-58-669026Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-27 12:46:59 | [tag-release](https://aur.archlinux.org/packages/tag-release) | 0.4.0-3 | 0 | Script to automate creation of semantic versioning tags |
-| 2026-09-27 12:58:14 | [acer-wmi-linuwu-dkms-git](https://aur.archlinux.org/packages/acer-wmi-linuwu-dkms-git) | 7.3.0.1.r68.92e9d21… | 0 | Acer WMI laptop extras driver with NitroSense and PredatorSense settings (DKMS) |
-| 2026-09-27 13:00:33 | [aurcache-cli](https://aur.archlinux.org/packages/aurcache-cli) | 0.6.0-1 | 0 | Typed CLI for the AURCache API |
+| 2026-09-27 13:34:55 | [fcitx5-commit-git](https://aur.archlinux.org/packages/fcitx5-commit-git) | r1.ebdf77c-1 | 0 | fcitx5 addon that lets other programs insert text into the focused input field… |
+| 2026-09-27 13:57:26 | [skvirt](https://aur.archlinux.org/packages/skvirt) | 0.1.0-1 | 0 | Touch-driven on-screen keyboard for fcitx5 on KWin (Wayland) |
 
 ## Data source
 
