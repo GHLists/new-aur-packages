@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 18:20 UTC
+## Latest list — 2026-09-27 19:20 UTC
 
-New packages created between 2026-09-27 17:19 UTC and 2026-09-27 18:20 UTC.
+New packages created between 2026-09-27 18:20 UTC and 2026-09-27 19:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-27T18-20-04-77725Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-27T19-20-31-180426Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-27 18:05:31 | [trackmania-forever](https://aur.archlinux.org/packages/trackmania-forever) | 2.11.26-1 | 0 | Retro arcade racing game, standalone edition (United + Nations) |
-| 2026-09-27 18:12:25 | [airwaves](https://aur.archlinux.org/packages/airwaves) | 1.0.0-1 | 0 | Internet radio from radio-browser.info: 50,000 stations by genre, country and l… |
-| 2026-09-27 18:14:06 | [linuxvr-viewshot](https://aur.archlinux.org/packages/linuxvr-viewshot) | 0.4.1-1 | 0 | Take photos in VR with a hand-frame gesture on Linux (WiVRn / Monado) - OpenXR… |
+| 2026-09-27 18:31:18 | [app-finder](https://aur.archlinux.org/packages/app-finder) | 1.0.0-1 | 0 | Find AUR apps that were tested on a phone-sized screen, and install them, for Q… |
+| 2026-09-27 18:47:21 | [hyprquip-git](https://aur.archlinux.org/packages/hyprquip-git) | 0.1.0.r1.g7c294e3-1 | 0 | hyprland's official splash texts on any shell: desktop overlay, cli, hyprlock,… |
+| 2026-09-27 19:11:58 | [alien](https://aur.archlinux.org/packages/alien) | 8.95.9-1 | 0 | Convert between package formats: deb, rpm, tgz, slp, pkg, lsb, and pacman (.pkg… |
 
 ## Data source
 

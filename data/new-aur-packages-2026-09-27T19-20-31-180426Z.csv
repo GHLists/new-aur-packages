@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-09-27T18:31:18Z,app-finder,1.0.0-1,0,"Find AUR apps that were tested on a phone-sized screen, and install them, for Quickshell"
+2026-09-27T18:47:21Z,hyprquip-git,0.1.0.r1.g7c294e3-1,0,"hyprland's official splash texts on any shell: desktop overlay, cli, hyprlock, waybar, fastfetch"
+2026-09-27T19:11:58Z,alien,8.95.9-1,0,"Convert between package formats: deb, rpm, tgz, slp, pkg, lsb, and pacman (.pkg.tar.zst)"
