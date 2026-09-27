@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 17:19 UTC
+## Latest list — 2026-09-27 18:20 UTC
 
-New packages created between 2026-09-27 16:22 UTC and 2026-09-27 17:19 UTC.
+New packages created between 2026-09-27 17:19 UTC and 2026-09-27 18:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-27T17-19-04-191243Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-27T18-20-04-77725Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-27 16:41:39 | [command-code-desktop](https://aur.archlinux.org/packages/command-code-desktop) | 0.1.41-1 | 0 | Desktop app for Command Code, an AI coding agent that learns your coding taste |
-| 2026-09-27 16:49:30 | [openai-chatgpt](https://aur.archlinux.org/packages/openai-chatgpt) | 26.803.81509-3 | 0 | OpenAI's ChatGPT desktop app for Linux (preview) |
-| 2026-09-27 17:03:07 | [tuxguitar-src](https://aur.archlinux.org/packages/tuxguitar-src) | 2.1.0-1 | 0 | Multitrack guitar tablature editor and player |
+| 2026-09-27 18:05:31 | [trackmania-forever](https://aur.archlinux.org/packages/trackmania-forever) | 2.11.26-1 | 0 | Retro arcade racing game, standalone edition (United + Nations) |
+| 2026-09-27 18:12:25 | [airwaves](https://aur.archlinux.org/packages/airwaves) | 1.0.0-1 | 0 | Internet radio from radio-browser.info: 50,000 stations by genre, country and l… |
+| 2026-09-27 18:14:06 | [linuxvr-viewshot](https://aur.archlinux.org/packages/linuxvr-viewshot) | 0.4.1-1 | 0 | Take photos in VR with a hand-frame gesture on Linux (WiVRn / Monado) - OpenXR… |
 
 ## Data source
 
