@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 14:20 UTC
+## Latest list — 2026-09-27 15:22 UTC
 
-New packages created between 2026-09-27 13:19 UTC and 2026-09-27 14:20 UTC.
+New packages created between 2026-09-27 14:20 UTC and 2026-09-27 15:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-27T14-20-58-669026Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-27T15-22-22-14224Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-27 13:34:55 | [fcitx5-commit-git](https://aur.archlinux.org/packages/fcitx5-commit-git) | r1.ebdf77c-1 | 0 | fcitx5 addon that lets other programs insert text into the focused input field… |
-| 2026-09-27 13:57:26 | [skvirt](https://aur.archlinux.org/packages/skvirt) | 0.1.0-1 | 0 | Touch-driven on-screen keyboard for fcitx5 on KWin (Wayland) |
+| 2026-09-27 14:46:40 | [crypto-market](https://aur.archlinux.org/packages/crypto-market) | 1.1.1-1 | 0 | CoinGecko prices, coin pages, a watchlist and a portfolio, for Quickshell |
+| 2026-09-27 14:58:47 | [topowall](https://aur.archlinux.org/packages/topowall) | 0.3.0-1 | 0 | Topographic contour wallpapers from real elevation data, rendered on the GPU |
+| 2026-09-27 15:03:15 | [couch-for-trakt](https://aur.archlinux.org/packages/couch-for-trakt) | 1.1.0-1 | 0 | A movie and TV tracker for Trakt: discover, up next, calendar, watchlist and hi… |
+| 2026-09-27 15:10:34 | [pear-desktop-michei69-bin](https://aur.archlinux.org/packages/pear-desktop-michei69-bin) | 3.12.2-1 | 0 | YouTube Music Desktop App - including custom plugins (michei69's fork) |
+| 2026-09-27 15:12:09 | [transit](https://aur.archlinux.org/packages/transit) | 1.1.0-1 | 0 | Public transport journeys and live departures, worldwide, on Transitous, for Qu… |
 
 ## Data source
 
