@@ -1,0 +1,13 @@
+created_at,package,version,votes,description
+2026-09-28T14:22:15Z,purrr-client-bin,0.1.6-1,0,"Native desktop client for purrr, a cozy self-hosted Discord alternative (prebuilt binary)"
+2026-09-28T14:28:50Z,face-unlock-bin,2.1.0-1,0,"Face ID for Linux: the lock screen, sudo and admin prompts by face, on Plasma, GNOME, Hyprland and Niri (upstream binary)"
+2026-09-28T14:32:45Z,libvirt-iso-kde-linux-bin,202609200254-1,0,Official KDE Linux Testing installation ISO for libvirt
+2026-09-28T14:37:10Z,aspia-host-bin,3.0.19-1,0,"Remote desktop control and file transfer tool (host, official binary)"
+2026-09-28T14:39:55Z,aspia-router-bin,3.0.19-1,0,"Remote desktop control and file transfer tool (router, official binary)"
+2026-09-28T14:42:04Z,aspia-relay-bin,3.0.19-1,0,"Remote desktop control and file transfer tool (relay, official binary)"
+2026-09-28T14:49:55Z,dchess,1.0.0-1,0,"Chess in your terminal: an engine, analysis, puzzles and UCI support"
+2026-09-28T15:06:20Z,x3-compressor-git,2.r29.g8141560-1,0,Experimental dictionary-based data compressor
+2026-09-28T15:07:44Z,mekle-git,0.2.0.r104.g25a4c52…,0,Fast project discovery tool for developers (Git version)
+2026-09-28T15:09:33Z,mekle,0.2.0-1,0,Fast project discovery tool for developers
+2026-09-28T15:09:38Z,mekle-bin,0.2.0-1,0,Fast project discovery tool for developers (prebuilt binary)
+2026-09-28T15:18:03Z,gnome-shell-extension-ufw-switcher,1.0.0-1,0,Toggle the ufw firewall and switch between location profiles (Home/Office/Public) from GNOME Quick Settings
