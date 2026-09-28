@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 02:20 UTC
+## Latest list — 2026-09-28 03:20 UTC
 
-New packages created between 2026-09-28 01:20 UTC and 2026-09-28 02:20 UTC.
+New packages created between 2026-09-28 02:20 UTC and 2026-09-28 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-28T02-20-16-943577Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-28T03-20-55-115942Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 01:50:32 | [dms-shell-plugin-dankmail](https://aur.archlinux.org/packages/dms-shell-plugin-dankmail) | 0.3.6-1 | 0 | Dankmail Unread companion for DankMaterialShell (unread counts and mail triage) |
+| 2026-09-28 02:22:56 | [neo-writing-git](https://aur.archlinux.org/packages/neo-writing-git) | 0.8.4.r1.gac12d84-1 | 0 | A distraction-free word processor for authors |
+| 2026-09-28 02:40:56 | [lcms2-cmake](https://aur.archlinux.org/packages/lcms2-cmake) | 2.19.1-1 | 0 | Little CMS configuration files for CMake |
+| 2026-09-28 02:42:22 | [tifdiff](https://aur.archlinux.org/packages/tifdiff) | 2.19.1-1 | 0 | Utility for comparing TIFF files, part of the lcms2 library |
+| 2026-09-28 02:43:27 | [curl-cmake](https://aur.archlinux.org/packages/curl-cmake) | 8.22.0-1 | 0 | curl configuration files for CMake |
 
 ## Data source
 
