@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-09-28T08:38:03Z,universe-bin,0.0.8-1,0,"Gamepad-first game launcher: a Rust core, a PySide6 UI, games inside gamescope (prebuilt release)"
+2026-09-28T08:38:03Z,universe-desktop-bin,0.0.8-1,0,The Universe game library for mouse and keyboard: a GTK 4 and libadwaita app (prebuilt release)
+2026-09-28T08:39:05Z,cargo-fframes,1.0.1-1,0,Write some Rust. Get video. Enjoy 🥤🍿
+2026-09-28T09:06:34Z,pw-mpris-visualcard-git,r1.c44bdf8-1,0,"Render the currently playing MPRIS track as a PipeWire video node (album art, progress ring, synced lyrics)"
+2026-09-28T09:18:27Z,timetable-git,r126.83885e5-1,0,Plot out your own timetable for the week and organize it. Designed for Pantheon Shell
