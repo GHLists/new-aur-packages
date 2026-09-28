@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 06:20 UTC
+## Latest list — 2026-09-28 07:22 UTC
 
-New packages created between 2026-09-28 05:19 UTC and 2026-09-28 06:20 UTC.
+New packages created between 2026-09-28 06:20 UTC and 2026-09-28 07:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-28T06-20-24-008053Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-28T07-22-15-856436Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 06:08:02 | [omachat](https://aur.archlinux.org/packages/omachat) | 0.2.0-1 | 0 | Native voice, text and screen chat for Omarchy and Linux (client, daemon, CLI a… |
-| 2026-09-28 06:12:48 | [python-nanobind-backend](https://aur.archlinux.org/packages/python-nanobind-backend) | 1.0.0_dev6-1 | 0 | Compiled nanobind backend for extensions built in split mode |
+| 2026-09-28 06:24:53 | [sciverse](https://aur.archlinux.org/packages/sciverse) | 0.14.3-1 | 0 | Sciverse Agent Tools — OpenAI / Anthropic / LangChain compatible tool schema an… |
+| 2026-09-28 06:25:59 | [sofka](https://aur.archlinux.org/packages/sofka) | 0.21.0-1 | 0 | A Kubernetes TUI written in Rust |
+| 2026-09-28 06:56:36 | [codediff-bin](https://aur.archlinux.org/packages/codediff-bin) | 0.1.1-1 | 1 | Fast, robust, accurate, syntax-aware code diffing |
+| 2026-09-28 07:10:07 | [pip-player-bin](https://aur.archlinux.org/packages/pip-player-bin) | 1.2.4-1 | 0 | A simple application to play PiP(Picture-in-Picture) with any links that you li… |
 
 ## Data source
 

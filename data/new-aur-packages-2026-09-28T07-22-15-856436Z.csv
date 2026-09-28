@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-09-28T06:24:53Z,sciverse,0.14.3-1,0,Sciverse Agent Tools — OpenAI / Anthropic / LangChain compatible tool schema and async client for Sciverse retrieval APIs
+2026-09-28T06:25:59Z,sofka,0.21.0-1,0,A Kubernetes TUI written in Rust
+2026-09-28T06:56:36Z,codediff-bin,0.1.1-1,1,"Fast, robust, accurate, syntax-aware code diffing"
+2026-09-28T07:10:07Z,pip-player-bin,1.2.4-1,0,A simple application to play PiP(Picture-in-Picture) with any links that you like.
