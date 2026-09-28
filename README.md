@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 11:23 UTC
+## Latest list — 2026-09-28 12:22 UTC
 
-New packages created between 2026-09-28 10:19 UTC and 2026-09-28 11:23 UTC.
+New packages created between 2026-09-28 11:23 UTC and 2026-09-28 12:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-28T11-23-09-186631Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-28T12-22-16-280458Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 10:35:25 | [ferry-app-bin](https://aur.archlinux.org/packages/ferry-app-bin) | 1.10.0-1 | 0 | Pair with your devices and share files and the clipboard over the local network |
-| 2026-09-28 11:02:36 | [pen-dev-bin](https://aur.archlinux.org/packages/pen-dev-bin) | 1.2.14-1 | 0 | Pen: AI-powered design canvas (formerly Pencil) (bin) |
-| 2026-09-28 11:02:56 | [pen-dev-appimage](https://aur.archlinux.org/packages/pen-dev-appimage) | 1.2.14-1 | 0 | Pen: AI-powered design canvas (formerly Pencil) (appimage) |
+| 2026-09-28 11:30:44 | [pixez-git](https://aur.archlinux.org/packages/pixez-git) | 0.9.109.r35.g126bd5… | 0 | Pixiv third-party client written in Flutter |
+| 2026-09-28 12:11:41 | [matedit-bin](https://aur.archlinux.org/packages/matedit-bin) | 20260928-1 | 0 | Material editor for PrimeXT |
+| 2026-09-28 12:11:54 | [matedit-git](https://aur.archlinux.org/packages/matedit-git) | r1.g0000000-1 | 0 | Material editor for PrimeXT (git version) |
+| 2026-09-28 12:12:07 | [zay-git](https://aur.archlinux.org/packages/zay-git) | 0.r3.g4bc43a1-1 | 0 | Pacman with native AUR awareness |
 
 ## Data source
 
