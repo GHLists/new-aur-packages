@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 16:19 UTC
+## Latest list — 2026-09-28 17:21 UTC
 
-New packages created between 2026-09-28 15:21 UTC and 2026-09-28 16:19 UTC.
+New packages created between 2026-09-28 16:19 UTC and 2026-09-28 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-28T16-19-27-412727Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-28T17-21-20-32024Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 15:29:01 | [s32-design-studio](https://aur.archlinux.org/packages/s32-design-studio) | 3.6.10-1 | 0 | IDE for editing, compiling, debugging and flashing NXP S32 designs (Kinetis, LP… |
-| 2026-09-28 16:03:01 | [leht-git](https://aur.archlinux.org/packages/leht-git) | 0.1.0.r98.f337c02-1 | 0 | Fast, desktop-environment-neutral PDF toolkit for Linux |
+| 2026-09-28 16:30:56 | [ibgateway-stable](https://aur.archlinux.org/packages/ibgateway-stable) | 10.50.1e-1 | 0 | InteractiveBrokers Gateway - Stable |
+| 2026-09-28 16:31:02 | [textdichter-git](https://aur.archlinux.org/packages/textdichter-git) | 1.0.0.r1.g9255eea-1 | 0 | A light, simple and clean Markdown editor for the Linux desktop |
+| 2026-09-28 16:46:34 | [laneway-git](https://aur.archlinux.org/packages/laneway-git) | r489.2f2af5d-1 | 0 | A terminal board for Jira |
+| 2026-09-28 16:48:26 | [fluxer-bin-domainchoose](https://aur.archlinux.org/packages/fluxer-bin-domainchoose) | 2026.927.142044-3 | 0 | Fluxer Desktop Application (gives you the ability to change the domain) |
+| 2026-09-28 17:01:32 | [magnetowid-bin](https://aur.archlinux.org/packages/magnetowid-bin) | 0.2.1-1 | 0 | Downloads movies and series from video-on-demand sites for Sonarr and Radarr. |
 
 ## Data source
 
