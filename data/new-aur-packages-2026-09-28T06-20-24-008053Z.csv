@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-09-28T06:08:02Z,omachat,0.2.0-1,0,"Native voice, text and screen chat for Omarchy and Linux (client, daemon, CLI and self-hostable server)"
+2026-09-28T06:12:48Z,python-nanobind-backend,1.0.0_dev6-1,0,Compiled nanobind backend for extensions built in split mode
