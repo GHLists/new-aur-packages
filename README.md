@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 12:22 UTC
+## Latest list — 2026-09-28 13:21 UTC
 
-New packages created between 2026-09-28 11:23 UTC and 2026-09-28 12:22 UTC.
+New packages created between 2026-09-28 12:22 UTC and 2026-09-28 13:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-28T12-22-16-280458Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-28T13-21-56-330227Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 11:30:44 | [pixez-git](https://aur.archlinux.org/packages/pixez-git) | 0.9.109.r35.g126bd5… | 0 | Pixiv third-party client written in Flutter |
-| 2026-09-28 12:11:41 | [matedit-bin](https://aur.archlinux.org/packages/matedit-bin) | 20260928-1 | 0 | Material editor for PrimeXT |
-| 2026-09-28 12:11:54 | [matedit-git](https://aur.archlinux.org/packages/matedit-git) | r1.g0000000-1 | 0 | Material editor for PrimeXT (git version) |
-| 2026-09-28 12:12:07 | [zay-git](https://aur.archlinux.org/packages/zay-git) | 0.r3.g4bc43a1-1 | 0 | Pacman with native AUR awareness |
+| 2026-09-28 12:28:35 | [tincan](https://aur.archlinux.org/packages/tincan) | 0.3.2-1 | 0 | Serverless peer-to-peer voice and text chat for your terminal |
+| 2026-09-28 12:38:36 | [essentials-unpackd-git](https://aur.archlinux.org/packages/essentials-unpackd-git) | 3.0.0.r111.g9463b51… | 0 | Tool for unpacking and repacking Pokémon Essentials data files |
+| 2026-09-28 12:43:34 | [caido-mcp-server](https://aur.archlinux.org/packages/caido-mcp-server) | 4.3.0-2 | 0 | MCP server for interacting with the Caido web proxy |
+| 2026-09-28 12:56:37 | [bioma-shell](https://aur.archlinux.org/packages/bioma-shell) | 1.0.0beta2-1 | 0 | A desktop shell for niri, built with Quickshell: living surfaces rather than a… |
 
 ## Data source
 

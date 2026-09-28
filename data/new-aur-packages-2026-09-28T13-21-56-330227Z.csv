@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-09-28T12:28:35Z,tincan,0.3.2-1,0,Serverless peer-to-peer voice and text chat for your terminal
+2026-09-28T12:38:36Z,essentials-unpackd-git,3.0.0.r111.g9463b51…,0,Tool for unpacking and repacking Pokémon Essentials data files
+2026-09-28T12:43:34Z,caido-mcp-server,4.3.0-2,0,MCP server for interacting with the Caido web proxy
+2026-09-28T12:56:37Z,bioma-shell,1.0.0beta2-1,0,"A desktop shell for niri, built with Quickshell: living surfaces rather than a bar"
