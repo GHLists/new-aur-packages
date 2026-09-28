@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 22:20 UTC
+## Latest list — 2026-09-28 23:20 UTC
 
-New packages created between 2026-09-28 21:19 UTC and 2026-09-28 22:20 UTC.
+New packages created between 2026-09-28 22:20 UTC and 2026-09-28 23:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-28T22-20-32-843514Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-28T23-20-33-408583Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 21:27:36 | [chill](https://aur.archlinux.org/packages/chill) | 1.2.0-1 | 0 | nice and ionice as a single utility |
-| 2026-09-28 21:51:01 | [chill1](https://aur.archlinux.org/packages/chill1) | 0.0.0-1 | 0 | Run a command with disk I/O bandwidth limits applied to all block devices |
-| 2026-09-28 22:06:01 | [cache-detective-bin](https://aur.archlinux.org/packages/cache-detective-bin) | 0.0.1-1 | 0 | HTTP cache & CDN behavior analysis CLI - cacheability, live cache state, CDN fi… |
+| 2026-09-28 22:59:06 | [moarchy-atlas](https://aur.archlinux.org/packages/moarchy-atlas) | 0.1.0-1 | 0 | Flags, capitals and facts for every country, and a flag quiz, for Quickshell |
+| 2026-09-28 23:01:33 | [moarchy-trivia](https://aur.archlinux.org/packages/moarchy-trivia) | 0.1.0-1 | 0 | Multiple-choice quizzes by category and difficulty, from Open Trivia DB, for Qu… |
+| 2026-09-28 23:03:37 | [old-launcher-git](https://aur.archlinux.org/packages/old-launcher-git) | r13.d909de7-1 | 0 | Addon manager for World of Warcraft 3.3.5a clients |
 
 ## Data source
 
