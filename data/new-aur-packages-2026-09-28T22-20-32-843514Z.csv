@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-09-28T21:27:36Z,chill,1.2.0-1,0,nice and ionice as a single utility
+2026-09-28T21:51:01Z,chill1,0.0.0-1,0,Run a command with disk I/O bandwidth limits applied to all block devices
+2026-09-28T22:06:01Z,cache-detective-bin,0.0.1-1,0,"HTTP cache & CDN behavior analysis CLI - cacheability, live cache state, CDN fingerprinting, and cache poisoning/deception checks."
