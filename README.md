@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 13:21 UTC
+## Latest list — 2026-09-28 14:22 UTC
 
-New packages created between 2026-09-28 12:22 UTC and 2026-09-28 13:21 UTC.
+New packages created between 2026-09-28 13:21 UTC and 2026-09-28 14:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-28T13-21-56-330227Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-28T14-22-01-84187Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 12:28:35 | [tincan](https://aur.archlinux.org/packages/tincan) | 0.3.2-1 | 0 | Serverless peer-to-peer voice and text chat for your terminal |
-| 2026-09-28 12:38:36 | [essentials-unpackd-git](https://aur.archlinux.org/packages/essentials-unpackd-git) | 3.0.0.r111.g9463b51… | 0 | Tool for unpacking and repacking Pokémon Essentials data files |
-| 2026-09-28 12:43:34 | [caido-mcp-server](https://aur.archlinux.org/packages/caido-mcp-server) | 4.3.0-2 | 0 | MCP server for interacting with the Caido web proxy |
-| 2026-09-28 12:56:37 | [bioma-shell](https://aur.archlinux.org/packages/bioma-shell) | 1.0.0beta2-1 | 0 | A desktop shell for niri, built with Quickshell: living surfaces rather than a… |
+| 2026-09-28 13:25:36 | [quiver-launcher-bin](https://aur.archlinux.org/packages/quiver-launcher-bin) | 3.4.5-1 | 0 | Launcher for downloading, installing, and running apps from GitHub and GitLab r… |
+| 2026-09-28 13:29:53 | [moarchy-video-library](https://aur.archlinux.org/packages/moarchy-video-library) | 0.1.0-1 | 0 | LBRY's videos through Odysee: browse, search, follow channels, watch |
 
 ## Data source
 
