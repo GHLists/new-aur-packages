@@ -1,0 +1,16 @@
+created_at,package,version,votes,description
+2026-09-28T09:46:46Z,aks-desktop-bin,0.10.0-1,0,Application-focused desktop experience for Azure Kubernetes Service
+2026-09-28T09:56:48Z,moarchy-calculator,0.2.0-1,0,"The four operations, a tape you can tap, and arithmetic in tens, for Quickshell"
+2026-09-28T09:57:24Z,moarchy-calendar,0.2.0-1,0,"A calendar in one file: the month, the day under it, and what is next, for Quickshell"
+2026-09-28T09:58:47Z,moarchy-clock,0.2.0-1,0,"The time, an alarm that says when it is late, a stopwatch and a timer, for Quickshell"
+2026-09-28T09:59:30Z,moarchy-contacts,0.2.0-1,0,"A name, a number, an email and a note, in one file, for Quickshell"
+2026-09-28T10:00:17Z,moarchy-editor,0.2.0-1,0,"One text file at a time, and an $EDITOR that waits, for Quickshell"
+2026-09-28T10:00:55Z,moarchy-files,0.2.0-1,0,"A file manager, one folder at a time, with the trash every other app reads, for Quickshell"
+2026-09-28T10:02:09Z,moarchy-food,0.2.0-1,0,"Point the camera at a barcode: nutrition facts from Open Food Facts, for Quickshell"
+2026-09-28T10:04:16Z,moarchy-launches,0.2.0-1,0,"The next twenty rocket launches, and the ones you star, for Quickshell"
+2026-09-28T10:04:55Z,moarchy-mail,0.2.0-1,0,"One email account over IMAP and SMTP, no HTML drawn, for Quickshell"
+2026-09-28T10:07:23Z,manis-pocket-bin,0.1.0.r1134.g65c50a…,0,Wayland clipboard sync client for Manis Pocket
+2026-09-28T10:09:26Z,untis-git,4.3.2.r31.g48ce032-1,0,GTK4 + LibAdwaita client for WebUntis (git)
+2026-09-28T10:10:14Z,moarchy-weather,0.2.0-1,0,"Now, the next day and the week, from Open-Meteo, for Quickshell"
+2026-09-28T10:10:16Z,fxrate,0.5.2-1,0,Offline currency conversion CLI backed by Frankfurter or exchange-api rates
+2026-09-28T10:10:41Z,untis,4.3.2-1,0,GTK4 + LibAdwaita client for WebUntis
