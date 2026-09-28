@@ -12,16 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 18:19 UTC
+## Latest list — 2026-09-28 19:21 UTC
 
-New packages created between 2026-09-28 17:21 UTC and 2026-09-28 18:19 UTC.
+New packages created between 2026-09-28 18:19 UTC and 2026-09-28 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-28T18-19-39-423107Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-28T19-21-20-677512Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 17:36:38 | [laneway](https://aur.archlinux.org/packages/laneway) | 0.1.0-1 | 0 | A terminal board for Jira |
-| 2026-09-28 17:50:05 | [happy-photon-bin](https://aur.archlinux.org/packages/happy-photon-bin) | 0.2.8-1 | 1 | Happy Photon is a RAW photos editor, with speed in mind. |
+| 2026-09-28 18:24:07 | [hyprtilt](https://aur.archlinux.org/packages/hyprtilt) | 0.1.0-1 | 0 | TUI and CLI for Hyprland monitor layout that edits your Lua or hyprlang config… |
+| 2026-09-28 18:24:15 | [hyprtilt-git](https://aur.archlinux.org/packages/hyprtilt-git) | 0.1.0.r0.g9e57335-1 | 0 | TUI and CLI for Hyprland monitor layout that edits your Lua or hyprlang config… |
+| 2026-09-28 18:42:32 | [lundukecity-git](https://aur.archlinux.org/packages/lundukecity-git) | r1.b5272fb-1 | 1 | A windowed city-building game (Micropolis engine) for the Lunduke Computer Oper… |
+| 2026-09-28 18:44:33 | [terplus](https://aur.archlinux.org/packages/terplus) | 1.0.0-2 | 0 | Fork of Terminus with additional glyphs. |
+| 2026-09-28 18:46:34 | [bitterasm](https://aur.archlinux.org/packages/bitterasm) | 0.3.0.alpha-1 | 0 | A metalanguage for constructing assembly languages |
+| 2026-09-28 19:07:05 | [yazi-meta](https://aur.archlinux.org/packages/yazi-meta) | 1.0.0-1 | 0 | Meta package with yazi and its companion tools |
 
 ## Data source
 

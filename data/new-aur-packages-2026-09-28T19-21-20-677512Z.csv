@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-09-28T18:24:07Z,hyprtilt,0.1.0-1,0,TUI and CLI for Hyprland monitor layout that edits your Lua or hyprlang config in place
+2026-09-28T18:24:15Z,hyprtilt-git,0.1.0.r0.g9e57335-1,0,TUI and CLI for Hyprland monitor layout that edits your Lua or hyprlang config in place
+2026-09-28T18:42:32Z,lundukecity-git,r1.b5272fb-1,1,A windowed city-building game (Micropolis engine) for the Lunduke Computer Operating System (LCOS)
+2026-09-28T18:44:33Z,terplus,1.0.0-2,0,Fork of Terminus with additional glyphs.
+2026-09-28T18:46:34Z,bitterasm,0.3.0.alpha-1,0,A metalanguage for constructing assembly languages
+2026-09-28T19:07:05Z,yazi-meta,1.0.0-1,0,Meta package with yazi and its companion tools
