@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 07:22 UTC
+## Latest list — 2026-09-28 08:21 UTC
 
-New packages created between 2026-09-28 06:20 UTC and 2026-09-28 07:22 UTC.
+New packages created between 2026-09-28 07:22 UTC and 2026-09-28 08:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-28T07-22-15-856436Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-28T08-21-06-809306Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 06:24:53 | [sciverse](https://aur.archlinux.org/packages/sciverse) | 0.14.3-1 | 0 | Sciverse Agent Tools — OpenAI / Anthropic / LangChain compatible tool schema an… |
-| 2026-09-28 06:25:59 | [sofka](https://aur.archlinux.org/packages/sofka) | 0.21.0-1 | 0 | A Kubernetes TUI written in Rust |
-| 2026-09-28 06:56:36 | [codediff-bin](https://aur.archlinux.org/packages/codediff-bin) | 0.1.1-1 | 1 | Fast, robust, accurate, syntax-aware code diffing |
-| 2026-09-28 07:10:07 | [pip-player-bin](https://aur.archlinux.org/packages/pip-player-bin) | 1.2.4-1 | 0 | A simple application to play PiP(Picture-in-Picture) with any links that you li… |
+| 2026-09-28 07:43:52 | [desksaw](https://aur.archlinux.org/packages/desksaw) | 0.3.0-2 | 0 | An interactive Desktop Pet from Casualties:Unknown |
+| 2026-09-28 08:09:28 | [universe-git](https://aur.archlinux.org/packages/universe-git) | 0.0.6.r160.g030024d… | 0 | Gamepad-first game launcher: a Rust core, a PySide6 UI, games inside gamescope… |
+| 2026-09-28 08:09:28 | [universe-desktop-git](https://aur.archlinux.org/packages/universe-desktop-git) | 0.0.6.r160.g030024d… | 0 | The Universe game library for mouse and keyboard: a GTK 4 and libadwaita app (l… |
+| 2026-09-28 08:09:42 | [universe](https://aur.archlinux.org/packages/universe) | 0.0.7-1 | 0 | Gamepad-first game launcher: a Rust core, a PySide6 UI, games inside gamescope |
+| 2026-09-28 08:09:42 | [universe-desktop](https://aur.archlinux.org/packages/universe-desktop) | 0.0.7-1 | 0 | The Universe game library for mouse and keyboard: a GTK 4 and libadwaita app |
+| 2026-09-28 08:14:41 | [lunar](https://aur.archlinux.org/packages/lunar) | 0.1.0-1 | 0 | Chinese lunisolar calendar CLI: a day profile, month and year grids, and a 八字 c… |
 
 ## Data source
 
