@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 21:21 UTC
+## Latest list — 2026-09-28 02:20 UTC
 
-New packages created between 2026-09-27 20:22 UTC and 2026-09-27 21:21 UTC.
+New packages created between 2026-09-28 01:20 UTC and 2026-09-28 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-27T21-21-41-658454Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-28T02-20-16-943577Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-27 20:30:49 | [libraw-cmake](https://aur.archlinux.org/packages/libraw-cmake) | r63.eb98e43-2 | 0 | LibRaw configuration files for CMake |
-| 2026-09-27 20:37:07 | [aspia-client-bin](https://aur.archlinux.org/packages/aspia-client-bin) | 3.0.18-1 | 0 | Remote desktop control and file transfer tool (client, official binary) |
-| 2026-09-27 20:57:06 | [tangent](https://aur.archlinux.org/packages/tangent) | 0.1.0-1 | 0 | GPU-rendered terminal for GTK 4 and libadwaita |
+| 2026-09-28 01:50:32 | [dms-shell-plugin-dankmail](https://aur.archlinux.org/packages/dms-shell-plugin-dankmail) | 0.3.6-1 | 0 | Dankmail Unread companion for DankMaterialShell (unread counts and mail triage) |
 
 ## Data source
 
