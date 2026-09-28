@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-09-28T19:22:56Z,brmgen,0.4.0-1,0,Generate editable brModelo conceptual and logical models from YAML or JSON
+2026-09-28T19:25:10Z,pawmmit-git,0.1.2.r90.g583a748b…,0,"Pawmmit is a fast, native Git client focused on performance, usability and safe history handling"
+2026-09-28T19:27:44Z,mercurygram-desktop-git,v7.2.10.1.beta.r0.g…,0,Privacy-focused Telegram Desktop fork
+2026-09-28T20:01:24Z,ewcalc-git,1.2.0.r3.g38c3caa-1,0,"EW engineering calculator covering antenna analysis, RF propagation, link budgets, receiver performance, jamming analysis, emitter location, radar (range equation, detection statistics, Doppler & resolution), and spread-spectrum communications"

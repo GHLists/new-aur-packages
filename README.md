@@ -12,20 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 19:21 UTC
+## Latest list — 2026-09-28 20:20 UTC
 
-New packages created between 2026-09-28 18:19 UTC and 2026-09-28 19:21 UTC.
+New packages created between 2026-09-28 19:21 UTC and 2026-09-28 20:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-28T19-21-20-677512Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-28T20-20-57-313858Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 18:24:07 | [hyprtilt](https://aur.archlinux.org/packages/hyprtilt) | 0.1.0-1 | 0 | TUI and CLI for Hyprland monitor layout that edits your Lua or hyprlang config… |
-| 2026-09-28 18:24:15 | [hyprtilt-git](https://aur.archlinux.org/packages/hyprtilt-git) | 0.1.0.r0.g9e57335-1 | 0 | TUI and CLI for Hyprland monitor layout that edits your Lua or hyprlang config… |
-| 2026-09-28 18:42:32 | [lundukecity-git](https://aur.archlinux.org/packages/lundukecity-git) | r1.b5272fb-1 | 1 | A windowed city-building game (Micropolis engine) for the Lunduke Computer Oper… |
-| 2026-09-28 18:44:33 | [terplus](https://aur.archlinux.org/packages/terplus) | 1.0.0-2 | 0 | Fork of Terminus with additional glyphs. |
-| 2026-09-28 18:46:34 | [bitterasm](https://aur.archlinux.org/packages/bitterasm) | 0.3.0.alpha-1 | 0 | A metalanguage for constructing assembly languages |
-| 2026-09-28 19:07:05 | [yazi-meta](https://aur.archlinux.org/packages/yazi-meta) | 1.0.0-1 | 0 | Meta package with yazi and its companion tools |
+| 2026-09-28 19:22:56 | [brmgen](https://aur.archlinux.org/packages/brmgen) | 0.4.0-1 | 0 | Generate editable brModelo conceptual and logical models from YAML or JSON |
+| 2026-09-28 19:25:10 | [pawmmit-git](https://aur.archlinux.org/packages/pawmmit-git) | 0.1.2.r90.g583a748b… | 0 | Pawmmit is a fast, native Git client focused on performance, usability and safe… |
+| 2026-09-28 19:27:44 | [mercurygram-desktop-git](https://aur.archlinux.org/packages/mercurygram-desktop-git) | v7.2.10.1.beta.r0.g… | 0 | Privacy-focused Telegram Desktop fork |
+| 2026-09-28 20:01:24 | [ewcalc-git](https://aur.archlinux.org/packages/ewcalc-git) | 1.2.0.r3.g38c3caa-1 | 0 | EW engineering calculator covering antenna analysis, RF propagation, link budge… |
 
 ## Data source
 
