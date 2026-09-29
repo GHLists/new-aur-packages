@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 01:22 UTC
+## Latest list — 2026-09-29 02:19 UTC
 
-New packages created between 2026-09-29 00:19 UTC and 2026-09-29 01:22 UTC.
+New packages created between 2026-09-29 01:22 UTC and 2026-09-29 02:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T01-22-21-498669Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T02-19-58-843669Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 00:20:38 | [wfweb-appimage](https://aur.archlinux.org/packages/wfweb-appimage) | 0.9.1-1 | 0 | Headless wfview fork: control Icom transceivers from a web browser (AppImage re… |
-| 2026-09-29 00:44:46 | [keeenv](https://aur.archlinux.org/packages/keeenv) | 0.6.0-1 | 0 | Set local environment variables from a KeePass database |
+| 2026-09-29 02:10:12 | [perl-text-visualwidth](https://aur.archlinux.org/packages/perl-text-visualwidth) | 0.02-1 | 0 | Perl extension for trimming text by the number of the columns of terminals and… |
 
 ## Data source
 
