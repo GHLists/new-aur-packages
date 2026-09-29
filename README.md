@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 21:22 UTC
+## Latest list — 2026-09-29 22:21 UTC
 
-New packages created between 2026-09-29 20:21 UTC and 2026-09-29 21:22 UTC.
+New packages created between 2026-09-29 21:22 UTC and 2026-09-29 22:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T21-22-49-685118Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T22-21-27-809426Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 20:48:38 | [scip-ipopt](https://aur.archlinux.org/packages/scip-ipopt) | 10.1.0-1 | 0 | Solving Constraint Integer Programs |
+| 2026-09-29 21:57:41 | [netkeep](https://aur.archlinux.org/packages/netkeep) | 0.1.0-1 | 0 | Linux desktop network flow authorization (daemon, CLI, GPUI tray) |
+| 2026-09-29 21:57:57 | [netkeep-bin](https://aur.archlinux.org/packages/netkeep-bin) | 0.1.0-1 | 0 | Linux desktop network flow authorization (daemon, CLI, GPUI tray) — prebuilt |
 
 ## Data source
 
