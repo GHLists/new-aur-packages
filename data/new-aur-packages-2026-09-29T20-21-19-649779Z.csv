@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-09-29T19:27:34Z,smc-bridge-hrdctl,0.3.0-1,0,smc-bridge plugin and CLI for Ham Radio Deluxe's native TCP IP Server
+2026-09-29T19:32:53Z,meteo-gtk4,1.0.0-1,1,Forecast application using OpenWeatherMap API built with Vala and Gtk
+2026-09-29T19:44:57Z,smash,1.0.0-1,0,Smash through to find duplicate files super fast by slicing files intelligently
