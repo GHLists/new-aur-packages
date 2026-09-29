@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 18:22 UTC
+## Latest list — 2026-09-29 19:20 UTC
 
-New packages created between 2026-09-29 17:19 UTC and 2026-09-29 18:22 UTC.
+New packages created between 2026-09-29 18:22 UTC and 2026-09-29 19:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T18-22-13-807058Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T19-20-23-256068Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 17:27:28 | [spendo-bin](https://aur.archlinux.org/packages/spendo-bin) | 0.1.0-1 | 0 | Local-first personal finance manager |
-| 2026-09-29 18:07:07 | [mingw-w64-soplex](https://aur.archlinux.org/packages/mingw-w64-soplex) | 8.1.0-1 | 0 | Sequential object-oriented simPlex (mingw-w64) |
-| 2026-09-29 18:07:23 | [mingw-w64-bliss](https://aur.archlinux.org/packages/mingw-w64-bliss) | 0.77-1 | 0 | A library for computing automorphism groups and canonical forms of graphs (ming… |
-| 2026-09-29 18:07:33 | [mingw-w64-papilo](https://aur.archlinux.org/packages/mingw-w64-papilo) | 3.0.2-1 | 0 | Parallel Presolve for Integer and Linear Optimization (mingw-w64) |
-| 2026-09-29 18:08:46 | [rayfish](https://aur.archlinux.org/packages/rayfish) | 0.5.2-1 | 0 | P2P mesh VPN powered by iroh |
+| 2026-09-29 18:24:40 | [scrambles-viewer-bin](https://aur.archlinux.org/packages/scrambles-viewer-bin) | 0.1.0-1 | 0 | View WCA scramble PDFs at a competition |
+| 2026-09-29 18:28:54 | [mingw-w64-scip](https://aur.archlinux.org/packages/mingw-w64-scip) | 10.1.0-1 | 0 | Solving Constraint Integer Programs (mingw-w64) |
 
 ## Data source
 
