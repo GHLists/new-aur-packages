@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-09-29T13:22:20Z,jpegli-tools-git,0.12.0.r2989.g031a0…,0,Improved JPEG encoder and decoder command-line tools (cjpegli and djpegli)
+2026-09-29T14:07:33Z,python-alpheon-git,r5.919d783-1,0,Remembers why your project is the way it is: drafts a reviewable HANDOFF.md from your git diff
+2026-09-29T14:10:31Z,zplit,0.2.2-1,0,"Lightweight terminal multiplexer written in Zig, a single static client/server binary"
