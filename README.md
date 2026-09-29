@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 17:19 UTC
+## Latest list — 2026-09-29 18:22 UTC
 
-New packages created between 2026-09-29 16:22 UTC and 2026-09-29 17:19 UTC.
+New packages created between 2026-09-29 17:19 UTC and 2026-09-29 18:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T17-19-14-407973Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T18-22-13-807058Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 16:44:29 | [espboot](https://aur.archlinux.org/packages/espboot) | 0.1.0-1 | 1 | fastboot-style command line front end for esptool |
-| 2026-09-29 17:05:42 | [yatl](https://aur.archlinux.org/packages/yatl) | 0.5.0-1 | 0 | Yet Another Task List - a minimal, file-based task tracker |
-| 2026-09-29 17:13:43 | [calibraw](https://aur.archlinux.org/packages/calibraw) | 1.1.1-1 | 0 | CalibRaw is a fast, non-destructive, GPU-accelerated RAW photo editor |
+| 2026-09-29 17:27:28 | [spendo-bin](https://aur.archlinux.org/packages/spendo-bin) | 0.1.0-1 | 0 | Local-first personal finance manager |
+| 2026-09-29 18:07:07 | [mingw-w64-soplex](https://aur.archlinux.org/packages/mingw-w64-soplex) | 8.1.0-1 | 0 | Sequential object-oriented simPlex (mingw-w64) |
+| 2026-09-29 18:07:23 | [mingw-w64-bliss](https://aur.archlinux.org/packages/mingw-w64-bliss) | 0.77-1 | 0 | A library for computing automorphism groups and canonical forms of graphs (ming… |
+| 2026-09-29 18:07:33 | [mingw-w64-papilo](https://aur.archlinux.org/packages/mingw-w64-papilo) | 3.0.2-1 | 0 | Parallel Presolve for Integer and Linear Optimization (mingw-w64) |
+| 2026-09-29 18:08:46 | [rayfish](https://aur.archlinux.org/packages/rayfish) | 0.5.2-1 | 0 | P2P mesh VPN powered by iroh |
 
 ## Data source
 
