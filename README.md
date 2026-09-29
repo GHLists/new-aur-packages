@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 12:22 UTC
+## Latest list — 2026-09-29 13:22 UTC
 
-New packages created between 2026-09-29 11:21 UTC and 2026-09-29 12:22 UTC.
+New packages created between 2026-09-29 12:22 UTC and 2026-09-29 13:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T12-22-46-95323Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T13-22-19-379561Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 11:26:28 | [fsearch-bin](https://aur.archlinux.org/packages/fsearch-bin) | 0.3.1-2 | 0 | A fast graphical file search utility |
-| 2026-09-29 11:42:56 | [eosctl](https://aur.archlinux.org/packages/eosctl) | 0.12.1-1 | 0 | Software for managing EOS Cloud. |
+| 2026-09-29 13:17:28 | [oceanus-bin](https://aur.archlinux.org/packages/oceanus-bin) | 1.3.7-1 | 0 | 一个 Flutter 网易云音乐客户端 |
 
 ## Data source
 
