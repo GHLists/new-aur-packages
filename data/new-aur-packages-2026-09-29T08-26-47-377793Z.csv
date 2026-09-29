@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-09-29T08:17:43Z,easycliproxyapi-bin,0.3.11-1,0,Cross-platform GUI desktop management client for CLIProxyAPI (prebuilt)
+2026-09-29T08:17:44Z,xlsxtomysql,2.2.0-1,0,Excel to MySQL: convert .xlsx/.xls spreadsheets into CREATE TABLE + INSERT statements (zero-dependency single-file Rust CLI)

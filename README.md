@@ -12,20 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 05:21 UTC
+## Latest list — 2026-09-29 08:26 UTC
 
-New packages created between 2026-09-29 04:19 UTC and 2026-09-29 05:21 UTC.
+New packages created between 2026-09-29 07:20 UTC and 2026-09-29 08:26 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T05-21-35-958768Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T08-26-47-377793Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 04:44:57 | [satelite-proxy-bin](https://aur.archlinux.org/packages/satelite-proxy-bin) | 1.0.45-1 | 0 | Lightweight sing-box / Xray / mihomo desktop client with clash subscription imp… |
-| 2026-09-29 04:52:14 | [everythingx-bin](https://aur.archlinux.org/packages/everythingx-bin) | 0.2.18-1 | 1 | A blazing fast file name search tool |
-| 2026-09-29 05:00:12 | [python-askr](https://aur.archlinux.org/packages/python-askr) | 0.2.0-1 | 1 | Simple, validated input prompts for the terminal |
-| 2026-09-29 05:14:50 | [bettbox-pre](https://aur.archlinux.org/packages/bettbox-pre) | 1.19.4pre1-1 | 0 | A multi-platform proxy client powered by the Mihomo (Clash Meta) core, refactor… |
-| 2026-09-29 05:15:04 | [bettbox-compatible-pre](https://aur.archlinux.org/packages/bettbox-compatible-pre) | 1.19.4pre1-1 | 0 | A multi-platform proxy client powered by the Mihomo (Clash Meta) core, refactor… |
-| 2026-09-29 05:15:18 | [bettbox-compatible-pre-bin](https://aur.archlinux.org/packages/bettbox-compatible-pre-bin) | 1.19.4pre1-1 | 0 | A multi-platform proxy client powered by the Mihomo (Clash Meta) core, refactor… |
+| 2026-09-29 08:17:43 | [easycliproxyapi-bin](https://aur.archlinux.org/packages/easycliproxyapi-bin) | 0.3.11-1 | 0 | Cross-platform GUI desktop management client for CLIProxyAPI (prebuilt) |
+| 2026-09-29 08:17:44 | [xlsxtomysql](https://aur.archlinux.org/packages/xlsxtomysql) | 2.2.0-1 | 0 | Excel to MySQL: convert .xlsx/.xls spreadsheets into CREATE TABLE + INSERT stat… |
 
 ## Data source
 
