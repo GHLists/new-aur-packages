@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-09-29T04:44:57Z,satelite-proxy-bin,1.0.45-1,0,"Lightweight sing-box / Xray / mihomo desktop client with clash subscription import, rule-based routing, system proxy and TUN"
+2026-09-29T04:52:14Z,everythingx-bin,0.2.18-1,1,A blazing fast file name search tool
+2026-09-29T05:00:12Z,python-askr,0.2.0-1,1,"Simple, validated input prompts for the terminal"
+2026-09-29T05:14:50Z,bettbox-pre,1.19.4pre1-1,0,"A multi-platform proxy client powered by the Mihomo (Clash Meta) core, refactored based on early versions of FlClash."
+2026-09-29T05:15:04Z,bettbox-compatible-pre,1.19.4pre1-1,0,"A multi-platform proxy client powered by the Mihomo (Clash Meta) core, refactored based on early versions of FlClash. (Build with GOAMD64=v1)"
+2026-09-29T05:15:18Z,bettbox-compatible-pre-bin,1.19.4pre1-1,0,"A multi-platform proxy client powered by the Mihomo (Clash Meta) core, refactored based on early versions of FlClash. (Build with GOAMD64=v1)"

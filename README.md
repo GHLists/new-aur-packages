@@ -12,15 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 04:19 UTC
+## Latest list — 2026-09-29 05:21 UTC
 
-New packages created between 2026-09-29 03:21 UTC and 2026-09-29 04:19 UTC.
+New packages created between 2026-09-29 04:19 UTC and 2026-09-29 05:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T04-19-50-267755Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T05-21-35-958768Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 04:12:44 | [audax-data-manager-bin](https://aur.archlinux.org/packages/audax-data-manager-bin) | 1.6-1 | 0 | A free, open-source database client and administration tool for PostgreSQL, MyS… |
+| 2026-09-29 04:44:57 | [satelite-proxy-bin](https://aur.archlinux.org/packages/satelite-proxy-bin) | 1.0.45-1 | 0 | Lightweight sing-box / Xray / mihomo desktop client with clash subscription imp… |
+| 2026-09-29 04:52:14 | [everythingx-bin](https://aur.archlinux.org/packages/everythingx-bin) | 0.2.18-1 | 1 | A blazing fast file name search tool |
+| 2026-09-29 05:00:12 | [python-askr](https://aur.archlinux.org/packages/python-askr) | 0.2.0-1 | 1 | Simple, validated input prompts for the terminal |
+| 2026-09-29 05:14:50 | [bettbox-pre](https://aur.archlinux.org/packages/bettbox-pre) | 1.19.4pre1-1 | 0 | A multi-platform proxy client powered by the Mihomo (Clash Meta) core, refactor… |
+| 2026-09-29 05:15:04 | [bettbox-compatible-pre](https://aur.archlinux.org/packages/bettbox-compatible-pre) | 1.19.4pre1-1 | 0 | A multi-platform proxy client powered by the Mihomo (Clash Meta) core, refactor… |
+| 2026-09-29 05:15:18 | [bettbox-compatible-pre-bin](https://aur.archlinux.org/packages/bettbox-compatible-pre-bin) | 1.19.4pre1-1 | 0 | A multi-platform proxy client powered by the Mihomo (Clash Meta) core, refactor… |
 
 ## Data source
 
