@@ -12,20 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 03:21 UTC
+## Latest list — 2026-09-29 04:19 UTC
 
-New packages created between 2026-09-29 02:19 UTC and 2026-09-29 03:21 UTC.
+New packages created between 2026-09-29 03:21 UTC and 2026-09-29 04:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T03-21-46-089997Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T04-19-50-267755Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 02:29:38 | [sing-box-for-linux-bin](https://aur.archlinux.org/packages/sing-box-for-linux-bin) | 1.14.2-2 | 0 | Linux client for sing-box, The universal proxy platform. |
-| 2026-09-29 02:41:31 | [bawkterm-bin](https://aur.archlinux.org/packages/bawkterm-bin) | 0.3.4-1 | 0 | SSH, SFTP, Docker and Remote Desktop client with an encrypted vault |
-| 2026-09-29 02:48:10 | [arm-toolchain-for-embedded-bin](https://aur.archlinux.org/packages/arm-toolchain-for-embedded-bin) | 23.1.0-1 | 0 | LLVM-based bare-metal compiler toolchain for Arm (ATfE, binary release) |
-| 2026-09-29 03:01:17 | [podbox](https://aur.archlinux.org/packages/podbox) | 0.8.1-1 | 0 | Podman-native container environment manager |
-| 2026-09-29 03:12:05 | [imgo-bin](https://aur.archlinux.org/packages/imgo-bin) | 1.0.0-1 | 0 | IMGo (short for "image optimizer") is a private batch image compression and con… |
-| 2026-09-29 03:19:08 | [godoist-bin](https://aur.archlinux.org/packages/godoist-bin) | 0.2.1-1 | 1 | Todoist TUI and CLI for the terminal |
+| 2026-09-29 04:12:44 | [audax-data-manager-bin](https://aur.archlinux.org/packages/audax-data-manager-bin) | 1.6-1 | 0 | A free, open-source database client and administration tool for PostgreSQL, MyS… |
 
 ## Data source
 
