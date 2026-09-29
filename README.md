@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 08:26 UTC
+## Latest list — 2026-09-29 10:19 UTC
 
-New packages created between 2026-09-29 07:20 UTC and 2026-09-29 08:26 UTC.
+New packages created between 2026-09-29 09:20 UTC and 2026-09-29 10:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T08-26-47-377793Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T10-19-44-824469Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 08:17:43 | [easycliproxyapi-bin](https://aur.archlinux.org/packages/easycliproxyapi-bin) | 0.3.11-1 | 0 | Cross-platform GUI desktop management client for CLIProxyAPI (prebuilt) |
-| 2026-09-29 08:17:44 | [xlsxtomysql](https://aur.archlinux.org/packages/xlsxtomysql) | 2.2.0-1 | 0 | Excel to MySQL: convert .xlsx/.xls spreadsheets into CREATE TABLE + INSERT stat… |
+| 2026-09-29 09:23:17 | [xdg-desktop-portal-generic](https://aur.archlinux.org/packages/xdg-desktop-portal-generic) | 0.9.0-1 | 0 | Generic XDG desktop portal backend for Wayland compositors (InputCapture, Remot… |
 
 ## Data source
 

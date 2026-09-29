@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-09-29T09:23:17Z,xdg-desktop-portal-generic,0.9.0-1,0,"Generic XDG desktop portal backend for Wayland compositors (InputCapture, RemoteDesktop, ScreenCast, Clipboard)"
