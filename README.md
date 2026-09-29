@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 11:21 UTC
+## Latest list — 2026-09-29 12:22 UTC
 
-New packages created between 2026-09-29 10:19 UTC and 2026-09-29 11:21 UTC.
+New packages created between 2026-09-29 11:21 UTC and 2026-09-29 12:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T11-21-56-417848Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T12-22-46-95323Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 11:09:46 | [katwhisker](https://aur.archlinux.org/packages/katwhisker) | 0.1.0-1 | 0 | Small web radio player for KDE Plasma, using the radio-browser.info directory |
+| 2026-09-29 11:26:28 | [fsearch-bin](https://aur.archlinux.org/packages/fsearch-bin) | 0.3.1-2 | 0 | A fast graphical file search utility |
+| 2026-09-29 11:42:56 | [eosctl](https://aur.archlinux.org/packages/eosctl) | 0.12.1-1 | 0 | Software for managing EOS Cloud. |
 
 ## Data source
 
