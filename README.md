@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 00:19 UTC
+## Latest list — 2026-09-29 01:22 UTC
 
-New packages created between 2026-09-28 23:20 UTC and 2026-09-29 00:19 UTC.
+New packages created between 2026-09-29 00:19 UTC and 2026-09-29 01:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T00-19-48-636571Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T01-22-21-498669Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 23:38:59 | [moarchy-books](https://aur.archlinux.org/packages/moarchy-books) | 0.1.0-1 | 0 | Open Library and a reading list of your own: discover, search, shelve, track pa… |
-| 2026-09-28 23:54:29 | [dekit-bin](https://aur.archlinux.org/packages/dekit-bin) | 0.10.0-1 | 0 | Run multiple commands in parallel |
+| 2026-09-29 00:20:38 | [wfweb-appimage](https://aur.archlinux.org/packages/wfweb-appimage) | 0.9.1-1 | 0 | Headless wfview fork: control Icom transceivers from a web browser (AppImage re… |
+| 2026-09-29 00:44:46 | [keeenv](https://aur.archlinux.org/packages/keeenv) | 0.6.0-1 | 0 | Set local environment variables from a KeePass database |
 
 ## Data source
 
