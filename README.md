@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 20:21 UTC
+## Latest list — 2026-09-29 21:22 UTC
 
-New packages created between 2026-09-29 19:20 UTC and 2026-09-29 20:21 UTC.
+New packages created between 2026-09-29 20:21 UTC and 2026-09-29 21:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T20-21-19-649779Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T21-22-49-685118Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 19:27:34 | [smc-bridge-hrdctl](https://aur.archlinux.org/packages/smc-bridge-hrdctl) | 0.3.0-1 | 0 | smc-bridge plugin and CLI for Ham Radio Deluxe's native TCP IP Server |
-| 2026-09-29 19:32:53 | [meteo-gtk4](https://aur.archlinux.org/packages/meteo-gtk4) | 1.0.0-1 | 1 | Forecast application using OpenWeatherMap API built with Vala and Gtk |
-| 2026-09-29 19:44:57 | [smash](https://aur.archlinux.org/packages/smash) | 1.0.0-1 | 0 | Smash through to find duplicate files super fast by slicing files intelligently |
+| 2026-09-29 20:48:38 | [scip-ipopt](https://aur.archlinux.org/packages/scip-ipopt) | 10.1.0-1 | 0 | Solving Constraint Integer Programs |
 
 ## Data source
 
