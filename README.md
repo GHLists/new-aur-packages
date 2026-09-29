@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 10:19 UTC
+## Latest list — 2026-09-29 11:21 UTC
 
-New packages created between 2026-09-29 09:20 UTC and 2026-09-29 10:19 UTC.
+New packages created between 2026-09-29 10:19 UTC and 2026-09-29 11:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T10-19-44-824469Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T11-21-56-417848Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 09:23:17 | [xdg-desktop-portal-generic](https://aur.archlinux.org/packages/xdg-desktop-portal-generic) | 0.9.0-1 | 0 | Generic XDG desktop portal backend for Wayland compositors (InputCapture, Remot… |
+| 2026-09-29 11:09:46 | [katwhisker](https://aur.archlinux.org/packages/katwhisker) | 0.1.0-1 | 0 | Small web radio player for KDE Plasma, using the radio-browser.info directory |
 
 ## Data source
 
