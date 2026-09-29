@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 14:23 UTC
+## Latest list — 2026-09-29 15:20 UTC
 
-New packages created between 2026-09-29 13:22 UTC and 2026-09-29 14:23 UTC.
+New packages created between 2026-09-29 14:23 UTC and 2026-09-29 15:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T14-23-15-043492Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-29T15-20-49-314823Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 13:22:20 | [jpegli-tools-git](https://aur.archlinux.org/packages/jpegli-tools-git) | 0.12.0.r2989.g031a0… | 0 | Improved JPEG encoder and decoder command-line tools (cjpegli and djpegli) |
-| 2026-09-29 14:07:33 | [python-alpheon-git](https://aur.archlinux.org/packages/python-alpheon-git) | r5.919d783-1 | 0 | Remembers why your project is the way it is: drafts a reviewable HANDOFF.md fro… |
-| 2026-09-29 14:10:31 | [zplit](https://aur.archlinux.org/packages/zplit) | 0.2.2-1 | 0 | Lightweight terminal multiplexer written in Zig, a single static client/server… |
+| 2026-09-29 15:12:45 | [seraphirc-bin](https://aur.archlinux.org/packages/seraphirc-bin) | 6.0.1-1 | 0 | Modern desktop IRC client built with Go and Wails (prebuilt binary) |
+| 2026-09-29 15:17:37 | [icinga-php-legacy](https://aur.archlinux.org/packages/icinga-php-legacy) |  |  | Maintenance-only forks of abandoned upstream packages; for internal Icinga use… |
 
 ## Data source
 
