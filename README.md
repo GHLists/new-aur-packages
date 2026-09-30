@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 15:22 UTC
+## Latest list — 2026-09-30 16:19 UTC
 
-New packages created between 2026-09-30 14:21 UTC and 2026-09-30 15:22 UTC.
+New packages created between 2026-09-30 15:22 UTC and 2026-09-30 16:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-30T15-22-44-643251Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-30T16-19-36-77856Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 14:51:17 | [openconnect-ms-auth](https://aur.archlinux.org/packages/openconnect-ms-auth) | 0.6.0-1 | 0 | Fetch an openconnect webvpn cookie from an MFA enabled Microsoft account |
+| 2026-09-30 15:51:22 | [neurafly](https://aur.archlinux.org/packages/neurafly) | 0.2.0-1 | 0 | Real audio in, real neurons firing, real time. Terminal audio visualizer driven… |
 
 ## Data source
 
