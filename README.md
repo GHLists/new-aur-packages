@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 21:20 UTC
+## Latest list — 2026-09-30 22:19 UTC
 
-New packages created between 2026-09-30 20:22 UTC and 2026-09-30 21:20 UTC.
+New packages created between 2026-09-30 21:20 UTC and 2026-09-30 22:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-30T21-20-25-381313Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-30T22-19-22-111823Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 20:26:17 | [ubl-tools](https://aur.archlinux.org/packages/ubl-tools) | 0.1.0-1 | 0 | Read UBL e-invoices (Peppol BIS 3.0, OIOUBL) offline, in the terminal or as a p… |
-| 2026-09-30 20:27:50 | [ubl-tools-bin](https://aur.archlinux.org/packages/ubl-tools-bin) | 0.1.0-1 | 0 | Read UBL e-invoices (Peppol BIS 3.0, OIOUBL) offline, in the terminal or as a p… |
-| 2026-09-30 20:42:40 | [quarry-sql](https://aur.archlinux.org/packages/quarry-sql) | 0.1.0-1 | 0 | A fast SQL client and TUI for PostgreSQL, MySQL / MariaDB and SQLite |
-| 2026-09-30 20:42:52 | [quarry-sql-bin](https://aur.archlinux.org/packages/quarry-sql-bin) | 0.1.0-1 | 0 | A fast SQL client and TUI for PostgreSQL, MySQL / MariaDB and SQLite (prebuilt) |
+| 2026-09-30 21:45:47 | [animage-git](https://aur.archlinux.org/packages/animage-git) | r0.ge06c2a0-1 | 0 | A free and opensource animation software |
 
 ## Data source
 
