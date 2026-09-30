@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 00:20 UTC
+## Latest list — 2026-09-30 01:21 UTC
 
-New packages created between 2026-09-29 23:21 UTC and 2026-09-30 00:20 UTC.
+New packages created between 2026-09-30 00:20 UTC and 2026-09-30 01:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-30T00-20-05-270975Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-30T01-21-25-749549Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 00:07:01 | [kilt-bin](https://aur.archlinux.org/packages/kilt-bin) | 11.0.0-1 | 0 | E926 API client |
-| 2026-09-30 00:07:13 | [kilt-unstable](https://aur.archlinux.org/packages/kilt-unstable) | 12.0.0-1 | 0 | E926 API client (unstable build from GitHub) |
+| 2026-09-30 00:28:26 | [cutwire-drift-bin](https://aur.archlinux.org/packages/cutwire-drift-bin) | 0.7.0-3 | 0 | Beginner-friendly open-source video editor built with Qt 6, QML and FFmpeg (pre… |
+| 2026-09-30 00:39:10 | [omarchy-screenshot](https://aur.archlinux.org/packages/omarchy-screenshot) | 0.1.2-1 | 0 | Qt 6 screenshot and annotation tool for Omarchy and Hyprland |
+| 2026-09-30 00:56:06 | [riftlift-bin](https://aur.archlinux.org/packages/riftlift-bin) | 0.10.2.5-1 | 0 | Play owned Meta Rift and Oculus PC VR games on Linux |
 
 ## Data source
 
