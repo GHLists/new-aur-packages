@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-09-30T18:30:44Z,eyetrackvr-bin,b0.3.0_9-1,0,"Free and Affordable, Virtual Reality Eye Tracking Platform."
+2026-09-30T18:32:29Z,peaproxy-bin,2.0.10-1,0,"Localhost multi-provider AI gateway with API keys, local runtimes, and optional subscription OAuth"
+2026-09-30T18:55:37Z,educamadrid-nextcloud,0.3.0-1,0,Unofficial GUI to add the EducaMadrid Nextcloud account to the Nextcloud desktop client on KDE Plasma
+2026-09-30T18:55:44Z,educamadrid-nextcloud-bin,0.3.0-1,0,Unofficial GUI to add the EducaMadrid Nextcloud account to the Nextcloud desktop client on KDE Plasma (prebuilt binary)
+2026-09-30T19:04:27Z,maple-video-downloader-bin,1.0.0-1,0,Multi-platform video and audio downloader with embedded session and cookie capture (prebuilt binary)
+2026-09-30T19:13:04Z,ahfail,0.10.0-1,0,"Screen locker that says 'ah ah ah, you didn't say the magic word' on a wrong password"
+2026-09-30T19:15:29Z,netbird-networkmanager-plugin,0.1.12-1,0,NetworkManager VPN plugin for NetBird
+2026-09-30T19:18:21Z,asciidoc-revealjs-builder,,,Asciidoc to Reveal.js Builder CLI
