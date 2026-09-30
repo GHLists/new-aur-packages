@@ -1,0 +1,26 @@
+created_at,package,version,votes,description
+2026-09-30T02:25:48Z,superscience-blue-gtk-theme,1.1.1-2,0,"A clean blue theme for GTK2, GTK3, GTK4/libadwaita and Xfwm4, with a dark variant"
+2026-09-30T02:34:48Z,giq,0.1.4-1,0,Git CLI with AI-powered commit messages and insights; drop-in replacement for git with the same commands
+2026-09-30T02:36:20Z,humblebee-gui,0.7.0-1,0,Desktop GUI (Wails) for the HumbleBee local-first time tracker
+2026-09-30T02:37:57Z,humblebee,0.7.0-1,0,Local-first command-line time tracking that stays out of your way
+2026-09-30T02:40:19Z,ingestr,1.1.57-1,0,Command-line tool to copy data from any source to any destination database
+2026-09-30T02:41:52Z,nethawk,0.1.0-1,0,Terminal UI network traffic monitor and packet analyzer built on libpcap
+2026-09-30T02:44:52Z,zsv-bin,1.4.3-1,1,Tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
+2026-09-30T02:45:18Z,omnigraph,0.11.0-1,0,Graph database CLI built on the Lance columnar format
+2026-09-30T02:48:07Z,outagedeck-git,r23.bf7cb15-1,0,"Check current status for 170+ cloud and SaaS providers from official vendor feeds, with JSON output and CI exit thresholds"
+2026-09-30T02:56:45Z,planor,0.5.1-1,0,"The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)"
+2026-09-30T02:56:49Z,pcopy,0.6.1-1,0,"Temporary file host, nopaste and clipboard across machines; usable from Web UI, CLI or plain curl"
+2026-09-30T02:59:22Z,clouddrive-mediaserver-plugin-bin,1.0.4-1,0,CloudDrive2 companion plugin for Emby and Jellyfin — path-mapping discovery and cloud-aware library updates
+2026-09-30T02:59:22Z,clouddrive-mediaserver-plugin-emby-bin,1.0.4-1,0,CloudDrive2 companion plugin for Jellyfin — path-mapping discovery and cloud-aware library updates
+2026-09-30T02:59:22Z,clouddrive-mediaserver-plugin-jellyfin-bin,1.0.4-1,0,CloudDrive2 companion plugin for Emby — path-mapping discovery and cloud-aware library updates
+2026-09-30T02:59:44Z,python-api-contract-guardian,0.1.0-1,0,"Monitor OpenAPI schema diffs, detect breaking changes and gate CI on contract violations"
+2026-09-30T03:01:20Z,python-castlocal-git,r4.fa5aead-1,0,"Cast any local video to Chromecast, with a CLI (cast) and a retro TUI (cast-tui)"
+2026-09-30T03:02:52Z,python-certlint-git,r1.bf5c09b-1,0,Check SSL/TLS certificates for expiry and chain issues
+2026-09-30T03:04:25Z,python-click-to-mcp,0.5.0-1,0,"Auto-wrap any Click or Typer CLI as an MCP server (stdio, HTTP+SSE, Streamable HTTP)"
+2026-09-30T03:06:05Z,python-code-health-analyzer,0.1.0-1,0,"Dependency-free Python static analyzer for code health, complexity and import cycles"
+2026-09-30T03:08:00Z,python-configdrift,0.1.0-1,0,"Detect and fix configuration file drift across environments (YAML, JSON, TOML, .env)"
+2026-09-30T03:09:32Z,python-deadcode,0.1.1-1,0,"Detect and auto-remove unused exports, dead routes and orphaned CSS in TS/React/Next.js projects"
+2026-09-30T03:11:04Z,python-deploydiff-git,r134.acb3fc1-1,0,"Preview infrastructure changes (Terraform, CloudFormation, Pulumi) with cost impact and rollback commands"
+2026-09-30T03:12:38Z,python-envault,0.1.0-1,0,"Env variable syncing, diffing and secret rotation CLI with secret-store integrations"
+2026-09-30T03:14:09Z,python-gitpulse-git,r2.6c74245-1,0,"Zero-dependency git productivity CLI: see who is shipping, how much and how fast"
+2026-09-30T03:16:11Z,python-jlkit,0.1.1-1,0,"JSONL-native command-line toolkit: head, tail, select, filter, stats, schema, validate"
