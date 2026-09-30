@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 07:21 UTC
+## Latest list — 2026-09-30 08:20 UTC
 
-New packages created between 2026-09-30 06:19 UTC and 2026-09-30 07:21 UTC.
+New packages created between 2026-09-30 07:21 UTC and 2026-09-30 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-30T07-21-57-628557Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-30T08-20-12-2421Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 06:50:37 | [evox](https://aur.archlinux.org/packages/evox) | 1.1.0.beta.21-2 | 0 | EvoMap EvoX self-evolving swarm coding agent (beta channel) |
-| 2026-09-30 07:09:53 | [tessoa](https://aur.archlinux.org/packages/tessoa) | 0.27.0-1 | 0 | GPU-accelerated file manager with split panes, saved layouts, colored tags and… |
+| 2026-09-30 07:48:14 | [zcc](https://aur.archlinux.org/packages/zcc) | 0.1.0-1 | 0 | Blazing-fast code counter (tokei clone) written in ZZ |
+| 2026-09-30 07:52:30 | [pulsar-git](https://aur.archlinux.org/packages/pulsar-git) | 1.131.2.r149.g52493… | 0 | A Community-led Hyper-Hackable Text Editor, Forked from Atom, built on Electron. |
+| 2026-09-30 08:16:51 | [rustdesk-hide-cm](https://aur.archlinux.org/packages/rustdesk-hide-cm) |  |  | Remote desktop software with optional connection-manager hiding |
 
 ## Data source
 
