@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 14:21 UTC
+## Latest list — 2026-09-30 15:22 UTC
 
-New packages created between 2026-09-30 13:19 UTC and 2026-09-30 14:21 UTC.
+New packages created between 2026-09-30 14:21 UTC and 2026-09-30 15:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-30T14-21-25-143679Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-30T15-22-44-643251Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 13:27:30 | [airwallex-cli](https://aur.archlinux.org/packages/airwallex-cli) | 0.4.1-1 | 1 | CLI for the Airwallex platform (proprietary beta) |
-| 2026-09-30 13:37:18 | [cw-chat](https://aur.archlinux.org/packages/cw-chat) | 0.1.0-1 | 0 | CW (Morse code) chat over PipeWire: send typed text and decode received CW in a… |
+| 2026-09-30 14:51:17 | [openconnect-ms-auth](https://aur.archlinux.org/packages/openconnect-ms-auth) | 0.6.0-1 | 0 | Fetch an openconnect webvpn cookie from an MFA enabled Microsoft account |
 
 ## Data source
 
