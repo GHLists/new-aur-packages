@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 16:19 UTC
+## Latest list — 2026-09-30 18:19 UTC
 
-New packages created between 2026-09-30 15:22 UTC and 2026-09-30 16:19 UTC.
+New packages created between 2026-09-30 17:22 UTC and 2026-09-30 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-30T16-19-36-77856Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-30T18-19-57-289936Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 15:51:22 | [neurafly](https://aur.archlinux.org/packages/neurafly) | 0.2.0-1 | 0 | Real audio in, real neurons firing, real time. Terminal audio visualizer driven… |
+| 2026-09-30 17:33:50 | [action-webcamd](https://aur.archlinux.org/packages/action-webcamd) | 0.1.0-1 | 0 | Native Linux webcam service for compatible GoPro cameras |
+| 2026-09-30 17:36:48 | [dock-mango](https://aur.archlinux.org/packages/dock-mango) | 1.0.0-1 | 0 | GTK3-based dock for mangowm |
+| 2026-09-30 17:41:23 | [relvi](https://aur.archlinux.org/packages/relvi) | 0.1.1-1 | 0 | A focused launcher for Wayland |
+| 2026-09-30 17:41:38 | [relvi-git](https://aur.archlinux.org/packages/relvi-git) | 0.1.1.r5.g1ec9974-1 | 0 | A focused launcher for Wayland |
 
 ## Data source
 
