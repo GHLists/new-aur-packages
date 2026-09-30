@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 10:21 UTC
+## Latest list — 2026-09-30 11:20 UTC
 
-New packages created between 2026-09-30 09:22 UTC and 2026-09-30 10:21 UTC.
+New packages created between 2026-09-30 10:21 UTC and 2026-09-30 11:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-30T10-21-01-597593Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-30T11-20-18-888217Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 09:31:06 | [caret](https://aur.archlinux.org/packages/caret) | 0.2.0-1 | 0 | GPU-rendered terminal for GTK 4 and libadwaita |
-| 2026-09-30 09:49:15 | [quickkey](https://aur.archlinux.org/packages/quickkey) | 1.0.0-1 | 0 | Hotkey menu of commands whose output goes to the clipboard |
-| 2026-09-30 09:49:37 | [kiln-agents](https://aur.archlinux.org/packages/kiln-agents) | 0.1.0-1 | 0 | Vim-style overview of every Claude, Codex and Pi session on the machine |
-| 2026-09-30 10:09:09 | [locus-system-monitor](https://aur.archlinux.org/packages/locus-system-monitor) | 0.1.0-1 | 0 | Watch resources and end processes |
+| 2026-09-30 11:10:44 | [envmerge-git](https://aur.archlinux.org/packages/envmerge-git) | r3.910a786-1 | 0 | Merge new keys from .env.example into your .env (TUI + silent mode) |
+| 2026-09-30 11:17:42 | [kiln-agents-bin](https://aur.archlinux.org/packages/kiln-agents-bin) |  |  | Vim-style overview of every Claude, Codex and Pi session on the machine |
 
 ## Data source
 
