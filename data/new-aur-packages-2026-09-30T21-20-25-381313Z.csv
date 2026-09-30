@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-09-30T20:26:17Z,ubl-tools,0.1.0-1,0,"Read UBL e-invoices (Peppol BIS 3.0, OIOUBL) offline, in the terminal or as a printable page"
+2026-09-30T20:27:50Z,ubl-tools-bin,0.1.0-1,0,"Read UBL e-invoices (Peppol BIS 3.0, OIOUBL) offline, in the terminal or as a printable page (prebuilt binary)"
+2026-09-30T20:42:40Z,quarry-sql,0.1.0-1,0,"A fast SQL client and TUI for PostgreSQL, MySQL / MariaDB and SQLite"
+2026-09-30T20:42:52Z,quarry-sql-bin,0.1.0-1,0,"A fast SQL client and TUI for PostgreSQL, MySQL / MariaDB and SQLite (prebuilt)"

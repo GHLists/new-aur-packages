@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 20:22 UTC
+## Latest list — 2026-09-30 21:20 UTC
 
-New packages created between 2026-09-30 19:20 UTC and 2026-09-30 20:22 UTC.
+New packages created between 2026-09-30 20:22 UTC and 2026-09-30 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-30T20-22-07-43959Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-30T21-20-25-381313Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 19:50:20 | [ahfail-bin](https://aur.archlinux.org/packages/ahfail-bin) | 0.10.0-1 | 0 | Screen locker that says 'ah ah ah, you didn't say the magic word' on a wrong pa… |
-| 2026-09-30 20:14:30 | [gloop-bin](https://aur.archlinux.org/packages/gloop-bin) | 0.6.0-1 | 0 | Fast and light file manager for Wayland |
+| 2026-09-30 20:26:17 | [ubl-tools](https://aur.archlinux.org/packages/ubl-tools) | 0.1.0-1 | 0 | Read UBL e-invoices (Peppol BIS 3.0, OIOUBL) offline, in the terminal or as a p… |
+| 2026-09-30 20:27:50 | [ubl-tools-bin](https://aur.archlinux.org/packages/ubl-tools-bin) | 0.1.0-1 | 0 | Read UBL e-invoices (Peppol BIS 3.0, OIOUBL) offline, in the terminal or as a p… |
+| 2026-09-30 20:42:40 | [quarry-sql](https://aur.archlinux.org/packages/quarry-sql) | 0.1.0-1 | 0 | A fast SQL client and TUI for PostgreSQL, MySQL / MariaDB and SQLite |
+| 2026-09-30 20:42:52 | [quarry-sql-bin](https://aur.archlinux.org/packages/quarry-sql-bin) | 0.1.0-1 | 0 | A fast SQL client and TUI for PostgreSQL, MySQL / MariaDB and SQLite (prebuilt) |
 
 ## Data source
 
