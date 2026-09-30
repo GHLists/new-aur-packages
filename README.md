@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 08:20 UTC
+## Latest list — 2026-09-30 10:21 UTC
 
-New packages created between 2026-09-30 07:21 UTC and 2026-09-30 08:20 UTC.
+New packages created between 2026-09-30 09:22 UTC and 2026-09-30 10:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-30T08-20-12-2421Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-30T10-21-01-597593Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 07:48:14 | [zcc](https://aur.archlinux.org/packages/zcc) | 0.1.0-1 | 0 | Blazing-fast code counter (tokei clone) written in ZZ |
-| 2026-09-30 07:52:30 | [pulsar-git](https://aur.archlinux.org/packages/pulsar-git) | 1.131.2.r149.g52493… | 0 | A Community-led Hyper-Hackable Text Editor, Forked from Atom, built on Electron. |
-| 2026-09-30 08:16:51 | [rustdesk-hide-cm](https://aur.archlinux.org/packages/rustdesk-hide-cm) |  |  | Remote desktop software with optional connection-manager hiding |
+| 2026-09-30 09:31:06 | [caret](https://aur.archlinux.org/packages/caret) | 0.2.0-1 | 0 | GPU-rendered terminal for GTK 4 and libadwaita |
+| 2026-09-30 09:49:15 | [quickkey](https://aur.archlinux.org/packages/quickkey) | 1.0.0-1 | 0 | Hotkey menu of commands whose output goes to the clipboard |
+| 2026-09-30 09:49:37 | [kiln-agents](https://aur.archlinux.org/packages/kiln-agents) | 0.1.0-1 | 0 | Vim-style overview of every Claude, Codex and Pi session on the machine |
+| 2026-09-30 10:09:09 | [locus-system-monitor](https://aur.archlinux.org/packages/locus-system-monitor) | 0.1.0-1 | 0 | Watch resources and end processes |
 
 ## Data source
 

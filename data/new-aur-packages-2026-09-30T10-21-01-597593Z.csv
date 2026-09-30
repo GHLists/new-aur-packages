@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-09-30T09:31:06Z,caret,0.2.0-1,0,GPU-rendered terminal for GTK 4 and libadwaita
+2026-09-30T09:49:15Z,quickkey,1.0.0-1,0,Hotkey menu of commands whose output goes to the clipboard
+2026-09-30T09:49:37Z,kiln-agents,0.1.0-1,0,"Vim-style overview of every Claude, Codex and Pi session on the machine"
+2026-09-30T10:09:09Z,locus-system-monitor,0.1.0-1,0,Watch resources and end processes
