@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 11:20 UTC
+## Latest list — 2026-09-30 12:20 UTC
 
-New packages created between 2026-09-30 10:21 UTC and 2026-09-30 11:20 UTC.
+New packages created between 2026-09-30 11:20 UTC and 2026-09-30 12:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-30T11-20-18-888217Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-30T12-20-54-799587Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 11:10:44 | [envmerge-git](https://aur.archlinux.org/packages/envmerge-git) | r3.910a786-1 | 0 | Merge new keys from .env.example into your .env (TUI + silent mode) |
-| 2026-09-30 11:17:42 | [kiln-agents-bin](https://aur.archlinux.org/packages/kiln-agents-bin) |  |  | Vim-style overview of every Claude, Codex and Pi session on the machine |
+| 2026-09-30 11:52:21 | [python-sphinx-selective-exclude](https://aur.archlinux.org/packages/python-sphinx-selective-exclude) | 1.0.3-1 | 0 | Sphinx eager ".. only::" directive and other selective rendition extensions |
 
 ## Data source
 
