@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 23:21 UTC
+## Latest list — 2026-09-30 00:20 UTC
 
-New packages created between 2026-09-29 22:21 UTC and 2026-09-29 23:21 UTC.
+New packages created between 2026-09-29 23:21 UTC and 2026-09-30 00:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-29T23-21-34-793922Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-30T00-20-05-270975Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 22:46:53 | [skyrc-wifi](https://aur.archlinux.org/packages/skyrc-wifi) | 4.2.0-1 | 0 | Low-level library for skyrc wifi module. |
-| 2026-09-29 22:54:36 | [legio-launcher-bin](https://aur.archlinux.org/packages/legio-launcher-bin) | 0.1.1-1 | 0 | Legio desktop game launcher |
+| 2026-09-30 00:07:01 | [kilt-bin](https://aur.archlinux.org/packages/kilt-bin) | 11.0.0-1 | 0 | E926 API client |
+| 2026-09-30 00:07:13 | [kilt-unstable](https://aur.archlinux.org/packages/kilt-unstable) | 12.0.0-1 | 0 | E926 API client (unstable build from GitHub) |
 
 ## Data source
 
