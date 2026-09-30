@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 12:20 UTC
+## Latest list — 2026-09-30 13:19 UTC
 
-New packages created between 2026-09-30 11:20 UTC and 2026-09-30 12:20 UTC.
+New packages created between 2026-09-30 12:20 UTC and 2026-09-30 13:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-30T12-20-54-799587Z.csv)
+[Full CSV](data/new-aur-packages-2026-09-30T13-19-37-298355Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 11:52:21 | [python-sphinx-selective-exclude](https://aur.archlinux.org/packages/python-sphinx-selective-exclude) | 1.0.3-1 | 0 | Sphinx eager ".. only::" directive and other selective rendition extensions |
+| 2026-09-30 13:18:33 | [passmcp](https://aur.archlinux.org/packages/passmcp) |  |  | Diagnose Model Context Protocol servers end to end: nine phases, every finding… |
 
 ## Data source
 
