@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-09-30T04:27:08Z,grut,0.10.0-1,1,"A terminal file explorer with full Git and GitHub integration, AI chat, and reactive panels that stay in sync as you navigate"
+2026-09-30T04:33:35Z,python-pyxirr,0.10.8-1,1,"Rust-powered collection of financial functions (XIRR, XNPV, IRR, etc.)"
+2026-09-30T04:37:15Z,brmgen-gtk,0.5.1-1,0,GTK interface for brmgen - Generate editable brModelo models from YAML/JSON
+2026-09-30T05:16:03Z,python-lakshmi,3.0.3-1,1,Investing library and command-line interface (lak) inspired by the Bogleheads philosophy
