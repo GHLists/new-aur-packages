@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 08:19 UTC
+## Latest list — 2026-10-01 09:22 UTC
 
-New packages created between 2026-10-01 07:21 UTC and 2026-10-01 08:19 UTC.
+New packages created between 2026-10-01 08:19 UTC and 2026-10-01 09:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-01T08-19-12-468429Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-01T09-22-41-801983Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-01 07:55:07 | [bettbox-pre-bin](https://aur.archlinux.org/packages/bettbox-pre-bin) | 1.19.4pre1-1 | 0 | A multi-platform proxy client powered by the Mihomo (Clash Meta) core, refactor… |
-| 2026-10-01 08:09:28 | [olladesk](https://aur.archlinux.org/packages/olladesk) | 0.2.3-1 | 0 | Client desktop per Ollama in stile ChatGPT (PySide6/Qt) |
+| 2026-10-01 08:27:39 | [lumina-code-cef-bin](https://aur.archlinux.org/packages/lumina-code-cef-bin) | 0.3.0-1 | 0 | A Tauri + React desktop GUI for OpenCode — CEF (Chromium) rendering variant, bu… |
 
 ## Data source
 

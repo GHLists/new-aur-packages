@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-10-01T08:27:39Z,lumina-code-cef-bin,0.3.0-1,0,"A Tauri + React desktop GUI for OpenCode — CEF (Chromium) rendering variant, bundling its own pinned server binary"
