@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 18:21 UTC
+## Latest list — 2026-10-01 19:19 UTC
 
-New packages created between 2026-10-01 17:22 UTC and 2026-10-01 18:21 UTC.
+New packages created between 2026-10-01 18:21 UTC and 2026-10-01 19:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-01T18-21-29-067013Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-01T19-19-40-307349Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-01 17:35:35 | [libtde](https://aur.archlinux.org/packages/libtde) | 0.1.0-1 | 0 | What TDE applications share: configuration, theme, window frame and dialogs |
-| 2026-10-01 17:35:42 | [libtde-git](https://aur.archlinux.org/packages/libtde-git) | 0.1.0-1 | 0 | What TDE applications share: configuration, theme, window frame and dialogs (la… |
-| 2026-10-01 17:36:07 | [hypricons-bin](https://aur.archlinux.org/packages/hypricons-bin) | 1.0.1-1 | 0 | Desktop icons for Hyprland (Wayland), drawn as a gtk4-layer-shell surface per m… |
+| 2026-10-01 18:33:02 | [way-magnitator-bin](https://aur.archlinux.org/packages/way-magnitator-bin) | 0.1.0-1 | 0 | Magnifies the screen area around the mouse cursor on Sway and other wlroots-bas… |
+| 2026-10-01 18:38:57 | [orchard-git](https://aur.archlinux.org/packages/orchard-git) | 5.0.0.beta.9.39.ge6… | 0 | Power-user desktop client for YouTube Music with beat-matched crossfade, audiop… |
+| 2026-10-01 18:47:46 | [dict-freedict-por-eng-bin](https://aur.archlinux.org/packages/dict-freedict-por-eng-bin) | 0.2-1 | 0 | Portuguese -> English dictionary for dictd et al. from FreeDict.org |
 
 ## Data source
 

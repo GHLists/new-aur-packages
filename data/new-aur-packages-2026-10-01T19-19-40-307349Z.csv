@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-01T18:33:02Z,way-magnitator-bin,0.1.0-1,0,Magnifies the screen area around the mouse cursor on Sway and other wlroots-based Wayland compositors
+2026-10-01T18:38:57Z,orchard-git,5.0.0.beta.9.39.ge6…,0,"Power-user desktop client for YouTube Music with beat-matched crossfade, audiophile EQ and local replay"
+2026-10-01T18:47:46Z,dict-freedict-por-eng-bin,0.2-1,0,Portuguese -> English dictionary for dictd et al. from FreeDict.org
