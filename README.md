@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 21:21 UTC
+## Latest list — 2026-10-01 22:18 UTC
 
-New packages created between 2026-10-01 20:21 UTC and 2026-10-01 21:21 UTC.
+New packages created between 2026-10-01 21:21 UTC and 2026-10-01 22:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-01T21-21-42-282647Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-01T22-18-55-371598Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-01 20:43:14 | [darkly-art-bin](https://aur.archlinux.org/packages/darkly-art-bin) | 0.10.0-1 | 0 | Forbidden Editor for Artists |
-| 2026-10-01 21:10:54 | [smart-dnd](https://aur.archlinux.org/packages/smart-dnd) | 0.1.0-1 | 0 | Automated Do Not Disturb based on schedules and calendar events for Linux deskt… |
+| 2026-10-01 21:24:34 | [injectd-git](https://aur.archlinux.org/packages/injectd-git) | 1.0.0-1 | 1 | A tool to inject custom boot messages into the console |
+| 2026-10-01 21:43:51 | [frameit-bin](https://aur.archlinux.org/packages/frameit-bin) | 0.2.0-1 | 0 | Temporary selection rectangle overlay for Wayland and Hyprland screen shares |
 
 ## Data source
 
