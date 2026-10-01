@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 22:19 UTC
+## Latest list — 2026-10-01 00:22 UTC
 
-New packages created between 2026-09-30 21:20 UTC and 2026-09-30 22:19 UTC.
+New packages created between 2026-09-30 23:21 UTC and 2026-10-01 00:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-09-30T22-19-22-111823Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-01T00-22-21-079737Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 21:45:47 | [animage-git](https://aur.archlinux.org/packages/animage-git) | r0.ge06c2a0-1 | 0 | A free and opensource animation software |
+| 2026-09-30 23:43:48 | [devknx](https://aur.archlinux.org/packages/devknx) | 0.1.0-1 | 0 | KNX monitor with CLI, TUI, GUI, REST and MCP |
+| 2026-09-30 23:43:53 | [devknx-bin](https://aur.archlinux.org/packages/devknx-bin) | 0.1.0-1 | 0 | KNX monitor with CLI, TUI, GUI, REST and MCP |
 
 ## Data source
 
