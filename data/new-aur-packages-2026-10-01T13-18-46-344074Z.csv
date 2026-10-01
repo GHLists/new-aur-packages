@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-01T12:21:54Z,deepseek-harness-desktop-bin,0.2.0rc.2-1,0,Desktop shell for the DeepSeek Harness agent runtime
+2026-10-01T12:38:15Z,cv4pve-botgram,2.0.0-1,0,Telegram bot for Proxmox VE: manage and monitor your cluster via Telegram
+2026-10-01T12:39:02Z,evolution-sieve-filters,0.4.7-1,0,Evolution plugin to manage server-side Sieve filters
+2026-10-01T12:58:21Z,msime-bin,0.9.1-1,0,Metasequoia IME: IBus frontend and desktop tools for Chinese and Japanese input
+2026-10-01T13:03:02Z,business-network-wizard,0.8.0-1,0,"Configura e mantiene l'accesso alla rete aziendale: proxy NTLM, VPN, WiFi 802.1X, dischi di rete, stampanti"
+2026-10-01T13:05:28Z,jm-boom,0.4.6-1,0,Cross-platform third-party JM comic client (Tauri)
+2026-10-01T13:14:29Z,kadr,,,Kadrowanie zbiorcze — ten sam kadr dla wielu obrazów naraz (GTK4/libadwaita)
