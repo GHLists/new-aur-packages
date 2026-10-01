@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 10:20 UTC
+## Latest list — 2026-10-01 11:19 UTC
 
-New packages created between 2026-10-01 09:22 UTC and 2026-10-01 10:20 UTC.
+New packages created between 2026-10-01 10:20 UTC and 2026-10-01 11:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-01T10-20-54-917707Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-01T11-19-40-463324Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-01 09:41:15 | [ttf-instrument-sans](https://aur.archlinux.org/packages/ttf-instrument-sans) | 1.0-1 | 0 | Instrument Sans, a variable sans-serif designed for the Instrument brand, and o… |
-| 2026-10-01 09:41:30 | [ttf-instrument-serif](https://aur.archlinux.org/packages/ttf-instrument-serif) | 1.0-1 | 0 | Instrument Serif, a condensed display serif typeface by Instrument |
-| 2026-10-01 09:58:17 | [phone-mirror](https://aur.archlinux.org/packages/phone-mirror) | 0.1.0-1 | 0 | Mirror an Android phone or use its camera as a webcam, over Wi-Fi or USB (Qt fr… |
+| 2026-10-01 10:35:06 | [commit-boost-bin](https://aur.archlinux.org/packages/commit-boost-bin) | 0.10.1-1 | 0 | Commit-Boost allows Ethereum validators to safely run MEV-Boost and community-b… |
+| 2026-10-01 11:11:03 | [linuxqq-wayland-native-screenshare-fix-git](https://aur.archlinux.org/packages/linuxqq-wayland-native-screenshare-fix-git) | r3.0534d0a-1 | 0 | 修复 Linux QQ 在 Wayland 下的屏幕共享（启用 QQ 自带的 portal + PipeWire 采集路径） |
 
 ## Data source
 
