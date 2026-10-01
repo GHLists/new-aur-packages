@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 05:21 UTC
+## Latest list — 2026-10-01 06:19 UTC
 
-New packages created between 2026-10-01 04:21 UTC and 2026-10-01 05:21 UTC.
+New packages created between 2026-10-01 05:21 UTC and 2026-10-01 06:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-01T05-21-18-521765Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-01T06-19-43-713294Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-01 04:29:54 | [obs-studio-appimage](https://aur.archlinux.org/packages/obs-studio-appimage) | 32.2.2.2.6-2 | 1 | OBS-Studio package based on AppImage |
-| 2026-10-01 04:51:31 | [calibraw-bin](https://aur.archlinux.org/packages/calibraw-bin) | 1.1.1-1 | 1 | CalibRaw is a fast, non-destructive, GPU-accelerated RAW photo editor |
-| 2026-10-01 04:56:39 | [jmcomic-qt](https://aur.archlinux.org/packages/jmcomic-qt) | 1.3.6-1 | 0 | 禁漫天堂PC客户端 (PySide6) - JMComic comic browser |
-| 2026-10-01 05:13:24 | [eitri-bin](https://aur.archlinux.org/packages/eitri-bin) | 0.2.0-1 | 0 | Your Neovim, with a readable Claude Code panel beside it (prebuilt binaries; bu… |
-| 2026-10-01 05:13:29 | [eitri-git](https://aur.archlinux.org/packages/eitri-git) | 0.2.0.0.gd0d362e-1 | 0 | Your Neovim, with a readable Claude Code panel beside it (built from source) |
+| 2026-10-01 05:27:03 | [deadlywp-bin](https://aur.archlinux.org/packages/deadlywp-bin) | 0.0.7-1 | 0 | Live wallpapers: videos, GIFs, pictures, web pages, Lively and Wallpaper Engine… |
+| 2026-10-01 05:32:38 | [tde-ariadne](https://aur.archlinux.org/packages/tde-ariadne) | 0.1.0-1 | 0 | A Nautilus-style file manager built with Qt 6 |
+| 2026-10-01 05:32:45 | [tde-ariadne-git](https://aur.archlinux.org/packages/tde-ariadne-git) | 0.1.0-1 | 0 | A Nautilus-style file manager built with Qt 6 (development version) |
 
 ## Data source
 
