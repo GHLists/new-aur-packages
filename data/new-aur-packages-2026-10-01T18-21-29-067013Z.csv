@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-01T17:35:35Z,libtde,0.1.0-1,0,"What TDE applications share: configuration, theme, window frame and dialogs"
+2026-10-01T17:35:42Z,libtde-git,0.1.0-1,0,"What TDE applications share: configuration, theme, window frame and dialogs (latest commit)"
+2026-10-01T17:36:07Z,hypricons-bin,1.0.1-1,0,"Desktop icons for Hyprland (Wayland), drawn as a gtk4-layer-shell surface per monitor (pre-built binary)"
