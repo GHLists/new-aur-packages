@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 00:22 UTC
+## Latest list — 2026-10-01 01:21 UTC
 
-New packages created between 2026-09-30 23:21 UTC and 2026-10-01 00:22 UTC.
+New packages created between 2026-10-01 00:22 UTC and 2026-10-01 01:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-01T00-22-21-079737Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-01T01-21-32-429263Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 23:43:48 | [devknx](https://aur.archlinux.org/packages/devknx) | 0.1.0-1 | 0 | KNX monitor with CLI, TUI, GUI, REST and MCP |
-| 2026-09-30 23:43:53 | [devknx-bin](https://aur.archlinux.org/packages/devknx-bin) | 0.1.0-1 | 0 | KNX monitor with CLI, TUI, GUI, REST and MCP |
+| 2026-10-01 00:43:04 | [botropolis](https://aur.archlinux.org/packages/botropolis) | 0.1.2-2 | 0 | Every Claude Code session on this machine, drawn as a city |
+| 2026-10-01 00:43:13 | [botropolis-bin](https://aur.archlinux.org/packages/botropolis-bin) | 0.1.2-1 | 0 | Every Claude Code session on this machine, drawn as a city (binary release) |
+| 2026-10-01 00:58:38 | [whatsit-jetm](https://aur.archlinux.org/packages/whatsit-jetm) | 5.0.3-1 | 0 | Lightweight (KDE) native Qt6 WhatsApp Web client, pinned to a release tag inste… |
 
 ## Data source
 

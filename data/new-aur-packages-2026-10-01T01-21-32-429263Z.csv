@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-01T00:43:04Z,botropolis,0.1.2-2,0,"Every Claude Code session on this machine, drawn as a city"
+2026-10-01T00:43:13Z,botropolis-bin,0.1.2-1,0,"Every Claude Code session on this machine, drawn as a city (binary release)"
+2026-10-01T00:58:38Z,whatsit-jetm,5.0.3-1,0,"Lightweight (KDE) native Qt6 WhatsApp Web client, pinned to a release tag instead of tracking master"
