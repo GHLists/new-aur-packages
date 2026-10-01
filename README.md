@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 09:22 UTC
+## Latest list — 2026-10-01 10:20 UTC
 
-New packages created between 2026-10-01 08:19 UTC and 2026-10-01 09:22 UTC.
+New packages created between 2026-10-01 09:22 UTC and 2026-10-01 10:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-01T09-22-41-801983Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-01T10-20-54-917707Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-01 08:27:39 | [lumina-code-cef-bin](https://aur.archlinux.org/packages/lumina-code-cef-bin) | 0.3.0-1 | 0 | A Tauri + React desktop GUI for OpenCode — CEF (Chromium) rendering variant, bu… |
+| 2026-10-01 09:41:15 | [ttf-instrument-sans](https://aur.archlinux.org/packages/ttf-instrument-sans) | 1.0-1 | 0 | Instrument Sans, a variable sans-serif designed for the Instrument brand, and o… |
+| 2026-10-01 09:41:30 | [ttf-instrument-serif](https://aur.archlinux.org/packages/ttf-instrument-serif) | 1.0-1 | 0 | Instrument Serif, a condensed display serif typeface by Instrument |
+| 2026-10-01 09:58:17 | [phone-mirror](https://aur.archlinux.org/packages/phone-mirror) | 0.1.0-1 | 0 | Mirror an Android phone or use its camera as a webcam, over Wi-Fi or USB (Qt fr… |
 
 ## Data source
 
