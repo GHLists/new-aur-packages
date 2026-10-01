@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-01T06:35:33Z,untix-git,4.3.2.r31.g48ce032-1,0,GTK4 + LibAdwaita client for WebUntis (git)
+2026-10-01T06:36:11Z,untix,4.3.2-1,0,GTK4 + LibAdwaita client for WebUntis
+2026-10-01T06:39:30Z,godoist,0.6.0-1,1,Todoist TUI and CLI for the terminal
+2026-10-01T06:46:28Z,wish-agent,0.1.0-1,0,"Self-hosted AI agent server and web app: long-lived sessions, shell tools and many model providers"
+2026-10-01T06:46:36Z,wish-agent-bin,0.1.0-1,0,"Self-hosted AI agent server and web app: long-lived sessions, shell tools and many model providers"
+2026-10-01T06:46:43Z,wish-agent-git,0.1.0.r0.gfc26ac4-1,0,"Self-hosted AI agent server and web app: long-lived sessions, shell tools and many model providers"
+2026-10-01T07:07:28Z,dsh-desktop-linux-bin,0.2.0rc.2-1,0,Official DeepSeek Harness desktop packaging ported to Linux (prebuilt)
+2026-10-01T07:11:03Z,better-nsticky,0.5.0-1,0,Sticky and staged window management for the niri Wayland compositor (drop-in nsticky)
