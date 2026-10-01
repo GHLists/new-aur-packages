@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-01T07:55:07Z,bettbox-pre-bin,1.19.4pre1-1,0,"A multi-platform proxy client powered by the Mihomo (Clash Meta) core, refactored based on early versions of FlClash."
+2026-10-01T08:09:28Z,olladesk,0.2.3-1,0,Client desktop per Ollama in stile ChatGPT (PySide6/Qt)
