@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-01T01:38:40Z,gitst-bin,0.1.6-1,1,"Real-time, glanceable interactive git status for the terminal"
+2026-10-01T01:45:12Z,astrlink-bin,0.1.0-1,0,A local privacy gateway for AI agents
+2026-10-01T01:47:47Z,gitst,0.1.6-1,1,"Real-time, glanceable interactive git status for the terminal"
+2026-10-01T01:51:41Z,magpie-cli-bin,0.1.550-2,0,Terminal build of magpie: pick every AI coding agent's model without GUI dependencies
+2026-10-01T01:57:39Z,dan-bin,0.4.0-1,1,"Fast, modern, and intuitive terminal editor with a rope-based buffer"
+2026-10-01T01:57:46Z,droprun,0.3.0-1,0,Linux sandboxing that doesn't get in your way
+2026-10-01T01:58:14Z,dan,0.4.0-1,1,"Fast, modern, and intuitive terminal editor with a rope-based buffer"
+2026-10-01T02:07:01Z,spritz-bin,0.2.0-1,1,"A multiplatform, nano DLNA media server for the terminal"
+2026-10-01T02:07:06Z,spritz,0.2.0-1,1,"A multiplatform, nano DLNA media server for the terminal"
