@@ -12,21 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 04:21 UTC
+## Latest list — 2026-10-01 05:21 UTC
 
-New packages created between 2026-10-01 03:22 UTC and 2026-10-01 04:21 UTC.
+New packages created between 2026-10-01 04:21 UTC and 2026-10-01 05:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-01T04-21-37-124221Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-01T05-21-18-521765Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-01 03:29:50 | [nefercap-bin](https://aur.archlinux.org/packages/nefercap-bin) | 0.2.1-1 | 0 | Screenshots and silent screen recording for Wayland, from one shortcut |
-| 2026-10-01 03:30:09 | [nefercap-git](https://aur.archlinux.org/packages/nefercap-git) | 0.2.1.r0.g7e79979-1 | 0 | Screenshots and silent screen recording for Wayland, from one shortcut (git ver… |
-| 2026-10-01 03:35:48 | [jstart](https://aur.archlinux.org/packages/jstart) | 0.0.1-1 | 0 | Lightweight launcher for jar/war and native (tar.gz) Java artifacts |
-| 2026-10-01 03:38:19 | [neferafk-bin](https://aur.archlinux.org/packages/neferafk-bin) | 0.2.0-1 | 0 | Idle daemon for Wayland: fade, session lock, screens off and suspend |
-| 2026-10-01 03:38:34 | [neferafk-git](https://aur.archlinux.org/packages/neferafk-git) | 0.2.0.r0.g271e247-1 | 0 | Idle daemon for Wayland: fade, session lock, screens off and suspend (git versi… |
-| 2026-10-01 03:39:32 | [rmd-cli](https://aur.archlinux.org/packages/rmd-cli) | 0.4.0-1 | 1 | One-shot Linux reminders that survive reboot and show up as desktop notificatio… |
-| 2026-10-01 03:39:35 | [rmd-cli-bin](https://aur.archlinux.org/packages/rmd-cli-bin) | 0.4.0-1 | 1 | One-shot Linux reminders that survive reboot and show up as desktop notificatio… |
+| 2026-10-01 04:29:54 | [obs-studio-appimage](https://aur.archlinux.org/packages/obs-studio-appimage) | 32.2.2.2.6-2 | 1 | OBS-Studio package based on AppImage |
+| 2026-10-01 04:51:31 | [calibraw-bin](https://aur.archlinux.org/packages/calibraw-bin) | 1.1.1-1 | 1 | CalibRaw is a fast, non-destructive, GPU-accelerated RAW photo editor |
+| 2026-10-01 04:56:39 | [jmcomic-qt](https://aur.archlinux.org/packages/jmcomic-qt) | 1.3.6-1 | 0 | 禁漫天堂PC客户端 (PySide6) - JMComic comic browser |
+| 2026-10-01 05:13:24 | [eitri-bin](https://aur.archlinux.org/packages/eitri-bin) | 0.2.0-1 | 0 | Your Neovim, with a readable Claude Code panel beside it (prebuilt binaries; bu… |
+| 2026-10-01 05:13:29 | [eitri-git](https://aur.archlinux.org/packages/eitri-git) | 0.2.0.0.gd0d362e-1 | 0 | Your Neovim, with a readable Claude Code panel beside it (built from source) |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-01T04:29:54Z,obs-studio-appimage,32.2.2.2.6-2,1,OBS-Studio package based on AppImage
+2026-10-01T04:51:31Z,calibraw-bin,1.1.1-1,1,"CalibRaw is a fast, non-destructive, GPU-accelerated RAW photo editor"
+2026-10-01T04:56:39Z,jmcomic-qt,1.3.6-1,0,禁漫天堂PC客户端 (PySide6) - JMComic comic browser
+2026-10-01T05:13:24Z,eitri-bin,0.2.0-1,0,"Your Neovim, with a readable Claude Code panel beside it (prebuilt binaries; builds its own sidecar on install)"
+2026-10-01T05:13:29Z,eitri-git,0.2.0.0.gd0d362e-1,0,"Your Neovim, with a readable Claude Code panel beside it (built from source)"
