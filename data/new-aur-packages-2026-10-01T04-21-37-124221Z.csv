@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-01T03:29:50Z,nefercap-bin,0.2.1-1,0,"Screenshots and silent screen recording for Wayland, from one shortcut"
+2026-10-01T03:30:09Z,nefercap-git,0.2.1.r0.g7e79979-1,0,"Screenshots and silent screen recording for Wayland, from one shortcut (git version)"
+2026-10-01T03:35:48Z,jstart,0.0.1-1,0,Lightweight launcher for jar/war and native (tar.gz) Java artifacts
+2026-10-01T03:38:19Z,neferafk-bin,0.2.0-1,0,"Idle daemon for Wayland: fade, session lock, screens off and suspend"
+2026-10-01T03:38:34Z,neferafk-git,0.2.0.r0.g271e247-1,0,"Idle daemon for Wayland: fade, session lock, screens off and suspend (git version)"
+2026-10-01T03:39:32Z,rmd-cli,0.4.0-1,1,One-shot Linux reminders that survive reboot and show up as desktop notifications
+2026-10-01T03:39:35Z,rmd-cli-bin,0.4.0-1,1,One-shot Linux reminders that survive reboot and show up as desktop notifications
