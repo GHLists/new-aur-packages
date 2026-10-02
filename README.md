@@ -12,20 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 06:21 UTC
+## Latest list — 2026-10-02 08:22 UTC
 
-New packages created between 2026-10-02 05:20 UTC and 2026-10-02 06:21 UTC.
+New packages created between 2026-10-02 07:21 UTC and 2026-10-02 08:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-02T06-21-42-363724Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-02T08-22-20-704326Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-02 05:20:38 | [vault-crypt-git](https://aur.archlinux.org/packages/vault-crypt-git) | r5.ed3af56-1 | 0 | Minimalist GPG-powered vault encryption for KeePassXC: no cloud, no traces, jus… |
-| 2026-10-02 05:21:42 | [ydf](https://aur.archlinux.org/packages/ydf) | 0.3.1-1 | 0 | A disruptive dotfiles manager+: be ready to work in just a few minutes on your… |
-| 2026-10-02 05:27:23 | [snav-bin](https://aur.archlinux.org/packages/snav-bin) | 0.7.4-1 | 1 | Fast terminal code navigator with fuzzy search, syntax-highlighted preview and… |
-| 2026-10-02 06:05:58 | [tshare-bin](https://aur.archlinux.org/packages/tshare-bin) | 1.1.8-1 | 1 | The fastest way to share your files on the web, for free |
-| 2026-10-02 06:07:03 | [squeeze-bin](https://aur.archlinux.org/packages/squeeze-bin) | 0.3.0-1 | 1 | Extract rich information from any text (raw, JSON, HTML, YAML, etc.) |
-| 2026-10-02 06:12:45 | [aggr-bin](https://aur.archlinux.org/packages/aggr-bin) | 1.10.0-1 | 1 | Git-native feed reader |
+| 2026-10-02 07:42:08 | [venera-prime-bin](https://aur.archlinux.org/packages/venera-prime-bin) | 2.4.2-1 | 0 | A comic reader that support reading local and network comics. (Prime) |
+| 2026-10-02 08:17:55 | [swayview](https://aur.archlinux.org/packages/swayview) | 0.1.8-1 | 0 | Live workspace overview for sway |
 
 ## Data source
 
