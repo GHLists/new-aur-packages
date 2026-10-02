@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 00:21 UTC
+## Latest list — 2026-10-02 01:20 UTC
 
-New packages created between 2026-10-01 23:20 UTC and 2026-10-02 00:21 UTC.
+New packages created between 2026-10-02 00:21 UTC and 2026-10-02 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-02T00-21-49-328414Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-02T01-20-49-714478Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-01 23:29:59 | [nutest-git](https://aur.archlinux.org/packages/nutest-git) | v1.2.0.r0.gc46af12-2 | 1 | A Nushell test framework |
-| 2026-10-02 00:13:17 | [cwtail](https://aur.archlinux.org/packages/cwtail) | 2026.10.2-1 | 0 | CloudWatch Logs TUI — browse, explore, and live-tail log groups |
+| 2026-10-02 00:57:00 | [omnidiff-bin](https://aur.archlinux.org/packages/omnidiff-bin) | 0.2.0-1 | 1 | Fast, robust, accurate diffing |
+| 2026-10-02 01:04:09 | [proton-wineland-bin](https://aur.archlinux.org/packages/proton-wineland-bin) | 1:11.0.20260930-2 | 0 | An unofficial fork of proton-cachyos with further improvements and wayland enha… |
+| 2026-10-02 01:19:32 | [sshbox-git](https://aur.archlinux.org/packages/sshbox-git) |  |  | Tiny SSH/SFTP CLI for remote deploy and training workflows |
 
 ## Data source
 
