@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-02T18:35:34Z,neferwl-bin,0.2.0-1,0,"Minimal Wayland compositor with column tiling, for the TTY"
+2026-10-02T18:35:58Z,neferwl-git,0.2.0.r0.g13c6a90-1,0,"Minimal Wayland compositor with column tiling, for the TTY (git version)"
+2026-10-02T18:47:42Z,memcastle-bin,0.1.0-1,0,"Local-first, always-on memory server for AI coding agents over MCP/HTTP (prebuilt binary)"
+2026-10-02T19:02:40Z,obs-omniversify-multichat-plugin,0.2.0-1,0,OBS dock for multichat (Twitch/Kick) chat preview with local GPU-accelerated TTS; auto-starts its TTS backend with OBS
+2026-10-02T19:17:00Z,r-orthopolynom,,,Collection of functions for orthogonal and orthonormal polynomials
+2026-10-02T19:18:02Z,banchoxterm,,,Multi-protocol terminal emulator and remote session manager
