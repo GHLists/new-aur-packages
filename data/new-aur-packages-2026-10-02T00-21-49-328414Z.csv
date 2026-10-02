@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-01T23:29:59Z,nutest-git,v1.2.0.r0.gc46af12-2,1,A Nushell test framework
+2026-10-02T00:13:17Z,cwtail,2026.10.2-1,0,"CloudWatch Logs TUI — browse, explore, and live-tail log groups"
