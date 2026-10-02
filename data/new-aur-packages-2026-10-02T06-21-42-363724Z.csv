@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-02T05:20:38Z,vault-crypt-git,r5.ed3af56-1,0,"Minimalist GPG-powered vault encryption for KeePassXC: no cloud, no traces, just your keys"
+2026-10-02T05:21:42Z,ydf,0.3.1-1,0,A disruptive dotfiles manager+: be ready to work in just a few minutes on your fresh OS
+2026-10-02T05:27:23Z,snav-bin,0.7.4-1,1,"Fast terminal code navigator with fuzzy search, syntax-highlighted preview and editor integration, powered by ripgrep"
+2026-10-02T06:05:58Z,tshare-bin,1.1.8-1,1,"The fastest way to share your files on the web, for free"
+2026-10-02T06:07:03Z,squeeze-bin,0.3.0-1,1,"Extract rich information from any text (raw, JSON, HTML, YAML, etc.)"
+2026-10-02T06:12:45Z,aggr-bin,1.10.0-1,1,Git-native feed reader
