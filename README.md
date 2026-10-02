@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 08:22 UTC
+## Latest list — 2026-10-02 09:22 UTC
 
-New packages created between 2026-10-02 07:21 UTC and 2026-10-02 08:22 UTC.
+New packages created between 2026-10-02 08:22 UTC and 2026-10-02 09:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-02T08-22-20-704326Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-02T09-22-39-597293Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-02 07:42:08 | [venera-prime-bin](https://aur.archlinux.org/packages/venera-prime-bin) | 2.4.2-1 | 0 | A comic reader that support reading local and network comics. (Prime) |
-| 2026-10-02 08:17:55 | [swayview](https://aur.archlinux.org/packages/swayview) | 0.1.8-1 | 0 | Live workspace overview for sway |
+| 2026-10-02 08:22:58 | [swayview-bin](https://aur.archlinux.org/packages/swayview-bin) | 0.1.8-1 | 0 | Live workspace overview for sway (prebuilt binary) |
+| 2026-10-02 08:55:43 | [katana-desktop-bin](https://aur.archlinux.org/packages/katana-desktop-bin) | 1.0.0-1 | 0 | Unofficial desktop client for Nonograms Katana user puzzles (prebuilt binary) |
+| 2026-10-02 08:56:50 | [katana-desktop](https://aur.archlinux.org/packages/katana-desktop) | 1.0.0-1 | 0 | Unofficial desktop client for Nonograms Katana user puzzles |
 
 ## Data source
 
