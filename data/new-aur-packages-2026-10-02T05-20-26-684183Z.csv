@@ -1,0 +1,39 @@
+created_at,package,version,votes,description
+2026-10-02T04:22:26Z,terrahour,1.0.2-1,1,"World clock, world map and 24-hour meeting planner for the terminal"
+2026-10-02T04:36:38Z,aclock-git,r91.d8802be-1,0,"Ascii analog clock for text console displays, terminals and terminal emulators"
+2026-10-02T04:37:47Z,bash-radio-player-git,r6.be94379-1,0,Terminal radio player using mpv and fzf
+2026-10-02T04:38:51Z,bocker,0.1-1,0,Docker implemented in around 100 lines of bash
+2026-10-02T04:39:56Z,bollywood-git,r9.31e1677-1,0,"Runs terminal screencasts in multiple panes, resulting in a Hollywood-style real-time hacking terminal"
+2026-10-02T04:41:07Z,bren,0.4-1,0,"Command line bulk file renamer with support for GNU Guile scripting; simple, fast, written in C"
+2026-10-02T04:42:11Z,catdir,0.1.2-1,0,"CLI utility that traverses directories and concatenates the contents of all files within a folder and its subfolders, like cat but for entire directory trees"
+2026-10-02T04:43:22Z,chat.sh-git,r17.1309f40-1,0,Pipeable LLM wrapper with code execution (OpenRouter)
+2026-10-02T04:44:29Z,fyora,1.3.0-1,0,Intuitive declarative dotfile management
+2026-10-02T04:45:35Z,fzf-git.sh-git,r100.110c0a1-1,0,"bash and zsh key bindings for Git objects, powered by fzf"
+2026-10-02T04:46:41Z,fzfm-git,r20.f4fe8fb-1,0,A command-line fuzzy finder file manager
+2026-10-02T04:47:50Z,gpterm,0.1.2-1,0,Yet another command-line ChatGPT frontend written in Rust
+2026-10-02T04:48:59Z,hnterm,0.4-1,0,Hacker News in the terminal
+2026-10-02T04:50:06Z,lmt,0.0.1-1,0,"Run applications with resource limits (CPU, memory, cores) enforced using cgroupsv2 on Linux"
+2026-10-02T04:51:15Z,moove,0.4.7-1,0,Manipulate file names and locations using a text editor
+2026-10-02T04:52:23Z,nitchplusplus-git,r119.650bbe6-1,0,A fast system information fetch tool
+2026-10-02T04:53:33Z,nostui,0.1.1-1,0,TUI client for Nostr
+2026-10-02T04:56:07Z,python-cli-co-pilot-git,r146.f5aebe0-1,0,CLI tool that uses GPT4 to turn natural language commands into Bash/ZShell/PowerShell equivalents
+2026-10-02T04:57:12Z,python-github-dlr,0.1.3-1,0,Download individual files and folders from GitHub recursively
+2026-10-02T04:59:19Z,python-osh-git,r7.4a11fae-1,0,Ollama Shell Helper: English to Unix-like shell commands translation using local LLMs with Ollama
+2026-10-02T05:00:24Z,python-pdiary,1.65-1,0,A simple terminal diary journal application written in Python with encryption support
+2026-10-02T05:02:47Z,python-saws,0.4.2-1,0,A supercharged AWS command line interface (CLI)
+2026-10-02T05:03:52Z,python-spotui,0.1.20-1,0,TUI Spotify client written in Python
+2026-10-02T05:04:57Z,python-td-cli,1.3.0-1,0,A command line todo manager where you can organize and manage your todos across multiple projects
+2026-10-02T05:06:01Z,python-yark,1.2.9-1,0,YouTube archiving made simple
+2026-10-02T05:07:11Z,redive-git,r24.1d34304-1,0,Trace URL redirections in the terminal
+2026-10-02T05:08:24Z,rusty-rain,0.5.0-1,0,A cross platform matrix rain made with Rust
+2026-10-02T05:09:29Z,sha256-animation-git,r13.871e976-1,0,Animation of the SHA-256 hash function in your terminal
+2026-10-02T05:10:37Z,shournal,3.3-1,0,"Log shell-commands and used files, snapshot executed scripts; fully automatic"
+2026-10-02T05:10:38Z,moove-bin,0.4.7-1,1,Manipulate file names and locations using a text editor
+2026-10-02T05:11:48Z,squeeze,0.3.0-1,0,"Extract rich information from any text (raw, JSON, HTML, YAML, etc.)"
+2026-10-02T05:12:56Z,sshtron-git,r120.39632dd-1,0,Multiplayer lightcycle game that runs through SSH
+2026-10-02T05:14:04Z,tdash,0.5.5-1,0,"A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins"
+2026-10-02T05:14:48Z,fyora-bin,1.3.0-1,1,Intuitive declarative dotfile management
+2026-10-02T05:15:40Z,teetail-git,r11.5237d11-1,0,"Like tee, but only the tail goes in the file"
+2026-10-02T05:16:51Z,terminal-doom,0.1.0-1,0,Play DOOM in modern terminals
+2026-10-02T05:17:59Z,trashbhuwan,3.1.0-1,0,"Trashing CLI application for Linux distros, written in C"
+2026-10-02T05:19:08Z,tshare,1.1.8-1,0,"The fastest way to share your files on the web, for free"
