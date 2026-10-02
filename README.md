@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 01:20 UTC
+## Latest list — 2026-10-02 02:21 UTC
 
-New packages created between 2026-10-02 00:21 UTC and 2026-10-02 01:20 UTC.
+New packages created between 2026-10-02 01:20 UTC and 2026-10-02 02:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-02T01-20-49-714478Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-02T02-21-08-191136Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-02 00:57:00 | [omnidiff-bin](https://aur.archlinux.org/packages/omnidiff-bin) | 0.2.0-1 | 1 | Fast, robust, accurate diffing |
-| 2026-10-02 01:04:09 | [proton-wineland-bin](https://aur.archlinux.org/packages/proton-wineland-bin) | 1:11.0.20260930-2 | 0 | An unofficial fork of proton-cachyos with further improvements and wayland enha… |
-| 2026-10-02 01:19:32 | [sshbox-git](https://aur.archlinux.org/packages/sshbox-git) |  |  | Tiny SSH/SFTP CLI for remote deploy and training workflows |
+| 2026-10-02 01:32:07 | [treehouse](https://aur.archlinux.org/packages/treehouse) | 3.1.1-1 | 1 | Manage worktrees without managing worktrees |
+| 2026-10-02 01:59:42 | [bootable-tui](https://aur.archlinux.org/packages/bootable-tui) | 0.1.4-1 | 0 | Bootable terminal interface, CLI API, and privileged write helper |
+| 2026-10-02 01:59:42 | [bootable-gui](https://aur.archlinux.org/packages/bootable-gui) | 0.1.4-1 | 0 | Bootable desktop interface |
+| 2026-10-02 01:59:54 | [omarchy-bootable-git](https://aur.archlinux.org/packages/omarchy-bootable-git) | r23.3fdd881-1 | 0 | Bootable boot media writer client for the Omarchy bar |
 
 ## Data source
 
