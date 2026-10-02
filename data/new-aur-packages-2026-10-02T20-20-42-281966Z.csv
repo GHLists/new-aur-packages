@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-02T19:24:43Z,vgs-git,0.1.0-1,0,"Desktop shell for Hyprland, built on Quickshell (development version)"
+2026-10-02T19:30:16Z,mitsuzo-bin,0.12.10-1,0,"Encrypted, self-hostable handoff for secrets and short-lived files (CLI, prebuilt binary)"
+2026-10-02T19:44:58Z,gp-tray,1.0.0-3,0,"GlobalProtect VPN system-tray indicator for gpclient with multi-portal switching, desktop alerts and a systemd user service"
+2026-10-02T19:58:56Z,hypergrep,0.1.1-1,0,Recursively search directories for a regex pattern using Intel Hyperscan
+2026-10-02T19:59:55Z,linux-danmu-hime,0.1.1-1,0,bilibili 直播弹幕浮层（wlr-layer-shell）+ GTK4 设置界面（预编译）
+2026-10-02T20:01:06Z,secret-share,0.6.0-1,0,Share messages (secrets and passwords) securely with a CLI
+2026-10-02T20:02:16Z,sssnake,0.4.0-1,0,Smart and sexy snake: the classic snake game for the terminal that can play itself and be used like a screensaver

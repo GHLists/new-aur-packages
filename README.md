@@ -12,20 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 19:20 UTC
+## Latest list — 2026-10-02 20:20 UTC
 
-New packages created between 2026-10-02 18:19 UTC and 2026-10-02 19:20 UTC.
+New packages created between 2026-10-02 19:20 UTC and 2026-10-02 20:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-02T19-20-46-632898Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-02T20-20-42-281966Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-02 18:35:34 | [neferwl-bin](https://aur.archlinux.org/packages/neferwl-bin) | 0.2.0-1 | 0 | Minimal Wayland compositor with column tiling, for the TTY |
-| 2026-10-02 18:35:58 | [neferwl-git](https://aur.archlinux.org/packages/neferwl-git) | 0.2.0.r0.g13c6a90-1 | 0 | Minimal Wayland compositor with column tiling, for the TTY (git version) |
-| 2026-10-02 18:47:42 | [memcastle-bin](https://aur.archlinux.org/packages/memcastle-bin) | 0.1.0-1 | 0 | Local-first, always-on memory server for AI coding agents over MCP/HTTP (prebui… |
-| 2026-10-02 19:02:40 | [obs-omniversify-multichat-plugin](https://aur.archlinux.org/packages/obs-omniversify-multichat-plugin) | 0.2.0-1 | 0 | OBS dock for multichat (Twitch/Kick) chat preview with local GPU-accelerated TT… |
-| 2026-10-02 19:17:00 | [r-orthopolynom](https://aur.archlinux.org/packages/r-orthopolynom) |  |  | Collection of functions for orthogonal and orthonormal polynomials |
-| 2026-10-02 19:18:02 | [banchoxterm](https://aur.archlinux.org/packages/banchoxterm) |  |  | Multi-protocol terminal emulator and remote session manager |
+| 2026-10-02 19:24:43 | [vgs-git](https://aur.archlinux.org/packages/vgs-git) | 0.1.0-1 | 0 | Desktop shell for Hyprland, built on Quickshell (development version) |
+| 2026-10-02 19:30:16 | [mitsuzo-bin](https://aur.archlinux.org/packages/mitsuzo-bin) | 0.12.10-1 | 0 | Encrypted, self-hostable handoff for secrets and short-lived files (CLI, prebui… |
+| 2026-10-02 19:44:58 | [gp-tray](https://aur.archlinux.org/packages/gp-tray) | 1.0.0-3 | 0 | GlobalProtect VPN system-tray indicator for gpclient with multi-portal switchin… |
+| 2026-10-02 19:58:56 | [hypergrep](https://aur.archlinux.org/packages/hypergrep) | 0.1.1-1 | 0 | Recursively search directories for a regex pattern using Intel Hyperscan |
+| 2026-10-02 19:59:55 | [linux-danmu-hime](https://aur.archlinux.org/packages/linux-danmu-hime) | 0.1.1-1 | 0 | bilibili 直播弹幕浮层（wlr-layer-shell）+ GTK4 设置界面（预编译） |
+| 2026-10-02 20:01:06 | [secret-share](https://aur.archlinux.org/packages/secret-share) | 0.6.0-1 | 0 | Share messages (secrets and passwords) securely with a CLI |
+| 2026-10-02 20:02:16 | [sssnake](https://aur.archlinux.org/packages/sssnake) | 0.4.0-1 | 0 | Smart and sexy snake: the classic snake game for the terminal that can play its… |
 
 ## Data source
 
