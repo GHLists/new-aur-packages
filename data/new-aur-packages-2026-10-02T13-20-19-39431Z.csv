@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-02T12:44:30Z,gdb-static-bin,18.1-1,1,"Precompiled binaries of a statically linked versions of GDB, together with python. Fetched from the source repository's releases tab."
+2026-10-02T12:49:59Z,rigwatch-bin,0.0.21-1,0,"Live terminal dashboard for CPU, GPU, RAM and disk on your servers, over SSH"
+2026-10-02T12:58:29Z,qi-bin,0.2.1-1,0,Local-first query engine CLI for AI agents and humans (BM25 + vector search)
+2026-10-02T13:00:23Z,sysc-greet-mango,1.1.11-1,0,Graphical console greeter for greetd with ASCII art and themes (Mango compositor)

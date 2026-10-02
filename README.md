@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 12:19 UTC
+## Latest list — 2026-10-02 13:20 UTC
 
-New packages created between 2026-10-02 11:20 UTC and 2026-10-02 12:19 UTC.
+New packages created between 2026-10-02 12:19 UTC and 2026-10-02 13:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-02T12-19-37-055032Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-02T13-20-19-39431Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-02 11:32:46 | [tincan-git](https://aur.archlinux.org/packages/tincan-git) | 0.3.3.r0.g8d47968-2 | 1 | Serverless peer-to-peer voice and text chat for your terminal |
-| 2026-10-02 11:44:09 | [nuviodesktop-bin](https://aur.archlinux.org/packages/nuviodesktop-bin) | 0.1.26.alpha-1 | 0 | Desktop media app for browsing, organizing and playing media from sources you a… |
-| 2026-10-02 11:59:18 | [gdb-static](https://aur.archlinux.org/packages/gdb-static) | 18.1-1 | 1 | Statically linked versions of GDB, together with python. |
+| 2026-10-02 12:44:30 | [gdb-static-bin](https://aur.archlinux.org/packages/gdb-static-bin) | 18.1-1 | 1 | Precompiled binaries of a statically linked versions of GDB, together with pyth… |
+| 2026-10-02 12:49:59 | [rigwatch-bin](https://aur.archlinux.org/packages/rigwatch-bin) | 0.0.21-1 | 0 | Live terminal dashboard for CPU, GPU, RAM and disk on your servers, over SSH |
+| 2026-10-02 12:58:29 | [qi-bin](https://aur.archlinux.org/packages/qi-bin) | 0.2.1-1 | 0 | Local-first query engine CLI for AI agents and humans (BM25 + vector search) |
+| 2026-10-02 13:00:23 | [sysc-greet-mango](https://aur.archlinux.org/packages/sysc-greet-mango) | 1.1.11-1 | 0 | Graphical console greeter for greetd with ASCII art and themes (Mango composito… |
 
 ## Data source
 
