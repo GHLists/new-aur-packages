@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 09:22 UTC
+## Latest list — 2026-10-02 11:20 UTC
 
-New packages created between 2026-10-02 08:22 UTC and 2026-10-02 09:22 UTC.
+New packages created between 2026-10-02 10:18 UTC and 2026-10-02 11:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-02T09-22-39-597293Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-02T11-20-28-9789Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-02 08:22:58 | [swayview-bin](https://aur.archlinux.org/packages/swayview-bin) | 0.1.8-1 | 0 | Live workspace overview for sway (prebuilt binary) |
-| 2026-10-02 08:55:43 | [katana-desktop-bin](https://aur.archlinux.org/packages/katana-desktop-bin) | 1.0.0-1 | 0 | Unofficial desktop client for Nonograms Katana user puzzles (prebuilt binary) |
-| 2026-10-02 08:56:50 | [katana-desktop](https://aur.archlinux.org/packages/katana-desktop) | 1.0.0-1 | 0 | Unofficial desktop client for Nonograms Katana user puzzles |
+| 2026-10-02 10:21:25 | [tracee](https://aur.archlinux.org/packages/tracee) | 0.24.1-1 | 0 | Linux runtime security and forensics using eBPF |
+| 2026-10-02 11:02:44 | [broadcast-linux-bin](https://aur.archlinux.org/packages/broadcast-linux-bin) | 0.2.1-1 | 0 | NVIDIA Broadcast effects as a virtual mic and camera under Wine |
+| 2026-10-02 11:11:50 | [rhun-bin](https://aur.archlinux.org/packages/rhun-bin) | 0.16.2-1 | 0 | Small and fast code editor written in assembly (prebuilt binaries) |
 
 ## Data source
 
