@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-02T14:25:26Z,ttf-roboto-flex-hinted,3.200-1,0,"Roboto Flex, the 13-axis variable Roboto, hinted with ttfautohint for FreeType, with working italics and fontconfig axis presets (optionally static / Nerd Fonts patched)"
+2026-10-02T14:25:34Z,rsign2-git,0.6.7.r0.ga9fe332-1,0,A command-line tool to sign files and verify signatures in pure Rust
+2026-10-02T14:27:51Z,clak,0.1.0-1,0,Fast and highly stable Vietnamese input method for Fcitx5 and Wayland
+2026-10-02T14:44:01Z,pg_rum-git,1.3.15.r24.gc0e3bf3…,0,RUM access method for PostgreSQL - inverted index with additional information in posting lists (git version)
+2026-10-02T15:39:44Z,linuxqq-wayland-fix,0.2.7-1,0,修复 Linux QQ 在 Wayland 下的屏幕共享、共享电脑声音、剪贴板和截图问题
+2026-10-02T15:53:41Z,katana-tui-bin,1.1.0-1,0,Unofficial terminal client for Nonograms Katana user puzzles (prebuilt binary)
+2026-10-02T15:55:16Z,katana-tui,1.1.0-1,0,Unofficial terminal client for Nonograms Katana user puzzles
+2026-10-02T16:13:08Z,kde-window-moves-git,r136.0e392d4-1,0,"Keyboard-driven window move, resize and zoom shortcuts for KDE Plasma on Wayland"
