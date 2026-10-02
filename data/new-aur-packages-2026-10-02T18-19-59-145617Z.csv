@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-02T18:08:16Z,snippit,1.2.2-1,0,Desktop clip-trimming tool with live multi-track audio mixing and lossless export (Tauri + React)
+2026-10-02T18:08:24Z,snippit-bin,1.2.2-1,0,Desktop clip-trimming tool with live multi-track audio mixing and lossless export (prebuilt binary)
+2026-10-02T18:11:42Z,zedsecure-bin,3.1.2-1,0,ZedSecure VPN client

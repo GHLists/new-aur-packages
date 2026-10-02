@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 17:20 UTC
+## Latest list — 2026-10-02 18:19 UTC
 
-New packages created between 2026-10-02 16:19 UTC and 2026-10-02 17:20 UTC.
+New packages created between 2026-10-02 17:20 UTC and 2026-10-02 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-02T17-20-44-005347Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-02T18-19-59-145617Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-02 16:42:44 | [cranamp](https://aur.archlinux.org/packages/cranamp) | 0.1.86-1 | 0 | Music player in Rust with WSZ skins and an agent-connected Skin Studio |
-| 2026-10-02 16:53:12 | [nstream](https://aur.archlinux.org/packages/nstream) | 1.43.0-1 | 0 | Native, terminal-first Stremio-like client (Cinemeta + Torrentio/debrid or loca… |
+| 2026-10-02 18:08:16 | [snippit](https://aur.archlinux.org/packages/snippit) | 1.2.2-1 | 0 | Desktop clip-trimming tool with live multi-track audio mixing and lossless expo… |
+| 2026-10-02 18:08:24 | [snippit-bin](https://aur.archlinux.org/packages/snippit-bin) | 1.2.2-1 | 0 | Desktop clip-trimming tool with live multi-track audio mixing and lossless expo… |
+| 2026-10-02 18:11:42 | [zedsecure-bin](https://aur.archlinux.org/packages/zedsecure-bin) | 3.1.2-1 | 0 | ZedSecure VPN client |
 
 ## Data source
 
