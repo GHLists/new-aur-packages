@@ -12,21 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 20:20 UTC
+## Latest list — 2026-10-02 21:22 UTC
 
-New packages created between 2026-10-02 19:20 UTC and 2026-10-02 20:20 UTC.
+New packages created between 2026-10-02 20:20 UTC and 2026-10-02 21:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-02T20-20-42-281966Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-02T21-22-22-602555Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-02 19:24:43 | [vgs-git](https://aur.archlinux.org/packages/vgs-git) | 0.1.0-1 | 0 | Desktop shell for Hyprland, built on Quickshell (development version) |
-| 2026-10-02 19:30:16 | [mitsuzo-bin](https://aur.archlinux.org/packages/mitsuzo-bin) | 0.12.10-1 | 0 | Encrypted, self-hostable handoff for secrets and short-lived files (CLI, prebui… |
-| 2026-10-02 19:44:58 | [gp-tray](https://aur.archlinux.org/packages/gp-tray) | 1.0.0-3 | 0 | GlobalProtect VPN system-tray indicator for gpclient with multi-portal switchin… |
-| 2026-10-02 19:58:56 | [hypergrep](https://aur.archlinux.org/packages/hypergrep) | 0.1.1-1 | 0 | Recursively search directories for a regex pattern using Intel Hyperscan |
-| 2026-10-02 19:59:55 | [linux-danmu-hime](https://aur.archlinux.org/packages/linux-danmu-hime) | 0.1.1-1 | 0 | bilibili 直播弹幕浮层（wlr-layer-shell）+ GTK4 设置界面（预编译） |
-| 2026-10-02 20:01:06 | [secret-share](https://aur.archlinux.org/packages/secret-share) | 0.6.0-1 | 0 | Share messages (secrets and passwords) securely with a CLI |
-| 2026-10-02 20:02:16 | [sssnake](https://aur.archlinux.org/packages/sssnake) | 0.4.0-1 | 0 | Smart and sexy snake: the classic snake game for the terminal that can play its… |
+| 2026-10-02 20:39:47 | [subprocessh-git](https://aur.archlinux.org/packages/subprocessh-git) | r91.8a4715c-1 | 0 | A simple one header solution to launching processes and interacting with them f… |
 
 ## Data source
 
