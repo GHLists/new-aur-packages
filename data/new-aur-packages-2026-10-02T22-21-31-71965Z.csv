@@ -1,0 +1,11 @@
+created_at,package,version,votes,description
+2026-10-02T21:55:23Z,unreal-engine-src-5.4,5.4.4-1,0,A 3D game engine by Epic Games which can be used non-commercially for free.
+2026-10-02T21:55:30Z,unreal-engine-src-5.5,5.5.4-1,0,A 3D game engine by Epic Games which can be used non-commercially for free.
+2026-10-02T21:55:36Z,unreal-engine-src-5.6,5.6.1-1,0,A 3D game engine by Epic Games which can be used non-commercially for free.
+2026-10-02T21:55:43Z,unreal-engine-src-5.7,5.7.4-1,0,A 3D game engine by Epic Games which can be used non-commercially for free.
+2026-10-02T21:55:48Z,zig0.16-bin,0.16.0-1,0,"General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software"
+2026-10-02T21:55:49Z,unreal-engine-src-5.8,5.8.3-1,0,A 3D game engine by Epic Games which can be used non-commercially for free.
+2026-10-02T21:56:44Z,whisrs,0.1.28-1,0,"Linux-first voice-to-text dictation tool, written in Rust (CPU)"
+2026-10-02T21:56:44Z,whisrs-cuda,0.1.28-1,0,"Linux-first voice-to-text dictation tool, written in Rust (NVIDIA CUDA)"
+2026-10-02T21:56:44Z,whisrs-vulkan,0.1.28-1,0,"Linux-first voice-to-text dictation tool, written in Rust (Vulkan)"
+2026-10-02T22:00:15Z,zls0.16-bin,0.16.0-1,0,A language server for Zig
