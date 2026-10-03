@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 22:20 UTC
+## Latest list — 2026-10-03 23:22 UTC
 
-New packages created between 2026-10-03 21:20 UTC and 2026-10-03 22:20 UTC.
+New packages created between 2026-10-03 22:20 UTC and 2026-10-03 23:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T22-20-13-573984Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T23-22-05-037123Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 21:28:06 | [orangplayer-bin](https://aur.archlinux.org/packages/orangplayer-bin) | 0.1.0-1 | 0 | Media player for your files, YouTube, YT Music, SoundCloud and Spotify, with ly… |
-| 2026-10-03 21:52:28 | [flummox-bin](https://aur.archlinux.org/packages/flummox-bin) | 0.0.1-1 | 0 | Compress installed games and keep playing them |
+| 2026-10-03 22:36:29 | [insensical-bin](https://aur.archlinux.org/packages/insensical-bin) | 0.1.0-1 | 0 | A terminal multiplexer with a window of its own, for supervising many terminals… |
 
 ## Data source
 
