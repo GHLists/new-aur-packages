@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-03T13:45:35Z,unbloated-youtube-bin,0.8.1-1,0,"Lightweight, configurable YouTube desktop client: GPUI, embedded mpv, yt-dlp (prebuilt binary)"
+2026-10-03T14:01:49Z,qrious-bin,2026.10.0-1,0,"Generate QR codes for WiFi, contacts, URLs, emails, and more"
+2026-10-03T14:13:35Z,crab-on-desk-git,r0.0000000-1,0,A rust based pet for coding agents.
+2026-10-03T14:13:49Z,crab-on-desk-themes,20261003-1,0,"Clawd, Calico and Cloudling themes for crab-on-desk, rendered locally from clawd-on-desk"

@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 13:20 UTC
+## Latest list — 2026-10-03 14:20 UTC
 
-New packages created between 2026-10-03 12:22 UTC and 2026-10-03 13:20 UTC.
+New packages created between 2026-10-03 13:20 UTC and 2026-10-03 14:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T13-20-19-811157Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T14-20-18-195347Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 12:43:07 | [inner-pitch-bin](https://aur.archlinux.org/packages/inner-pitch-bin) | 2.1-1 | 0 | A pitch shifter plugin (LV2, CLAP, VST3), free edition |
-| 2026-10-03 13:08:27 | [gnome-shell-extension-window-nativizer](https://aur.archlinux.org/packages/gnome-shell-extension-window-nativizer) | 0.9.0-1 | 0 | Seamlessly nativize non-native applications into the GNOME desktop |
-| 2026-10-03 13:13:52 | [n3v3-bin](https://aur.archlinux.org/packages/n3v3-bin) | 5.0.3-1 | 0 | Pure functional language for system configuration (prebuilt binary) |
-| 2026-10-03 13:14:42 | [telegram-drive-appimage](https://aur.archlinux.org/packages/telegram-drive-appimage) | 3.9.8-1 | 0 | Turn your Telegram account into an unlimited, secure cloud storage drive (AppIm… |
+| 2026-10-03 13:45:35 | [unbloated-youtube-bin](https://aur.archlinux.org/packages/unbloated-youtube-bin) | 0.8.1-1 | 0 | Lightweight, configurable YouTube desktop client: GPUI, embedded mpv, yt-dlp (p… |
+| 2026-10-03 14:01:49 | [qrious-bin](https://aur.archlinux.org/packages/qrious-bin) | 2026.10.0-1 | 0 | Generate QR codes for WiFi, contacts, URLs, emails, and more |
+| 2026-10-03 14:13:35 | [crab-on-desk-git](https://aur.archlinux.org/packages/crab-on-desk-git) | r0.0000000-1 | 0 | A rust based pet for coding agents. |
+| 2026-10-03 14:13:49 | [crab-on-desk-themes](https://aur.archlinux.org/packages/crab-on-desk-themes) | 20261003-1 | 0 | Clawd, Calico and Cloudling themes for crab-on-desk, rendered locally from claw… |
 
 ## Data source
 
