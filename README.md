@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 06:19 UTC
+## Latest list — 2026-10-03 07:22 UTC
 
-New packages created between 2026-10-03 05:20 UTC and 2026-10-03 06:19 UTC.
+New packages created between 2026-10-03 06:19 UTC and 2026-10-03 07:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T06-19-54-943611Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T07-22-08-044026Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 05:43:40 | [ttf-libron](https://aur.archlinux.org/packages/ttf-libron) | 0.25-1 | 0 | Serif typeface tuned for digital reading and e-readers (Readerly fork) |
-| 2026-10-03 05:49:03 | [1panel-bin](https://aur.archlinux.org/packages/1panel-bin) | 1.10.9_lts-1 | 0 | 1Panel is a modern and open source Linux panel. |
-| 2026-10-03 06:01:26 | [1panel-v2-bin](https://aur.archlinux.org/packages/1panel-v2-bin) | 2.3.2-1 | 0 | 1Panel v2, a modern open source linux panel (official binary) |
+| 2026-10-03 06:22:34 | [arch-summit-strudel-2026](https://aur.archlinux.org/packages/arch-summit-strudel-2026) | 2026-1 | 1 | Install a strudel wallpaper from the Arch Linux Summit 2026 |
+| 2026-10-03 06:40:05 | [linux-73rc5](https://aur.archlinux.org/packages/linux-73rc5) | 7.3rc5-1 | 0 | The Linux 7.3-rc5 kernel and modules |
+| 2026-10-03 06:40:05 | [linux-73rc5-headers](https://aur.archlinux.org/packages/linux-73rc5-headers) | 7.3rc5-1 | 0 | Headers and scripts for building modules for the Linux 7.3-rc5 kernel |
+| 2026-10-03 06:40:05 | [linux-73rc5-docs](https://aur.archlinux.org/packages/linux-73rc5-docs) | 7.3rc5-1 | 0 | Documentation for the Linux 7.3-rc5 kernel |
 
 ## Data source
 
