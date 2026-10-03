@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 01:19 UTC
+## Latest list — 2026-10-03 02:21 UTC
 
-New packages created between 2026-10-03 00:20 UTC and 2026-10-03 01:19 UTC.
+New packages created between 2026-10-03 01:19 UTC and 2026-10-03 02:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T01-19-12-001679Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T02-21-49-330644Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 00:47:40 | [paseo-tray-git](https://aur.archlinux.org/packages/paseo-tray-git) | 0.1.0.r2.g82ec9fb-1 | 0 | System tray controller for the Paseo daemon |
-| 2026-10-03 01:07:38 | [cidr-git](https://aur.archlinux.org/packages/cidr-git) | 2.3.0.r10.g95f3629-1 | 0 | CLI tool for working with IPv4 and IPv6 CIDR ranges |
-| 2026-10-03 01:13:26 | [mpx-bin](https://aur.archlinux.org/packages/mpx-bin) | 0.1.1-1 | 1 | Transparent terminal multiplexer |
+| 2026-10-03 01:28:46 | [sping-bin](https://aur.archlinux.org/packages/sping-bin) | 1.5.4-1 | 1 | A modern, cross-platform ping with real-time diagnostics, network context, qual… |
+| 2026-10-03 01:48:09 | [zeron-bin](https://aur.archlinux.org/packages/zeron-bin) | 0.2.102-1 | 0 | A native control plane for Claude Code, Codex, Cursor, Devin and other coding a… |
 
 ## Data source
 
