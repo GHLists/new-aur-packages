@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 09:20 UTC
+## Latest list — 2026-10-03 10:20 UTC
 
-New packages created between 2026-10-03 08:21 UTC and 2026-10-03 09:20 UTC.
+New packages created between 2026-10-03 09:20 UTC and 2026-10-03 10:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T09-20-10-791095Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T10-20-37-129723Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 08:41:59 | [darkly-gtk-git](https://aur.archlinux.org/packages/darkly-gtk-git) | r13.36d24ba-1 | 0 | Darkly GTK theme |
-| 2026-10-03 08:44:23 | [usbeam-hosts-editor](https://aur.archlinux.org/packages/usbeam-hosts-editor) | 5.0.1-3 | 0 | 羽翼城制作的UsbEAm Hosts Editor,多平台hosts修改工具,使用uhe命令启动 |
+| 2026-10-03 09:55:55 | [zls0.16](https://aur.archlinux.org/packages/zls0.16) | 0.16.0-1 | 0 | A language server for Zig |
 
 ## Data source
 
