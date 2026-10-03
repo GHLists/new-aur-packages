@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-03T20:21:02Z,schist-bin,0.15.0-1,0,Layered image editor with PSD and Affinity support (upstream binary)
+2026-10-03T20:21:40Z,schist,0.15.0-1,0,Layered image editor with PSD and Affinity support
+2026-10-03T21:12:53Z,moonlight-vrr-bin,6.1.0_vrr18-1,0,"GameStream client for PCs, fork of moonlight-qt with smooth VRR pacing (upstream AppImage)"
+2026-10-03T21:13:31Z,moonlight-vrr,6.1.0_vrr18-1,0,"GameStream client for PCs, fork of moonlight-qt with smooth VRR pacing"

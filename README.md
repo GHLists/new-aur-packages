@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 20:20 UTC
+## Latest list — 2026-10-03 21:20 UTC
 
-New packages created between 2026-10-03 19:22 UTC and 2026-10-03 20:20 UTC.
+New packages created between 2026-10-03 20:20 UTC and 2026-10-03 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T20-20-49-152016Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T21-20-33-83675Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 19:35:48 | [rogctl](https://aur.archlinux.org/packages/rogctl) | 2.2.0-1 | 1 | Battery status, settings and panel widgets for ASUS mice |
-| 2026-10-03 19:36:48 | [audacious-discord-rpc](https://aur.archlinux.org/packages/audacious-discord-rpc) | 2.4-1 | 0 | Discord Rich Presence for Audacious |
-| 2026-10-03 19:48:33 | [feedback-bin](https://aur.archlinux.org/packages/feedback-bin) | 0.3.0-1 | 0 | Open-source platform for rhythm gaming and music education |
+| 2026-10-03 20:21:02 | [schist-bin](https://aur.archlinux.org/packages/schist-bin) | 0.15.0-1 | 0 | Layered image editor with PSD and Affinity support (upstream binary) |
+| 2026-10-03 20:21:40 | [schist](https://aur.archlinux.org/packages/schist) | 0.15.0-1 | 0 | Layered image editor with PSD and Affinity support |
+| 2026-10-03 21:12:53 | [moonlight-vrr-bin](https://aur.archlinux.org/packages/moonlight-vrr-bin) | 6.1.0_vrr18-1 | 0 | GameStream client for PCs, fork of moonlight-qt with smooth VRR pacing (upstrea… |
+| 2026-10-03 21:13:31 | [moonlight-vrr](https://aur.archlinux.org/packages/moonlight-vrr) | 6.1.0_vrr18-1 | 0 | GameStream client for PCs, fork of moonlight-qt with smooth VRR pacing |
 
 ## Data source
 
