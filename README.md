@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 02:21 UTC
+## Latest list — 2026-10-03 03:20 UTC
 
-New packages created between 2026-10-03 01:19 UTC and 2026-10-03 02:21 UTC.
+New packages created between 2026-10-03 02:21 UTC and 2026-10-03 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T02-21-49-330644Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T03-20-18-52824Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 01:28:46 | [sping-bin](https://aur.archlinux.org/packages/sping-bin) | 1.5.4-1 | 1 | A modern, cross-platform ping with real-time diagnostics, network context, qual… |
-| 2026-10-03 01:48:09 | [zeron-bin](https://aur.archlinux.org/packages/zeron-bin) | 0.2.102-1 | 0 | A native control plane for Claude Code, Codex, Cursor, Devin and other coding a… |
+| 2026-10-03 02:41:10 | [upmix-core-bin](https://aur.archlinux.org/packages/upmix-core-bin) | 0.5.0-1 | 0 | Stereo to 5.1 upmixer with HTDemucs neural source separation (prebuilt) |
+| 2026-10-03 02:46:34 | [animaple-bin](https://aur.archlinux.org/packages/animaple-bin) | 2.0.0-1 | 0 | Anime streaming app — Flutter cross-platform client (prebuilt binary) |
+| 2026-10-03 02:55:32 | [upmix-core-legacy-bin](https://aur.archlinux.org/packages/upmix-core-legacy-bin) | 0.5.0-1 | 0 | Stereo to 5.1 upmixer with HTDemucs separation (prebuilt for pre-AVX2 CPUs) |
 
 ## Data source
 
