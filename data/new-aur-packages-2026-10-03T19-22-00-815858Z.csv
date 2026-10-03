@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-03T18:24:34Z,captureage-bin,1.26.0-4,0,Advanced spectating for Age of Empires II: Definitive Edition (Windows binary via Proton)
+2026-10-03T18:25:37Z,mcommander-bin,6.1.0-1,0,Twin-panel text-mode file manager with loadable panel plugins (binary release)
+2026-10-03T19:02:14Z,orzma-bin,0.3.0-1,1,A terminal emulator that can render webviews inline
+2026-10-03T19:02:35Z,rimor-bin,0.1.0-1,0,"Terminal workbench for PostgreSQL, SQL Server and SQLite (prebuilt)"
+2026-10-03T19:16:30Z,capture-studio-bin,0.1.31-1,0,"Record and edit product demos: cut pauses, add zooms and captions (upstream Flatpak bundle)"
+2026-10-03T19:18:35Z,rimor,,,"Terminal workbench for PostgreSQL, SQL Server and SQLite"
+2026-10-03T19:18:53Z,slate-bin,,,"Minimal, keyboard-first terminal note-taking scratchpad (prebuilt binary)"

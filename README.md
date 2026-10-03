@@ -12,17 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 18:19 UTC
+## Latest list — 2026-10-03 19:22 UTC
 
-New packages created between 2026-10-03 17:21 UTC and 2026-10-03 18:19 UTC.
+New packages created between 2026-10-03 18:19 UTC and 2026-10-03 19:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T18-19-37-091157Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T19-22-00-815858Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 17:23:38 | [telegram-drive](https://aur.archlinux.org/packages/telegram-drive) | 3.9.8-1 | 0 | Turn your Telegram account into an unlimited, secure cloud storage drive |
-| 2026-10-03 17:24:32 | [thorium-browser-sse4-bin](https://aur.archlinux.org/packages/thorium-browser-sse4-bin) | 138.0.7204.303-1 | 0 | SSE4.1 build of the Chromium fork focused on high performance and security |
-| 2026-10-03 17:32:49 | [edentext-bin](https://aur.archlinux.org/packages/edentext-bin) | 0.8.0-1 | 1 | Powerful local Word Processor for docx and odt |
+| 2026-10-03 18:24:34 | [captureage-bin](https://aur.archlinux.org/packages/captureage-bin) | 1.26.0-4 | 0 | Advanced spectating for Age of Empires II: Definitive Edition (Windows binary v… |
+| 2026-10-03 18:25:37 | [mcommander-bin](https://aur.archlinux.org/packages/mcommander-bin) | 6.1.0-1 | 0 | Twin-panel text-mode file manager with loadable panel plugins (binary release) |
+| 2026-10-03 19:02:14 | [orzma-bin](https://aur.archlinux.org/packages/orzma-bin) | 0.3.0-1 | 1 | A terminal emulator that can render webviews inline |
+| 2026-10-03 19:02:35 | [rimor-bin](https://aur.archlinux.org/packages/rimor-bin) | 0.1.0-1 | 0 | Terminal workbench for PostgreSQL, SQL Server and SQLite (prebuilt) |
+| 2026-10-03 19:16:30 | [capture-studio-bin](https://aur.archlinux.org/packages/capture-studio-bin) | 0.1.31-1 | 0 | Record and edit product demos: cut pauses, add zooms and captions (upstream Fla… |
+| 2026-10-03 19:18:35 | [rimor](https://aur.archlinux.org/packages/rimor) |  |  | Terminal workbench for PostgreSQL, SQL Server and SQLite |
+| 2026-10-03 19:18:53 | [slate-bin](https://aur.archlinux.org/packages/slate-bin) |  |  | Minimal, keyboard-first terminal note-taking scratchpad (prebuilt binary) |
 
 ## Data source
 
