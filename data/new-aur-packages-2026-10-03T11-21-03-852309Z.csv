@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-03T10:29:48Z,hammer2,r13.3fea709-1,0,"HAMMER2 filesystem kernel module (DragonFly BSD port), Linux 7.x only"
+2026-10-03T10:56:23Z,xwww-git,r0.0000000-1,0,"Efficient animated wallpaper daemon for Wayland, controlled at runtime (git)"
+2026-10-03T10:56:23Z,xwww-bin,0.13.1-1,0,"Efficient animated wallpaper daemon for Wayland, controlled at runtime (prebuilt binaries)"
+2026-10-03T11:06:42Z,agents-anywhere-cli,2.0.3-1,0,Local runtime connector for Agents Anywhere
+2026-10-03T11:07:25Z,gcc17,17.0.0.snapshot2026…,0,GNU Compiler Collection 17 C/C++ development snapshot for parallel compiler validation

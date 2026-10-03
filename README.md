@@ -12,15 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 10:20 UTC
+## Latest list — 2026-10-03 11:21 UTC
 
-New packages created between 2026-10-03 09:20 UTC and 2026-10-03 10:20 UTC.
+New packages created between 2026-10-03 10:20 UTC and 2026-10-03 11:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T10-20-37-129723Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T11-21-03-852309Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 09:55:55 | [zls0.16](https://aur.archlinux.org/packages/zls0.16) | 0.16.0-1 | 0 | A language server for Zig |
+| 2026-10-03 10:29:48 | [hammer2](https://aur.archlinux.org/packages/hammer2) | r13.3fea709-1 | 0 | HAMMER2 filesystem kernel module (DragonFly BSD port), Linux 7.x only |
+| 2026-10-03 10:56:23 | [xwww-git](https://aur.archlinux.org/packages/xwww-git) | r0.0000000-1 | 0 | Efficient animated wallpaper daemon for Wayland, controlled at runtime (git) |
+| 2026-10-03 10:56:23 | [xwww-bin](https://aur.archlinux.org/packages/xwww-bin) | 0.13.1-1 | 0 | Efficient animated wallpaper daemon for Wayland, controlled at runtime (prebuil… |
+| 2026-10-03 11:06:42 | [agents-anywhere-cli](https://aur.archlinux.org/packages/agents-anywhere-cli) | 2.0.3-1 | 0 | Local runtime connector for Agents Anywhere |
+| 2026-10-03 11:07:25 | [gcc17](https://aur.archlinux.org/packages/gcc17) | 17.0.0.snapshot2026… | 0 | GNU Compiler Collection 17 C/C++ development snapshot for parallel compiler val… |
 
 ## Data source
 
