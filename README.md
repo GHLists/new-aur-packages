@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 04:19 UTC
+## Latest list — 2026-10-03 06:19 UTC
 
-New packages created between 2026-10-03 03:20 UTC and 2026-10-03 04:19 UTC.
+New packages created between 2026-10-03 05:20 UTC and 2026-10-03 06:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T04-19-30-564487Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T06-19-54-943611Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 03:35:16 | [forskscope-bin](https://aur.archlinux.org/packages/forskscope-bin) | 0.177.0-1 | 1 | Local-first cross-platform diff and merge tool |
-| 2026-10-03 04:11:20 | [network-doctor-bin](https://aur.archlinux.org/packages/network-doctor-bin) | 1.19.1-1 | 1 | A network troubleshooting TUI that turns interface, DNS, TCP, TLS, HTTP, proxy,… |
+| 2026-10-03 05:43:40 | [ttf-libron](https://aur.archlinux.org/packages/ttf-libron) | 0.25-1 | 0 | Serif typeface tuned for digital reading and e-readers (Readerly fork) |
+| 2026-10-03 05:49:03 | [1panel-bin](https://aur.archlinux.org/packages/1panel-bin) | 1.10.9_lts-1 | 0 | 1Panel is a modern and open source Linux panel. |
+| 2026-10-03 06:01:26 | [1panel-v2-bin](https://aur.archlinux.org/packages/1panel-v2-bin) | 2.3.2-1 | 0 | 1Panel v2, a modern open source linux panel (official binary) |
 
 ## Data source
 
