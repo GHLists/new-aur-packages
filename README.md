@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 16:19 UTC
+## Latest list — 2026-10-03 17:21 UTC
 
-New packages created between 2026-10-03 15:20 UTC and 2026-10-03 16:19 UTC.
+New packages created between 2026-10-03 16:19 UTC and 2026-10-03 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T16-19-02-533364Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T17-21-07-528396Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 15:32:23 | [stoke](https://aur.archlinux.org/packages/stoke) | 0.3.0-1 | 0 | Bootable USB writer in the spirit of Rufus: the engine and command line |
-| 2026-10-03 15:32:33 | [stoke-qt](https://aur.archlinux.org/packages/stoke-qt) | 0.3.0-1 | 0 | Bootable USB writer in the spirit of Rufus: the KDE window |
-| 2026-10-03 15:32:42 | [stoke-gtk](https://aur.archlinux.org/packages/stoke-gtk) | 0.3.0-1 | 0 | Bootable USB writer in the spirit of Rufus: the GNOME window |
-| 2026-10-03 15:57:53 | [reasonix-studio-bin](https://aur.archlinux.org/packages/reasonix-studio-bin) | 2.26.0-1 | 0 | Reasonix Studio - Electron desktop GUI for the DeepSeek-native AI coding agent… |
+| 2026-10-03 16:24:32 | [gaze-omarchy-bin](https://aur.archlinux.org/packages/gaze-omarchy-bin) | 0.3.6-1 | 0 | Omarchy Quickshell lock screen integration for Gaze |
+| 2026-10-03 16:54:32 | [f4-bin](https://aur.archlinux.org/packages/f4-bin) | 0.3.0beta-1 | 0 | Dual-pane Far Manager / far2l-style file manager with TUI and GUI |
+| 2026-10-03 16:55:48 | [f4](https://aur.archlinux.org/packages/f4) | 0.3.0beta-1 | 0 | Dual-pane Far Manager / far2l-style file manager with TUI and GUI |
 
 ## Data source
 
