@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 21:20 UTC
+## Latest list — 2026-10-03 22:20 UTC
 
-New packages created between 2026-10-03 20:20 UTC and 2026-10-03 21:20 UTC.
+New packages created between 2026-10-03 21:20 UTC and 2026-10-03 22:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T21-20-33-83675Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T22-20-13-573984Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 20:21:02 | [schist-bin](https://aur.archlinux.org/packages/schist-bin) | 0.15.0-1 | 0 | Layered image editor with PSD and Affinity support (upstream binary) |
-| 2026-10-03 20:21:40 | [schist](https://aur.archlinux.org/packages/schist) | 0.15.0-1 | 0 | Layered image editor with PSD and Affinity support |
-| 2026-10-03 21:12:53 | [moonlight-vrr-bin](https://aur.archlinux.org/packages/moonlight-vrr-bin) | 6.1.0_vrr18-1 | 0 | GameStream client for PCs, fork of moonlight-qt with smooth VRR pacing (upstrea… |
-| 2026-10-03 21:13:31 | [moonlight-vrr](https://aur.archlinux.org/packages/moonlight-vrr) | 6.1.0_vrr18-1 | 0 | GameStream client for PCs, fork of moonlight-qt with smooth VRR pacing |
+| 2026-10-03 21:28:06 | [orangplayer-bin](https://aur.archlinux.org/packages/orangplayer-bin) | 0.1.0-1 | 0 | Media player for your files, YouTube, YT Music, SoundCloud and Spotify, with ly… |
+| 2026-10-03 21:52:28 | [flummox-bin](https://aur.archlinux.org/packages/flummox-bin) | 0.0.1-1 | 0 | Compress installed games and keep playing them |
 
 ## Data source
 
