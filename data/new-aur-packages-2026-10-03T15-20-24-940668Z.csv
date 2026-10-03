@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-03T14:49:01Z,uniterm-bin,1.9.5-1,0,Lightweight all-in-one terminal with 30+ protocols and a built-in autonomous AI agent
+2026-10-03T14:49:27Z,nomachine-personal-edition,10.1.7-1,1,Remote desktop application
+2026-10-03T14:55:50Z,plasma-fusion,0.2.0-1,0,"Plasma Fusion desktop for KDE Plasma 6 (themes, widgets, icons, fonts, setup tools)"
+2026-10-03T14:55:50Z,plasma-fusion-decoration,0.2.0-1,0,Plasma Fusion window decoration (KDecoration3 plugin)
+2026-10-03T14:55:50Z,plasma-fusion-settings,0.2.0-1,0,Plasma Fusion settings page for System Settings
+2026-10-03T14:55:50Z,plasma-fusion-navigation,0.2.0-1,0,Plasma Fusion tablet navigation gestures (KWin effect; rebuild after every kwin update)
+2026-10-03T15:09:27Z,kmux-workspaces-git,0.1.0alpha.1.r10601…,0,"Project-workspace terminal based on KDE Konsole, inspired by cmux (development version)"
