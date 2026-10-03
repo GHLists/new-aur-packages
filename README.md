@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 17:21 UTC
+## Latest list — 2026-10-03 18:19 UTC
 
-New packages created between 2026-10-03 16:19 UTC and 2026-10-03 17:21 UTC.
+New packages created between 2026-10-03 17:21 UTC and 2026-10-03 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T17-21-07-528396Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T18-19-37-091157Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 16:24:32 | [gaze-omarchy-bin](https://aur.archlinux.org/packages/gaze-omarchy-bin) | 0.3.6-1 | 0 | Omarchy Quickshell lock screen integration for Gaze |
-| 2026-10-03 16:54:32 | [f4-bin](https://aur.archlinux.org/packages/f4-bin) | 0.3.0beta-1 | 0 | Dual-pane Far Manager / far2l-style file manager with TUI and GUI |
-| 2026-10-03 16:55:48 | [f4](https://aur.archlinux.org/packages/f4) | 0.3.0beta-1 | 0 | Dual-pane Far Manager / far2l-style file manager with TUI and GUI |
+| 2026-10-03 17:23:38 | [telegram-drive](https://aur.archlinux.org/packages/telegram-drive) | 3.9.8-1 | 0 | Turn your Telegram account into an unlimited, secure cloud storage drive |
+| 2026-10-03 17:24:32 | [thorium-browser-sse4-bin](https://aur.archlinux.org/packages/thorium-browser-sse4-bin) | 138.0.7204.303-1 | 0 | SSE4.1 build of the Chromium fork focused on high performance and security |
+| 2026-10-03 17:32:49 | [edentext-bin](https://aur.archlinux.org/packages/edentext-bin) | 0.8.0-1 | 1 | Powerful local Word Processor for docx and odt |
 
 ## Data source
 
