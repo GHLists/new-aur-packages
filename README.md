@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 12:22 UTC
+## Latest list — 2026-10-03 13:20 UTC
 
-New packages created between 2026-10-03 11:21 UTC and 2026-10-03 12:22 UTC.
+New packages created between 2026-10-03 12:22 UTC and 2026-10-03 13:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T12-22-05-642393Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T13-20-19-811157Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 11:34:48 | [hyprlayout](https://aur.archlinux.org/packages/hyprlayout) | 1.0.1-1 | 0 | LÖVE GUI to configure Hyprland monitor layouts |
-| 2026-10-03 11:39:41 | [brother-hl-b2180dw](https://aur.archlinux.org/packages/brother-hl-b2180dw) | 4.1.0-2 | 0 | Brother HL-B2180DW CUPS driver |
-| 2026-10-03 11:49:33 | [wayhud-bin](https://aur.archlinux.org/packages/wayhud-bin) | 0.1.0-1 | 0 | Universal modern suckless Wayland on-screen HUD (GTK CSS styled) |
+| 2026-10-03 12:43:07 | [inner-pitch-bin](https://aur.archlinux.org/packages/inner-pitch-bin) | 2.1-1 | 0 | A pitch shifter plugin (LV2, CLAP, VST3), free edition |
+| 2026-10-03 13:08:27 | [gnome-shell-extension-window-nativizer](https://aur.archlinux.org/packages/gnome-shell-extension-window-nativizer) | 0.9.0-1 | 0 | Seamlessly nativize non-native applications into the GNOME desktop |
+| 2026-10-03 13:13:52 | [n3v3-bin](https://aur.archlinux.org/packages/n3v3-bin) | 5.0.3-1 | 0 | Pure functional language for system configuration (prebuilt binary) |
+| 2026-10-03 13:14:42 | [telegram-drive-appimage](https://aur.archlinux.org/packages/telegram-drive-appimage) | 3.9.8-1 | 0 | Turn your Telegram account into an unlimited, secure cloud storage drive (AppIm… |
 
 ## Data source
 
