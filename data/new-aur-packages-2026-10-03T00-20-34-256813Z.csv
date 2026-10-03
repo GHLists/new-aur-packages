@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-02T23:20:55Z,procsnoop,1.0.0-1,1,"Trace process fork/exec/exit, filtered by process subtree (execsnoop alternative)"
+2026-10-02T23:30:19Z,cidr,2.3.0.r10.g95f3629-1,0,CLI tool for working with IPv4 and IPv6 CIDR ranges
+2026-10-02T23:39:20Z,stardb-exporter-git,r224.8ae5bfa-1,0,A Hoyoverse exporter for pulls and achievements
+2026-10-02T23:54:43Z,poc-hello,0.2.0-1,0,"Prints a greeting - poc-app demo binary, versioned independently by multicz"
+2026-10-03T00:10:17Z,python-measured,0.12.2-1,1,A library for measurements and quantities
+2026-10-03T00:18:51Z,eon-git,,,"A light, modern editor for your terminal that doesn't want to be vim"
