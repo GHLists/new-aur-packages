@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-03T15:32:23Z,stoke,0.3.0-1,0,Bootable USB writer in the spirit of Rufus: the engine and command line
+2026-10-03T15:32:33Z,stoke-qt,0.3.0-1,0,Bootable USB writer in the spirit of Rufus: the KDE window
+2026-10-03T15:32:42Z,stoke-gtk,0.3.0-1,0,Bootable USB writer in the spirit of Rufus: the GNOME window
+2026-10-03T15:57:53Z,reasonix-studio-bin,2.26.0-1,0,Reasonix Studio - Electron desktop GUI for the DeepSeek-native AI coding agent (repackaged from .deb)

@@ -12,21 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 15:20 UTC
+## Latest list — 2026-10-03 16:19 UTC
 
-New packages created between 2026-10-03 14:20 UTC and 2026-10-03 15:20 UTC.
+New packages created between 2026-10-03 15:20 UTC and 2026-10-03 16:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T15-20-24-940668Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T16-19-02-533364Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 14:49:01 | [uniterm-bin](https://aur.archlinux.org/packages/uniterm-bin) | 1.9.5-1 | 0 | Lightweight all-in-one terminal with 30+ protocols and a built-in autonomous AI… |
-| 2026-10-03 14:49:27 | [nomachine-personal-edition](https://aur.archlinux.org/packages/nomachine-personal-edition) | 10.1.7-1 | 1 | Remote desktop application |
-| 2026-10-03 14:55:50 | [plasma-fusion](https://aur.archlinux.org/packages/plasma-fusion) | 0.2.0-1 | 0 | Plasma Fusion desktop for KDE Plasma 6 (themes, widgets, icons, fonts, setup to… |
-| 2026-10-03 14:55:50 | [plasma-fusion-decoration](https://aur.archlinux.org/packages/plasma-fusion-decoration) | 0.2.0-1 | 0 | Plasma Fusion window decoration (KDecoration3 plugin) |
-| 2026-10-03 14:55:50 | [plasma-fusion-settings](https://aur.archlinux.org/packages/plasma-fusion-settings) | 0.2.0-1 | 0 | Plasma Fusion settings page for System Settings |
-| 2026-10-03 14:55:50 | [plasma-fusion-navigation](https://aur.archlinux.org/packages/plasma-fusion-navigation) | 0.2.0-1 | 0 | Plasma Fusion tablet navigation gestures (KWin effect; rebuild after every kwin… |
-| 2026-10-03 15:09:27 | [kmux-workspaces-git](https://aur.archlinux.org/packages/kmux-workspaces-git) | 0.1.0alpha.1.r10601… | 0 | Project-workspace terminal based on KDE Konsole, inspired by cmux (development… |
+| 2026-10-03 15:32:23 | [stoke](https://aur.archlinux.org/packages/stoke) | 0.3.0-1 | 0 | Bootable USB writer in the spirit of Rufus: the engine and command line |
+| 2026-10-03 15:32:33 | [stoke-qt](https://aur.archlinux.org/packages/stoke-qt) | 0.3.0-1 | 0 | Bootable USB writer in the spirit of Rufus: the KDE window |
+| 2026-10-03 15:32:42 | [stoke-gtk](https://aur.archlinux.org/packages/stoke-gtk) | 0.3.0-1 | 0 | Bootable USB writer in the spirit of Rufus: the GNOME window |
+| 2026-10-03 15:57:53 | [reasonix-studio-bin](https://aur.archlinux.org/packages/reasonix-studio-bin) | 2.26.0-1 | 0 | Reasonix Studio - Electron desktop GUI for the DeepSeek-native AI coding agent… |
 
 ## Data source
 
