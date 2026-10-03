@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-03T11:34:48Z,hyprlayout,1.0.1-1,0,LÖVE GUI to configure Hyprland monitor layouts
+2026-10-03T11:39:41Z,brother-hl-b2180dw,4.1.0-2,0,Brother HL-B2180DW CUPS driver
+2026-10-03T11:49:33Z,wayhud-bin,0.1.0-1,0,Universal modern suckless Wayland on-screen HUD (GTK CSS styled)

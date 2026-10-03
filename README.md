@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 11:21 UTC
+## Latest list — 2026-10-03 12:22 UTC
 
-New packages created between 2026-10-03 10:20 UTC and 2026-10-03 11:21 UTC.
+New packages created between 2026-10-03 11:21 UTC and 2026-10-03 12:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T11-21-03-852309Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T12-22-05-642393Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 10:29:48 | [hammer2](https://aur.archlinux.org/packages/hammer2) | r13.3fea709-1 | 0 | HAMMER2 filesystem kernel module (DragonFly BSD port), Linux 7.x only |
-| 2026-10-03 10:56:23 | [xwww-git](https://aur.archlinux.org/packages/xwww-git) | r0.0000000-1 | 0 | Efficient animated wallpaper daemon for Wayland, controlled at runtime (git) |
-| 2026-10-03 10:56:23 | [xwww-bin](https://aur.archlinux.org/packages/xwww-bin) | 0.13.1-1 | 0 | Efficient animated wallpaper daemon for Wayland, controlled at runtime (prebuil… |
-| 2026-10-03 11:06:42 | [agents-anywhere-cli](https://aur.archlinux.org/packages/agents-anywhere-cli) | 2.0.3-1 | 0 | Local runtime connector for Agents Anywhere |
-| 2026-10-03 11:07:25 | [gcc17](https://aur.archlinux.org/packages/gcc17) | 17.0.0.snapshot2026… | 0 | GNU Compiler Collection 17 C/C++ development snapshot for parallel compiler val… |
+| 2026-10-03 11:34:48 | [hyprlayout](https://aur.archlinux.org/packages/hyprlayout) | 1.0.1-1 | 0 | LÖVE GUI to configure Hyprland monitor layouts |
+| 2026-10-03 11:39:41 | [brother-hl-b2180dw](https://aur.archlinux.org/packages/brother-hl-b2180dw) | 4.1.0-2 | 0 | Brother HL-B2180DW CUPS driver |
+| 2026-10-03 11:49:33 | [wayhud-bin](https://aur.archlinux.org/packages/wayhud-bin) | 0.1.0-1 | 0 | Universal modern suckless Wayland on-screen HUD (GTK CSS styled) |
 
 ## Data source
 
