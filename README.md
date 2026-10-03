@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 03:20 UTC
+## Latest list — 2026-10-03 04:19 UTC
 
-New packages created between 2026-10-03 02:21 UTC and 2026-10-03 03:20 UTC.
+New packages created between 2026-10-03 03:20 UTC and 2026-10-03 04:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T03-20-18-52824Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-03T04-19-30-564487Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 02:41:10 | [upmix-core-bin](https://aur.archlinux.org/packages/upmix-core-bin) | 0.5.0-1 | 0 | Stereo to 5.1 upmixer with HTDemucs neural source separation (prebuilt) |
-| 2026-10-03 02:46:34 | [animaple-bin](https://aur.archlinux.org/packages/animaple-bin) | 2.0.0-1 | 0 | Anime streaming app — Flutter cross-platform client (prebuilt binary) |
-| 2026-10-03 02:55:32 | [upmix-core-legacy-bin](https://aur.archlinux.org/packages/upmix-core-legacy-bin) | 0.5.0-1 | 0 | Stereo to 5.1 upmixer with HTDemucs separation (prebuilt for pre-AVX2 CPUs) |
+| 2026-10-03 03:35:16 | [forskscope-bin](https://aur.archlinux.org/packages/forskscope-bin) | 0.177.0-1 | 1 | Local-first cross-platform diff and merge tool |
+| 2026-10-03 04:11:20 | [network-doctor-bin](https://aur.archlinux.org/packages/network-doctor-bin) | 1.19.1-1 | 1 | A network troubleshooting TUI that turns interface, DNS, TCP, TLS, HTTP, proxy,… |
 
 ## Data source
 

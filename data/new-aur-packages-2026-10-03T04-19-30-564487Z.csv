@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-03T03:35:16Z,forskscope-bin,0.177.0-1,1,Local-first cross-platform diff and merge tool
+2026-10-03T04:11:20Z,network-doctor-bin,1.19.1-1,1,"A network troubleshooting TUI that turns interface, DNS, TCP, TLS, HTTP, proxy, and path-MTU checks into one plain-English diagnosis"
