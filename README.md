@@ -12,21 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 20:20 UTC
+## Latest list — 2026-10-04 22:21 UTC
 
-New packages created between 2026-10-04 19:20 UTC and 2026-10-04 20:20 UTC.
+New packages created between 2026-10-04 21:19 UTC and 2026-10-04 22:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-04T20-20-56-865931Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-04T22-21-22-289477Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 19:22:46 | [metatar](https://aur.archlinux.org/packages/metatar) | 1.9.3-1 | 1 | Create root filesystems without fakeroot |
-| 2026-10-04 19:33:28 | [rocm-gfx908-bin](https://aur.archlinux.org/packages/rocm-gfx908-bin) | 10.0.0-2 | 0 | ROCm Core SDK - CDNA1 |
-| 2026-10-04 19:36:19 | [rocm-gfx90a-bin](https://aur.archlinux.org/packages/rocm-gfx90a-bin) | 10.0.0-3 | 0 | ROCm Core SDK - CDNA2 |
-| 2026-10-04 19:44:49 | [osu-cpp-bin](https://aur.archlinux.org/packages/osu-cpp-bin) | 0.1.0-1 | 0 | osu! client written in C++23 and drawn with Skia (prebuilt binary) |
-| 2026-10-04 19:45:32 | [rocm-gfx94x-bin](https://aur.archlinux.org/packages/rocm-gfx94x-bin) | 10.0.0-1 | 0 | ROCm Core SDK - CDNA3 |
-| 2026-10-04 19:50:10 | [rocm-gfx950-bin](https://aur.archlinux.org/packages/rocm-gfx950-bin) | 10.0.0-1 | 0 | ROCm Core SDK - CDNA4 |
-| 2026-10-04 20:01:40 | [ff-rdp-bin](https://aur.archlinux.org/packages/ff-rdp-bin) | 0.4.0-1 | 0 | CLI for Firefox Remote Debugging Protocol |
+| 2026-10-04 21:20:55 | [lingxi-ai-bin](https://aur.archlinux.org/packages/lingxi-ai-bin) | 1.4.7-1 | 0 | WPS Office AI Agent 插件（灵犀AI），支持多种大模型、MCP与本地化部署 |
+| 2026-10-04 21:31:55 | [tree-sitter-fish](https://aur.archlinux.org/packages/tree-sitter-fish) | 3.7.0-1 | 0 | Fish shell grammar for tree-sitter |
+| 2026-10-04 21:55:43 | [python-patchright-bin](https://aur.archlinux.org/packages/python-patchright-bin) | 1.63.0-2 | 0 | Undetected Python version of the Playwright testing and automation library |
 
 ## Data source
 

@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-04T21:20:55Z,lingxi-ai-bin,1.4.7-1,0,WPS Office AI Agent 插件（灵犀AI），支持多种大模型、MCP与本地化部署
+2026-10-04T21:31:55Z,tree-sitter-fish,3.7.0-1,0,Fish shell grammar for tree-sitter
+2026-10-04T21:55:43Z,python-patchright-bin,1.63.0-2,0,Undetected Python version of the Playwright testing and automation library
