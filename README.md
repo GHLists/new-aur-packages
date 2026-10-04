@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 03:21 UTC
+## Latest list — 2026-10-04 04:22 UTC
 
-New packages created between 2026-10-04 02:22 UTC and 2026-10-04 03:21 UTC.
+New packages created between 2026-10-04 03:21 UTC and 2026-10-04 04:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-04T03-21-43-538011Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-04T04-22-03-47697Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 02:22:40 | [huion-switcher](https://aur.archlinux.org/packages/huion-switcher) | 0.6.0-1 | 0 | A PoC tool to switch Huion tablets into tablet mode |
-| 2026-10-04 02:35:17 | [plasma6-applets-wmp-toolbar-plasmoid-git](https://aur.archlinux.org/packages/plasma6-applets-wmp-toolbar-plasmoid-git) | 0.0.1-1 | 0 | MPRIS controller that looks like the WMP toolbar |
+| 2026-10-04 03:42:13 | [dxvk](https://aur.archlinux.org/packages/dxvk) | 3.1.1-1 | 0 | Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine. |
 
 ## Data source
 
