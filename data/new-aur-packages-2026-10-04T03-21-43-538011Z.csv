@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-04T02:22:40Z,huion-switcher,0.6.0-1,0,A PoC tool to switch Huion tablets into tablet mode
+2026-10-04T02:35:17Z,plasma6-applets-wmp-toolbar-plasmoid-git,0.0.1-1,0,MPRIS controller that looks like the WMP toolbar

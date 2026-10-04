@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 02:22 UTC
+## Latest list — 2026-10-04 03:21 UTC
 
-New packages created between 2026-10-04 01:20 UTC and 2026-10-04 02:22 UTC.
+New packages created between 2026-10-04 02:22 UTC and 2026-10-04 03:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-04T02-22-04-403953Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-04T03-21-43-538011Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 01:45:59 | [sable-next-git](https://aur.archlinux.org/packages/sable-next-git) | 0.0.2-1 | 0 | Sable rewrite in Rust and Svelte |
+| 2026-10-04 02:22:40 | [huion-switcher](https://aur.archlinux.org/packages/huion-switcher) | 0.6.0-1 | 0 | A PoC tool to switch Huion tablets into tablet mode |
+| 2026-10-04 02:35:17 | [plasma6-applets-wmp-toolbar-plasmoid-git](https://aur.archlinux.org/packages/plasma6-applets-wmp-toolbar-plasmoid-git) | 0.0.1-1 | 0 | MPRIS controller that looks like the WMP toolbar |
 
 ## Data source
 
