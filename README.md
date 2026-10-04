@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 15:21 UTC
+## Latest list — 2026-10-04 16:22 UTC
 
-New packages created between 2026-10-04 14:20 UTC and 2026-10-04 15:21 UTC.
+New packages created between 2026-10-04 15:21 UTC and 2026-10-04 16:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-04T15-21-15-52409Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-04T16-22-16-990123Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 14:25:21 | [python-vercel-oidc](https://aur.archlinux.org/packages/python-vercel-oidc) | 0.9.0-2 | 1 | OIDC helpers for Vercel Python applications. |
-| 2026-10-04 14:54:53 | [nogforge](https://aur.archlinux.org/packages/nogforge) | 1.0.0-1 | 0 | Packages the KognogOS way, in a terminal: what's installed, searching and insta… |
-| 2026-10-04 15:02:23 | [pigoune](https://aur.archlinux.org/packages/pigoune) | 1.3.0-1 | 0 | All your graphic assets, organized and within reach |
-| 2026-10-04 15:07:42 | [minicom-hangfix](https://aur.archlinux.org/packages/minicom-hangfix) | 2.11.1-1 | 0 | A serial communication program (with fix for UI hang on zero-width characters w… |
-| 2026-10-04 15:16:28 | [bank-icbc](https://aur.archlinux.org/packages/bank-icbc) | 3.3.0.2-1 | 0 | 中国工商银行控件 |
+| 2026-10-04 15:47:04 | [python-vercel-sandbox](https://aur.archlinux.org/packages/python-vercel-sandbox) | 0.7.0-1 | 0 | Python SDK for Vercel Sandbox. |
+| 2026-10-04 15:53:14 | [zsh-patina](https://aur.archlinux.org/packages/zsh-patina) | 1.10.0-1 | 0 | A blazingly fast Zsh syntax highlighter |
+| 2026-10-04 15:55:38 | [wegame-launcher](https://aur.archlinux.org/packages/wegame-launcher) | 0.1.0-2 | 0 | 开箱即用的简易 WeGame 启动器，使用 Proton 运行 |
 
 ## Data source
 
