@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 17:20 UTC
+## Latest list — 2026-10-04 18:18 UTC
 
-New packages created between 2026-10-04 16:22 UTC and 2026-10-04 17:20 UTC.
+New packages created between 2026-10-04 17:20 UTC and 2026-10-04 18:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-04T17-20-03-208872Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-04T18-18-53-24535Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 16:39:03 | [foot-tabs](https://aur.archlinux.org/packages/foot-tabs) | 1.28.0.tabs1-1 | 0 | Fast, lightweight and minimalistic Wayland terminal emulator (unofficial fork w… |
-| 2026-10-04 16:39:16 | [foot-tabs-git](https://aur.archlinux.org/packages/foot-tabs-git) | 1.28.0.tabs1.r0.ge9… | 0 | Fast, lightweight and minimalistic Wayland terminal emulator (unofficial fork w… |
-| 2026-10-04 16:39:44 | [mdai-bin](https://aur.archlinux.org/packages/mdai-bin) | 1.2.5-1 | 0 | Local-first Markdown editor with BYOK AI (proprietary, binary) |
-| 2026-10-04 16:56:35 | [katemark-git](https://aur.archlinux.org/packages/katemark-git) | 0.4.1.r0.gcc3f815-1 | 0 | GitHub-styled live Markdown preview for Kate (KTextEditor/KF6) |
+| 2026-10-04 17:57:49 | [shiftpaper-git](https://aur.archlinux.org/packages/shiftpaper-git) | 0.2.0.r0.g1f2707e-1 | 0 | Parallax wallpaper daemon for Wayland with monocular depth estimation |
+| 2026-10-04 18:07:17 | [nagram-desktop-bin](https://aur.archlinux.org/packages/nagram-desktop-bin) | 7.2.10.3-1 | 0 | Independent Telegram client based on Telegram Desktop (release binary) |
 
 ## Data source
 
