@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 05:21 UTC
+## Latest list — 2026-10-04 07:21 UTC
 
-New packages created between 2026-10-04 04:22 UTC and 2026-10-04 05:21 UTC.
+New packages created between 2026-10-04 06:22 UTC and 2026-10-04 07:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-04T05-21-36-990469Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-04T07-21-38-277074Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 04:38:43 | [nexacl-bin](https://aur.archlinux.org/packages/nexacl-bin) | 2.0.0.alpha.5-1 | 0 | Nexa Minecraft Launcher - PCL-N 的继任者 (C++/Qt 重写版) |
-| 2026-10-04 05:14:28 | [wingdrive-bin](https://aur.archlinux.org/packages/wingdrive-bin) | 2.0.0alpha6-1 | 0 | WingDrive desktop file manager |
-| 2026-10-04 05:17:07 | [clak-bin](https://aur.archlinux.org/packages/clak-bin) | 0.2.3-1 | 0 | Fast and highly stable Vietnamese input method for Fcitx5 and Wayland (precompi… |
+| 2026-10-04 07:07:08 | [tda-dsc-signer](https://aur.archlinux.org/packages/tda-dsc-signer) | 0.1.0-1 | 0 | Sign PDFs with Indian DSC USB tokens: GTK4 app and CLI with MCA form-field sign… |
+| 2026-10-04 07:16:52 | [mirai-git](https://aur.archlinux.org/packages/mirai-git) | r380.71088fa-1 | 0 | GTK4/libadwaita Go board for analysis, review and play with KataGo |
+| 2026-10-04 07:17:00 | [mirai-server-git](https://aur.archlinux.org/packages/mirai-server-git) | r380.71088fa-1 | 0 | Headless host sharing KataGo with mirai clients over the network |
 
 ## Data source
 
