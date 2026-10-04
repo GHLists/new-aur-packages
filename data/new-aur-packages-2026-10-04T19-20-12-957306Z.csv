@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-04T18:20:56Z,pkgsender-bin,1.2.9-1,0,Send PS4/PS5 PKG files to a console over LAN (prebuilt .NET binary)
+2026-10-04T18:34:56Z,omo-bin,5.1.17-1,0,OmO Native - standalone omo coding-agent CLI
+2026-10-04T18:46:08Z,moarchy-authenticator,0.1.0-1,0,"Two-factor sign-in codes (TOTP), one tap from the clipboard, for Quickshell"
+2026-10-04T19:05:04Z,commit-sage-bin,2.1.0-1,0,AI-powered git commit message generator (prebuilt binary)
+2026-10-04T19:08:45Z,otf-lexica-ultralegible,1.0.0-1,0,Lexica Ultralegible builds on the foundation laid by Atkinson Hyperlegible.
+2026-10-04T19:08:45Z,ttf-lexica-ultralegible,1.0.0-1,0,Lexica Ultralegible builds on the foundation laid by Atkinson Hyperlegible.
+2026-10-04T19:14:17Z,gufo,0.7.0-1,1,Fast inference engine for AMD Strix Halo (gfx1151)
