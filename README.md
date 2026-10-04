@@ -12,15 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 23:22 UTC
+## Latest list — 2026-10-04 01:20 UTC
 
-New packages created between 2026-10-03 22:20 UTC and 2026-10-03 23:22 UTC.
+New packages created between 2026-10-04 00:20 UTC and 2026-10-04 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-03T23-22-05-037123Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-04T01-20-45-64698Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 22:36:29 | [insensical-bin](https://aur.archlinux.org/packages/insensical-bin) | 0.1.0-1 | 0 | A terminal multiplexer with a window of its own, for supervising many terminals… |
+| 2026-10-04 00:27:17 | [thinkwatch-lite-bin](https://aur.archlinux.org/packages/thinkwatch-lite-bin) | 2026.10.2-1 | 0 | A local gateway for Claude Code, Codex and other AI clients |
+| 2026-10-04 00:39:24 | [sayso-bin](https://aur.archlinux.org/packages/sayso-bin) | 0.4.2-1 | 0 | Local voice dictation into any app |
+| 2026-10-04 00:44:05 | [jasp-desktop-bin](https://aur.archlinux.org/packages/jasp-desktop-bin) | 0.98.1-1 | 0 | JASP Desktop - a fresh way to do statistics (prebuilt binary) |
+| 2026-10-04 01:05:42 | [uniterm-fork-bin](https://aur.archlinux.org/packages/uniterm-fork-bin) | 1.9.5.thinking.1-1 | 0 | Lightweight all-in-one terminal with 30+ protocols and a built-in autonomous AI… |
+| 2026-10-04 01:14:03 | [blinko-desktop-git](https://aur.archlinux.org/packages/blinko-desktop-git) | 1.8.8.r2091.gb2586d… | 0 | Blinko desktop client (AppImage built from git); connects to a self-hosted Blin… |
 
 ## Data source
 

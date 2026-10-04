@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-04T00:27:17Z,thinkwatch-lite-bin,2026.10.2-1,0,"A local gateway for Claude Code, Codex and other AI clients"
+2026-10-04T00:39:24Z,sayso-bin,0.4.2-1,0,Local voice dictation into any app
+2026-10-04T00:44:05Z,jasp-desktop-bin,0.98.1-1,0,JASP Desktop - a fresh way to do statistics (prebuilt binary)
+2026-10-04T01:05:42Z,uniterm-fork-bin,1.9.5.thinking.1-1,0,Lightweight all-in-one terminal with 30+ protocols and a built-in autonomous AI agent (fork build: AI thinking stream + Wayland launcher fix)
+2026-10-04T01:14:03Z,blinko-desktop-git,1.8.8.r2091.gb2586d…,0,Blinko desktop client (AppImage built from git); connects to a self-hosted Blinko server
