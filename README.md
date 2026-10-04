@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 22:21 UTC
+## Latest list — 2026-10-04 23:19 UTC
 
-New packages created between 2026-10-04 21:19 UTC and 2026-10-04 22:21 UTC.
+New packages created between 2026-10-04 22:21 UTC and 2026-10-04 23:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-04T22-21-22-289477Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-04T23-19-05-73129Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 21:20:55 | [lingxi-ai-bin](https://aur.archlinux.org/packages/lingxi-ai-bin) | 1.4.7-1 | 0 | WPS Office AI Agent 插件（灵犀AI），支持多种大模型、MCP与本地化部署 |
-| 2026-10-04 21:31:55 | [tree-sitter-fish](https://aur.archlinux.org/packages/tree-sitter-fish) | 3.7.0-1 | 0 | Fish shell grammar for tree-sitter |
-| 2026-10-04 21:55:43 | [python-patchright-bin](https://aur.archlinux.org/packages/python-patchright-bin) | 1.63.0-2 | 0 | Undetected Python version of the Playwright testing and automation library |
+| 2026-10-04 23:09:09 | [typeless-bin](https://aur.archlinux.org/packages/typeless-bin) | 2.2.0-1 | 0 | AI voice dictation for any application (official Linux binary) |
 
 ## Data source
 
