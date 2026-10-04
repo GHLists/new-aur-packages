@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 04:22 UTC
+## Latest list — 2026-10-04 05:21 UTC
 
-New packages created between 2026-10-04 03:21 UTC and 2026-10-04 04:22 UTC.
+New packages created between 2026-10-04 04:22 UTC and 2026-10-04 05:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-04T04-22-03-47697Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-04T05-21-36-990469Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 03:42:13 | [dxvk](https://aur.archlinux.org/packages/dxvk) | 3.1.1-1 | 0 | Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine. |
+| 2026-10-04 04:38:43 | [nexacl-bin](https://aur.archlinux.org/packages/nexacl-bin) | 2.0.0.alpha.5-1 | 0 | Nexa Minecraft Launcher - PCL-N 的继任者 (C++/Qt 重写版) |
+| 2026-10-04 05:14:28 | [wingdrive-bin](https://aur.archlinux.org/packages/wingdrive-bin) | 2.0.0alpha6-1 | 0 | WingDrive desktop file manager |
+| 2026-10-04 05:17:07 | [clak-bin](https://aur.archlinux.org/packages/clak-bin) | 0.2.3-1 | 0 | Fast and highly stable Vietnamese input method for Fcitx5 and Wayland (precompi… |
 
 ## Data source
 
