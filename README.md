@@ -12,20 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 14:20 UTC
+## Latest list — 2026-10-04 15:21 UTC
 
-New packages created between 2026-10-04 13:19 UTC and 2026-10-04 14:20 UTC.
+New packages created between 2026-10-04 14:20 UTC and 2026-10-04 15:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-04T14-20-11-685443Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-04T15-21-15-52409Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 13:23:48 | [kinopoisk-tv](https://aur.archlinux.org/packages/kinopoisk-tv) | 0.1.0-1 | 0 | Smart TV интерфейс Кинопоиска на Electron |
-| 2026-10-04 13:44:10 | [brother-mfc-l3720cdw](https://aur.archlinux.org/packages/brother-mfc-l3720cdw) | 3.5.1_1-1 | 0 | LPR and CUPS driver for the Brother MFC-L3720CDW |
-| 2026-10-04 13:44:54 | [aspell-ml](https://aur.archlinux.org/packages/aspell-ml) | 0.04_1-1 | 0 | Malayalam dictionary for aspell |
-| 2026-10-04 14:05:35 | [python-vercel-internal-core](https://aur.archlinux.org/packages/python-vercel-internal-core) | 0.2.0-1 | 1 | Shared internal runtime for Vercel Python packages. |
-| 2026-10-04 14:08:14 | [python-vercel-headers](https://aur.archlinux.org/packages/python-vercel-headers) | 0.7.2-1 | 1 | Request header helpers for Vercel Python applications. |
-| 2026-10-04 14:12:02 | [urga](https://aur.archlinux.org/packages/urga) | 0.10.2-1 | 0 | Terminal UI for HashiCorp Nomad |
+| 2026-10-04 14:25:21 | [python-vercel-oidc](https://aur.archlinux.org/packages/python-vercel-oidc) | 0.9.0-2 | 1 | OIDC helpers for Vercel Python applications. |
+| 2026-10-04 14:54:53 | [nogforge](https://aur.archlinux.org/packages/nogforge) | 1.0.0-1 | 0 | Packages the KognogOS way, in a terminal: what's installed, searching and insta… |
+| 2026-10-04 15:02:23 | [pigoune](https://aur.archlinux.org/packages/pigoune) | 1.3.0-1 | 0 | All your graphic assets, organized and within reach |
+| 2026-10-04 15:07:42 | [minicom-hangfix](https://aur.archlinux.org/packages/minicom-hangfix) | 2.11.1-1 | 0 | A serial communication program (with fix for UI hang on zero-width characters w… |
+| 2026-10-04 15:16:28 | [bank-icbc](https://aur.archlinux.org/packages/bank-icbc) | 3.3.0.2-1 | 0 | 中国工商银行控件 |
 
 ## Data source
 
