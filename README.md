@@ -12,16 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 13:19 UTC
+## Latest list — 2026-10-04 14:20 UTC
 
-New packages created between 2026-10-04 12:21 UTC and 2026-10-04 13:19 UTC.
+New packages created between 2026-10-04 13:19 UTC and 2026-10-04 14:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-04T13-19-18-742237Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-04T14-20-11-685443Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 12:39:23 | [mango-layout-tray-bin](https://aur.archlinux.org/packages/mango-layout-tray-bin) | 0.1.1-1 | 0 | A visual layout picker for MangoWM in your system tray (prebuilt binary) |
-| 2026-10-04 13:01:38 | [soapyiqfile-git](https://aur.archlinux.org/packages/soapyiqfile-git) | r13.4d82f81-1 | 0 | SoapySDR module that replays IQ data (CF32) from a file or FIFO pipe |
+| 2026-10-04 13:23:48 | [kinopoisk-tv](https://aur.archlinux.org/packages/kinopoisk-tv) | 0.1.0-1 | 0 | Smart TV интерфейс Кинопоиска на Electron |
+| 2026-10-04 13:44:10 | [brother-mfc-l3720cdw](https://aur.archlinux.org/packages/brother-mfc-l3720cdw) | 3.5.1_1-1 | 0 | LPR and CUPS driver for the Brother MFC-L3720CDW |
+| 2026-10-04 13:44:54 | [aspell-ml](https://aur.archlinux.org/packages/aspell-ml) | 0.04_1-1 | 0 | Malayalam dictionary for aspell |
+| 2026-10-04 14:05:35 | [python-vercel-internal-core](https://aur.archlinux.org/packages/python-vercel-internal-core) | 0.2.0-1 | 1 | Shared internal runtime for Vercel Python packages. |
+| 2026-10-04 14:08:14 | [python-vercel-headers](https://aur.archlinux.org/packages/python-vercel-headers) | 0.7.2-1 | 1 | Request header helpers for Vercel Python applications. |
+| 2026-10-04 14:12:02 | [urga](https://aur.archlinux.org/packages/urga) | 0.10.2-1 | 0 | Terminal UI for HashiCorp Nomad |
 
 ## Data source
 
