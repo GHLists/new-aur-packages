@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-04T12:39:23Z,mango-layout-tray-bin,0.1.1-1,0,A visual layout picker for MangoWM in your system tray (prebuilt binary)
+2026-10-04T13:01:38Z,soapyiqfile-git,r13.4d82f81-1,0,SoapySDR module that replays IQ data (CF32) from a file or FIFO pipe
