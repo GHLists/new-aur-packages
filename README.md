@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 07:21 UTC
+## Latest list — 2026-10-04 10:20 UTC
 
-New packages created between 2026-10-04 06:22 UTC and 2026-10-04 07:21 UTC.
+New packages created between 2026-10-04 09:19 UTC and 2026-10-04 10:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-04T07-21-38-277074Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-04T10-20-32-234691Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 07:07:08 | [tda-dsc-signer](https://aur.archlinux.org/packages/tda-dsc-signer) | 0.1.0-1 | 0 | Sign PDFs with Indian DSC USB tokens: GTK4 app and CLI with MCA form-field sign… |
-| 2026-10-04 07:16:52 | [mirai-git](https://aur.archlinux.org/packages/mirai-git) | r380.71088fa-1 | 0 | GTK4/libadwaita Go board for analysis, review and play with KataGo |
-| 2026-10-04 07:17:00 | [mirai-server-git](https://aur.archlinux.org/packages/mirai-server-git) | r380.71088fa-1 | 0 | Headless host sharing KataGo with mirai clients over the network |
+| 2026-10-04 09:42:17 | [px0-bin](https://aur.archlinux.org/packages/px0-bin) | 0.1.16-1 | 0 | Speed-first browser-based IDE for reviewing AI-generated code |
+| 2026-10-04 09:55:17 | [glesha-git](https://aur.archlinux.org/packages/glesha-git) | 0.5.1-1 | 0 | Encrypted archives and indexed cloud backups |
+| 2026-10-04 09:55:51 | [glesha-bin](https://aur.archlinux.org/packages/glesha-bin) | 0.5.1-1 | 0 | Encrypted archives and indexed cloud backups |
 
 ## Data source
 
