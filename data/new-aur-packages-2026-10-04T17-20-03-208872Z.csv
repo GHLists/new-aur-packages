@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-04T16:39:03Z,foot-tabs,1.28.0.tabs1-1,0,"Fast, lightweight and minimalistic Wayland terminal emulator (unofficial fork with tabs)"
+2026-10-04T16:39:16Z,foot-tabs-git,1.28.0.tabs1.r0.ge9…,0,"Fast, lightweight and minimalistic Wayland terminal emulator (unofficial fork with tabs, development version)"
+2026-10-04T16:39:44Z,mdai-bin,1.2.5-1,0,"Local-first Markdown editor with BYOK AI (proprietary, binary)"
+2026-10-04T16:56:35Z,katemark-git,0.4.1.r0.gcc3f815-1,0,GitHub-styled live Markdown preview for Kate (KTextEditor/KF6)
