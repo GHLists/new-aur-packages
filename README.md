@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 06:20 UTC
+## Latest list — 2026-10-05 08:21 UTC
 
-New packages created between 2026-10-05 05:20 UTC and 2026-10-05 06:20 UTC.
+New packages created between 2026-10-05 07:21 UTC and 2026-10-05 08:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-05T06-20-27-249444Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-05T08-21-47-988922Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 05:43:09 | [meteocat-wallpaper-git](https://aur.archlinux.org/packages/meteocat-wallpaper-git) | 0.9.0.r44.7b9082f-1 | 1 | Generate and set meteo.cat wallpapers with radar overlays |
-| 2026-10-05 06:17:31 | [zed-i18n-bin](https://aur.archlinux.org/packages/zed-i18n-bin) | 1.22.0+i18n.1-1 | 0 | Localized build of the Zed editor (community i18n release) |
+| 2026-10-05 07:36:48 | [zwanzig](https://aur.archlinux.org/packages/zwanzig) | 0.15.1-1 | 0 | A linter for the Zig programming language |
+| 2026-10-05 08:00:21 | [gfake-git](https://aur.archlinux.org/packages/gfake-git) | 1.0.0-1 | 0 | GUI to rewrite git commit author and committer dates |
+| 2026-10-05 08:07:58 | [qbx-lua-git](https://aur.archlinux.org/packages/qbx-lua-git) | 1.0.6.r63.gc33a513-1 | 0 | Lua linter, formatter, and language server for FiveM (git version) |
+| 2026-10-05 08:12:56 | [amdgpu-fan-ctl-bmc](https://aur.archlinux.org/packages/amdgpu-fan-ctl-bmc) | 0.1.0-1 | 0 | 用 rocm-smi 读 AMD GPU 温度，通过 BMC（H3C HDM）控制机箱风扇 |
+| 2026-10-05 08:16:31 | [minicom-ble](https://aur.archlinux.org/packages/minicom-ble) | 2.11.1-1 | 0 | minicom with a BLE serial mode (GATT write/notify characteristics via BlueZ), p… |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-05T07:36:48Z,zwanzig,0.15.1-1,0,A linter for the Zig programming language
+2026-10-05T08:00:21Z,gfake-git,1.0.0-1,0,GUI to rewrite git commit author and committer dates
+2026-10-05T08:07:58Z,qbx-lua-git,1.0.6.r63.gc33a513-1,0,"Lua linter, formatter, and language server for FiveM (git version)"
+2026-10-05T08:12:56Z,amdgpu-fan-ctl-bmc,0.1.0-1,0,用 rocm-smi 读 AMD GPU 温度，通过 BMC（H3C HDM）控制机箱风扇
+2026-10-05T08:16:31Z,minicom-ble,2.11.1-1,0,"minicom with a BLE serial mode (GATT write/notify characteristics via BlueZ), plus UI hang fixes"
