@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 23:19 UTC
+## Latest list — 2026-10-05 00:21 UTC
 
-New packages created between 2026-10-04 22:21 UTC and 2026-10-04 23:19 UTC.
+New packages created between 2026-10-04 23:19 UTC and 2026-10-05 00:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-04T23-19-05-73129Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-05T00-21-30-039882Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 23:09:09 | [typeless-bin](https://aur.archlinux.org/packages/typeless-bin) | 2.2.0-1 | 0 | AI voice dictation for any application (official Linux binary) |
+| 2026-10-05 00:12:15 | [azros-agent](https://aur.archlinux.org/packages/azros-agent) | 0.1.47-1 | 0 | Azros Agent - the Azros coding agent on its own, building into your AzrOS Works… |
 
 ## Data source
 
