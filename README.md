@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 05:20 UTC
+## Latest list — 2026-10-05 06:20 UTC
 
-New packages created between 2026-10-05 04:19 UTC and 2026-10-05 05:20 UTC.
+New packages created between 2026-10-05 05:20 UTC and 2026-10-05 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-05T05-20-15-611814Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-05T06-20-27-249444Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 05:05:07 | [melatonina](https://aur.archlinux.org/packages/melatonina) | 0.1.0-1 | 0 | Simple blue light filter for Wayland compositors supporting wlr-gamma-control |
+| 2026-10-05 05:43:09 | [meteocat-wallpaper-git](https://aur.archlinux.org/packages/meteocat-wallpaper-git) | 0.9.0.r44.7b9082f-1 | 1 | Generate and set meteo.cat wallpapers with radar overlays |
+| 2026-10-05 06:17:31 | [zed-i18n-bin](https://aur.archlinux.org/packages/zed-i18n-bin) | 1.22.0+i18n.1-1 | 0 | Localized build of the Zed editor (community i18n release) |
 
 ## Data source
 
