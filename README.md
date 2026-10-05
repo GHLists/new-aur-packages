@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 14:18 UTC
+## Latest list — 2026-10-05 15:22 UTC
 
-New packages created between 2026-10-05 13:19 UTC and 2026-10-05 14:18 UTC.
+New packages created between 2026-10-05 14:18 UTC and 2026-10-05 15:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-05T14-18-54-645744Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-05T15-22-51-816066Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 13:32:37 | [oleafly](https://aur.archlinux.org/packages/oleafly) | 0.4.4-1 | 0 | a local-first AI assisted research workspace for scientific writing & publishing |
-| 2026-10-05 14:03:58 | [python-kara-templater](https://aur.archlinux.org/packages/python-kara-templater) | 0.1.1-1 | 0 | Python karaoke template engine with native libass text metrics |
+| 2026-10-05 14:44:57 | [shot-hyprland](https://aur.archlinux.org/packages/shot-hyprland) | 2.0.1-1 | 0 | Hyprland screenshot utility with a wlr-layer-shell capture bar |
+| 2026-10-05 14:45:13 | [asciidoc-revealjs-toolkit](https://aur.archlinux.org/packages/asciidoc-revealjs-toolkit) | 1.0.1-1 | 0 | Asciidoc to Reveal.js toolkit |
 
 ## Data source
 
