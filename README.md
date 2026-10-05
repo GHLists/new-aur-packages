@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 21:20 UTC
+## Latest list — 2026-10-05 22:20 UTC
 
-New packages created between 2026-10-05 20:20 UTC and 2026-10-05 21:20 UTC.
+New packages created between 2026-10-05 21:20 UTC and 2026-10-05 22:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-05T21-20-08-523599Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-05T22-20-32-634727Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 20:59:00 | [texres-bin](https://aur.archlinux.org/packages/texres-bin) | 0.7.0-1 | 0 | Ultra-fast, pure-Rust TeX engine and complete self-contained typesetting suite |
-| 2026-10-05 21:04:58 | [texres](https://aur.archlinux.org/packages/texres) | 0.7.0-1 | 0 | Ultra-fast, pure-Rust TeX engine and typesetting toolchain (built from source) |
+| 2026-10-05 21:30:46 | [mcu-studio](https://aur.archlinux.org/packages/mcu-studio) | 1.1.0-2 | 0 | Repair damaged JPEGs by editing their DCT coefficients directly, with an MCU-le… |
 
 ## Data source
 
