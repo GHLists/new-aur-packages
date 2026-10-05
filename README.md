@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 13:19 UTC
+## Latest list — 2026-10-05 14:18 UTC
 
-New packages created between 2026-10-05 12:20 UTC and 2026-10-05 13:19 UTC.
+New packages created between 2026-10-05 13:19 UTC and 2026-10-05 14:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-05T13-19-42-656129Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-05T14-18-54-645744Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 12:57:26 | [shan-shui-wallpaper](https://aur.archlinux.org/packages/shan-shui-wallpaper) | 0.1.1-1 | 0 | Endless Chinese landscape painting that slowly scrolls across your Wayland desk… |
+| 2026-10-05 13:32:37 | [oleafly](https://aur.archlinux.org/packages/oleafly) | 0.4.4-1 | 0 | a local-first AI assisted research workspace for scientific writing & publishing |
+| 2026-10-05 14:03:58 | [python-kara-templater](https://aur.archlinux.org/packages/python-kara-templater) | 0.1.1-1 | 0 | Python karaoke template engine with native libass text metrics |
 
 ## Data source
 
