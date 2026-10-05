@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 17:21 UTC
+## Latest list — 2026-10-05 18:22 UTC
 
-New packages created between 2026-10-05 16:19 UTC and 2026-10-05 17:21 UTC.
+New packages created between 2026-10-05 17:21 UTC and 2026-10-05 18:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-05T17-21-34-669597Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-05T18-22-02-385602Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 16:21:17 | [photon-studio](https://aur.archlinux.org/packages/photon-studio) | 0.1.42-1 | 0 | Offline image editor with Photoshop-equivalent capabilities and native PSD supp… |
-| 2026-10-05 16:26:10 | [spo-cli-bin](https://aur.archlinux.org/packages/spo-cli-bin) | 0.6.6-1 | 0 | a spotify tui app, less is more |
-| 2026-10-05 16:28:31 | [fsearch-bin](https://aur.archlinux.org/packages/fsearch-bin) | 0.0.0-1 | 0 |  |
-| 2026-10-05 17:08:45 | [docan-gtk-bin](https://aur.archlinux.org/packages/docan-gtk-bin) | 3.0.2-1 | 1 | Universal AI chat application with file attachment support |
+| 2026-10-05 17:22:09 | [mass-certificate-generator-bin](https://aur.archlinux.org/packages/mass-certificate-generator-bin) | 1.1.0-2 | 0 | Batch certificate generator with custom fonts, layouts, and CSV/Excel data (sta… |
+| 2026-10-05 17:52:18 | [spo-cli](https://aur.archlinux.org/packages/spo-cli) | 0.6.7-1 | 0 | a spotify tui app, less is more |
+| 2026-10-05 17:59:54 | [scratch-everywhere-bin](https://aur.archlinux.org/packages/scratch-everywhere-bin) | 1.1-1 | 0 | A custom Scratch runtime written in C++! |
 
 ## Data source
 
