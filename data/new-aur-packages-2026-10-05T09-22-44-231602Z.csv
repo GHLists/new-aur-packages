@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-05T08:42:49Z,whoseware,0.1.0-1,0,"Who owns, leads or funds the software you run? Checks packages against the fashware lists"
+2026-10-05T08:48:41Z,filmcraft-bin,0.2.0-1,0,"Video editor: edit video, color and sound — a clean-room Premiere-style editor in Rust (official binary)"
+2026-10-05T08:49:16Z,photocraft-bin,0.2.0-1,0,Layer-based image and photo editor (prebuilt binaries)
+2026-10-05T08:51:52Z,designcraft-bin,0.2.0-1,0,Page layout and desktop publishing (prebuilt binaries)
+2026-10-05T08:52:26Z,vectorcraft-bin,0.2.0-1,0,Vector illustration and graphics editor (prebuilt binaries)
+2026-10-05T08:54:05Z,effectcraft-bin,0.2.0-1,0,Motion graphics and visual effects compositor (prebuilt binaries)
+2026-10-05T09:07:09Z,lightcraft-bin,0.2.0-1,0,Photo library and non-destructive raw development (prebuilt binaries)
+2026-10-05T09:09:45Z,printcraft-bin,0.2.0-1,0,PDF viewer and editor (prebuilt binaries)
+2026-10-05T09:13:10Z,onedev-tod,4.3.4-1,0,"TheOneDev CLI: OneDev issues, pull requests, builds and CI/CD jobs against local changes"

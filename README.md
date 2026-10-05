@@ -12,19 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 08:21 UTC
+## Latest list — 2026-10-05 09:22 UTC
 
-New packages created between 2026-10-05 07:21 UTC and 2026-10-05 08:21 UTC.
+New packages created between 2026-10-05 08:21 UTC and 2026-10-05 09:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-05T08-21-47-988922Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-05T09-22-44-231602Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 07:36:48 | [zwanzig](https://aur.archlinux.org/packages/zwanzig) | 0.15.1-1 | 0 | A linter for the Zig programming language |
-| 2026-10-05 08:00:21 | [gfake-git](https://aur.archlinux.org/packages/gfake-git) | 1.0.0-1 | 0 | GUI to rewrite git commit author and committer dates |
-| 2026-10-05 08:07:58 | [qbx-lua-git](https://aur.archlinux.org/packages/qbx-lua-git) | 1.0.6.r63.gc33a513-1 | 0 | Lua linter, formatter, and language server for FiveM (git version) |
-| 2026-10-05 08:12:56 | [amdgpu-fan-ctl-bmc](https://aur.archlinux.org/packages/amdgpu-fan-ctl-bmc) | 0.1.0-1 | 0 | 用 rocm-smi 读 AMD GPU 温度，通过 BMC（H3C HDM）控制机箱风扇 |
-| 2026-10-05 08:16:31 | [minicom-ble](https://aur.archlinux.org/packages/minicom-ble) | 2.11.1-1 | 0 | minicom with a BLE serial mode (GATT write/notify characteristics via BlueZ), p… |
+| 2026-10-05 08:42:49 | [whoseware](https://aur.archlinux.org/packages/whoseware) | 0.1.0-1 | 0 | Who owns, leads or funds the software you run? Checks packages against the fash… |
+| 2026-10-05 08:48:41 | [filmcraft-bin](https://aur.archlinux.org/packages/filmcraft-bin) | 0.2.0-1 | 0 | Video editor: edit video, color and sound — a clean-room Premiere-style editor… |
+| 2026-10-05 08:49:16 | [photocraft-bin](https://aur.archlinux.org/packages/photocraft-bin) | 0.2.0-1 | 0 | Layer-based image and photo editor (prebuilt binaries) |
+| 2026-10-05 08:51:52 | [designcraft-bin](https://aur.archlinux.org/packages/designcraft-bin) | 0.2.0-1 | 0 | Page layout and desktop publishing (prebuilt binaries) |
+| 2026-10-05 08:52:26 | [vectorcraft-bin](https://aur.archlinux.org/packages/vectorcraft-bin) | 0.2.0-1 | 0 | Vector illustration and graphics editor (prebuilt binaries) |
+| 2026-10-05 08:54:05 | [effectcraft-bin](https://aur.archlinux.org/packages/effectcraft-bin) | 0.2.0-1 | 0 | Motion graphics and visual effects compositor (prebuilt binaries) |
+| 2026-10-05 09:07:09 | [lightcraft-bin](https://aur.archlinux.org/packages/lightcraft-bin) | 0.2.0-1 | 0 | Photo library and non-destructive raw development (prebuilt binaries) |
+| 2026-10-05 09:09:45 | [printcraft-bin](https://aur.archlinux.org/packages/printcraft-bin) | 0.2.0-1 | 0 | PDF viewer and editor (prebuilt binaries) |
+| 2026-10-05 09:13:10 | [onedev-tod](https://aur.archlinux.org/packages/onedev-tod) | 4.3.4-1 | 0 | TheOneDev CLI: OneDev issues, pull requests, builds and CI/CD jobs against loca… |
 
 ## Data source
 
