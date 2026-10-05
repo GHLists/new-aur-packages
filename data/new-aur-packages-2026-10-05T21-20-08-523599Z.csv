@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-05T20:59:00Z,texres-bin,0.7.0-1,0,"Ultra-fast, pure-Rust TeX engine and complete self-contained typesetting suite"
+2026-10-05T21:04:58Z,texres,0.7.0-1,0,"Ultra-fast, pure-Rust TeX engine and typesetting toolchain (built from source)"

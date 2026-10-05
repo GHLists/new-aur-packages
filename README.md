@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 20:20 UTC
+## Latest list — 2026-10-05 21:20 UTC
 
-New packages created between 2026-10-05 19:22 UTC and 2026-10-05 20:20 UTC.
+New packages created between 2026-10-05 20:20 UTC and 2026-10-05 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-05T20-20-30-422004Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-05T21-20-08-523599Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 19:24:50 | [tidy-cleaner](https://aur.archlinux.org/packages/tidy-cleaner) | 0.2.0-1 | 0 | Modern, ultra-fast, and safe system cleaner, manager, and hardware telemetry da… |
+| 2026-10-05 20:59:00 | [texres-bin](https://aur.archlinux.org/packages/texres-bin) | 0.7.0-1 | 0 | Ultra-fast, pure-Rust TeX engine and complete self-contained typesetting suite |
+| 2026-10-05 21:04:58 | [texres](https://aur.archlinux.org/packages/texres) | 0.7.0-1 | 0 | Ultra-fast, pure-Rust TeX engine and typesetting toolchain (built from source) |
 
 ## Data source
 
