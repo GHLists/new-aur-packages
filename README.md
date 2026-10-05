@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 22:20 UTC
+## Latest list — 2026-10-05 23:20 UTC
 
-New packages created between 2026-10-05 21:20 UTC and 2026-10-05 22:20 UTC.
+New packages created between 2026-10-05 22:20 UTC and 2026-10-05 23:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-05T22-20-32-634727Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-05T23-20-46-786854Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 21:30:46 | [mcu-studio](https://aur.archlinux.org/packages/mcu-studio) | 1.1.0-2 | 0 | Repair damaged JPEGs by editing their DCT coefficients directly, with an MCU-le… |
+| 2026-10-05 22:39:11 | [retrom-bin](https://aur.archlinux.org/packages/retrom-bin) | 0.8.1-1 | 0 | Your own private cloud game-library service (prebuilt binary) |
 
 ## Data source
 
