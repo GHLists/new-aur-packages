@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-05T18:31:47Z,apm-git,0.33.0.r0.g18c4c43c…,0,Agent Package Manager (microsoft/apm) built from git with a placement perf patch
+2026-10-05T18:32:17Z,mailflow,3.8.2-1,0,Self-hosted unified webmail client
+2026-10-05T18:55:16Z,handbrake-full-va-api,1.11.2.r20261002.g1…,0,Multithreaded video transcoder with VA-API enabled
+2026-10-05T18:55:16Z,handbrake-full-va-api-cli,1.11.2.r20261002.g1…,0,Multithreaded video transcoder CLI with VA-API enabled
+2026-10-05T19:02:02Z,vgshell,0.1.0-1,0,"Desktop shell for Hyprland, built on Quickshell"
+2026-10-05T19:02:11Z,vgshell-git,0.1.0-1,0,"Desktop shell for Hyprland, built on Quickshell (development version)"
+2026-10-05T19:07:15Z,python-protobuf-py,0.6.0-1,0,Idiomatic Protocol Buffers for Python.
+2026-10-05T19:12:26Z,mangodisk-bin,1.1.6-1,0,Safety-first disk cleaner and space analyzer with duplicate cleanup and maintenance tools
