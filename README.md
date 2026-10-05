@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 00:21 UTC
+## Latest list — 2026-10-05 05:20 UTC
 
-New packages created between 2026-10-04 23:19 UTC and 2026-10-05 00:21 UTC.
+New packages created between 2026-10-05 04:19 UTC and 2026-10-05 05:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-05T00-21-30-039882Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-05T05-20-15-611814Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 00:12:15 | [azros-agent](https://aur.archlinux.org/packages/azros-agent) | 0.1.47-1 | 0 | Azros Agent - the Azros coding agent on its own, building into your AzrOS Works… |
+| 2026-10-05 05:05:07 | [melatonina](https://aur.archlinux.org/packages/melatonina) | 0.1.0-1 | 0 | Simple blue light filter for Wayland compositors supporting wlr-gamma-control |
 
 ## Data source
 

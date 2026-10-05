@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-10-05T05:05:07Z,melatonina,0.1.0-1,0,Simple blue light filter for Wayland compositors supporting wlr-gamma-control
