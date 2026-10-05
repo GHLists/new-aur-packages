@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-05T16:21:17Z,photon-studio,0.1.42-1,0,Offline image editor with Photoshop-equivalent capabilities and native PSD support
+2026-10-05T16:26:10Z,spo-cli-bin,0.6.6-1,0,"a spotify tui app, less is more"
+2026-10-05T16:28:31Z,fsearch-bin,0.0.0-1,0,
+2026-10-05T17:08:45Z,docan-gtk-bin,3.0.2-1,1,Universal AI chat application with file attachment support

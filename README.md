@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 15:22 UTC
+## Latest list — 2026-10-05 17:21 UTC
 
-New packages created between 2026-10-05 14:18 UTC and 2026-10-05 15:22 UTC.
+New packages created between 2026-10-05 16:19 UTC and 2026-10-05 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-05T15-22-51-816066Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-05T17-21-34-669597Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 14:44:57 | [shot-hyprland](https://aur.archlinux.org/packages/shot-hyprland) | 2.0.1-1 | 0 | Hyprland screenshot utility with a wlr-layer-shell capture bar |
-| 2026-10-05 14:45:13 | [asciidoc-revealjs-toolkit](https://aur.archlinux.org/packages/asciidoc-revealjs-toolkit) | 1.0.1-1 | 0 | Asciidoc to Reveal.js toolkit |
+| 2026-10-05 16:21:17 | [photon-studio](https://aur.archlinux.org/packages/photon-studio) | 0.1.42-1 | 0 | Offline image editor with Photoshop-equivalent capabilities and native PSD supp… |
+| 2026-10-05 16:26:10 | [spo-cli-bin](https://aur.archlinux.org/packages/spo-cli-bin) | 0.6.6-1 | 0 | a spotify tui app, less is more |
+| 2026-10-05 16:28:31 | [fsearch-bin](https://aur.archlinux.org/packages/fsearch-bin) | 0.0.0-1 | 0 |  |
+| 2026-10-05 17:08:45 | [docan-gtk-bin](https://aur.archlinux.org/packages/docan-gtk-bin) | 3.0.2-1 | 1 | Universal AI chat application with file attachment support |
 
 ## Data source
 
