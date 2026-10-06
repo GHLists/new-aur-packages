@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 09:20 UTC
+## Latest list — 2026-10-06 10:22 UTC
 
-New packages created between 2026-10-06 08:20 UTC and 2026-10-06 09:20 UTC.
+New packages created between 2026-10-06 09:20 UTC and 2026-10-06 10:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T09-20-58-883061Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T10-22-43-72841Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 08:22:33 | [venturi](https://aur.archlinux.org/packages/venturi) | 0.4.5-1 | 0 | Linux-first, performance oriented minimal video editor |
-| 2026-10-06 08:50:03 | [pipewire-waybar](https://aur.archlinux.org/packages/pipewire-waybar) | 1.0.1-1 | 0 | PipeWire sink switcher for Waybar: daemon, CLI and GTK4 layer-shell picker |
-| 2026-10-06 08:56:30 | [termimus-ssh-bin](https://aur.archlinux.org/packages/termimus-ssh-bin) | 0.6.2-1 | 0 | Self-hosted SSH & Server Manager desktop app (Termius alternative built with Ta… |
+| 2026-10-06 09:55:10 | [linuxfiles-bin](https://aur.archlinux.org/packages/linuxfiles-bin) | 0.1.0alpha1-1 | 0 | LinuxFiles, Files for Linux: unofficial port of Files by the Files Community (U… |
 
 ## Data source
 
