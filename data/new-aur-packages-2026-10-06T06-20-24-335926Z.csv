@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-06T05:22:24Z,gitframe-bin,0.1.4-1,0,"A terminal workspace for reviewing Git changes, browsing source, and exploring history"
+2026-10-06T05:22:28Z,tsuzuri-bin,0.2.0-1,0,"Block-based notebook for the terminal. Plain Markdown files, Vim editing, live preview, boards, calendars and 96 themes"
+2026-10-06T05:58:46Z,omp-ctl,0.6.0-1,0,Desktop GUI for managing omp configuration in ~/.omp-ctl
+2026-10-06T06:03:56Z,esp-sdr-bridge,0.1.0-1,0,Real IQ from an ESP32-S3 running ESP-SDRover the plain USB cable
+2026-10-06T06:05:50Z,bracco-bin,0.2.4-1,0,"Fast, Git-aware fuzzy file picker for the terminal"
+2026-10-06T06:12:43Z,gopherttype-bin,0.1.0-1,0,CLI typing test game written in Go

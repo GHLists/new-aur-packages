@@ -12,16 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 05:20 UTC
+## Latest list — 2026-10-06 06:20 UTC
 
-New packages created between 2026-10-06 04:22 UTC and 2026-10-06 05:20 UTC.
+New packages created between 2026-10-06 05:20 UTC and 2026-10-06 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T05-20-29-341742Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T06-20-24-335926Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 04:51:00 | [pasejo](https://aur.archlinux.org/packages/pasejo) | 2026.10.4-1 | 1 | CLI password manager for teams using age |
-| 2026-10-06 05:12:30 | [ctyun-clouddesk-bin](https://aur.archlinux.org/packages/ctyun-clouddesk-bin) | 4.1.0.1346-2 | 0 | 天翼云电脑 Linux 客户端（Public） |
+| 2026-10-06 05:22:24 | [gitframe-bin](https://aur.archlinux.org/packages/gitframe-bin) | 0.1.4-1 | 0 | A terminal workspace for reviewing Git changes, browsing source, and exploring… |
+| 2026-10-06 05:22:28 | [tsuzuri-bin](https://aur.archlinux.org/packages/tsuzuri-bin) | 0.2.0-1 | 0 | Block-based notebook for the terminal. Plain Markdown files, Vim editing, live… |
+| 2026-10-06 05:58:46 | [omp-ctl](https://aur.archlinux.org/packages/omp-ctl) | 0.6.0-1 | 0 | Desktop GUI for managing omp configuration in ~/.omp-ctl |
+| 2026-10-06 06:03:56 | [esp-sdr-bridge](https://aur.archlinux.org/packages/esp-sdr-bridge) | 0.1.0-1 | 0 | Real IQ from an ESP32-S3 running ESP-SDRover the plain USB cable |
+| 2026-10-06 06:05:50 | [bracco-bin](https://aur.archlinux.org/packages/bracco-bin) | 0.2.4-1 | 0 | Fast, Git-aware fuzzy file picker for the terminal |
+| 2026-10-06 06:12:43 | [gopherttype-bin](https://aur.archlinux.org/packages/gopherttype-bin) | 0.1.0-1 | 0 | CLI typing test game written in Go |
 
 ## Data source
 
