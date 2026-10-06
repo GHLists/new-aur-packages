@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-06T00:21:50Z,immortal-barons,0.2.3-2,0,Persistent multiplayer BBS door game inspired by Barren Realms Elite
+2026-10-06T00:21:50Z,immortal-barons-sysop,0.2.3-2,0,Desktop sysop panel for Immortal Barons
+2026-10-06T00:32:22Z,strata-engine-git,0.1.39.r845.g6f32ec…,0,"Run Qwen3.8-Flash-Next (125B MoE) on one consumer NVIDIA GPU plus system RAM, with a local OpenAI/Anthropic-compatible API (git version)"
+2026-10-06T01:06:15Z,llama.cpp-rocm-bin,b11433-1,0,llama.cpp upstream prebuilt binaries with the ROCm backend

@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 00:20 UTC
+## Latest list — 2026-10-06 01:21 UTC
 
-New packages created between 2026-10-05 23:20 UTC and 2026-10-06 00:20 UTC.
+New packages created between 2026-10-06 00:20 UTC and 2026-10-06 01:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T00-20-38-948683Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T01-21-34-289521Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 23:48:26 | [footage-bin](https://aur.archlinux.org/packages/footage-bin) | 1.4.0-1 | 0 | Trim, flip, rotate and crop videos using native Arch Linux libraries |
-| 2026-10-05 23:49:31 | [gnome-shell-extension-symmetric-resize](https://aur.archlinux.org/packages/gnome-shell-extension-symmetric-resize) | 1.0.0-1 | 0 | Resize GNOME windows from the center or with a fixed aspect ratio |
-| 2026-10-05 23:52:17 | [msedit-mod-git](https://aur.archlinux.org/packages/msedit-mod-git) | 2.0.0.r505.gfd2e67a… | 0 | A simple editor for simple needs (Microsoft Edit) — maryasov modified build |
-| 2026-10-05 23:52:28 | [msedit-mod-bin](https://aur.archlinux.org/packages/msedit-mod-bin) | 2.0.0.r505.gfd2e67a… | 0 | A simple editor for simple needs (Microsoft Edit) — maryasov modified build (pr… |
+| 2026-10-06 00:21:50 | [immortal-barons](https://aur.archlinux.org/packages/immortal-barons) | 0.2.3-2 | 0 | Persistent multiplayer BBS door game inspired by Barren Realms Elite |
+| 2026-10-06 00:21:50 | [immortal-barons-sysop](https://aur.archlinux.org/packages/immortal-barons-sysop) | 0.2.3-2 | 0 | Desktop sysop panel for Immortal Barons |
+| 2026-10-06 00:32:22 | [strata-engine-git](https://aur.archlinux.org/packages/strata-engine-git) | 0.1.39.r845.g6f32ec… | 0 | Run Qwen3.8-Flash-Next (125B MoE) on one consumer NVIDIA GPU plus system RAM, w… |
+| 2026-10-06 01:06:15 | [llama.cpp-rocm-bin](https://aur.archlinux.org/packages/llama.cpp-rocm-bin) | b11433-1 | 0 | llama.cpp upstream prebuilt binaries with the ROCm backend |
 
 ## Data source
 
