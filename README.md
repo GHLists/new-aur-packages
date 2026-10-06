@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 14:20 UTC
+## Latest list — 2026-10-06 15:19 UTC
 
-New packages created between 2026-10-06 13:19 UTC and 2026-10-06 14:20 UTC.
+New packages created between 2026-10-06 14:20 UTC and 2026-10-06 15:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T14-20-32-434367Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T15-19-06-792757Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 13:21:17 | [storytold-suite](https://aur.archlinux.org/packages/storytold-suite) | 1-1 | 0 | Metapackage with all the vibe coded clean-room reimplementations of Adobe Creat… |
-| 2026-10-06 13:23:54 | [huebox](https://aur.archlinux.org/packages/huebox) | 0.3.0-1 | 0 | A terminal theme editor with live preview |
-| 2026-10-06 14:01:43 | [docscan](https://aur.archlinux.org/packages/docscan) | 0.1.0-1 | 0 | Turn photos of documents into clean, straight PDF pages, like Microsoft Lens |
+| 2026-10-06 14:51:02 | [fooyin-bin](https://aur.archlinux.org/packages/fooyin-bin) | 0.10.7-1 | 0 | A customisable music player.Binary version. |
 
 ## Data source
 
