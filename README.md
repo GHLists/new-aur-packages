@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 22:21 UTC
+## Latest list — 2026-10-06 23:22 UTC
 
-New packages created between 2026-10-06 21:21 UTC and 2026-10-06 22:21 UTC.
+New packages created between 2026-10-06 22:21 UTC and 2026-10-06 23:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T22-21-37-458071Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T23-22-30-722433Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 21:41:14 | [kubecom-bin](https://aur.archlinux.org/packages/kubecom-bin) | 26.10.06-2 | 0 | A fast, keyboard-driven terminal UI for Kubernetes (a launcher plus a seed buil… |
-| 2026-10-06 22:08:20 | [i3pystatus](https://aur.archlinux.org/packages/i3pystatus) | 3.35.r345.ge0234c1-1 | 0 | i3status replacement written in python for the i3 window manager |
+| 2026-10-06 22:58:33 | [aulos-bin](https://aur.archlinux.org/packages/aulos-bin) | 0.1.0-1 | 0 | A modern music player for the COSMIC desktop (binary release) |
+| 2026-10-06 23:01:38 | [aulos-git](https://aur.archlinux.org/packages/aulos-git) | 0.1.0.r31.gcc3793e-1 | 0 | A modern music player for the COSMIC desktop |
+| 2026-10-06 23:12:57 | [blepfx-filtrr-clap-bin](https://aur.archlinux.org/packages/blepfx-filtrr-clap-bin) | release_128-2 | 0 | a digital degrader |
 
 ## Data source
 
