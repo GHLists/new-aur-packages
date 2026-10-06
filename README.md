@@ -12,24 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 13:19 UTC
+## Latest list — 2026-10-06 14:20 UTC
 
-New packages created between 2026-10-06 12:19 UTC and 2026-10-06 13:19 UTC.
+New packages created between 2026-10-06 13:19 UTC and 2026-10-06 14:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T13-19-51-374833Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T14-20-32-434367Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 12:21:07 | [effectcraft](https://aur.archlinux.org/packages/effectcraft) | 0.3.0-1 | 0 | vibe coded compositor in the spirit of After Effects |
-| 2026-10-06 12:28:47 | [filmcraft](https://aur.archlinux.org/packages/filmcraft) | 0.2.1-1 | 0 | vibe coded clean-room reimplementation of Adobe Premiere Pro |
-| 2026-10-06 12:31:03 | [lightcraft](https://aur.archlinux.org/packages/lightcraft) | 0.2.1-1 | 0 | vibe coded clean-room reimplementation of Adobe Lightroom |
-| 2026-10-06 12:35:20 | [omnigent-desktop](https://aur.archlinux.org/packages/omnigent-desktop) | 0.17.0-3 | 0 | Desktop client for collaborating with AI agents |
-| 2026-10-06 12:35:26 | [photocraft](https://aur.archlinux.org/packages/photocraft) | 0.2.0-1 | 0 | vibe coded clean-room reimplementation of Adobe Photoshop |
-| 2026-10-06 12:35:29 | [vectorcraft](https://aur.archlinux.org/packages/vectorcraft) | 0.3.0-1 | 0 | vibe coded clean-room reimplementation of Adobe Illustrator |
-| 2026-10-06 12:37:44 | [printcraft](https://aur.archlinux.org/packages/printcraft) | 0.2.0-1 | 0 | vibe coded clean-room reimplementation of Adobe Acrobat |
-| 2026-10-06 13:11:26 | [dncdbg](https://aur.archlinux.org/packages/dncdbg) | 1.2.0-1 | 0 | Managed-code debugger for .NET applications with DAP support |
-| 2026-10-06 13:12:01 | [dncdbg-bin](https://aur.archlinux.org/packages/dncdbg-bin) | 1.2.0-1 | 0 | Managed-code debugger for .NET applications with DAP support |
-| 2026-10-06 13:12:08 | [dncdbg-git](https://aur.archlinux.org/packages/dncdbg-git) | 1.2.0.r262.gdf46c2c… | 0 | Managed-code debugger for .NET applications with DAP support |
+| 2026-10-06 13:21:17 | [storytold-suite](https://aur.archlinux.org/packages/storytold-suite) | 1-1 | 0 | Metapackage with all the vibe coded clean-room reimplementations of Adobe Creat… |
+| 2026-10-06 13:23:54 | [huebox](https://aur.archlinux.org/packages/huebox) | 0.3.0-1 | 0 | A terminal theme editor with live preview |
+| 2026-10-06 14:01:43 | [docscan](https://aur.archlinux.org/packages/docscan) | 0.1.0-1 | 0 | Turn photos of documents into clean, straight PDF pages, like Microsoft Lens |
 
 ## Data source
 
