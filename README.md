@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 17:22 UTC
+## Latest list — 2026-10-06 18:20 UTC
 
-New packages created between 2026-10-06 16:21 UTC and 2026-10-06 17:22 UTC.
+New packages created between 2026-10-06 17:22 UTC and 2026-10-06 18:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T17-22-03-777903Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T18-20-04-318667Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 16:45:26 | [misari-git](https://aur.archlinux.org/packages/misari-git) | 26.4.0.v1.0.r17.gb9… | 0 | Personal niri fork with a scrollable tiling Wayland desktop |
-| 2026-10-06 16:45:38 | [misari-bin](https://aur.archlinux.org/packages/misari-bin) | 26.4.0.v1.0-1 | 0 | Personal niri fork with a scrollable tiling Wayland desktop |
-| 2026-10-06 16:45:50 | [wallpaperd-git](https://aur.archlinux.org/packages/wallpaperd-git) | 0.1.0.r17.gb9c5c01-1 | 0 | Session wallpaper daemon with image, video, shader and Wallpaper Engine backends |
-| 2026-10-06 16:46:01 | [wallpaperd-bin](https://aur.archlinux.org/packages/wallpaperd-bin) | 0.1.0-1 | 0 | Session wallpaper daemon with image, video, shader and Wallpaper Engine backends |
+| 2026-10-06 18:05:40 | [plasma-studio-git](https://aur.archlinux.org/packages/plasma-studio-git) | r1887.931c24c-1 | 0 | Node-based multimedia editor for video, photos and vector graphics |
 
 ## Data source
 
