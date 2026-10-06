@@ -1,0 +1,11 @@
+created_at,package,version,votes,description
+2026-10-06T12:21:07Z,effectcraft,0.3.0-1,0,vibe coded compositor in the spirit of After Effects
+2026-10-06T12:28:47Z,filmcraft,0.2.1-1,0,vibe coded clean-room reimplementation of Adobe Premiere Pro
+2026-10-06T12:31:03Z,lightcraft,0.2.1-1,0,vibe coded clean-room reimplementation of Adobe Lightroom
+2026-10-06T12:35:20Z,omnigent-desktop,0.17.0-3,0,Desktop client for collaborating with AI agents
+2026-10-06T12:35:26Z,photocraft,0.2.0-1,0,vibe coded clean-room reimplementation of Adobe Photoshop
+2026-10-06T12:35:29Z,vectorcraft,0.3.0-1,0,vibe coded clean-room reimplementation of Adobe Illustrator
+2026-10-06T12:37:44Z,printcraft,0.2.0-1,0,vibe coded clean-room reimplementation of Adobe Acrobat
+2026-10-06T13:11:26Z,dncdbg,1.2.0-1,0,Managed-code debugger for .NET applications with DAP support
+2026-10-06T13:12:01Z,dncdbg-bin,1.2.0-1,0,Managed-code debugger for .NET applications with DAP support
+2026-10-06T13:12:08Z,dncdbg-git,1.2.0.r262.gdf46c2c…,0,Managed-code debugger for .NET applications with DAP support
