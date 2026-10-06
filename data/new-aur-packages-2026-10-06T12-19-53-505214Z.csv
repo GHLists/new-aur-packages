@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-06T11:58:52Z,minimax-code,0.6.3-1,0,MiniMax Code terminal AI coding agent (mcode CLI)
+2026-10-06T12:02:21Z,omnigent,0.17.0-2,0,Omnigent desktop client for AI agents (built from release source)
+2026-10-06T12:10:54Z,designcraft,0.2.0-1,0,vibe coded clean-room take on the Adobe InDesign workflow
+2026-10-06T12:12:30Z,simple-rust-stopwatch,0.1.0-1,0,A simple CLI stopwatch that saves your progress
