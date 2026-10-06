@@ -12,15 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 18:20 UTC
+## Latest list — 2026-10-06 19:20 UTC
 
-New packages created between 2026-10-06 17:22 UTC and 2026-10-06 18:20 UTC.
+New packages created between 2026-10-06 18:20 UTC and 2026-10-06 19:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T18-20-04-318667Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T19-20-55-361359Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 18:05:40 | [plasma-studio-git](https://aur.archlinux.org/packages/plasma-studio-git) | r1887.931c24c-1 | 0 | Node-based multimedia editor for video, photos and vector graphics |
+| 2026-10-06 18:54:23 | [qwen-minimal-desktop](https://aur.archlinux.org/packages/qwen-minimal-desktop) | 0.1.0-1 | 0 | Single-file GTK4 chat client for Qwen and Kimi with local/cloud backends |
+| 2026-10-06 19:10:17 | [roamgate-bin](https://aur.archlinux.org/packages/roamgate-bin) | 0.7.15-1 | 0 | Web and PWA client for Herdr: control terminals, monitor coding agents, review… |
+| 2026-10-06 19:11:15 | [fgen](https://aur.archlinux.org/packages/fgen) | 0.1.0-1 | 0 | Generate images with your ChatGPT subscription from the terminal |
+| 2026-10-06 19:20:11 | [siegefx-bin](https://aur.archlinux.org/packages/siegefx-bin) |  |  | Open-source reimplementation of the Dungeon Siege engine, in alpha (needs the o… |
+| 2026-10-06 19:20:14 | [syrinc-git](https://aur.archlinux.org/packages/syrinc-git) |  |  | audio file handler which lets you embed, format and convert lyrics data to your… |
 
 ## Data source
 
