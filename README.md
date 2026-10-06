@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 15:19 UTC
+## Latest list — 2026-10-06 16:21 UTC
 
-New packages created between 2026-10-06 14:20 UTC and 2026-10-06 15:19 UTC.
+New packages created between 2026-10-06 15:19 UTC and 2026-10-06 16:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T15-19-06-792757Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T16-21-17-241028Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 14:51:02 | [fooyin-bin](https://aur.archlinux.org/packages/fooyin-bin) | 0.10.7-1 | 0 | A customisable music player.Binary version. |
+| 2026-10-06 15:26:36 | [omnigent-cli](https://aur.archlinux.org/packages/omnigent-cli) | 0.17.0-1 | 0 | Omnigent CLI, server, and agent host with isolated Python dependencies |
+| 2026-10-06 15:45:26 | [fiilctl](https://aur.archlinux.org/packages/fiilctl) | 1.0.0-1 | 0 | FIIL 蓝牙耳机控制台（Qt Quick 界面，走经典蓝牙 SPP，免手机 App） |
 
 ## Data source
 
