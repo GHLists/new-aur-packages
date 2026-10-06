@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-06T01:39:37Z,llama.cpp-vulkan-bin,b10453-1,0,LLM inference in C/C++ (with Vulkan GPU optimizations) (precompiled Linux binaries)
+2026-10-06T01:53:08Z,torresmo,1.0.3-1,0,Dead simple and minimal TUI client for the Transmission daemon
+2026-10-06T02:19:46Z,stable-diffusion.cpp-vulkan-bin,master_929_3f8527a-1,0,stable-diffusion.cpp upstream Linux x86_64 prebuilt binaries with the Vulkan backend
+2026-10-06T02:19:46Z,stable-diffusion.cpp-rocm-bin,master_929_3f8527a-1,0,stable-diffusion.cpp upstream Linux x86_64 prebuilt binaries with the ROCm backend

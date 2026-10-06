@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 01:21 UTC
+## Latest list — 2026-10-06 02:20 UTC
 
-New packages created between 2026-10-06 00:20 UTC and 2026-10-06 01:21 UTC.
+New packages created between 2026-10-06 01:21 UTC and 2026-10-06 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T01-21-34-289521Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T02-20-48-74326Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 00:21:50 | [immortal-barons](https://aur.archlinux.org/packages/immortal-barons) | 0.2.3-2 | 0 | Persistent multiplayer BBS door game inspired by Barren Realms Elite |
-| 2026-10-06 00:21:50 | [immortal-barons-sysop](https://aur.archlinux.org/packages/immortal-barons-sysop) | 0.2.3-2 | 0 | Desktop sysop panel for Immortal Barons |
-| 2026-10-06 00:32:22 | [strata-engine-git](https://aur.archlinux.org/packages/strata-engine-git) | 0.1.39.r845.g6f32ec… | 0 | Run Qwen3.8-Flash-Next (125B MoE) on one consumer NVIDIA GPU plus system RAM, w… |
-| 2026-10-06 01:06:15 | [llama.cpp-rocm-bin](https://aur.archlinux.org/packages/llama.cpp-rocm-bin) | b11433-1 | 0 | llama.cpp upstream prebuilt binaries with the ROCm backend |
+| 2026-10-06 01:39:37 | [llama.cpp-vulkan-bin](https://aur.archlinux.org/packages/llama.cpp-vulkan-bin) | b10453-1 | 0 | LLM inference in C/C++ (with Vulkan GPU optimizations) (precompiled Linux binar… |
+| 2026-10-06 01:53:08 | [torresmo](https://aur.archlinux.org/packages/torresmo) | 1.0.3-1 | 0 | Dead simple and minimal TUI client for the Transmission daemon |
+| 2026-10-06 02:19:46 | [stable-diffusion.cpp-vulkan-bin](https://aur.archlinux.org/packages/stable-diffusion.cpp-vulkan-bin) | master_929_3f8527a-1 | 0 | stable-diffusion.cpp upstream Linux x86_64 prebuilt binaries with the Vulkan ba… |
+| 2026-10-06 02:19:46 | [stable-diffusion.cpp-rocm-bin](https://aur.archlinux.org/packages/stable-diffusion.cpp-rocm-bin) | master_929_3f8527a-1 | 0 | stable-diffusion.cpp upstream Linux x86_64 prebuilt binaries with the ROCm back… |
 
 ## Data source
 
