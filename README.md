@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 02:20 UTC
+## Latest list — 2026-10-06 04:22 UTC
 
-New packages created between 2026-10-06 01:21 UTC and 2026-10-06 02:20 UTC.
+New packages created between 2026-10-06 03:19 UTC and 2026-10-06 04:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T02-20-48-74326Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T04-22-11-223808Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 01:39:37 | [llama.cpp-vulkan-bin](https://aur.archlinux.org/packages/llama.cpp-vulkan-bin) | b10453-1 | 0 | LLM inference in C/C++ (with Vulkan GPU optimizations) (precompiled Linux binar… |
-| 2026-10-06 01:53:08 | [torresmo](https://aur.archlinux.org/packages/torresmo) | 1.0.3-1 | 0 | Dead simple and minimal TUI client for the Transmission daemon |
-| 2026-10-06 02:19:46 | [stable-diffusion.cpp-vulkan-bin](https://aur.archlinux.org/packages/stable-diffusion.cpp-vulkan-bin) | master_929_3f8527a-1 | 0 | stable-diffusion.cpp upstream Linux x86_64 prebuilt binaries with the Vulkan ba… |
-| 2026-10-06 02:19:46 | [stable-diffusion.cpp-rocm-bin](https://aur.archlinux.org/packages/stable-diffusion.cpp-rocm-bin) | master_929_3f8527a-1 | 0 | stable-diffusion.cpp upstream Linux x86_64 prebuilt binaries with the ROCm back… |
+| 2026-10-06 04:12:20 | [niri-fx](https://aur.archlinux.org/packages/niri-fx) | 0.21.0-1 | 0 | Window effect presets, portable recipes and a visual Studio for Niri |
+| 2026-10-06 04:12:24 | [niri-fx-git](https://aur.archlinux.org/packages/niri-fx-git) | 0.21.0.r75.g3b8e03e… | 0 | Window effect presets, portable recipes and a visual Studio for Niri |
 
 ## Data source
 
