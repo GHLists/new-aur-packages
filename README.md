@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 04:22 UTC
+## Latest list — 2026-10-06 05:20 UTC
 
-New packages created between 2026-10-06 03:19 UTC and 2026-10-06 04:22 UTC.
+New packages created between 2026-10-06 04:22 UTC and 2026-10-06 05:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T04-22-11-223808Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T05-20-29-341742Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 04:12:20 | [niri-fx](https://aur.archlinux.org/packages/niri-fx) | 0.21.0-1 | 0 | Window effect presets, portable recipes and a visual Studio for Niri |
-| 2026-10-06 04:12:24 | [niri-fx-git](https://aur.archlinux.org/packages/niri-fx-git) | 0.21.0.r75.g3b8e03e… | 0 | Window effect presets, portable recipes and a visual Studio for Niri |
+| 2026-10-06 04:51:00 | [pasejo](https://aur.archlinux.org/packages/pasejo) | 2026.10.4-1 | 1 | CLI password manager for teams using age |
+| 2026-10-06 05:12:30 | [ctyun-clouddesk-bin](https://aur.archlinux.org/packages/ctyun-clouddesk-bin) | 4.1.0.1346-2 | 0 | 天翼云电脑 Linux 客户端（Public） |
 
 ## Data source
 
