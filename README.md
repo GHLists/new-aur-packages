@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 08:20 UTC
+## Latest list — 2026-10-06 09:20 UTC
 
-New packages created between 2026-10-06 07:19 UTC and 2026-10-06 08:20 UTC.
+New packages created between 2026-10-06 08:20 UTC and 2026-10-06 09:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T08-20-36-763048Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T09-20-58-883061Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 07:57:26 | [bitsrunlogin-go](https://aur.archlinux.org/packages/bitsrunlogin-go) | 1.6.8-1 | 0 | Headless login tool for Srun (深澜) campus networks, written in Go |
-| 2026-10-06 07:57:42 | [useful-autoclicker-git](https://aur.archlinux.org/packages/useful-autoclicker-git) | 2.2.r0.gb27f8e8-1 | 0 | A versatile autoclicker with hotkey toggle, randomized timings and click-on-hold |
-| 2026-10-06 08:01:14 | [towerofatum-bin](https://aur.archlinux.org/packages/towerofatum-bin) | 0.1.2-1 | 0 | Work-in-progress multiplayer spell-combat game, played offline against a local… |
-| 2026-10-06 08:17:17 | [openfootmanager-bin](https://aur.archlinux.org/packages/openfootmanager-bin) |  |  | Open-source football management simulation game |
+| 2026-10-06 08:22:33 | [venturi](https://aur.archlinux.org/packages/venturi) | 0.4.5-1 | 0 | Linux-first, performance oriented minimal video editor |
+| 2026-10-06 08:50:03 | [pipewire-waybar](https://aur.archlinux.org/packages/pipewire-waybar) | 1.0.1-1 | 0 | PipeWire sink switcher for Waybar: daemon, CLI and GTK4 layer-shell picker |
+| 2026-10-06 08:56:30 | [termimus-ssh-bin](https://aur.archlinux.org/packages/termimus-ssh-bin) | 0.6.2-1 | 0 | Self-hosted SSH & Server Manager desktop app (Termius alternative built with Ta… |
 
 ## Data source
 

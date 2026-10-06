@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-06T08:22:33Z,venturi,0.4.5-1,0,"Linux-first, performance oriented minimal video editor"
+2026-10-06T08:50:03Z,pipewire-waybar,1.0.1-1,0,"PipeWire sink switcher for Waybar: daemon, CLI and GTK4 layer-shell picker"
+2026-10-06T08:56:30Z,termimus-ssh-bin,0.6.2-1,0,Self-hosted SSH & Server Manager desktop app (Termius alternative built with Tauri + React)
