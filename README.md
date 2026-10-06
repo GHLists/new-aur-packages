@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 16:21 UTC
+## Latest list — 2026-10-06 17:22 UTC
 
-New packages created between 2026-10-06 15:19 UTC and 2026-10-06 16:21 UTC.
+New packages created between 2026-10-06 16:21 UTC and 2026-10-06 17:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T16-21-17-241028Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T17-22-03-777903Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 15:26:36 | [omnigent-cli](https://aur.archlinux.org/packages/omnigent-cli) | 0.17.0-1 | 0 | Omnigent CLI, server, and agent host with isolated Python dependencies |
-| 2026-10-06 15:45:26 | [fiilctl](https://aur.archlinux.org/packages/fiilctl) | 1.0.0-1 | 0 | FIIL 蓝牙耳机控制台（Qt Quick 界面，走经典蓝牙 SPP，免手机 App） |
+| 2026-10-06 16:45:26 | [misari-git](https://aur.archlinux.org/packages/misari-git) | 26.4.0.v1.0.r17.gb9… | 0 | Personal niri fork with a scrollable tiling Wayland desktop |
+| 2026-10-06 16:45:38 | [misari-bin](https://aur.archlinux.org/packages/misari-bin) | 26.4.0.v1.0-1 | 0 | Personal niri fork with a scrollable tiling Wayland desktop |
+| 2026-10-06 16:45:50 | [wallpaperd-git](https://aur.archlinux.org/packages/wallpaperd-git) | 0.1.0.r17.gb9c5c01-1 | 0 | Session wallpaper daemon with image, video, shader and Wallpaper Engine backends |
+| 2026-10-06 16:46:01 | [wallpaperd-bin](https://aur.archlinux.org/packages/wallpaperd-bin) | 0.1.0-1 | 0 | Session wallpaper daemon with image, video, shader and Wallpaper Engine backends |
 
 ## Data source
 
