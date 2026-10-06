@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 07:19 UTC
+## Latest list — 2026-10-06 08:20 UTC
 
-New packages created between 2026-10-06 06:20 UTC and 2026-10-06 07:19 UTC.
+New packages created between 2026-10-06 07:19 UTC and 2026-10-06 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T07-19-49-735546Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T08-20-36-763048Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 06:24:16 | [omp-ctl-bin](https://aur.archlinux.org/packages/omp-ctl-bin) | 0.6.0-1 | 0 | Desktop GUI for managing omp configuration in ~/.omp-ctl (prebuilt) |
-| 2026-10-06 06:26:07 | [python-envoy-server](https://aur.archlinux.org/packages/python-envoy-server) | 1.39.1-1 | 1 | A Python wheel distribution of the Envoy server. |
-| 2026-10-06 06:34:33 | [opentaikohub](https://aur.archlinux.org/packages/opentaikohub) | 0.2.9-1 | 0 | Launcher, updater and asset manager for OpenTaiko |
-| 2026-10-06 07:11:22 | [slate-editor](https://aur.archlinux.org/packages/slate-editor) | 0.7.0-1 | 0 | A fast, minimal text editor for Linux, built with GPUI Kit |
+| 2026-10-06 07:57:26 | [bitsrunlogin-go](https://aur.archlinux.org/packages/bitsrunlogin-go) | 1.6.8-1 | 0 | Headless login tool for Srun (深澜) campus networks, written in Go |
+| 2026-10-06 07:57:42 | [useful-autoclicker-git](https://aur.archlinux.org/packages/useful-autoclicker-git) | 2.2.r0.gb27f8e8-1 | 0 | A versatile autoclicker with hotkey toggle, randomized timings and click-on-hold |
+| 2026-10-06 08:01:14 | [towerofatum-bin](https://aur.archlinux.org/packages/towerofatum-bin) | 0.1.2-1 | 0 | Work-in-progress multiplayer spell-combat game, played offline against a local… |
+| 2026-10-06 08:17:17 | [openfootmanager-bin](https://aur.archlinux.org/packages/openfootmanager-bin) |  |  | Open-source football management simulation game |
 
 ## Data source
 
