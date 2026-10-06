@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-06T21:41:14Z,kubecom-bin,26.10.06-2,0,"A fast, keyboard-driven terminal UI for Kubernetes (a launcher plus a seed build: kubecom updates itself in ~/.local/kubecom with kubecom update)"
+2026-10-06T22:08:20Z,i3pystatus,3.35.r345.ge0234c1-1,0,i3status replacement written in python for the i3 window manager

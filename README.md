@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 21:21 UTC
+## Latest list — 2026-10-06 22:21 UTC
 
-New packages created between 2026-10-06 20:20 UTC and 2026-10-06 21:21 UTC.
+New packages created between 2026-10-06 21:21 UTC and 2026-10-06 22:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T21-21-48-578857Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T22-21-37-458071Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 20:50:19 | [markdown-tools-git](https://aur.archlinux.org/packages/markdown-tools-git) | 0.17.15.r1.g028b856… | 0 | Qt tools for work with Markdown (Editor/Viewer/Converter) with deep KDE integra… |
-| 2026-10-06 20:52:47 | [sinergia-appimage-manager](https://aur.archlinux.org/packages/sinergia-appimage-manager) | 1.0.0-1 | 0 | Un gestor moderno y oscuro de AppImages para Linux con integración en KDE/Wayla… |
-| 2026-10-06 21:16:22 | [vocalinux-bin](https://aur.archlinux.org/packages/vocalinux-bin) |  |  | Free, offline voice dictation for Linux (prebuilt AppImage) |
+| 2026-10-06 21:41:14 | [kubecom-bin](https://aur.archlinux.org/packages/kubecom-bin) | 26.10.06-2 | 0 | A fast, keyboard-driven terminal UI for Kubernetes (a launcher plus a seed buil… |
+| 2026-10-06 22:08:20 | [i3pystatus](https://aur.archlinux.org/packages/i3pystatus) | 3.35.r345.ge0234c1-1 | 0 | i3status replacement written in python for the i3 window manager |
 
 ## Data source
 
