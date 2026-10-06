@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 20:20 UTC
+## Latest list — 2026-10-06 21:21 UTC
 
-New packages created between 2026-10-06 19:20 UTC and 2026-10-06 20:20 UTC.
+New packages created between 2026-10-06 20:20 UTC and 2026-10-06 21:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T20-20-58-634757Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T21-21-48-578857Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 19:21:43 | [thyra-bin](https://aur.archlinux.org/packages/thyra-bin) | 0.10.1-1 | 0 | Browser and PWA door into your Herdr terminals and agents, with first-class mob… |
-| 2026-10-06 19:55:22 | [opencode-sandbox-bin](https://aur.archlinux.org/packages/opencode-sandbox-bin) | 1.7.0-1 | 0 | Run OpenCode inside an isolated container (prebuilt release) |
+| 2026-10-06 20:50:19 | [markdown-tools-git](https://aur.archlinux.org/packages/markdown-tools-git) | 0.17.15.r1.g028b856… | 0 | Qt tools for work with Markdown (Editor/Viewer/Converter) with deep KDE integra… |
+| 2026-10-06 20:52:47 | [sinergia-appimage-manager](https://aur.archlinux.org/packages/sinergia-appimage-manager) | 1.0.0-1 | 0 | Un gestor moderno y oscuro de AppImages para Linux con integración en KDE/Wayla… |
+| 2026-10-06 21:16:22 | [vocalinux-bin](https://aur.archlinux.org/packages/vocalinux-bin) |  |  | Free, offline voice dictation for Linux (prebuilt AppImage) |
 
 ## Data source
 
