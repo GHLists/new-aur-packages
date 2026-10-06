@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-05T23:48:26Z,footage-bin,1.4.0-1,0,"Trim, flip, rotate and crop videos using native Arch Linux libraries"
+2026-10-05T23:49:31Z,gnome-shell-extension-symmetric-resize,1.0.0-1,0,Resize GNOME windows from the center or with a fixed aspect ratio
+2026-10-05T23:52:17Z,msedit-mod-git,2.0.0.r505.gfd2e67a…,0,A simple editor for simple needs (Microsoft Edit) — maryasov modified build
+2026-10-05T23:52:28Z,msedit-mod-bin,2.0.0.r505.gfd2e67a…,0,A simple editor for simple needs (Microsoft Edit) — maryasov modified build (prebuilt)
