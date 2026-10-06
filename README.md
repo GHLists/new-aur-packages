@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 19:20 UTC
+## Latest list — 2026-10-06 20:20 UTC
 
-New packages created between 2026-10-06 18:20 UTC and 2026-10-06 19:20 UTC.
+New packages created between 2026-10-06 19:20 UTC and 2026-10-06 20:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T19-20-55-361359Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T20-20-58-634757Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 18:54:23 | [qwen-minimal-desktop](https://aur.archlinux.org/packages/qwen-minimal-desktop) | 0.1.0-1 | 0 | Single-file GTK4 chat client for Qwen and Kimi with local/cloud backends |
-| 2026-10-06 19:10:17 | [roamgate-bin](https://aur.archlinux.org/packages/roamgate-bin) | 0.7.15-1 | 0 | Web and PWA client for Herdr: control terminals, monitor coding agents, review… |
-| 2026-10-06 19:11:15 | [fgen](https://aur.archlinux.org/packages/fgen) | 0.1.0-1 | 0 | Generate images with your ChatGPT subscription from the terminal |
-| 2026-10-06 19:20:11 | [siegefx-bin](https://aur.archlinux.org/packages/siegefx-bin) |  |  | Open-source reimplementation of the Dungeon Siege engine, in alpha (needs the o… |
-| 2026-10-06 19:20:14 | [syrinc-git](https://aur.archlinux.org/packages/syrinc-git) |  |  | audio file handler which lets you embed, format and convert lyrics data to your… |
+| 2026-10-06 19:21:43 | [thyra-bin](https://aur.archlinux.org/packages/thyra-bin) | 0.10.1-1 | 0 | Browser and PWA door into your Herdr terminals and agents, with first-class mob… |
+| 2026-10-06 19:55:22 | [opencode-sandbox-bin](https://aur.archlinux.org/packages/opencode-sandbox-bin) | 1.7.0-1 | 0 | Run OpenCode inside an isolated container (prebuilt release) |
 
 ## Data source
 
