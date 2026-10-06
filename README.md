@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 10:22 UTC
+## Latest list — 2026-10-06 11:20 UTC
 
-New packages created between 2026-10-06 09:20 UTC and 2026-10-06 10:22 UTC.
+New packages created between 2026-10-06 10:22 UTC and 2026-10-06 11:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-06T10-22-43-72841Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-06T11-20-11-861155Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 09:55:10 | [linuxfiles-bin](https://aur.archlinux.org/packages/linuxfiles-bin) | 0.1.0alpha1-1 | 0 | LinuxFiles, Files for Linux: unofficial port of Files by the Files Community (U… |
+| 2026-10-06 10:26:32 | [env0-cli-bin](https://aur.archlinux.org/packages/env0-cli-bin) | 2.6.0-1 | 0 | The env0 command-line interface |
 
 ## Data source
 
