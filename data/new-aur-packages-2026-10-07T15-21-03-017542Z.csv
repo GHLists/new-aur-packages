@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-07T14:29:16Z,storytold-office,1-1,0,Metapackage with the 3 ArtCraft reimplementations of Microsoft Office apps
+2026-10-07T14:36:03Z,ugee-wayland-bridge,0.1.0-3,0,Process-local XTest to uinput keyboard bridge for the UGEE tablet driver
+2026-10-07T14:56:09Z,humanify,3.1.1-1,0,Deobfuscate Javascript code using ChatGPT
+2026-10-07T15:14:45Z,rune-ide,1.2.1-1,0,"Fast, GPU-rendered, keyboard-driven IDE for power users"

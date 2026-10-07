@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 14:19 UTC
+## Latest list — 2026-10-07 15:21 UTC
 
-New packages created between 2026-10-07 13:19 UTC and 2026-10-07 14:19 UTC.
+New packages created between 2026-10-07 14:19 UTC and 2026-10-07 15:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T14-19-51-622872Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-07T15-21-03-017542Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 13:51:22 | [rosu-patcher-bin](https://aur.archlinux.org/packages/rosu-patcher-bin) | 20261007.1-1 | 0 | Launcher for the RealistikOsu Patcher |
-| 2026-10-07 13:53:08 | [telegram-notifier-git](https://aur.archlinux.org/packages/telegram-notifier-git) | r3.683710a-1 | 0 | Notify a Telegram chat when a systemd unit fails |
-| 2026-10-07 14:10:52 | [hoard-bin](https://aur.archlinux.org/packages/hoard-bin) | 1.2.1-1 | 0 | Automatic, versioned game save sync across devices. |
+| 2026-10-07 14:29:16 | [storytold-office](https://aur.archlinux.org/packages/storytold-office) | 1-1 | 0 | Metapackage with the 3 ArtCraft reimplementations of Microsoft Office apps |
+| 2026-10-07 14:36:03 | [ugee-wayland-bridge](https://aur.archlinux.org/packages/ugee-wayland-bridge) | 0.1.0-3 | 0 | Process-local XTest to uinput keyboard bridge for the UGEE tablet driver |
+| 2026-10-07 14:56:09 | [humanify](https://aur.archlinux.org/packages/humanify) | 3.1.1-1 | 0 | Deobfuscate Javascript code using ChatGPT |
+| 2026-10-07 15:14:45 | [rune-ide](https://aur.archlinux.org/packages/rune-ide) | 1.2.1-1 | 0 | Fast, GPU-rendered, keyboard-driven IDE for power users |
 
 ## Data source
 
