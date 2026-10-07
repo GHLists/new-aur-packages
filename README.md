@@ -12,15 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 01:19 UTC
+## Latest list — 2026-10-07 02:22 UTC
 
-New packages created between 2026-10-07 00:19 UTC and 2026-10-07 01:19 UTC.
+New packages created between 2026-10-07 01:19 UTC and 2026-10-07 02:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T01-19-35-467895Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-07T02-22-31-591011Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 00:33:12 | [paintdotjs-bin](https://aur.archlinux.org/packages/paintdotjs-bin) | 2.1.1-3 | 0 | A desktop port of Paint.NET for Linux and macOS |
+| 2026-10-07 01:47:51 | [ou](https://aur.archlinux.org/packages/ou) | 0.1.5-1 | 0 | Open an interactive map in your terminal and display a location or geometry |
+| 2026-10-07 01:48:31 | [satsat](https://aur.archlinux.org/packages/satsat) | 0.5-1 | 0 | Satellite pass tracker for the desktop, a port of the SatSat iOS app |
+| 2026-10-07 01:49:01 | [vduck](https://aur.archlinux.org/packages/vduck) | 1.2.4-1 | 0 | Terminal UI to browse and query DuckDB databases and data files |
+| 2026-10-07 01:56:10 | [wpail](https://aur.archlinux.org/packages/wpail) | 0.1-1 | 0 | Show what port or application is listening, with developer build metadata |
+| 2026-10-07 02:07:39 | [xencelabs-quick-keys-go](https://aur.archlinux.org/packages/xencelabs-quick-keys-go) | 0.2-1 | 0 | Userland driver for the Xencelabs Quick Keys remote that simulates a virtual ke… |
+| 2026-10-07 02:10:08 | [sudoforge](https://aur.archlinux.org/packages/sudoforge) | 1.0.0-1 | 0 | One password box for every admin request on the Sway desktop: polkit's admin po… |
 
 ## Data source
 
