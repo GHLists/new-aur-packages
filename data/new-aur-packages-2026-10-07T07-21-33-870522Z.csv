@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-07T06:29:02Z,llama.cpp-openvino-bin,b11460-2,0,llama.cpp upstream prebuilt binaries with the OpenVINO backend
+2026-10-07T06:29:13Z,llama.cpp-sycl-bin,b10545-1,0,llama.cpp on Intel Arc GPU via SYCL — official precompiled binary (no compilation)
+2026-10-07T06:47:26Z,cpplayer-bin,1.4.8-1,0,Cross-platform music player (Material 3 Expressive) - prebuilt binaries
