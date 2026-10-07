@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 04:20 UTC
+## Latest list — 2026-10-07 05:19 UTC
 
-New packages created between 2026-10-07 03:21 UTC and 2026-10-07 04:20 UTC.
+New packages created between 2026-10-07 04:20 UTC and 2026-10-07 05:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T04-20-01-134156Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-07T05-19-05-393087Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 03:28:28 | [siltide-bin](https://aur.archlinux.org/packages/siltide-bin) | 0.1.4-1 | 1 | Terminal monitor for GPUs, NPUs and other AI accelerators |
-| 2026-10-07 04:02:10 | [strata-rocm](https://aur.archlinux.org/packages/strata-rocm) | 0.1.40.1-1 | 0 | Run server-grade frontier models on consumer GPUs powered by Niko1221's dynamic… |
-| 2026-10-07 04:10:58 | [lazymark-bin](https://aur.archlinux.org/packages/lazymark-bin) | 1.0.0-1 | 1 | Lazy markdown notes, tasks and a Kanban board in your terminal |
+| 2026-10-07 04:46:25 | [dogdns](https://aur.archlinux.org/packages/dogdns) | 0.7.12-1 | 0 | Command-line DNS client with colourful output, DoT, DoH and JSON |
 
 ## Data source
 
