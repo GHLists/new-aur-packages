@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 05:19 UTC
+## Latest list — 2026-10-07 06:20 UTC
 
-New packages created between 2026-10-07 04:20 UTC and 2026-10-07 05:19 UTC.
+New packages created between 2026-10-07 05:19 UTC and 2026-10-07 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T05-19-05-393087Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-07T06-20-38-353465Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 04:46:25 | [dogdns](https://aur.archlinux.org/packages/dogdns) | 0.7.12-1 | 0 | Command-line DNS client with colourful output, DoT, DoH and JSON |
+| 2026-10-07 05:59:43 | [coredeck-bin](https://aur.archlinux.org/packages/coredeck-bin) | 0.13.1-1 | 0 | Native desktop command center for the Android SDK (AVDs, system images, APK ins… |
+| 2026-10-07 06:00:32 | [rovyl-bin](https://aur.archlinux.org/packages/rovyl-bin) | 1.16.0-1 | 0 | Rovyl radial launcher (prebuilt AppImage) |
+| 2026-10-07 06:01:26 | [yesplaymusic-axuanran-git](https://aur.archlinux.org/packages/yesplaymusic-axuanran-git) | 0.1.1.alpha.14.r32.… | 0 | XuMP - a third-party Netease Cloud Music player (git version) |
 
 ## Data source
 
