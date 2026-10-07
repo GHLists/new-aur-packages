@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 21:19 UTC
+## Latest list — 2026-10-07 22:22 UTC
 
-New packages created between 2026-10-07 20:21 UTC and 2026-10-07 21:19 UTC.
+New packages created between 2026-10-07 21:19 UTC and 2026-10-07 22:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T21-19-25-929942Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-07T22-22-32-365785Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 21:01:17 | [vknemu](https://aur.archlinux.org/packages/vknemu) | 0.1.0-1 | 0 | input based idle frame limiter vulkan layer |
-| 2026-10-07 21:01:17 | [lib32-vknemu](https://aur.archlinux.org/packages/lib32-vknemu) | 0.1.0-1 | 0 | input based idle frame limiter vulkan layer (32-bit) |
-| 2026-10-07 21:06:04 | [pomogo](https://aur.archlinux.org/packages/pomogo) | 3.0.1-1 | 0 | Keyboard-driven Pomodoro and deep-focus timer for the Linux terminal, with an O… |
+| 2026-10-07 21:28:17 | [pdfcraft-git](https://aur.archlinux.org/packages/pdfcraft-git) | 0.2.1.r36.gd3db998-1 | 0 | vibe coded clean-room reimplementation of Adobe Acrobat (Git HEAD) |
+| 2026-10-07 21:38:58 | [rowel-bin](https://aur.archlinux.org/packages/rowel-bin) | 1.0.0-1 | 0 | Free Offline-first Password Manager. |
+| 2026-10-07 21:43:39 | [iamigrate-bin](https://aur.archlinux.org/packages/iamigrate-bin) | 0.1.0-1 | 0 | CIAM identity migration toolkit — export, map, validate, and import users into… |
+| 2026-10-07 22:11:55 | [quvyta-focus](https://aur.archlinux.org/packages/quvyta-focus) | 0.1.16-1 | 0 | Productivity counter |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-07T21:28:17Z,pdfcraft-git,0.2.1.r36.gd3db998-1,0,vibe coded clean-room reimplementation of Adobe Acrobat (Git HEAD)
+2026-10-07T21:38:58Z,rowel-bin,1.0.0-1,0,Free Offline-first Password Manager.
+2026-10-07T21:43:39Z,iamigrate-bin,0.1.0-1,0,"CIAM identity migration toolkit — export, map, validate, and import users into Auth0."
+2026-10-07T22:11:55Z,quvyta-focus,0.1.16-1,0,Productivity counter
