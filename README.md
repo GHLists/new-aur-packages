@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 00:19 UTC
+## Latest list — 2026-10-07 01:19 UTC
 
-New packages created between 2026-10-06 23:22 UTC and 2026-10-07 00:19 UTC.
+New packages created between 2026-10-07 00:19 UTC and 2026-10-07 01:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T00-19-58-037411Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-07T01-19-35-467895Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 23:33:06 | [sonic-silver-icons](https://aur.archlinux.org/packages/sonic-silver-icons) | 6.30.0.1-1 | 0 | Silver icon theme |
+| 2026-10-07 00:33:12 | [paintdotjs-bin](https://aur.archlinux.org/packages/paintdotjs-bin) | 2.1.1-3 | 0 | A desktop port of Paint.NET for Linux and macOS |
 
 ## Data source
 
