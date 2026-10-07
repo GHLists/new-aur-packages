@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 22:22 UTC
+## Latest list — 2026-10-07 23:20 UTC
 
-New packages created between 2026-10-07 21:19 UTC and 2026-10-07 22:22 UTC.
+New packages created between 2026-10-07 22:22 UTC and 2026-10-07 23:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T22-22-32-365785Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-07T23-20-55-10203Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 21:28:17 | [pdfcraft-git](https://aur.archlinux.org/packages/pdfcraft-git) | 0.2.1.r36.gd3db998-1 | 0 | vibe coded clean-room reimplementation of Adobe Acrobat (Git HEAD) |
-| 2026-10-07 21:38:58 | [rowel-bin](https://aur.archlinux.org/packages/rowel-bin) | 1.0.0-1 | 0 | Free Offline-first Password Manager. |
-| 2026-10-07 21:43:39 | [iamigrate-bin](https://aur.archlinux.org/packages/iamigrate-bin) | 0.1.0-1 | 0 | CIAM identity migration toolkit — export, map, validate, and import users into… |
-| 2026-10-07 22:11:55 | [quvyta-focus](https://aur.archlinux.org/packages/quvyta-focus) | 0.1.16-1 | 0 | Productivity counter |
+| 2026-10-07 22:36:29 | [sputnik-bin](https://aur.archlinux.org/packages/sputnik-bin) | 2.0.0-1 | 0 | A minimalist desktop music player. |
+| 2026-10-07 22:53:33 | [momentum-git](https://aur.archlinux.org/packages/momentum-git) | 0.1.0.r65.gc3bb71d-1 | 0 | CLI for Sennheiser Momentum 4 headphones (git version) |
+| 2026-10-07 23:17:10 | [mpf-cli](https://aur.archlinux.org/packages/mpf-cli) | 3.10.0-2 | 0 | Command-line frontend for Redumper, Aaru, and DiscImageCreator |
 
 ## Data source
 
