@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 17:22 UTC
+## Latest list — 2026-10-07 18:19 UTC
 
-New packages created between 2026-10-07 16:20 UTC and 2026-10-07 17:22 UTC.
+New packages created between 2026-10-07 17:22 UTC and 2026-10-07 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T17-22-25-836319Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-07T18-19-29-486921Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 17:11:31 | [fluffychat-color-emoji](https://aur.archlinux.org/packages/fluffychat-color-emoji) | 2.10.0-1 | 0 | The cutest instant messenger in the [matrix] (with color emoji fallback) |
+| 2026-10-07 17:50:28 | [opentunnel-bin](https://aur.archlinux.org/packages/opentunnel-bin) | 0.1.1-1 | 0 | Public URLs for local services, end-to-end encrypted |
+| 2026-10-07 18:03:38 | [internxt-cli](https://aur.archlinux.org/packages/internxt-cli) | 1.6.9-1 | 0 | CLI tool to interact with Internxt encrypted cloud storage and WebDAV |
 
 ## Data source
 
