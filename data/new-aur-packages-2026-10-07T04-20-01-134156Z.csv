@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-07T03:28:28Z,siltide-bin,0.1.4-1,1,"Terminal monitor for GPUs, NPUs and other AI accelerators"
+2026-10-07T04:02:10Z,strata-rocm,0.1.40.1-1,0,Run server-grade frontier models on consumer GPUs powered by Niko1221's dynamic sparse router offloading (AMD ROCm version)
+2026-10-07T04:10:58Z,lazymark-bin,1.0.0-1,1,"Lazy markdown notes, tasks and a Kanban board in your terminal"

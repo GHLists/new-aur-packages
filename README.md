@@ -12,22 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 03:21 UTC
+## Latest list — 2026-10-07 04:20 UTC
 
-New packages created between 2026-10-07 02:22 UTC and 2026-10-07 03:21 UTC.
+New packages created between 2026-10-07 03:21 UTC and 2026-10-07 04:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T03-21-00-464156Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-07T04-20-01-134156Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 02:39:17 | [netcatty](https://aur.archlinux.org/packages/netcatty) | 1.1.83-1 | 0 | AI-Powered SSH Client, SFTP Browser & Terminal Manager. |
-| 2026-10-07 02:43:17 | [wayland-scroll-forwarder-git](https://aur.archlinux.org/packages/wayland-scroll-forwarder-git) | r17.1f338f3-1 | 1 | Fix the mouse wheel in NVIDIA GeForce NOW (and other X11 apps) on Wayland |
-| 2026-10-07 03:06:06 | [sauva-bin](https://aur.archlinux.org/packages/sauva-bin) | 0.4.0-1 | 0 | Terminal Unicode Explorer |
-| 2026-10-07 03:06:06 | [deepseek-reasonix-studio](https://aur.archlinux.org/packages/deepseek-reasonix-studio) | 2.30.0-1 | 0 | Reasonix Studio - desktop window around the DeepSeek-native AI coding agent (2.… |
-| 2026-10-07 03:06:06 | [stu-bin](https://aur.archlinux.org/packages/stu-bin) | 0.7.6-1 | 0 | TUI explorer application for Amazon S3 (AWS S3) |
-| 2026-10-07 03:06:12 | [serie-bin](https://aur.archlinux.org/packages/serie-bin) | 0.9.3-1 | 0 | A rich git commit graph in your terminal, like magic |
-| 2026-10-07 03:06:12 | [ddv-bin](https://aur.archlinux.org/packages/ddv-bin) | 0.3.1-1 | 0 | Terminal DynamoDB Viewer |
-| 2026-10-07 03:06:12 | [puu-bin](https://aur.archlinux.org/packages/puu-bin) | 0.2.0-1 | 0 | Render JSON Schema for humans |
+| 2026-10-07 03:28:28 | [siltide-bin](https://aur.archlinux.org/packages/siltide-bin) | 0.1.4-1 | 1 | Terminal monitor for GPUs, NPUs and other AI accelerators |
+| 2026-10-07 04:02:10 | [strata-rocm](https://aur.archlinux.org/packages/strata-rocm) | 0.1.40.1-1 | 0 | Run server-grade frontier models on consumer GPUs powered by Niko1221's dynamic… |
+| 2026-10-07 04:10:58 | [lazymark-bin](https://aur.archlinux.org/packages/lazymark-bin) | 1.0.0-1 | 1 | Lazy markdown notes, tasks and a Kanban board in your terminal |
 
 ## Data source
 
