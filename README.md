@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 16:20 UTC
+## Latest list — 2026-10-07 17:22 UTC
 
-New packages created between 2026-10-07 15:21 UTC and 2026-10-07 16:20 UTC.
+New packages created between 2026-10-07 16:20 UTC and 2026-10-07 17:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T16-20-12-879612Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-07T17-22-25-836319Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 15:47:02 | [cowsync](https://aur.archlinux.org/packages/cowsync) | 0.1.0-1 | 0 | Local filesystem sync tool with copy-on-write cloning |
-| 2026-10-07 16:00:17 | [qqm](https://aur.archlinux.org/packages/qqm) | 0.0.1-1 | 0 | go-musicfox style QQ Music terminal player with background daemon and MPRIS sup… |
-| 2026-10-07 16:00:26 | [qqm-bin](https://aur.archlinux.org/packages/qqm-bin) | 0.0.1-1 | 0 | go-musicfox style QQ Music terminal player with background daemon and MPRIS sup… |
+| 2026-10-07 17:11:31 | [fluffychat-color-emoji](https://aur.archlinux.org/packages/fluffychat-color-emoji) | 2.10.0-1 | 0 | The cutest instant messenger in the [matrix] (with color emoji fallback) |
 
 ## Data source
 
