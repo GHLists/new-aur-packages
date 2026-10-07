@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-07T19:34:58Z,hylki,1.42.0-1,0,"A clean, fast GNOME-native email client"
+2026-10-07T19:35:26Z,nirilayout-bin,0.4.0-1,0,"Quickly switch niri output configuration between different layouts (GTK switcher, prebuilt binary)"
+2026-10-07T19:48:54Z,zap,0.1.0.r9.g2a72f84c6…,0,Native Zig AUR helper with libalpm transactions and systemd run0
