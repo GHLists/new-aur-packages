@@ -1,0 +1,14 @@
+created_at,package,version,votes,description
+2026-10-07T11:20:58Z,grok-bot-desktop,0.68.1-1,0,"Desktop agent app from xAI (official .deb, app files unmodified)"
+2026-10-07T11:28:27Z,omniphony-studio-bin,0.6.0-1,0,Omniphony Studio (Tauri) control and 3D visualization UI for the orender spatial audio engine (binary release)
+2026-10-07T11:34:08Z,alpm-dbus-git,0.4.0.r48.g086356a-1,0,D-Bus service for system package management on top of ALPM
+2026-10-07T11:34:08Z,alpm-dbus-client-git,0.4.0.r48.g086356a-1,0,Command line client of the alpm-dbus service
+2026-10-07T11:34:08Z,alpm-packagekit-git,0.4.0.r48.g086356a-1,0,PackageKit backend for the alpm-dbus service
+2026-10-07T11:38:40Z,gsp-alpm-git,0.2.0.r17.g424bd72-1,0,"GNOME Software plugin for the packages of Arch Linux, through alpm-dbus"
+2026-10-07T11:46:40Z,cadcraft,0.0.0-1,0,vibe coded clean-room reimplementation of Autodesk AutoCAD
+2026-10-07T11:51:44Z,deckcraft,0.0.0-1,0,vibe coded clean-room reimplementation of Microsoft PowerPoint
+2026-10-07T11:51:50Z,wordcraft,0.0.0-1,0,vibe coded clean-room reimplementation of Microsoft Word
+2026-10-07T11:53:50Z,gridcraft,0.0.0-1,0,vibe coded clean-room reimplementation of Microsoft Excel
+2026-10-07T11:55:16Z,soundcraft,0.0.0-1,0,vibe coded clean-room reimplementation of Avid Pro Tools
+2026-10-07T11:56:39Z,drakontech-bin,2026.06.19-1,0,"A flowchart editor that generates source code in Clojure, JavaScript, Lua, Perfolenta, and OneScript.(Prebuilt version.Use system-wide electron)"
+2026-10-07T12:16:40Z,dbwiz-bin,1.1.0-1,0,"Find, browse, administer, and query your local SQL databases (Docker, SQLite) from a friendly TUI"
