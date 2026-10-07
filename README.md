@@ -12,29 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 13:19 UTC
+## Latest list — 2026-10-07 14:19 UTC
 
-New packages created between 2026-10-07 12:19 UTC and 2026-10-07 13:19 UTC.
+New packages created between 2026-10-07 13:19 UTC and 2026-10-07 14:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T13-19-08-382271Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-07T14-19-51-622872Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 12:22:15 | [hottyterm-bin](https://aur.archlinux.org/packages/hottyterm-bin) | 26.10.07.r43.c466c7… | 0 | A fork of Ghostty with native HOTTY (HTML over the TTY) |
-| 2026-10-07 12:38:25 | [designcraft-git](https://aur.archlinux.org/packages/designcraft-git) | 0.2.1.r39.gd582277-1 | 0 | vibe coded clean-room reimplementation of Adobe InDesign |
-| 2026-10-07 12:44:15 | [effectcraft-git](https://aur.archlinux.org/packages/effectcraft-git) | 0.4.0.r0.gf5ebe5f-1 | 0 | vibe coded clean-room reimplementation of Adobe After Effects |
-| 2026-10-07 12:47:31 | [filmcraft-git](https://aur.archlinux.org/packages/filmcraft-git) | 0.2.1.r148.g94a22d7… | 0 | vibe coded clean-room reimplementation of Adobe Premiere Pro |
-| 2026-10-07 12:49:11 | [lightcraft-git](https://aur.archlinux.org/packages/lightcraft-git) | 0.2.1.r70.gfb9fb77-1 | 0 | vibe coded clean-room reimplementation of Adobe InDesign |
-| 2026-10-07 12:50:36 | [photocraft-git](https://aur.archlinux.org/packages/photocraft-git) | 0.3.0.r36.gfa0defc-1 | 0 | vibe coded clean-room reimplementation of Adobe Photoshop |
-| 2026-10-07 12:53:47 | [wordcraft-git](https://aur.archlinux.org/packages/wordcraft-git) | 0.0.0-1 | 0 | vibe coded clean-room reimplementation of Microsoft Word |
-| 2026-10-07 12:54:16 | [soundcraft-git](https://aur.archlinux.org/packages/soundcraft-git) | 0.0.0-1 | 0 | vibe coded clean-room reimplementation of Avid Pro Tools |
-| 2026-10-07 12:57:22 | [vv](https://aur.archlinux.org/packages/vv) | 3.2-1 | 0 | Terminal image viewer |
-| 2026-10-07 13:00:30 | [gridcraft-git](https://aur.archlinux.org/packages/gridcraft-git) | 0.0.0-1 | 0 | vibe coded clean-room reimplementation of Microsoft Excel |
-| 2026-10-07 13:01:28 | [deckcraft-git](https://aur.archlinux.org/packages/deckcraft-git) | 0.0.0-1 | 0 | vibe coded clean-room reimplementation of Microsoft PowerPoint |
-| 2026-10-07 13:02:43 | [cadcraft-git](https://aur.archlinux.org/packages/cadcraft-git) | 0.0.0-1 | 0 | vibe coded clean-room reimplementation of Autodesk AutoCAD |
-| 2026-10-07 13:08:04 | [vectorcraft-git](https://aur.archlinux.org/packages/vectorcraft-git) | 0.4.0.r0.ga26aa5b-1 | 0 | vibe coded clean-room reimplementation of Adobe Illustrator |
-| 2026-10-07 13:11:41 | [artcraft-git](https://aur.archlinux.org/packages/artcraft-git) | 0.0.0-1 | 0 | IDE for interactive AI image and video creation |
-| 2026-10-07 13:13:52 | [printcraft-git](https://aur.archlinux.org/packages/printcraft-git) | 0.2.1.r35.g1c78ff4-1 | 0 | vibe coded clean-room reimplementation of Adobe Acrobat |
+| 2026-10-07 13:51:22 | [rosu-patcher-bin](https://aur.archlinux.org/packages/rosu-patcher-bin) | 20261007.1-1 | 0 | Launcher for the RealistikOsu Patcher |
+| 2026-10-07 13:53:08 | [telegram-notifier-git](https://aur.archlinux.org/packages/telegram-notifier-git) | r3.683710a-1 | 0 | Notify a Telegram chat when a systemd unit fails |
+| 2026-10-07 14:10:52 | [hoard-bin](https://aur.archlinux.org/packages/hoard-bin) | 1.2.1-1 | 0 | Automatic, versioned game save sync across devices. |
 
 ## Data source
 

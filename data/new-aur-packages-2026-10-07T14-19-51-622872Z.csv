@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-07T13:51:22Z,rosu-patcher-bin,20261007.1-1,0,Launcher for the RealistikOsu Patcher
+2026-10-07T13:53:08Z,telegram-notifier-git,r3.683710a-1,0,Notify a Telegram chat when a systemd unit fails
+2026-10-07T14:10:52Z,hoard-bin,1.2.1-1,0,"Automatic, versioned game save sync across devices."
