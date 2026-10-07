@@ -1,0 +1,16 @@
+created_at,package,version,votes,description
+2026-10-07T12:22:15Z,hottyterm-bin,26.10.07.r43.c466c7…,0,A fork of Ghostty with native HOTTY (HTML over the TTY)
+2026-10-07T12:38:25Z,designcraft-git,0.2.1.r39.gd582277-1,0,vibe coded clean-room reimplementation of Adobe InDesign
+2026-10-07T12:44:15Z,effectcraft-git,0.4.0.r0.gf5ebe5f-1,0,vibe coded clean-room reimplementation of Adobe After Effects
+2026-10-07T12:47:31Z,filmcraft-git,0.2.1.r148.g94a22d7…,0,vibe coded clean-room reimplementation of Adobe Premiere Pro
+2026-10-07T12:49:11Z,lightcraft-git,0.2.1.r70.gfb9fb77-1,0,vibe coded clean-room reimplementation of Adobe InDesign
+2026-10-07T12:50:36Z,photocraft-git,0.3.0.r36.gfa0defc-1,0,vibe coded clean-room reimplementation of Adobe Photoshop
+2026-10-07T12:53:47Z,wordcraft-git,0.0.0-1,0,vibe coded clean-room reimplementation of Microsoft Word
+2026-10-07T12:54:16Z,soundcraft-git,0.0.0-1,0,vibe coded clean-room reimplementation of Avid Pro Tools
+2026-10-07T12:57:22Z,vv,3.2-1,0,Terminal image viewer
+2026-10-07T13:00:30Z,gridcraft-git,0.0.0-1,0,vibe coded clean-room reimplementation of Microsoft Excel
+2026-10-07T13:01:28Z,deckcraft-git,0.0.0-1,0,vibe coded clean-room reimplementation of Microsoft PowerPoint
+2026-10-07T13:02:43Z,cadcraft-git,0.0.0-1,0,vibe coded clean-room reimplementation of Autodesk AutoCAD
+2026-10-07T13:08:04Z,vectorcraft-git,0.4.0.r0.ga26aa5b-1,0,vibe coded clean-room reimplementation of Adobe Illustrator
+2026-10-07T13:11:41Z,artcraft-git,0.0.0-1,0,IDE for interactive AI image and video creation
+2026-10-07T13:13:52Z,printcraft-git,0.2.1.r35.g1c78ff4-1,0,vibe coded clean-room reimplementation of Adobe Acrobat
