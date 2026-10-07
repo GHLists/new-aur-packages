@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-07T18:30:07Z,efr-code,0.0.1-1,0,"Terminal-first AI agent harness that lives in zsh, with a daemon that owns the state"
+2026-10-07T18:30:16Z,efr-code-bin,0.0.1-1,0,"Terminal-first AI agent harness that lives in zsh, with a daemon that owns the state"
+2026-10-07T18:34:33Z,panda-iptv-bin,0.0.8-1,0,Oriental Brutalist IPTV Player for Linux Desktop (MPV Accelerated)
+2026-10-07T18:47:41Z,fcitx5-taigikeyboard-git,3.6.10.r918.0b2c45c…,0,Taigi input method for Fcitx5
+2026-10-07T18:47:41Z,ibus-taigikeyboard-git,3.6.10.r918.0b2c45c…,0,Taigi input method for IBus
+2026-10-07T18:47:41Z,taigikeyboard-common-git,3.6.10.r918.0b2c45c…,0,Common files for Taigi Keyboard
+2026-10-07T19:00:45Z,akagi-bin,3.7.1-1,0,"Mahjong AI assistant for Majsoul, Tenhou, Riichi City, and Amatsuki (binary release)"
+2026-10-07T19:03:12Z,f45-backgrounds,45.0.3-1,0,"Desktop backgrounds of the Fedora 45 default theme for GNOME, KDE, Mate and Xfce desktops"
+2026-10-07T19:13:19Z,arithmetic-arena-bin,1.0.0-1,0,"Mental arithmetic chains without the countdown: follow the steps, type the result, see how long it took afterwards"
