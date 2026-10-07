@@ -12,20 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 02:22 UTC
+## Latest list — 2026-10-07 03:21 UTC
 
-New packages created between 2026-10-07 01:19 UTC and 2026-10-07 02:22 UTC.
+New packages created between 2026-10-07 02:22 UTC and 2026-10-07 03:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T02-22-31-591011Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-07T03-21-00-464156Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 01:47:51 | [ou](https://aur.archlinux.org/packages/ou) | 0.1.5-1 | 0 | Open an interactive map in your terminal and display a location or geometry |
-| 2026-10-07 01:48:31 | [satsat](https://aur.archlinux.org/packages/satsat) | 0.5-1 | 0 | Satellite pass tracker for the desktop, a port of the SatSat iOS app |
-| 2026-10-07 01:49:01 | [vduck](https://aur.archlinux.org/packages/vduck) | 1.2.4-1 | 0 | Terminal UI to browse and query DuckDB databases and data files |
-| 2026-10-07 01:56:10 | [wpail](https://aur.archlinux.org/packages/wpail) | 0.1-1 | 0 | Show what port or application is listening, with developer build metadata |
-| 2026-10-07 02:07:39 | [xencelabs-quick-keys-go](https://aur.archlinux.org/packages/xencelabs-quick-keys-go) | 0.2-1 | 0 | Userland driver for the Xencelabs Quick Keys remote that simulates a virtual ke… |
-| 2026-10-07 02:10:08 | [sudoforge](https://aur.archlinux.org/packages/sudoforge) | 1.0.0-1 | 0 | One password box for every admin request on the Sway desktop: polkit's admin po… |
+| 2026-10-07 02:39:17 | [netcatty](https://aur.archlinux.org/packages/netcatty) | 1.1.83-1 | 0 | AI-Powered SSH Client, SFTP Browser & Terminal Manager. |
+| 2026-10-07 02:43:17 | [wayland-scroll-forwarder-git](https://aur.archlinux.org/packages/wayland-scroll-forwarder-git) | r17.1f338f3-1 | 1 | Fix the mouse wheel in NVIDIA GeForce NOW (and other X11 apps) on Wayland |
+| 2026-10-07 03:06:06 | [sauva-bin](https://aur.archlinux.org/packages/sauva-bin) | 0.4.0-1 | 0 | Terminal Unicode Explorer |
+| 2026-10-07 03:06:06 | [deepseek-reasonix-studio](https://aur.archlinux.org/packages/deepseek-reasonix-studio) | 2.30.0-1 | 0 | Reasonix Studio - desktop window around the DeepSeek-native AI coding agent (2.… |
+| 2026-10-07 03:06:06 | [stu-bin](https://aur.archlinux.org/packages/stu-bin) | 0.7.6-1 | 0 | TUI explorer application for Amazon S3 (AWS S3) |
+| 2026-10-07 03:06:12 | [serie-bin](https://aur.archlinux.org/packages/serie-bin) | 0.9.3-1 | 0 | A rich git commit graph in your terminal, like magic |
+| 2026-10-07 03:06:12 | [ddv-bin](https://aur.archlinux.org/packages/ddv-bin) | 0.3.1-1 | 0 | Terminal DynamoDB Viewer |
+| 2026-10-07 03:06:12 | [puu-bin](https://aur.archlinux.org/packages/puu-bin) | 0.2.0-1 | 0 | Render JSON Schema for humans |
 
 ## Data source
 
