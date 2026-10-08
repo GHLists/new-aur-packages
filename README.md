@@ -12,20 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 09:20 UTC
+## Latest list — 2026-10-08 10:19 UTC
 
-New packages created between 2026-10-08 08:20 UTC and 2026-10-08 09:20 UTC.
+New packages created between 2026-10-08 09:20 UTC and 2026-10-08 10:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-08T09-20-37-774076Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-08T10-19-50-604246Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 08:55:20 | [playy](https://aur.archlinux.org/packages/playy) | 0.1.0-1 | 0 | Music player for the terminal: your music folder and YouTube Music in one libra… |
-| 2026-10-08 08:55:41 | [playy-bin](https://aur.archlinux.org/packages/playy-bin) | 0.1.0-1 | 0 | Music player for the terminal: your music folder and YouTube Music in one libra… |
-| 2026-10-08 09:01:41 | [ctranslate2-cuda](https://aur.archlinux.org/packages/ctranslate2-cuda) | 4.8.2-1 | 0 | A C++ library for efficient inference with Transformer models (with CUDA). |
-| 2026-10-08 09:01:41 | [python-ctranslate2-cuda](https://aur.archlinux.org/packages/python-ctranslate2-cuda) | 4.8.2-1 | 0 | A Python library for efficient inference with Transformer models (with CUDA). |
-| 2026-10-08 09:07:56 | [python-json-logic-git](https://aur.archlinux.org/packages/python-json-logic-git) | 0.7.0.alpha.r22.5fd… | 0 | Build complex rules, serialize them as JSON, and execute them in Python |
-| 2026-10-08 09:16:30 | [qualcomm-splash-tools](https://aur.archlinux.org/packages/qualcomm-splash-tools) | 0.2.0-1 | 1 | Extract and repack Qualcomm SPLASH!! boot splash images |
+| 2026-10-08 09:37:38 | [crateyard-bin](https://aur.archlinux.org/packages/crateyard-bin) | 0.1.0-1 | 0 | Crateyard: self-hosted Rust crate and npm package registry with an embedded web… |
 
 ## Data source
 
