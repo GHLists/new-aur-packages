@@ -1,0 +1,39 @@
+created_at,package,version,votes,description
+2026-10-08T15:30:04Z,lua-uuid,1.0.0-1,0,A pure Lua uuid generator
+2026-10-08T15:30:04Z,lua51-uuid,1.0.0-1,0,A pure Lua uuid generator
+2026-10-08T15:30:04Z,lua52-uuid,1.0.0-1,0,A pure Lua uuid generator
+2026-10-08T15:30:04Z,lua53-uuid,1.0.0-1,0,A pure Lua uuid generator
+2026-10-08T15:30:04Z,lua54-uuid,1.0.0-1,0,A pure Lua uuid generator
+2026-10-08T15:56:21Z,wgsim,20111017-1,0,Small tool for simulating sequence reads from a reference genome
+2026-10-08T15:56:29Z,gfatools,0.5-1,0,Tools for manipulating sequence graphs in the GFA and rGFA formats
+2026-10-08T15:56:37Z,psmc,0.6.5-1,0,Implementation of the Pairwise Sequentially Markovian Coalescent model
+2026-10-08T15:56:44Z,bedtk,20250824-1,0,Simple toolkit for processing BED files
+2026-10-08T15:56:56Z,tabtk,0.1-1,0,Toolkit for processing tab-delimited files
+2026-10-08T15:57:03Z,sdust,0.1-1,0,Symmetric DUST for finding low-complexity regions in DNA sequences
+2026-10-08T15:57:24Z,etrf,20191022-1,0,Exact tandem repeat finder
+2026-10-08T15:57:34Z,srf,20240108-1,0,Satellite repeat finder for long DNA sequences
+2026-10-08T15:57:41Z,dna-nn,0.1-1,0,Deep-learning models for annotating satellite DNA in long assemblies
+2026-10-08T15:57:49Z,longdust,1.4-1,0,Finder of long tandem repeats and low-complexity regions in DNA
+2026-10-08T15:57:57Z,minipileup,1.4b-1,0,Simple pileup-based variant caller
+2026-10-08T15:58:04Z,minisplice,0.4-1,0,Splice site scoring with a deep-learning model
+2026-10-08T15:58:13Z,ropebwt3,3.10-1,0,BWT construction and search for highly repetitive genomes
+2026-10-08T15:58:20Z,hickit,0.1.1-1,0,"TAD calling, phase imputation and 3D modelling for diploid single-cell Hi-C"
+2026-10-08T15:58:27Z,bgt,1.0-1,0,"Flexible genotype query among 30,000+ whole-genome samples"
+2026-10-08T15:58:34Z,partig,20210412-1,0,Experimental tool to estimate the similarity between all pairs of contigs
+2026-10-08T15:58:42Z,pre-pe,20180628-1,0,Preprocessing of paired-end reads from experiment-specific protocols
+2026-10-08T15:58:50Z,gffio,20221216-1,0,GFF/GTF reader and writer
+2026-10-08T15:58:57Z,cgranges,0.1.1-1,0,Fast interval overlap queries on genomic intervals
+2026-10-08T15:59:04Z,ksw2,20230627-1,0,Alignment library for DNA/RNA sequences under affine gap cost
+2026-10-08T15:59:22Z,miniwfa,20240522-1,0,WaveFront Alignment algorithm with dual gap penalty for long diverged sequences
+2026-10-08T15:59:30Z,kmer-map,20251204-1,0,Find locations of k-mers in a genome for k<32
+2026-10-08T15:59:37Z,mdust,20150102-1,0,Masks low-complexity regions and finds duplicated segments in FASTA sequences
+2026-10-08T15:59:45Z,naivepca,20160727-1,0,Naive PCA for genotype data
+2026-10-08T15:59:52Z,phycfg,20260410-1,0,Model rooted phylogenetic trees with stochastic context-free grammar
+2026-10-08T16:00:00Z,rmaxcut,20210428-1,0,Find approximate max-cuts in a large graph
+2026-10-08T16:00:08Z,fastarg,20161116-1,0,Fast heuristic construction of ancestral recombination graphs
+2026-10-08T16:00:15Z,editdist-u85,20220421-1,0,Fast implementation of Ukkonen's O(ND) algorithm for computing edit distance
+2026-10-08T16:00:24Z,badclip,20261003-1,0,Extract breakends and structural-variant signals from long-read alignments
+2026-10-08T16:01:47Z,htsbox,20250911-1,0,Powerful toolset for processing BAM files and a test bed for htslib
+2026-10-08T16:01:55Z,k8-bin,1.2-1,0,Javascript shell based on V8
+2026-10-08T16:02:16Z,dipcall,0.3-1,0,Reference-based variant calling pipeline for diploid assemblies
+2026-10-08T16:10:33Z,fermikit,0.13-1,0,De novo assembly based variant calling pipeline for Illumina short reads
