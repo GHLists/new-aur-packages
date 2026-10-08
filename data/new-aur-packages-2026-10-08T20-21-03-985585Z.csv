@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-08T19:29:47Z,gxde-infra-git,2026.10.04.r0.g0000…,0,GXDE OS infrastructure components
+2026-10-08T19:30:38Z,python-hatch-rs,0.4.2-2,0,Hatch plugin for Rust builds
+2026-10-08T19:31:17Z,tower-bin,0.1.0-1,0,Control and visibility for herds of coding agents
+2026-10-08T19:31:52Z,rozelynx-git,156.0.1.r6.ge28dc3a…,0,RozeLynx Web Browser: Firefox fork with LibreWolf privacy patches and per-tab network interface binding
+2026-10-08T19:38:49Z,pocketlink-git,0.2.0.r0.g8e31f9c-1,0,"Lightweight phone companion for sway, niri & co: notifications, clipboard, files, media remote and calls"
+2026-10-08T19:41:58Z,zerus,0.37.0-1,0,An agent development environment for persistent local and remote tmux sessions
+2026-10-08T19:42:07Z,zerus-ade-bin,0.37.0-1,0,An agent development environment for persistent local and remote tmux sessions
+2026-10-08T19:42:16Z,zerus-git,0.37.0.r58.g998bc4e…,0,An agent development environment for persistent local and remote tmux sessions
+2026-10-08T20:02:09Z,stalker-gamma-server-bin,1.37.0-1,0,companion server for stalker-gamma-cli (appimage)
