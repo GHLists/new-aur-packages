@@ -1,0 +1,11 @@
+created_at,package,version,votes,description
+2026-10-08T21:28:21Z,onair-bin,0.2.0-1,0,"SDR receiver for digital TV (DVB-T/T2, DVB-S/S2, ATSC), DAB+, FM, DRM, ADS-B, GNSS and DMR"
+2026-10-08T21:36:56Z,repos-manager,1.0.0-1,0,"Clone and update every Git repo you can access on GitHub, GitLab, Forgejo, Bitbucket and Radicle"
+2026-10-08T21:37:03Z,repos-manager-bin,1.0.0-1,0,"Clone and update every Git repo you can access on GitHub, GitLab, Forgejo, Bitbucket and Radicle (prebuilt static binary)"
+2026-10-08T21:49:22Z,kosmonaut-git,0.0.1.r96.g85522ef-1,1,A modern NetworkManager TUI written in Rust
+2026-10-08T21:53:10Z,lurviko,1.0.0-1,0,"Qt Quick file manager with media libraries, cloud storage and an encrypted vault"
+2026-10-08T21:54:27Z,ember-p2p-bin,1.7.2-1,0,Modern eMule KAD client built with Rust and Tauri
+2026-10-08T21:57:00Z,omniversify-usb-wireless-drivers-lv-uw03,1.2.1800.20241115-2,0,"DKMS driver for the PIX-LINK LV-UW03 USB WiFi adapter (ZTOP ZT9101, 350b:9101)"
+2026-10-08T22:00:42Z,zerus-ade-nightly-bin,0.37.0.r77.g9eb3a0e…,0,Nightly agent development environment for persistent local and remote tmux sessions
+2026-10-08T22:17:58Z,parse,1.0.0-1,0,Parse linux sdk
+2026-10-08T22:18:11Z,amber-git,1.7.10.r11.g2f8329f…,0,"Amber Video Editor — free open-source non-linear video editor (Qt 6, FFmpeg, Qt RHI: Vulkan/Metal/D3D/OpenGL)"
