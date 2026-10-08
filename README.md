@@ -12,18 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 14:24 UTC
+## Latest list — 2026-10-08 15:19 UTC
 
-New packages created between 2026-10-08 13:21 UTC and 2026-10-08 14:24 UTC.
+New packages created between 2026-10-08 14:24 UTC and 2026-10-08 15:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-08T14-24-30-480978Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-08T15-19-18-439888Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 13:29:13 | [strength-tracker-rs](https://aur.archlinux.org/packages/strength-tracker-rs) | 3.0.0-1 | 1 | Sync your devices and track your strength training |
-| 2026-10-08 13:45:24 | [vivaldi-theme-sync-patch](https://aur.archlinux.org/packages/vivaldi-theme-sync-patch) | 1.0.0-1 | 1 | Patch for Vivaldi that fixes dark/light theme switch mode "Operating system" |
-| 2026-10-08 13:54:53 | [aegis-tools-git](https://aur.archlinux.org/packages/aegis-tools-git) | 0.3.5.r49.gf670b2e-1 | 0 | Developer tools for Aegis Authenticator (decrypt-vault, gen-vault, gen-icons, g… |
-| 2026-10-08 13:58:30 | [quotabox-bin](https://aur.archlinux.org/packages/quotabox-bin) | 0.1.0-1 | 0 | Claude Code, ChatGPT / Codex and GitHub Copilot usage limits in your tray |
+| 2026-10-08 14:25:48 | [flavor](https://aur.archlinux.org/packages/flavor) | 0.1.0beta2-1 | 0 | Several Tailscale and Headscale networks side by side, in one desktop app and d… |
+| 2026-10-08 14:26:03 | [flavor-bin](https://aur.archlinux.org/packages/flavor-bin) | 0.1.0beta2-1 | 0 | Several Tailscale and Headscale networks side by side, in one desktop app and d… |
+| 2026-10-08 14:43:28 | [nak-nodb-bin](https://aur.archlinux.org/packages/nak-nodb-bin) | 0.21.2-1 | 0 | a command line tool for doing all things Nostr (version without a persistent da… |
+| 2026-10-08 14:53:40 | [booruflow-bin](https://aur.archlinux.org/packages/booruflow-bin) | 0.11.0-1 | 0 | An open-source, cross-platform booru browser and image downloader. |
+| 2026-10-08 15:02:49 | [plasma6-applets-application-title-bar-appmenu](https://aur.archlinux.org/packages/plasma6-applets-application-title-bar-appmenu) | 0.10.0.3-1 | 0 | Plasma 6 widget with the title, the buttons and the application menu of the act… |
 
 ## Data source
 

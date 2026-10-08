@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-08T14:25:48Z,flavor,0.1.0beta2-1,0,"Several Tailscale and Headscale networks side by side, in one desktop app and daemon"
+2026-10-08T14:26:03Z,flavor-bin,0.1.0beta2-1,0,"Several Tailscale and Headscale networks side by side, in one desktop app and daemon"
+2026-10-08T14:43:28Z,nak-nodb-bin,0.21.2-1,0,a command line tool for doing all things Nostr (version without a persistent database on disk)
+2026-10-08T14:53:40Z,booruflow-bin,0.11.0-1,0,"An open-source, cross-platform booru browser and image downloader."
+2026-10-08T15:02:49Z,plasma6-applets-application-title-bar-appmenu,0.10.0.3-1,0,"Plasma 6 widget with the title, the buttons and the application menu of the active window"
