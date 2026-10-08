@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 12:20 UTC
+## Latest list — 2026-10-08 13:21 UTC
 
-New packages created between 2026-10-08 11:22 UTC and 2026-10-08 12:20 UTC.
+New packages created between 2026-10-08 12:20 UTC and 2026-10-08 13:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-08T12-20-07-726783Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-08T13-21-52-284478Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 11:42:08 | [whatsapp-tui-git](https://aur.archlinux.org/packages/whatsapp-tui-git) | r57.dbcf006-1 | 0 | WhatsApp in the terminal, vim-style: fast, runs in the background, with a VS Co… |
+| 2026-10-08 12:50:57 | [dxlaprs-lora-git](https://aur.archlinux.org/packages/dxlaprs-lora-git) | 1.0.20260906-2 | 0 | LoRa receiver (lorarx) from the dxlAPRS toolchain, used by OpenWebRX for LoRa d… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-10-08T12:50:57Z,dxlaprs-lora-git,1.0.20260906-2,0,"LoRa receiver (lorarx) from the dxlAPRS toolchain, used by OpenWebRX for LoRa decoding"
