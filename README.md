@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 23:20 UTC
+## Latest list — 2026-10-08 00:22 UTC
 
-New packages created between 2026-10-07 22:22 UTC and 2026-10-07 23:20 UTC.
+New packages created between 2026-10-07 23:20 UTC and 2026-10-08 00:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-07T23-20-55-10203Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-08T00-22-00-841327Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 22:36:29 | [sputnik-bin](https://aur.archlinux.org/packages/sputnik-bin) | 2.0.0-1 | 0 | A minimalist desktop music player. |
-| 2026-10-07 22:53:33 | [momentum-git](https://aur.archlinux.org/packages/momentum-git) | 0.1.0.r65.gc3bb71d-1 | 0 | CLI for Sennheiser Momentum 4 headphones (git version) |
-| 2026-10-07 23:17:10 | [mpf-cli](https://aur.archlinux.org/packages/mpf-cli) | 3.10.0-2 | 0 | Command-line frontend for Redumper, Aaru, and DiscImageCreator |
+| 2026-10-07 23:40:26 | [baidu-translate-company-bin](https://aur.archlinux.org/packages/baidu-translate-company-bin) | 1.2.1-1 | 0 | Unoffical Baidu translate Company Client.百度翻译企业版 |
+| 2026-10-07 23:58:02 | [haimacloud-bin](https://aur.archlinux.org/packages/haimacloud-bin) | 2.7.3-1 | 0 | Play 3A with all the special effects, just use the hippocampus cloud computer.特… |
 
 ## Data source
 
