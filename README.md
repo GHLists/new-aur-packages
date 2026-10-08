@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 04:20 UTC
+## Latest list — 2026-10-08 05:19 UTC
 
-New packages created between 2026-10-08 03:19 UTC and 2026-10-08 04:20 UTC.
+New packages created between 2026-10-08 04:20 UTC and 2026-10-08 05:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-08T04-20-44-566747Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-08T05-19-36-554144Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 03:23:16 | [rtop-bin](https://aur.archlinux.org/packages/rtop-bin) | 0.1.0-1 | 1 | Rust Based Linux System Monitor |
-| 2026-10-08 04:10:38 | [sift-context-bin](https://aur.archlinux.org/packages/sift-context-bin) | 1.3.0-1 | 0 | Sift a codebase into an LLM-friendly context document |
+| 2026-10-08 04:50:39 | [touchfish-client](https://aur.archlinux.org/packages/touchfish-client) | 0.0.3-1 | 1 | TouchFish V5 官方支持的现代化客户端，基于 Flutter 构建 |
 
 ## Data source
 
