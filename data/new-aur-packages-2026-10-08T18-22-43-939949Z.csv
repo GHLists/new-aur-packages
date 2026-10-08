@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-08T17:43:54Z,eusoft-eudic,26.9.1-1,0,Eudic (欧路词典) - English dictionary software for Linux (Community Repackage)
+2026-10-08T17:44:06Z,aicoworker-bin,2026.8.3-1,0,Graphical AI assistant powered by OpenClaw (official binary)
+2026-10-08T17:47:54Z,openresearch,0.2.17-1,0,"Automated research with coding agents (desktop, built from source)"
+2026-10-08T17:47:54Z,openresearch-cli,0.2.17-1,0,"Automated research with coding agents (headless CLI, built from source)"
+2026-10-08T17:47:54Z,openresearch-bin,0.2.17-1,0,"Automated research with coding agents (desktop, upstream binary)"
+2026-10-08T17:47:54Z,openresearch-cli-bin,0.2.17-1,0,"Automated research with coding agents (headless CLI, upstream binary)"
+2026-10-08T17:52:12Z,tde-session,0.1.0-1,0,"The TDE desktop session: a wlroots compositor, overview, bar, lock screen and settings"
+2026-10-08T17:52:18Z,tde-session-git,0.1.0-1,0,"The TDE desktop session: a wlroots compositor, overview, bar, lock screen and settings (development version)"
+2026-10-08T18:17:05Z,opencode-desktop-v1-bin,1.18.35-1,0,OpenCode desktop client (1.x release line)
