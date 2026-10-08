@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-08T16:34:44Z,gxde-dtk2-git,2.5.r0.g0000000-1,0,GXDE OS DTK2 compatibility stack (DTK2 widget on top of DTK5 core)
+2026-10-08T16:34:44Z,gxde-dtk2widget-dev-git,2.5.r0.g0000000-1,0,GXDE OS DTK2 widget development files
+2026-10-08T16:57:12Z,mqvpn-bin,0.17.0-1,0,Multipath VPN using MASQUE CONNECT-IP (RFC 9484) and Multipath QUIC (prebuilt binary)
+2026-10-08T16:58:04Z,plasma6-applets-battery-chargelimit,6.7.5.1-1,0,The stock Plasma 6 Power & Battery applet with a switch for the battery charge limit
+2026-10-08T17:00:47Z,neferbar-bin,0.2.0-1,0,"One-cell-high, terminal-style status bar for Wayland, driven by scripts"
+2026-10-08T17:01:07Z,neferbar-git,0.2.0.r0.gc616855-1,0,"One-cell-high, terminal-style status bar for Wayland, driven by scripts (git version)"
+2026-10-08T17:07:18Z,gxde-dtk2-qt6-git,6.0.1.r0.g0000000-1,0,GXDE OS DTK2 widget Qt6 port (on top of DTK6 core)
