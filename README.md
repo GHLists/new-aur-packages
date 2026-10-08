@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 06:19 UTC
+## Latest list — 2026-10-08 07:21 UTC
 
-New packages created between 2026-10-08 05:19 UTC and 2026-10-08 06:19 UTC.
+New packages created between 2026-10-08 06:19 UTC and 2026-10-08 07:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-08T06-19-15-404987Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-08T07-21-28-733771Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 05:51:11 | [lumine-capture-git](https://aur.archlinux.org/packages/lumine-capture-git) | 0.2.0.r1.g56df4d6-1 | 0 | Screenshot and annotation tool for Wayland with built-in OCR (git version) |
-| 2026-10-08 05:56:21 | [flakewm-git](https://aur.archlinux.org/packages/flakewm-git) | 3.0.0.gxde3.r0.g000… | 0 | GXDE Wayland compositor |
+| 2026-10-08 06:58:45 | [mediarium-bin](https://aur.archlinux.org/packages/mediarium-bin) | 2.1.10-1 | 1 | Self-hosted media manager for movies, TV, music, ebooks and audiobooks: search,… |
+| 2026-10-08 07:07:12 | [rate-mirrors-repo-updater](https://aur.archlinux.org/packages/rate-mirrors-repo-updater) | 1.0.0-1 | 0 | Periodic mirror ranking for Arch Linux CN and Chaotic-AUR using rate-mirrors |
 
 ## Data source
 
