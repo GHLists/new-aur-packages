@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-08T02:36:33Z,slatekbd,0.1.0-1,0,"On-screen keyboard for Wayland compositors (layer-shell, input-method-v2, virtual-keyboard)"
+2026-10-08T02:39:53Z,hotprint,0.1.0-1,0,Arrange images and PDF pages and print them on CTP500-class Bluetooth thermal printers
