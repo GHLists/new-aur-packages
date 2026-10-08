@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-08T20:43:43Z,git-identity-manager,1.2.1-1,0,Switch between Git identities per repository
+2026-10-08T20:43:52Z,git-identity-manager-bin,1.2.1-1,0,Switch between Git identities per repository (prebuilt static binary)
+2026-10-08T21:02:23Z,mocinha,0.1.1-1,0,"Small, modular, platform-aware live-system installer (work in progress)"
