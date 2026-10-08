@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 10:19 UTC
+## Latest list — 2026-10-08 12:20 UTC
 
-New packages created between 2026-10-08 09:20 UTC and 2026-10-08 10:19 UTC.
+New packages created between 2026-10-08 11:22 UTC and 2026-10-08 12:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-08T10-19-50-604246Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-08T12-20-07-726783Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 09:37:38 | [crateyard-bin](https://aur.archlinux.org/packages/crateyard-bin) | 0.1.0-1 | 0 | Crateyard: self-hosted Rust crate and npm package registry with an embedded web… |
+| 2026-10-08 11:42:08 | [whatsapp-tui-git](https://aur.archlinux.org/packages/whatsapp-tui-git) | r57.dbcf006-1 | 0 | WhatsApp in the terminal, vim-style: fast, runs in the background, with a VS Co… |
 
 ## Data source
 
