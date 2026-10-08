@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-08T22:28:00Z,kosmonaut,0.0.1_rc1-1,1,A modern NetworkManager TUI written in Rust
+2026-10-08T22:32:37Z,rozelynx-bin,156.0.1-1,0,RozeLynx Web Browser: Firefox fork with LibreWolf privacy patches and per-tab network interface binding (binary release; Wayland-only builds - build rozelynx-git for X11/XWayland)
