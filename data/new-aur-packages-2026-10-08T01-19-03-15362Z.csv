@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-10-08T00:31:20Z,aioncore-bin,0.2.2-1,0,"The backend server for AionUi, built with Rust (Axum + Tokio + SQLite). It provides HTTP REST APIs and WebSocket real-time events for the AionUi desktop client."
