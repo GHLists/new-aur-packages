@@ -12,17 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 08:20 UTC
+## Latest list — 2026-10-08 09:20 UTC
 
-New packages created between 2026-10-08 07:21 UTC and 2026-10-08 08:20 UTC.
+New packages created between 2026-10-08 08:20 UTC and 2026-10-08 09:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-08T08-20-06-572843Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-08T09-20-37-774076Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 07:25:20 | [akagims-bin](https://aur.archlinux.org/packages/akagims-bin) | 1.2.1-1 | 0 | Mahjong Soul AI assistant with an integrated game window (binary release) |
-| 2026-10-08 07:35:08 | [gxde-dtk5-git](https://aur.archlinux.org/packages/gxde-dtk5-git) | 6.7.43.r4500.g16597… | 1 | GXDE OS fork of the Deepin Tool Kit 5, note that we are conflicted with Deepin… |
-| 2026-10-08 07:43:57 | [ldtk-git](https://aur.archlinux.org/packages/ldtk-git) | 1.5.3.r13.g2b7b551-1 | 0 | Modern and efficient 2D level editor with a strong focus on user-friendliness (… |
+| 2026-10-08 08:55:20 | [playy](https://aur.archlinux.org/packages/playy) | 0.1.0-1 | 0 | Music player for the terminal: your music folder and YouTube Music in one libra… |
+| 2026-10-08 08:55:41 | [playy-bin](https://aur.archlinux.org/packages/playy-bin) | 0.1.0-1 | 0 | Music player for the terminal: your music folder and YouTube Music in one libra… |
+| 2026-10-08 09:01:41 | [ctranslate2-cuda](https://aur.archlinux.org/packages/ctranslate2-cuda) | 4.8.2-1 | 0 | A C++ library for efficient inference with Transformer models (with CUDA). |
+| 2026-10-08 09:01:41 | [python-ctranslate2-cuda](https://aur.archlinux.org/packages/python-ctranslate2-cuda) | 4.8.2-1 | 0 | A Python library for efficient inference with Transformer models (with CUDA). |
+| 2026-10-08 09:07:56 | [python-json-logic-git](https://aur.archlinux.org/packages/python-json-logic-git) | 0.7.0.alpha.r22.5fd… | 0 | Build complex rules, serialize them as JSON, and execute them in Python |
+| 2026-10-08 09:16:30 | [qualcomm-splash-tools](https://aur.archlinux.org/packages/qualcomm-splash-tools) | 0.2.0-1 | 1 | Extract and repack Qualcomm SPLASH!! boot splash images |
 
 ## Data source
 

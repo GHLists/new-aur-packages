@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-08T08:55:20Z,playy,0.1.0-1,0,"Music player for the terminal: your music folder and YouTube Music in one library, offline or online"
+2026-10-08T08:55:41Z,playy-bin,0.1.0-1,0,"Music player for the terminal: your music folder and YouTube Music in one library, offline or online (prebuilt)"
+2026-10-08T09:01:41Z,ctranslate2-cuda,4.8.2-1,0,A C++ library for efficient inference with Transformer models (with CUDA).
+2026-10-08T09:01:41Z,python-ctranslate2-cuda,4.8.2-1,0,A Python library for efficient inference with Transformer models (with CUDA).
+2026-10-08T09:07:56Z,python-json-logic-git,0.7.0.alpha.r22.5fd…,0,"Build complex rules, serialize them as JSON, and execute them in Python"
+2026-10-08T09:16:30Z,qualcomm-splash-tools,0.2.0-1,1,Extract and repack Qualcomm SPLASH!! boot splash images
