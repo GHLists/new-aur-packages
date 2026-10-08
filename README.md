@@ -12,23 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 18:22 UTC
+## Latest list — 2026-10-08 19:19 UTC
 
-New packages created between 2026-10-08 17:20 UTC and 2026-10-08 18:22 UTC.
+New packages created between 2026-10-08 18:22 UTC and 2026-10-08 19:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-08T18-22-43-939949Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-08T19-19-39-256663Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 17:43:54 | [eusoft-eudic](https://aur.archlinux.org/packages/eusoft-eudic) | 26.9.1-1 | 0 | Eudic (欧路词典) - English dictionary software for Linux (Community Repackage) |
-| 2026-10-08 17:44:06 | [aicoworker-bin](https://aur.archlinux.org/packages/aicoworker-bin) | 2026.8.3-1 | 0 | Graphical AI assistant powered by OpenClaw (official binary) |
-| 2026-10-08 17:47:54 | [openresearch](https://aur.archlinux.org/packages/openresearch) | 0.2.17-1 | 0 | Automated research with coding agents (desktop, built from source) |
-| 2026-10-08 17:47:54 | [openresearch-cli](https://aur.archlinux.org/packages/openresearch-cli) | 0.2.17-1 | 0 | Automated research with coding agents (headless CLI, built from source) |
-| 2026-10-08 17:47:54 | [openresearch-bin](https://aur.archlinux.org/packages/openresearch-bin) | 0.2.17-1 | 0 | Automated research with coding agents (desktop, upstream binary) |
-| 2026-10-08 17:47:54 | [openresearch-cli-bin](https://aur.archlinux.org/packages/openresearch-cli-bin) | 0.2.17-1 | 0 | Automated research with coding agents (headless CLI, upstream binary) |
-| 2026-10-08 17:52:12 | [tde-session](https://aur.archlinux.org/packages/tde-session) | 0.1.0-1 | 0 | The TDE desktop session: a wlroots compositor, overview, bar, lock screen and s… |
-| 2026-10-08 17:52:18 | [tde-session-git](https://aur.archlinux.org/packages/tde-session-git) | 0.1.0-1 | 0 | The TDE desktop session: a wlroots compositor, overview, bar, lock screen and s… |
-| 2026-10-08 18:17:05 | [opencode-desktop-v1-bin](https://aur.archlinux.org/packages/opencode-desktop-v1-bin) | 1.18.35-1 | 0 | OpenCode desktop client (1.x release line) |
+| 2026-10-08 18:25:45 | [krdc-ai](https://aur.archlinux.org/packages/krdc-ai) | 26.11.70-2 | 0 | KDE Remote Desktop Client with an integrated AI assistant panel (per-connection… |
+| 2026-10-08 18:33:28 | [openwood-git](https://aur.archlinux.org/packages/openwood-git) | r10.30bafa9-1 | 0 | Control a Charnwood E-series stove (Aire 300) over BLE: CLI + MQTT bridge with… |
+| 2026-10-08 18:41:01 | [chayuan-wps-addon-bin](https://aur.archlinux.org/packages/chayuan-wps-addon-bin) | 5.1.4-1 | 0 | Chayuan AI WPS Writer JS add-in & MCP sidecar |
 
 ## Data source
 

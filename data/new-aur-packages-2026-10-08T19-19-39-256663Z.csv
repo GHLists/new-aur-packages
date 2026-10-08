@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-08T18:25:45Z,krdc-ai,26.11.70-2,0,"KDE Remote Desktop Client with an integrated AI assistant panel (per-connection chat, screenshots, mouse/keyboard control)"
+2026-10-08T18:33:28Z,openwood-git,r10.30bafa9-1,0,Control a Charnwood E-series stove (Aire 300) over BLE: CLI + MQTT bridge with Home Assistant discovery
+2026-10-08T18:41:01Z,chayuan-wps-addon-bin,5.1.4-1,0,Chayuan AI WPS Writer JS add-in & MCP sidecar
