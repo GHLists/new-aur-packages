@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 03:19 UTC
+## Latest list — 2026-10-08 04:20 UTC
 
-New packages created between 2026-10-08 02:22 UTC and 2026-10-08 03:19 UTC.
+New packages created between 2026-10-08 03:19 UTC and 2026-10-08 04:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-08T03-19-03-712689Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-08T04-20-44-566747Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 02:36:33 | [slatekbd](https://aur.archlinux.org/packages/slatekbd) | 0.1.0-1 | 0 | On-screen keyboard for Wayland compositors (layer-shell, input-method-v2, virtu… |
-| 2026-10-08 02:39:53 | [hotprint](https://aur.archlinux.org/packages/hotprint) | 0.1.0-1 | 0 | Arrange images and PDF pages and print them on CTP500-class Bluetooth thermal p… |
+| 2026-10-08 03:23:16 | [rtop-bin](https://aur.archlinux.org/packages/rtop-bin) | 0.1.0-1 | 1 | Rust Based Linux System Monitor |
+| 2026-10-08 04:10:38 | [sift-context-bin](https://aur.archlinux.org/packages/sift-context-bin) | 1.3.0-1 | 0 | Sift a codebase into an LLM-friendly context document |
 
 ## Data source
 
