@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-08T13:29:13Z,strength-tracker-rs,3.0.0-1,1,Sync your devices and track your strength training
+2026-10-08T13:45:24Z,vivaldi-theme-sync-patch,1.0.0-1,1,"Patch for Vivaldi that fixes dark/light theme switch mode ""Operating system"""
+2026-10-08T13:54:53Z,aegis-tools-git,0.3.5.r49.gf670b2e-1,0,"Developer tools for Aegis Authenticator (decrypt-vault, gen-vault, gen-icons, gen-qr)"
+2026-10-08T13:58:30Z,quotabox-bin,0.1.0-1,0,"Claude Code, ChatGPT / Codex and GitHub Copilot usage limits in your tray"
