@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 23:20 UTC
+## Latest list — 2026-10-09 00:19 UTC
 
-New packages created between 2026-10-08 22:19 UTC and 2026-10-08 23:20 UTC.
+New packages created between 2026-10-08 23:20 UTC and 2026-10-09 00:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-08T23-20-41-168588Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T00-19-05-339302Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 22:28:00 | [kosmonaut](https://aur.archlinux.org/packages/kosmonaut) | 0.0.1_rc1-1 | 1 | A modern NetworkManager TUI written in Rust |
-| 2026-10-08 22:32:37 | [rozelynx-bin](https://aur.archlinux.org/packages/rozelynx-bin) | 156.0.1-1 | 0 | RozeLynx Web Browser: Firefox fork with LibreWolf privacy patches and per-tab n… |
+| 2026-10-08 23:28:19 | [pocket-bin](https://aur.archlinux.org/packages/pocket-bin) | 0.1.1-1 | 0 | A terminal file manager with previews, playlists and a shared SSH session |
+| 2026-10-08 23:39:52 | [agentboard](https://aur.archlinux.org/packages/agentboard) | 0.1.6-1 | 0 | Tiny realtime kanban board for AI agents and the humans watching them |
+| 2026-10-09 00:10:42 | [python-certihound](https://aur.archlinux.org/packages/python-certihound) | 0.3.2-1 | 0 | ADCS collector library for BloodHound CE |
 
 ## Data source
 
