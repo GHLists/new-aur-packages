@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-09T13:42:46Z,walleclipse-git,0.1.0.r3.gc5f4742-1,0,Preloaded layer-shell wallpaper daemon for Hyprland (hyprpaper replacement)
+2026-10-09T13:44:05Z,mimalloc2,2.2.4-1,0,General-purpose allocator with excellent performance characteristics
+2026-10-09T13:49:50Z,grok-bot-cursor,0.68.1-2,0,Grok Bot desktop agent
+2026-10-09T13:56:04Z,vapoursynth-plugin-vsfeel-git,1.1.1.17.g0f3858e-2,0,Plugin for Vapoursynth: vsfeel (GIT version)
+2026-10-09T14:18:15Z,libfprint-goodix53x5-533c-git,r340.5a05d2a-1,0,Goodix 53x5 Milan fingerprint driver with 27c6:533c support from seaweeduk/goodix53x5-libfprint#334 (replaces fprintd)
