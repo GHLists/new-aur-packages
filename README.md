@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 03:21 UTC
+## Latest list — 2026-10-09 05:19 UTC
 
-New packages created between 2026-10-09 02:20 UTC and 2026-10-09 03:21 UTC.
+New packages created between 2026-10-09 04:20 UTC and 2026-10-09 05:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T03-21-35-085144Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T05-19-43-623987Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 02:34:28 | [noctalia-qs](https://aur.archlinux.org/packages/noctalia-qs) | 0.0.12-1 | 0 | Custom fork of Quickshell powering Noctalia Shell |
-| 2026-10-09 02:41:07 | [python-wifit3](https://aur.archlinux.org/packages/python-wifit3) | 0.4.3-1 | 0 | A standalone USB Wi-Fi auditor |
+| 2026-10-09 04:49:34 | [gxde-core-git](https://aur.archlinux.org/packages/gxde-core-git) | 6.0.24.r0.g0000000-1 | 0 | GXDE OS desktop core components set. Note that X11 is NO longer provided. |
+| 2026-10-09 05:10:13 | [omniversify-hypr-calendar](https://aur.archlinux.org/packages/omniversify-hypr-calendar) | 1.0.0-1 | 0 | Three-calendar (Gregorian, Hijri, Amazigh) floating overlay for Hyprland |
 
 ## Data source
 
