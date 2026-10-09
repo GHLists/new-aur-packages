@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 06:19 UTC
+## Latest list — 2026-10-09 07:20 UTC
 
-New packages created between 2026-10-09 05:19 UTC and 2026-10-09 06:19 UTC.
+New packages created between 2026-10-09 06:19 UTC and 2026-10-09 07:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T06-19-37-595766Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T07-20-05-70852Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 05:32:44 | [jna-platform](https://aur.archlinux.org/packages/jna-platform) | 5.17.0-1 | 0 | Cross-platform mappings for JNA (jna-platform.jar) |
-| 2026-10-09 05:33:08 | [javassist-bin](https://aur.archlinux.org/packages/javassist-bin) | 3.33.0-1 | 0 | Java bytecode engineering toolkit (prebuilt jar from Maven Central) |
-| 2026-10-09 06:08:26 | [python-smithy-test](https://aur.archlinux.org/packages/python-smithy-test) | 0.1.0-1 | 1 | Test-support helpers for generated Smithy clients. |
+| 2026-10-09 06:34:18 | [catmd](https://aur.archlinux.org/packages/catmd) | 1.1.0-1 | 1 | Like 'cat', but with markdown support |
+| 2026-10-09 06:45:34 | [tencent-meeting](https://aur.archlinux.org/packages/tencent-meeting) | 2.8.0.0-4 | 0 | Tencent Meeting Linux Client 腾讯会议Linux客户端 |
 
 ## Data source
 
