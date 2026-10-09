@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-09T00:20:10Z,neboto-bin,0.2.1-1,1,"A fast, keyboard-driven terminal UI for browsing AWS"
+2026-10-09T00:40:36Z,ecsterm-bin,0.1.1-1,1,Execute commands or open a shell on ECS tasks with simple TUI
+2026-10-09T00:48:25Z,pomodoro-time-chamber-bin,1.1.0-1,1,"A terminal pomodoro timer with a task list, written in Rust with ratatui. It is scriptable with Lua plugins."
+2026-10-09T00:54:34Z,eusoft-ting-en,26.6.2-1,0,Daily English Listening (每日英语听力) for Linux (Community Repackage)
+2026-10-09T00:57:59Z,wikid-bin,3.2.2-1,1,A feature-rich terminal wikipedia client
+2026-10-09T01:00:28Z,ding-bin,0.1.1-1,0,Looping audio notifications for your terminal
