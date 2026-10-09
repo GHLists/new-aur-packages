@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 08:20 UTC
+## Latest list — 2026-10-09 09:21 UTC
 
-New packages created between 2026-10-09 07:20 UTC and 2026-10-09 08:20 UTC.
+New packages created between 2026-10-09 08:20 UTC and 2026-10-09 09:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T08-20-55-907893Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T09-21-31-049954Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 07:37:00 | [tang-dynasty-wayland](https://aur.archlinux.org/packages/tang-dynasty-wayland) | 5.15.17-1 | 0 | Native Wayland compatibility runtime and launcher for Tang Dynasty |
-| 2026-10-09 08:02:06 | [flashalizer](https://aur.archlinux.org/packages/flashalizer) | 1.6-0 | 0 | GUI to make .swf files |
+| 2026-10-09 08:33:22 | [taskhub-cli-bin](https://aur.archlinux.org/packages/taskhub-cli-bin) | 0.1.0-1 | 0 | Command-line client and MCP server for TaskHub |
+| 2026-10-09 08:47:20 | [tune-server](https://aur.archlinux.org/packages/tune-server) | 1.0.0.rc2-1 | 1 | self-hosted multi-room music server in Rust: local library (FLAC/DSD) + Qobuz/T… |
 
 ## Data source
 
