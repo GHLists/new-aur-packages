@@ -12,25 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 02:20 UTC
+## Latest list — 2026-10-09 03:21 UTC
 
-New packages created between 2026-10-09 01:20 UTC and 2026-10-09 02:20 UTC.
+New packages created between 2026-10-09 02:20 UTC and 2026-10-09 03:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T02-20-57-144921Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T03-21-35-085144Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 01:24:35 | [steam-manifest-downloader-terminal-bin](https://aur.archlinux.org/packages/steam-manifest-downloader-terminal-bin) | 1.5.0-1 | 0 | Terminal UI and headless CLI (smd) of Steam Manifest Downloader (precompiled) |
-| 2026-10-09 01:27:33 | [crabseek-bin](https://aur.archlinux.org/packages/crabseek-bin) | 0.2.1-1 | 1 | A fast, keyboard-driven Soulseek client for the terminal |
-| 2026-10-09 01:27:38 | [eusoft-frhelper](https://aur.archlinux.org/packages/eusoft-frhelper) | 13.5.2-1 | 0 | Frhelper (法语助手) - French dictionary software for Linux (Community Repackage) |
-| 2026-10-09 01:27:56 | [eusoft-dehelper](https://aur.archlinux.org/packages/eusoft-dehelper) | 13.5.2-1 | 0 | Dehelper (德语助手) - German dictionary software for Linux (Community Repackage) |
-| 2026-10-09 01:28:18 | [eusoft-eshelper](https://aur.archlinux.org/packages/eusoft-eshelper) | 13.5.2-1 | 0 | Eshelper (西语助手) - Spanish dictionary software for Linux (Community Repackage) |
-| 2026-10-09 01:28:35 | [eusoft-ting-fr](https://aur.archlinux.org/packages/eusoft-ting-fr) | 26.1.1-1 | 0 | Daily French Listening (每日法语听力) for Linux (Community Repackage) |
-| 2026-10-09 01:28:53 | [eusoft-ting-de](https://aur.archlinux.org/packages/eusoft-ting-de) | 26.9.0-1 | 0 | Daily German Listening (每日德语听力) for Linux (Community Repackage) |
-| 2026-10-09 01:29:10 | [eusoft-ting-es](https://aur.archlinux.org/packages/eusoft-ting-es) | 26.6.2-1 | 0 | Daily Spanish Listening (每日西语听力) for Linux (Community Repackage) |
-| 2026-10-09 01:39:24 | [gset](https://aur.archlinux.org/packages/gset) | 3.3.0-1 | 0 | Generic Syntax Extension Tool - write in any language syntax, compile to any la… |
-| 2026-10-09 01:45:07 | [ocd-bin](https://aur.archlinux.org/packages/ocd-bin) | 0.2.4-2 | 0 | CLI for open-compute - self-hosted Cloudflare Workers-compatible platform |
-| 2026-10-09 01:46:35 | [noctalia-legacy-v4](https://aur.archlinux.org/packages/noctalia-legacy-v4) | 4.7.8-1 | 0 | Community-maintained legacy Noctalia v4 desktop shell for Wayland, built with Q… |
+| 2026-10-09 02:34:28 | [noctalia-qs](https://aur.archlinux.org/packages/noctalia-qs) | 0.0.12-1 | 0 | Custom fork of Quickshell powering Noctalia Shell |
+| 2026-10-09 02:41:07 | [python-wifit3](https://aur.archlinux.org/packages/python-wifit3) | 0.4.3-1 | 0 | A standalone USB Wi-Fi auditor |
 
 ## Data source
 
