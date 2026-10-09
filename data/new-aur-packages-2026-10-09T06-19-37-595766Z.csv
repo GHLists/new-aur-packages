@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-09T05:32:44Z,jna-platform,5.17.0-1,0,Cross-platform mappings for JNA (jna-platform.jar)
+2026-10-09T05:33:08Z,javassist-bin,3.33.0-1,0,Java bytecode engineering toolkit (prebuilt jar from Maven Central)
+2026-10-09T06:08:26Z,python-smithy-test,0.1.0-1,1,Test-support helpers for generated Smithy clients.

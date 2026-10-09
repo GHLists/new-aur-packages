@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 05:19 UTC
+## Latest list — 2026-10-09 06:19 UTC
 
-New packages created between 2026-10-09 04:20 UTC and 2026-10-09 05:19 UTC.
+New packages created between 2026-10-09 05:19 UTC and 2026-10-09 06:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T05-19-43-623987Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T06-19-37-595766Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 04:49:34 | [gxde-core-git](https://aur.archlinux.org/packages/gxde-core-git) | 6.0.24.r0.g0000000-1 | 0 | GXDE OS desktop core components set. Note that X11 is NO longer provided. |
-| 2026-10-09 05:10:13 | [omniversify-hypr-calendar](https://aur.archlinux.org/packages/omniversify-hypr-calendar) | 1.0.0-1 | 0 | Three-calendar (Gregorian, Hijri, Amazigh) floating overlay for Hyprland |
+| 2026-10-09 05:32:44 | [jna-platform](https://aur.archlinux.org/packages/jna-platform) | 5.17.0-1 | 0 | Cross-platform mappings for JNA (jna-platform.jar) |
+| 2026-10-09 05:33:08 | [javassist-bin](https://aur.archlinux.org/packages/javassist-bin) | 3.33.0-1 | 0 | Java bytecode engineering toolkit (prebuilt jar from Maven Central) |
+| 2026-10-09 06:08:26 | [python-smithy-test](https://aur.archlinux.org/packages/python-smithy-test) | 0.1.0-1 | 1 | Test-support helpers for generated Smithy clients. |
 
 ## Data source
 
