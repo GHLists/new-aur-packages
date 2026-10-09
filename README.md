@@ -12,19 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 16:20 UTC
+## Latest list — 2026-10-09 17:20 UTC
 
-New packages created between 2026-10-09 15:21 UTC and 2026-10-09 16:20 UTC.
+New packages created between 2026-10-09 16:20 UTC and 2026-10-09 17:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T16-20-27-719569Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T17-20-50-028105Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 15:24:05 | [vrgb](https://aur.archlinux.org/packages/vrgb) | 1.0.0-1 | 0 | RGB keyboard backlight control for ASUS Vivobook S14/S16 laptops (ITE5570 HID L… |
-| 2026-10-09 15:24:05 | [vrgb-gui](https://aur.archlinux.org/packages/vrgb-gui) | 1.0.0-1 | 0 | GUI and tray for vrgb, RGB keyboard backlight control for ASUS Vivobook S14/S16… |
-| 2026-10-09 15:36:16 | [stellastack-git](https://aur.archlinux.org/packages/stellastack-git) | 0.99.1.r7.gf6daf1ee… | 0 | Linux astrophotography stacking app with calibration, frame analysis, and FITS/… |
-| 2026-10-09 15:52:13 | [khal-agenda-bin](https://aur.archlinux.org/packages/khal-agenda-bin) | 0.1.0-1 | 0 | An on-demand Wayland calendar popup for khal (prebuilt binary) |
-| 2026-10-09 16:10:37 | [gnome-rounded-blur-gnome51](https://aur.archlinux.org/packages/gnome-rounded-blur-gnome51) | 1.0.1-1 | 0 | GNOME Shell BlurEffect with rounded corners (patched for GNOME 51) |
+| 2026-10-09 16:29:00 | [studio-brightness-linux](https://aur.archlinux.org/packages/studio-brightness-linux) | 1.0.3-1 | 0 | Brightness control for Apple Cinema, Thunderbolt, Studio and Pro XDR displays |
+| 2026-10-09 16:50:25 | [plasma6-applet-quicklaunch](https://aur.archlinux.org/packages/plasma6-applet-quicklaunch) | 6.5.80-4 | 0 | Customizable quicklaunch widget for KDE Plasma 6 panels |
+| 2026-10-09 16:56:44 | [pam-fprint-helper](https://aur.archlinux.org/packages/pam-fprint-helper) | 1.0-5 | 0 | Fingerprint authorization (pam_fprintd) for privileged access on Arch/KDE Plasm… |
+| 2026-10-09 16:56:44 | [pam-open-fprint-helper](https://aur.archlinux.org/packages/pam-open-fprint-helper) | 1.0-5 | 0 | Fingerprint authorization (pam_fprintd) for privileged access on Arch/KDE Plasm… |
+| 2026-10-09 16:58:41 | [kde-window-moves-git](https://aur.archlinux.org/packages/kde-window-moves-git) | r141.5bd689a-1 | 0 | Keyboard-driven window move, resize and zoom shortcuts for KDE Plasma on Wayland |
+| 2026-10-09 16:59:54 | [qt6curve-git](https://aur.archlinux.org/packages/qt6curve-git) | 1.9.1-8 | 0 | Qt6 widget style with extensive configurability (Qt6 version only, separate fro… |
+| 2026-10-09 17:00:45 | [shortwave-mpris-bin](https://aur.archlinux.org/packages/shortwave-mpris-bin) | 5.1.0-1 | 0 | Internet radio player with extended MPRIS support, device support for DLNA/UPnP… |
+| 2026-10-09 17:01:47 | [shortwave-mpris-git](https://aur.archlinux.org/packages/shortwave-mpris-git) | 5.1.0.r9.g9586a15-1 | 0 | Internet radio player with extended MPRIS support, device support for DLNA/UPnP… |
+| 2026-10-09 17:02:38 | [simplesinewavegenerator-bin](https://aur.archlinux.org/packages/simplesinewavegenerator-bin) | 0.0.4-1 | 0 | Simple sine wave generator with GTK3 GUI and logarithmic frequency sweep (pre-c… |
+| 2026-10-09 17:03:03 | [simplesinewavegenerator-git](https://aur.archlinux.org/packages/simplesinewavegenerator-git) | 0.0.4-1 | 0 | Simple sine wave generator with GTK3 GUI and logarithmic frequency sweep |
+| 2026-10-09 17:06:30 | [docan-gtk-bin](https://aur.archlinux.org/packages/docan-gtk-bin) | 3.1.0-1 | 0 | Universal AI chat application with file attachment support |
 
 ## Data source
 

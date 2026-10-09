@@ -1,0 +1,12 @@
+created_at,package,version,votes,description
+2026-10-09T16:29:00Z,studio-brightness-linux,1.0.3-1,0,"Brightness control for Apple Cinema, Thunderbolt, Studio and Pro XDR displays"
+2026-10-09T16:50:25Z,plasma6-applet-quicklaunch,6.5.80-4,0,Customizable quicklaunch widget for KDE Plasma 6 panels
+2026-10-09T16:56:44Z,pam-fprint-helper,1.0-5,0,"Fingerprint authorization (pam_fprintd) for privileged access on Arch/KDE Plasma: polkit, sudo, su, login, SDDM/LightDM, themed root GUI apps (fprintd backend)"
+2026-10-09T16:56:44Z,pam-open-fprint-helper,1.0-5,0,"Fingerprint authorization (pam_fprintd) for privileged access on Arch/KDE Plasma: polkit, sudo, su, login, SDDM/LightDM, themed root GUI apps (open-fprintd backend)"
+2026-10-09T16:58:41Z,kde-window-moves-git,r141.5bd689a-1,0,"Keyboard-driven window move, resize and zoom shortcuts for KDE Plasma on Wayland"
+2026-10-09T16:59:54Z,qt6curve-git,1.9.1-8,0,"Qt6 widget style with extensive configurability (Qt6 version only, separate from qtcurve)"
+2026-10-09T17:00:45Z,shortwave-mpris-bin,5.1.0-1,0,"Internet radio player with extended MPRIS support, device support for DLNA/UPnP & Google Cast + FFmpeg proxy for incompatible streams"
+2026-10-09T17:01:47Z,shortwave-mpris-git,5.1.0.r9.g9586a15-1,0,"Internet radio player with extended MPRIS support, device support for DLNA/UPnP & Google Cast + FFmpeg proxy for incompatible streams"
+2026-10-09T17:02:38Z,simplesinewavegenerator-bin,0.0.4-1,0,Simple sine wave generator with GTK3 GUI and logarithmic frequency sweep (pre-compiled binary)
+2026-10-09T17:03:03Z,simplesinewavegenerator-git,0.0.4-1,0,Simple sine wave generator with GTK3 GUI and logarithmic frequency sweep
+2026-10-09T17:06:30Z,docan-gtk-bin,3.1.0-1,0,Universal AI chat application with file attachment support
