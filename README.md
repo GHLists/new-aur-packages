@@ -12,21 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 20:20 UTC
+## Latest list — 2026-10-09 21:22 UTC
 
-New packages created between 2026-10-09 19:20 UTC and 2026-10-09 20:20 UTC.
+New packages created between 2026-10-09 20:20 UTC and 2026-10-09 21:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T20-20-29-093891Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T21-22-05-307562Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 19:32:55 | [wtfi2](https://aur.archlinux.org/packages/wtfi2) | 0.6.0-1 | 0 | Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi co… |
-| 2026-10-09 19:33:06 | [python-async-mega.py](https://aur.archlinux.org/packages/python-async-mega.py) | 2.5.0-1 | 0 | Python library and CLI app for the Mega.nz and Transfer.it API |
-| 2026-10-09 19:48:02 | [wtfi2-git](https://aur.archlinux.org/packages/wtfi2-git) | 0.6.0.r4.g76f245e-1 | 0 | Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi co… |
-| 2026-10-09 19:57:36 | [wtfi2-bin](https://aur.archlinux.org/packages/wtfi2-bin) | 0.6.0-1 | 0 | Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi co… |
-| 2026-10-09 20:02:17 | [workspaceforge](https://aur.archlinux.org/packages/workspaceforge) | 1.0.0-1 | 0 | Your workspaces in the terminal: names, order and the apps that open on each. F… |
-| 2026-10-09 20:13:32 | [displayforge](https://aur.archlinux.org/packages/displayforge) | 1.1.0-1 | 0 | Screen settings in the terminal: arrange, resolution, refresh rate, size, rotat… |
-| 2026-10-09 20:14:45 | [mindforge](https://aur.archlinux.org/packages/mindforge) | 0.1.7-1 | 0 | A working agreement between you and your AI assistant that does not decay: tier… |
+| 2026-10-09 21:00:33 | [post-install-arch-full](https://aur.archlinux.org/packages/post-install-arch-full) | 0.1-1 | 0 | Advanced Arch Linux post-installation automation, intelligent multimedia codecs… |
+| 2026-10-09 21:05:07 | [emposium](https://aur.archlinux.org/packages/emposium) | 0.6.2-1 | 0 | Anime, manga and community in one application |
 
 ## Data source
 
