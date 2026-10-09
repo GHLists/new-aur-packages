@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-09T19:32:55Z,wtfi2,0.6.0-1,0,"Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi connection dies"
+2026-10-09T19:33:06Z,python-async-mega.py,2.5.0-1,0,Python library and CLI app for the Mega.nz and Transfer.it API
+2026-10-09T19:48:02Z,wtfi2-git,0.6.0.r4.g76f245e-1,0,"Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi connection dies"
+2026-10-09T19:57:36Z,wtfi2-bin,0.6.0-1,0,"Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi connection dies"
+2026-10-09T20:02:17Z,workspaceforge,1.0.0-1,0,"Your workspaces in the terminal: names, order and the apps that open on each. For KognogOS's hypeForge desktop on Sway; runs in any terminal, even a plain text console (Forge Suite)"
+2026-10-09T20:13:32Z,displayforge,1.1.0-1,0,"Screen settings in the terminal: arrange, resolution, refresh rate, size, rotation, brightness, with a countdown that undoes a change by itself. Sway desktop only, written for KognogOS; on a plain text console it explains why and closes (Forge Suite)"
+2026-10-09T20:14:45Z,mindforge,0.1.7-1,0,"A working agreement between you and your AI assistant that does not decay: tiered context, explicit triggers, a closeout that can't be forgotten. Any Linux distribution, no desktop needed: a terminal tool (bash)"

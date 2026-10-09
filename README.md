@@ -12,20 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 19:20 UTC
+## Latest list — 2026-10-09 20:20 UTC
 
-New packages created between 2026-10-09 18:20 UTC and 2026-10-09 19:20 UTC.
+New packages created between 2026-10-09 19:20 UTC and 2026-10-09 20:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T19-20-44-13791Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T20-20-29-093891Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 18:31:02 | [pdfcraft-bin](https://aur.archlinux.org/packages/pdfcraft-bin) | 0.4.0-1 | 0 | Open-source native PDF workbench, Acrobat alternative (prebuilt binary) |
-| 2026-10-09 18:31:11 | [deckcraft-bin](https://aur.archlinux.org/packages/deckcraft-bin) | 0.3.0-1 | 0 | Open-source native presentation app, PowerPoint alternative (prebuilt binary) |
-| 2026-10-09 18:31:20 | [gridcraft-bin](https://aur.archlinux.org/packages/gridcraft-bin) | 0.3.0-1 | 0 | Open-source native spreadsheet, Excel alternative (prebuilt binary) |
-| 2026-10-09 18:31:31 | [wordcraft-bin](https://aur.archlinux.org/packages/wordcraft-bin) | 0.3.0-1 | 0 | Open-source native word processor, Word alternative (prebuilt binary) |
-| 2026-10-09 18:43:04 | [cadcraft-bin](https://aur.archlinux.org/packages/cadcraft-bin) | 0.3.0-1 | 0 | Open-source native CAD and drafting app, AutoCAD alternative (prebuilt binary) |
-| 2026-10-09 18:43:18 | [soundcraft-bin](https://aur.archlinux.org/packages/soundcraft-bin) | 0.3.0-1 | 0 | Open-source native digital audio workstation, Pro Tools alternative (prebuilt b… |
+| 2026-10-09 19:32:55 | [wtfi2](https://aur.archlinux.org/packages/wtfi2) | 0.6.0-1 | 0 | Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi co… |
+| 2026-10-09 19:33:06 | [python-async-mega.py](https://aur.archlinux.org/packages/python-async-mega.py) | 2.5.0-1 | 0 | Python library and CLI app for the Mega.nz and Transfer.it API |
+| 2026-10-09 19:48:02 | [wtfi2-git](https://aur.archlinux.org/packages/wtfi2-git) | 0.6.0.r4.g76f245e-1 | 0 | Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi co… |
+| 2026-10-09 19:57:36 | [wtfi2-bin](https://aur.archlinux.org/packages/wtfi2-bin) | 0.6.0-1 | 0 | Live, visual network-path diagnostic that pinpoints exactly where your Wi-Fi co… |
+| 2026-10-09 20:02:17 | [workspaceforge](https://aur.archlinux.org/packages/workspaceforge) | 1.0.0-1 | 0 | Your workspaces in the terminal: names, order and the apps that open on each. F… |
+| 2026-10-09 20:13:32 | [displayforge](https://aur.archlinux.org/packages/displayforge) | 1.1.0-1 | 0 | Screen settings in the terminal: arrange, resolution, refresh rate, size, rotat… |
+| 2026-10-09 20:14:45 | [mindforge](https://aur.archlinux.org/packages/mindforge) | 0.1.7-1 | 0 | A working agreement between you and your AI assistant that does not decay: tier… |
 
 ## Data source
 
