@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 21:22 UTC
+## Latest list — 2026-10-09 22:21 UTC
 
-New packages created between 2026-10-09 20:20 UTC and 2026-10-09 21:22 UTC.
+New packages created between 2026-10-09 21:22 UTC and 2026-10-09 22:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T21-22-05-307562Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T22-21-34-331306Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 21:00:33 | [post-install-arch-full](https://aur.archlinux.org/packages/post-install-arch-full) | 0.1-1 | 0 | Advanced Arch Linux post-installation automation, intelligent multimedia codecs… |
-| 2026-10-09 21:05:07 | [emposium](https://aur.archlinux.org/packages/emposium) | 0.6.2-1 | 0 | Anime, manga and community in one application |
+| 2026-10-09 21:37:04 | [gxde-display-manager-git](https://aur.archlinux.org/packages/gxde-display-manager-git) | 1.3.2.gxde2.r124.g9… | 0 | GXDE Display Manager is a fork of SDDM maintained by GXDE OS contributors. |
+| 2026-10-09 22:06:26 | [ss14-starlight-launcher-bin](https://aur.archlinux.org/packages/ss14-starlight-launcher-bin) | 2.0.6.8-1 | 0 | Starlight Launcher for Space Station 14 |
+| 2026-10-09 22:15:03 | [gxde-system-monitor-git](https://aur.archlinux.org/packages/gxde-system-monitor-git) | 6.5.46.r0.g461b28e-1 | 0 | GXDE fork & modification of deepin-system-monitor. Conflicts with Deepin's vers… |
 
 ## Data source
 
