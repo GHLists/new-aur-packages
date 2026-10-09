@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-09T18:31:02Z,pdfcraft-bin,0.4.0-1,0,"Open-source native PDF workbench, Acrobat alternative (prebuilt binary)"
+2026-10-09T18:31:11Z,deckcraft-bin,0.3.0-1,0,"Open-source native presentation app, PowerPoint alternative (prebuilt binary)"
+2026-10-09T18:31:20Z,gridcraft-bin,0.3.0-1,0,"Open-source native spreadsheet, Excel alternative (prebuilt binary)"
+2026-10-09T18:31:31Z,wordcraft-bin,0.3.0-1,0,"Open-source native word processor, Word alternative (prebuilt binary)"
+2026-10-09T18:43:04Z,cadcraft-bin,0.3.0-1,0,"Open-source native CAD and drafting app, AutoCAD alternative (prebuilt binary)"
+2026-10-09T18:43:18Z,soundcraft-bin,0.3.0-1,0,"Open-source native digital audio workstation, Pro Tools alternative (prebuilt binary)"
