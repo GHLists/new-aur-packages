@@ -12,17 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 22:21 UTC
+## Latest list — 2026-10-09 23:20 UTC
 
-New packages created between 2026-10-09 21:22 UTC and 2026-10-09 22:21 UTC.
+New packages created between 2026-10-09 22:21 UTC and 2026-10-09 23:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T22-21-34-331306Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T23-20-20-070948Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 21:37:04 | [gxde-display-manager-git](https://aur.archlinux.org/packages/gxde-display-manager-git) | 1.3.2.gxde2.r124.g9… | 0 | GXDE Display Manager is a fork of SDDM maintained by GXDE OS contributors. |
-| 2026-10-09 22:06:26 | [ss14-starlight-launcher-bin](https://aur.archlinux.org/packages/ss14-starlight-launcher-bin) | 2.0.6.8-1 | 0 | Starlight Launcher for Space Station 14 |
-| 2026-10-09 22:15:03 | [gxde-system-monitor-git](https://aur.archlinux.org/packages/gxde-system-monitor-git) | 6.5.46.r0.g461b28e-1 | 0 | GXDE fork & modification of deepin-system-monitor. Conflicts with Deepin's vers… |
+| 2026-10-09 22:29:06 | [gxde-calculator-git](https://aur.archlinux.org/packages/gxde-calculator-git) | 6.5.37.r0.g25291b0-1 | 0 | GXDE fork of old DTK5 calculator |
+| 2026-10-09 22:35:24 | [linux-73rc6](https://aur.archlinux.org/packages/linux-73rc6) | 7.3rc6-1 | 0 | The Linux kernel and modules |
+| 2026-10-09 22:35:24 | [linux-73rc6-headers](https://aur.archlinux.org/packages/linux-73rc6-headers) | 7.3rc6-1 | 0 | Headers and scripts for building modules for the Linux kernel |
+| 2026-10-09 22:35:24 | [linux-73rc6-docs](https://aur.archlinux.org/packages/linux-73rc6-docs) | 7.3rc6-1 | 0 | Documentation for the Linux kernel |
+| 2026-10-09 22:38:31 | [mold-ai-desktop-bin](https://aur.archlinux.org/packages/mold-ai-desktop-bin) | 0.34.0-1 | 0 | Mold desktop app for remote GPU hosts — gallery, model manager and job queue (p… |
+| 2026-10-09 22:38:31 | [mold-ai-desktop](https://aur.archlinux.org/packages/mold-ai-desktop) | 0.34.0-1 | 0 | Mold desktop app — local AI image and video generation with a gallery, model ma… |
+| 2026-10-09 22:48:10 | [gxde-picker-git](https://aur.archlinux.org/packages/gxde-picker-git) | 2.0.4.r0.gbfc51a2-1 | 0 | Color picker tool for GXDE |
 
 ## Data source
 

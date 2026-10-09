@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-09T22:29:06Z,gxde-calculator-git,6.5.37.r0.g25291b0-1,0,GXDE fork of old DTK5 calculator
+2026-10-09T22:35:24Z,linux-73rc6,7.3rc6-1,0,The Linux kernel and modules
+2026-10-09T22:35:24Z,linux-73rc6-headers,7.3rc6-1,0,Headers and scripts for building modules for the Linux kernel
+2026-10-09T22:35:24Z,linux-73rc6-docs,7.3rc6-1,0,Documentation for the Linux kernel
+2026-10-09T22:38:31Z,mold-ai-desktop-bin,0.34.0-1,0,"Mold desktop app for remote GPU hosts — gallery, model manager and job queue (prebuilt, GPU-free)"
+2026-10-09T22:38:31Z,mold-ai-desktop,0.34.0-1,0,"Mold desktop app — local AI image and video generation with a gallery, model manager and job queue (built from source, CUDA)"
+2026-10-09T22:48:10Z,gxde-picker-git,2.0.4.r0.gbfc51a2-1,0,Color picker tool for GXDE
