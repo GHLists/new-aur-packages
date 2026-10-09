@@ -12,21 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 12:21 UTC
+## Latest list — 2026-10-09 13:20 UTC
 
-New packages created between 2026-10-09 11:20 UTC and 2026-10-09 12:21 UTC.
+New packages created between 2026-10-09 12:21 UTC and 2026-10-09 13:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T12-21-10-248417Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T13-20-00-283964Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 11:26:24 | [zotero-pdf2zh](https://aur.archlinux.org/packages/zotero-pdf2zh) | 4.1.7-1 | 0 | Local translation server for the Zotero PDF2zh plugin (pdf2zh / pdf2zh_next) |
-| 2026-10-09 11:37:56 | [gophie-bin](https://aur.archlinux.org/packages/gophie-bin) | 1.1-1 | 0 | A modern Gopher client (prebuilt Linux binary) |
-| 2026-10-09 11:40:10 | [tutabridge-desktop-bin](https://aur.archlinux.org/packages/tutabridge-desktop-bin) | 0.1.0rc13-1 | 0 | Local IMAP/SMTP bridge for Tuta encrypted email (prebuilt desktop app) |
-| 2026-10-09 11:40:17 | [tutabridge-desktop-git](https://aur.archlinux.org/packages/tutabridge-desktop-git) | 0.r0.0000000-1 | 0 | Local IMAP/SMTP bridge for Tuta encrypted email (desktop app) |
-| 2026-10-09 11:48:59 | [tmxr-bin](https://aur.archlinux.org/packages/tmxr-bin) | 0.2.4-1 | 0 | tmux-style terminal multiplexer for Linux, macOS and Windows (binary release) |
-| 2026-10-09 12:09:29 | [sep](https://aur.archlinux.org/packages/sep) | 1.4.1.r1.g93b3ac5-1 | 0 | Python and C library for source extraction and photometry |
-| 2026-10-09 12:19:44 | [freeturn-desktop-git](https://aur.archlinux.org/packages/freeturn-desktop-git) |  |  | FreeTurn VPN client - git build |
+| 2026-10-09 12:28:04 | [bitchord-bin](https://aur.archlinux.org/packages/bitchord-bin) | 1.8-5 | 0 | A modern YouTube Music client with clean aesthetics inspired by Apple Music (pr… |
 
 ## Data source
 
