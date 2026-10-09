@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 07:20 UTC
+## Latest list — 2026-10-09 08:20 UTC
 
-New packages created between 2026-10-09 06:19 UTC and 2026-10-09 07:20 UTC.
+New packages created between 2026-10-09 07:20 UTC and 2026-10-09 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T07-20-05-70852Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T08-20-55-907893Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 06:34:18 | [catmd](https://aur.archlinux.org/packages/catmd) | 1.1.0-1 | 1 | Like 'cat', but with markdown support |
-| 2026-10-09 06:45:34 | [tencent-meeting](https://aur.archlinux.org/packages/tencent-meeting) | 2.8.0.0-4 | 0 | Tencent Meeting Linux Client 腾讯会议Linux客户端 |
+| 2026-10-09 07:37:00 | [tang-dynasty-wayland](https://aur.archlinux.org/packages/tang-dynasty-wayland) | 5.15.17-1 | 0 | Native Wayland compatibility runtime and launcher for Tang Dynasty |
+| 2026-10-09 08:02:06 | [flashalizer](https://aur.archlinux.org/packages/flashalizer) | 1.6-0 | 0 | GUI to make .swf files |
 
 ## Data source
 
