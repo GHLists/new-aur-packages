@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-09T15:24:05Z,vrgb,1.0.0-1,0,RGB keyboard backlight control for ASUS Vivobook S14/S16 laptops (ITE5570 HID LampArray) - CLI
+2026-10-09T15:24:05Z,vrgb-gui,1.0.0-1,0,"GUI and tray for vrgb, RGB keyboard backlight control for ASUS Vivobook S14/S16 (ITE5570) - idle auto-off, daytime-off, rainbow"
+2026-10-09T15:36:16Z,stellastack-git,0.99.1.r7.gf6daf1ee…,0,"Linux astrophotography stacking app with calibration, frame analysis, and FITS/XISF export. Built with C++20 and Qt 6"
+2026-10-09T15:52:13Z,khal-agenda-bin,0.1.0-1,0,An on-demand Wayland calendar popup for khal (prebuilt binary)
+2026-10-09T16:10:37Z,gnome-rounded-blur-gnome51,1.0.1-1,0,GNOME Shell BlurEffect with rounded corners (patched for GNOME 51)

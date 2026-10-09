@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 15:21 UTC
+## Latest list — 2026-10-09 16:20 UTC
 
-New packages created between 2026-10-09 14:21 UTC and 2026-10-09 15:21 UTC.
+New packages created between 2026-10-09 15:21 UTC and 2026-10-09 16:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T15-21-53-845963Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T16-20-27-719569Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 14:40:27 | [obs-studio-rust-git](https://aur.archlinux.org/packages/obs-studio-rust-git) | 32.2.2.r206.g8014a0… | 0 | Free, open source software for live streaming and recording |
-| 2026-10-09 15:00:43 | [gimp-plugin-deskew](https://aur.archlinux.org/packages/gimp-plugin-deskew) | 1.2-2 | 0 | Automatically unskew scanned documents |
-| 2026-10-09 15:01:22 | [qsp-legacy-git](https://aur.archlinux.org/packages/qsp-legacy-git) | 5.7.0.r136.gd29d5eb… | 0 | QSP Legacy game engine library |
+| 2026-10-09 15:24:05 | [vrgb](https://aur.archlinux.org/packages/vrgb) | 1.0.0-1 | 0 | RGB keyboard backlight control for ASUS Vivobook S14/S16 laptops (ITE5570 HID L… |
+| 2026-10-09 15:24:05 | [vrgb-gui](https://aur.archlinux.org/packages/vrgb-gui) | 1.0.0-1 | 0 | GUI and tray for vrgb, RGB keyboard backlight control for ASUS Vivobook S14/S16… |
+| 2026-10-09 15:36:16 | [stellastack-git](https://aur.archlinux.org/packages/stellastack-git) | 0.99.1.r7.gf6daf1ee… | 0 | Linux astrophotography stacking app with calibration, frame analysis, and FITS/… |
+| 2026-10-09 15:52:13 | [khal-agenda-bin](https://aur.archlinux.org/packages/khal-agenda-bin) | 0.1.0-1 | 0 | An on-demand Wayland calendar popup for khal (prebuilt binary) |
+| 2026-10-09 16:10:37 | [gnome-rounded-blur-gnome51](https://aur.archlinux.org/packages/gnome-rounded-blur-gnome51) | 1.0.1-1 | 0 | GNOME Shell BlurEffect with rounded corners (patched for GNOME 51) |
 
 ## Data source
 
