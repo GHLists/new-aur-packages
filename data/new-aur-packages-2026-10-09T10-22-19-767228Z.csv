@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-09T09:27:31Z,ucpd-monitor,3.2.7-1,0,A cross-platform Electron desktop application for real-time monitoring and analysis of USB Power Delivery (PD) communication captured by STM32 UCPD hardware.
+2026-10-09T09:52:25Z,shipyard-bin,0.3.13-1,0,"Run coding agents on your dev boxes: worktrees, terminals, orchestration, kits and automations, with a desktop app."
