@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-09T10:33:43Z,elephant-clipboard-substring,2.22.1-2,0,"clipboard provider for elephant (case-insensitive substring search, space-separated AND terms, newest first)"
+2026-10-09T10:33:52Z,elephant-desktopapplications-windowfirst,2.22.1-2,0,desktopapplications provider for elephant (an app with open windows ranks directly below its own window)
+2026-10-09T10:36:49Z,remora-git,2026.10.0.r0.g6e961…,0,"Run Android apps on your Linux desktop. Android 16 and 17 (LineageOS 23 / 24) in a Docker container, GPU-accelerated on NVIDIA, Intel and AMD, with every app in a window of its own"
+2026-10-09T10:44:20Z,masterdnsvpn,2026.06.13.234407_7…,0,Advanced DNS tunneling VPN for censorship bypass
+2026-10-09T11:15:06Z,aiyou,,,"Export, maintain and analyze all your AI coding-agent chat history in one git-versioned store"

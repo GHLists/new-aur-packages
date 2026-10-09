@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 10:22 UTC
+## Latest list — 2026-10-09 11:20 UTC
 
-New packages created between 2026-10-09 09:21 UTC and 2026-10-09 10:22 UTC.
+New packages created between 2026-10-09 10:22 UTC and 2026-10-09 11:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T10-22-19-767228Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T11-20-02-602894Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 09:27:31 | [ucpd-monitor](https://aur.archlinux.org/packages/ucpd-monitor) | 3.2.7-1 | 0 | A cross-platform Electron desktop application for real-time monitoring and anal… |
-| 2026-10-09 09:52:25 | [shipyard-bin](https://aur.archlinux.org/packages/shipyard-bin) | 0.3.13-1 | 0 | Run coding agents on your dev boxes: worktrees, terminals, orchestration, kits… |
+| 2026-10-09 10:33:43 | [elephant-clipboard-substring](https://aur.archlinux.org/packages/elephant-clipboard-substring) | 2.22.1-2 | 0 | clipboard provider for elephant (case-insensitive substring search, space-separ… |
+| 2026-10-09 10:33:52 | [elephant-desktopapplications-windowfirst](https://aur.archlinux.org/packages/elephant-desktopapplications-windowfirst) | 2.22.1-2 | 0 | desktopapplications provider for elephant (an app with open windows ranks direc… |
+| 2026-10-09 10:36:49 | [remora-git](https://aur.archlinux.org/packages/remora-git) | 2026.10.0.r0.g6e961… | 0 | Run Android apps on your Linux desktop. Android 16 and 17 (LineageOS 23 / 24) i… |
+| 2026-10-09 10:44:20 | [masterdnsvpn](https://aur.archlinux.org/packages/masterdnsvpn) | 2026.06.13.234407_7… | 0 | Advanced DNS tunneling VPN for censorship bypass |
+| 2026-10-09 11:15:06 | [aiyou](https://aur.archlinux.org/packages/aiyou) |  |  | Export, maintain and analyze all your AI coding-agent chat history in one git-v… |
 
 ## Data source
 
