@@ -12,19 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 11:20 UTC
+## Latest list — 2026-10-09 12:21 UTC
 
-New packages created between 2026-10-09 10:22 UTC and 2026-10-09 11:20 UTC.
+New packages created between 2026-10-09 11:20 UTC and 2026-10-09 12:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T11-20-02-602894Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T12-21-10-248417Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 10:33:43 | [elephant-clipboard-substring](https://aur.archlinux.org/packages/elephant-clipboard-substring) | 2.22.1-2 | 0 | clipboard provider for elephant (case-insensitive substring search, space-separ… |
-| 2026-10-09 10:33:52 | [elephant-desktopapplications-windowfirst](https://aur.archlinux.org/packages/elephant-desktopapplications-windowfirst) | 2.22.1-2 | 0 | desktopapplications provider for elephant (an app with open windows ranks direc… |
-| 2026-10-09 10:36:49 | [remora-git](https://aur.archlinux.org/packages/remora-git) | 2026.10.0.r0.g6e961… | 0 | Run Android apps on your Linux desktop. Android 16 and 17 (LineageOS 23 / 24) i… |
-| 2026-10-09 10:44:20 | [masterdnsvpn](https://aur.archlinux.org/packages/masterdnsvpn) | 2026.06.13.234407_7… | 0 | Advanced DNS tunneling VPN for censorship bypass |
-| 2026-10-09 11:15:06 | [aiyou](https://aur.archlinux.org/packages/aiyou) |  |  | Export, maintain and analyze all your AI coding-agent chat history in one git-v… |
+| 2026-10-09 11:26:24 | [zotero-pdf2zh](https://aur.archlinux.org/packages/zotero-pdf2zh) | 4.1.7-1 | 0 | Local translation server for the Zotero PDF2zh plugin (pdf2zh / pdf2zh_next) |
+| 2026-10-09 11:37:56 | [gophie-bin](https://aur.archlinux.org/packages/gophie-bin) | 1.1-1 | 0 | A modern Gopher client (prebuilt Linux binary) |
+| 2026-10-09 11:40:10 | [tutabridge-desktop-bin](https://aur.archlinux.org/packages/tutabridge-desktop-bin) | 0.1.0rc13-1 | 0 | Local IMAP/SMTP bridge for Tuta encrypted email (prebuilt desktop app) |
+| 2026-10-09 11:40:17 | [tutabridge-desktop-git](https://aur.archlinux.org/packages/tutabridge-desktop-git) | 0.r0.0000000-1 | 0 | Local IMAP/SMTP bridge for Tuta encrypted email (desktop app) |
+| 2026-10-09 11:48:59 | [tmxr-bin](https://aur.archlinux.org/packages/tmxr-bin) | 0.2.4-1 | 0 | tmux-style terminal multiplexer for Linux, macOS and Windows (binary release) |
+| 2026-10-09 12:09:29 | [sep](https://aur.archlinux.org/packages/sep) | 1.4.1.r1.g93b3ac5-1 | 0 | Python and C library for source extraction and photometry |
+| 2026-10-09 12:19:44 | [freeturn-desktop-git](https://aur.archlinux.org/packages/freeturn-desktop-git) |  |  | FreeTurn VPN client - git build |
 
 ## Data source
 
