@@ -12,20 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 01:20 UTC
+## Latest list — 2026-10-09 02:20 UTC
 
-New packages created between 2026-10-09 00:19 UTC and 2026-10-09 01:20 UTC.
+New packages created between 2026-10-09 01:20 UTC and 2026-10-09 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-09T01-20-10-051572Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-09T02-20-57-144921Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 00:20:10 | [neboto-bin](https://aur.archlinux.org/packages/neboto-bin) | 0.2.1-1 | 1 | A fast, keyboard-driven terminal UI for browsing AWS |
-| 2026-10-09 00:40:36 | [ecsterm-bin](https://aur.archlinux.org/packages/ecsterm-bin) | 0.1.1-1 | 1 | Execute commands or open a shell on ECS tasks with simple TUI |
-| 2026-10-09 00:48:25 | [pomodoro-time-chamber-bin](https://aur.archlinux.org/packages/pomodoro-time-chamber-bin) | 1.1.0-1 | 1 | A terminal pomodoro timer with a task list, written in Rust with ratatui. It is… |
-| 2026-10-09 00:54:34 | [eusoft-ting-en](https://aur.archlinux.org/packages/eusoft-ting-en) | 26.6.2-1 | 0 | Daily English Listening (每日英语听力) for Linux (Community Repackage) |
-| 2026-10-09 00:57:59 | [wikid-bin](https://aur.archlinux.org/packages/wikid-bin) | 3.2.2-1 | 1 | A feature-rich terminal wikipedia client |
-| 2026-10-09 01:00:28 | [ding-bin](https://aur.archlinux.org/packages/ding-bin) | 0.1.1-1 | 0 | Looping audio notifications for your terminal |
+| 2026-10-09 01:24:35 | [steam-manifest-downloader-terminal-bin](https://aur.archlinux.org/packages/steam-manifest-downloader-terminal-bin) | 1.5.0-1 | 0 | Terminal UI and headless CLI (smd) of Steam Manifest Downloader (precompiled) |
+| 2026-10-09 01:27:33 | [crabseek-bin](https://aur.archlinux.org/packages/crabseek-bin) | 0.2.1-1 | 1 | A fast, keyboard-driven Soulseek client for the terminal |
+| 2026-10-09 01:27:38 | [eusoft-frhelper](https://aur.archlinux.org/packages/eusoft-frhelper) | 13.5.2-1 | 0 | Frhelper (法语助手) - French dictionary software for Linux (Community Repackage) |
+| 2026-10-09 01:27:56 | [eusoft-dehelper](https://aur.archlinux.org/packages/eusoft-dehelper) | 13.5.2-1 | 0 | Dehelper (德语助手) - German dictionary software for Linux (Community Repackage) |
+| 2026-10-09 01:28:18 | [eusoft-eshelper](https://aur.archlinux.org/packages/eusoft-eshelper) | 13.5.2-1 | 0 | Eshelper (西语助手) - Spanish dictionary software for Linux (Community Repackage) |
+| 2026-10-09 01:28:35 | [eusoft-ting-fr](https://aur.archlinux.org/packages/eusoft-ting-fr) | 26.1.1-1 | 0 | Daily French Listening (每日法语听力) for Linux (Community Repackage) |
+| 2026-10-09 01:28:53 | [eusoft-ting-de](https://aur.archlinux.org/packages/eusoft-ting-de) | 26.9.0-1 | 0 | Daily German Listening (每日德语听力) for Linux (Community Repackage) |
+| 2026-10-09 01:29:10 | [eusoft-ting-es](https://aur.archlinux.org/packages/eusoft-ting-es) | 26.6.2-1 | 0 | Daily Spanish Listening (每日西语听力) for Linux (Community Repackage) |
+| 2026-10-09 01:39:24 | [gset](https://aur.archlinux.org/packages/gset) | 3.3.0-1 | 0 | Generic Syntax Extension Tool - write in any language syntax, compile to any la… |
+| 2026-10-09 01:45:07 | [ocd-bin](https://aur.archlinux.org/packages/ocd-bin) | 0.2.4-2 | 0 | CLI for open-compute - self-hosted Cloudflare Workers-compatible platform |
+| 2026-10-09 01:46:35 | [noctalia-legacy-v4](https://aur.archlinux.org/packages/noctalia-legacy-v4) | 4.7.8-1 | 0 | Community-maintained legacy Noctalia v4 desktop shell for Wayland, built with Q… |
 
 ## Data source
 
