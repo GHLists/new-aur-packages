@@ -12,19 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 21:20 UTC
+## Latest list — 2026-10-10 22:19 UTC
 
-New packages created between 2026-10-10 20:20 UTC and 2026-10-10 21:20 UTC.
+New packages created between 2026-10-10 21:20 UTC and 2026-10-10 22:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T21-20-05-719629Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-10T22-19-47-068188Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 20:21:15 | [embellish](https://aur.archlinux.org/packages/embellish) | 1.2.0-1 | 0 | Install Nerd Fonts |
-| 2026-10-10 20:23:20 | [artcraft-launcher](https://aur.archlinux.org/packages/artcraft-launcher) | 0.2.0-1 | 0 | install and launch ArtCraft apps |
-| 2026-10-10 20:33:48 | [bromigos-mirrorlist](https://aur.archlinux.org/packages/bromigos-mirrorlist) | 1-1 | 0 | bromigOS package repository mirrors |
-| 2026-10-10 20:34:02 | [bromigos-keyring](https://aur.archlinux.org/packages/bromigos-keyring) | 0.0.0.r3.g6f8c6e3-1 | 0 | bromigOS package-signing key for pacman |
-| 2026-10-10 20:44:56 | [minisforum-platform-dkms](https://aur.archlinux.org/packages/minisforum-platform-dkms) | 0.2-1 | 0 | Linux platform & hardware monitoring driver for Minisforum UM790 Pro (Venus ser… |
+| 2026-10-10 21:25:30 | [trdc](https://aur.archlinux.org/packages/trdc) | 0.1.1-1 | 0 | Remote desktop client with a built-in AI copilot (RDP/VNC/SSH via a private gua… |
 
 ## Data source
 
