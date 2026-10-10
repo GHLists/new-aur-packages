@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-10T03:28:17Z,runxhq-bin,0.9.1-1,0,"Runx CLI - native governed runtime for agent skills, tools, graphs, and packets."
+2026-10-10T03:35:43Z,chess-analyzer-tui,0.2.2-1,1,"A lightweight chess.com-style analyzer. Runs with any UCI engine. Gets game from file, stdin or clipboard."
+2026-10-10T04:08:51Z,holos-commander-bin,0.17.5-1,1,A Total Commander alternative for the terminal
+2026-10-10T04:18:45Z,cyberterm-bin,,,"GPU terminal for developers: splits and sessions, command blocks, searchable history, AI help, inline images and Lua scripting (prebuilt)"
+2026-10-10T04:18:51Z,cyberterm,,,"GPU terminal for developers: splits and sessions, command blocks, searchable history, AI help, inline images and Lua scripting"

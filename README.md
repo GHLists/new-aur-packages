@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 03:21 UTC
+## Latest list — 2026-10-10 04:21 UTC
 
-New packages created between 2026-10-10 02:21 UTC and 2026-10-10 03:21 UTC.
+New packages created between 2026-10-10 03:21 UTC and 2026-10-10 04:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T03-21-16-500879Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-10T04-21-47-909369Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 02:33:27 | [flowshot-git](https://aur.archlinux.org/packages/flowshot-git) | 0.1.0.r0.g0000000-1 | 0 | Screenshot and annotation tool for Wayland and X11 with mixed-DPI support |
-| 2026-10-10 02:57:15 | [dtask-bin](https://aur.archlinux.org/packages/dtask-bin) | 1.0.0-1 | 1 | A fast, mouse-first terminal task manager |
+| 2026-10-10 03:28:17 | [runxhq-bin](https://aur.archlinux.org/packages/runxhq-bin) | 0.9.1-1 | 0 | Runx CLI - native governed runtime for agent skills, tools, graphs, and packets. |
+| 2026-10-10 03:35:43 | [chess-analyzer-tui](https://aur.archlinux.org/packages/chess-analyzer-tui) | 0.2.2-1 | 1 | A lightweight chess.com-style analyzer. Runs with any UCI engine. Gets game fro… |
+| 2026-10-10 04:08:51 | [holos-commander-bin](https://aur.archlinux.org/packages/holos-commander-bin) | 0.17.5-1 | 1 | A Total Commander alternative for the terminal |
+| 2026-10-10 04:18:45 | [cyberterm-bin](https://aur.archlinux.org/packages/cyberterm-bin) |  |  | GPU terminal for developers: splits and sessions, command blocks, searchable hi… |
+| 2026-10-10 04:18:51 | [cyberterm](https://aur.archlinux.org/packages/cyberterm) |  |  | GPU terminal for developers: splits and sessions, command blocks, searchable hi… |
 
 ## Data source
 
