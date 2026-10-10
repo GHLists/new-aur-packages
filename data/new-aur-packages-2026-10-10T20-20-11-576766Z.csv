@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-10T20:02:48Z,hermes-webui-desktop-bin,0.7.0-1,0,"Cross-platform desktop shell for Hermes WebUI, the web interface for Hermes Agent"
+2026-10-10T20:02:53Z,hermes-webui-desktop-appimage,0.7.0-1,0,"Cross-platform desktop shell for Hermes WebUI, the web interface for Hermes Agent (AppImage)"
+2026-10-10T20:16:01Z,mehshell,0.2.3-1,0,Fast parallel zsh prompt engine for bromigOS

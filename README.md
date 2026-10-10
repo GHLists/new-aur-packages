@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 19:19 UTC
+## Latest list — 2026-10-10 20:20 UTC
 
-New packages created between 2026-10-10 18:19 UTC and 2026-10-10 19:19 UTC.
+New packages created between 2026-10-10 19:19 UTC and 2026-10-10 20:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T19-19-18-0496Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-10T20-20-11-576766Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 18:27:27 | [ryu-bin](https://aur.archlinux.org/packages/ryu-bin) | 0.0.16-1 | 0 | Collection of Qt6 QML plugins for ryu.. (prebuilt) |
-| 2026-10-10 19:05:43 | [ratiomaster.net-bin](https://aur.archlinux.org/packages/ratiomaster.net-bin) | 1.1.0-1 | 0 | Fake the upload and download a BitTorrent tracker sees, without a client (prebu… |
-| 2026-10-10 19:13:17 | [nightforge](https://aur.archlinux.org/packages/nightforge) | 1.0.0-1 | 0 | The night light, your way: on or off, how warm, and when, with its own tray ico… |
+| 2026-10-10 20:02:48 | [hermes-webui-desktop-bin](https://aur.archlinux.org/packages/hermes-webui-desktop-bin) | 0.7.0-1 | 0 | Cross-platform desktop shell for Hermes WebUI, the web interface for Hermes Age… |
+| 2026-10-10 20:02:53 | [hermes-webui-desktop-appimage](https://aur.archlinux.org/packages/hermes-webui-desktop-appimage) | 0.7.0-1 | 0 | Cross-platform desktop shell for Hermes WebUI, the web interface for Hermes Age… |
+| 2026-10-10 20:16:01 | [mehshell](https://aur.archlinux.org/packages/mehshell) | 0.2.3-1 | 0 | Fast parallel zsh prompt engine for bromigOS |
 
 ## Data source
 
