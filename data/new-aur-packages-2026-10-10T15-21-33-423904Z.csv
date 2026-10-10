@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-10-10T14:44:34Z,modelstudio-cli-bin,2.1.0-1,0,"Official Model Studio CLI for AI agent frameworks, exposing models, search, multimodal, and workflows as tool calls"
