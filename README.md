@@ -12,21 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 16:19 UTC
+## Latest list — 2026-10-10 17:19 UTC
 
-New packages created between 2026-10-10 15:21 UTC and 2026-10-10 16:19 UTC.
+New packages created between 2026-10-10 16:19 UTC and 2026-10-10 17:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T16-19-14-517808Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-10T17-19-06-881742Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 15:34:02 | [kcd-indicator](https://aur.archlinux.org/packages/kcd-indicator) | 0.1.0-1 | 0 | System tray indicator and window for the kcd KDE Connect daemon |
-| 2026-10-10 15:37:00 | [envirify-bin](https://aur.archlinux.org/packages/envirify-bin) | 1.0.0-1 | 0 | Material 3 GUI to view and edit every environment variable on your system — Arc… |
-| 2026-10-10 15:37:23 | [envirify](https://aur.archlinux.org/packages/envirify) | 1.0.0-1 | 0 | Material 3 GUI to view and edit every environment variable on your system — Arc… |
-| 2026-10-10 16:01:03 | [mesa-clang-v3-bin](https://aur.archlinux.org/packages/mesa-clang-v3-bin) | 25.0.7.2deb13u1-1 | 0 | Argonforge Clang-built Mesa for x86-64-v3 (prebuilt) |
-| 2026-10-10 16:01:41 | [mesa-clang-v4-bin](https://aur.archlinux.org/packages/mesa-clang-v4-bin) | 25.0.7.2deb13u1-1 | 0 | Argonforge Clang-built Mesa for x86-64-v4 (prebuilt) |
-| 2026-10-10 16:01:47 | [dxvk-clang-v3-bin](https://aur.archlinux.org/packages/dxvk-clang-v3-bin) | 3.1.1-1 | 0 | Argonforge Clang-built DXVK for x86-64-v3 (prebuilt) |
-| 2026-10-10 16:03:32 | [dxvk-clang-v4-bin](https://aur.archlinux.org/packages/dxvk-clang-v4-bin) | 3.1.1-1 | 0 | Argonforge Clang-built DXVK for x86-64-v4 (prebuilt) |
+| 2026-10-10 16:26:02 | [gamescope-builds-clang-v3-bin](https://aur.archlinux.org/packages/gamescope-builds-clang-v3-bin) | 3.16.22-1 | 0 | Argonforge Clang-built gamescope для x86-64-v3 (prebuilt) |
+| 2026-10-10 16:27:03 | [gamescope-builds-clang-v4-bin](https://aur.archlinux.org/packages/gamescope-builds-clang-v4-bin) | 3.16.22-1 | 0 | Argonforge Clang-built gamescope для x86-64-v4 (prebuilt) |
+| 2026-10-10 17:02:53 | [dsh-tauri-desktop-bin](https://aur.archlinux.org/packages/dsh-tauri-desktop-bin) | 0.22.4-2 | 0 | Native desktop application for DeepSeek Harness (official binary) |
 
 ## Data source
 
