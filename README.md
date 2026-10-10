@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 20:20 UTC
+## Latest list — 2026-10-10 21:20 UTC
 
-New packages created between 2026-10-10 19:19 UTC and 2026-10-10 20:20 UTC.
+New packages created between 2026-10-10 20:20 UTC and 2026-10-10 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T20-20-11-576766Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-10T21-20-05-719629Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 20:02:48 | [hermes-webui-desktop-bin](https://aur.archlinux.org/packages/hermes-webui-desktop-bin) | 0.7.0-1 | 0 | Cross-platform desktop shell for Hermes WebUI, the web interface for Hermes Age… |
-| 2026-10-10 20:02:53 | [hermes-webui-desktop-appimage](https://aur.archlinux.org/packages/hermes-webui-desktop-appimage) | 0.7.0-1 | 0 | Cross-platform desktop shell for Hermes WebUI, the web interface for Hermes Age… |
-| 2026-10-10 20:16:01 | [mehshell](https://aur.archlinux.org/packages/mehshell) | 0.2.3-1 | 0 | Fast parallel zsh prompt engine for bromigOS |
+| 2026-10-10 20:21:15 | [embellish](https://aur.archlinux.org/packages/embellish) | 1.2.0-1 | 0 | Install Nerd Fonts |
+| 2026-10-10 20:23:20 | [artcraft-launcher](https://aur.archlinux.org/packages/artcraft-launcher) | 0.2.0-1 | 0 | install and launch ArtCraft apps |
+| 2026-10-10 20:33:48 | [bromigos-mirrorlist](https://aur.archlinux.org/packages/bromigos-mirrorlist) | 1-1 | 0 | bromigOS package repository mirrors |
+| 2026-10-10 20:34:02 | [bromigos-keyring](https://aur.archlinux.org/packages/bromigos-keyring) | 0.0.0.r3.g6f8c6e3-1 | 0 | bromigOS package-signing key for pacman |
+| 2026-10-10 20:44:56 | [minisforum-platform-dkms](https://aur.archlinux.org/packages/minisforum-platform-dkms) | 0.2-1 | 0 | Linux platform & hardware monitoring driver for Minisforum UM790 Pro (Venus ser… |
 
 ## Data source
 

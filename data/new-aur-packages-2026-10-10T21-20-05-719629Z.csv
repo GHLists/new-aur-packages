@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-10T20:21:15Z,embellish,1.2.0-1,0,Install Nerd Fonts
+2026-10-10T20:23:20Z,artcraft-launcher,0.2.0-1,0,install and launch ArtCraft apps
+2026-10-10T20:33:48Z,bromigos-mirrorlist,1-1,0,bromigOS package repository mirrors
+2026-10-10T20:34:02Z,bromigos-keyring,0.0.0.r3.g6f8c6e3-1,0,bromigOS package-signing key for pacman
+2026-10-10T20:44:56Z,minisforum-platform-dkms,0.2-1,0,Linux platform & hardware monitoring driver for Minisforum UM790 Pro (Venus series) with in-kernel CPPC QoS and EC fan control
