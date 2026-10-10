@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 09:21 UTC
+## Latest list — 2026-10-10 10:21 UTC
 
-New packages created between 2026-10-10 08:18 UTC and 2026-10-10 09:21 UTC.
+New packages created between 2026-10-10 09:21 UTC and 2026-10-10 10:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T09-21-11-856438Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-10T10-21-37-366202Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 08:33:17 | [skeptical-updater](https://aur.archlinux.org/packages/skeptical-updater) | 0.0.1-1 | 0 | A manual, conscious update cycle for apt, dnf/yum, pacman/pman and zypper |
+| 2026-10-10 09:54:11 | [vizard-bin](https://aur.archlinux.org/packages/vizard-bin) | 2.4.0-1 | 0 | Unity-based 3D visualization companion for the Basilisk spacecraft simulation f… |
 
 ## Data source
 
