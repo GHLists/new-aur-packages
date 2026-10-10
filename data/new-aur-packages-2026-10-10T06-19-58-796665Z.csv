@@ -1,0 +1,20 @@
+created_at,package,version,votes,description
+2026-10-10T06:07:31Z,spark-webapp-runtime-git,1.8.2.r0.gaf941e0-1,0,"Spark WebApp Runtime, a simple solution for packaging web apps"
+2026-10-10T06:07:37Z,gxde-voice-recorder-git,2.0.1.r0.g4a6549f-1,0,Voice recorder for GXDE
+2026-10-10T06:07:43Z,gxde-reader-git,6.6.2.r0.g3bfc5d1-1,0,"Document viewer for GXDE, a GXDE fork of deepin-reader heavily modified from Deepin's version"
+2026-10-10T06:07:49Z,gxde-font-manager-git,2.0.2.r0.g86e4d40-1,0,GXDE Font Installer is used to install and uninstall font files
+2026-10-10T06:07:55Z,gxde-system-assistant-git,1.0.1.r0.g3268355-1,0,System assistant for GXDE
+2026-10-10T06:08:01Z,gxde-screen-recorder-git,7.0.2.gxde2.r0.ge6a…,0,"Screenshot and screen recording tool for GXDE, a GXDE fork of deepin-screen-recorder heavily modified from Deepin's version"
+2026-10-10T06:08:07Z,gxde-boot-maker-git,3.0.0.r0.g000cdb8-1,0,Boot USB stick maker for GXDE
+2026-10-10T06:08:13Z,gxde-clone-git,1.1.2.r0.g32e1b01-1,0,"Backup and restore tool for GXDE, a GXDE fork of deepin-clone heavily modified from Deepin's version"
+2026-10-10T06:08:19Z,gxde-calendar-git,6.0.3.r0.gd94ef23-1,0,Calendar for GXDE
+2026-10-10T06:08:25Z,gxde-hardware-viewer-git,2.7.0.r0.ge28b9c8-1,0,Hardware and driver information viewer for GXDE
+2026-10-10T06:08:31Z,gxde-ocr-git,2.0.1.r0.g8c9728d-1,0,OCR tool for GXDE
+2026-10-10T06:08:37Z,gxde-dict-git,1.0.2.r0.gb2ca46f-1,0,Youdao dictionary for GXDE
+2026-10-10T06:08:43Z,gxde-editor-git,2.0.8.r0.ge3c336d-1,0,Text editor for GXDE
+2026-10-10T06:08:49Z,gxde-dlna-caster-git,1.5.4.r0.g98176f4-1,0,Cast your desktop screen and audio to DLNA TVs
+2026-10-10T06:08:55Z,gxde-roller-git,6.5.33.r0.ge4da4ca-1,0,"Archive manager for GXDE, a GXDE fork of deepin-compressor heavily modified from Deepin's version"
+2026-10-10T06:09:01Z,gxde-camera-git,6.5.48.r0.g9625ca7-1,0,"Camera for GXDE, a GXDE fork of deepin-camera heavily modified from Deepin's version"
+2026-10-10T06:09:07Z,dde-clipboard-git,6.6.2.r0.g76a0e73-1,0,"Clipboard manager for GXDE, a GXDE fork of dde-clipboard heavily modified from Deepin's version"
+2026-10-10T06:09:13Z,gxde-downloader-neo-git,1.1.6.r0.g13b585a-1,0,Download manager for GXDE based on AriaNG and aria2
+2026-10-10T06:09:19Z,gxde-filetransfer-git,1.2.1.r0.g65a30bd-1,0,GXDE file transfer client
