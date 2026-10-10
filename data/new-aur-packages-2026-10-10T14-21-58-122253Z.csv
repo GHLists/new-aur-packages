@@ -1,0 +1,11 @@
+created_at,package,version,votes,description
+2026-10-10T13:36:53Z,sysc-clipboard,0.1.2-1,0,Encrypted clipboard history daemon for sysc-shell
+2026-10-10T13:37:42Z,sysc-notify,0.1.0-1,0,Freedesktop notification daemon for sysc-shell
+2026-10-10T13:38:00Z,sysc-tray,0.1.1-1,0,StatusNotifierItem and DBusMenu tray daemon for sysc-shell
+2026-10-10T13:38:18Z,sysc-lock,0.1.0-1,0,Wayland session locker for Niri with PAM authentication
+2026-10-10T13:38:36Z,sysc-terminal,0.1.0-1,0,Live terminal-art wallpapers for Niri
+2026-10-10T13:38:54Z,sysc-launch,0.2.0-1,0,Application discovery and launcher diagnostic CLI for Niri
+2026-10-10T13:39:13Z,sysc-shell,0.1.0-1,0,"Desktop shell for Niri with bars, panels and settings"
+2026-10-10T13:39:31Z,sysc-plugins-git,20261010.r495.g018a…,0,Official plugins for sysc-shell (development version)
+2026-10-10T14:06:42Z,linux-sp7,7.2.9.arch1-1,0,The Linux (Surface Pro 7) kernel and modules
+2026-10-10T14:06:42Z,linux-sp7-headers,7.2.9.arch1-1,0,Headers and scripts for building modules for the Linux (Surface Pro 7) kernel
