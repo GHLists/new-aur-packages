@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 18:19 UTC
+## Latest list — 2026-10-10 19:19 UTC
 
-New packages created between 2026-10-10 17:19 UTC and 2026-10-10 18:19 UTC.
+New packages created between 2026-10-10 18:19 UTC and 2026-10-10 19:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T18-19-55-42207Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-10T19-19-18-0496Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 17:44:40 | [do-not-redeem](https://aur.archlinux.org/packages/do-not-redeem) | 0.1.0-1 | 0 | Co-op comedy game: run a scam call center with friends and talk to AI victims b… |
-| 2026-10-10 18:06:37 | [stillalive-c-git](https://aur.archlinux.org/packages/stillalive-c-git) | r9.g140ef0e-1 | 0 | Terminal recreation of the Portal end credits sequence written in C |
-| 2026-10-10 18:06:41 | [token-monitor-bin](https://aur.archlinux.org/packages/token-monitor-bin) | 0.68.0-1 | 0 | Real-time token, cost, and AI limits widget with multi-device sync for Claude C… |
+| 2026-10-10 18:27:27 | [ryu-bin](https://aur.archlinux.org/packages/ryu-bin) | 0.0.16-1 | 0 | Collection of Qt6 QML plugins for ryu.. (prebuilt) |
+| 2026-10-10 19:05:43 | [ratiomaster.net-bin](https://aur.archlinux.org/packages/ratiomaster.net-bin) | 1.1.0-1 | 0 | Fake the upload and download a BitTorrent tracker sees, without a client (prebu… |
+| 2026-10-10 19:13:17 | [nightforge](https://aur.archlinux.org/packages/nightforge) | 1.0.0-1 | 0 | The night light, your way: on or off, how warm, and when, with its own tray ico… |
 
 ## Data source
 
