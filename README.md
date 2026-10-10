@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 07:21 UTC
+## Latest list — 2026-10-10 08:18 UTC
 
-New packages created between 2026-10-10 06:19 UTC and 2026-10-10 07:21 UTC.
+New packages created between 2026-10-10 07:21 UTC and 2026-10-10 08:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T07-21-02-461345Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-10T08-18-53-093035Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 06:21:48 | [fibertools-rs](https://aur.archlinux.org/packages/fibertools-rs) | 0.13.1-1 | 0 | Fiber-seq toolkit for creating and interacting with Fiber-seq BAM files |
-| 2026-10-10 06:21:59 | [fibertools-rs-bin](https://aur.archlinux.org/packages/fibertools-rs-bin) | 0.13.1-1 | 0 | Fiber-seq toolkit for creating and interacting with Fiber-seq BAM files |
-| 2026-10-10 06:35:35 | [cross-cleaner](https://aur.archlinux.org/packages/cross-cleaner) | 2.0.4.2-1 | 1 | Addon-style system cleanup tool that removes temporary files, cache and other s… |
-| 2026-10-10 06:52:42 | [rawmakase](https://aur.archlinux.org/packages/rawmakase) | 0.2.3-1 | 0 | Lightroom-compatible RAW photo editor |
-| 2026-10-10 07:17:05 | [fcitx5-misstype-git](https://aur.archlinux.org/packages/fcitx5-misstype-git) |  |  | Offline, fuzzy Zhuyin input method for fcitx5 |
+| 2026-10-10 07:49:33 | [ultra-9000](https://aur.archlinux.org/packages/ultra-9000) | 0.1.0-1 | 0 | Agent harness with native Alacritty terminals in a Tauri/Svelte interface |
+| 2026-10-10 07:49:47 | [ultra-9000-bin](https://aur.archlinux.org/packages/ultra-9000-bin) | 0.1.0-1 | 0 | Agent harness with native Alacritty terminals in a Tauri/Svelte interface (preb… |
 
 ## Data source
 
