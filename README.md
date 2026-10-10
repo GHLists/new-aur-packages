@@ -12,22 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 00:20 UTC
+## Latest list — 2026-10-10 02:21 UTC
 
-New packages created between 2026-10-09 23:20 UTC and 2026-10-10 00:20 UTC.
+New packages created between 2026-10-10 01:21 UTC and 2026-10-10 02:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T00-20-26-43821Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-10T02-21-16-209586Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 23:24:02 | [gxde-music-git](https://aur.archlinux.org/packages/gxde-music-git) | 4.0.1.r0.gd1a2fe2-1 | 0 | GXDE music player |
-| 2026-10-09 23:33:44 | [rustatio-bin](https://aur.archlinux.org/packages/rustatio-bin) | 2.11.0-2 | 0 | Modern cross-platform BitTorrent ratio management tool that emulates popular to… |
-| 2026-10-09 23:35:58 | [openlogi](https://aur.archlinux.org/packages/openlogi) | 0.8.13-1 | 0 | Local-first companion for Logitech HID++ peripherals (native alternative to Log… |
-| 2026-10-09 23:36:28 | [gxde-log-viewer-git](https://aur.archlinux.org/packages/gxde-log-viewer-git) | 6.5.42.r0.gb33fb6b-1 | 0 | A system log viewer forked from deepin-log-viewer with GXDE adaption |
-| 2026-10-09 23:48:57 | [zondd-git](https://aur.archlinux.org/packages/zondd-git) | r10.3b3c60b-1 | 0 | SSH-authenticated operations with command policies and manual approval |
-| 2026-10-09 23:49:59 | [tfm-bin](https://aur.archlinux.org/packages/tfm-bin) | 1.0.0-1 | 1 | 🖱️ Modern mouse-first terminal file manager |
-| 2026-10-09 23:59:17 | [gxde-image-viewer-git](https://aur.archlinux.org/packages/gxde-image-viewer-git) | 1.7.5.r0.ga514245-1 | 0 | Image viewer for GXDE |
-| 2026-10-10 00:10:38 | [creativecraft-bin](https://aur.archlinux.org/packages/creativecraft-bin) | 0.1.6-1 | 0 | One home for open-source creative apps: installer, cloud sync and an AI assista… |
+| 2026-10-10 01:35:43 | [flowshot-bin](https://aur.archlinux.org/packages/flowshot-bin) | 0.1.0-1 | 0 | Screenshot and annotation tool for Wayland and X11 with mixed-DPI support (preb… |
+| 2026-10-10 01:42:56 | [oh-my-pi-grammars-bin](https://aur.archlinux.org/packages/oh-my-pi-grammars-bin) | 1-1 | 1 | Prebuilt WebAssembly tree-sitter grammars for oh-my-pi |
+| 2026-10-10 01:55:06 | [goboscript-git](https://aur.archlinux.org/packages/goboscript-git) | v3.2.1.r560.90da472… | 0 | goboscript is the Scratch compiler |
 
 ## Data source
 
