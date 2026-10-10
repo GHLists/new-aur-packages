@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-10T17:44:40Z,do-not-redeem,0.1.0-1,0,Co-op comedy game: run a scam call center with friends and talk to AI victims by voice (join-only build)
+2026-10-10T18:06:37Z,stillalive-c-git,r9.g140ef0e-1,0,Terminal recreation of the Portal end credits sequence written in C
+2026-10-10T18:06:41Z,token-monitor-bin,0.68.0-1,0,"Real-time token, cost, and AI limits widget with multi-device sync for Claude Code, Codex, OpenCode and more"
