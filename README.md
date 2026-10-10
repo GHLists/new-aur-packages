@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 10:21 UTC
+## Latest list — 2026-10-10 11:21 UTC
 
-New packages created between 2026-10-10 09:21 UTC and 2026-10-10 10:21 UTC.
+New packages created between 2026-10-10 10:21 UTC and 2026-10-10 11:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T10-21-37-366202Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-10T11-21-39-099634Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 09:54:11 | [vizard-bin](https://aur.archlinux.org/packages/vizard-bin) | 2.4.0-1 | 0 | Unity-based 3D visualization companion for the Basilisk spacecraft simulation f… |
+| 2026-10-10 10:40:35 | [windinput-bin](https://aur.archlinux.org/packages/windinput-bin) | 0.125.0-1 | 0 | 基于 Debian 发行包重打包的清风输入法 Fcitx5 Linux 预览版 |
+| 2026-10-10 10:59:18 | [archype-vicinae-ext](https://aur.archlinux.org/packages/archype-vicinae-ext) | 0.1.0-1 | 0 | Vicinae commands for Archype (Brave links with containers) |
 
 ## Data source
 
