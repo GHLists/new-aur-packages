@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-10-10T08:33:17Z,skeptical-updater,0.0.1-1,0,"A manual, conscious update cycle for apt, dnf/yum, pacman/pman and zypper"
