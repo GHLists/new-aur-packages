@@ -12,33 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 06:19 UTC
+## Latest list — 2026-10-10 07:21 UTC
 
-New packages created between 2026-10-10 05:19 UTC and 2026-10-10 06:19 UTC.
+New packages created between 2026-10-10 06:19 UTC and 2026-10-10 07:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T06-19-58-796665Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-10T07-21-02-461345Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 06:07:31 | [spark-webapp-runtime-git](https://aur.archlinux.org/packages/spark-webapp-runtime-git) | 1.8.2.r0.gaf941e0-1 | 0 | Spark WebApp Runtime, a simple solution for packaging web apps |
-| 2026-10-10 06:07:37 | [gxde-voice-recorder-git](https://aur.archlinux.org/packages/gxde-voice-recorder-git) | 2.0.1.r0.g4a6549f-1 | 0 | Voice recorder for GXDE |
-| 2026-10-10 06:07:43 | [gxde-reader-git](https://aur.archlinux.org/packages/gxde-reader-git) | 6.6.2.r0.g3bfc5d1-1 | 0 | Document viewer for GXDE, a GXDE fork of deepin-reader heavily modified from De… |
-| 2026-10-10 06:07:49 | [gxde-font-manager-git](https://aur.archlinux.org/packages/gxde-font-manager-git) | 2.0.2.r0.g86e4d40-1 | 0 | GXDE Font Installer is used to install and uninstall font files |
-| 2026-10-10 06:07:55 | [gxde-system-assistant-git](https://aur.archlinux.org/packages/gxde-system-assistant-git) | 1.0.1.r0.g3268355-1 | 0 | System assistant for GXDE |
-| 2026-10-10 06:08:01 | [gxde-screen-recorder-git](https://aur.archlinux.org/packages/gxde-screen-recorder-git) | 7.0.2.gxde2.r0.ge6a… | 0 | Screenshot and screen recording tool for GXDE, a GXDE fork of deepin-screen-rec… |
-| 2026-10-10 06:08:07 | [gxde-boot-maker-git](https://aur.archlinux.org/packages/gxde-boot-maker-git) | 3.0.0.r0.g000cdb8-1 | 0 | Boot USB stick maker for GXDE |
-| 2026-10-10 06:08:13 | [gxde-clone-git](https://aur.archlinux.org/packages/gxde-clone-git) | 1.1.2.r0.g32e1b01-1 | 0 | Backup and restore tool for GXDE, a GXDE fork of deepin-clone heavily modified… |
-| 2026-10-10 06:08:19 | [gxde-calendar-git](https://aur.archlinux.org/packages/gxde-calendar-git) | 6.0.3.r0.gd94ef23-1 | 0 | Calendar for GXDE |
-| 2026-10-10 06:08:25 | [gxde-hardware-viewer-git](https://aur.archlinux.org/packages/gxde-hardware-viewer-git) | 2.7.0.r0.ge28b9c8-1 | 0 | Hardware and driver information viewer for GXDE |
-| 2026-10-10 06:08:31 | [gxde-ocr-git](https://aur.archlinux.org/packages/gxde-ocr-git) | 2.0.1.r0.g8c9728d-1 | 0 | OCR tool for GXDE |
-| 2026-10-10 06:08:37 | [gxde-dict-git](https://aur.archlinux.org/packages/gxde-dict-git) | 1.0.2.r0.gb2ca46f-1 | 0 | Youdao dictionary for GXDE |
-| 2026-10-10 06:08:43 | [gxde-editor-git](https://aur.archlinux.org/packages/gxde-editor-git) | 2.0.8.r0.ge3c336d-1 | 0 | Text editor for GXDE |
-| 2026-10-10 06:08:49 | [gxde-dlna-caster-git](https://aur.archlinux.org/packages/gxde-dlna-caster-git) | 1.5.4.r0.g98176f4-1 | 0 | Cast your desktop screen and audio to DLNA TVs |
-| 2026-10-10 06:08:55 | [gxde-roller-git](https://aur.archlinux.org/packages/gxde-roller-git) | 6.5.33.r0.ge4da4ca-1 | 0 | Archive manager for GXDE, a GXDE fork of deepin-compressor heavily modified fro… |
-| 2026-10-10 06:09:01 | [gxde-camera-git](https://aur.archlinux.org/packages/gxde-camera-git) | 6.5.48.r0.g9625ca7-1 | 0 | Camera for GXDE, a GXDE fork of deepin-camera heavily modified from Deepin's ve… |
-| 2026-10-10 06:09:07 | [dde-clipboard-git](https://aur.archlinux.org/packages/dde-clipboard-git) | 6.6.2.r0.g76a0e73-1 | 0 | Clipboard manager for GXDE, a GXDE fork of dde-clipboard heavily modified from… |
-| 2026-10-10 06:09:13 | [gxde-downloader-neo-git](https://aur.archlinux.org/packages/gxde-downloader-neo-git) | 1.1.6.r0.g13b585a-1 | 0 | Download manager for GXDE based on AriaNG and aria2 |
-| 2026-10-10 06:09:19 | [gxde-filetransfer-git](https://aur.archlinux.org/packages/gxde-filetransfer-git) | 1.2.1.r0.g65a30bd-1 | 0 | GXDE file transfer client |
+| 2026-10-10 06:21:48 | [fibertools-rs](https://aur.archlinux.org/packages/fibertools-rs) | 0.13.1-1 | 0 | Fiber-seq toolkit for creating and interacting with Fiber-seq BAM files |
+| 2026-10-10 06:21:59 | [fibertools-rs-bin](https://aur.archlinux.org/packages/fibertools-rs-bin) | 0.13.1-1 | 0 | Fiber-seq toolkit for creating and interacting with Fiber-seq BAM files |
+| 2026-10-10 06:35:35 | [cross-cleaner](https://aur.archlinux.org/packages/cross-cleaner) | 2.0.4.2-1 | 1 | Addon-style system cleanup tool that removes temporary files, cache and other s… |
+| 2026-10-10 06:52:42 | [rawmakase](https://aur.archlinux.org/packages/rawmakase) | 0.2.3-1 | 0 | Lightroom-compatible RAW photo editor |
+| 2026-10-10 07:17:05 | [fcitx5-misstype-git](https://aur.archlinux.org/packages/fcitx5-misstype-git) |  |  | Offline, fuzzy Zhuyin input method for fcitx5 |
 
 ## Data source
 
