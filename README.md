@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 12:19 UTC
+## Latest list — 2026-10-10 13:20 UTC
 
-New packages created between 2026-10-10 11:21 UTC and 2026-10-10 12:19 UTC.
+New packages created between 2026-10-10 12:19 UTC and 2026-10-10 13:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T12-19-03-80001Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-10T13-20-03-883799Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 11:29:39 | [musiqt-git](https://aur.archlinux.org/packages/musiqt-git) | 3.4.3.r0.g3a0f067-1 | 0 | Simple and cross-platform music player |
-| 2026-10-10 11:43:57 | [projectm-presets-m0rf30-git](https://aur.archlinux.org/packages/projectm-presets-m0rf30-git) | 1.08c56dc-1 | 0 | Preset pack for projectM - M0Rf30's curated MilkDrop 2 presets with warp/comp s… |
+| 2026-10-10 13:05:02 | [qtgmc-6ui](https://aur.archlinux.org/packages/qtgmc-6ui) | 0.1.0-1 | 0 | QTGMC deinterlacer for archival video (VapourSynth) with a Qt6 GUI |
 
 ## Data source
 
