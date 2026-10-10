@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-10T22:46:28Z,photosuite-bin,0.9.16-1,0,"A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility (prebuilt AppImage)"
+2026-10-10T22:46:50Z,energygraph-git,r27.gc544eda-1,0,"Graphs the power use of a host inside a text terminal, using intel-rapl data from the /sys filesystem. Uses RAPL interface in /sys to determine the energy use of different zones, and graphs it in a text terminal."
+2026-10-10T23:05:18Z,bollworm,0.1.0-1,0,Turn an OpenAPI document into a Word reference manual
