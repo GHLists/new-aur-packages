@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-09T23:24:02Z,gxde-music-git,4.0.1.r0.gd1a2fe2-1,0,GXDE music player
+2026-10-09T23:33:44Z,rustatio-bin,2.11.0-2,0,Modern cross-platform BitTorrent ratio management tool that emulates popular torrent clients (prebuilt)
+2026-10-09T23:35:58Z,openlogi,0.8.13-1,0,Local-first companion for Logitech HID++ peripherals (native alternative to Logitech Options+)
+2026-10-09T23:36:28Z,gxde-log-viewer-git,6.5.42.r0.gb33fb6b-1,0,A system log viewer forked from deepin-log-viewer with GXDE adaption
+2026-10-09T23:48:57Z,zondd-git,r10.3b3c60b-1,0,SSH-authenticated operations with command policies and manual approval
+2026-10-09T23:49:59Z,tfm-bin,1.0.0-1,1,🖱️ Modern mouse-first terminal file manager
+2026-10-09T23:59:17Z,gxde-image-viewer-git,1.7.5.r0.ga514245-1,0,Image viewer for GXDE
+2026-10-10T00:10:38Z,creativecraft-bin,0.1.6-1,0,"One home for open-source creative apps: installer, cloud sync and an AI assistant over MCP"
