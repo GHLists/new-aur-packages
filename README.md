@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 19:20 UTC
+## Latest list — 2026-10-11 20:21 UTC
 
-New packages created between 2026-10-11 18:19 UTC and 2026-10-11 19:20 UTC.
+New packages created between 2026-10-11 19:20 UTC and 2026-10-11 20:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-11T19-20-35-48076Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-11T20-21-28-741064Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-11 18:48:04 | [go-carpet-bin](https://aur.archlinux.org/packages/go-carpet-bin) | 1.10.0-1 | 1 | Tool for show test coverage in terminal for Go source files |
-| 2026-10-11 18:58:22 | [xdg-desktop-portal-credentialsd](https://aur.archlinux.org/packages/xdg-desktop-portal-credentialsd) | 1.22.1-1 | 0 | Desktop integration portals for sandboxed apps with experimental credentials po… |
-| 2026-10-11 18:58:30 | [slick-mod](https://aur.archlinux.org/packages/slick-mod) | 2.0.129-1 | 0 | The most powerful and versatile Slack client mod (uses system Electron) |
-| 2026-10-11 19:09:30 | [kolimi-server](https://aur.archlinux.org/packages/kolimi-server) | 0.1.2-1 | 0 | Pure-Rust, single-binary self-hosted cloud: files, WebDAV, CalDAV/CardDAV, sync |
+| 2026-10-11 19:24:02 | [kiekje-bin](https://aur.archlinux.org/packages/kiekje-bin) | 0.1.0alpha4-1 | 0 | Capture, mark up and keep screenshots (release binary) |
+| 2026-10-11 19:24:11 | [kiekje](https://aur.archlinux.org/packages/kiekje) | 0.1.0alpha4-1 | 0 | Capture, mark up and keep screenshots |
 
 ## Data source
 
