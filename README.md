@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 17:19 UTC
+## Latest list — 2026-10-11 18:19 UTC
 
-New packages created between 2026-10-11 16:19 UTC and 2026-10-11 17:19 UTC.
+New packages created between 2026-10-11 17:19 UTC and 2026-10-11 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-11T17-19-16-075111Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-11T18-19-05-024839Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-11 16:25:46 | [tvnoms-proxy](https://aur.archlinux.org/packages/tvnoms-proxy) | 2.0.0-1 | 0 | TV Noms Proxy Service - runs as a per-user systemd service |
+| 2026-10-11 18:10:51 | [drag](https://aur.archlinux.org/packages/drag) | 1.1-1 | 0 | A minimal X11 drag-and-drop utility. |
+| 2026-10-11 18:16:22 | [drag-git](https://aur.archlinux.org/packages/drag-git) | 1.1.r0.gc952132-1 | 0 | A minimal X11 drag-and-drop utility. |
 
 ## Data source
 
