@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 18:19 UTC
+## Latest list — 2026-10-11 19:20 UTC
 
-New packages created between 2026-10-11 17:19 UTC and 2026-10-11 18:19 UTC.
+New packages created between 2026-10-11 18:19 UTC and 2026-10-11 19:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-11T18-19-05-024839Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-11T19-20-35-48076Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-11 18:10:51 | [drag](https://aur.archlinux.org/packages/drag) | 1.1-1 | 0 | A minimal X11 drag-and-drop utility. |
-| 2026-10-11 18:16:22 | [drag-git](https://aur.archlinux.org/packages/drag-git) | 1.1.r0.gc952132-1 | 0 | A minimal X11 drag-and-drop utility. |
+| 2026-10-11 18:48:04 | [go-carpet-bin](https://aur.archlinux.org/packages/go-carpet-bin) | 1.10.0-1 | 1 | Tool for show test coverage in terminal for Go source files |
+| 2026-10-11 18:58:22 | [xdg-desktop-portal-credentialsd](https://aur.archlinux.org/packages/xdg-desktop-portal-credentialsd) | 1.22.1-1 | 0 | Desktop integration portals for sandboxed apps with experimental credentials po… |
+| 2026-10-11 18:58:30 | [slick-mod](https://aur.archlinux.org/packages/slick-mod) | 2.0.129-1 | 0 | The most powerful and versatile Slack client mod (uses system Electron) |
+| 2026-10-11 19:09:30 | [kolimi-server](https://aur.archlinux.org/packages/kolimi-server) | 0.1.2-1 | 0 | Pure-Rust, single-binary self-hosted cloud: files, WebDAV, CalDAV/CardDAV, sync |
 
 ## Data source
 

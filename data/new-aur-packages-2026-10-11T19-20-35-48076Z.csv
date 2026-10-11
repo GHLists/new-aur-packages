@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-11T18:48:04Z,go-carpet-bin,1.10.0-1,1,Tool for show test coverage in terminal for Go source files
+2026-10-11T18:58:22Z,xdg-desktop-portal-credentialsd,1.22.1-1,0,Desktop integration portals for sandboxed apps with experimental credentials portal
+2026-10-11T18:58:30Z,slick-mod,2.0.129-1,0,The most powerful and versatile Slack client mod (uses system Electron)
+2026-10-11T19:09:30Z,kolimi-server,0.1.2-1,0,"Pure-Rust, single-binary self-hosted cloud: files, WebDAV, CalDAV/CardDAV, sync"
