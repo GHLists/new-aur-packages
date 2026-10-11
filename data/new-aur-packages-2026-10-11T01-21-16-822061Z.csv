@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-11T00:48:03Z,ccstatus-bin,0.3.1-1,0,Customizable status line formatter for Claude Code CLI (prebuilt binary)
+2026-10-11T00:48:09Z,ccstatus,0.3.1-1,0,Customizable status line formatter for Claude Code CLI
+2026-10-11T00:54:14Z,lsw-bin,0.1.2-1,0,"Linux Subsystem for Windows: Windows applications as native windows, from a KVM guest with a paravirtual GPU"
+2026-10-11T01:07:15Z,bawkseek-bin,0.1.3-1,0,Soulseek client and audio player
