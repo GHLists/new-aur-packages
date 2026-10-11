@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-11T15:19:53Z,xsetwall,1.0.3-1,0,A minimal utility for setting wallpapers in X11 environment
+2026-10-11T15:28:53Z,tanin-bin,0.1.1-1,0,A TUI ambient sound generator written in Rust
+2026-10-11T15:30:56Z,xsetwall-bin,1.0.3-1,0,A minimal utility for setting wallpapers in X11 environment
+2026-10-11T15:34:56Z,xsetwall-git,1.0.3.r0.g9c42ca1-1,0,A minimal utility for setting wallpapers in X11 environment
+2026-10-11T15:51:52Z,melfpaint,1.2.0-1,0,"Editor de imágenes de escritorio con capas, pinceles y formas"
+2026-10-11T15:52:55Z,fcitx5-misstype-bin,0.4.3-1,0,"Offline, fuzzy Zhuyin input method for fcitx5 (prebuilt)"
+2026-10-11T15:52:59Z,ibus-misstype-bin,0.4.3-1,0,"Offline, fuzzy Zhuyin input method for IBus (prebuilt)"
+2026-10-11T15:57:40Z,libfprint-tod-goodix-55a2,0.1.0-1,0,Goodix 27c6:55a2 fingerprint reader support for fprintd (libfprint TOD driver + bridge)
