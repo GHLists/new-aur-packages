@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 13:21 UTC
+## Latest list — 2026-10-11 14:20 UTC
 
-New packages created between 2026-10-11 12:22 UTC and 2026-10-11 13:21 UTC.
+New packages created between 2026-10-11 13:21 UTC and 2026-10-11 14:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-11T13-21-52-872819Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-11T14-20-45-441438Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-11 12:39:40 | [anyps5](https://aur.archlinux.org/packages/anyps5) | 0.1.1-1 | 0 | Tool for porting PS5 executables to Linux and Windows |
-| 2026-10-11 12:39:51 | [anyps5-git](https://aur.archlinux.org/packages/anyps5-git) | 0.1.1.r4590.g1e8fff… | 0 | Tool for porting PS5 executables to Linux and Windows (Git version) |
-| 2026-10-11 13:14:55 | [opensnitch-zenity](https://aur.archlinux.org/packages/opensnitch-zenity) | 0.2.0-1 | 0 | Lightweight zenity prompt UI for the OpenSnitch daemon (unofficial) |
+| 2026-10-11 13:45:27 | [appimage-manager-bin](https://aur.archlinux.org/packages/appimage-manager-bin) | 1.1.0-1 | 0 | Scan for AppImages and create and maintain their desktop launchers |
+| 2026-10-11 14:14:20 | [appimage-manager-gtk](https://aur.archlinux.org/packages/appimage-manager-gtk) | 1.1.0-1 | 0 | Scan for AppImages and create and maintain their desktop launchers |
+| 2026-10-11 14:14:39 | [appimage-manager-gtk-bin](https://aur.archlinux.org/packages/appimage-manager-gtk-bin) | 1.1.0-1 | 0 | Scan for AppImages and create and maintain their desktop launchers |
 
 ## Data source
 
