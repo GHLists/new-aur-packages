@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-11T21:31:56Z,dota2-minify-git,2rc5.r11.g0da527d-1,0,Dota 2 Mod Patcher & Toolkit (latest git source build)
+2026-10-11T21:49:11Z,enclavectl-git,r1.1c1b3b6-1,0,Control an Enclave CineHome Smart Center over Bluetooth
+2026-10-11T21:52:36Z,pgx-bm25,1.0.0-1,0,Native BM25 ranked full-text index access method for PostgreSQL (bm25_native)
+2026-10-11T22:04:39Z,solidcraft-git,0.2.1.r33.gd8beaed-1,0,vibe coded clean-room reimplementation of Autodesk Fusion (Git HEAD)
+2026-10-11T22:04:56Z,solidcraft,0.2.1-1,0,vibe coded clean-room reimplementation of Autodesk Fusion

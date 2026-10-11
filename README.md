@@ -12,22 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 21:21 UTC
+## Latest list — 2026-10-11 22:20 UTC
 
-New packages created between 2026-10-11 20:21 UTC and 2026-10-11 21:21 UTC.
+New packages created between 2026-10-11 21:21 UTC and 2026-10-11 22:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-11T21-21-40-307389Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-11T22-20-12-435617Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-11 20:21:31 | [bnb-shell](https://aur.archlinux.org/packages/bnb-shell) | 0.5.0-1 | 1 | A fast, cross-platform terminal shell built in Rust with Powerlevel10k aestheti… |
-| 2026-10-11 20:34:12 | [nemo-terminal-shortcuts](https://aur.archlinux.org/packages/nemo-terminal-shortcuts) | 1.0-1 | 0 | Change Nemo Terminal Copy & Paste shortcuts to Ctrl-C and Ctrl-V from defaults |
-| 2026-10-11 20:34:49 | [grunden-work-bin](https://aur.archlinux.org/packages/grunden-work-bin) | 0.17.70-1 | 0 | Grunden Cowork desktop - sovereign AI workbench (prebuilt release) |
-| 2026-10-11 20:49:54 | [neodisk](https://aur.archlinux.org/packages/neodisk) | 2.83.2-1 | 0 | Disk space visualizer with treemap and sunburst views |
-| 2026-10-11 20:50:25 | [neodisk-git](https://aur.archlinux.org/packages/neodisk-git) | 2.83.2.r312.g157200… | 0 | Disk space visualizer with treemap and sunburst views (Git version) |
-| 2026-10-11 20:51:03 | [neodisk-bin](https://aur.archlinux.org/packages/neodisk-bin) | 2.83.2-1 | 0 | Disk space visualizer with treemap and sunburst views (upstream binary) |
-| 2026-10-11 20:51:12 | [tine-outliner](https://aur.archlinux.org/packages/tine-outliner) | 0.7.1-2 | 1 | A fast, local, Logseq-compatible outliner |
-| 2026-10-11 21:02:22 | [blatt-git](https://aur.archlinux.org/packages/blatt-git) | 0.1.0.r21.g7c2ff2e-1 | 0 | Lightweight local RSS and Atom reader |
+| 2026-10-11 21:31:56 | [dota2-minify-git](https://aur.archlinux.org/packages/dota2-minify-git) | 2rc5.r11.g0da527d-1 | 0 | Dota 2 Mod Patcher & Toolkit (latest git source build) |
+| 2026-10-11 21:49:11 | [enclavectl-git](https://aur.archlinux.org/packages/enclavectl-git) | r1.1c1b3b6-1 | 0 | Control an Enclave CineHome Smart Center over Bluetooth |
+| 2026-10-11 21:52:36 | [pgx-bm25](https://aur.archlinux.org/packages/pgx-bm25) | 1.0.0-1 | 0 | Native BM25 ranked full-text index access method for PostgreSQL (bm25_native) |
+| 2026-10-11 22:04:39 | [solidcraft-git](https://aur.archlinux.org/packages/solidcraft-git) | 0.2.1.r33.gd8beaed-1 | 0 | vibe coded clean-room reimplementation of Autodesk Fusion (Git HEAD) |
+| 2026-10-11 22:04:56 | [solidcraft](https://aur.archlinux.org/packages/solidcraft) | 0.2.1-1 | 0 | vibe coded clean-room reimplementation of Autodesk Fusion |
 
 ## Data source
 
