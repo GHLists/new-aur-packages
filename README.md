@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 08:21 UTC
+## Latest list — 2026-10-11 09:20 UTC
 
-New packages created between 2026-10-11 07:18 UTC and 2026-10-11 08:21 UTC.
+New packages created between 2026-10-11 08:21 UTC and 2026-10-11 09:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-11T08-21-32-298499Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-11T09-20-48-097662Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-11 07:34:48 | [agy-switch-bin](https://aur.archlinux.org/packages/agy-switch-bin) | 4.10.2-1 | 0 | AntiGravity Switch: manage Antigravity accounts, quotas and local usage on macO… |
-| 2026-10-11 07:56:26 | [python-pyvoy](https://aur.archlinux.org/packages/python-pyvoy) | 1.3.0-1 | 1 | A Python application server implemented in Envoy. |
-| 2026-10-11 08:06:36 | [driftmusic-git](https://aur.archlinux.org/packages/driftmusic-git) | r22.8a049b6-1 | 0 | Music streaming client for YouTube Music with Vim keybinds |
-| 2026-10-11 08:21:07 | [rea-agents](https://aur.archlinux.org/packages/rea-agents) |  |  | Reverse engineer anything from your terminal or agent with one CLI and MCP serv… |
+| 2026-10-11 08:30:19 | [python-connectrpc](https://aur.archlinux.org/packages/python-connectrpc) | 0.12.1-1 | 1 | Server and client runtime library for Connect RPC. |
+| 2026-10-11 09:02:10 | [ulanzi-deck-bin](https://aur.archlinux.org/packages/ulanzi-deck-bin) | 0.4.0-1 | 0 | Control and configure the Ulanzi Stream Controller D200 (keys, pages, actions,… |
 
 ## Data source
 
