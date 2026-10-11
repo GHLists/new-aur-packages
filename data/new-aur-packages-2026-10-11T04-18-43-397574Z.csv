@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-11T03:23:04Z,newscid,1.1.0-1,0,Modern Chess Information Database (Scid vs. PC Rewrite)
+2026-10-11T03:23:59Z,bromigos-lab,0.1.0-1,0,"Standalone homelab console, adapters, model catalog and reviewed provisioning"
+2026-10-11T03:24:48Z,attackgraph-bin,1.0.0-1,0,"Graph-first application security testing platform — crawl, graph, analyze, report"
+2026-10-11T03:37:37Z,lumine-capture-bin,0.2.0-1,0,Screenshot and annotation tool for Wayland with built-in OCR (prebuilt)
+2026-10-11T04:05:48Z,fcitx5-areca-git,r187.07dc508-1,0,Areca Vietnamese input method for Fcitx5 using the Bamboo engine
+2026-10-11T04:14:16Z,fcitx5-areca-bin,8.0.2-1,0,Areca Vietnamese input method for Fcitx5 using the Bamboo engine
