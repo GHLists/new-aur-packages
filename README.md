@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 05:21 UTC
+## Latest list — 2026-10-11 06:21 UTC
 
-New packages created between 2026-10-11 04:18 UTC and 2026-10-11 05:21 UTC.
+New packages created between 2026-10-11 05:21 UTC and 2026-10-11 06:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-11T05-21-12-981466Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-11T06-21-31-071522Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-11 04:24:59 | [dirhop](https://aur.archlinux.org/packages/dirhop) | 0.1.0-1 | 0 | Tiny keyboard-driven terminal directory navigator |
-| 2026-10-11 05:14:53 | [musictree-git](https://aur.archlinux.org/packages/musictree-git) | r4.068087a-1 | 0 | Converts large music collections keeping the folder structure |
+| 2026-10-11 05:25:57 | [musictree](https://aur.archlinux.org/packages/musictree) | 0.1.0-1 | 0 | Converts large music collections keeping the folder structure |
+| 2026-10-11 06:14:41 | [python-pyqwest](https://aur.archlinux.org/packages/python-pyqwest) | 0.11.0-1 | 1 | A modern, high-performance HTTP client for Python and Rust. |
 
 ## Data source
 
