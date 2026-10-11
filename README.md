@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 14:20 UTC
+## Latest list — 2026-10-11 15:18 UTC
 
-New packages created between 2026-10-11 13:21 UTC and 2026-10-11 14:20 UTC.
+New packages created between 2026-10-11 14:20 UTC and 2026-10-11 15:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-11T14-20-45-441438Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-11T15-18-49-927395Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-11 13:45:27 | [appimage-manager-bin](https://aur.archlinux.org/packages/appimage-manager-bin) | 1.1.0-1 | 0 | Scan for AppImages and create and maintain their desktop launchers |
-| 2026-10-11 14:14:20 | [appimage-manager-gtk](https://aur.archlinux.org/packages/appimage-manager-gtk) | 1.1.0-1 | 0 | Scan for AppImages and create and maintain their desktop launchers |
-| 2026-10-11 14:14:39 | [appimage-manager-gtk-bin](https://aur.archlinux.org/packages/appimage-manager-gtk-bin) | 1.1.0-1 | 0 | Scan for AppImages and create and maintain their desktop launchers |
+| 2026-10-11 15:14:13 | [babry-bin](https://aur.archlinux.org/packages/babry-bin) | 0.1.0-1 | 0 | Smart boundary-aware screenshot tool for Linux Wayland |
 
 ## Data source
 
