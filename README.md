@@ -12,16 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 20:21 UTC
+## Latest list — 2026-10-11 21:21 UTC
 
-New packages created between 2026-10-11 19:20 UTC and 2026-10-11 20:21 UTC.
+New packages created between 2026-10-11 20:21 UTC and 2026-10-11 21:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-11T20-21-28-741064Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-11T21-21-40-307389Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-11 19:24:02 | [kiekje-bin](https://aur.archlinux.org/packages/kiekje-bin) | 0.1.0alpha4-1 | 0 | Capture, mark up and keep screenshots (release binary) |
-| 2026-10-11 19:24:11 | [kiekje](https://aur.archlinux.org/packages/kiekje) | 0.1.0alpha4-1 | 0 | Capture, mark up and keep screenshots |
+| 2026-10-11 20:21:31 | [bnb-shell](https://aur.archlinux.org/packages/bnb-shell) | 0.5.0-1 | 1 | A fast, cross-platform terminal shell built in Rust with Powerlevel10k aestheti… |
+| 2026-10-11 20:34:12 | [nemo-terminal-shortcuts](https://aur.archlinux.org/packages/nemo-terminal-shortcuts) | 1.0-1 | 0 | Change Nemo Terminal Copy & Paste shortcuts to Ctrl-C and Ctrl-V from defaults |
+| 2026-10-11 20:34:49 | [grunden-work-bin](https://aur.archlinux.org/packages/grunden-work-bin) | 0.17.70-1 | 0 | Grunden Cowork desktop - sovereign AI workbench (prebuilt release) |
+| 2026-10-11 20:49:54 | [neodisk](https://aur.archlinux.org/packages/neodisk) | 2.83.2-1 | 0 | Disk space visualizer with treemap and sunburst views |
+| 2026-10-11 20:50:25 | [neodisk-git](https://aur.archlinux.org/packages/neodisk-git) | 2.83.2.r312.g157200… | 0 | Disk space visualizer with treemap and sunburst views (Git version) |
+| 2026-10-11 20:51:03 | [neodisk-bin](https://aur.archlinux.org/packages/neodisk-bin) | 2.83.2-1 | 0 | Disk space visualizer with treemap and sunburst views (upstream binary) |
+| 2026-10-11 20:51:12 | [tine-outliner](https://aur.archlinux.org/packages/tine-outliner) | 0.7.1-2 | 1 | A fast, local, Logseq-compatible outliner |
+| 2026-10-11 21:02:22 | [blatt-git](https://aur.archlinux.org/packages/blatt-git) | 0.1.0.r21.g7c2ff2e-1 | 0 | Lightweight local RSS and Atom reader |
 
 ## Data source
 
