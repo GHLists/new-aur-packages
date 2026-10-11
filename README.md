@@ -12,19 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 22:20 UTC
+## Latest list — 2026-10-11 23:19 UTC
 
-New packages created between 2026-10-11 21:21 UTC and 2026-10-11 22:20 UTC.
+New packages created between 2026-10-11 22:20 UTC and 2026-10-11 23:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-11T22-20-12-435617Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-11T23-19-58-148122Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-11 21:31:56 | [dota2-minify-git](https://aur.archlinux.org/packages/dota2-minify-git) | 2rc5.r11.g0da527d-1 | 0 | Dota 2 Mod Patcher & Toolkit (latest git source build) |
-| 2026-10-11 21:49:11 | [enclavectl-git](https://aur.archlinux.org/packages/enclavectl-git) | r1.1c1b3b6-1 | 0 | Control an Enclave CineHome Smart Center over Bluetooth |
-| 2026-10-11 21:52:36 | [pgx-bm25](https://aur.archlinux.org/packages/pgx-bm25) | 1.0.0-1 | 0 | Native BM25 ranked full-text index access method for PostgreSQL (bm25_native) |
-| 2026-10-11 22:04:39 | [solidcraft-git](https://aur.archlinux.org/packages/solidcraft-git) | 0.2.1.r33.gd8beaed-1 | 0 | vibe coded clean-room reimplementation of Autodesk Fusion (Git HEAD) |
-| 2026-10-11 22:04:56 | [solidcraft](https://aur.archlinux.org/packages/solidcraft) | 0.2.1-1 | 0 | vibe coded clean-room reimplementation of Autodesk Fusion |
+| 2026-10-11 22:39:57 | [paintdotnet-wine-experimental](https://aur.archlinux.org/packages/paintdotnet-wine-experimental) | 5.200.9775.2252-2 | 0 | Experimental Paint.NET with wine specific changes |
 
 ## Data source
 
