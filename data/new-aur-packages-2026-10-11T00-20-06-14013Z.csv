@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-11T00:03:06Z,euro-office-bin,9.3.5_2-1,0,"Office suite for documents, spreadsheets, presentations and PDFs, forked from ONLYOFFICE (upstream binary)"
+2026-10-11T00:05:07Z,rosec-provider-protonpass-bin,0.0.36-1,0,Proton Pass read-only provider for rosec (prebuilt)

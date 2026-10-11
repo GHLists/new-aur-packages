@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 23:19 UTC
+## Latest list — 2026-10-11 00:20 UTC
 
-New packages created between 2026-10-10 22:19 UTC and 2026-10-10 23:19 UTC.
+New packages created between 2026-10-10 23:19 UTC and 2026-10-11 00:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-10T23-19-33-937517Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-11T00-20-06-14013Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 22:46:28 | [photosuite-bin](https://aur.archlinux.org/packages/photosuite-bin) | 0.9.16-1 | 0 | A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PS… |
-| 2026-10-10 22:46:50 | [energygraph-git](https://aur.archlinux.org/packages/energygraph-git) | r27.gc544eda-1 | 0 | Graphs the power use of a host inside a text terminal, using intel-rapl data fr… |
-| 2026-10-10 23:05:18 | [bollworm](https://aur.archlinux.org/packages/bollworm) | 0.1.0-1 | 0 | Turn an OpenAPI document into a Word reference manual |
+| 2026-10-11 00:03:06 | [euro-office-bin](https://aur.archlinux.org/packages/euro-office-bin) | 9.3.5_2-1 | 0 | Office suite for documents, spreadsheets, presentations and PDFs, forked from O… |
+| 2026-10-11 00:05:07 | [rosec-provider-protonpass-bin](https://aur.archlinux.org/packages/rosec-provider-protonpass-bin) | 0.0.36-1 | 0 | Proton Pass read-only provider for rosec (prebuilt) |
 
 ## Data source
 
