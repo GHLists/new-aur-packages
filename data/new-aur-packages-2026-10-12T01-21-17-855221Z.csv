@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-12T00:52:14Z,clauth,0.17.0-1,0,"Claude Code multi-account manager and usage monitor with auto-switch (CLI, TUI, MCP plugin)"
+2026-10-12T01:16:06Z,lactea-bin,0.1.1-1,0,"MilkDrop 2 / projectM-compatible music visualizer on wgpu, with C library (binary release)"
