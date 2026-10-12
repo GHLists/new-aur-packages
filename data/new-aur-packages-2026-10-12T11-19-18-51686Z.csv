@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-12T10:33:30Z,realer-xpad,0.1.1-1,0,"Sticky notes with Markdown and drawing, native on Wayland and Hyprland"
+2026-10-12T10:33:35Z,realer-xpad-bin,0.1.1-1,0,"Sticky notes with Markdown and drawing, native on Wayland and Hyprland (prebuilt binary)"
+2026-10-12T10:50:51Z,suzuri-bin,0.5.4-2,1,"Writing environment built on Zed: Obsidian-style live preview, Typst/LaTeX preview, PDF pane"
+2026-10-12T10:54:51Z,hopper,0.1.0-1,0,A Minecraft mod manager for the terminal
+2026-10-12T10:55:22Z,kubecolor-bin,0.8.0-2,0,A tool to colorize the output of kubectl commands
+2026-10-12T11:09:06Z,z13-tablet-kit,1.0.0-1,0,Posture-aware tablet mode for the ASUS ROG Flow Z13 (GZ302) on KDE Plasma 6 / Wayland

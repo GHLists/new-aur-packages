@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 10:20 UTC
+## Latest list — 2026-10-12 11:19 UTC
 
-New packages created between 2026-10-12 09:20 UTC and 2026-10-12 10:20 UTC.
+New packages created between 2026-10-12 10:20 UTC and 2026-10-12 11:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-12T10-20-19-694271Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-12T11-19-18-51686Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 09:47:37 | [plexo-appimage](https://aur.archlinux.org/packages/plexo-appimage) | 1.0.0rc15-1 | 0 | Speed up downloads by combining multiple network connections in parallel. |
-| 2026-10-12 09:48:11 | [ktabletop-git](https://aur.archlinux.org/packages/ktabletop-git) | r1.0000000-1 | 0 | A boardgame platform based on Qt/QML and KDE Frameworks, using Lua for scripting |
-| 2026-10-12 09:53:49 | [eidos-lite-bin](https://aur.archlinux.org/packages/eidos-lite-bin) | 0.23.0-1 | 0 | A single-file relational spreadsheet for you and your agent, built on standard… |
-| 2026-10-12 10:08:16 | [linux-system-guis](https://aur.archlinux.org/packages/linux-system-guis) | 0.1.0-2 | 0 | An educational, transparent, and safe desktop GUI suite for low-level Linux adm… |
+| 2026-10-12 10:33:30 | [realer-xpad](https://aur.archlinux.org/packages/realer-xpad) | 0.1.1-1 | 0 | Sticky notes with Markdown and drawing, native on Wayland and Hyprland |
+| 2026-10-12 10:33:35 | [realer-xpad-bin](https://aur.archlinux.org/packages/realer-xpad-bin) | 0.1.1-1 | 0 | Sticky notes with Markdown and drawing, native on Wayland and Hyprland (prebuil… |
+| 2026-10-12 10:50:51 | [suzuri-bin](https://aur.archlinux.org/packages/suzuri-bin) | 0.5.4-2 | 1 | Writing environment built on Zed: Obsidian-style live preview, Typst/LaTeX prev… |
+| 2026-10-12 10:54:51 | [hopper](https://aur.archlinux.org/packages/hopper) | 0.1.0-1 | 0 | A Minecraft mod manager for the terminal |
+| 2026-10-12 10:55:22 | [kubecolor-bin](https://aur.archlinux.org/packages/kubecolor-bin) | 0.8.0-2 | 0 | A tool to colorize the output of kubectl commands |
+| 2026-10-12 11:09:06 | [z13-tablet-kit](https://aur.archlinux.org/packages/z13-tablet-kit) | 1.0.0-1 | 0 | Posture-aware tablet mode for the ASUS ROG Flow Z13 (GZ302) on KDE Plasma 6 / W… |
 
 ## Data source
 
