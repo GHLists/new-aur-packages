@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-12T21:25:08Z,clara-git,2.5.1.r578.gc795813…,0,"Audio Plugin Host (fork with UI/UX enhancements, quick search, recent projects, and node positioning)"
+2026-10-12T21:25:09Z,runline-bin,1.0.0-1,1,keyboard-first terminal client for watching and acting on github actions runs
+2026-10-12T21:25:24Z,wadsmith-bin,0.0.5-1,0,"Map editor for Doom, Heretic, Hexen and Strife, made for GZDoom"
+2026-10-12T21:48:39Z,laptop-livecam,7.0.1-1,0,"Stream a USB webcam via HLS using MediaMTX and ffmpeg, with browser viewer, camdash monitor, and family presence features"
+2026-10-12T22:00:37Z,boo-be-afraid,0.8-1,0,Co-op monster game: scare the visitors out of the house before dawn
