@@ -1,0 +1,13 @@
+created_at,package,version,votes,description
+2026-10-12T14:25:11Z,nanolathe-git,r923.ad15dec-1,0,Open-source 2.5D RTS engine in Go; clean-room Total Annihilation reimplementation (requires original game data)
+2026-10-12T15:06:40Z,minizip-ng-git,4.2.2.r70.g72d3b39-1,0,Fork of the popular zip manipulation library
+2026-10-12T15:16:11Z,relic-catppuccin-gtk-theme,2026.06.25-1,0,"Catppuccin GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3/4 geometry fixes"
+2026-10-12T15:16:17Z,relic-everforest-gtk-theme,2025.10.23-1,0,"Everforest GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3/4 geometry fixes"
+2026-10-12T15:16:22Z,relic-gruvbox-gtk-theme,2025.10.23-1,0,"Gruvbox GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3/4 geometry fixes"
+2026-10-12T15:16:27Z,relic-kanagawa-gtk-theme,2025.10.23-1,0,"Kanagawa GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3/4 geometry fixes"
+2026-10-12T15:16:33Z,relic-material-gtk-theme,2025.10.23-1,0,"Material GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3/4 geometry fixes"
+2026-10-12T15:16:39Z,relic-nightfox-gtk-theme,2025.10.23-1,0,"Nightfox GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3/4 geometry fixes"
+2026-10-12T15:16:45Z,relic-osaka-gtk-theme,2025.10.23-1,0,"Osaka GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3/4 geometry fixes"
+2026-10-12T15:16:50Z,relic-rosepine-gtk-theme,2025.10.23-1,0,"Rosé Pine GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3/4 geometry fixes"
+2026-10-12T15:16:56Z,relic-tokyonight-gtk-theme,2025.10.23-1,0,"Tokyo Night GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3/4 geometry fixes"
+2026-10-12T15:17:02Z,relic-vague-gtk-theme,2026.06.25-1,0,"Vague GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3/4 geometry fixes"
