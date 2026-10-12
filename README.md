@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 01:21 UTC
+## Latest list — 2026-10-12 02:19 UTC
 
-New packages created between 2026-10-12 00:22 UTC and 2026-10-12 01:21 UTC.
+New packages created between 2026-10-12 01:21 UTC and 2026-10-12 02:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-12T01-21-17-855221Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-12T02-19-51-916938Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 00:52:14 | [clauth](https://aur.archlinux.org/packages/clauth) | 0.17.0-1 | 0 | Claude Code multi-account manager and usage monitor with auto-switch (CLI, TUI,… |
-| 2026-10-12 01:16:06 | [lactea-bin](https://aur.archlinux.org/packages/lactea-bin) | 0.1.1-1 | 0 | MilkDrop 2 / projectM-compatible music visualizer on wgpu, with C library (bina… |
+| 2026-10-12 01:59:20 | [pg_search](https://aur.archlinux.org/packages/pg_search) | 0.26.1-1 | 0 | ParadeDB full-text search and BM25 ranking extension for PostgreSQL, powered by… |
+| 2026-10-12 01:59:26 | [tantivy-cli](https://aur.archlinux.org/packages/tantivy-cli) | 0.25.0-1 | 0 | Command line interface for Tantivy, a full-text search engine library |
 
 ## Data source
 
