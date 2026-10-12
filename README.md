@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 06:21 UTC
+## Latest list — 2026-10-12 07:20 UTC
 
-New packages created between 2026-10-12 05:18 UTC and 2026-10-12 06:21 UTC.
+New packages created between 2026-10-12 06:21 UTC and 2026-10-12 07:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-12T06-21-42-601516Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-12T07-20-42-017114Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 06:19:04 | [veasel-code-bin](https://aur.archlinux.org/packages/veasel-code-bin) |  |  | V-native AI coding agent (official prebuilt Linux release) |
+| 2026-10-12 06:30:05 | [nightcap-git](https://aur.archlinux.org/packages/nightcap-git) | 0.3.4.r302.ga87373d… | 0 | Android x86-64 Roblox compatibility runtime for Linux |
 
 ## Data source
 
