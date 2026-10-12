@@ -12,22 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 16:19 UTC
+## Latest list — 2026-10-12 17:19 UTC
 
-New packages created between 2026-10-12 15:22 UTC and 2026-10-12 16:19 UTC.
+New packages created between 2026-10-12 16:19 UTC and 2026-10-12 17:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-12T16-19-21-116606Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-12T17-19-00-462785Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 15:50:29 | [ruby4](https://aur.archlinux.org/packages/ruby4) | 4.0.7-1 | 0 | An object-oriented language for quick and easy programming |
-| 2026-10-12 15:50:29 | [ruby4-docs](https://aur.archlinux.org/packages/ruby4-docs) | 4.0.7-1 | 0 | Documentation files for Ruby |
-| 2026-10-12 15:50:29 | [ruby4-default-gems](https://aur.archlinux.org/packages/ruby4-default-gems) | 4.0.7-1 | 0 | Default gems which are part of Ruby StdLib |
-| 2026-10-12 15:50:29 | [ruby4-bundled-gems](https://aur.archlinux.org/packages/ruby4-bundled-gems) | 4.0.7-1 | 0 | Bundled gems which are part of Ruby StdLib |
-| 2026-10-12 15:50:29 | [ruby4-stdlib](https://aur.archlinux.org/packages/ruby4-stdlib) | 4.0.7-1 | 0 | Full Ruby StdLib including default gems, bundled gems and tools |
-| 2026-10-12 16:03:22 | [sdb-bin](https://aur.archlinux.org/packages/sdb-bin) | 4.2.36-1 | 0 | Samsung Smart Development Bridge (CLI tool for Tizen OS and Samsung Smart TVs) |
-| 2026-10-12 16:14:09 | [aifreeyoutube](https://aur.archlinux.org/packages/aifreeyoutube) |  |  | Authentic human video portal filtering out AI slop, clickbait mills, and bots o… |
-| 2026-10-12 16:17:52 | [openmasterhub-bin](https://aur.archlinux.org/packages/openmasterhub-bin) |  |  | Linux service and GTK4 app for the Cooler Master MasterHUB modular controller |
+| 2026-10-12 16:19:57 | [rustgis-bin](https://aur.archlinux.org/packages/rustgis-bin) | 0.1.0-1 | 0 | Fast, free and open-source GIS for mapping, analyzing and sharing geospatial da… |
+| 2026-10-12 16:48:40 | [omarchy-cheatsheets](https://aur.archlinux.org/packages/omarchy-cheatsheets) | 0.1.0-1 | 0 | Pretty, searchable Neovim/tmux/etc cheatsheets for Omarchy Linux (Qt6/QML + Rus… |
+| 2026-10-12 16:48:54 | [omarchy-cheatsheets-bin](https://aur.archlinux.org/packages/omarchy-cheatsheets-bin) | 0.1.0-1 | 0 | Pretty, searchable Neovim/tmux/etc cheatsheets for Omarchy Linux (prebuilt bina… |
+| 2026-10-12 16:54:27 | [winbox43](https://aur.archlinux.org/packages/winbox43) | 4.3-1 | 0 | Mikrotik RouterOS GUI Configurator (version 4.3 because winbox is shit and new… |
 
 ## Data source
 
