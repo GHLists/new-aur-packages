@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 09:20 UTC
+## Latest list — 2026-10-12 10:20 UTC
 
-New packages created between 2026-10-12 08:19 UTC and 2026-10-12 09:20 UTC.
+New packages created between 2026-10-12 09:20 UTC and 2026-10-12 10:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-12T09-20-57-86852Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-12T10-20-19-694271Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 09:12:20 | [strata-fm-pre-bin](https://aur.archlinux.org/packages/strata-fm-pre-bin) | 0.22.0rc1-1 | 0 | A fast, keyboard-first file manager for Linux (pre-release binary) |
+| 2026-10-12 09:47:37 | [plexo-appimage](https://aur.archlinux.org/packages/plexo-appimage) | 1.0.0rc15-1 | 0 | Speed up downloads by combining multiple network connections in parallel. |
+| 2026-10-12 09:48:11 | [ktabletop-git](https://aur.archlinux.org/packages/ktabletop-git) | r1.0000000-1 | 0 | A boardgame platform based on Qt/QML and KDE Frameworks, using Lua for scripting |
+| 2026-10-12 09:53:49 | [eidos-lite-bin](https://aur.archlinux.org/packages/eidos-lite-bin) | 0.23.0-1 | 0 | A single-file relational spreadsheet for you and your agent, built on standard… |
+| 2026-10-12 10:08:16 | [linux-system-guis](https://aur.archlinux.org/packages/linux-system-guis) | 0.1.0-2 | 0 | An educational, transparent, and safe desktop GUI suite for low-level Linux adm… |
 
 ## Data source
 

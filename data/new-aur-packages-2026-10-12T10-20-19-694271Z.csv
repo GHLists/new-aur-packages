@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-12T09:47:37Z,plexo-appimage,1.0.0rc15-1,0,Speed up downloads by combining multiple network connections in parallel.
+2026-10-12T09:48:11Z,ktabletop-git,r1.0000000-1,0,"A boardgame platform based on Qt/QML and KDE Frameworks, using Lua for scripting"
+2026-10-12T09:53:49Z,eidos-lite-bin,0.23.0-1,0,"A single-file relational spreadsheet for you and your agent, built on standard SQLite"
+2026-10-12T10:08:16Z,linux-system-guis,0.1.0-2,0,"An educational, transparent, and safe desktop GUI suite for low-level Linux administration"
