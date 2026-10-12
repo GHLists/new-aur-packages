@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-11T23:31:54Z,refprov,0.1.0-1,0,File Tracker Record: trace where any file on your system came from
+2026-10-11T23:37:16Z,ranma-bin,0.1.0-1,1,"A tiling window manager for the terminal: i3's tree, Hyprland's dwindle, configured in Lua"
+2026-10-11T23:48:28Z,rmpcd-git,0.1.0.r801.g1506013…,0,A companion MPD client to rmpc intended to run as a daemon
+2026-10-11T23:59:46Z,clauth-bin,0.17.0-1,0,Claude Code multi-account manager and usage monitor with auto-switch (prebuilt binary)
+2026-10-12T00:03:49Z,ps5upload-bin,7.0.12-1,0,"All-in-one PS5 companion app for uploading, installing and managing games over the network (prebuilt)"
+2026-10-12T00:07:48Z,ttfe,1.0.0-1,0,2048 game in the terminal
+2026-10-12T00:08:13Z,sinergia-webapp-manager,1.0.0-1,0,Gestor gráfico para crear WebApps independientes en Linux
+2026-10-12T00:20:27Z,cloudreve-client,,,Desktop sync client for Cloudreve (Linux/macOS fork of the official Windows client)
