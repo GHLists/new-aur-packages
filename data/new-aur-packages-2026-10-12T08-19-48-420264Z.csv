@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-12T07:38:17Z,omdrop-owl,0.1.0-1,0,AirDrop radio backend for omdrop on non-Broadcom Wi-Fi: AWDL in userspace through OWL
+2026-10-12T08:04:33Z,pixez-bin,0.9.110-1,0,Pixiv third-party client written in Flutter
+2026-10-12T08:14:06Z,localtranslate-models-official,0.5.0-1,0,Official translation models for LocalTranslate (Firefox)
+2026-10-12T08:14:32Z,localtranslate,0.6.0-2,0,"Local, offline neural machine translation application"
+2026-10-12T08:18:23Z,artcraft-launcher-git,0.3.2.r29.g78ef4a8-1,0,"Install, update and launch the Craft App Suite"
