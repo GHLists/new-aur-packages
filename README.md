@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 17:19 UTC
+## Latest list — 2026-10-12 18:19 UTC
 
-New packages created between 2026-10-12 16:19 UTC and 2026-10-12 17:19 UTC.
+New packages created between 2026-10-12 17:19 UTC and 2026-10-12 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-12T17-19-00-462785Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-12T18-19-53-352753Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 16:19:57 | [rustgis-bin](https://aur.archlinux.org/packages/rustgis-bin) | 0.1.0-1 | 0 | Fast, free and open-source GIS for mapping, analyzing and sharing geospatial da… |
-| 2026-10-12 16:48:40 | [omarchy-cheatsheets](https://aur.archlinux.org/packages/omarchy-cheatsheets) | 0.1.0-1 | 0 | Pretty, searchable Neovim/tmux/etc cheatsheets for Omarchy Linux (Qt6/QML + Rus… |
-| 2026-10-12 16:48:54 | [omarchy-cheatsheets-bin](https://aur.archlinux.org/packages/omarchy-cheatsheets-bin) | 0.1.0-1 | 0 | Pretty, searchable Neovim/tmux/etc cheatsheets for Omarchy Linux (prebuilt bina… |
-| 2026-10-12 16:54:27 | [winbox43](https://aur.archlinux.org/packages/winbox43) | 4.3-1 | 0 | Mikrotik RouterOS GUI Configurator (version 4.3 because winbox is shit and new… |
+| 2026-10-12 17:56:22 | [softty-git](https://aur.archlinux.org/packages/softty-git) | r6.b0ff8a6-1 | 0 | A minimal, fast Wayland terminal emulator |
+| 2026-10-12 18:03:35 | [libtde-bin](https://aur.archlinux.org/packages/libtde-bin) | 0.3.0-1 | 0 | What TDE applications share: configuration, theme, window frame and dialogs |
+| 2026-10-12 18:03:52 | [tde-session-bin](https://aur.archlinux.org/packages/tde-session-bin) | 0.3.0-1 | 0 | The TDE desktop session: a wlroots compositor, overview, bar, lock screen and s… |
+| 2026-10-12 18:04:08 | [tde-ariadne-bin](https://aur.archlinux.org/packages/tde-ariadne-bin) | 0.3.1-1 | 0 | A Nautilus-style file manager built with Qt 6 |
 
 ## Data source
 

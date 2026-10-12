@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-12T17:56:22Z,softty-git,r6.b0ff8a6-1,0,"A minimal, fast Wayland terminal emulator"
+2026-10-12T18:03:35Z,libtde-bin,0.3.0-1,0,"What TDE applications share: configuration, theme, window frame and dialogs"
+2026-10-12T18:03:52Z,tde-session-bin,0.3.0-1,0,"The TDE desktop session: a wlroots compositor, overview, bar, lock screen and settings"
+2026-10-12T18:04:08Z,tde-ariadne-bin,0.3.1-1,0,A Nautilus-style file manager built with Qt 6
