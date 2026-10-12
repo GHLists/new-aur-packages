@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 05:18 UTC
+## Latest list — 2026-10-12 06:21 UTC
 
-New packages created between 2026-10-12 04:21 UTC and 2026-10-12 05:18 UTC.
+New packages created between 2026-10-12 05:18 UTC and 2026-10-12 06:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-12T05-18-55-856355Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-12T06-21-42-601516Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 04:24:51 | [gnome-shell-extension-astra-monitor-git](https://aur.archlinux.org/packages/gnome-shell-extension-astra-monitor-git) | 43.r0.g90decfa-1 | 0 | Monitor CPU, GPU, memory, storage, network activity, and sensors in the GNOME p… |
-| 2026-10-12 04:37:09 | [aic8800fc-linux7-dkms](https://aur.archlinux.org/packages/aic8800fc-linux7-dkms) | 20230807-1 | 0 | AICSemi AIC8800FC USB Wi-Fi driver (vendor 2023-08-07 release, patched for Linu… |
+| 2026-10-12 06:19:04 | [veasel-code-bin](https://aur.archlinux.org/packages/veasel-code-bin) |  |  | V-native AI coding agent (official prebuilt Linux release) |
 
 ## Data source
 
