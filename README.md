@@ -12,26 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 15:22 UTC
+## Latest list — 2026-10-12 16:19 UTC
 
-New packages created between 2026-10-12 14:19 UTC and 2026-10-12 15:22 UTC.
+New packages created between 2026-10-12 15:22 UTC and 2026-10-12 16:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-12T15-22-28-295868Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-12T16-19-21-116606Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 14:25:11 | [nanolathe-git](https://aur.archlinux.org/packages/nanolathe-git) | r923.ad15dec-1 | 0 | Open-source 2.5D RTS engine in Go; clean-room Total Annihilation reimplementati… |
-| 2026-10-12 15:06:40 | [minizip-ng-git](https://aur.archlinux.org/packages/minizip-ng-git) | 4.2.2.r70.g72d3b39-1 | 0 | Fork of the popular zip manipulation library |
-| 2026-10-12 15:16:11 | [relic-catppuccin-gtk-theme](https://aur.archlinux.org/packages/relic-catppuccin-gtk-theme) | 2026.06.25-1 | 0 | Catppuccin GTK theme by Fausto-Korpsvart (archived upstream), with the relic GT… |
-| 2026-10-12 15:16:17 | [relic-everforest-gtk-theme](https://aur.archlinux.org/packages/relic-everforest-gtk-theme) | 2025.10.23-1 | 0 | Everforest GTK theme by Fausto-Korpsvart (archived upstream), with the relic GT… |
-| 2026-10-12 15:16:22 | [relic-gruvbox-gtk-theme](https://aur.archlinux.org/packages/relic-gruvbox-gtk-theme) | 2025.10.23-1 | 0 | Gruvbox GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3… |
-| 2026-10-12 15:16:27 | [relic-kanagawa-gtk-theme](https://aur.archlinux.org/packages/relic-kanagawa-gtk-theme) | 2025.10.23-1 | 0 | Kanagawa GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK… |
-| 2026-10-12 15:16:33 | [relic-material-gtk-theme](https://aur.archlinux.org/packages/relic-material-gtk-theme) | 2025.10.23-1 | 0 | Material GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK… |
-| 2026-10-12 15:16:39 | [relic-nightfox-gtk-theme](https://aur.archlinux.org/packages/relic-nightfox-gtk-theme) | 2025.10.23-1 | 0 | Nightfox GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK… |
-| 2026-10-12 15:16:45 | [relic-osaka-gtk-theme](https://aur.archlinux.org/packages/relic-osaka-gtk-theme) | 2025.10.23-1 | 0 | Osaka GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3/4… |
-| 2026-10-12 15:16:50 | [relic-rosepine-gtk-theme](https://aur.archlinux.org/packages/relic-rosepine-gtk-theme) | 2025.10.23-1 | 0 | Rosé Pine GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK… |
-| 2026-10-12 15:16:56 | [relic-tokyonight-gtk-theme](https://aur.archlinux.org/packages/relic-tokyonight-gtk-theme) | 2025.10.23-1 | 0 | Tokyo Night GTK theme by Fausto-Korpsvart (archived upstream), with the relic G… |
-| 2026-10-12 15:17:02 | [relic-vague-gtk-theme](https://aur.archlinux.org/packages/relic-vague-gtk-theme) | 2026.06.25-1 | 0 | Vague GTK theme by Fausto-Korpsvart (archived upstream), with the relic GTK 3/4… |
+| 2026-10-12 15:50:29 | [ruby4](https://aur.archlinux.org/packages/ruby4) | 4.0.7-1 | 0 | An object-oriented language for quick and easy programming |
+| 2026-10-12 15:50:29 | [ruby4-docs](https://aur.archlinux.org/packages/ruby4-docs) | 4.0.7-1 | 0 | Documentation files for Ruby |
+| 2026-10-12 15:50:29 | [ruby4-default-gems](https://aur.archlinux.org/packages/ruby4-default-gems) | 4.0.7-1 | 0 | Default gems which are part of Ruby StdLib |
+| 2026-10-12 15:50:29 | [ruby4-bundled-gems](https://aur.archlinux.org/packages/ruby4-bundled-gems) | 4.0.7-1 | 0 | Bundled gems which are part of Ruby StdLib |
+| 2026-10-12 15:50:29 | [ruby4-stdlib](https://aur.archlinux.org/packages/ruby4-stdlib) | 4.0.7-1 | 0 | Full Ruby StdLib including default gems, bundled gems and tools |
+| 2026-10-12 16:03:22 | [sdb-bin](https://aur.archlinux.org/packages/sdb-bin) | 4.2.36-1 | 0 | Samsung Smart Development Bridge (CLI tool for Tizen OS and Samsung Smart TVs) |
+| 2026-10-12 16:14:09 | [aifreeyoutube](https://aur.archlinux.org/packages/aifreeyoutube) |  |  | Authentic human video portal filtering out AI slop, clickbait mills, and bots o… |
+| 2026-10-12 16:17:52 | [openmasterhub-bin](https://aur.archlinux.org/packages/openmasterhub-bin) |  |  | Linux service and GTK4 app for the Cooler Master MasterHUB modular controller |
 
 ## Data source
 

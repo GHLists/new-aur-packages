@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-12T15:50:29Z,ruby4,4.0.7-1,0,An object-oriented language for quick and easy programming
+2026-10-12T15:50:29Z,ruby4-docs,4.0.7-1,0,Documentation files for Ruby
+2026-10-12T15:50:29Z,ruby4-default-gems,4.0.7-1,0,Default gems which are part of Ruby StdLib
+2026-10-12T15:50:29Z,ruby4-bundled-gems,4.0.7-1,0,Bundled gems which are part of Ruby StdLib
+2026-10-12T15:50:29Z,ruby4-stdlib,4.0.7-1,0,"Full Ruby StdLib including default gems, bundled gems and tools"
+2026-10-12T16:03:22Z,sdb-bin,4.2.36-1,0,Samsung Smart Development Bridge (CLI tool for Tizen OS and Samsung Smart TVs)
+2026-10-12T16:14:09Z,aifreeyoutube,,,"Authentic human video portal filtering out AI slop, clickbait mills, and bots on YouTube"
+2026-10-12T16:17:52Z,openmasterhub-bin,,,Linux service and GTK4 app for the Cooler Master MasterHUB modular controller
