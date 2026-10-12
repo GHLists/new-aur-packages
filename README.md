@@ -12,19 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 08:19 UTC
+## Latest list — 2026-10-12 09:20 UTC
 
-New packages created between 2026-10-12 07:20 UTC and 2026-10-12 08:19 UTC.
+New packages created between 2026-10-12 08:19 UTC and 2026-10-12 09:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-12T08-19-48-420264Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-12T09-20-57-86852Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 07:38:17 | [omdrop-owl](https://aur.archlinux.org/packages/omdrop-owl) | 0.1.0-1 | 0 | AirDrop radio backend for omdrop on non-Broadcom Wi-Fi: AWDL in userspace throu… |
-| 2026-10-12 08:04:33 | [pixez-bin](https://aur.archlinux.org/packages/pixez-bin) | 0.9.110-1 | 0 | Pixiv third-party client written in Flutter |
-| 2026-10-12 08:14:06 | [localtranslate-models-official](https://aur.archlinux.org/packages/localtranslate-models-official) | 0.5.0-1 | 0 | Official translation models for LocalTranslate (Firefox) |
-| 2026-10-12 08:14:32 | [localtranslate](https://aur.archlinux.org/packages/localtranslate) | 0.6.0-2 | 0 | Local, offline neural machine translation application |
-| 2026-10-12 08:18:23 | [artcraft-launcher-git](https://aur.archlinux.org/packages/artcraft-launcher-git) | 0.3.2.r29.g78ef4a8-1 | 0 | Install, update and launch the Craft App Suite |
+| 2026-10-12 09:12:20 | [strata-fm-pre-bin](https://aur.archlinux.org/packages/strata-fm-pre-bin) | 0.22.0rc1-1 | 0 | A fast, keyboard-first file manager for Linux (pre-release binary) |
 
 ## Data source
 
