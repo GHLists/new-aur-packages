@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 02:19 UTC
+## Latest list — 2026-10-12 04:21 UTC
 
-New packages created between 2026-10-12 01:21 UTC and 2026-10-12 02:19 UTC.
+New packages created between 2026-10-12 03:19 UTC and 2026-10-12 04:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-12T02-19-51-916938Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-12T04-21-23-675671Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 01:59:20 | [pg_search](https://aur.archlinux.org/packages/pg_search) | 0.26.1-1 | 0 | ParadeDB full-text search and BM25 ranking extension for PostgreSQL, powered by… |
-| 2026-10-12 01:59:26 | [tantivy-cli](https://aur.archlinux.org/packages/tantivy-cli) | 0.25.0-1 | 0 | Command line interface for Tantivy, a full-text search engine library |
+| 2026-10-12 03:38:38 | [brightbulb-git](https://aur.archlinux.org/packages/brightbulb-git) | r12.c21ee2a-1 | 0 | Open source Philips Hue control center with screen mirroring (git) |
 
 ## Data source
 
