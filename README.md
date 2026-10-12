@@ -12,20 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 20:19 UTC
+## Latest list — 2026-10-12 21:21 UTC
 
-New packages created between 2026-10-12 19:19 UTC and 2026-10-12 20:19 UTC.
+New packages created between 2026-10-12 20:19 UTC and 2026-10-12 21:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-12T20-19-43-866548Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-12T21-21-50-487451Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 19:32:28 | [pgtidy-src](https://aur.archlinux.org/packages/pgtidy-src) | 1.0.0-1 | 0 | PostgreSQL SQL formatter and linter |
-| 2026-10-12 19:47:48 | [localtranslate-models-kotki-tiny](https://aur.archlinux.org/packages/localtranslate-models-kotki-tiny) | 0.6.0-2 | 0 | Kotki's tiny translation models adapted for LocalTranslate |
-| 2026-10-12 19:47:48 | [kotki-models-tiny](https://aur.archlinux.org/packages/kotki-models-tiny) | 0.6.0-2 | 0 | Kotki's tiny translation models for native Kotki application |
-| 2026-10-12 19:48:13 | [localtranslate-models-kotki-standard](https://aur.archlinux.org/packages/localtranslate-models-kotki-standard) | 0.6.0-2 | 0 | Kotki's standard translation models adapted for LocalTranslate |
-| 2026-10-12 19:48:13 | [kotki-models-standard](https://aur.archlinux.org/packages/kotki-models-standard) | 0.6.0-2 | 0 | Kotki's standard translation models for native Kotki application |
-| 2026-10-12 20:02:29 | [visipass-bin](https://aur.archlinux.org/packages/visipass-bin) | 0.2.0-1 | 0 | Password manager for coding agents: they find, use and save secrets without see… |
+| 2026-10-12 20:20:20 | [relspec-bin](https://aur.archlinux.org/packages/relspec-bin) | 1.0.91-1 | 0 | RelSpec is a comprehensive database relations management tool that reads, trans… |
+| 2026-10-12 20:28:09 | [gmpublished-bin](https://aur.archlinux.org/packages/gmpublished-bin) | 0.2.5-1 | 0 | Native Workshop publishing and addon inspection utility for Garry's Mod |
 
 ## Data source
 
