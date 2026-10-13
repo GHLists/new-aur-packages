@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-13T07:42:13Z,paw,1.28.0-1,0,"Wayland terminal emulator, a fork of foot, with the kitty graphics protocol"
+2026-10-13T07:51:33Z,libvirt-hyperv,1:12.8.0-2,0,API for controlling virtualization engines with the Hyper-V driver enabled
+2026-10-13T07:51:33Z,libvirt-hyperv-storage-gluster,1:12.8.0-2,0,Libvirt Gluster storage backend
+2026-10-13T07:51:33Z,libvirt-hyperv-storage-iscsi-direct,1:12.8.0-2,0,Libvirt iSCSI-direct storage backend
+2026-10-13T07:53:26Z,media-compressor-git,0.4.0.r9.gf977b43-1,0,"A free, user-friendly application designed to simplify media file compression. Built with React and TypeScript, this lightweight tool helps you reduce file sizes without compromising quality."
+2026-10-13T08:06:55Z,libwsman,2.8.1-1,0,OpenWSMAN C and C++ client libraries for WS-Management
+2026-10-13T08:17:11Z,sigilsmith-git,0.9.11.r189.g49600b…,0,"Keyboard-first, Linux-first TUI mod manager for Baldur's Gate 3 (community package)"

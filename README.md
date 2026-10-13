@@ -12,17 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 07:21 UTC
+## Latest list — 2026-10-13 08:22 UTC
 
-New packages created between 2026-10-13 06:19 UTC and 2026-10-13 07:21 UTC.
+New packages created between 2026-10-13 07:21 UTC and 2026-10-13 08:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-13T07-21-55-841201Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-13T08-22-34-812502Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-13 06:22:21 | [fcitx5-chengyin](https://aur.archlinux.org/packages/fcitx5-chengyin) | 0.1.0.preview34-1 | 0 | Chengyin IME (preview) - Fcitx 5 full-pinyin input method with a bundled lexicon |
-| 2026-10-13 06:29:00 | [knap](https://aur.archlinux.org/packages/knap) | 0.6.0-1 | 0 | Flexible template engine for creating Markdown |
-| 2026-10-13 06:29:57 | [knap-git](https://aur.archlinux.org/packages/knap-git) | 0.6.0.r6.g0160089-1 | 0 | Flexible template engine for creating Markdown (Git version) |
+| 2026-10-13 07:42:13 | [paw](https://aur.archlinux.org/packages/paw) | 1.28.0-1 | 0 | Wayland terminal emulator, a fork of foot, with the kitty graphics protocol |
+| 2026-10-13 07:51:33 | [libvirt-hyperv](https://aur.archlinux.org/packages/libvirt-hyperv) | 1:12.8.0-2 | 0 | API for controlling virtualization engines with the Hyper-V driver enabled |
+| 2026-10-13 07:51:33 | [libvirt-hyperv-storage-gluster](https://aur.archlinux.org/packages/libvirt-hyperv-storage-gluster) | 1:12.8.0-2 | 0 | Libvirt Gluster storage backend |
+| 2026-10-13 07:51:33 | [libvirt-hyperv-storage-iscsi-direct](https://aur.archlinux.org/packages/libvirt-hyperv-storage-iscsi-direct) | 1:12.8.0-2 | 0 | Libvirt iSCSI-direct storage backend |
+| 2026-10-13 07:53:26 | [media-compressor-git](https://aur.archlinux.org/packages/media-compressor-git) | 0.4.0.r9.gf977b43-1 | 0 | A free, user-friendly application designed to simplify media file compression.… |
+| 2026-10-13 08:06:55 | [libwsman](https://aur.archlinux.org/packages/libwsman) | 2.8.1-1 | 0 | OpenWSMAN C and C++ client libraries for WS-Management |
+| 2026-10-13 08:17:11 | [sigilsmith-git](https://aur.archlinux.org/packages/sigilsmith-git) | 0.9.11.r189.g49600b… | 0 | Keyboard-first, Linux-first TUI mod manager for Baldur's Gate 3 (community pack… |
 
 ## Data source
 
