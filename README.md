@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 17:20 UTC
+## Latest list — 2026-10-13 18:20 UTC
 
-New packages created between 2026-10-13 16:23 UTC and 2026-10-13 17:20 UTC.
+New packages created between 2026-10-13 17:20 UTC and 2026-10-13 18:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-13T17-20-12-361615Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-13T18-20-27-143964Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-13 16:49:24 | [sherpa-onnx-bin](https://aur.archlinux.org/packages/sherpa-onnx-bin) | 1.13.8-1 | 0 | Speech-to-text, TTS, diarization and VAD with next-gen Kaldi and onnxruntime (p… |
-| 2026-10-13 16:55:37 | [monlux-bin](https://aur.archlinux.org/packages/monlux-bin) | 0.2.1-1 | 0 | Control external monitor brightness over DDC/CI on Linux (prebuilt binary) |
-| 2026-10-13 16:55:51 | [monlux](https://aur.archlinux.org/packages/monlux) | 0.2.1-1 | 0 | Control external monitor brightness over DDC/CI on Linux |
-| 2026-10-13 17:15:11 | [llmster-bin](https://aur.archlinux.org/packages/llmster-bin) | 0.0.25-1 | 0 | LM Studio's headless daemon |
+| 2026-10-13 17:24:34 | [cockpit-zfs-manager-git](https://aur.archlinux.org/packages/cockpit-zfs-manager-git) | 0.1.0.r219.gbd0b01b… | 0 | Modern ZFS manager for Cockpit using React and PatternFly 6 (development snapsh… |
+| 2026-10-13 17:58:08 | [tez-bin](https://aur.archlinux.org/packages/tez-bin) | 1.0.4-1 | 0 | A typing game with a stretchy blob |
 
 ## Data source
 
