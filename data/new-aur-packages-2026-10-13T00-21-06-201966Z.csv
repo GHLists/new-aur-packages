@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-12T23:37:58Z,whyd-bin,0.1.1-1,1,"Find out why your Linux PC froze, crashed or shut down"
+2026-10-12T23:47:35Z,ensor-bin,0.4.6-1,1,"A fast, interactive CLI for finding and redacting secrets in your codebase"
+2026-10-12T23:57:35Z,nickel-mod-loader,1.21.3-1,1,A modding API / mod loader for the game Cobalt Core (Windows version)
