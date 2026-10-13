@@ -1,0 +1,14 @@
+created_at,package,version,votes,description
+2026-10-13T21:30:56Z,faro-bin,0.1.0-1,0,"Terminal client for Signal, built for people who live in tmux (prebuilt binary)"
+2026-10-13T21:39:57Z,faro,0.1.0-1,0,"Terminal client for Signal, built for people who live in tmux"
+2026-10-13T21:46:45Z,faro-git,0.1.0.r3.g7c5d439-1,0,"Terminal client for Signal, built for people who live in tmux (development version)"
+2026-10-13T21:47:55Z,hyprwallselector-git,0.1.0.r3.g1156197-1,0,Independent image and video wallpaper carousel for Hyprland
+2026-10-13T21:53:31Z,firefox-git,156.0a1+20260825.1+…,0,"Fast, Private & Safe Web Browser (Nightly version)"
+2026-10-13T21:54:04Z,dropbox-bin,272.4.3798-2,0,"A free service that lets you bring your photos, docs, and videos anywhere and share them easily."
+2026-10-13T21:58:58Z,skwir,0.1.0-1,0,"An augmented file manager, for humans and agents"
+2026-10-13T21:58:58Z,skwir-mermaid,0.1.0-1,0,Mermaid diagrams drawn in skwir's Markdown previews
+2026-10-13T21:58:58Z,skwir-mupdf,0.1.0-1,0,"skwir's MuPDF engine: PDFs, and books laid out into pages"
+2026-10-13T22:06:06Z,python-sourcepp,2026.9.11-1,1,Several modern C++20 libraries for sanely parsing Valve formats. (python bindings)
+2026-10-13T22:08:46Z,reld,0.2.3-1,0,"fork of weld, polylinker supporting incremental linking on macOS/Windows/Linux"
+2026-10-13T22:16:23Z,soldr,0.9.32-1,0,leverage crgx and zccache to run Rust tools with cached results
+2026-10-13T22:16:25Z,zccache,1.15.4-1,0,compiler cache for C/C++/Rust; drop in replacement for sccache and ccache
