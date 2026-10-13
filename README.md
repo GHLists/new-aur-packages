@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 19:21 UTC
+## Latest list — 2026-10-13 20:20 UTC
 
-New packages created between 2026-10-13 18:20 UTC and 2026-10-13 19:21 UTC.
+New packages created between 2026-10-13 19:21 UTC and 2026-10-13 20:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-13T19-21-18-196224Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-13T20-20-56-715296Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-13 18:56:11 | [meshmonitor](https://aur.archlinux.org/packages/meshmonitor) | 4.17.0-1 | 0 | Web dashboard for monitoring Meshtastic, MeshCore and MQTT mesh networks |
-| 2026-10-13 19:05:25 | [freeblocks-git](https://aur.archlinux.org/packages/freeblocks-git) | r193.gfa7088c-2 | 0 | Tetris Attack-like puzzle game |
-| 2026-10-13 19:17:14 | [wealthfolio-git](https://aur.archlinux.org/packages/wealthfolio-git) | 3.9.2.r4698.g5a6f99… | 0 | A beautiful, private, local-first personal finance tracker (main branch) |
+| 2026-10-13 20:20:26 | [usc](https://aur.archlinux.org/packages/usc) |  |  | a tiny link shortener |
 
 ## Data source
 
