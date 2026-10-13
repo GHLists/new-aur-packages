@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-13T03:20:34Z,arduino-app-lab-bin,0.10.0-1,0,Visual development environment for Arduino UNO Q and VENTUNO Q boards
+2026-10-13T03:31:18Z,wattpdl,1.5.0-1,0,Download Wattpad stories as offline .txt/.docx/.epub/.md/.pdf files with a Rich CLI
+2026-10-13T03:33:41Z,goose-cli-bin,stable-1,0,"an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+2026-10-13T03:40:11Z,nginx-mod-http-flv,1.2.14-1,0,A media streaming server based on nginx-rtmp-module
+2026-10-13T03:42:03Z,restray,0.23.1-1,0,"powerful but friendly backup program that runs in your tray, powered by restic"
+2026-10-13T03:50:34Z,goose-cli,1.54.0-1,0,"An open source, extensible AI agent that goes beyond code suggestions (CLI)"
