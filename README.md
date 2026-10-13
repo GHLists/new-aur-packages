@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 01:22 UTC
+## Latest list — 2026-10-13 03:19 UTC
 
-New packages created between 2026-10-13 00:21 UTC and 2026-10-13 01:22 UTC.
+New packages created between 2026-10-13 02:20 UTC and 2026-10-13 03:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-13T01-22-25-634366Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-13T03-19-40-307925Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-13 00:33:57 | [diffedit3](https://aur.archlinux.org/packages/diffedit3) | 0.6.1-1 | 0 | Edit diffs in a 3-pane view |
-| 2026-10-13 00:37:18 | [linux-wallpaperengine-v3-bin](https://aur.archlinux.org/packages/linux-wallpaperengine-v3-bin) | 1.0.1-1 | 0 | Wallpaper Engine backgrounds for Linux (prebuilt x86-64-v3) |
+| 2026-10-13 03:08:46 | [whitesur-kde-theme-git](https://aur.archlinux.org/packages/whitesur-kde-theme-git) | r114.2b4bcc7-2 | 0 | MacOS big sur like theme for KDE Plasma |
 
 ## Data source
 
