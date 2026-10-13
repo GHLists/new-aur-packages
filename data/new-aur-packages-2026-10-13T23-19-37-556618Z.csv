@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-13T22:34:12Z,py-spy-git,0.4.2.r18.g2106813-1,0,Sampling profiler for Python programs (git version)
+2026-10-13T22:39:09Z,expirito,1.3.0-1,0,A utility to clean up old files and empty directories
+2026-10-13T22:39:39Z,hyprgrid-git,0.1.0.r2.gc60bbd3-1,0,Ultra-fast 3D workspace grid manager for Hyprland (Monitor × Row × Column)
+2026-10-13T22:41:42Z,hyprgrid,0.1.0-1,0,Ultra-fast 3D workspace grid manager for Hyprland (Monitor × Row × Column)
