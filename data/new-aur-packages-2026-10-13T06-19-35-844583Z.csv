@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-13T05:28:42Z,pi-harness-bin,1.9.0-1,0,Operational Superset Harness and Desktop Control Plane for Pi Coding Agent.
+2026-10-13T05:46:13Z,jid-git,1.1.3.r0.ge5c5a9d-1,0,JSON incremental digger
+2026-10-13T05:46:17Z,aj179-linux-git,r44.107d742-1,0,"Ajazz AJ179 mouse on Linux: battery service, settings tool (ajazzctl) and desktop app"
+2026-10-13T06:03:27Z,jiq-git,0.7.2.r3.geca3be1-1,0,jid on jq - git trunk
