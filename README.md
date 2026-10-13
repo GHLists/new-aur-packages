@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 11:21 UTC
+## Latest list — 2026-10-13 12:18 UTC
 
-New packages created between 2026-10-13 10:20 UTC and 2026-10-13 11:21 UTC.
+New packages created between 2026-10-13 11:21 UTC and 2026-10-13 12:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-13T11-21-11-726184Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-13T12-18-47-5179Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-13 10:30:19 | [kolimi-desktop](https://aur.archlinux.org/packages/kolimi-desktop) | 0.1.11-2 | 0 | Kolimi desktop client: browse, share, and keep a local folder in sync |
+| 2026-10-13 12:07:13 | [figcraft](https://aur.archlinux.org/packages/figcraft) | 0.5.1-1 | 0 | vibe coded clean-room reimplementation of Figma Design |
+| 2026-10-13 12:07:34 | [figcraft-git](https://aur.archlinux.org/packages/figcraft-git) | 0.10.0.r310.g0d0ea3… | 0 | vibe coded clean-room reimplementation of Figma Design (Git HEAD) |
 
 ## Data source
 
