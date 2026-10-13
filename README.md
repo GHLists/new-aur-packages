@@ -12,19 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 10:20 UTC
+## Latest list — 2026-10-13 11:21 UTC
 
-New packages created between 2026-10-13 09:18 UTC and 2026-10-13 10:20 UTC.
+New packages created between 2026-10-13 10:20 UTC and 2026-10-13 11:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-13T10-20-57-178149Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-13T11-21-11-726184Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-13 09:32:05 | [cuttletron-git](https://aur.archlinux.org/packages/cuttletron-git) | 1.0.0.r1.g103e778-1 | 0 | Screenshots, Screen/Window Recorder, Sound/Voice Effects; For Linux. |
-| 2026-10-13 09:51:05 | [dms-shell-plugin-ntfy-git](https://aur.archlinux.org/packages/dms-shell-plugin-ntfy-git) | r12.34c091c-1 | 0 | Persistent ntfy inbox for DankMaterialShell. |
-| 2026-10-13 09:59:01 | [citronote-git](https://aur.archlinux.org/packages/citronote-git) | 2.0.6.r0.gf099fe7-1 | 0 | Note-taking app with many features compatible with Markdown. |
-| 2026-10-13 10:04:43 | [pi-bolt-avx2-bin-release-git](https://aur.archlinux.org/packages/pi-bolt-avx2-bin-release-git) | 0.8.5-1 | 0 | Pi coding agent, compiled ahead of time to native code (latest Git binary relea… |
-| 2026-10-13 10:09:40 | [fcitx5-windinput-bin](https://aur.archlinux.org/packages/fcitx5-windinput-bin) | 0.126.0-1 | 0 | 基于 Debian 发行包重打包的清风输入法 Fcitx5 Linux 预览版 |
+| 2026-10-13 10:30:19 | [kolimi-desktop](https://aur.archlinux.org/packages/kolimi-desktop) | 0.1.11-2 | 0 | Kolimi desktop client: browse, share, and keep a local folder in sync |
 
 ## Data source
 
