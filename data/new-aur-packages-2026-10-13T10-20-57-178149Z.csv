@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-13T09:32:05Z,cuttletron-git,1.0.0.r1.g103e778-1,0,"Screenshots, Screen/Window Recorder, Sound/Voice Effects; For Linux."
+2026-10-13T09:51:05Z,dms-shell-plugin-ntfy-git,r12.34c091c-1,0,Persistent ntfy inbox for DankMaterialShell.
+2026-10-13T09:59:01Z,citronote-git,2.0.6.r0.gf099fe7-1,0,Note-taking app with many features compatible with Markdown.
+2026-10-13T10:04:43Z,pi-bolt-avx2-bin-release-git,0.8.5-1,0,"Pi coding agent, compiled ahead of time to native code (latest Git binary release, x86-64 with AVX2)"
+2026-10-13T10:09:40Z,fcitx5-windinput-bin,0.126.0-1,0,基于 Debian 发行包重打包的清风输入法 Fcitx5 Linux 预览版
