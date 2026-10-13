@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 00:21 UTC
+## Latest list — 2026-10-13 01:22 UTC
 
-New packages created between 2026-10-12 23:21 UTC and 2026-10-13 00:21 UTC.
+New packages created between 2026-10-13 00:21 UTC and 2026-10-13 01:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-13T00-21-06-201966Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-13T01-22-25-634366Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 23:37:58 | [whyd-bin](https://aur.archlinux.org/packages/whyd-bin) | 0.1.1-1 | 1 | Find out why your Linux PC froze, crashed or shut down |
-| 2026-10-12 23:47:35 | [ensor-bin](https://aur.archlinux.org/packages/ensor-bin) | 0.4.6-1 | 1 | A fast, interactive CLI for finding and redacting secrets in your codebase |
-| 2026-10-12 23:57:35 | [nickel-mod-loader](https://aur.archlinux.org/packages/nickel-mod-loader) | 1.21.3-1 | 1 | A modding API / mod loader for the game Cobalt Core (Windows version) |
+| 2026-10-13 00:33:57 | [diffedit3](https://aur.archlinux.org/packages/diffedit3) | 0.6.1-1 | 0 | Edit diffs in a 3-pane view |
+| 2026-10-13 00:37:18 | [linux-wallpaperengine-v3-bin](https://aur.archlinux.org/packages/linux-wallpaperengine-v3-bin) | 1.0.1-1 | 0 | Wallpaper Engine backgrounds for Linux (prebuilt x86-64-v3) |
 
 ## Data source
 
