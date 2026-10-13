@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 20:20 UTC
+## Latest list — 2026-10-13 21:20 UTC
 
-New packages created between 2026-10-13 19:21 UTC and 2026-10-13 20:20 UTC.
+New packages created between 2026-10-13 20:20 UTC and 2026-10-13 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-13T20-20-56-715296Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-13T21-20-28-52811Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-13 20:20:26 | [usc](https://aur.archlinux.org/packages/usc) |  |  | a tiny link shortener |
+| 2026-10-13 20:30:12 | [hush-git](https://aur.archlinux.org/packages/hush-git) | 0.2.0.r4.g2eb4350-1 | 1 | Quiet Hyprland rice: Quickshell shell, matugen themes and wallpapers |
+| 2026-10-13 21:00:34 | [coloreclipse-git](https://aur.archlinux.org/packages/coloreclipse-git) | 0.1.0.r2.g5b336ec-1 | 0 | Theme variant and GTK/icon/cursor applier with cwal colors for ArchEclipse |
+| 2026-10-13 21:01:57 | [aibox-bin](https://aur.archlinux.org/packages/aibox-bin) | 2.0.1-1 | 0 | AI in a box. Run Claude in a secure microvm environment. |
+| 2026-10-13 21:03:33 | [crgx](https://aur.archlinux.org/packages/crgx) | 0.1.1-1 | 0 | run and cache binary crates without installation |
 
 ## Data source
 

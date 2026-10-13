@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-13T20:30:12Z,hush-git,0.2.0.r4.g2eb4350-1,1,"Quiet Hyprland rice: Quickshell shell, matugen themes and wallpapers"
+2026-10-13T21:00:34Z,coloreclipse-git,0.1.0.r2.g5b336ec-1,0,Theme variant and GTK/icon/cursor applier with cwal colors for ArchEclipse
+2026-10-13T21:01:57Z,aibox-bin,2.0.1-1,0,AI in a box. Run Claude in a secure microvm environment.
+2026-10-13T21:03:33Z,crgx,0.1.1-1,0,run and cache binary crates without installation
