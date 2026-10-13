@@ -12,20 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 04:20 UTC
+## Latest list — 2026-10-13 05:18 UTC
 
-New packages created between 2026-10-13 03:19 UTC and 2026-10-13 04:20 UTC.
+New packages created between 2026-10-13 04:20 UTC and 2026-10-13 05:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-13T04-20-37-123217Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-13T05-18-56-864008Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-13 03:20:34 | [arduino-app-lab-bin](https://aur.archlinux.org/packages/arduino-app-lab-bin) | 0.10.0-1 | 0 | Visual development environment for Arduino UNO Q and VENTUNO Q boards |
-| 2026-10-13 03:31:18 | [wattpdl](https://aur.archlinux.org/packages/wattpdl) | 1.5.0-1 | 0 | Download Wattpad stories as offline .txt/.docx/.epub/.md/.pdf files with a Rich… |
-| 2026-10-13 03:33:41 | [goose-cli-bin](https://aur.archlinux.org/packages/goose-cli-bin) | stable-1 | 0 | an open source, extensible AI agent that goes beyond code suggestions - install… |
-| 2026-10-13 03:40:11 | [nginx-mod-http-flv](https://aur.archlinux.org/packages/nginx-mod-http-flv) | 1.2.14-1 | 0 | A media streaming server based on nginx-rtmp-module |
-| 2026-10-13 03:42:03 | [restray](https://aur.archlinux.org/packages/restray) | 0.23.1-1 | 0 | powerful but friendly backup program that runs in your tray, powered by restic |
-| 2026-10-13 03:50:34 | [goose-cli](https://aur.archlinux.org/packages/goose-cli) | 1.54.0-1 | 0 | An open source, extensible AI agent that goes beyond code suggestions (CLI) |
+| 2026-10-13 05:06:36 | [go-yq-git](https://aur.archlinux.org/packages/go-yq-git) | 4.53.3-1 | 0 | Portable command-line YAML processor |
 
 ## Data source
 
