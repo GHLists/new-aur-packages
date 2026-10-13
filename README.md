@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 14:21 UTC
+## Latest list — 2026-10-13 15:19 UTC
 
-New packages created between 2026-10-13 13:21 UTC and 2026-10-13 14:21 UTC.
+New packages created between 2026-10-13 14:21 UTC and 2026-10-13 15:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-13T14-21-45-237789Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-13T15-19-05-7145Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-13 13:39:43 | [linux-mod-organizer-git](https://aur.archlinux.org/packages/linux-mod-organizer-git) | 1.28.0-1 | 0 | Native Linux mod organizer for Bethesda games and Baldur's Gate 3 using fuse-ov… |
-| 2026-10-13 13:44:25 | [git-side-bin](https://aur.archlinux.org/packages/git-side-bin) | 0.4.1-1 | 0 | Git subcommand that versions files that should not live in the main repository… |
-| 2026-10-13 13:44:46 | [tizen-cli](https://aur.archlinux.org/packages/tizen-cli) | 1.0.1-1 | 0 | Lightweight CLI to rebuild, resign, and package Tizen applications without Tize… |
-| 2026-10-13 13:59:00 | [wipsync-bin](https://aur.archlinux.org/packages/wipsync-bin) | 0.1.0-1 | 0 | Sync work-in-progress folders between machines, through restic and ssh |
-| 2026-10-13 13:59:10 | [python-mcp2](https://aur.archlinux.org/packages/python-mcp2) | 2.3.0-1 | 0 | Model Context Protocol SDK version 2.x |
+| 2026-10-13 14:27:49 | [ccbaga-bin](https://aur.archlinux.org/packages/ccbaga-bin) | 0.2.36-1 | 0 | Claude maintenance and isolated fingerprint browser toolkit |
+| 2026-10-13 14:56:44 | [picoforge-bin](https://aur.archlinux.org/packages/picoforge-bin) | 0.9.0-1 | 0 | Desktop tool for configuring and managing Pico FIDO security keys (prebuilt bin… |
 
 ## Data source
 
