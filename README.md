@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 15:19 UTC
+## Latest list — 2026-10-13 16:23 UTC
 
-New packages created between 2026-10-13 14:21 UTC and 2026-10-13 15:19 UTC.
+New packages created between 2026-10-13 15:19 UTC and 2026-10-13 16:23 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-13T15-19-05-7145Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-13T16-23-26-893195Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-13 14:27:49 | [ccbaga-bin](https://aur.archlinux.org/packages/ccbaga-bin) | 0.2.36-1 | 0 | Claude maintenance and isolated fingerprint browser toolkit |
-| 2026-10-13 14:56:44 | [picoforge-bin](https://aur.archlinux.org/packages/picoforge-bin) | 0.9.0-1 | 0 | Desktop tool for configuring and managing Pico FIDO security keys (prebuilt bin… |
+| 2026-10-13 15:28:19 | [element-lk-jwt-service-bin](https://aur.archlinux.org/packages/element-lk-jwt-service-bin) | 0.9.0-1 | 0 | LiveKit Management Service for Element Call |
+| 2026-10-13 15:41:38 | [tanglewire](https://aur.archlinux.org/packages/tanglewire) | 0.1.0-1 | 0 | PipeWire patchbay that lays the graph out by itself |
+| 2026-10-13 16:16:49 | [python-e2b-dockerfile-utils](https://aur.archlinux.org/packages/python-e2b-dockerfile-utils) | 0.1.1-1 | 0 | E2B Dockerfile utils - Dockerfile parser, shell lexer and .dockerignore matcher… |
 
 ## Data source
 
