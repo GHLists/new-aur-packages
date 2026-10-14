@@ -12,25 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 09:22 UTC
+## Latest list — 2026-10-14 10:22 UTC
 
-New packages created between 2026-10-14 08:21 UTC and 2026-10-14 09:22 UTC.
+New packages created between 2026-10-14 09:22 UTC and 2026-10-14 10:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-14T09-22-53-190019Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-14T10-22-04-089304Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 08:23:43 | [aimp-skin-kantaris-teyp-lite](https://aur.archlinux.org/packages/aimp-skin-kantaris-teyp-lite) | 20261014-1 | 0 | AIMP skin: Kantaris-Teyp Lite v2.0.0.1 (by memo-se) |
-| 2026-10-14 08:24:46 | [aimp-skin-m5](https://aur.archlinux.org/packages/aimp-skin-m5) | 1.2.9-1 | 0 | Inspired by AIMP SKIN and A4 from ELECTRON!CK |
-| 2026-10-14 08:25:40 | [aimp-skin-kantaris-teyp-1268](https://aur.archlinux.org/packages/aimp-skin-kantaris-teyp-1268) | 20261014-1 | 0 | AIMP skin: Kantaris-Teyp v1.9.7.5 (by memo-se) |
-| 2026-10-14 08:26:02 | [aimp-skin-soot](https://aur.archlinux.org/packages/aimp-skin-soot) | 4.0.1-1 | 0 | Skin for AIMP |
-| 2026-10-14 08:44:25 | [libfprint-00a2](https://aur.archlinux.org/packages/libfprint-00a2) | 1.94.100.r12.g5d48c… | 0 | libfprint for fprintd with a driver for the Synaptics/Validity 06cb:00a2 finger… |
-| 2026-10-14 08:44:32 | [aimp-skin-3-5-and-34](https://aur.archlinux.org/packages/aimp-skin-3-5-and-34) | 20261014-1 | 0 | AIMP skin: 3.5&#34; 2016-04-22 (by AlexF) |
-| 2026-10-14 08:46:00 | [aimp-skin-collector-and-39-s-terminal](https://aur.archlinux.org/packages/aimp-skin-collector-and-39-s-terminal) | 20261014-1 | 0 | AIMP skin: Collector&#39;s Terminal 2016-03-15 (by Hive17) |
-| 2026-10-14 09:06:14 | [rfirma-bin](https://aur.archlinux.org/packages/rfirma-bin) | 0.15.0-1 | 0 | Firma y cofirma de PDFs en PAdES con firma visible |
-| 2026-10-14 09:09:15 | [aimp-skin-heart-and-39-s-desire](https://aur.archlinux.org/packages/aimp-skin-heart-and-39-s-desire) | 20261014-1 | 0 | AIMP skin: Heart&#39;s Desire v1.2 (by Arindel) |
-| 2026-10-14 09:14:54 | [aimp-skin-oxyfoxy-and-39-s-aimp-skin](https://aur.archlinux.org/packages/aimp-skin-oxyfoxy-and-39-s-aimp-skin) | 20261014-1 | 0 | AIMP skin: Oxyfoxy&#39;s AIMP skin v1.2 (by Oxyfoxy) |
-| 2026-10-14 09:15:44 | [sdrtop-git](https://aur.archlinux.org/packages/sdrtop-git) | 0.6.6.r25.g7ee397f-1 | 0 | Terminal monitor for SDR hardware - written in Rust. |
+| 2026-10-14 09:24:00 | [aimp-skin-win98-and-39-s](https://aur.archlinux.org/packages/aimp-skin-win98-and-39-s) | 20261014-1 | 0 | AIMP skin: Win98&#39;s 2011-05-19 (by ILYA) |
+| 2026-10-14 09:48:25 | [sdrtop-bin](https://aur.archlinux.org/packages/sdrtop-bin) | 0.6.6-1 | 0 | Terminal monitor for SDR hardware |
+| 2026-10-14 10:06:28 | [lianli-linux](https://aur.archlinux.org/packages/lianli-linux) | 1.2.0-1 | 0 | Open-source Linux replacement for L-Connect 3 for Lian Li devices |
+| 2026-10-14 10:07:57 | [mechrevo-drivers-dkms-git](https://aur.archlinux.org/packages/mechrevo-drivers-dkms-git) | 4.24.0.r2.g5dce9a2-1 | 0 | Unofficial MECHREVO laptop platform drivers based on TUXEDO drivers (DKMS, git) |
+| 2026-10-14 10:09:39 | [sdrtop](https://aur.archlinux.org/packages/sdrtop) | 0.6.6-1 | 0 | Terminal monitor for SDR hardware |
 
 ## Data source
 
