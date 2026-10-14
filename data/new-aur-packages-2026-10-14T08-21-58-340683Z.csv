@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-14T07:27:22Z,joyint-app-bin,0.7.1-1,1,"Joyint App, the Joyint desktop app"
+2026-10-14T07:41:37Z,joyint-joy-bin,0.23.1-1,1,"Joy, product management that lives in your Git repository (CLI)"
+2026-10-14T07:41:42Z,joyint-jyn-bin,0.9.0-1,1,"Jyn, a personal task manager: Git-native, CLI-first, CalDAV-ready"
+2026-10-14T07:43:39Z,qoder-cn,0.4.4-1,0,"Qoder CN desktop app, an agentic coding workbench from Alibaba"
+2026-10-14T07:52:44Z,scottbass3-clipd-git,r9.b5b6a4f-1,0,"Clipboard history daemon for Wayland, with pins organized in categories"
+2026-10-14T08:01:35Z,python-pymboot-rs,0.1.0-1,0,"Python bindings for McuBoot implementation in Rust, providing high-performance communication with NXP MCU bootloader"
