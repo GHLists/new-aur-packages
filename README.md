@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 12:20 UTC
+## Latest list — 2026-10-14 13:22 UTC
 
-New packages created between 2026-10-14 11:20 UTC and 2026-10-14 12:20 UTC.
+New packages created between 2026-10-14 12:20 UTC and 2026-10-14 13:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-14T12-20-51-912454Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-14T13-22-50-937405Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 11:32:33 | [chrome-for-testing-bin](https://aur.archlinux.org/packages/chrome-for-testing-bin) | 155.0.8059.79-1 | 0 | Official Google Chrome for Testing browser |
-| 2026-10-14 11:40:36 | [settings-tui-bin](https://aur.archlinux.org/packages/settings-tui-bin) | 0.1.15-1 | 0 | A hyper-lightweight (<9MB, near 0% CPU) universal Linux Settings Center for you… |
-| 2026-10-14 11:50:39 | [pawnix](https://aur.archlinux.org/packages/pawnix) | 0.1.1-1 | 0 | Keyboard-first terminal chess client with local play and Lichess support |
+| 2026-10-14 12:25:49 | [atc-bin](https://aur.archlinux.org/packages/atc-bin) | 0.1.0-1 | 0 | Atomic Server: install an inference engine, pull a model, serve it over an Open… |
+| 2026-10-14 12:29:19 | [mpd-presence-git](https://aur.archlinux.org/packages/mpd-presence-git) | r1.0.0-1 | 0 | A lightweight, resilient Discord Rich Presence daemon for MPD |
+| 2026-10-14 12:47:34 | [rapidsmpf](https://aur.archlinux.org/packages/rapidsmpf) | 26.10.00-1 | 0 | Collection of multi-GPU, distributed memory algorithms |
+| 2026-10-14 12:47:34 | [python-rapidsmpf](https://aur.archlinux.org/packages/python-rapidsmpf) | 26.10.00-1 | 0 | Collection of multi-GPU, distributed memory algorithms - Python bindings |
+| 2026-10-14 12:55:00 | [uuway-git](https://aur.archlinux.org/packages/uuway-git) | 1.2.0.r65.g766c293-1 | 0 | NetEase UU Remote host bridge for KDE Wayland with native capture |
 
 ## Data source
 

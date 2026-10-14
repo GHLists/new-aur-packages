@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-14T12:25:49Z,atc-bin,0.1.0-1,0,"Atomic Server: install an inference engine, pull a model, serve it over an OpenAI-compatible API"
+2026-10-14T12:29:19Z,mpd-presence-git,r1.0.0-1,0,"A lightweight, resilient Discord Rich Presence daemon for MPD"
+2026-10-14T12:47:34Z,rapidsmpf,26.10.00-1,0,"Collection of multi-GPU, distributed memory algorithms"
+2026-10-14T12:47:34Z,python-rapidsmpf,26.10.00-1,0,"Collection of multi-GPU, distributed memory algorithms - Python bindings"
+2026-10-14T12:55:00Z,uuway-git,1.2.0.r65.g766c293-1,0,NetEase UU Remote host bridge for KDE Wayland with native capture
