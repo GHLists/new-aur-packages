@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-14T21:38:45Z,grappa-bin,1.5.14-1,0,Always-on IRC bouncer with a REST/WebSocket API and bundled cicchetto web client (official binary)
+2026-10-14T21:38:51Z,shottino-bin,0.3.1-1,0,Terminal client and IRC bridge for Grappa with an ncurses interface (official binary)
+2026-10-14T21:40:27Z,cline-desktop-bin,0.0.46-1,0,Cline AI coding agent.
+2026-10-14T21:58:13Z,gulchce-bin,105-1,0,OpenCE fork with experimental features such as Halo MCC custom maps (needs your own Xbox disc image)
+2026-10-14T22:00:48Z,omaread-git,r18.5a3d237-1,0,"A fast, keyboard-first EPUB reader for Omarchy"
+2026-10-14T22:11:09Z,cloner-bin,2.5.36.1-1,0,"USB download/flashing tool for Ingenic SoCs — prebuilt binary, upstream provides no source code"
