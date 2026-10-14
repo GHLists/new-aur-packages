@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 03:20 UTC
+## Latest list — 2026-10-14 04:22 UTC
 
-New packages created between 2026-10-14 02:19 UTC and 2026-10-14 03:20 UTC.
+New packages created between 2026-10-14 03:20 UTC and 2026-10-14 04:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-14T03-20-25-367067Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-14T04-22-36-157211Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 02:20:35 | [brave-veta-bin](https://aur.archlinux.org/packages/brave-veta-bin) | 1.98.47-1 | 0 | Web browser that blocks ads and trackers by default (beta binary release). |
-| 2026-10-14 02:20:51 | [bravr-beta-bin](https://aur.archlinux.org/packages/bravr-beta-bin) | 1.98.47-1 | 0 | Web browser that blocks ads and trackers by default (beta binary release). |
-| 2026-10-14 02:21:08 | [bravve-beta-bin](https://aur.archlinux.org/packages/bravve-beta-bin) | 1.98.47-1 | 0 | Web browser that blocks ads and trackers by default (beta binary release). |
-| 2026-10-14 02:30:16 | [librofd-ffi](https://aur.archlinux.org/packages/librofd-ffi) | 0.4.0-1 | 0 | Stable C ABI for the rofd OFD parser and renderer |
-| 2026-10-14 03:01:34 | [plasma-panel-sync](https://aur.archlinux.org/packages/plasma-panel-sync) | 0.2.0-1 | 0 | Keep matching KDE Plasma 6 panels in sync across multiple screens |
+| 2026-10-14 03:47:07 | [ham2k-power-logger-bin](https://aur.archlinux.org/packages/ham2k-power-logger-bin) | 26.9.0-1 | 0 | Next-generation amateur radio logging app by Ham2K (pre-compiled binary) |
+| 2026-10-14 04:03:01 | [cgfried](https://aur.archlinux.org/packages/cgfried) | 0.1.0-1 | 0 | Standards-first C17 compiler for x86-64 and ARM64 |
 
 ## Data source
 
