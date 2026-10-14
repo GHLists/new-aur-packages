@@ -1,0 +1,101 @@
+created_at,package,version,votes,description
+2026-10-14T00:30:24Z,yzy,13.0.1-1,0,Yet another yogurt. Pacman wrapper and AUR helper written in go.
+2026-10-14T00:33:39Z,apru,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:33:50Z,aru,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:34:01Z,laru,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:34:11Z,oaru,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:34:22Z,paaru,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:34:32Z,paeu,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:34:43Z,pafu,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:35:08Z,parj,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:35:19Z,parru,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:35:36Z,paruu,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:35:47Z,pary,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:35:57Z,patu,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:36:07Z,pau,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:36:12Z,rokast,0.7.0-1,0,"Mirror your Linux screen to a Roku TV over native Miracast, with nothing installed on the TV"
+2026-10-14T00:36:18Z,paur,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:36:28Z,pparu,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:36:40Z,pqru,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:36:50Z,prau,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:36:52Z,rokast-git,0.7.0.r0.gbaa7232-1,0,"Mirror your Linux screen to a Roku TV over native Miracast, with nothing installed on the TV (git main)"
+2026-10-14T00:37:00Z,pru,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:37:11Z,psru,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:37:22Z,pzru,2.1.0-2,0,Feature packed AUR helper
+2026-10-14T00:43:27Z,barve-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:43:40Z,bave-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:43:52Z,bbrave-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:45:38Z,beave-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:45:52Z,bfave-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:46:05Z,braave-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:46:18Z,brabe-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:46:35Z,brace-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:46:48Z,brae-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:47:01Z,braev-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:47:14Z,brafe-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:47:28Z,brav-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:47:41Z,bravd-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:47:54Z,brave-bbin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:48:09Z,brave-bi,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:48:22Z,brave-bib,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:48:35Z,brave-bih,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:48:47Z,brave-biin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:49:00Z,brave-bim,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:49:13Z,brav-ebin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:49:27Z,brave--bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:49:48Z,braveb-in,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:50:01Z,bravebin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:50:15Z,brave-binn,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:50:28Z,brave-bkn,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:50:41Z,brave-bn,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:50:54Z,brave-bni,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:51:07Z,brave-bon,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:51:23Z,brave-bun,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:51:35Z,bravee-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:51:49Z,brave-gin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:52:02Z,brave-ibn,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:52:18Z,brave-in,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:52:32Z,brave-nin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:52:45Z,brave-vin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:52:57Z,bravr-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:53:12Z,bravve-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:53:26Z,bravw-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:53:38Z,brqve-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:53:54Z,brrave-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:54:14Z,brsve-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:54:27Z,brvae-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:54:40Z,brve-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:54:54Z,brzve-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:55:09Z,btave-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:55:22Z,grave-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:55:34Z,nrave-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:55:47Z,rave-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:56:00Z,rbave-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T00:56:13Z,vrave-bin,1:1.97.56-1,0,Web browser that blocks ads and trackers by default (binary release)
+2026-10-14T01:12:43Z,barve-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:12:54Z,bave-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:13:05Z,bbrave-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:13:15Z,beave-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:13:26Z,bfave-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:13:37Z,braave-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:13:48Z,brabe-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:13:59Z,brace-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:14:09Z,brae-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:14:20Z,braev-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:14:31Z,brafe-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:14:42Z,bravd-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:14:53Z,bravee-origin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:15:04Z,brave-irigin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:15:15Z,brave-lrigin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:15:26Z,brave-oeigin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:15:37Z,brave-ofigin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:15:49Z,brave-oigin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:15:59Z,brave-oirgin-bin,1:1.97.56-1,0,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:16:11Z,brave-oorigin-bin,,,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:16:21Z,brave-orgiin-bin,,,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:16:32Z,brave-orgin-bin,,,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:16:43Z,brave-oribin-bin,,,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:16:54Z,brave-orifin-bin,,,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:17:06Z,brave-origgin-bin,,,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:17:18Z,brave-origib-bin,,,The minimalist browser from the makers of Brave (binary release).
+2026-10-14T01:17:29Z,brave-origi-bin,,,The minimalist browser from the makers of Brave (binary release).
