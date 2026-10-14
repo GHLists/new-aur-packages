@@ -12,20 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 22:22 UTC
+## Latest list — 2026-10-14 23:20 UTC
 
-New packages created between 2026-10-14 21:20 UTC and 2026-10-14 22:22 UTC.
+New packages created between 2026-10-14 22:22 UTC and 2026-10-14 23:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-14T22-22-28-233682Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-14T23-20-31-281732Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 21:38:45 | [grappa-bin](https://aur.archlinux.org/packages/grappa-bin) | 1.5.14-1 | 0 | Always-on IRC bouncer with a REST/WebSocket API and bundled cicchetto web clien… |
-| 2026-10-14 21:38:51 | [shottino-bin](https://aur.archlinux.org/packages/shottino-bin) | 0.3.1-1 | 0 | Terminal client and IRC bridge for Grappa with an ncurses interface (official b… |
-| 2026-10-14 21:40:27 | [cline-desktop-bin](https://aur.archlinux.org/packages/cline-desktop-bin) | 0.0.46-1 | 0 | Cline AI coding agent. |
-| 2026-10-14 21:58:13 | [gulchce-bin](https://aur.archlinux.org/packages/gulchce-bin) | 105-1 | 0 | OpenCE fork with experimental features such as Halo MCC custom maps (needs your… |
-| 2026-10-14 22:00:48 | [omaread-git](https://aur.archlinux.org/packages/omaread-git) | r18.5a3d237-1 | 0 | A fast, keyboard-first EPUB reader for Omarchy |
-| 2026-10-14 22:11:09 | [cloner-bin](https://aur.archlinux.org/packages/cloner-bin) | 2.5.36.1-1 | 0 | USB download/flashing tool for Ingenic SoCs — prebuilt binary, upstream provide… |
+| 2026-10-14 22:47:22 | [puppyclicker-appimage](https://aur.archlinux.org/packages/puppyclicker-appimage) | 3.5.1-1 | 0 | Click your puppies from anywhere. (By KinkyRaven) |
+| 2026-10-14 22:53:31 | [omaread-bin](https://aur.archlinux.org/packages/omaread-bin) | 0.2.1-1 | 0 | A fast, keyboard-first EPUB reader for Omarchy (prebuilt) |
+| 2026-10-14 22:57:16 | [python-gds2openems-git](https://aur.archlinux.org/packages/python-gds2openems-git) | 0.5.0.r35.g0f87e9d-1 | 0 | GDSII to openEMS workflow and scripts |
+| 2026-10-14 23:01:38 | [horizon-launcher-bin](https://aur.archlinux.org/packages/horizon-launcher-bin) | 0.2.0-1 | 0 | Downloads, prepares and starts Horizon, a Minecraft Java Edition rewrite |
+| 2026-10-14 23:14:02 | [scramblery-migraphx-bin](https://aur.archlinux.org/packages/scramblery-migraphx-bin) | 4.3.0-1 | 0 | Desktop app for image and video scrambling with various methods including Fouri… |
 
 ## Data source
 
