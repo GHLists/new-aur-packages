@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 19:21 UTC
+## Latest list — 2026-10-14 20:19 UTC
 
-New packages created between 2026-10-14 18:20 UTC and 2026-10-14 19:21 UTC.
+New packages created between 2026-10-14 19:21 UTC and 2026-10-14 20:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-14T19-21-43-341006Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-14T20-19-47-376629Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 18:31:29 | [pycompile](https://aur.archlinux.org/packages/pycompile) | 0.1.0-1 | 0 | Compile Python source files into standalone native binaries |
-| 2026-10-14 18:37:12 | [lldb22-bin](https://aur.archlinux.org/packages/lldb22-bin) | 22.1.8-1 | 0 | Next generation, high-performance debugger (LLVM 22, prebuilt Arch package) |
-| 2026-10-14 18:37:37 | [python-speaklater](https://aur.archlinux.org/packages/python-speaklater) | 1.3-15 | 0 | Implements a lazy string for python useful for use with gettext. |
-| 2026-10-14 18:41:24 | [libpdfium](https://aur.archlinux.org/packages/libpdfium) | 155.0.8059.79-1 | 0 | PDF rendering/manipulation library from Chromium |
-| 2026-10-14 19:16:46 | [papers-ofd](https://aur.archlinux.org/packages/papers-ofd) | 0.1.0-1 | 0 | OFD (GB/T 33190-2016) document backend for GNOME Papers, on the rofd-ffi C ABI |
+| 2026-10-14 19:26:29 | [radiance-inference-git](https://aur.archlinux.org/packages/radiance-inference-git) | 1.6.0.r0-1 | 0 | C++20 LLM inference server for AMD GPUs (primarily gfx1201) with OpenAI-compati… |
+| 2026-10-14 19:59:17 | [lib32-libxslt](https://aur.archlinux.org/packages/lib32-libxslt) | 1.1.45-1 | 0 | XML stylesheet transformation library (32-bit) |
 
 ## Data source
 
