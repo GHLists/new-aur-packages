@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-14T17:26:12Z,cpyref,0.1.1-1,0,"Copy exact bytes once and paste them by a short reference, for AI agents"
+2026-10-14T17:26:49Z,gbild,0.1-1,0,GTK+ 2 image viewer
+2026-10-14T17:28:41Z,mimic-node,0.2.0-2,0,An OverlayFS-based sing-box Reality node manager
+2026-10-14T17:53:03Z,qlinux-device-manager,1.3.0-1,0,"Device manager and hardware information viewer for Linux, inspired by Windows Device Manager"
+2026-10-14T18:04:39Z,quicklook-bin,0.2.0-1,0,Quick Look image preview for KDE Plasma 6 with optional soft blur (prebuilt)
+2026-10-14T18:06:07Z,quicklook,1.2-2,0,Collects system statistics and outputs pretty graphics and (X)HTML pages.
+2026-10-14T18:07:59Z,qlinux-device-manager-appimage,1.3.0-1,0,Device manager and hardware information viewer for Linux (bundled AppImage)

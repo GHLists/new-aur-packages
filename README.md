@@ -12,22 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 17:21 UTC
+## Latest list — 2026-10-14 18:20 UTC
 
-New packages created between 2026-10-14 16:21 UTC and 2026-10-14 17:21 UTC.
+New packages created between 2026-10-14 17:21 UTC and 2026-10-14 18:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-14T17-21-19-995938Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-14T18-20-42-535059Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 16:25:24 | [subcraft-git](https://aur.archlinux.org/packages/subcraft-git) | 0.1.2.r2.geb3f374-1 | 0 | vibe coded clean-room reimplementation of Adobe Substance Painter (Git HEAD) |
-| 2026-10-14 16:25:28 | [subcraft](https://aur.archlinux.org/packages/subcraft) | 0.1.2-1 | 0 | vibe coded clean-room reimplementation of Adobe Substance Painter |
-| 2026-10-14 16:53:16 | [epic-games-launcher-bin](https://aur.archlinux.org/packages/epic-games-launcher-bin) | 0.95.2-1 | 1 | Official Epic Games Store launcher (Preview) |
-| 2026-10-14 16:59:17 | [tizen-tv-mcp](https://aur.archlinux.org/packages/tizen-tv-mcp) | 0.1.0-1 | 0 | MCP server bridging AI assistants to Samsung Tizen Smart TVs over SDB (dev tool… |
-| 2026-10-14 17:01:21 | [hpi](https://aur.archlinux.org/packages/hpi) | 1.0.0-2 | 0 | Helwan Package Installer for Arch Linux packages |
-| 2026-10-14 17:05:15 | [agy-acp-server](https://aur.archlinux.org/packages/agy-acp-server) | 1.4.0-1 | 0 | Google Antigravity ACP (Agent Client Protocol) server |
-| 2026-10-14 17:05:50 | [physx5-zluda](https://aur.archlinux.org/packages/physx5-zluda) | 5.11.0-1 | 0 | NVIDIA PhysX SDK 5 (GPU rigid bodies, articulations, deformables) running on AM… |
-| 2026-10-14 17:12:04 | [ait-bin](https://aur.archlinux.org/packages/ait-bin) | 0.1.2-1 | 0 | Local-first multi-agent manager with an Electron desktop and Rust daemon |
+| 2026-10-14 17:26:12 | [cpyref](https://aur.archlinux.org/packages/cpyref) | 0.1.1-1 | 0 | Copy exact bytes once and paste them by a short reference, for AI agents |
+| 2026-10-14 17:26:49 | [gbild](https://aur.archlinux.org/packages/gbild) | 0.1-1 | 0 | GTK+ 2 image viewer |
+| 2026-10-14 17:28:41 | [mimic-node](https://aur.archlinux.org/packages/mimic-node) | 0.2.0-2 | 0 | An OverlayFS-based sing-box Reality node manager |
+| 2026-10-14 17:53:03 | [qlinux-device-manager](https://aur.archlinux.org/packages/qlinux-device-manager) | 1.3.0-1 | 0 | Device manager and hardware information viewer for Linux, inspired by Windows D… |
+| 2026-10-14 18:04:39 | [quicklook-bin](https://aur.archlinux.org/packages/quicklook-bin) | 0.2.0-1 | 0 | Quick Look image preview for KDE Plasma 6 with optional soft blur (prebuilt) |
+| 2026-10-14 18:06:07 | [quicklook](https://aur.archlinux.org/packages/quicklook) | 1.2-2 | 0 | Collects system statistics and outputs pretty graphics and (X)HTML pages. |
+| 2026-10-14 18:07:59 | [qlinux-device-manager-appimage](https://aur.archlinux.org/packages/qlinux-device-manager-appimage) | 1.3.0-1 | 0 | Device manager and hardware information viewer for Linux (bundled AppImage) |
 
 ## Data source
 
