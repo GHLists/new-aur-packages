@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-14T11:32:33Z,chrome-for-testing-bin,155.0.8059.79-1,0,Official Google Chrome for Testing browser
+2026-10-14T11:40:36Z,settings-tui-bin,0.1.15-1,0,"A hyper-lightweight (<9MB, near 0% CPU) universal Linux Settings Center for your terminal"
+2026-10-14T11:50:39Z,pawnix,0.1.1-1,0,Keyboard-first terminal chess client with local play and Lichess support

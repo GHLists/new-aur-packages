@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 11:20 UTC
+## Latest list — 2026-10-14 12:20 UTC
 
-New packages created between 2026-10-14 10:22 UTC and 2026-10-14 11:20 UTC.
+New packages created between 2026-10-14 11:20 UTC and 2026-10-14 12:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-14T11-20-01-998781Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-14T12-20-51-912454Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 10:25:42 | [cbsg](https://aur.archlinux.org/packages/cbsg) | master-1 | 0 | Corporate Bullshit Generator |
-| 2026-10-14 10:39:52 | [pcb-autorouter-bin](https://aur.archlinux.org/packages/pcb-autorouter-bin) | 1.4807-1 | 0 | Intelligent PCB Auto Router. PCB Auto Router is an intelligent automatic routin… |
+| 2026-10-14 11:32:33 | [chrome-for-testing-bin](https://aur.archlinux.org/packages/chrome-for-testing-bin) | 155.0.8059.79-1 | 0 | Official Google Chrome for Testing browser |
+| 2026-10-14 11:40:36 | [settings-tui-bin](https://aur.archlinux.org/packages/settings-tui-bin) | 0.1.15-1 | 0 | A hyper-lightweight (<9MB, near 0% CPU) universal Linux Settings Center for you… |
+| 2026-10-14 11:50:39 | [pawnix](https://aur.archlinux.org/packages/pawnix) | 0.1.1-1 | 0 | Keyboard-first terminal chess client with local play and Lichess support |
 
 ## Data source
 
