@@ -12,21 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 18:20 UTC
+## Latest list — 2026-10-14 19:21 UTC
 
-New packages created between 2026-10-14 17:21 UTC and 2026-10-14 18:20 UTC.
+New packages created between 2026-10-14 18:20 UTC and 2026-10-14 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-14T18-20-42-535059Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-14T19-21-43-341006Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 17:26:12 | [cpyref](https://aur.archlinux.org/packages/cpyref) | 0.1.1-1 | 0 | Copy exact bytes once and paste them by a short reference, for AI agents |
-| 2026-10-14 17:26:49 | [gbild](https://aur.archlinux.org/packages/gbild) | 0.1-1 | 0 | GTK+ 2 image viewer |
-| 2026-10-14 17:28:41 | [mimic-node](https://aur.archlinux.org/packages/mimic-node) | 0.2.0-2 | 0 | An OverlayFS-based sing-box Reality node manager |
-| 2026-10-14 17:53:03 | [qlinux-device-manager](https://aur.archlinux.org/packages/qlinux-device-manager) | 1.3.0-1 | 0 | Device manager and hardware information viewer for Linux, inspired by Windows D… |
-| 2026-10-14 18:04:39 | [quicklook-bin](https://aur.archlinux.org/packages/quicklook-bin) | 0.2.0-1 | 0 | Quick Look image preview for KDE Plasma 6 with optional soft blur (prebuilt) |
-| 2026-10-14 18:06:07 | [quicklook](https://aur.archlinux.org/packages/quicklook) | 1.2-2 | 0 | Collects system statistics and outputs pretty graphics and (X)HTML pages. |
-| 2026-10-14 18:07:59 | [qlinux-device-manager-appimage](https://aur.archlinux.org/packages/qlinux-device-manager-appimage) | 1.3.0-1 | 0 | Device manager and hardware information viewer for Linux (bundled AppImage) |
+| 2026-10-14 18:31:29 | [pycompile](https://aur.archlinux.org/packages/pycompile) | 0.1.0-1 | 0 | Compile Python source files into standalone native binaries |
+| 2026-10-14 18:37:12 | [lldb22-bin](https://aur.archlinux.org/packages/lldb22-bin) | 22.1.8-1 | 0 | Next generation, high-performance debugger (LLVM 22, prebuilt Arch package) |
+| 2026-10-14 18:37:37 | [python-speaklater](https://aur.archlinux.org/packages/python-speaklater) | 1.3-15 | 0 | Implements a lazy string for python useful for use with gettext. |
+| 2026-10-14 18:41:24 | [libpdfium](https://aur.archlinux.org/packages/libpdfium) | 155.0.8059.79-1 | 0 | PDF rendering/manipulation library from Chromium |
+| 2026-10-14 19:16:46 | [papers-ofd](https://aur.archlinux.org/packages/papers-ofd) | 0.1.0-1 | 0 | OFD (GB/T 33190-2016) document backend for GNOME Papers, on the rofd-ffi C ABI |
 
 ## Data source
 
