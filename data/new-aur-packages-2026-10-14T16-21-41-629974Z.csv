@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-14T14:24:44Z,livekit-bin,1.13.10-1,0,"LiveKit: Real-time video, audio and data for developers"
+2026-10-14T14:31:41Z,yaggui-bin,0.1.0-1,0,"Fast, cross-platform graphical Git client"
+2026-10-14T14:35:21Z,opentubex-nightly-bin,0.36.0.nightly.2111…,1,"A private desktop YouTube client, nightly build"
+2026-10-14T15:05:35Z,flashforgemonitor,1.0.0rc1-1,0,Native Linux desktop monitor and controller for Flashforge Creator 5-series printers
+2026-10-14T15:17:55Z,taskbar-cat-git,r2.23d6b07-1,0,"Pixel-Art-Tamagotchi-Katze für KDE Plasma 6 / Wayland, lebt auf Boden und Fensteroberkanten"
+2026-10-14T15:28:41Z,bors,0.1.0-1,0,Display images in terminals using Kitty Graphics Protocol or ANSI blocks
+2026-10-14T15:47:35Z,kvant,0.1.0-1,0,A clean Material 3 audio player
