@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-14T16:25:24Z,subcraft-git,0.1.2.r2.geb3f374-1,0,vibe coded clean-room reimplementation of Adobe Substance Painter (Git HEAD)
+2026-10-14T16:25:28Z,subcraft,0.1.2-1,0,vibe coded clean-room reimplementation of Adobe Substance Painter
+2026-10-14T16:53:16Z,epic-games-launcher-bin,0.95.2-1,1,Official Epic Games Store launcher (Preview)
+2026-10-14T16:59:17Z,tizen-tv-mcp,0.1.0-1,0,"MCP server bridging AI assistants to Samsung Tizen Smart TVs over SDB (dev tools, telemetry, debloating)"
+2026-10-14T17:01:21Z,hpi,1.0.0-2,0,Helwan Package Installer for Arch Linux packages
+2026-10-14T17:05:15Z,agy-acp-server,1.4.0-1,0,Google Antigravity ACP (Agent Client Protocol) server
+2026-10-14T17:05:50Z,physx5-zluda,5.11.0-1,0,"NVIDIA PhysX SDK 5 (GPU rigid bodies, articulations, deformables) running on AMD GPUs via ZLUDA - PTX-only build in /opt/physx5"
+2026-10-14T17:12:04Z,ait-bin,0.1.2-1,0,Local-first multi-agent manager with an Electron desktop and Rust daemon
