@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 13:22 UTC
+## Latest list — 2026-10-14 14:21 UTC
 
-New packages created between 2026-10-14 12:20 UTC and 2026-10-14 13:22 UTC.
+New packages created between 2026-10-14 13:22 UTC and 2026-10-14 14:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-14T13-22-50-937405Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-14T14-21-37-106247Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 12:25:49 | [atc-bin](https://aur.archlinux.org/packages/atc-bin) | 0.1.0-1 | 0 | Atomic Server: install an inference engine, pull a model, serve it over an Open… |
-| 2026-10-14 12:29:19 | [mpd-presence-git](https://aur.archlinux.org/packages/mpd-presence-git) | r1.0.0-1 | 0 | A lightweight, resilient Discord Rich Presence daemon for MPD |
-| 2026-10-14 12:47:34 | [rapidsmpf](https://aur.archlinux.org/packages/rapidsmpf) | 26.10.00-1 | 0 | Collection of multi-GPU, distributed memory algorithms |
-| 2026-10-14 12:47:34 | [python-rapidsmpf](https://aur.archlinux.org/packages/python-rapidsmpf) | 26.10.00-1 | 0 | Collection of multi-GPU, distributed memory algorithms - Python bindings |
-| 2026-10-14 12:55:00 | [uuway-git](https://aur.archlinux.org/packages/uuway-git) | 1.2.0.r65.g766c293-1 | 0 | NetEase UU Remote host bridge for KDE Wayland with native capture |
+| 2026-10-14 13:47:29 | [capy-ai-bin](https://aur.archlinux.org/packages/capy-ai-bin) | 0.4.6-1 | 0 | Capy runs your coding agents in the cloud |
+| 2026-10-14 14:09:55 | [urma-node](https://aur.archlinux.org/packages/urma-node) | 0.6.0-1 | 0 | URMA archive node: service, control CLI and desktop status app |
 
 ## Data source
 
