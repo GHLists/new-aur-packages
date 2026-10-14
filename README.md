@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 20:19 UTC
+## Latest list — 2026-10-14 21:20 UTC
 
-New packages created between 2026-10-14 19:21 UTC and 2026-10-14 20:19 UTC.
+New packages created between 2026-10-14 20:19 UTC and 2026-10-14 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-14T20-19-47-376629Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-14T21-20-29-825728Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 19:26:29 | [radiance-inference-git](https://aur.archlinux.org/packages/radiance-inference-git) | 1.6.0.r0-1 | 0 | C++20 LLM inference server for AMD GPUs (primarily gfx1201) with OpenAI-compati… |
-| 2026-10-14 19:59:17 | [lib32-libxslt](https://aur.archlinux.org/packages/lib32-libxslt) | 1.1.45-1 | 0 | XML stylesheet transformation library (32-bit) |
+| 2026-10-14 20:30:01 | [scramblery-cuda-bin](https://aur.archlinux.org/packages/scramblery-cuda-bin) | 4.2.0-1 | 0 | Desktop app for image and video scrambling with various methods including Fouri… |
+| 2026-10-14 20:55:28 | [scramblery-openvino-bin](https://aur.archlinux.org/packages/scramblery-openvino-bin) | 4.2.0-1 | 0 | Desktop app for image and video scrambling with various methods including Fouri… |
+| 2026-10-14 20:57:53 | [scramblery-webgpu-bin](https://aur.archlinux.org/packages/scramblery-webgpu-bin) | 4.2.0-1 | 0 | Desktop app for image and video scrambling with various methods including Fouri… |
 
 ## Data source
 
