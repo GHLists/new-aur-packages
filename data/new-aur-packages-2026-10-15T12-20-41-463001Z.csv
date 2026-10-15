@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-15T11:31:03Z,console-emulators,1.0-2,1,Meta package for popular console emulators on Arch Linux
+2026-10-15T11:37:01Z,rustgis,0.2.0-1,0,"open-source GIS in pure Rust for mapping, analyzing and sharing geospatial data"
+2026-10-15T12:12:04Z,prx,0.1.0-1,0,Safe proxy routing manager that keeps inbound connections (e.g. SSH) alive
+2026-10-15T12:13:28Z,fbarcalc,1.0.1-1,0,calculate the maximum account value
+2026-10-15T12:16:26Z,python-kfnetlist,0.2.2-1,0,Rust-backed netlist schema and extraction tools for KFactory

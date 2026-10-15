@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 11:20 UTC
+## Latest list — 2026-10-15 12:20 UTC
 
-New packages created between 2026-10-15 10:22 UTC and 2026-10-15 11:20 UTC.
+New packages created between 2026-10-15 11:20 UTC and 2026-10-15 12:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T11-20-09-106654Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T12-20-41-463001Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 10:48:39 | [macos-sequoia-fonts](https://aur.archlinux.org/packages/macos-sequoia-fonts) | 15.8.1-2 | 0 | Apple macOS Sequoia fonts from system directories, website-selected Font7, and… |
-| 2026-10-15 10:50:09 | [wb2api](https://aur.archlinux.org/packages/wb2api) | 1.9.2-1 | 0 | workbuddy2api panel - Go API panel service |
-| 2026-10-15 10:56:26 | [wb2api-git](https://aur.archlinux.org/packages/wb2api-git) | 1.13.0.r9.g6b31db6-1 | 0 | workbuddy2api panel - Go API panel service (git, auto-follows upstream) |
+| 2026-10-15 11:31:03 | [console-emulators](https://aur.archlinux.org/packages/console-emulators) | 1.0-2 | 1 | Meta package for popular console emulators on Arch Linux |
+| 2026-10-15 11:37:01 | [rustgis](https://aur.archlinux.org/packages/rustgis) | 0.2.0-1 | 0 | open-source GIS in pure Rust for mapping, analyzing and sharing geospatial data |
+| 2026-10-15 12:12:04 | [prx](https://aur.archlinux.org/packages/prx) | 0.1.0-1 | 0 | Safe proxy routing manager that keeps inbound connections (e.g. SSH) alive |
+| 2026-10-15 12:13:28 | [fbarcalc](https://aur.archlinux.org/packages/fbarcalc) | 1.0.1-1 | 0 | calculate the maximum account value |
+| 2026-10-15 12:16:26 | [python-kfnetlist](https://aur.archlinux.org/packages/python-kfnetlist) | 0.2.2-1 | 0 | Rust-backed netlist schema and extraction tools for KFactory |
 
 ## Data source
 
