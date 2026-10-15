@@ -12,22 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 20:20 UTC
+## Latest list — 2026-10-15 21:22 UTC
 
-New packages created between 2026-10-15 19:22 UTC and 2026-10-15 20:20 UTC.
+New packages created between 2026-10-15 20:20 UTC and 2026-10-15 21:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T20-20-23-706904Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T21-22-02-969999Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 19:34:28 | [python-ten-vad-bin](https://aur.archlinux.org/packages/python-ten-vad-bin) | 1.0.6.9-1 | 0 | TEN VAD: low-latency, lightweight voice activity detector (Python bindings, pre… |
-| 2026-10-15 19:35:37 | [parakeet-dictation-git](https://aur.archlinux.org/packages/parakeet-dictation-git) | 2.0.0.r99.g7a69bb2-1 | 0 | On-device push-to-talk voice dictation for KDE Plasma Wayland (Parakeet TDT via… |
-| 2026-10-15 20:11:46 | [libvirt-iso-debian-bin](https://aur.archlinux.org/packages/libvirt-iso-debian-bin) | 13.7.0-1 | 0 | Official Debian stable network installation ISO for libvirt |
-| 2026-10-15 20:12:16 | [libvirt-iso-debian-offline-bin](https://aur.archlinux.org/packages/libvirt-iso-debian-offline-bin) | 13.7.0-1 | 0 | Official Debian stable DVD-1 offline installation ISO for libvirt |
-| 2026-10-15 20:12:58 | [libvirt-iso-ubuntu-desktop-bin](https://aur.archlinux.org/packages/libvirt-iso-ubuntu-desktop-bin) | 26.04.1-1 | 0 | Official Ubuntu Desktop installation ISO for libvirt |
-| 2026-10-15 20:13:18 | [libvirt-iso-ubuntu-desktop-lts-bin](https://aur.archlinux.org/packages/libvirt-iso-ubuntu-desktop-lts-bin) | 26.04.1-1 | 0 | Official Ubuntu LTS Desktop installation ISO for libvirt |
-| 2026-10-15 20:13:38 | [libvirt-iso-ubuntu-server-bin](https://aur.archlinux.org/packages/libvirt-iso-ubuntu-server-bin) | 26.04.1-1 | 0 | Official Ubuntu Server installation ISO for libvirt |
-| 2026-10-15 20:13:56 | [libvirt-iso-ubuntu-server-lts-bin](https://aur.archlinux.org/packages/libvirt-iso-ubuntu-server-lts-bin) | 26.04.1-1 | 0 | Official Ubuntu LTS Server installation ISO for libvirt |
+| 2026-10-15 20:33:35 | [lsa-sysinfo](https://aur.archlinux.org/packages/lsa-sysinfo) | 0.1.2-1 | 0 | Linux System Audit: clean-room Linux implementation of AIDA64 Business features… |
+| 2026-10-15 20:47:34 | [watcher](https://aur.archlinux.org/packages/watcher) | 0.14.5-1 | 0 | Simple and efficient filesystem watcher |
+| 2026-10-15 20:51:55 | [morphos-cross-bin](https://aur.archlinux.org/packages/morphos-cross-bin) | 20260529-3 | 0 | GCC 15 cross-compiler toolchain for MorphOS (PowerPC), with the MorphOS SDK |
+| 2026-10-15 21:11:08 | [tine-outliner-git](https://aur.archlinux.org/packages/tine-outliner-git) | 0.7.3.r2.g9c1f92d-1 | 1 | A fast, local, Logseq-compatible outliner (latest git version) |
+| 2026-10-15 21:14:40 | [lazyovpn-bin](https://aur.archlinux.org/packages/lazyovpn-bin) | 0.8.1-1 | 0 | A terminal UI for managing OpenVPN connections |
 
 ## Data source
 

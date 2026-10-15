@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-15T20:33:35Z,lsa-sysinfo,0.1.2-1,0,Linux System Audit: clean-room Linux implementation of AIDA64 Business features (AIDA64 by FinalWire Ltd.) - Cache & Memory Benchmark
+2026-10-15T20:47:34Z,watcher,0.14.5-1,0,Simple and efficient filesystem watcher
+2026-10-15T20:51:55Z,morphos-cross-bin,20260529-3,0,"GCC 15 cross-compiler toolchain for MorphOS (PowerPC), with the MorphOS SDK"
+2026-10-15T21:11:08Z,tine-outliner-git,0.7.3.r2.g9c1f92d-1,1,"A fast, local, Logseq-compatible outliner (latest git version)"
+2026-10-15T21:14:40Z,lazyovpn-bin,0.8.1-1,0,A terminal UI for managing OpenVPN connections
