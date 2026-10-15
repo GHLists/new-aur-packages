@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 15:20 UTC
+## Latest list — 2026-10-15 16:20 UTC
 
-New packages created between 2026-10-15 14:21 UTC and 2026-10-15 15:20 UTC.
+New packages created between 2026-10-15 15:20 UTC and 2026-10-15 16:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T15-20-56-862059Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T16-20-19-24748Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 14:33:29 | [elixiroffice-bin](https://aur.archlinux.org/packages/elixiroffice-bin) | 0.2.0-2 | 0 | Offline office suite with a Microsoft Office-style interface (beta) |
-| 2026-10-15 14:35:07 | [aurora-music](https://aur.archlinux.org/packages/aurora-music) | 0.1.0-1 | 0 | 本地音乐播放器，基于 Tauri 2 + Rust + React |
-| 2026-10-15 15:01:48 | [ishellpro-bin](https://aur.archlinux.org/packages/ishellpro-bin) | 3.1.58-2 | 0 | Lightweight cross-platform SSH/SFTP terminal client (native repack of the upstr… |
+| 2026-10-15 15:34:08 | [dackel-launcher](https://aur.archlinux.org/packages/dackel-launcher) | 0.1.1-1 | 0 | Launch Windows games with Proton, with gamepad support |
+| 2026-10-15 15:38:47 | [srs-sysinfo](https://aur.archlinux.org/packages/srs-sysinfo) | 1.0.3-1 | 0 | Clean-room Linux implementation of SIV64X (System Information Viewer by Ray Hin… |
 
 ## Data source
 
