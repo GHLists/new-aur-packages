@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 16:20 UTC
+## Latest list — 2026-10-15 17:21 UTC
 
-New packages created between 2026-10-15 15:20 UTC and 2026-10-15 16:20 UTC.
+New packages created between 2026-10-15 16:20 UTC and 2026-10-15 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T16-20-19-24748Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T17-21-48-303004Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 15:34:08 | [dackel-launcher](https://aur.archlinux.org/packages/dackel-launcher) | 0.1.1-1 | 0 | Launch Windows games with Proton, with gamepad support |
-| 2026-10-15 15:38:47 | [srs-sysinfo](https://aur.archlinux.org/packages/srs-sysinfo) | 1.0.3-1 | 0 | Clean-room Linux implementation of SIV64X (System Information Viewer by Ray Hin… |
+| 2026-10-15 16:36:07 | [astra-flightdeck](https://aur.archlinux.org/packages/astra-flightdeck) | 1.0.0-1 | 0 | A powerful, modern Hyprland configuration manager |
+| 2026-10-15 16:37:49 | [tuxmix](https://aur.archlinux.org/packages/tuxmix) | 0.1.0-1 | 0 | Open-source TotalMix replacement for RME audio interfaces on Linux |
+| 2026-10-15 16:42:07 | [astra-flightdeck-git](https://aur.archlinux.org/packages/astra-flightdeck-git) | 1.0.0.r1.gd47a5b5-1 | 0 | A powerful, modern Hyprland configuration manager |
+| 2026-10-15 16:53:39 | [openai-codex-desktop-bin](https://aur.archlinux.org/packages/openai-codex-desktop-bin) | 26.1007.71326-1 | 0 | ChatGPT desktop application by OpenAI (upstream Debian binary) |
 
 ## Data source
 

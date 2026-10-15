@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-15T16:36:07Z,astra-flightdeck,1.0.0-1,0,"A powerful, modern Hyprland configuration manager"
+2026-10-15T16:37:49Z,tuxmix,0.1.0-1,0,Open-source TotalMix replacement for RME audio interfaces on Linux
+2026-10-15T16:42:07Z,astra-flightdeck-git,1.0.0.r1.gd47a5b5-1,0,"A powerful, modern Hyprland configuration manager"
+2026-10-15T16:53:39Z,openai-codex-desktop-bin,26.1007.71326-1,0,ChatGPT desktop application by OpenAI (upstream Debian binary)
