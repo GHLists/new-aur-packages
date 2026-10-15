@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-15T00:22:25Z,wikistow-desktop-bin,0.2.0-1,0,Desktop app for your family's encrypted wiki
+2026-10-15T01:00:03Z,remotrix-git,0.6.0.beta.4.r0.g97…,0,"A Rust-native desktop download manager inspired by Motrix, built with the iced GUI framework."
