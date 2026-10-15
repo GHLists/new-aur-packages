@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 17:21 UTC
+## Latest list — 2026-10-15 18:19 UTC
 
-New packages created between 2026-10-15 16:20 UTC and 2026-10-15 17:21 UTC.
+New packages created between 2026-10-15 17:21 UTC and 2026-10-15 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T17-21-48-303004Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T18-19-28-579712Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 16:36:07 | [astra-flightdeck](https://aur.archlinux.org/packages/astra-flightdeck) | 1.0.0-1 | 0 | A powerful, modern Hyprland configuration manager |
-| 2026-10-15 16:37:49 | [tuxmix](https://aur.archlinux.org/packages/tuxmix) | 0.1.0-1 | 0 | Open-source TotalMix replacement for RME audio interfaces on Linux |
-| 2026-10-15 16:42:07 | [astra-flightdeck-git](https://aur.archlinux.org/packages/astra-flightdeck-git) | 1.0.0.r1.gd47a5b5-1 | 0 | A powerful, modern Hyprland configuration manager |
-| 2026-10-15 16:53:39 | [openai-codex-desktop-bin](https://aur.archlinux.org/packages/openai-codex-desktop-bin) | 26.1007.71326-1 | 0 | ChatGPT desktop application by OpenAI (upstream Debian binary) |
+| 2026-10-15 17:34:37 | [archix-git](https://aur.archlinux.org/packages/archix-git) | 0.1.0.r13.gc5fb50f-1 | 0 | Declarative, lockable, rollback-able system configuration for Arch Linux (lates… |
+| 2026-10-15 17:42:47 | [stitchviewer-git](https://aur.archlinux.org/packages/stitchviewer-git) | 0.1.0.r1-3 | 0 | Viewer for large TIFF images and stitched PNG grids |
 
 ## Data source
 
