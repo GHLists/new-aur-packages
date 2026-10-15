@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 02:19 UTC
+## Latest list — 2026-10-15 03:21 UTC
 
-New packages created between 2026-10-15 01:22 UTC and 2026-10-15 02:19 UTC.
+New packages created between 2026-10-15 02:19 UTC and 2026-10-15 03:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T02-19-44-126557Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T03-21-34-369055Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 01:44:53 | [graphicle-bin](https://aur.archlinux.org/packages/graphicle-bin) | 0.1.0-1 | 0 | Code graph and memory for repositories and coding agents, in one Rust program |
-| 2026-10-15 01:44:55 | [tauri-motrix-bin](https://aur.archlinux.org/packages/tauri-motrix-bin) | 0.2.5-1 | 0 | A full-featured download manager written in Tauri.The purpose is to restructure… |
-| 2026-10-15 01:56:44 | [uu-remote-bin](https://aur.archlinux.org/packages/uu-remote-bin) | 0.1.5-2 | 0 | 非官方 UU 远程 Linux 被控端，纯 Rust 实现，可用官方客户端远程控制 Linux 桌面 |
-| 2026-10-15 01:59:43 | [squelch](https://aur.archlinux.org/packages/squelch) | 0.2.0-1 | 0 | Push-to-talk speech-to-text on GPU: Parakeet/Whisper, mic-array beamforming, Me… |
+| 2026-10-15 03:02:15 | [grabbit-git](https://aur.archlinux.org/packages/grabbit-git) | 1.3.4.r5.g8c1d094-1 | 0 | A cross-platform download manager powered by aria2. Beautiful, easy to use, and… |
+| 2026-10-15 03:17:28 | [setsuna-bin](https://aur.archlinux.org/packages/setsuna-bin) | 1.0.213+0-1 | 0 | Download in one Setsuna - Motrix & AriaNg alternative in one app. |
 
 ## Data source
 
