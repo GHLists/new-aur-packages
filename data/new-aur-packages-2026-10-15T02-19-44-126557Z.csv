@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-15T01:44:53Z,graphicle-bin,0.1.0-1,0,"Code graph and memory for repositories and coding agents, in one Rust program"
+2026-10-15T01:44:55Z,tauri-motrix-bin,0.2.5-1,0,A full-featured download manager written in Tauri.The purpose is to restructure Motrix open source project.
+2026-10-15T01:56:44Z,uu-remote-bin,0.1.5-2,0,非官方 UU 远程 Linux 被控端，纯 Rust 实现，可用官方客户端远程控制 Linux 桌面
+2026-10-15T01:59:43Z,squelch,0.2.0-1,0,"Push-to-talk speech-to-text on GPU: Parakeet/Whisper, mic-array beamforming, Menu-key dictation"
