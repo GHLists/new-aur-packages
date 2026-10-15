@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-15T06:26:36Z,botmux-bin,3.44.0-1,0,"Bridge IM chats (Feishu/Lark) to AI coding CLIs (Claude Code, Codex, ...) running in tmux"
+2026-10-15T06:28:54Z,holo-realtek-firmware-toggles,1.4-1,0,Valve's SteamOS low-latency helper for the Steam Frame wireless adapter (desktop Linux port)
