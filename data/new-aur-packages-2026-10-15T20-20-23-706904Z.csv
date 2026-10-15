@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-15T19:34:28Z,python-ten-vad-bin,1.0.6.9-1,0,"TEN VAD: low-latency, lightweight voice activity detector (Python bindings, prebuilt library)"
+2026-10-15T19:35:37Z,parakeet-dictation-git,2.0.0.r99.g7a69bb2-1,0,"On-device push-to-talk voice dictation for KDE Plasma Wayland (Parakeet TDT via sherpa-onnx, TEN VAD)"
+2026-10-15T20:11:46Z,libvirt-iso-debian-bin,13.7.0-1,0,Official Debian stable network installation ISO for libvirt
+2026-10-15T20:12:16Z,libvirt-iso-debian-offline-bin,13.7.0-1,0,Official Debian stable DVD-1 offline installation ISO for libvirt
+2026-10-15T20:12:58Z,libvirt-iso-ubuntu-desktop-bin,26.04.1-1,0,Official Ubuntu Desktop installation ISO for libvirt
+2026-10-15T20:13:18Z,libvirt-iso-ubuntu-desktop-lts-bin,26.04.1-1,0,Official Ubuntu LTS Desktop installation ISO for libvirt
+2026-10-15T20:13:38Z,libvirt-iso-ubuntu-server-bin,26.04.1-1,0,Official Ubuntu Server installation ISO for libvirt
+2026-10-15T20:13:56Z,libvirt-iso-ubuntu-server-lts-bin,26.04.1-1,0,Official Ubuntu LTS Server installation ISO for libvirt

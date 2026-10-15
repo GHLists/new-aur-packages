@@ -12,20 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 19:22 UTC
+## Latest list — 2026-10-15 20:20 UTC
 
-New packages created between 2026-10-15 18:19 UTC and 2026-10-15 19:22 UTC.
+New packages created between 2026-10-15 19:22 UTC and 2026-10-15 20:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T19-22-12-716321Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T20-20-23-706904Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 18:22:47 | [telegram-desktop-export](https://aur.archlinux.org/packages/telegram-desktop-export) | 7.3.1-1 | 0 | Telegram Desktop with export patches: media reused between exports, size limits… |
-| 2026-10-15 18:23:02 | [telegram-desktop-export-bin](https://aur.archlinux.org/packages/telegram-desktop-export-bin) | 7.3.1-1 | 0 | Telegram Desktop with export patches: media reused between exports, size limits… |
-| 2026-10-15 18:28:59 | [crcbl-bin](https://aur.archlinux.org/packages/crcbl-bin) | 0.1.0-1 | 0 | Crucible engine's headless control CLI (binary release) |
-| 2026-10-15 18:47:34 | [pkgds](https://aur.archlinux.org/packages/pkgds) | 0.1.0-1 | 0 | Real on-disk usage per installed Arch Linux package |
-| 2026-10-15 19:17:19 | [sysman](https://aur.archlinux.org/packages/sysman) | 0.1.0-1 | 0 | System monitor for Linux: a metrics collector daemon with crash log and history… |
-| 2026-10-15 19:17:31 | [sysman-bin](https://aur.archlinux.org/packages/sysman-bin) | 0.1.0-1 | 0 | System monitor for Linux: a metrics collector daemon with crash log and history… |
+| 2026-10-15 19:34:28 | [python-ten-vad-bin](https://aur.archlinux.org/packages/python-ten-vad-bin) | 1.0.6.9-1 | 0 | TEN VAD: low-latency, lightweight voice activity detector (Python bindings, pre… |
+| 2026-10-15 19:35:37 | [parakeet-dictation-git](https://aur.archlinux.org/packages/parakeet-dictation-git) | 2.0.0.r99.g7a69bb2-1 | 0 | On-device push-to-talk voice dictation for KDE Plasma Wayland (Parakeet TDT via… |
+| 2026-10-15 20:11:46 | [libvirt-iso-debian-bin](https://aur.archlinux.org/packages/libvirt-iso-debian-bin) | 13.7.0-1 | 0 | Official Debian stable network installation ISO for libvirt |
+| 2026-10-15 20:12:16 | [libvirt-iso-debian-offline-bin](https://aur.archlinux.org/packages/libvirt-iso-debian-offline-bin) | 13.7.0-1 | 0 | Official Debian stable DVD-1 offline installation ISO for libvirt |
+| 2026-10-15 20:12:58 | [libvirt-iso-ubuntu-desktop-bin](https://aur.archlinux.org/packages/libvirt-iso-ubuntu-desktop-bin) | 26.04.1-1 | 0 | Official Ubuntu Desktop installation ISO for libvirt |
+| 2026-10-15 20:13:18 | [libvirt-iso-ubuntu-desktop-lts-bin](https://aur.archlinux.org/packages/libvirt-iso-ubuntu-desktop-lts-bin) | 26.04.1-1 | 0 | Official Ubuntu LTS Desktop installation ISO for libvirt |
+| 2026-10-15 20:13:38 | [libvirt-iso-ubuntu-server-bin](https://aur.archlinux.org/packages/libvirt-iso-ubuntu-server-bin) | 26.04.1-1 | 0 | Official Ubuntu Server installation ISO for libvirt |
+| 2026-10-15 20:13:56 | [libvirt-iso-ubuntu-server-lts-bin](https://aur.archlinux.org/packages/libvirt-iso-ubuntu-server-lts-bin) | 26.04.1-1 | 0 | Official Ubuntu LTS Server installation ISO for libvirt |
 
 ## Data source
 
