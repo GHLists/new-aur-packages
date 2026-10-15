@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 07:21 UTC
+## Latest list — 2026-10-15 08:21 UTC
 
-New packages created between 2026-10-15 06:21 UTC and 2026-10-15 07:21 UTC.
+New packages created between 2026-10-15 07:21 UTC and 2026-10-15 08:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T07-21-03-566592Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T08-21-03-162503Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 06:26:36 | [botmux-bin](https://aur.archlinux.org/packages/botmux-bin) | 3.44.0-1 | 0 | Bridge IM chats (Feishu/Lark) to AI coding CLIs (Claude Code, Codex, ...) runni… |
-| 2026-10-15 06:28:54 | [holo-realtek-firmware-toggles](https://aur.archlinux.org/packages/holo-realtek-firmware-toggles) | 1.4-1 | 0 | Valve's SteamOS low-latency helper for the Steam Frame wireless adapter (deskto… |
+| 2026-10-15 07:38:13 | [pagefind-bin](https://aur.archlinux.org/packages/pagefind-bin) | 1.5.2-1 | 0 | Static low-bandwidth search at scale |
+| 2026-10-15 07:44:50 | [redmine-tui](https://aur.archlinux.org/packages/redmine-tui) | 1.1.0-1 | 0 | Terminal UI for Redmine: kanban board, time logging, status updates |
+| 2026-10-15 08:13:46 | [wlan-auto-login-bin](https://aur.archlinux.org/packages/wlan-auto-login-bin) | 0.1.0-1 | 0 | CLI and TUI for automatic Student_CX campus Wi-Fi login (prebuilt binary) |
 
 ## Data source
 

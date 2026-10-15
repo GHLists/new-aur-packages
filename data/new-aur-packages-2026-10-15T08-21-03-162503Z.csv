@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-15T07:38:13Z,pagefind-bin,1.5.2-1,0,Static low-bandwidth search at scale
+2026-10-15T07:44:50Z,redmine-tui,1.1.0-1,0,"Terminal UI for Redmine: kanban board, time logging, status updates"
+2026-10-15T08:13:46Z,wlan-auto-login-bin,0.1.0-1,0,CLI and TUI for automatic Student_CX campus Wi-Fi login (prebuilt binary)
