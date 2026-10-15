@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 04:22 UTC
+## Latest list — 2026-10-15 05:21 UTC
 
-New packages created between 2026-10-15 03:21 UTC and 2026-10-15 04:22 UTC.
+New packages created between 2026-10-15 04:22 UTC and 2026-10-15 05:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T04-22-42-419236Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T05-21-13-836255Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 04:07:18 | [modcrawl](https://aur.archlinux.org/packages/modcrawl) | 0.5.2-2 | 0 | Detect, inspect, and analyze Minecraft mods and plugins from JARs |
+| 2026-10-15 04:23:39 | [gitoui-bin](https://aur.archlinux.org/packages/gitoui-bin) | 0.3.6-1 | 1 | Terminal Git client with an image-rendered commit graph and GitHub PRs |
 
 ## Data source
 
