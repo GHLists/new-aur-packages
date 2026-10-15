@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-15T22:24:45Z,mantisbt-cli-bin,0.3.0-1,0,Command line client for the MantisBT REST API
+2026-10-15T23:02:38Z,linux-cleaner,1.4.0-1,0,"Safe, configuration-driven cleaner for caches and temporary files"
+2026-10-15T23:14:16Z,zest,0.2.0-1,0,"Install, run, and upgrade Zig CLI tools from any git repository"

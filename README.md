@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 22:22 UTC
+## Latest list — 2026-10-15 23:21 UTC
 
-New packages created between 2026-10-15 21:22 UTC and 2026-10-15 22:22 UTC.
+New packages created between 2026-10-15 22:22 UTC and 2026-10-15 23:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T22-22-15-886252Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T23-21-34-93969Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 22:02:09 | [age-keylookup](https://aur.archlinux.org/packages/age-keylookup) | 0.10.0-1 | 0 | A tool to look up age public keys from a keyserver |
+| 2026-10-15 22:24:45 | [mantisbt-cli-bin](https://aur.archlinux.org/packages/mantisbt-cli-bin) | 0.3.0-1 | 0 | Command line client for the MantisBT REST API |
+| 2026-10-15 23:02:38 | [linux-cleaner](https://aur.archlinux.org/packages/linux-cleaner) | 1.4.0-1 | 0 | Safe, configuration-driven cleaner for caches and temporary files |
+| 2026-10-15 23:14:16 | [zest](https://aur.archlinux.org/packages/zest) | 0.2.0-1 | 0 | Install, run, and upgrade Zig CLI tools from any git repository |
 
 ## Data source
 
