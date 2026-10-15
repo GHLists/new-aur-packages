@@ -12,16 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 18:19 UTC
+## Latest list — 2026-10-15 19:22 UTC
 
-New packages created between 2026-10-15 17:21 UTC and 2026-10-15 18:19 UTC.
+New packages created between 2026-10-15 18:19 UTC and 2026-10-15 19:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T18-19-28-579712Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T19-22-12-716321Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 17:34:37 | [archix-git](https://aur.archlinux.org/packages/archix-git) | 0.1.0.r13.gc5fb50f-1 | 0 | Declarative, lockable, rollback-able system configuration for Arch Linux (lates… |
-| 2026-10-15 17:42:47 | [stitchviewer-git](https://aur.archlinux.org/packages/stitchviewer-git) | 0.1.0.r1-3 | 0 | Viewer for large TIFF images and stitched PNG grids |
+| 2026-10-15 18:22:47 | [telegram-desktop-export](https://aur.archlinux.org/packages/telegram-desktop-export) | 7.3.1-1 | 0 | Telegram Desktop with export patches: media reused between exports, size limits… |
+| 2026-10-15 18:23:02 | [telegram-desktop-export-bin](https://aur.archlinux.org/packages/telegram-desktop-export-bin) | 7.3.1-1 | 0 | Telegram Desktop with export patches: media reused between exports, size limits… |
+| 2026-10-15 18:28:59 | [crcbl-bin](https://aur.archlinux.org/packages/crcbl-bin) | 0.1.0-1 | 0 | Crucible engine's headless control CLI (binary release) |
+| 2026-10-15 18:47:34 | [pkgds](https://aur.archlinux.org/packages/pkgds) | 0.1.0-1 | 0 | Real on-disk usage per installed Arch Linux package |
+| 2026-10-15 19:17:19 | [sysman](https://aur.archlinux.org/packages/sysman) | 0.1.0-1 | 0 | System monitor for Linux: a metrics collector daemon with crash log and history… |
+| 2026-10-15 19:17:31 | [sysman-bin](https://aur.archlinux.org/packages/sysman-bin) | 0.1.0-1 | 0 | System monitor for Linux: a metrics collector daemon with crash log and history… |
 
 ## Data source
 

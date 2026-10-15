@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-15T18:22:47Z,telegram-desktop-export,7.3.1-1,0,"Telegram Desktop with export patches: media reused between exports, size limits per media type, no hangs on lost media"
+2026-10-15T18:23:02Z,telegram-desktop-export-bin,7.3.1-1,0,"Telegram Desktop with export patches: media reused between exports, size limits per media type, no hangs on lost media"
+2026-10-15T18:28:59Z,crcbl-bin,0.1.0-1,0,Crucible engine's headless control CLI (binary release)
+2026-10-15T18:47:34Z,pkgds,0.1.0-1,0,Real on-disk usage per installed Arch Linux package
+2026-10-15T19:17:19Z,sysman,0.1.0-1,0,"System monitor for Linux: a metrics collector daemon with crash log and history, and a GPUI app"
+2026-10-15T19:17:31Z,sysman-bin,0.1.0-1,0,"System monitor for Linux: a metrics collector daemon with crash log and history, and a GPUI app (prebuilt)"
