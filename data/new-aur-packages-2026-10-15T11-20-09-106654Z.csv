@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-15T10:48:39Z,macos-sequoia-fonts,15.8.1-2,0,"Apple macOS Sequoia fonts from system directories, website-selected Font7, and official Apple Fonts"
+2026-10-15T10:50:09Z,wb2api,1.9.2-1,0,workbuddy2api panel - Go API panel service
+2026-10-15T10:56:26Z,wb2api-git,1.13.0.r9.g6b31db6-1,0,"workbuddy2api panel - Go API panel service (git, auto-follows upstream)"
