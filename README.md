@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 08:21 UTC
+## Latest list — 2026-10-15 09:21 UTC
 
-New packages created between 2026-10-15 07:21 UTC and 2026-10-15 08:21 UTC.
+New packages created between 2026-10-15 08:21 UTC and 2026-10-15 09:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T08-21-03-162503Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T09-21-20-349636Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 07:38:13 | [pagefind-bin](https://aur.archlinux.org/packages/pagefind-bin) | 1.5.2-1 | 0 | Static low-bandwidth search at scale |
-| 2026-10-15 07:44:50 | [redmine-tui](https://aur.archlinux.org/packages/redmine-tui) | 1.1.0-1 | 0 | Terminal UI for Redmine: kanban board, time logging, status updates |
-| 2026-10-15 08:13:46 | [wlan-auto-login-bin](https://aur.archlinux.org/packages/wlan-auto-login-bin) | 0.1.0-1 | 0 | CLI and TUI for automatic Student_CX campus Wi-Fi login (prebuilt binary) |
+| 2026-10-15 08:30:13 | [ringo-mcp-bin](https://aur.archlinux.org/packages/ringo-mcp-bin) | 0.1.0-1 | 0 | MCP server over stdio exposing ringo SIP agents for LLM-driven telephony |
+| 2026-10-15 08:33:33 | [munin-libvirt-plugins](https://aur.archlinux.org/packages/munin-libvirt-plugins) | 0.0.7-1 | 0 | Munin plugins to monitor virtual machines managed via libvirt |
+| 2026-10-15 09:07:39 | [pass-pqp-ff-extension](https://aur.archlinux.org/packages/pass-pqp-ff-extension) | 0.1.3-1 | 0 | Firefox/LibreWolf extension to browse a pass-pqp password store |
+| 2026-10-15 09:13:07 | [geeqie-gtk3](https://aur.archlinux.org/packages/geeqie-gtk3) | 2.9-1 | 0 | Lightweight image viewer (last GTK3 release, 2.9) |
 
 ## Data source
 
