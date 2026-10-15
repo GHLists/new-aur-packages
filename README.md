@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 14:21 UTC
+## Latest list — 2026-10-15 15:20 UTC
 
-New packages created between 2026-10-15 13:23 UTC and 2026-10-15 14:21 UTC.
+New packages created between 2026-10-15 14:21 UTC and 2026-10-15 15:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-15T14-21-46-009875Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-15T15-20-56-862059Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 13:43:28 | [yt-tui](https://aur.archlinux.org/packages/yt-tui) | 1.1.0-1 | 0 | Curses TUI for yt-dlp with search and queueing |
-| 2026-10-15 13:43:56 | [zulu-25-jdk-fx](https://aur.archlinux.org/packages/zulu-25-jdk-fx) | 25.36.205-1 | 0 | Azul Zulu JDK 25 with JavaFX |
+| 2026-10-15 14:33:29 | [elixiroffice-bin](https://aur.archlinux.org/packages/elixiroffice-bin) | 0.2.0-2 | 0 | Offline office suite with a Microsoft Office-style interface (beta) |
+| 2026-10-15 14:35:07 | [aurora-music](https://aur.archlinux.org/packages/aurora-music) | 0.1.0-1 | 0 | 本地音乐播放器，基于 Tauri 2 + Rust + React |
+| 2026-10-15 15:01:48 | [ishellpro-bin](https://aur.archlinux.org/packages/ishellpro-bin) | 3.1.58-2 | 0 | Lightweight cross-platform SSH/SFTP terminal client (native repack of the upstr… |
 
 ## Data source
 
