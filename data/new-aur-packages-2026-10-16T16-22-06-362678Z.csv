@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-16T15:20:13Z,display-tui,0.9.6.2-1,1,Minimalistic Hyprland monitor configuration TUI
+2026-10-16T15:31:06Z,display-tui-bin,0.9.6.2-1,1,Minimalistic Hyprland monitor configuration TUI (pre-built binary)
+2026-10-16T15:37:51Z,verdana-bin,0.0.5-1,0,"A native launcher for napps, modular and pluggable Nostr microapps."
+2026-10-16T16:03:18Z,ymusic-cli,0.5.0-1,0,"Terminal client for Yandex Music: My Wave, likes, stations (TUI); fork of https://github.com/Rexilone/yamusic-cli"
+2026-10-16T16:03:28Z,mingw-w64-yyjson,0.13.0-1,0,A high performance C JSON library (mingw-w64)
+2026-10-16T16:09:44Z,mingw-w64-imageinfo,2.0.0-1,0,Cross platform super fast single header c++ library to get image size and format without loading/decoding (mingw-w64)

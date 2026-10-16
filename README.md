@@ -12,20 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 15:20 UTC
+## Latest list — 2026-10-16 16:22 UTC
 
-New packages created between 2026-10-16 14:19 UTC and 2026-10-16 15:20 UTC.
+New packages created between 2026-10-16 15:20 UTC and 2026-10-16 16:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T15-20-11-673813Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T16-22-06-362678Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 14:22:30 | [muxin-bin](https://aur.archlinux.org/packages/muxin-bin) | 0.5.2-1 | 0 | All your machines in one app, for you and your AI agents |
-| 2026-10-16 14:40:11 | [io-workshop-act-bin](https://aur.archlinux.org/packages/io-workshop-act-bin) | 1.0.0-1 | 0 | ACT — a MyAnimeList client (desktop build) |
-| 2026-10-16 14:45:28 | [wikistow-cli-bin](https://aur.archlinux.org/packages/wikistow-cli-bin) | 0.6.0-1 | 0 | Command-line client for your family's encrypted wiki, for people and their agen… |
-| 2026-10-16 15:10:21 | [re-zoids-saga-bin](https://aur.archlinux.org/packages/re-zoids-saga-bin) | 0.8.0-1 | 0 | Native Zoids Saga runtime with localization support (requires your own ROM) |
-| 2026-10-16 15:10:55 | [zoids-re-saga-bin](https://aur.archlinux.org/packages/zoids-re-saga-bin) | 0.8.0-1 | 0 | Native Zoids Saga runtime with localization support (requires your own ROM) |
-| 2026-10-16 15:12:13 | [funes](https://aur.archlinux.org/packages/funes) | 1.9.0-1 | 0 | Durable, searchable memory of your past AI agent sessions |
+| 2026-10-16 15:20:13 | [display-tui](https://aur.archlinux.org/packages/display-tui) | 0.9.6.2-1 | 1 | Minimalistic Hyprland monitor configuration TUI |
+| 2026-10-16 15:31:06 | [display-tui-bin](https://aur.archlinux.org/packages/display-tui-bin) | 0.9.6.2-1 | 1 | Minimalistic Hyprland monitor configuration TUI (pre-built binary) |
+| 2026-10-16 15:37:51 | [verdana-bin](https://aur.archlinux.org/packages/verdana-bin) | 0.0.5-1 | 0 | A native launcher for napps, modular and pluggable Nostr microapps. |
+| 2026-10-16 16:03:18 | [ymusic-cli](https://aur.archlinux.org/packages/ymusic-cli) | 0.5.0-1 | 0 | Terminal client for Yandex Music: My Wave, likes, stations (TUI); fork of https… |
+| 2026-10-16 16:03:28 | [mingw-w64-yyjson](https://aur.archlinux.org/packages/mingw-w64-yyjson) | 0.13.0-1 | 0 | A high performance C JSON library (mingw-w64) |
+| 2026-10-16 16:09:44 | [mingw-w64-imageinfo](https://aur.archlinux.org/packages/mingw-w64-imageinfo) | 2.0.0-1 | 0 | Cross platform super fast single header c++ library to get image size and forma… |
 
 ## Data source
 
