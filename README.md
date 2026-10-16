@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 17:19 UTC
+## Latest list — 2026-10-16 18:19 UTC
 
-New packages created between 2026-10-16 16:22 UTC and 2026-10-16 17:19 UTC.
+New packages created between 2026-10-16 17:19 UTC and 2026-10-16 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T17-19-19-839756Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T18-19-48-165415Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 16:57:27 | [manggo](https://aur.archlinux.org/packages/manggo) | 1.1.2-1 | 0 | Desktop translation and screenshot OCR assistant |
-| 2026-10-16 16:57:37 | [nota-daw-bin](https://aur.archlinux.org/packages/nota-daw-bin) | 0.55.1-1 | 0 | Modern digital audio workstation (DAW) (upstream binary) |
-| 2026-10-16 17:01:24 | [ols-git](https://aur.archlinux.org/packages/ols-git) | dev_2026_10.r30.gfe… | 0 | Language server and source code formatter for Odin |
+| 2026-10-16 17:28:18 | [akp02d](https://aur.archlinux.org/packages/akp02d) | 1.0.0-1 | 0 | Themed system stats display for the Ajazz AKP02 panel, with a live theme editor |
+| 2026-10-16 17:33:11 | [xpt](https://aur.archlinux.org/packages/xpt) | 0.12.0-1 | 1 | a package-management suite for .xpt packages |
 
 ## Data source
 
