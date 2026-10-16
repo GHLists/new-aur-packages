@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-16T14:22:30Z,muxin-bin,0.5.2-1,0,"All your machines in one app, for you and your AI agents"
+2026-10-16T14:40:11Z,io-workshop-act-bin,1.0.0-1,0,ACT — a MyAnimeList client (desktop build)
+2026-10-16T14:45:28Z,wikistow-cli-bin,0.6.0-1,0,"Command-line client for your family's encrypted wiki, for people and their agents"
+2026-10-16T15:10:21Z,re-zoids-saga-bin,0.8.0-1,0,Native Zoids Saga runtime with localization support (requires your own ROM)
+2026-10-16T15:10:55Z,zoids-re-saga-bin,0.8.0-1,0,Native Zoids Saga runtime with localization support (requires your own ROM)
+2026-10-16T15:12:13Z,funes,1.9.0-1,0,"Durable, searchable memory of your past AI agent sessions"

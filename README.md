@@ -12,16 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 14:19 UTC
+## Latest list — 2026-10-16 15:20 UTC
 
-New packages created between 2026-10-16 13:22 UTC and 2026-10-16 14:19 UTC.
+New packages created between 2026-10-16 14:19 UTC and 2026-10-16 15:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T14-19-25-11951Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T15-20-11-673813Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 13:54:10 | [isai-studio-pro-git](https://aur.archlinux.org/packages/isai-studio-pro-git) | 0.0.1.r13.1ecaeb9-1 | 0 | An unofficial, native, cross-platform Proton Mail desktop client written in Rust |
-| 2026-10-16 14:11:33 | [pg_sift](https://aur.archlinux.org/packages/pg_sift) | 1.0.0-1 | 0 | CTID-bitmap full-text search index with BM25 ranking for PostgreSQL |
+| 2026-10-16 14:22:30 | [muxin-bin](https://aur.archlinux.org/packages/muxin-bin) | 0.5.2-1 | 0 | All your machines in one app, for you and your AI agents |
+| 2026-10-16 14:40:11 | [io-workshop-act-bin](https://aur.archlinux.org/packages/io-workshop-act-bin) | 1.0.0-1 | 0 | ACT — a MyAnimeList client (desktop build) |
+| 2026-10-16 14:45:28 | [wikistow-cli-bin](https://aur.archlinux.org/packages/wikistow-cli-bin) | 0.6.0-1 | 0 | Command-line client for your family's encrypted wiki, for people and their agen… |
+| 2026-10-16 15:10:21 | [re-zoids-saga-bin](https://aur.archlinux.org/packages/re-zoids-saga-bin) | 0.8.0-1 | 0 | Native Zoids Saga runtime with localization support (requires your own ROM) |
+| 2026-10-16 15:10:55 | [zoids-re-saga-bin](https://aur.archlinux.org/packages/zoids-re-saga-bin) | 0.8.0-1 | 0 | Native Zoids Saga runtime with localization support (requires your own ROM) |
+| 2026-10-16 15:12:13 | [funes](https://aur.archlinux.org/packages/funes) | 1.9.0-1 | 0 | Durable, searchable memory of your past AI agent sessions |
 
 ## Data source
 
