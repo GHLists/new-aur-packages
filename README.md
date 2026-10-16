@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 01:20 UTC
+## Latest list — 2026-10-16 02:21 UTC
 
-New packages created between 2026-10-16 00:22 UTC and 2026-10-16 01:20 UTC.
+New packages created between 2026-10-16 01:20 UTC and 2026-10-16 02:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T01-20-36-875386Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T02-21-35-244195Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 00:23:58 | [localist-bin](https://aur.archlinux.org/packages/localist-bin) | 1.20.5-1 | 0 | A local project organizer for folders, repositories, and work in progress |
-| 2026-10-16 01:05:24 | [python-jsonrpclib-pelix](https://aur.archlinux.org/packages/python-jsonrpclib-pelix) | 0.3.1-1 | 0 | A Python (2 & 3) JSON-RPC over HTTP that mirrors xmlrpclib syntax |
+| 2026-10-16 01:44:04 | [chaptarrng-bin](https://aur.archlinux.org/packages/chaptarrng-bin) | 0.9.970-1 | 0 | Standalone audiobook and ebook library manager |
+| 2026-10-16 02:00:47 | [git-tree-bin](https://aur.archlinux.org/packages/git-tree-bin) | 2.0.0-1 | 1 | Local-first visual Git client for macOS, Windows and Linux |
+| 2026-10-16 02:01:54 | [battery-log-git](https://aur.archlinux.org/packages/battery-log-git) | 0.1.0.r8.ga3e7a3f-1 | 0 | What the battery did, and why: a sampler daemon and a desktop dashboard |
 
 ## Data source
 
