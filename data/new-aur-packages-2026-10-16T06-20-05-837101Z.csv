@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-10-16T05:30:14Z,disk-usage-bin,0.2.0-1,1,"Fast and lightweight disk usage analyzer written in Rust, with a simple visual representation of what takes up space on your disk"

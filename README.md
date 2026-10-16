@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 05:20 UTC
+## Latest list — 2026-10-16 06:20 UTC
 
-New packages created between 2026-10-16 04:21 UTC and 2026-10-16 05:20 UTC.
+New packages created between 2026-10-16 05:20 UTC and 2026-10-16 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T05-20-38-382671Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T06-20-05-837101Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 04:53:08 | [procinsh](https://aur.archlinux.org/packages/procinsh) | 0.1.13-1 | 1 | A web-based process inspector for Linux |
-| 2026-10-16 05:00:58 | [synara-beta](https://aur.archlinux.org/packages/synara-beta) | 1.0.6_beta.1-1 | 0 | Minimal desktop GUI for coding agents (beta channel) |
+| 2026-10-16 05:30:14 | [disk-usage-bin](https://aur.archlinux.org/packages/disk-usage-bin) | 0.2.0-1 | 1 | Fast and lightweight disk usage analyzer written in Rust, with a simple visual… |
 
 ## Data source
 
