@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-16T13:54:10Z,isai-studio-pro-git,0.0.1.r13.1ecaeb9-1,0,"An unofficial, native, cross-platform Proton Mail desktop client written in Rust"
+2026-10-16T14:11:33Z,pg_sift,1.0.0-1,0,CTID-bitmap full-text search index with BM25 ranking for PostgreSQL

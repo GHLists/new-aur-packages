@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 13:22 UTC
+## Latest list — 2026-10-16 14:19 UTC
 
-New packages created between 2026-10-16 12:22 UTC and 2026-10-16 13:22 UTC.
+New packages created between 2026-10-16 13:22 UTC and 2026-10-16 14:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T13-22-00-60614Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T14-19-25-11951Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 12:26:50 | [gemini-web2api-go-bin](https://aur.archlinux.org/packages/gemini-web2api-go-bin) | 4.22.0-1 | 0 | Self-hosted OpenAI-compatible proxy for the Gemini web app (no API key needed),… |
-| 2026-10-16 12:43:05 | [cadcraft-studio](https://aur.archlinux.org/packages/cadcraft-studio) | 0.4.0-1 | 0 | Every CadCraft app in one desktop install, on one license |
-| 2026-10-16 12:54:09 | [hypertube-git](https://aur.archlinux.org/packages/hypertube-git) | 0.2.0.r11.g7b37adc-1 | 0 | A truly native YouTube Music client |
+| 2026-10-16 13:54:10 | [isai-studio-pro-git](https://aur.archlinux.org/packages/isai-studio-pro-git) | 0.0.1.r13.1ecaeb9-1 | 0 | An unofficial, native, cross-platform Proton Mail desktop client written in Rust |
+| 2026-10-16 14:11:33 | [pg_sift](https://aur.archlinux.org/packages/pg_sift) | 1.0.0-1 | 0 | CTID-bitmap full-text search index with BM25 ranking for PostgreSQL |
 
 ## Data source
 
