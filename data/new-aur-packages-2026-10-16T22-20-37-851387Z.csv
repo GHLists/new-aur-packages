@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-16T21:35:08Z,gvfs-chomikuj-git,1.62.1.r6793.gb6a35…,0,Chomikuj.pl backend for gvfs (gvfs fork with Mobile API v3 support)
+2026-10-16T21:50:20Z,melodyd-git,r1020.gacd0ac0e-1,0,"Melody music engine: library, playback and outputs, shared on the network"
+2026-10-16T21:50:20Z,melody-agent-git,r1020.gacd0ac0e-1,0,Speakers for Melody engines: finds the engines on the network and plays for them
