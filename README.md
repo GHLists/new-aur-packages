@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 10:21 UTC
+## Latest list — 2026-10-16 12:22 UTC
 
-New packages created between 2026-10-16 09:22 UTC and 2026-10-16 10:21 UTC.
+New packages created between 2026-10-16 11:21 UTC and 2026-10-16 12:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T10-21-05-142646Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T12-22-56-206798Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 09:32:13 | [onair](https://aur.archlinux.org/packages/onair) | 0.2.5-5 | 0 | SDR receiver for digital TV (DVB-T/T2, DVB-S/S2, ATSC), DAB+, FM, DRM, ADS-B, G… |
-| 2026-10-16 10:14:37 | [setline](https://aur.archlinux.org/packages/setline) | 0.0.4-1 | 0 | Beangle local HTTP path router and transparent proxy |
+| 2026-10-16 11:26:21 | [redmine-tui-bin](https://aur.archlinux.org/packages/redmine-tui-bin) | 1.1.0-1 | 0 | Terminal UI for Redmine: kanban board, time logging, status updates |
+| 2026-10-16 12:04:07 | [screencfg](https://aur.archlinux.org/packages/screencfg) | 0.6.3-1 | 0 | Automatically configure your screen setup |
+| 2026-10-16 12:06:22 | [grm](https://aur.archlinux.org/packages/grm) | 0.12.0-1 | 0 | Manage git repos, worktrees and integrate with GitHub and GitLab |
 
 ## Data source
 
