@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 02:21 UTC
+## Latest list — 2026-10-16 03:19 UTC
 
-New packages created between 2026-10-16 01:20 UTC and 2026-10-16 02:21 UTC.
+New packages created between 2026-10-16 02:21 UTC and 2026-10-16 03:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T02-21-35-244195Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T03-19-15-518665Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 01:44:04 | [chaptarrng-bin](https://aur.archlinux.org/packages/chaptarrng-bin) | 0.9.970-1 | 0 | Standalone audiobook and ebook library manager |
-| 2026-10-16 02:00:47 | [git-tree-bin](https://aur.archlinux.org/packages/git-tree-bin) | 2.0.0-1 | 1 | Local-first visual Git client for macOS, Windows and Linux |
-| 2026-10-16 02:01:54 | [battery-log-git](https://aur.archlinux.org/packages/battery-log-git) | 0.1.0.r8.ga3e7a3f-1 | 0 | What the battery did, and why: a sampler daemon and a desktop dashboard |
+| 2026-10-16 02:46:14 | [lzc-client-bin](https://aur.archlinux.org/packages/lzc-client-bin) | 2.0.30-5 | 0 | 懒猫微服桌面客户端（LCMD），扫码登录后管理微服应用、文件与远程访问 |
+| 2026-10-16 02:53:38 | [python-demangle](https://aur.archlinux.org/packages/python-demangle) | 0.6.0-1 | 0 | Read mangled symbol names in pure Python |
+| 2026-10-16 03:05:31 | [dackel-launcher-bin](https://aur.archlinux.org/packages/dackel-launcher-bin) | 0.1.3-1 | 0 | Launch Windows games with Proton, with gamepad support (prebuilt binary) |
 
 ## Data source
 
