@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 12:22 UTC
+## Latest list — 2026-10-16 13:22 UTC
 
-New packages created between 2026-10-16 11:21 UTC and 2026-10-16 12:22 UTC.
+New packages created between 2026-10-16 12:22 UTC and 2026-10-16 13:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T12-22-56-206798Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T13-22-00-60614Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 11:26:21 | [redmine-tui-bin](https://aur.archlinux.org/packages/redmine-tui-bin) | 1.1.0-1 | 0 | Terminal UI for Redmine: kanban board, time logging, status updates |
-| 2026-10-16 12:04:07 | [screencfg](https://aur.archlinux.org/packages/screencfg) | 0.6.3-1 | 0 | Automatically configure your screen setup |
-| 2026-10-16 12:06:22 | [grm](https://aur.archlinux.org/packages/grm) | 0.12.0-1 | 0 | Manage git repos, worktrees and integrate with GitHub and GitLab |
+| 2026-10-16 12:26:50 | [gemini-web2api-go-bin](https://aur.archlinux.org/packages/gemini-web2api-go-bin) | 4.22.0-1 | 0 | Self-hosted OpenAI-compatible proxy for the Gemini web app (no API key needed),… |
+| 2026-10-16 12:43:05 | [cadcraft-studio](https://aur.archlinux.org/packages/cadcraft-studio) | 0.4.0-1 | 0 | Every CadCraft app in one desktop install, on one license |
+| 2026-10-16 12:54:09 | [hypertube-git](https://aur.archlinux.org/packages/hypertube-git) | 0.2.0.r11.g7b37adc-1 | 0 | A truly native YouTube Music client |
 
 ## Data source
 

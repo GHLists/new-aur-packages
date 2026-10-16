@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-16T12:26:50Z,gemini-web2api-go-bin,4.22.0-1,0,"Self-hosted OpenAI-compatible proxy for the Gemini web app (no API key needed), prebuilt binary"
+2026-10-16T12:43:05Z,cadcraft-studio,0.4.0-1,0,"Every CadCraft app in one desktop install, on one license"
+2026-10-16T12:54:09Z,hypertube-git,0.2.0.r11.g7b37adc-1,0,A truly native YouTube Music client
