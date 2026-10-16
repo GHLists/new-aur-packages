@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 03:19 UTC
+## Latest list — 2026-10-16 05:20 UTC
 
-New packages created between 2026-10-16 02:21 UTC and 2026-10-16 03:19 UTC.
+New packages created between 2026-10-16 04:21 UTC and 2026-10-16 05:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T03-19-15-518665Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T05-20-38-382671Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 02:46:14 | [lzc-client-bin](https://aur.archlinux.org/packages/lzc-client-bin) | 2.0.30-5 | 0 | 懒猫微服桌面客户端（LCMD），扫码登录后管理微服应用、文件与远程访问 |
-| 2026-10-16 02:53:38 | [python-demangle](https://aur.archlinux.org/packages/python-demangle) | 0.6.0-1 | 0 | Read mangled symbol names in pure Python |
-| 2026-10-16 03:05:31 | [dackel-launcher-bin](https://aur.archlinux.org/packages/dackel-launcher-bin) | 0.1.3-1 | 0 | Launch Windows games with Proton, with gamepad support (prebuilt binary) |
+| 2026-10-16 04:53:08 | [procinsh](https://aur.archlinux.org/packages/procinsh) | 0.1.13-1 | 1 | A web-based process inspector for Linux |
+| 2026-10-16 05:00:58 | [synara-beta](https://aur.archlinux.org/packages/synara-beta) | 1.0.6_beta.1-1 | 0 | Minimal desktop GUI for coding agents (beta channel) |
 
 ## Data source
 
