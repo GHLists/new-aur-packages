@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-16T18:39:02Z,pcw-backend,0.1.0-1,0,Backend for ProxyCoreWrapper
+2026-10-16T18:41:45Z,ans2irc,0.1.0-1,0,Convert ANSI art to mIRC-coloured text that fits in IRC messages
+2026-10-16T18:42:01Z,lorgarctl-bin,2.3.4-1,0,"Linux CLI controller, background daemon & DKMS kernel driver for LORGAR MSA10W mouse (prebuilt binary release)"
+2026-10-16T18:43:05Z,ans2irc-bin,0.1.0-1,0,Convert ANSI art to mIRC-coloured text that fits in IRC messages (static binary)

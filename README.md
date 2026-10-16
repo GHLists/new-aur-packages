@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 18:19 UTC
+## Latest list — 2026-10-16 19:21 UTC
 
-New packages created between 2026-10-16 17:19 UTC and 2026-10-16 18:19 UTC.
+New packages created between 2026-10-16 18:19 UTC and 2026-10-16 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T18-19-48-165415Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T19-21-39-731328Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 17:28:18 | [akp02d](https://aur.archlinux.org/packages/akp02d) | 1.0.0-1 | 0 | Themed system stats display for the Ajazz AKP02 panel, with a live theme editor |
-| 2026-10-16 17:33:11 | [xpt](https://aur.archlinux.org/packages/xpt) | 0.12.0-1 | 1 | a package-management suite for .xpt packages |
+| 2026-10-16 18:39:02 | [pcw-backend](https://aur.archlinux.org/packages/pcw-backend) | 0.1.0-1 | 0 | Backend for ProxyCoreWrapper |
+| 2026-10-16 18:41:45 | [ans2irc](https://aur.archlinux.org/packages/ans2irc) | 0.1.0-1 | 0 | Convert ANSI art to mIRC-coloured text that fits in IRC messages |
+| 2026-10-16 18:42:01 | [lorgarctl-bin](https://aur.archlinux.org/packages/lorgarctl-bin) | 2.3.4-1 | 0 | Linux CLI controller, background daemon & DKMS kernel driver for LORGAR MSA10W… |
+| 2026-10-16 18:43:05 | [ans2irc-bin](https://aur.archlinux.org/packages/ans2irc-bin) | 0.1.0-1 | 0 | Convert ANSI art to mIRC-coloured text that fits in IRC messages (static binary) |
 
 ## Data source
 
