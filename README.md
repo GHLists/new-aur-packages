@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 00:22 UTC
+## Latest list — 2026-10-16 01:20 UTC
 
-New packages created between 2026-10-15 23:21 UTC and 2026-10-16 00:22 UTC.
+New packages created between 2026-10-16 00:22 UTC and 2026-10-16 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T00-22-43-82067Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T01-20-36-875386Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 23:40:51 | [aaru](https://aur.archlinux.org/packages/aaru) | 5.3.2-1 | 0 | Disc image management and creation tool for disks, tapes, optical and solid sta… |
-| 2026-10-15 23:49:52 | [linux-tmpcleaner](https://aur.archlinux.org/packages/linux-tmpcleaner) | 1.0.0-1 | 0 | Systemd timer that deletes old /tmp entries while protecting files in use |
-| 2026-10-15 23:51:10 | [sping-rs-bin](https://aur.archlinux.org/packages/sping-rs-bin) | 1.6.0-1 | 1 | A modern, cross-platform ping with real-time diagnostics, network context, qual… |
-| 2026-10-16 00:04:46 | [driftwood-game-bin](https://aur.archlinux.org/packages/driftwood-game-bin) | 0.4.0-1 | 0 | Open-world survival crafting game: gather, build, explore, fight, trade and lea… |
+| 2026-10-16 00:23:58 | [localist-bin](https://aur.archlinux.org/packages/localist-bin) | 1.20.5-1 | 0 | A local project organizer for folders, repositories, and work in progress |
+| 2026-10-16 01:05:24 | [python-jsonrpclib-pelix](https://aur.archlinux.org/packages/python-jsonrpclib-pelix) | 0.3.1-1 | 0 | A Python (2 & 3) JSON-RPC over HTTP that mirrors xmlrpclib syntax |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-16T00:23:58Z,localist-bin,1.20.5-1,0,"A local project organizer for folders, repositories, and work in progress"
+2026-10-16T01:05:24Z,python-jsonrpclib-pelix,0.3.1-1,0,A Python (2 & 3) JSON-RPC over HTTP that mirrors xmlrpclib syntax
