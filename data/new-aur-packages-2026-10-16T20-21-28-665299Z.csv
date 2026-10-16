@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-16T19:42:37Z,tf2decalvault-bin,1.0-1,0,A user interface to upload and download UGC images for TF2's decal system.
+2026-10-16T19:49:55Z,mantle-bin,0.7.5-1,0,A Wayland shell engine that runs shells written in Lua (release binaries)
+2026-10-16T19:56:57Z,texoria-bin,0.1.0-1,0,"An elegant, fast LaTeX editor"
