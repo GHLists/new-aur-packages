@@ -12,20 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 16:22 UTC
+## Latest list — 2026-10-16 17:19 UTC
 
-New packages created between 2026-10-16 15:20 UTC and 2026-10-16 16:22 UTC.
+New packages created between 2026-10-16 16:22 UTC and 2026-10-16 17:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T16-22-06-362678Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T17-19-19-839756Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 15:20:13 | [display-tui](https://aur.archlinux.org/packages/display-tui) | 0.9.6.2-1 | 1 | Minimalistic Hyprland monitor configuration TUI |
-| 2026-10-16 15:31:06 | [display-tui-bin](https://aur.archlinux.org/packages/display-tui-bin) | 0.9.6.2-1 | 1 | Minimalistic Hyprland monitor configuration TUI (pre-built binary) |
-| 2026-10-16 15:37:51 | [verdana-bin](https://aur.archlinux.org/packages/verdana-bin) | 0.0.5-1 | 0 | A native launcher for napps, modular and pluggable Nostr microapps. |
-| 2026-10-16 16:03:18 | [ymusic-cli](https://aur.archlinux.org/packages/ymusic-cli) | 0.5.0-1 | 0 | Terminal client for Yandex Music: My Wave, likes, stations (TUI); fork of https… |
-| 2026-10-16 16:03:28 | [mingw-w64-yyjson](https://aur.archlinux.org/packages/mingw-w64-yyjson) | 0.13.0-1 | 0 | A high performance C JSON library (mingw-w64) |
-| 2026-10-16 16:09:44 | [mingw-w64-imageinfo](https://aur.archlinux.org/packages/mingw-w64-imageinfo) | 2.0.0-1 | 0 | Cross platform super fast single header c++ library to get image size and forma… |
+| 2026-10-16 16:57:27 | [manggo](https://aur.archlinux.org/packages/manggo) | 1.1.2-1 | 0 | Desktop translation and screenshot OCR assistant |
+| 2026-10-16 16:57:37 | [nota-daw-bin](https://aur.archlinux.org/packages/nota-daw-bin) | 0.55.1-1 | 0 | Modern digital audio workstation (DAW) (upstream binary) |
+| 2026-10-16 17:01:24 | [ols-git](https://aur.archlinux.org/packages/ols-git) | dev_2026_10.r30.gfe… | 0 | Language server and source code formatter for Odin |
 
 ## Data source
 
