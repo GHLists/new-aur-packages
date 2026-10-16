@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-16T22:26:07Z,solidcraft-bin,0.14.0-1,0,Open-source parametric 3D CAD (binary release)
+2026-10-16T22:45:24Z,bws,2.1.0-1,0,Bitwarden Secrets Manager CLI
+2026-10-16T23:09:11Z,ur44-control,0.1.0-1,0,Configure the DSP mixer and effects of the Steinberg UR44 audio interface
+2026-10-16T23:10:07Z,ur44-control-git,0.1.0.r0.gd165e45-1,0,Configure the DSP mixer and effects of the Steinberg UR44 audio interface (latest commit)
