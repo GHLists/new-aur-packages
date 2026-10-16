@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-16T09:32:13Z,onair,0.2.5-5,0,"SDR receiver for digital TV (DVB-T/T2, DVB-S/S2, ATSC), DAB+, FM, DRM, ADS-B, GNSS and DMR"
+2026-10-16T10:14:37Z,setline,0.0.4-1,0,Beangle local HTTP path router and transparent proxy
