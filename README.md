@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 20:21 UTC
+## Latest list — 2026-10-16 21:20 UTC
 
-New packages created between 2026-10-16 19:21 UTC and 2026-10-16 20:21 UTC.
+New packages created between 2026-10-16 20:21 UTC and 2026-10-16 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-16T20-21-28-665299Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-16T21-20-51-599942Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 19:42:37 | [tf2decalvault-bin](https://aur.archlinux.org/packages/tf2decalvault-bin) | 1.0-1 | 0 | A user interface to upload and download UGC images for TF2's decal system. |
-| 2026-10-16 19:49:55 | [mantle-bin](https://aur.archlinux.org/packages/mantle-bin) | 0.7.5-1 | 0 | A Wayland shell engine that runs shells written in Lua (release binaries) |
-| 2026-10-16 19:56:57 | [texoria-bin](https://aur.archlinux.org/packages/texoria-bin) | 0.1.0-1 | 0 | An elegant, fast LaTeX editor |
+| 2026-10-16 20:33:02 | [brainmap-gui](https://aur.archlinux.org/packages/brainmap-gui) | 1.1.0-1 | 0 | GUI maze generator using library-brainmap |
+| 2026-10-16 21:13:16 | [adskiller-desktop](https://aur.archlinux.org/packages/adskiller-desktop) | 1.3.12-2 | 0 | Client for Android/iOS cleaner and multi-tool GUI utility |
 
 ## Data source
 
