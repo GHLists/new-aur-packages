@@ -1,0 +1,13 @@
+created_at,package,version,votes,description
+2026-10-16T06:27:21Z,spoti-bin,0.1.0-1,1,lightweight native Spotify client
+2026-10-16T06:27:31Z,qrr-bin,0.1.1-1,1,"Turns complex commands into interactive recipes, with prompts for values and menus for options"
+2026-10-16T06:27:35Z,spoti-git,0.1.0.r0-1,1,lightweight native Spotify client
+2026-10-16T06:32:35Z,ptre-git,0.1.6.1.r0.g83563ec…,0,Lightweight text editor
+2026-10-16T06:42:29Z,beammp-launcher4linux,2.8.1-1,0,"BeamMP Launcher for Linux, prebuilt (GamePath config/CLI override for non-Steam installs)"
+2026-10-16T06:43:50Z,jegan-bin,0.7.0-1,1,Terminal JSON Editor
+2026-10-16T06:49:00Z,openaside-bin,0.0.0-1,0,OpenAside - AI-powered browser with 36-patch Chromium and GTK4 native shell
+2026-10-16T07:01:49Z,appattic,3.3.0-1,0,"Leftovers, stale apps, unused packages, and disk usage (command line)"
+2026-10-16T07:01:57Z,appattic-qt,3.3.0-1,0,"Leftovers, stale apps, unused packages, and disk usage"
+2026-10-16T07:02:06Z,appattic-bin,3.3.0-1,0,"Leftovers, stale apps, unused packages, and disk usage (AppImage)"
+2026-10-16T07:13:28Z,sqlmux-bin,0.5.0-1,1,A tmux-style terminal database client with vim keys
+2026-10-16T07:14:28Z,shift-editor-bin,0.1.1-1,0,A cross-platform font editor built in Rust and TypeScript
