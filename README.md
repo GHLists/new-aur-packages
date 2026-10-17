@@ -12,18 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 15:20 UTC
+## Latest list — 2026-10-17 16:22 UTC
 
-New packages created between 2026-10-17 14:21 UTC and 2026-10-17 15:20 UTC.
+New packages created between 2026-10-17 15:20 UTC and 2026-10-17 16:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T15-20-17-723275Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T16-22-18-447066Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 14:30:08 | [fingerprint-manager-git](https://aur.archlinux.org/packages/fingerprint-manager-git) | 0.1.0.r1.g032d445-1 | 0 | Qt 6 and Kirigami fingerprint manager for fprintd |
-| 2026-10-17 14:30:45 | [doukutsu-rs-git](https://aur.archlinux.org/packages/doukutsu-rs-git) | 1.0.0.r50.d05995b-1 | 0 | A faithful and open-source remake of Cave Story's engine written in Rust |
-| 2026-10-17 14:38:33 | [rgmond](https://aur.archlinux.org/packages/rgmond) | 0.1.0-1 | 0 | Implementation of the Ganglia gmond monitoring agent, with BPF, PSI and cgroup… |
-| 2026-10-17 14:46:34 | [nginx-mainline-mod-websockify](https://aur.archlinux.org/packages/nginx-mainline-mod-websockify) | 0.0.3.r14.gc11bc9a-1 | 0 | WebSocket-to-TCP proxy ("websockify_pass"), as used by noVNC (module for mainli… |
+| 2026-10-17 15:38:21 | [open-ag-dsp](https://aur.archlinux.org/packages/open-ag-dsp) | 0.0.1-1 | 0 | [vibe coded alpha!] GUI/CLI applications to control Yamaha AG03/AG06 audio inte… |
+| 2026-10-17 15:42:44 | [appvol](https://aur.archlinux.org/packages/appvol) | 0.7.0-1 | 0 | Volume control for the audio streams of the focused window (KDE Plasma 6 on Way… |
+| 2026-10-17 15:42:44 | [appvol-gui](https://aur.archlinux.org/packages/appvol-gui) | 0.7.0-1 | 0 | Qt-based configurator for appvol (PySide6 and Kirigami) |
+| 2026-10-17 15:52:33 | [gnome-shell-extension-gfs-git](https://aur.archlinux.org/packages/gnome-shell-extension-gfs-git) | r3.d7c85a5-1 | 0 | GNOME extension to fast switch between windows using keybindings. |
+| 2026-10-17 16:12:14 | [tapeback-cuda](https://aur.archlinux.org/packages/tapeback-cuda) | 0.10.1-1 | 0 | CUDA 12 cuBLAS/cuDNN runtime for GPU-accelerated transcription in tapeback |
 
 ## Data source
 

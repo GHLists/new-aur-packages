@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-17T15:38:21Z,open-ag-dsp,0.0.1-1,0,[vibe coded alpha!] GUI/CLI applications to control Yamaha AG03/AG06 audio interfaces
+2026-10-17T15:42:44Z,appvol,0.7.0-1,0,Volume control for the audio streams of the focused window (KDE Plasma 6 on Wayland)
+2026-10-17T15:42:44Z,appvol-gui,0.7.0-1,0,Qt-based configurator for appvol (PySide6 and Kirigami)
+2026-10-17T15:52:33Z,gnome-shell-extension-gfs-git,r3.d7c85a5-1,0,GNOME extension to fast switch between windows using keybindings.
+2026-10-17T16:12:14Z,tapeback-cuda,0.10.1-1,0,CUDA 12 cuBLAS/cuDNN runtime for GPU-accelerated transcription in tapeback
