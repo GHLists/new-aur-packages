@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-17T14:30:08Z,fingerprint-manager-git,0.1.0.r1.g032d445-1,0,Qt 6 and Kirigami fingerprint manager for fprintd
+2026-10-17T14:30:45Z,doukutsu-rs-git,1.0.0.r50.d05995b-1,0,A faithful and open-source remake of Cave Story's engine written in Rust
+2026-10-17T14:38:33Z,rgmond,0.1.0-1,0,"Implementation of the Ganglia gmond monitoring agent, with BPF, PSI and cgroup metrics"
+2026-10-17T14:46:34Z,nginx-mainline-mod-websockify,0.0.3.r14.gc11bc9a-1,0,"WebSocket-to-TCP proxy (""websockify_pass""), as used by noVNC (module for mainline nginx)"
