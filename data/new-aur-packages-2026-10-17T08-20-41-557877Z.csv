@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-17T07:24:00Z,clarion-bin,0.1.0-1,0,Modern Wayland compositor with a native Vulkan backend and an independent desktop core (x86-64-v3 build)
+2026-10-17T07:25:42Z,zulu-jdk-fx,27.28.103-1,0,Azul Zulu JDK with JavaFX
+2026-10-17T08:04:23Z,fcitx5-ainput-bin,0.1.0-1,0,Voice input addon for fcitx5: push-to-talk ASR via CapsLock (prebuilt)
+2026-10-17T08:09:43Z,kvn-bin,0.35.0-1,0,Terminal VPN client for Arch Linux with vim navigation
