@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-17T05:35:27Z,kortix-desktop,0.14.0-2,0,Kortix desktop application (official binary)
+2026-10-17T05:50:55Z,cross-cleaner-bin,2.0.4.4-1,0,"Addon-style system cleanup tool that removes temporary files, cache and other system junk (prebuilt binaries)"
+2026-10-17T06:03:53Z,nemo-speech-cpu-bin,0.2.0-1,0,"Native speech recognition, synthesis, and translation with CPU support"
+2026-10-17T06:04:07Z,nemo-speech-cuda-bin,0.2.0-1,0,"Native speech recognition, synthesis, and translation with CUDA support"
+2026-10-17T06:04:21Z,nemo-speech-cuda13-bin,0.2.0-1,0,"Native speech recognition, synthesis, and translation with CUDA 13 support"
+2026-10-17T06:04:35Z,nemo-speech-vulkan-bin,0.2.0-1,0,"Native speech recognition, synthesis, and translation with Vulkan support"
+2026-10-17T06:08:53Z,engined,0.1.0-1,0,Local model door: one OpenAI-shaped endpoint that owns every inference container on the box
+2026-10-17T06:09:11Z,engined-git,0.1.0-1,0,Local model door: one OpenAI-shaped endpoint that owns every inference container on the box (git)

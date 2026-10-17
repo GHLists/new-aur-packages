@@ -12,17 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 05:19 UTC
+## Latest list — 2026-10-17 06:19 UTC
 
-New packages created between 2026-10-17 04:22 UTC and 2026-10-17 05:19 UTC.
+New packages created between 2026-10-17 05:19 UTC and 2026-10-17 06:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T05-19-14-868714Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T06-19-14-94087Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 04:37:10 | [replayer](https://aur.archlinux.org/packages/replayer) | 1.0.1-1 | 0 | Video player for action cam footage with frame-by-frame and slow-motion playback |
-| 2026-10-17 04:37:15 | [replayer-git](https://aur.archlinux.org/packages/replayer-git) | 1.0.0.r0.g85fb96d-1 | 0 | Video player for action cam footage with frame-by-frame and slow-motion playbac… |
-| 2026-10-17 05:06:37 | [zulu-21-jdk-fx](https://aur.archlinux.org/packages/zulu-21-jdk-fx) | 21.52.203-1 | 0 | Azul Zulu JDK 21 with JavaFX |
+| 2026-10-17 05:35:27 | [kortix-desktop](https://aur.archlinux.org/packages/kortix-desktop) | 0.14.0-2 | 0 | Kortix desktop application (official binary) |
+| 2026-10-17 05:50:55 | [cross-cleaner-bin](https://aur.archlinux.org/packages/cross-cleaner-bin) | 2.0.4.4-1 | 0 | Addon-style system cleanup tool that removes temporary files, cache and other s… |
+| 2026-10-17 06:03:53 | [nemo-speech-cpu-bin](https://aur.archlinux.org/packages/nemo-speech-cpu-bin) | 0.2.0-1 | 0 | Native speech recognition, synthesis, and translation with CPU support |
+| 2026-10-17 06:04:07 | [nemo-speech-cuda-bin](https://aur.archlinux.org/packages/nemo-speech-cuda-bin) | 0.2.0-1 | 0 | Native speech recognition, synthesis, and translation with CUDA support |
+| 2026-10-17 06:04:21 | [nemo-speech-cuda13-bin](https://aur.archlinux.org/packages/nemo-speech-cuda13-bin) | 0.2.0-1 | 0 | Native speech recognition, synthesis, and translation with CUDA 13 support |
+| 2026-10-17 06:04:35 | [nemo-speech-vulkan-bin](https://aur.archlinux.org/packages/nemo-speech-vulkan-bin) | 0.2.0-1 | 0 | Native speech recognition, synthesis, and translation with Vulkan support |
+| 2026-10-17 06:08:53 | [engined](https://aur.archlinux.org/packages/engined) | 0.1.0-1 | 0 | Local model door: one OpenAI-shaped endpoint that owns every inference containe… |
+| 2026-10-17 06:09:11 | [engined-git](https://aur.archlinux.org/packages/engined-git) | 0.1.0-1 | 0 | Local model door: one OpenAI-shaped endpoint that owns every inference containe… |
 
 ## Data source
 
