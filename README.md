@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 20:18 UTC
+## Latest list — 2026-10-17 21:19 UTC
 
-New packages created between 2026-10-17 19:21 UTC and 2026-10-17 20:18 UTC.
+New packages created between 2026-10-17 20:18 UTC and 2026-10-17 21:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T20-18-55-253091Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T21-19-26-286118Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 20:10:24 | [butaglyph](https://aur.archlinux.org/packages/butaglyph) | 0.2.1-1 | 0 | Fast prompt for bash, zsh, fish and PowerShell, with presets, gradients and its… |
-| 2026-10-17 20:10:31 | [butaglyph-bin](https://aur.archlinux.org/packages/butaglyph-bin) | 0.2.1-1 | 0 | Fast prompt for bash, zsh, fish and PowerShell, with presets, gradients and its… |
+| 2026-10-17 21:09:53 | [tuicode-bin](https://aur.archlinux.org/packages/tuicode-bin) | 0.2.0-1 | 0 | A Visual Studio Code style code editor for the terminal, with LSP, git, debuggi… |
 
 ## Data source
 
