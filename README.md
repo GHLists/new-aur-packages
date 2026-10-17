@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 01:19 UTC
+## Latest list — 2026-10-17 03:20 UTC
 
-New packages created between 2026-10-17 00:20 UTC and 2026-10-17 01:19 UTC.
+New packages created between 2026-10-17 02:19 UTC and 2026-10-17 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T01-19-14-535308Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T03-20-35-687139Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 00:46:30 | [skwir-bin](https://aur.archlinux.org/packages/skwir-bin) | 0.1.0-1 | 0 | An augmented file manager, for humans and agents (the release build) |
-| 2026-10-17 01:00:23 | [whytime-bin](https://aur.archlinux.org/packages/whytime-bin) | 0.1.1-1 | 0 | Explains where a command's wall-clock time went: off-CPU and on-CPU attribution… |
-| 2026-10-17 01:01:22 | [whytime](https://aur.archlinux.org/packages/whytime) | 0.1.1-1 | 0 | Explains where a command's wall-clock time went: off-CPU and on-CPU attribution… |
-| 2026-10-17 01:14:04 | [figcraft-bin](https://aur.archlinux.org/packages/figcraft-bin) | 0.6.0-1 | 0 | Open-source interface design and prototyping app, Figma alternative (prebuilt b… |
+| 2026-10-17 02:45:25 | [fcitx5-ainput-git](https://aur.archlinux.org/packages/fcitx5-ainput-git) | 0.1.0.r166.65fdb22-1 | 0 | Voice input addon for fcitx5: push-to-talk ASR via CapsLock |
+| 2026-10-17 03:13:06 | [openrgb-plugin-skin](https://aur.archlinux.org/packages/openrgb-plugin-skin) | 1.0-1 | 0 | Skin plugin for OpenRGB |
 
 ## Data source
 
