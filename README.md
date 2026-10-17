@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 18:21 UTC
+## Latest list — 2026-10-17 19:21 UTC
 
-New packages created between 2026-10-17 17:20 UTC and 2026-10-17 18:21 UTC.
+New packages created between 2026-10-17 18:21 UTC and 2026-10-17 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T18-21-53-796304Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T19-21-35-32794Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 17:43:28 | [ymusic-cli-bin](https://aur.archlinux.org/packages/ymusic-cli-bin) | 1.0.0-1 | 0 | Terminal client for Yandex Music: My Wave, likes, stations (TUI); fork of https… |
-| 2026-10-17 18:00:20 | [ps5-payload-sdk-bin](https://aur.archlinux.org/packages/ps5-payload-sdk-bin) | 0.44-1 | 0 | An SDK for PS5 payloads that uses dynamic linking |
-| 2026-10-17 18:14:16 | [qt5gtk3-git](https://aur.archlinux.org/packages/qt5gtk3-git) | r14.5c856b9-1 | 0 | Qt 5 GTK 3 platform theme backported from Qt 6 |
+| 2026-10-17 18:41:20 | [python-rdata](https://aur.archlinux.org/packages/python-rdata) | 1.1.0-1 | 0 | A Python library for R datasets. |
+| 2026-10-17 18:42:49 | [lsi-bin](https://aur.archlinux.org/packages/lsi-bin) | 0.1.0-1 | 0 | Image thumbnail listing in Kitty-compatible terminals (standalone binary) |
+| 2026-10-17 18:46:03 | [librsvg-pixbuf-loader](https://aur.archlinux.org/packages/librsvg-pixbuf-loader) | 2.63.3-1 | 0 | SVG GDK Pixbuf Loader library (from librsvg) |
+| 2026-10-17 19:13:08 | [lmms-prerelease-bin](https://aur.archlinux.org/packages/lmms-prerelease-bin) | 1.3.0.alpha.2-1 | 1 | The Linux MultiMedia Studio (pre-release) |
 
 ## Data source
 
