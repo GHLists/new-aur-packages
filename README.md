@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 22:21 UTC
+## Latest list — 2026-10-17 23:21 UTC
 
-New packages created between 2026-10-17 21:19 UTC and 2026-10-17 22:21 UTC.
+New packages created between 2026-10-17 22:21 UTC and 2026-10-17 23:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T22-21-10-790668Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T23-21-07-249604Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 21:25:43 | [yapfast](https://aur.archlinux.org/packages/yapfast) | 0.1.0-1 | 0 | Native Discord client that stays light on memory |
-| 2026-10-17 22:11:44 | [beersmith3](https://aur.archlinux.org/packages/beersmith3) | 3.2.8-1 | 0 | Complete software suite for brewers (legacy version 3) |
-| 2026-10-17 22:16:09 | [vgshell-quickshell](https://aur.archlinux.org/packages/vgshell-quickshell) | 0.3.2.r7.g2b4501a-1 | 0 | Flexible toolkit for making desktop shells with QtQuick |
+| 2026-10-17 22:34:12 | [k86-software-git](https://aur.archlinux.org/packages/k86-software-git) | 0.1.1.r0.gc64a2ef-1 | 0 | Configuration software for the Attack Shark K86 keyboard (CLI and GTK 3 GUI, gi… |
+| 2026-10-17 22:34:45 | [k86-software-bin](https://aur.archlinux.org/packages/k86-software-bin) | 0.1.1-1 | 0 | Configuration software for the Attack Shark K86 keyboard (CLI and GTK 3 GUI, pr… |
+| 2026-10-17 22:34:50 | [python-pytorch-tokenizers](https://aur.archlinux.org/packages/python-pytorch-tokenizers) | 1.5.0-1 | 0 | Common C++ and Python tokenizers for the PyTorch ecosystem |
+| 2026-10-17 22:57:21 | [ultima-ratio-regum](https://aur.archlinux.org/packages/ultima-ratio-regum) | 0.10.4d-1 | 1 | A roguelike with procedurally generated civilizations, cultures, and religions |
 
 ## Data source
 

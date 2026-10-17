@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-17T22:34:12Z,k86-software-git,0.1.1.r0.gc64a2ef-1,0,"Configuration software for the Attack Shark K86 keyboard (CLI and GTK 3 GUI, git version)"
+2026-10-17T22:34:45Z,k86-software-bin,0.1.1-1,0,"Configuration software for the Attack Shark K86 keyboard (CLI and GTK 3 GUI, prebuilt)"
+2026-10-17T22:34:50Z,python-pytorch-tokenizers,1.5.0-1,0,Common C++ and Python tokenizers for the PyTorch ecosystem
+2026-10-17T22:57:21Z,ultima-ratio-regum,0.10.4d-1,1,"A roguelike with procedurally generated civilizations, cultures, and religions"
