@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-17T06:22:16Z,yaqmc-bin,0.1.1-1,0,Unofficial QQ Music client (official Electron binary release)
+2026-10-17T06:22:37Z,yaqmc-git,0.1.1.r5.gb4c6531-1,0,Unofficial QQ Music client (git version)
+2026-10-17T06:35:28Z,skwir-git,0.1.0.r51.g17cf86d-1,0,"An augmented file manager, for humans and agents (its last commit)"
+2026-10-17T06:35:28Z,skwir-mermaid-git,0.1.0.r51.g17cf86d-1,0,Mermaid diagrams drawn in skwir's Markdown previews
+2026-10-17T06:35:28Z,skwir-mupdf-git,0.1.0.r51.g17cf86d-1,0,"skwir's MuPDF engine: PDFs, and books laid out into pages"
+2026-10-17T06:52:40Z,lib32-lightscribe,1.18.27.10-6,0,LightScribe Host Software for Linux (32-bit)
+2026-10-17T06:54:10Z,zulu-17-jdk-fx,17.68.203-1,0,Azul Zulu JDK 17 with JavaFX
+2026-10-17T07:03:08Z,python-qscintilla-qt5,2.14.1-1,0,Python bindings for QScintilla2 (Qt5)
+2026-10-17T07:04:43Z,cosmic-applet-mic,0.1.0-1,0,COSMIC panel applet showing default microphone mute status
