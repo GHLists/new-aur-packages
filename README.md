@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 10:19 UTC
+## Latest list — 2026-10-17 11:19 UTC
 
-New packages created between 2026-10-17 09:19 UTC and 2026-10-17 10:19 UTC.
+New packages created between 2026-10-17 10:19 UTC and 2026-10-17 11:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T10-19-57-727825Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T11-19-30-074284Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 09:26:14 | [msga](https://aur.archlinux.org/packages/msga) | 40-1 | 0 | Fast, lightweight native Slack client |
+| 2026-10-17 10:22:44 | [we-linux-git](https://aur.archlinux.org/packages/we-linux-git) | r8.60cbbb2-1 | 0 | Run the Steam copy of Wallpaper Engine as your KDE Plasma wallpaper, with its o… |
+| 2026-10-17 10:47:20 | [sve](https://aur.archlinux.org/packages/sve) | 0.1.0-1 | 0 | Native Qt 6 video editor with trimming, filters and FFmpeg export |
+| 2026-10-17 11:15:28 | [airdash-bin](https://aur.archlinux.org/packages/airdash-bin) | 0.1.0-1 | 0 | Desktop dashboard for Airthings air quality monitors |
 
 ## Data source
 

@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-17T10:22:44Z,we-linux-git,r8.60cbbb2-1,0,"Run the Steam copy of Wallpaper Engine as your KDE Plasma wallpaper, with its original UI"
+2026-10-17T10:47:20Z,sve,0.1.0-1,0,"Native Qt 6 video editor with trimming, filters and FFmpeg export"
+2026-10-17T11:15:28Z,airdash-bin,0.1.0-1,0,Desktop dashboard for Airthings air quality monitors
