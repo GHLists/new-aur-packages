@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 12:20 UTC
+## Latest list — 2026-10-17 13:19 UTC
 
-New packages created between 2026-10-17 11:19 UTC and 2026-10-17 12:20 UTC.
+New packages created between 2026-10-17 12:20 UTC and 2026-10-17 13:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T12-20-12-51249Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T13-19-44-028701Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 11:20:41 | [zulu-11-jdk-fx](https://aur.archlinux.org/packages/zulu-11-jdk-fx) | 11.90.205-1 | 0 | Azul Zulu JDK 11 with JavaFX |
-| 2026-10-17 11:32:37 | [qthrone-bin](https://aur.archlinux.org/packages/qthrone-bin) | 1.3.6-1 | 0 | Cross-platform GUI proxy utility (binary release) |
-| 2026-10-17 12:03:54 | [zulu-8-jdk-fx](https://aur.archlinux.org/packages/zulu-8-jdk-fx) | 8.96.0.205-1 | 0 | Azul Zulu JDK 8 with JavaFX |
-| 2026-10-17 12:16:22 | [ilspy-bin](https://aur.archlinux.org/packages/ilspy-bin) |  |  | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) |
+| 2026-10-17 12:25:45 | [airdash](https://aur.archlinux.org/packages/airdash) | 0.1.0-1 | 0 | Desktop dashboard for Airthings air quality monitors |
+| 2026-10-17 13:12:48 | [epic-games-launcher-proton-bin](https://aur.archlinux.org/packages/epic-games-launcher-proton-bin) | 0.97.0-4 | 0 | Native Epic Games Launcher Preview with per-game Proton selection |
 
 ## Data source
 
