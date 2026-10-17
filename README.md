@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 11:19 UTC
+## Latest list — 2026-10-17 12:20 UTC
 
-New packages created between 2026-10-17 10:19 UTC and 2026-10-17 11:19 UTC.
+New packages created between 2026-10-17 11:19 UTC and 2026-10-17 12:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T11-19-30-074284Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T12-20-12-51249Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 10:22:44 | [we-linux-git](https://aur.archlinux.org/packages/we-linux-git) | r8.60cbbb2-1 | 0 | Run the Steam copy of Wallpaper Engine as your KDE Plasma wallpaper, with its o… |
-| 2026-10-17 10:47:20 | [sve](https://aur.archlinux.org/packages/sve) | 0.1.0-1 | 0 | Native Qt 6 video editor with trimming, filters and FFmpeg export |
-| 2026-10-17 11:15:28 | [airdash-bin](https://aur.archlinux.org/packages/airdash-bin) | 0.1.0-1 | 0 | Desktop dashboard for Airthings air quality monitors |
+| 2026-10-17 11:20:41 | [zulu-11-jdk-fx](https://aur.archlinux.org/packages/zulu-11-jdk-fx) | 11.90.205-1 | 0 | Azul Zulu JDK 11 with JavaFX |
+| 2026-10-17 11:32:37 | [qthrone-bin](https://aur.archlinux.org/packages/qthrone-bin) | 1.3.6-1 | 0 | Cross-platform GUI proxy utility (binary release) |
+| 2026-10-17 12:03:54 | [zulu-8-jdk-fx](https://aur.archlinux.org/packages/zulu-8-jdk-fx) | 8.96.0.205-1 | 0 | Azul Zulu JDK 8 with JavaFX |
+| 2026-10-17 12:16:22 | [ilspy-bin](https://aur.archlinux.org/packages/ilspy-bin) |  |  | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) |
 
 ## Data source
 

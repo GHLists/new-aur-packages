@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-17T11:20:41Z,zulu-11-jdk-fx,11.90.205-1,0,Azul Zulu JDK 11 with JavaFX
+2026-10-17T11:32:37Z,qthrone-bin,1.3.6-1,0,Cross-platform GUI proxy utility (binary release)
+2026-10-17T12:03:54Z,zulu-8-jdk-fx,8.96.0.205-1,0,Azul Zulu JDK 8 with JavaFX
+2026-10-17T12:16:22Z,ilspy-bin,,,".NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more)"
