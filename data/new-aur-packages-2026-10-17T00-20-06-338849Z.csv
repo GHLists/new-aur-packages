@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-16T23:42:50Z,nutmeg-git,r23.3eff518-1,0,Play macOS Roblox on Linux.
+2026-10-17T00:05:33Z,rosemary,0.3.0-1,0,Compatibility layer and high level emulator hybrid for running macOS applications
+2026-10-17T00:06:38Z,tapeback-llm-local,0.10.0-1,0,"Local LLM summaries for tapeback: llama.cpp's server, started for each summary"
+2026-10-17T00:14:14Z,rosemary-git,0.3.0.r10.gfe20d1a-1,0,Compatibility layer and high level emulator hybrid for running macOS applications (git version)
