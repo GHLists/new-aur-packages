@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-17T08:44:26Z,clarion-shell-bin,0.1.0.r4.gb584c83-1,0,"Flutter desktop shell for the Clarion Wayland compositor (top bar, dock, launcher, control center)"
+2026-10-17T08:44:56Z,typeaside-bin,0.2.0-1,0,Native voice dictation for Wayland
+2026-10-17T08:52:00Z,trowel-bin,0.1.0-1,0,Relay HTTP webhooks into NATS JetStream and JetStream messages out to HTTP or commands
+2026-10-17T08:59:31Z,python-rustypot,1.13.1-1,0,A package to communicate with Dynamixel/Feetech motors
+2026-10-17T09:07:20Z,msga-git,40.r709.g37e8ad7-1,0,"Fast, lightweight native Slack client"
+2026-10-17T09:11:43Z,simple-scan-to-pdf-git,r22.19150f7-1,0,A bash script for taking a folder of image files and outputting a PDF

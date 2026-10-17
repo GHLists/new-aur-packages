@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 08:20 UTC
+## Latest list — 2026-10-17 09:19 UTC
 
-New packages created between 2026-10-17 07:18 UTC and 2026-10-17 08:20 UTC.
+New packages created between 2026-10-17 08:20 UTC and 2026-10-17 09:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T08-20-41-557877Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T09-19-53-776835Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 07:24:00 | [clarion-bin](https://aur.archlinux.org/packages/clarion-bin) | 0.1.0-1 | 0 | Modern Wayland compositor with a native Vulkan backend and an independent deskt… |
-| 2026-10-17 07:25:42 | [zulu-jdk-fx](https://aur.archlinux.org/packages/zulu-jdk-fx) | 27.28.103-1 | 0 | Azul Zulu JDK with JavaFX |
-| 2026-10-17 08:04:23 | [fcitx5-ainput-bin](https://aur.archlinux.org/packages/fcitx5-ainput-bin) | 0.1.0-1 | 0 | Voice input addon for fcitx5: push-to-talk ASR via CapsLock (prebuilt) |
-| 2026-10-17 08:09:43 | [kvn-bin](https://aur.archlinux.org/packages/kvn-bin) | 0.35.0-1 | 0 | Terminal VPN client for Arch Linux with vim navigation |
+| 2026-10-17 08:44:26 | [clarion-shell-bin](https://aur.archlinux.org/packages/clarion-shell-bin) | 0.1.0.r4.gb584c83-1 | 0 | Flutter desktop shell for the Clarion Wayland compositor (top bar, dock, launch… |
+| 2026-10-17 08:44:56 | [typeaside-bin](https://aur.archlinux.org/packages/typeaside-bin) | 0.2.0-1 | 0 | Native voice dictation for Wayland |
+| 2026-10-17 08:52:00 | [trowel-bin](https://aur.archlinux.org/packages/trowel-bin) | 0.1.0-1 | 0 | Relay HTTP webhooks into NATS JetStream and JetStream messages out to HTTP or c… |
+| 2026-10-17 08:59:31 | [python-rustypot](https://aur.archlinux.org/packages/python-rustypot) | 1.13.1-1 | 0 | A package to communicate with Dynamixel/Feetech motors |
+| 2026-10-17 09:07:20 | [msga-git](https://aur.archlinux.org/packages/msga-git) | 40.r709.g37e8ad7-1 | 0 | Fast, lightweight native Slack client |
+| 2026-10-17 09:11:43 | [simple-scan-to-pdf-git](https://aur.archlinux.org/packages/simple-scan-to-pdf-git) | r22.19150f7-1 | 0 | A bash script for taking a folder of image files and outputting a PDF |
 
 ## Data source
 
