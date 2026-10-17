@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-17T16:34:28Z,dp100-studio,0.1.0-1,0,Control and monitor the ALIENTEK DP100 USB-C bench power supply
+2026-10-17T16:34:34Z,dp100-studio-git,0.1.0.r0.gc299f33-1,0,Control and monitor the ALIENTEK DP100 USB-C bench power supply (development version)
+2026-10-17T16:46:34Z,qqtui,0.1.1-1,0,Terminal frontend using the native Linux QQ service
+2026-10-17T16:54:59Z,jdk-zulu-fx-bin,27.28.103-1,0,Azul Zulu JDK with JavaFX
+2026-10-17T17:02:22Z,jdk25-zulu-fx-bin,25.36.205-1,0,Azul Zulu JDK 25 with JavaFX
+2026-10-17T17:10:18Z,jdk21-zulu-fx-bin,21.52.203-1,0,Azul Zulu JDK 21 with JavaFX
