@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 04:22 UTC
+## Latest list — 2026-10-17 05:19 UTC
 
-New packages created between 2026-10-17 03:20 UTC and 2026-10-17 04:22 UTC.
+New packages created between 2026-10-17 04:22 UTC and 2026-10-17 05:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T04-22-02-996617Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T05-19-14-868714Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 03:28:02 | [fsblame-bin](https://aur.archlinux.org/packages/fsblame-bin) | 0.1.1-1 | 0 | Which command changed this file? Live eBPF attribution of file changes to the f… |
-| 2026-10-17 03:28:09 | [fsblame](https://aur.archlinux.org/packages/fsblame) | 0.1.1-1 | 0 | Which command changed this file? Live eBPF attribution of file changes to the f… |
+| 2026-10-17 04:37:10 | [replayer](https://aur.archlinux.org/packages/replayer) | 1.0.1-1 | 0 | Video player for action cam footage with frame-by-frame and slow-motion playback |
+| 2026-10-17 04:37:15 | [replayer-git](https://aur.archlinux.org/packages/replayer-git) | 1.0.0.r0.g85fb96d-1 | 0 | Video player for action cam footage with frame-by-frame and slow-motion playbac… |
+| 2026-10-17 05:06:37 | [zulu-21-jdk-fx](https://aur.archlinux.org/packages/zulu-21-jdk-fx) | 21.52.203-1 | 0 | Azul Zulu JDK 21 with JavaFX |
 
 ## Data source
 

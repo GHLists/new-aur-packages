@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-17T04:37:10Z,replayer,1.0.1-1,0,Video player for action cam footage with frame-by-frame and slow-motion playback
+2026-10-17T04:37:15Z,replayer-git,1.0.0.r0.g85fb96d-1,0,Video player for action cam footage with frame-by-frame and slow-motion playback (development version)
+2026-10-17T05:06:37Z,zulu-21-jdk-fx,21.52.203-1,0,Azul Zulu JDK 21 with JavaFX
