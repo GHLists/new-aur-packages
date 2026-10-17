@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 21:19 UTC
+## Latest list — 2026-10-17 22:21 UTC
 
-New packages created between 2026-10-17 20:18 UTC and 2026-10-17 21:19 UTC.
+New packages created between 2026-10-17 21:19 UTC and 2026-10-17 22:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T21-19-26-286118Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T22-21-10-790668Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 21:09:53 | [tuicode-bin](https://aur.archlinux.org/packages/tuicode-bin) | 0.2.0-1 | 0 | A Visual Studio Code style code editor for the terminal, with LSP, git, debuggi… |
+| 2026-10-17 21:25:43 | [yapfast](https://aur.archlinux.org/packages/yapfast) | 0.1.0-1 | 0 | Native Discord client that stays light on memory |
+| 2026-10-17 22:11:44 | [beersmith3](https://aur.archlinux.org/packages/beersmith3) | 3.2.8-1 | 0 | Complete software suite for brewers (legacy version 3) |
+| 2026-10-17 22:16:09 | [vgshell-quickshell](https://aur.archlinux.org/packages/vgshell-quickshell) | 0.3.2.r7.g2b4501a-1 | 0 | Flexible toolkit for making desktop shells with QtQuick |
 
 ## Data source
 
