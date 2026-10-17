@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-17T00:46:30Z,skwir-bin,0.1.0-1,0,"An augmented file manager, for humans and agents (the release build)"
+2026-10-17T01:00:23Z,whytime-bin,0.1.1-1,0,Explains where a command's wall-clock time went: off-CPU and on-CPU attribution from eBPF
+2026-10-17T01:01:22Z,whytime,0.1.1-1,0,Explains where a command's wall-clock time went: off-CPU and on-CPU attribution from eBPF
+2026-10-17T01:14:04Z,figcraft-bin,0.6.0-1,0,"Open-source interface design and prototyping app, Figma alternative (prebuilt binary)"
