@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 19:21 UTC
+## Latest list — 2026-10-17 20:18 UTC
 
-New packages created between 2026-10-17 18:21 UTC and 2026-10-17 19:21 UTC.
+New packages created between 2026-10-17 19:21 UTC and 2026-10-17 20:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-17T19-21-35-32794Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-17T20-18-55-253091Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 18:41:20 | [python-rdata](https://aur.archlinux.org/packages/python-rdata) | 1.1.0-1 | 0 | A Python library for R datasets. |
-| 2026-10-17 18:42:49 | [lsi-bin](https://aur.archlinux.org/packages/lsi-bin) | 0.1.0-1 | 0 | Image thumbnail listing in Kitty-compatible terminals (standalone binary) |
-| 2026-10-17 18:46:03 | [librsvg-pixbuf-loader](https://aur.archlinux.org/packages/librsvg-pixbuf-loader) | 2.63.3-1 | 0 | SVG GDK Pixbuf Loader library (from librsvg) |
-| 2026-10-17 19:13:08 | [lmms-prerelease-bin](https://aur.archlinux.org/packages/lmms-prerelease-bin) | 1.3.0.alpha.2-1 | 1 | The Linux MultiMedia Studio (pre-release) |
+| 2026-10-17 20:10:24 | [butaglyph](https://aur.archlinux.org/packages/butaglyph) | 0.2.1-1 | 0 | Fast prompt for bash, zsh, fish and PowerShell, with presets, gradients and its… |
+| 2026-10-17 20:10:31 | [butaglyph-bin](https://aur.archlinux.org/packages/butaglyph-bin) | 0.2.1-1 | 0 | Fast prompt for bash, zsh, fish and PowerShell, with presets, gradients and its… |
 
 ## Data source
 
