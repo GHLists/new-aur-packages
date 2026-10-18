@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-18T10:46:19Z,httprunner-bin,1.2.55-1,0,"Execute HTTP requests from .http files (CLI, TUI and GUI)"
+2026-10-18T10:46:24Z,httprunner,1.2.55-1,0,"Execute HTTP requests from .http files (CLI, TUI and GUI)"
+2026-10-18T10:57:08Z,clipforge,1.3.1-1,0,Quick single-clip video trimmer
+2026-10-18T10:57:08Z,clipforge-kde,1.3.1-1,0,"Quick single-clip video trimmer, with native KDE Application Style controls"
+2026-10-18T11:04:03Z,pulse-tui,0.2.0-1,0,Production-grade terminal system monitor with animated TUI
