@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-18T21:25:04Z,libfprint-sigfm-0078,1.94.100.r25.gf9c60…,0,"Library for fingerprint readers, with the SIGFM matcher and the Synaptics 06cb:0078 driver"
+2026-10-18T21:59:58Z,moss-language,0.3.1-1,0,"The MOSS language: compiler, runtime, and adaptation system (standard-library-only). Companion to the moss application."
+2026-10-18T22:08:40Z,moss,1.1.0-2,0,Mostly orthogonal sequencing server
+2026-10-18T22:11:38Z,moss-os,0.7.2-1,0,"An agentic backend that *will* be the best. Free and open source, funded by donations: https://www.buymeacoffee.com/bingusfan360"
