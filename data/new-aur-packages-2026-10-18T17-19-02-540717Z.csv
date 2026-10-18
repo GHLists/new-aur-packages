@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-18T16:34:00Z,ttf-rysana,1.0.0-1,0,Rysana Sans and Rysana Mono typefaces
+2026-10-18T16:46:17Z,rivu-git,0.2.0.r0.ba47f81-1,0,"A local-first Linux music player with desktop, CLI, TUI and headless modes"
+2026-10-18T16:51:54Z,gpu-screen-recorder-gpui,5.7.10-1,0,GPUI (Rust) frontend for gpu-screen-recorder
+2026-10-18T16:56:21Z,negpy-bin,0.65.0-1,0,Tool for processing film negatives
+2026-10-18T17:02:08Z,pala-bin,1.2.3-1,0,Interaktív terminálos felület (TUI) a Kréta e-napló rendszerhez.
+2026-10-18T17:14:03Z,compositor-lx-git,0.5.3.r0.gb1a8196-1,0,"Native Linux port of Compositor — a layer-based raster image editor with masks, adjustments, and local subject removal"
