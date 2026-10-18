@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-18T15:30:55Z,refryt-bin,0.1.10-1,0,"A fast, native YouTube Music client (prebuilt upstream AppImage)"
+2026-10-18T15:37:05Z,appletalk-dkms-git,r60.82c9c7b-1,0,"AppleTalk (DDP/AARP) kernel module removed in Linux 7.2, built out of tree from linux-netdev/mod-orphan (DKMS)"
+2026-10-18T15:39:41Z,xerotop-git,0.1.0.r195.g82f4ab9…,0,"A gkrellm-style, battery-conscious Wayland (wlroots/layer-shell) system monitor bar in Rust + GTK4"
+2026-10-18T15:44:10Z,ant-renamer-qt-git,3.0.0.rc.15.r3.gb5a…,0,"C++/Qt 6 port of Ant Renamer 2.13: batch file renaming (replace, enumerate, case, regex, EXIF, MP3 tags)"
+2026-10-18T15:52:45Z,aurora-4x,2.7.1-1,0,A space strategy game with a focus on realism and depth
+2026-10-18T15:58:47Z,xerotty-git,r521.62baf4c-1,0,"Customizable terminal emulator in Go (SDL3 + Dear ImGui): multi-window, headless daemon mode, SSH-backed remote sessions, MCP server"
+2026-10-18T16:00:23Z,kodi-addon-visualization-lactea,21.0.0-1,0,Lactea visualizer for Kodi: MilkDrop 2/3 and projectM-compatible presets rendered by a pure-Rust engine on wgpu
+2026-10-18T16:15:58Z,pinwin,0.4.1-1,0,Layer-shell app host: runs an app in a panel at one edge of a Wayland output
