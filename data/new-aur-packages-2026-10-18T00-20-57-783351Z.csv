@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-17T23:27:44Z,openvox8-agent-bin,8.31.0-2,0,Agent of the OpenVox Automation Framework (non-modular)
+2026-10-17T23:47:26Z,linux-trackpad-driver-git,r214.b01ae61-1,0,"Extensible userspace Linux driver for enhanced trackpad functionality, currently supporting Apple Magic Trackpad 2 — git snapshot"
+2026-10-17T23:48:09Z,linux-trackpad-driver,0.1.0-1,0,"Extensible userspace Linux driver for enhanced trackpad functionality, currently supporting Apple Magic Trackpad 2"
+2026-10-17T23:48:24Z,linux-trackpad-driver-bin,0.1.0-1,0,"Extensible userspace Linux driver for enhanced trackpad functionality, currently supporting Apple Magic Trackpad 2 — prebuilt binary"
+2026-10-17T23:53:43Z,audacity-bin,3.1.2-3,0,"Binary from GitHub Releases for the audio recording and processing software, Audacity, since Arch binary version is on 1.2 (via old audacity site) and audacity-git requires a lengthy building from source"
