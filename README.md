@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 01:20 UTC
+## Latest list — 2026-10-18 02:20 UTC
 
-New packages created between 2026-10-18 00:20 UTC and 2026-10-18 01:20 UTC.
+New packages created between 2026-10-18 01:20 UTC and 2026-10-18 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-18T01-20-45-800013Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-18T02-20-47-192863Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-18 00:28:58 | [serein-bin](https://aur.archlinux.org/packages/serein-bin) | 1.0.0pre.nightly.20… | 0 | Unofficial native Discord client (prebuilt binary) |
+| 2026-10-18 01:23:31 | [vinted-cli-bin](https://aur.archlinux.org/packages/vinted-cli-bin) | 0.1.0-1 | 0 | Terminal CLI for Vinted |
+| 2026-10-18 02:01:50 | [reims-vgpu-git](https://aur.archlinux.org/packages/reims-vgpu-git) | r3260.86d49219-1 | 0 | Virtual GPU for macOS guests on QEMU/KVM: reims-ctl, patched QEMU and reims-util |
 
 ## Data source
 
