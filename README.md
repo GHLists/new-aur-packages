@@ -12,20 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 09:19 UTC
+## Latest list — 2026-10-18 10:20 UTC
 
-New packages created between 2026-10-18 08:19 UTC and 2026-10-18 09:19 UTC.
+New packages created between 2026-10-18 09:19 UTC and 2026-10-18 10:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-18T09-19-20-909634Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-18T10-20-39-220521Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-18 08:43:37 | [enclavedns](https://aur.archlinux.org/packages/enclavedns) | 0.1.0-1 | 0 | EnclaveDNS client: DNS through EnclaveDNS (DNSSEC validated in an attested encl… |
-| 2026-10-18 08:44:04 | [nekomote-assets](https://aur.archlinux.org/packages/nekomote-assets) | 0.5.2-1 | 0 | Assets pack for nekomote. |
-| 2026-10-18 08:52:00 | [lightbox-git](https://aur.archlinux.org/packages/lightbox-git) | r79.8cbf9b4-2 | 0 | Local-first photo manager and non-destructive editor |
-| 2026-10-18 08:56:56 | [qqtui-bin](https://aur.archlinux.org/packages/qqtui-bin) | 0.1.2-1 | 0 | Terminal frontend using the native Linux QQ service |
-| 2026-10-18 09:07:14 | [pacmang](https://aur.archlinux.org/packages/pacmang) | 1.2.0-1 | 0 | Современный графический менеджер пакетов для Arch Linux |
-| 2026-10-18 09:13:25 | [tempest-desktop-bin](https://aur.archlinux.org/packages/tempest-desktop-bin) | 3.17.2-1 | 0 | The all-platform terminal emulator for the modern age (official binary release) |
+| 2026-10-18 09:25:09 | [runx](https://aur.archlinux.org/packages/runx) | 0.10.2-1 | 0 | Native governed runtime for agent skills, tools, graphs, and packets. |
+| 2026-10-18 09:27:11 | [vllm-xpu](https://aur.archlinux.org/packages/vllm-xpu) | 0.32.0-1 | 0 | vLLM optimized for Intel Arc GPUs |
+| 2026-10-18 09:30:47 | [pollen-nightly-bin](https://aur.archlinux.org/packages/pollen-nightly-bin) | 0.0.17.24-2 | 0 | Pollen |
+| 2026-10-18 09:30:50 | [pollen-nightly](https://aur.archlinux.org/packages/pollen-nightly) | 0.0.17.24-1 | 0 | Pollen channel alias for pollen-nightly-bin |
+| 2026-10-18 09:31:03 | [pollen-stable](https://aur.archlinux.org/packages/pollen-stable) | 0.0.0-1 | 0 | Pollen channel alias for pollen-bin |
+| 2026-10-18 09:31:03 | [pollen-stable-bin](https://aur.archlinux.org/packages/pollen-stable-bin) | 0.0.0-1 | 0 | Pollen channel alias for pollen-bin |
+| 2026-10-18 09:31:07 | [pollen-mc](https://aur.archlinux.org/packages/pollen-mc) | 0.0.0-1 | 0 | Pollen channel alias for pollen-bin |
+| 2026-10-18 09:31:07 | [pollen](https://aur.archlinux.org/packages/pollen) | 0.0.0-1 | 0 | Pollen channel alias for pollen-bin |
+| 2026-10-18 09:31:07 | [pollen-bin](https://aur.archlinux.org/packages/pollen-bin) | 0.0.0-2 | 0 | Pollen |
+| 2026-10-18 09:35:06 | [tempest-cli-bin](https://aur.archlinux.org/packages/tempest-cli-bin) | 3.17.2-1 | 0 | MCP CLI tool for AI-assisted remote access and automation (official binary) |
+| 2026-10-18 09:36:18 | [mercurio-bin](https://aur.archlinux.org/packages/mercurio-bin) | 0.0.1-1 | 0 | Apprise-compatible Rust library, CLI and HTTP server to send notifications to 1… |
+| 2026-10-18 10:03:35 | [exit-gate-bin](https://aur.archlinux.org/packages/exit-gate-bin) | 0.2.0-1 | 0 | Egress firewall for TCP and UDP with eBPF: Electron GUI + systemd daemon (binar… |
+| 2026-10-18 10:19:09 | [gemini-desktop-bin](https://aur.archlinux.org/packages/gemini-desktop-bin) |  |  | Google Gemini desktop client with system Electron and Rust Linux integration |
 
 ## Data source
 
