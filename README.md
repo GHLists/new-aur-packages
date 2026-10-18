@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 05:20 UTC
+## Latest list — 2026-10-18 06:18 UTC
 
-New packages created between 2026-10-18 04:19 UTC and 2026-10-18 05:20 UTC.
+New packages created between 2026-10-18 05:20 UTC and 2026-10-18 06:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-18T05-20-44-019384Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-18T06-18-55-582733Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-18 04:54:27 | [nyxuri-git](https://aur.archlinux.org/packages/nyxuri-git) | 4.0.0.alpha.2.r1.g7… | 0 | Material You desktop suite — atomic deploy engine, unit blueprints and Nyxuri S… |
-| 2026-10-18 04:57:06 | [helium-widevine](https://aur.archlinux.org/packages/helium-widevine) | 1:4.10.3050.0-1 | 0 | A browser plugin designed for the viewing of premium video content (for Helium… |
+| 2026-10-18 06:10:40 | [bwaudit](https://aur.archlinux.org/packages/bwaudit) | 0.1.0-1 | 0 | Checks the passwords of a Bitwarden vault for compromise (Have I Been Pwned) an… |
+| 2026-10-18 06:12:37 | [bwaudit-git](https://aur.archlinux.org/packages/bwaudit-git) | 0.1.0.r1.g3164db4-1 | 0 | Checks the passwords of a Bitwarden vault for compromise (Have I Been Pwned) an… |
 
 ## Data source
 
