@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 22:19 UTC
+## Latest list — 2026-10-18 23:21 UTC
 
-New packages created between 2026-10-18 21:21 UTC and 2026-10-18 22:19 UTC.
+New packages created between 2026-10-18 22:19 UTC and 2026-10-18 23:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-18T22-19-24-79044Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-18T23-21-06-971094Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-18 21:25:04 | [libfprint-sigfm-0078](https://aur.archlinux.org/packages/libfprint-sigfm-0078) | 1.94.100.r25.gf9c60… | 0 | Library for fingerprint readers, with the SIGFM matcher and the Synaptics 06cb:… |
-| 2026-10-18 21:59:58 | [moss-language](https://aur.archlinux.org/packages/moss-language) | 0.3.1-1 | 0 | The MOSS language: compiler, runtime, and adaptation system (standard-library-o… |
-| 2026-10-18 22:08:40 | [moss](https://aur.archlinux.org/packages/moss) | 1.1.0-2 | 0 | Mostly orthogonal sequencing server |
-| 2026-10-18 22:11:38 | [moss-os](https://aur.archlinux.org/packages/moss-os) | 0.7.2-1 | 0 | An agentic backend that *will* be the best. Free and open source, funded by don… |
+| 2026-10-18 23:13:21 | [leafsmith-bin](https://aur.archlinux.org/packages/leafsmith-bin) | 0.1.0rc3-1 | 0 | Local-first PDF, document, image and media tools (prebuilt AppImage contents) |
 
 ## Data source
 
