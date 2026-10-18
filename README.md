@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 03:21 UTC
+## Latest list — 2026-10-18 05:20 UTC
 
-New packages created between 2026-10-18 02:20 UTC and 2026-10-18 03:21 UTC.
+New packages created between 2026-10-18 04:19 UTC and 2026-10-18 05:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-18T03-21-48-32123Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-18T05-20-44-019384Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-18 03:00:52 | [cosmic-ext-applet-clippy-land](https://aur.archlinux.org/packages/cosmic-ext-applet-clippy-land) | 1.1.1-1 | 0 | Clipboard history applet for the COSMIC panel |
-| 2026-10-18 03:04:49 | [jdk17-zulu-fx-bin](https://aur.archlinux.org/packages/jdk17-zulu-fx-bin) | 17.68.203-1 | 0 | Azul Zulu JDK 17 with JavaFX |
-| 2026-10-18 03:12:38 | [jdk11-zulu-fx-bin](https://aur.archlinux.org/packages/jdk11-zulu-fx-bin) | 11.90.205-1 | 0 | Azul Zulu JDK 11 with JavaFX |
-| 2026-10-18 03:17:40 | [jdk8-zulu-fx-bin](https://aur.archlinux.org/packages/jdk8-zulu-fx-bin) |  |  | Azul Zulu JDK 8 with JavaFX |
+| 2026-10-18 04:54:27 | [nyxuri-git](https://aur.archlinux.org/packages/nyxuri-git) | 4.0.0.alpha.2.r1.g7… | 0 | Material You desktop suite — atomic deploy engine, unit blueprints and Nyxuri S… |
+| 2026-10-18 04:57:06 | [helium-widevine](https://aur.archlinux.org/packages/helium-widevine) | 1:4.10.3050.0-1 | 0 | A browser plugin designed for the viewing of premium video content (for Helium… |
 
 ## Data source
 
