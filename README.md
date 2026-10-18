@@ -12,21 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 12:21 UTC
+## Latest list — 2026-10-18 13:22 UTC
 
-New packages created between 2026-10-18 11:20 UTC and 2026-10-18 12:21 UTC.
+New packages created between 2026-10-18 12:21 UTC and 2026-10-18 13:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-18T12-21-47-416211Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-18T13-22-50-848586Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-18 11:20:47 | [starling-office-bin](https://aur.archlinux.org/packages/starling-office-bin) | 0.1.0-1 | 0 | Documents, presentations, and spreadsheets in one free, open source suite |
-| 2026-10-18 11:25:59 | [tcl9](https://aur.archlinux.org/packages/tcl9) | 9.1.0-1 | 0 | Powerful, easy-to-learn dynamic programming language (version 9, parallel-insta… |
-| 2026-10-18 11:26:05 | [tk9](https://aur.archlinux.org/packages/tk9) | 9.1.0-1 | 0 | A windowing toolkit for use with tcl (version 9, parallel-installable with tk 8… |
-| 2026-10-18 11:26:12 | [tcl9-tdom](https://aur.archlinux.org/packages/tcl9-tdom) | 0.9.6-1 | 0 | A fast XML/DOM/XPath package for Tcl written in C (for tcl9) |
-| 2026-10-18 11:26:18 | [tcl9-tcllib](https://aur.archlinux.org/packages/tcl9-tcllib) | 2.0-1 | 0 | Set of pure-Tcl extensions (for tcl9) |
-| 2026-10-18 12:02:40 | [libcmap](https://aur.archlinux.org/packages/libcmap) | 0.1-1 | 0 | Unicode character data library |
-| 2026-10-18 12:07:43 | [gcmap](https://aur.archlinux.org/packages/gcmap) | 0.1-1 | 0 | GTK+ 2 character map utility |
+| 2026-10-18 12:23:31 | [pathstr-git](https://aur.archlinux.org/packages/pathstr-git) | r22.gad0373f4b-1 | 0 | A small library for handling filesystem paths as strings for Qt |
+| 2026-10-18 12:24:00 | [lazy-store](https://aur.archlinux.org/packages/lazy-store) | 0.1.0-1 | 0 | GTK4 app store for the Arch repos and AUR, part of LazyOS |
+| 2026-10-18 13:01:22 | [morgan-git](https://aur.archlinux.org/packages/morgan-git) | 0.1.0.r0.ge30ec2e-1 | 0 | Shell de escritorio para Hyprland: barra, centro de control, notificaciones, la… |
+| 2026-10-18 13:01:34 | [morgan-bin](https://aur.archlinux.org/packages/morgan-bin) | 0.1.0-1 | 0 | Shell de escritorio para Hyprland: barra, centro de control, notificaciones, la… |
+| 2026-10-18 13:13:43 | [linux-boot-analyzer-bin](https://aur.archlinux.org/packages/linux-boot-analyzer-bin) | 1.0.0-1 | 0 | A terminal UI that analyses boot time and manages systemd services |
 
 ## Data source
 
