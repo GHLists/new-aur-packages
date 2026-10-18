@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-18T03:00:52Z,cosmic-ext-applet-clippy-land,1.1.1-1,0,Clipboard history applet for the COSMIC panel
+2026-10-18T03:04:49Z,jdk17-zulu-fx-bin,17.68.203-1,0,Azul Zulu JDK 17 with JavaFX
+2026-10-18T03:12:38Z,jdk11-zulu-fx-bin,11.90.205-1,0,Azul Zulu JDK 11 with JavaFX
+2026-10-18T03:17:40Z,jdk8-zulu-fx-bin,,,Azul Zulu JDK 8 with JavaFX
