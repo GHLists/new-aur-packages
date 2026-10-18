@@ -12,19 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 13:22 UTC
+## Latest list — 2026-10-18 14:18 UTC
 
-New packages created between 2026-10-18 12:21 UTC and 2026-10-18 13:22 UTC.
+New packages created between 2026-10-18 13:22 UTC and 2026-10-18 14:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-18T13-22-50-848586Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-18T14-18-42-429675Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-18 12:23:31 | [pathstr-git](https://aur.archlinux.org/packages/pathstr-git) | r22.gad0373f4b-1 | 0 | A small library for handling filesystem paths as strings for Qt |
-| 2026-10-18 12:24:00 | [lazy-store](https://aur.archlinux.org/packages/lazy-store) | 0.1.0-1 | 0 | GTK4 app store for the Arch repos and AUR, part of LazyOS |
-| 2026-10-18 13:01:22 | [morgan-git](https://aur.archlinux.org/packages/morgan-git) | 0.1.0.r0.ge30ec2e-1 | 0 | Shell de escritorio para Hyprland: barra, centro de control, notificaciones, la… |
-| 2026-10-18 13:01:34 | [morgan-bin](https://aur.archlinux.org/packages/morgan-bin) | 0.1.0-1 | 0 | Shell de escritorio para Hyprland: barra, centro de control, notificaciones, la… |
-| 2026-10-18 13:13:43 | [linux-boot-analyzer-bin](https://aur.archlinux.org/packages/linux-boot-analyzer-bin) | 1.0.0-1 | 0 | A terminal UI that analyses boot time and manages systemd services |
+| 2026-10-18 13:24:01 | [girpe-v2](https://aur.archlinux.org/packages/girpe-v2) | 2.2.3-1 | 0 | Application Electron/React de gestion des feuilles de rencontre FFTT |
+| 2026-10-18 13:45:21 | [veretino-git](https://aur.archlinux.org/packages/veretino-git) | 0.7.0.r38.gbcf6e8d-1 | 0 | Folder integrity checker |
+| 2026-10-18 13:47:04 | [digup-bin](https://aur.archlinux.org/packages/digup-bin) | 0.7.0beta.2-1 | 0 | Search your files by what's in them, on-device, with Google DeepMind's Embeddin… |
+| 2026-10-18 13:48:48 | [linver](https://aur.archlinux.org/packages/linver) | 1.0.0-1 | 0 | winver, but for Linux |
+| 2026-10-18 13:48:57 | [linver-bin](https://aur.archlinux.org/packages/linver-bin) | 1.0.0-1 | 0 | winver, but for Linux (prebuilt binary) |
+| 2026-10-18 13:49:06 | [linver-git](https://aur.archlinux.org/packages/linver-git) | r1.a1b2c3d-1 | 0 | winver, but for Linux (VCS master branch) |
 
 ## Data source
 

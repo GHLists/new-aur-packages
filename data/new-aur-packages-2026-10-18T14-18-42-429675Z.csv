@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-18T13:24:01Z,girpe-v2,2.2.3-1,0,Application Electron/React de gestion des feuilles de rencontre FFTT
+2026-10-18T13:45:21Z,veretino-git,0.7.0.r38.gbcf6e8d-1,0,Folder integrity checker
+2026-10-18T13:47:04Z,digup-bin,0.7.0beta.2-1,0,"Search your files by what's in them, on-device, with Google DeepMind's EmbeddingGemma 2"
+2026-10-18T13:48:48Z,linver,1.0.0-1,0,"winver, but for Linux"
+2026-10-18T13:48:57Z,linver-bin,1.0.0-1,0,"winver, but for Linux (prebuilt binary)"
+2026-10-18T13:49:06Z,linver-git,r1.a1b2c3d-1,0,"winver, but for Linux (VCS master branch)"
