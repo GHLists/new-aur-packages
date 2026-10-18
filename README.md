@@ -12,20 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 14:18 UTC
+## Latest list — 2026-10-18 15:19 UTC
 
-New packages created between 2026-10-18 13:22 UTC and 2026-10-18 14:18 UTC.
+New packages created between 2026-10-18 14:18 UTC and 2026-10-18 15:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-18T14-18-42-429675Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-18T15-19-41-503532Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-18 13:24:01 | [girpe-v2](https://aur.archlinux.org/packages/girpe-v2) | 2.2.3-1 | 0 | Application Electron/React de gestion des feuilles de rencontre FFTT |
-| 2026-10-18 13:45:21 | [veretino-git](https://aur.archlinux.org/packages/veretino-git) | 0.7.0.r38.gbcf6e8d-1 | 0 | Folder integrity checker |
-| 2026-10-18 13:47:04 | [digup-bin](https://aur.archlinux.org/packages/digup-bin) | 0.7.0beta.2-1 | 0 | Search your files by what's in them, on-device, with Google DeepMind's Embeddin… |
-| 2026-10-18 13:48:48 | [linver](https://aur.archlinux.org/packages/linver) | 1.0.0-1 | 0 | winver, but for Linux |
-| 2026-10-18 13:48:57 | [linver-bin](https://aur.archlinux.org/packages/linver-bin) | 1.0.0-1 | 0 | winver, but for Linux (prebuilt binary) |
-| 2026-10-18 13:49:06 | [linver-git](https://aur.archlinux.org/packages/linver-git) | r1.a1b2c3d-1 | 0 | winver, but for Linux (VCS master branch) |
+| 2026-10-18 14:39:42 | [tokativ-bin](https://aur.archlinux.org/packages/tokativ-bin) | 0.4.0-1 | 0 | Local dictation that types into the focused app as you speak |
+| 2026-10-18 15:06:15 | [margin-bin](https://aur.archlinux.org/packages/margin-bin) | 26.10.03-1 | 0 | A terminal tool for reviewing markdown and handing the comments back to an agen… |
+| 2026-10-18 15:12:14 | [arcanechat-tui](https://aur.archlinux.org/packages/arcanechat-tui) | 0.12.0-1 | 0 | ArcaneChat (Delta Chat) client for the command line (formerly deltachat-cursed) |
 
 ## Data source
 

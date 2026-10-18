@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-18T14:39:42Z,tokativ-bin,0.4.0-1,0,Local dictation that types into the focused app as you speak
+2026-10-18T15:06:15Z,margin-bin,26.10.03-1,0,A terminal tool for reviewing markdown and handing the comments back to an agent (a launcher plus a seed build: margin updates itself in ~/.local/margin with margin update)
+2026-10-18T15:12:14Z,arcanechat-tui,0.12.0-1,0,ArcaneChat (Delta Chat) client for the command line (formerly deltachat-cursed)
