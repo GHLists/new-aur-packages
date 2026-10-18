@@ -12,19 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 00:20 UTC
+## Latest list — 2026-10-18 01:20 UTC
 
-New packages created between 2026-10-17 23:21 UTC and 2026-10-18 00:20 UTC.
+New packages created between 2026-10-18 00:20 UTC and 2026-10-18 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-18T00-20-57-783351Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-18T01-20-45-800013Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 23:27:44 | [openvox8-agent-bin](https://aur.archlinux.org/packages/openvox8-agent-bin) | 8.31.0-2 | 0 | Agent of the OpenVox Automation Framework (non-modular) |
-| 2026-10-17 23:47:26 | [linux-trackpad-driver-git](https://aur.archlinux.org/packages/linux-trackpad-driver-git) | r214.b01ae61-1 | 0 | Extensible userspace Linux driver for enhanced trackpad functionality, currentl… |
-| 2026-10-17 23:48:09 | [linux-trackpad-driver](https://aur.archlinux.org/packages/linux-trackpad-driver) | 0.1.0-1 | 0 | Extensible userspace Linux driver for enhanced trackpad functionality, currentl… |
-| 2026-10-17 23:48:24 | [linux-trackpad-driver-bin](https://aur.archlinux.org/packages/linux-trackpad-driver-bin) | 0.1.0-1 | 0 | Extensible userspace Linux driver for enhanced trackpad functionality, currentl… |
-| 2026-10-17 23:53:43 | [audacity-bin](https://aur.archlinux.org/packages/audacity-bin) | 3.1.2-3 | 0 | Binary from GitHub Releases for the audio recording and processing software, Au… |
+| 2026-10-18 00:28:58 | [serein-bin](https://aur.archlinux.org/packages/serein-bin) | 1.0.0pre.nightly.20… | 0 | Unofficial native Discord client (prebuilt binary) |
 
 ## Data source
 
