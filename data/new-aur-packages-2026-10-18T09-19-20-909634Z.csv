@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-18T08:43:37Z,enclavedns,0.1.0-1,0,"EnclaveDNS client: DNS through EnclaveDNS (DNSSEC validated in an attested enclave), and .eth sites in the browser"
+2026-10-18T08:44:04Z,nekomote-assets,0.5.2-1,0,Assets pack for nekomote.
+2026-10-18T08:52:00Z,lightbox-git,r79.8cbf9b4-2,0,Local-first photo manager and non-destructive editor
+2026-10-18T08:56:56Z,qqtui-bin,0.1.2-1,0,Terminal frontend using the native Linux QQ service
+2026-10-18T09:07:14Z,pacmang,1.2.0-1,0,Современный графический менеджер пакетов для Arch Linux
+2026-10-18T09:13:25Z,tempest-desktop-bin,3.17.2-1,0,The all-platform terminal emulator for the modern age (official binary release)
