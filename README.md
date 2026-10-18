@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 06:18 UTC
+## Latest list — 2026-10-18 07:18 UTC
 
-New packages created between 2026-10-18 05:20 UTC and 2026-10-18 06:18 UTC.
+New packages created between 2026-10-18 06:18 UTC and 2026-10-18 07:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-18T06-18-55-582733Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-18T07-18-53-089247Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-18 06:10:40 | [bwaudit](https://aur.archlinux.org/packages/bwaudit) | 0.1.0-1 | 0 | Checks the passwords of a Bitwarden vault for compromise (Have I Been Pwned) an… |
-| 2026-10-18 06:12:37 | [bwaudit-git](https://aur.archlinux.org/packages/bwaudit-git) | 0.1.0.r1.g3164db4-1 | 0 | Checks the passwords of a Bitwarden vault for compromise (Have I Been Pwned) an… |
+| 2026-10-18 06:19:20 | [prism-download-manager-bin](https://aur.archlinux.org/packages/prism-download-manager-bin) | 1.0.8-1 | 1 | The fast, beautiful, open-source download manager for Windows, macOS and Linux… |
+| 2026-10-18 07:03:43 | [pollen-commit-bin](https://aur.archlinux.org/packages/pollen-commit-bin) | 0.100.15.7-1 | 0 | Pollen |
+| 2026-10-18 07:10:46 | [uu-remote-linux](https://aur.archlinux.org/packages/uu-remote-linux) | 0.2.8-1 | 0 | Unofficial Linux host for NetEase UU Remote (remote desktop) |
 
 ## Data source
 
