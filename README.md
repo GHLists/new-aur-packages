@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 14:20 UTC
+## Latest list — 2026-10-19 15:21 UTC
 
-New packages created between 2026-10-19 13:20 UTC and 2026-10-19 14:20 UTC.
+New packages created between 2026-10-19 14:20 UTC and 2026-10-19 15:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T14-20-29-025022Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T15-21-42-589663Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 13:43:58 | [mailcraft](https://aur.archlinux.org/packages/mailcraft) | 0.5.0-1 | 0 | vibe coded clean-room reimplementation of Microsoft Outlook |
-| 2026-10-19 13:48:30 | [mailcraft-git](https://aur.archlinux.org/packages/mailcraft-git) | 0.5.0.r3.gd33985a-1 | 0 | vibe coded clean-room reimplementation of Microsoft Outlook (Git HEAD) |
-| 2026-10-19 14:00:51 | [sysclet-git](https://aur.archlinux.org/packages/sysclet-git) | r7.gfcce737-1 | 0 | Generate ANSI text headers from TheDraw TDF fonts |
-| 2026-10-19 14:19:34 | [adcode-bin](https://aur.archlinux.org/packages/adcode-bin) |  |  | An ad-supported, AI-native IDE |
+| 2026-10-19 14:25:31 | [wayrcursor-git](https://aur.archlinux.org/packages/wayrcursor-git) | 1.0.0.r32.gafa6dfc-1 | 0 | Shows where the cursor is on Wayland |
 
 ## Data source
 
