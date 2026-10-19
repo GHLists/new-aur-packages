@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-19T21:37:07Z,registry-spy,1.1.0-1,0,Windows registry browser.
+2026-10-19T21:38:34Z,qcom-test-automation-controller-git,6.9.0.r0.g954c804-2,0,Qualcomm Test Automation Controller (QTAC) - control Qualcomm devices through a debug board
+2026-10-19T21:49:13Z,qqsp-git,1.9.r247.67aa5bc-1,0,Qt Quest Soft Player (Qt6 fork)
