@@ -12,23 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 09:21 UTC
+## Latest list — 2026-10-19 10:21 UTC
 
-New packages created between 2026-10-19 08:20 UTC and 2026-10-19 09:21 UTC.
+New packages created between 2026-10-19 09:21 UTC and 2026-10-19 10:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T09-21-58-092362Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T10-21-47-857432Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 08:25:51 | [perplexity-bin](https://aur.archlinux.org/packages/perplexity-bin) | 26.10.2-1 | 0 | Official Perplexity desktop app and Portable Computer for Linux |
-| 2026-10-19 08:31:16 | [cq-csv-git](https://aur.archlinux.org/packages/cq-csv-git) | 1.2.0.r7.g80cacbb-1 | 1 | High-Performance SQL Query Engine for CSV Files (bleeding-edge version) |
-| 2026-10-19 09:12:04 | [ely-doc-bin](https://aur.archlinux.org/packages/ely-doc-bin) | 0.1.8-1 | 0 | ElyDoc, part of Ely Office - offline-first word processor (prebuilt upstream pa… |
-| 2026-10-19 09:12:16 | [ely-mark-bin](https://aur.archlinux.org/packages/ely-mark-bin) | 0.1.8-1 | 0 | ElyMark, part of Ely Office - Markdown editor with Git support (prebuilt upstre… |
-| 2026-10-19 09:12:28 | [ely-pdf-bin](https://aur.archlinux.org/packages/ely-pdf-bin) | 0.1.8-1 | 0 | ElyPDF, part of Ely Office - PDF reading and editing with OCR (prebuilt upstrea… |
-| 2026-10-19 09:12:40 | [ely-show-bin](https://aur.archlinux.org/packages/ely-show-bin) | 0.1.8-1 | 0 | ElyShow, part of Ely Office - presentation editor (prebuilt upstream package) |
-| 2026-10-19 09:12:53 | [ely-table-bin](https://aur.archlinux.org/packages/ely-table-bin) | 0.1.8-1 | 0 | ElyTable, part of Ely Office - spreadsheet editor (prebuilt upstream package) |
-| 2026-10-19 09:13:05 | [ely-tree-bin](https://aur.archlinux.org/packages/ely-tree-bin) | 0.1.8-1 | 0 | ElyTree, part of Ely Office - Git client (prebuilt upstream package) |
-| 2026-10-19 09:13:18 | [ely-office-bin](https://aur.archlinux.org/packages/ely-office-bin) | 0.1.8-1 | 0 | Ely Office - offline-first word processor, spreadsheet, presentation, PDF, Mark… |
+| 2026-10-19 10:00:29 | [gigacode-desktop-bin](https://aur.archlinux.org/packages/gigacode-desktop-bin) | 26.10.109-1 | 0 | GigaCode Desktop AI assistant |
+| 2026-10-19 10:12:34 | [ant-browser-bin](https://aur.archlinux.org/packages/ant-browser-bin) | 1.8.0-1 | 0 | Multi-profile anti-detect browser launcher with proxy management |
+| 2026-10-19 10:14:09 | [openguimo-bin](https://aur.archlinux.org/packages/openguimo-bin) | 0.1.0.r11.g9ddb8ff2… | 0 | Open-source remake of the 1997 DOS platformer GUIMO (needs your own GUIMO 2.2 d… |
 
 ## Data source
 
