@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 13:20 UTC
+## Latest list — 2026-10-19 14:20 UTC
 
-New packages created between 2026-10-19 12:21 UTC and 2026-10-19 13:20 UTC.
+New packages created between 2026-10-19 13:20 UTC and 2026-10-19 14:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T13-20-44-785657Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T14-20-29-025022Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 12:45:39 | [lconnect-linux-bin](https://aur.archlinux.org/packages/lconnect-linux-bin) | 2.0.11.3-1 | 0 | Unofficial Lian Li L-Connect 3 port: UNI FAN TL / TL LCD / SL Infinity fan spee… |
+| 2026-10-19 13:43:58 | [mailcraft](https://aur.archlinux.org/packages/mailcraft) | 0.5.0-1 | 0 | vibe coded clean-room reimplementation of Microsoft Outlook |
+| 2026-10-19 13:48:30 | [mailcraft-git](https://aur.archlinux.org/packages/mailcraft-git) | 0.5.0.r3.gd33985a-1 | 0 | vibe coded clean-room reimplementation of Microsoft Outlook (Git HEAD) |
+| 2026-10-19 14:00:51 | [sysclet-git](https://aur.archlinux.org/packages/sysclet-git) | r7.gfcce737-1 | 0 | Generate ANSI text headers from TheDraw TDF fonts |
+| 2026-10-19 14:19:34 | [adcode-bin](https://aur.archlinux.org/packages/adcode-bin) |  |  | An ad-supported, AI-native IDE |
 
 ## Data source
 

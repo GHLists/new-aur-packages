@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-19T13:43:58Z,mailcraft,0.5.0-1,0,vibe coded clean-room reimplementation of Microsoft Outlook
+2026-10-19T13:48:30Z,mailcraft-git,0.5.0.r3.gd33985a-1,0,vibe coded clean-room reimplementation of Microsoft Outlook (Git HEAD)
+2026-10-19T14:00:51Z,sysclet-git,r7.gfcce737-1,0,Generate ANSI text headers from TheDraw TDF fonts
+2026-10-19T14:19:34Z,adcode-bin,,,"An ad-supported, AI-native IDE"
