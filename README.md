@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 05:20 UTC
+## Latest list — 2026-10-19 06:21 UTC
 
-New packages created between 2026-10-19 04:19 UTC and 2026-10-19 05:20 UTC.
+New packages created between 2026-10-19 05:20 UTC and 2026-10-19 06:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T05-20-15-455535Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T06-21-21-677188Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 04:26:30 | [sox-vulkan-bin](https://aur.archlinux.org/packages/sox-vulkan-bin) | 16.2.2-1 | 0 | Sound eXchange (sox) with Vulkan acceleration |
-| 2026-10-19 04:59:35 | [gal-transl-bin](https://aur.archlinux.org/packages/gal-transl-bin) | 8.4.2-1 | 1 | Automated translation solution for visual novels supporting GPT/Claude/Deepseek… |
-| 2026-10-19 05:00:09 | [neiro-git](https://aur.archlinux.org/packages/neiro-git) | r17.b0c951b-1 | 0 | Laptop speaker enhancement for PipeWire, using the laptop's own Dolby DAX3 tuni… |
-| 2026-10-19 05:06:40 | [libcupsfilters-duplexfix](https://aur.archlinux.org/packages/libcupsfilters-duplexfix) | 2.2.1.r32.gd49e9284… | 0 | OpenPrinting CUPS Filters - contains all the code of the filters of the former… |
+| 2026-10-19 05:40:50 | [voicenux-bin](https://aur.archlinux.org/packages/voicenux-bin) | 0.1.0-1 | 0 | VoiceMod for Linux. Real-time voice changer and soundboard for PipeWire (upstre… |
+| 2026-10-19 05:41:34 | [voicenux](https://aur.archlinux.org/packages/voicenux) | 0.1.0-1 | 0 | VoiceMod for Linux. Real-time voice changer and soundboard for PipeWire |
+| 2026-10-19 06:16:23 | [kosmozoo-bin](https://aur.archlinux.org/packages/kosmozoo-bin) | 0.2.1-1 | 0 | Local review and curation app for ComfyUI image output (prebuilt executable) |
+| 2026-10-19 06:16:36 | [kosmozoo](https://aur.archlinux.org/packages/kosmozoo) | 0.2.1-1 | 0 | Local review and curation app for ComfyUI image output |
 
 ## Data source
 

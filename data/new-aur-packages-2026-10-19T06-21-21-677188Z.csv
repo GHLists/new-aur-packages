@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-19T05:40:50Z,voicenux-bin,0.1.0-1,0,VoiceMod for Linux. Real-time voice changer and soundboard for PipeWire (upstream binary)
+2026-10-19T05:41:34Z,voicenux,0.1.0-1,0,VoiceMod for Linux. Real-time voice changer and soundboard for PipeWire
+2026-10-19T06:16:23Z,kosmozoo-bin,0.2.1-1,0,Local review and curation app for ComfyUI image output (prebuilt executable)
+2026-10-19T06:16:36Z,kosmozoo,0.2.1-1,0,Local review and curation app for ComfyUI image output
