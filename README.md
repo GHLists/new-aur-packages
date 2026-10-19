@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 02:22 UTC
+## Latest list — 2026-10-19 03:22 UTC
 
-New packages created between 2026-10-19 01:21 UTC and 2026-10-19 02:22 UTC.
+New packages created between 2026-10-19 02:22 UTC and 2026-10-19 03:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T02-22-43-109101Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T03-22-29-480311Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 01:37:00 | [elyterminal-bin](https://aur.archlinux.org/packages/elyterminal-bin) | 0.1.4-2 | 0 | A GPU-accelerated terminal emulator built on GPUI |
-| 2026-10-19 01:51:37 | [pittore-studio-bin](https://aur.archlinux.org/packages/pittore-studio-bin) | 0.1.6-1 | 0 | Layer-based photo editor for Linux (upstream binary) |
-| 2026-10-19 01:52:15 | [pittore-studio-git](https://aur.archlinux.org/packages/pittore-studio-git) | 0.1.6.r1.gc97f85d-1 | 0 | Layer-based photo editor for Linux (git) |
-| 2026-10-19 01:52:57 | [pittore-studio](https://aur.archlinux.org/packages/pittore-studio) | 0.1.6-1 | 0 | Layer-based photo editor for Linux |
+| 2026-10-19 02:59:45 | [hatoba-bin](https://aur.archlinux.org/packages/hatoba-bin) | 0.4.2-2 | 0 | Open-source desktop SSH client with an AI assistant and end-to-end encrypted sy… |
+| 2026-10-19 03:07:51 | [springro-launcher](https://aur.archlinux.org/packages/springro-launcher) | 0.1.11-1 | 0 | SpringRO launcher for Ragnarok Online |
 
 ## Data source
 
