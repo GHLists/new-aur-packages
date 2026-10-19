@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 03:22 UTC
+## Latest list — 2026-10-19 04:19 UTC
 
-New packages created between 2026-10-19 02:22 UTC and 2026-10-19 03:22 UTC.
+New packages created between 2026-10-19 03:22 UTC and 2026-10-19 04:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T03-22-29-480311Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T04-19-44-770254Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 02:59:45 | [hatoba-bin](https://aur.archlinux.org/packages/hatoba-bin) | 0.4.2-2 | 0 | Open-source desktop SSH client with an AI assistant and end-to-end encrypted sy… |
-| 2026-10-19 03:07:51 | [springro-launcher](https://aur.archlinux.org/packages/springro-launcher) | 0.1.11-1 | 0 | SpringRO launcher for Ragnarok Online |
+| 2026-10-19 03:48:27 | [hifox-cli](https://aur.archlinux.org/packages/hifox-cli) | 0.4.432-1 | 0 | HiFox CLI: terminal client for the HiFox human and AI agent collaboration platf… |
+| 2026-10-19 04:13:20 | [cbirds-bin](https://aur.archlinux.org/packages/cbirds-bin) | 1.7.0-1 | 0 | A flock of birds in your terminal |
 
 ## Data source
 
