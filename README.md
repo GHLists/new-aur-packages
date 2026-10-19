@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 01:21 UTC
+## Latest list — 2026-10-19 02:22 UTC
 
-New packages created between 2026-10-19 00:22 UTC and 2026-10-19 01:21 UTC.
+New packages created between 2026-10-19 01:21 UTC and 2026-10-19 02:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T01-21-51-454981Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T02-22-43-109101Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 00:50:22 | [plain-bin](https://aur.archlinux.org/packages/plain-bin) | 0.3.2-1 | 0 | Compile, test and deploy EVM smart contracts with a single binary that needs no… |
-| 2026-10-19 01:05:07 | [voidal](https://aur.archlinux.org/packages/voidal) | 0.4.0-1 | 0 | 4x strategy game inspired by Aurora 4x |
-| 2026-10-19 01:07:54 | [tuxcharge-profile](https://aur.archlinux.org/packages/tuxcharge-profile) | 0.1.0-1 | 0 | Set a TUXEDO laptop charging profile based on the connected Wi-Fi network |
+| 2026-10-19 01:37:00 | [elyterminal-bin](https://aur.archlinux.org/packages/elyterminal-bin) | 0.1.4-2 | 0 | A GPU-accelerated terminal emulator built on GPUI |
+| 2026-10-19 01:51:37 | [pittore-studio-bin](https://aur.archlinux.org/packages/pittore-studio-bin) | 0.1.6-1 | 0 | Layer-based photo editor for Linux (upstream binary) |
+| 2026-10-19 01:52:15 | [pittore-studio-git](https://aur.archlinux.org/packages/pittore-studio-git) | 0.1.6.r1.gc97f85d-1 | 0 | Layer-based photo editor for Linux (git) |
+| 2026-10-19 01:52:57 | [pittore-studio](https://aur.archlinux.org/packages/pittore-studio) | 0.1.6-1 | 0 | Layer-based photo editor for Linux |
 
 ## Data source
 

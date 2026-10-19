@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-19T01:37:00Z,elyterminal-bin,0.1.4-2,0,A GPU-accelerated terminal emulator built on GPUI
+2026-10-19T01:51:37Z,pittore-studio-bin,0.1.6-1,0,Layer-based photo editor for Linux (upstream binary)
+2026-10-19T01:52:15Z,pittore-studio-git,0.1.6.r1.gc97f85d-1,0,Layer-based photo editor for Linux (git)
+2026-10-19T01:52:57Z,pittore-studio,0.1.6-1,0,Layer-based photo editor for Linux
