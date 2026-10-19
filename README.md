@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 10:21 UTC
+## Latest list — 2026-10-19 11:21 UTC
 
-New packages created between 2026-10-19 09:21 UTC and 2026-10-19 10:21 UTC.
+New packages created between 2026-10-19 10:21 UTC and 2026-10-19 11:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T10-21-47-857432Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T11-21-38-524479Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 10:00:29 | [gigacode-desktop-bin](https://aur.archlinux.org/packages/gigacode-desktop-bin) | 26.10.109-1 | 0 | GigaCode Desktop AI assistant |
-| 2026-10-19 10:12:34 | [ant-browser-bin](https://aur.archlinux.org/packages/ant-browser-bin) | 1.8.0-1 | 0 | Multi-profile anti-detect browser launcher with proxy management |
-| 2026-10-19 10:14:09 | [openguimo-bin](https://aur.archlinux.org/packages/openguimo-bin) | 0.1.0.r11.g9ddb8ff2… | 0 | Open-source remake of the 1997 DOS platformer GUIMO (needs your own GUIMO 2.2 d… |
+| 2026-10-19 10:45:58 | [carboxyl-git](https://aur.archlinux.org/packages/carboxyl-git) | r297.g35a3342-1 | 0 | Terminal browser built on Servo — community fork of Carbonyl |
 
 ## Data source
 
