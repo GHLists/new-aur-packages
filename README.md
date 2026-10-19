@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 04:19 UTC
+## Latest list — 2026-10-19 05:20 UTC
 
-New packages created between 2026-10-19 03:22 UTC and 2026-10-19 04:19 UTC.
+New packages created between 2026-10-19 04:19 UTC and 2026-10-19 05:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T04-19-44-770254Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T05-20-15-455535Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 03:48:27 | [hifox-cli](https://aur.archlinux.org/packages/hifox-cli) | 0.4.432-1 | 0 | HiFox CLI: terminal client for the HiFox human and AI agent collaboration platf… |
-| 2026-10-19 04:13:20 | [cbirds-bin](https://aur.archlinux.org/packages/cbirds-bin) | 1.7.0-1 | 0 | A flock of birds in your terminal |
+| 2026-10-19 04:26:30 | [sox-vulkan-bin](https://aur.archlinux.org/packages/sox-vulkan-bin) | 16.2.2-1 | 0 | Sound eXchange (sox) with Vulkan acceleration |
+| 2026-10-19 04:59:35 | [gal-transl-bin](https://aur.archlinux.org/packages/gal-transl-bin) | 8.4.2-1 | 1 | Automated translation solution for visual novels supporting GPT/Claude/Deepseek… |
+| 2026-10-19 05:00:09 | [neiro-git](https://aur.archlinux.org/packages/neiro-git) | r17.b0c951b-1 | 0 | Laptop speaker enhancement for PipeWire, using the laptop's own Dolby DAX3 tuni… |
+| 2026-10-19 05:06:40 | [libcupsfilters-duplexfix](https://aur.archlinux.org/packages/libcupsfilters-duplexfix) | 2.2.1.r32.gd49e9284… | 0 | OpenPrinting CUPS Filters - contains all the code of the filters of the former… |
 
 ## Data source
 

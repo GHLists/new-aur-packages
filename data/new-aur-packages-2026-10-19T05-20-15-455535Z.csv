@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-19T04:26:30Z,sox-vulkan-bin,16.2.2-1,0,Sound eXchange (sox) with Vulkan acceleration
+2026-10-19T04:59:35Z,gal-transl-bin,8.4.2-1,1,Automated translation solution for visual novels supporting GPT/Claude/Deepseek/Sakura (prebuilt desktop client)
+2026-10-19T05:00:09Z,neiro-git,r17.b0c951b-1,0,"Laptop speaker enhancement for PipeWire, using the laptop's own Dolby DAX3 tuning"
+2026-10-19T05:06:40Z,libcupsfilters-duplexfix,2.2.1.r32.gd49e9284…,0,OpenPrinting CUPS Filters - contains all the code of the filters of the former cups-filters package as library functions
