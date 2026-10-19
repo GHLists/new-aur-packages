@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 20:22 UTC
+## Latest list — 2026-10-19 21:21 UTC
 
-New packages created between 2026-10-19 19:21 UTC and 2026-10-19 20:22 UTC.
+New packages created between 2026-10-19 20:22 UTC and 2026-10-19 21:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T20-22-52-019386Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T21-21-44-353117Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 19:39:05 | [kisel](https://aur.archlinux.org/packages/kisel) | 1.5.1-1 | 0 | Efficient launch of Windows programs |
-| 2026-10-19 20:12:11 | [noos-agent](https://aur.archlinux.org/packages/noos-agent) | 0.1.0-1 | 0 | Hybrid Local AI Desktop Workbench (llama.cpp ROCm/CUDA/Vulkan, Stable Diffusion… |
-| 2026-10-19 20:16:06 | [owbox](https://aur.archlinux.org/packages/owbox) | 0.3.0-1 | 0 | Openbox for Wayland: a stacking compositor with Openbox's config, themes and be… |
-| 2026-10-19 20:17:02 | [owbox-git](https://aur.archlinux.org/packages/owbox-git) | 0.3.0.r0.fc013a7-1 | 0 | Openbox for Wayland: a stacking compositor with Openbox's config, themes and be… |
+| 2026-10-19 21:05:44 | [neomacs-git](https://aur.archlinux.org/packages/neomacs-git) | 0.0.19.r25162.g7cc7… | 0 | NEO Emacs: Emacs rewritten in Rust with a GPU display engine (git version) |
 
 ## Data source
 
