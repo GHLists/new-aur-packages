@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 07:19 UTC
+## Latest list — 2026-10-19 08:20 UTC
 
-New packages created between 2026-10-19 06:21 UTC and 2026-10-19 07:19 UTC.
+New packages created between 2026-10-19 07:19 UTC and 2026-10-19 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T07-19-25-926157Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T08-20-27-282406Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 06:29:33 | [ryuski](https://aur.archlinux.org/packages/ryuski) | 0.0.2-1 | 0 | Local, trainable command assistant with a CLI and QML plugin |
-| 2026-10-19 06:35:56 | [ryuski-bin](https://aur.archlinux.org/packages/ryuski-bin) | 0.0.2-1 | 0 | Local, trainable command assistant with a CLI and QML plugin (prebuilt binary) |
-| 2026-10-19 06:39:48 | [typepper](https://aur.archlinux.org/packages/typepper) | 0.2.0-2 | 0 | A spicy little typing game for your terminal and browser |
-| 2026-10-19 06:41:00 | [noctalia-qs-legacy-v4](https://aur.archlinux.org/packages/noctalia-qs-legacy-v4) | 0.0.13-1 | 0 | Community-maintained fork of the archived noctalia-qs (Quickshell fork) for Noc… |
-| 2026-10-19 06:43:08 | [typepper-bin](https://aur.archlinux.org/packages/typepper-bin) | 0.2.0-1 | 0 | A spicy little typing game for your terminal and browser (prebuilt binary) |
+| 2026-10-19 07:56:48 | [terrascope](https://aur.archlinux.org/packages/terrascope) | 0.3.0-1 | 0 | Braille-rendered terminal world map with live weather and aircraft |
+| 2026-10-19 07:56:57 | [terrascope-git](https://aur.archlinux.org/packages/terrascope-git) | 0.3.0.r0.ga904987-1 | 0 | Braille-rendered terminal world map with live weather and aircraft (git) |
+| 2026-10-19 08:03:23 | [cq-csv](https://aur.archlinux.org/packages/cq-csv) | 1.2.0-2 | 1 | High-Performance SQL Query Engine for CSV Files |
+| 2026-10-19 08:10:57 | [libbgp](https://aur.archlinux.org/packages/libbgp) | 0.6.3-1 | 0 | A C++ BGP library. |
 
 ## Data source
 
