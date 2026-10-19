@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-18T23:42:22Z,dirt,0.10.1-1,1,"k9s-style TUI for libvirt / KVM virtual machines, with htop-style live stats"
+2026-10-18T23:48:21Z,git-bonsai-bin,0.6.0-1,1,Git worktrees without the bookkeeping
+2026-10-18T23:51:25Z,freshgram-bin,7.5.0-1,0,"Breaking ToS Telegram Desktop fork with a lot of security features, all AyuGram features, and a lot of design styles (prebuilt)"
+2026-10-18T23:51:36Z,freshgram-git,7.5.5.r85.g26d2291-1,0,"Breaking ToS Telegram Desktop fork with a lot of security features, all AyuGram features, and a lot of design styles (git version)"
