@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-19T11:25:30Z,gitehr,0.4.0-1,0,"A Git-based Electronic Health Record system - patient-owned, local-first, plain files and git"
+2026-10-19T11:54:50Z,chem-grub,r15.20261019.db7926…,0,Chemistry-inspired GRUB2 theme with native localization and CJK support
+2026-10-19T12:02:03Z,thorium-browser-beta-avx512-bin,156.0.8078.28-1,0,AVX-512 beta build of the Chromium fork focused on performance
+2026-10-19T12:02:32Z,thorium-browser-beta-avx2-bin,156.0.8078.28-1,0,AVX2 and FMA beta build of the Chromium fork focused on performance
+2026-10-19T12:02:53Z,thorium-browser-beta-avx-bin,156.0.8078.28-1,0,AVX beta build of the Chromium fork focused on performance
+2026-10-19T12:03:20Z,thorium-browser-beta-sse4-bin,156.0.8078.28-1,0,SSE4.1 beta build of the Chromium fork focused on performance
+2026-10-19T12:03:52Z,thorium-browser-beta-bin,156.0.8078.28-1,0,Beta build of the Chromium fork focused on performance and security
+2026-10-19T12:10:30Z,lconnect-linux,2.0.11.1-1,0,"Unofficial Lian Li L-Connect 3 port: UNI FAN TL / TL LCD / SL Infinity fan speed, RGB and LCD control"
