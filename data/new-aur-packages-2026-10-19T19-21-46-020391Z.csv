@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-19T19:08:18Z,irlume-git,0.15.0-1,0,"Face authentication for Linux: IR cameras, consent-gated, photo-spoofing resistant, TPM-sealed, password always works (nightly: builds main)"
+2026-10-19T19:08:18Z,irlume-kcm-git,0.15.0-1,0,"Plasma System Settings module for irlume: read-only status, health and launch actions (nightly: builds main)"

@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 18:21 UTC
+## Latest list — 2026-10-19 19:21 UTC
 
-New packages created between 2026-10-19 17:23 UTC and 2026-10-19 18:21 UTC.
+New packages created between 2026-10-19 18:21 UTC and 2026-10-19 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T18-21-54-733149Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T19-21-46-020391Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 17:31:00 | [anime-manager-git](https://aur.archlinux.org/packages/anime-manager-git) | 0.12.4.r1.g6ccc544-1 | 0 | Scan an anime collection, play episodes in mpv and track what you have watched… |
-| 2026-10-19 17:59:19 | [ingenic-cloner-bin](https://aur.archlinux.org/packages/ingenic-cloner-bin) | 2.5.80.1-1 | 0 | USB download tool for the Ingenic SoCs — prebuilt binary, upstream provides no… |
-| 2026-10-19 18:03:11 | [xodus-nexus-bin](https://aur.archlinux.org/packages/xodus-nexus-bin) | 0.3.8-1 | 0 | Xbox-inspired launcher for Microsoft Store PC games on Linux, built on Xodus |
+| 2026-10-19 19:08:18 | [irlume-git](https://aur.archlinux.org/packages/irlume-git) | 0.15.0-1 | 0 | Face authentication for Linux: IR cameras, consent-gated, photo-spoofing resist… |
+| 2026-10-19 19:08:18 | [irlume-kcm-git](https://aur.archlinux.org/packages/irlume-kcm-git) | 0.15.0-1 | 0 | Plasma System Settings module for irlume: read-only status, health and launch a… |
 
 ## Data source
 
