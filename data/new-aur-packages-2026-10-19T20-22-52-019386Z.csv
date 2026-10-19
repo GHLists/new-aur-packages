@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-19T19:39:05Z,kisel,1.5.1-1,0,Efficient launch of Windows programs
+2026-10-19T20:12:11Z,noos-agent,0.1.0-1,0,"Hybrid Local AI Desktop Workbench (llama.cpp ROCm/CUDA/Vulkan, Stable Diffusion, Multi-Agent Orchestrator & Web Skills)"
+2026-10-19T20:16:06Z,owbox,0.3.0-1,0,"Openbox for Wayland: a stacking compositor with Openbox's config, themes and behavior"
+2026-10-19T20:17:02Z,owbox-git,0.3.0.r0.fc013a7-1,0,"Openbox for Wayland: a stacking compositor with Openbox's config, themes and behavior (latest commit)"

@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 19:21 UTC
+## Latest list — 2026-10-19 20:22 UTC
 
-New packages created between 2026-10-19 18:21 UTC and 2026-10-19 19:21 UTC.
+New packages created between 2026-10-19 19:21 UTC and 2026-10-19 20:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T19-21-46-020391Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T20-22-52-019386Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 19:08:18 | [irlume-git](https://aur.archlinux.org/packages/irlume-git) | 0.15.0-1 | 0 | Face authentication for Linux: IR cameras, consent-gated, photo-spoofing resist… |
-| 2026-10-19 19:08:18 | [irlume-kcm-git](https://aur.archlinux.org/packages/irlume-kcm-git) | 0.15.0-1 | 0 | Plasma System Settings module for irlume: read-only status, health and launch a… |
+| 2026-10-19 19:39:05 | [kisel](https://aur.archlinux.org/packages/kisel) | 1.5.1-1 | 0 | Efficient launch of Windows programs |
+| 2026-10-19 20:12:11 | [noos-agent](https://aur.archlinux.org/packages/noos-agent) | 0.1.0-1 | 0 | Hybrid Local AI Desktop Workbench (llama.cpp ROCm/CUDA/Vulkan, Stable Diffusion… |
+| 2026-10-19 20:16:06 | [owbox](https://aur.archlinux.org/packages/owbox) | 0.3.0-1 | 0 | Openbox for Wayland: a stacking compositor with Openbox's config, themes and be… |
+| 2026-10-19 20:17:02 | [owbox-git](https://aur.archlinux.org/packages/owbox-git) | 0.3.0.r0.fc013a7-1 | 0 | Openbox for Wayland: a stacking compositor with Openbox's config, themes and be… |
 
 ## Data source
 
