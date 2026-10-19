@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-19T15:28:50Z,ddc-controls-bin,0.1.0-1,0,"GTK3 monitor control panel for DDC/CI (libddcci) and backlights, with a waybar module (prebuilt)"
+2026-10-19T15:38:22Z,lorenz,1.0.0-1,0,Local file conversion with radial wheels
+2026-10-19T15:40:59Z,ait-git,0.1.9.r648.g808b9bc…,0,Local-first multi-agent manager with an Electron desktop and Rust daemon (Git main)
+2026-10-19T15:44:12Z,akyuu,0.1.1-1,0,Anime list tracker with media player and web browser detection
+2026-10-19T15:59:59Z,super-trouper-bin,0.5.0-1,0,MCP server for Frida
+2026-10-19T16:01:19Z,python-bibtexparser1,1.4.4-1,0,Bibtex parser in Python
+2026-10-19T16:16:57Z,openknowledge-bin,,,"Beautiful, AI-native markdown IDE and LLM wiki (binary release)"
