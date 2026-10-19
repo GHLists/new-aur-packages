@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-19T06:29:33Z,ryuski,0.0.2-1,0,"Local, trainable command assistant with a CLI and QML plugin"
+2026-10-19T06:35:56Z,ryuski-bin,0.0.2-1,0,"Local, trainable command assistant with a CLI and QML plugin (prebuilt binary)"
+2026-10-19T06:39:48Z,typepper,0.2.0-2,0,A spicy little typing game for your terminal and browser
+2026-10-19T06:41:00Z,noctalia-qs-legacy-v4,0.0.13-1,0,"Community-maintained fork of the archived noctalia-qs (Quickshell fork) for Noctalia Shell v4, with Qt 6.12 fix"
+2026-10-19T06:43:08Z,typepper-bin,0.2.0-1,0,A spicy little typing game for your terminal and browser (prebuilt binary)

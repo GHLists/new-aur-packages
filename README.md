@@ -12,18 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 06:21 UTC
+## Latest list — 2026-10-19 07:19 UTC
 
-New packages created between 2026-10-19 05:20 UTC and 2026-10-19 06:21 UTC.
+New packages created between 2026-10-19 06:21 UTC and 2026-10-19 07:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T06-21-21-677188Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T07-19-25-926157Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 05:40:50 | [voicenux-bin](https://aur.archlinux.org/packages/voicenux-bin) | 0.1.0-1 | 0 | VoiceMod for Linux. Real-time voice changer and soundboard for PipeWire (upstre… |
-| 2026-10-19 05:41:34 | [voicenux](https://aur.archlinux.org/packages/voicenux) | 0.1.0-1 | 0 | VoiceMod for Linux. Real-time voice changer and soundboard for PipeWire |
-| 2026-10-19 06:16:23 | [kosmozoo-bin](https://aur.archlinux.org/packages/kosmozoo-bin) | 0.2.1-1 | 0 | Local review and curation app for ComfyUI image output (prebuilt executable) |
-| 2026-10-19 06:16:36 | [kosmozoo](https://aur.archlinux.org/packages/kosmozoo) | 0.2.1-1 | 0 | Local review and curation app for ComfyUI image output |
+| 2026-10-19 06:29:33 | [ryuski](https://aur.archlinux.org/packages/ryuski) | 0.0.2-1 | 0 | Local, trainable command assistant with a CLI and QML plugin |
+| 2026-10-19 06:35:56 | [ryuski-bin](https://aur.archlinux.org/packages/ryuski-bin) | 0.0.2-1 | 0 | Local, trainable command assistant with a CLI and QML plugin (prebuilt binary) |
+| 2026-10-19 06:39:48 | [typepper](https://aur.archlinux.org/packages/typepper) | 0.2.0-2 | 0 | A spicy little typing game for your terminal and browser |
+| 2026-10-19 06:41:00 | [noctalia-qs-legacy-v4](https://aur.archlinux.org/packages/noctalia-qs-legacy-v4) | 0.0.13-1 | 0 | Community-maintained fork of the archived noctalia-qs (Quickshell fork) for Noc… |
+| 2026-10-19 06:43:08 | [typepper-bin](https://aur.archlinux.org/packages/typepper-bin) | 0.2.0-1 | 0 | A spicy little typing game for your terminal and browser (prebuilt binary) |
 
 ## Data source
 
