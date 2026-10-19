@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-19T08:25:51Z,perplexity-bin,26.10.2-1,0,Official Perplexity desktop app and Portable Computer for Linux
+2026-10-19T08:31:16Z,cq-csv-git,1.2.0.r7.g80cacbb-1,1,High-Performance SQL Query Engine for CSV Files (bleeding-edge version)
+2026-10-19T09:12:04Z,ely-doc-bin,0.1.8-1,0,"ElyDoc, part of Ely Office - offline-first word processor (prebuilt upstream package)"
+2026-10-19T09:12:16Z,ely-mark-bin,0.1.8-1,0,"ElyMark, part of Ely Office - Markdown editor with Git support (prebuilt upstream package)"
+2026-10-19T09:12:28Z,ely-pdf-bin,0.1.8-1,0,"ElyPDF, part of Ely Office - PDF reading and editing with OCR (prebuilt upstream package)"
+2026-10-19T09:12:40Z,ely-show-bin,0.1.8-1,0,"ElyShow, part of Ely Office - presentation editor (prebuilt upstream package)"
+2026-10-19T09:12:53Z,ely-table-bin,0.1.8-1,0,"ElyTable, part of Ely Office - spreadsheet editor (prebuilt upstream package)"
+2026-10-19T09:13:05Z,ely-tree-bin,0.1.8-1,0,"ElyTree, part of Ely Office - Git client (prebuilt upstream package)"
+2026-10-19T09:13:18Z,ely-office-bin,0.1.8-1,0,"Ely Office - offline-first word processor, spreadsheet, presentation, PDF, Markdown and Git suite (metapackage)"
