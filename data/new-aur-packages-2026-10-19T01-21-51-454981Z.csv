@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-19T00:50:22Z,plain-bin,0.3.2-1,0,"Compile, test and deploy EVM smart contracts with a single binary that needs no setup"
+2026-10-19T01:05:07Z,voidal,0.4.0-1,0,4x strategy game inspired by Aurora 4x
+2026-10-19T01:07:54Z,tuxcharge-profile,0.1.0-1,0,Set a TUXEDO laptop charging profile based on the connected Wi-Fi network

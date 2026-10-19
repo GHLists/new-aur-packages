@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 00:22 UTC
+## Latest list — 2026-10-19 01:21 UTC
 
-New packages created between 2026-10-18 23:21 UTC and 2026-10-19 00:22 UTC.
+New packages created between 2026-10-19 00:22 UTC and 2026-10-19 01:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T00-22-20-708561Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T01-21-51-454981Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-18 23:42:22 | [dirt](https://aur.archlinux.org/packages/dirt) | 0.10.1-1 | 1 | k9s-style TUI for libvirt / KVM virtual machines, with htop-style live stats |
-| 2026-10-18 23:48:21 | [git-bonsai-bin](https://aur.archlinux.org/packages/git-bonsai-bin) | 0.6.0-1 | 1 | Git worktrees without the bookkeeping |
-| 2026-10-18 23:51:25 | [freshgram-bin](https://aur.archlinux.org/packages/freshgram-bin) | 7.5.0-1 | 0 | Breaking ToS Telegram Desktop fork with a lot of security features, all AyuGram… |
-| 2026-10-18 23:51:36 | [freshgram-git](https://aur.archlinux.org/packages/freshgram-git) | 7.5.5.r85.g26d2291-1 | 0 | Breaking ToS Telegram Desktop fork with a lot of security features, all AyuGram… |
+| 2026-10-19 00:50:22 | [plain-bin](https://aur.archlinux.org/packages/plain-bin) | 0.3.2-1 | 0 | Compile, test and deploy EVM smart contracts with a single binary that needs no… |
+| 2026-10-19 01:05:07 | [voidal](https://aur.archlinux.org/packages/voidal) | 0.4.0-1 | 0 | 4x strategy game inspired by Aurora 4x |
+| 2026-10-19 01:07:54 | [tuxcharge-profile](https://aur.archlinux.org/packages/tuxcharge-profile) | 0.1.0-1 | 0 | Set a TUXEDO laptop charging profile based on the connected Wi-Fi network |
 
 ## Data source
 
