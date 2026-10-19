@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 17:23 UTC
+## Latest list — 2026-10-19 18:21 UTC
 
-New packages created between 2026-10-19 16:19 UTC and 2026-10-19 17:23 UTC.
+New packages created between 2026-10-19 17:23 UTC and 2026-10-19 18:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T17-23-19-104592Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-19T18-21-54-733149Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 16:42:21 | [gnotes-gtk](https://aur.archlinux.org/packages/gnotes-gtk) | 1.8.0-1 | 0 | Native GNOME client for Gnotes, self-hosted Markdown notes with live shared edi… |
-| 2026-10-19 16:53:11 | [hueforge-bin](https://aur.archlinux.org/packages/hueforge-bin) | 0.9.4.4-1 | 0 | Color filament painting software for 3D printing |
+| 2026-10-19 17:31:00 | [anime-manager-git](https://aur.archlinux.org/packages/anime-manager-git) | 0.12.4.r1.g6ccc544-1 | 0 | Scan an anime collection, play episodes in mpv and track what you have watched… |
+| 2026-10-19 17:59:19 | [ingenic-cloner-bin](https://aur.archlinux.org/packages/ingenic-cloner-bin) | 2.5.80.1-1 | 0 | USB download tool for the Ingenic SoCs — prebuilt binary, upstream provides no… |
+| 2026-10-19 18:03:11 | [xodus-nexus-bin](https://aur.archlinux.org/packages/xodus-nexus-bin) | 0.3.8-1 | 0 | Xbox-inspired launcher for Microsoft Store PC games on Linux, built on Xodus |
 
 ## Data source
 

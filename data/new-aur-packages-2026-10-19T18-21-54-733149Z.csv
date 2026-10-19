@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-19T17:31:00Z,anime-manager-git,0.12.4.r1.g6ccc544-1,0,"Scan an anime collection, play episodes in mpv and track what you have watched (git)"
+2026-10-19T17:59:19Z,ingenic-cloner-bin,2.5.80.1-1,0,"USB download tool for the Ingenic SoCs — prebuilt binary, upstream provides no source code"
+2026-10-19T18:03:11Z,xodus-nexus-bin,0.3.8-1,0,"Xbox-inspired launcher for Microsoft Store PC games on Linux, built on Xodus"
