@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 10:21 UTC
+## Latest list — 2026-10-20 11:20 UTC
 
-New packages created between 2026-10-20 09:20 UTC and 2026-10-20 10:21 UTC.
+New packages created between 2026-10-20 10:21 UTC and 2026-10-20 11:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-20T10-21-45-096865Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-20T11-20-05-577925Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 09:48:11 | [ttf-nordwand-mono](https://aur.archlinux.org/packages/ttf-nordwand-mono) | 1.3.1-1 | 0 | Compact monospace neo-grotesque font designed for developers |
-| 2026-10-20 09:48:11 | [otf-nordwand-mono](https://aur.archlinux.org/packages/otf-nordwand-mono) | 1.3.1-1 | 0 | Compact monospace neo-grotesque font designed for developers |
+| 2026-10-20 10:23:48 | [gpwebcam-git](https://aur.archlinux.org/packages/gpwebcam-git) | 0.3.1.r1.g513ae03-1 | 0 | Use a GoPro connected over USB as a Linux webcam (latest commit) |
+| 2026-10-20 11:05:37 | [scuffed-stat-tracker-bin](https://aur.archlinux.org/packages/scuffed-stat-tracker-bin) | 0.5.0rc2-1 | 0 | Overwatch 2 personal stats tracker for Scuffed Crew (capture daemon and desktop… |
 
 ## Data source
 
