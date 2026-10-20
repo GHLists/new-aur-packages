@@ -1,0 +1,13 @@
+created_at,package,version,votes,description
+2026-10-20T19:21:38Z,vela-music-bin,0.12.8-1,0,Private Vela music library and native player
+2026-10-20T19:24:09Z,openartifact,0.2.0-1,0,"Free-as-in-freedom artifact repository manager (Maven, npm, PyPI, OCI, Helm, ...)"
+2026-10-20T19:24:12Z,openartifact-bin,0.2.0-1,0,"Free-as-in-freedom artifact repository manager (Maven, npm, PyPI, OCI, Helm, ...) - prebuilt binaries"
+2026-10-20T19:28:03Z,bash-autosuggestions-git,r1.9267715-1,0,Fish-like autosuggestions for bash
+2026-10-20T19:46:22Z,abb-agent,0.2.0-1,0,"Replacement for the Synology Active Backup for Business Linux agent: any distro and kernel, first-class btrfs, bare-metal restore (https://github.com/rylos/abb-agent)"
+2026-10-20T19:46:28Z,abb-agent-bin,0.2.0-1,0,"Replacement for the Synology Active Backup for Business Linux agent: any distro and kernel, first-class btrfs, bare-metal restore (https://github.com/rylos/abb-agent)"
+2026-10-20T19:46:54Z,lola-retro,1.11.2-1,0,CRT shader for RetroArch
+2026-10-20T19:58:51Z,lmm-api-extensions-bin,0.1.0rc1-1,0,LMM API Go extensions (prebuilt binary)
+2026-10-20T19:58:51Z,lmm-api-core-bin,0.1.0rc2-1,0,LMM API Rust core (prebuilt binary)
+2026-10-20T19:59:44Z,pg_sift-git,3.1.0.r209.g72aa970…,0,PostgreSQL full-text and column indexes with aggregate pushdown (development version)
+2026-10-20T20:07:24Z,padtune,0.1.0-1,0,"Unofficial configurator for BIGBIG WON controllers (Rainbow 2 Pro and family): buttons, sticks, triggers, lights, macros, polling rate"
+2026-10-20T20:14:34Z,padtune-bin,0.1.0-1,0,"Unofficial configurator for BIGBIG WON controllers (Rainbow 2 Pro and family): buttons, sticks, triggers, lights, macros, polling rate (prebuilt)"

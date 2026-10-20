@@ -12,18 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 19:19 UTC
+## Latest list — 2026-10-20 20:19 UTC
 
-New packages created between 2026-10-20 18:20 UTC and 2026-10-20 19:19 UTC.
+New packages created between 2026-10-20 19:19 UTC and 2026-10-20 20:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-20T19-19-51-561386Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-20T20-19-52-393368Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 18:32:10 | [lyapunov](https://aur.archlinux.org/packages/lyapunov) | 0.1.0-1 | 0 | Save an activity as a card and resume it later |
-| 2026-10-20 18:34:48 | [crit.md-bin](https://aur.archlinux.org/packages/crit.md-bin) | 0.23.0-1 | 1 | Review agent plans, diffs, and web apps in the browser |
-| 2026-10-20 19:14:29 | [wscreensavers](https://aur.archlinux.org/packages/wscreensavers) | 1.0.0-1 | 0 | Native Wayland version of XScreenSaver with 22 built-in WebGL/Canvas ports, XSc… |
-| 2026-10-20 19:18:03 | [frameport-bin](https://aur.archlinux.org/packages/frameport-bin) |  |  | Port games and apps to work with the Valve Steam Frame |
+| 2026-10-20 19:21:38 | [vela-music-bin](https://aur.archlinux.org/packages/vela-music-bin) | 0.12.8-1 | 0 | Private Vela music library and native player |
+| 2026-10-20 19:24:09 | [openartifact](https://aur.archlinux.org/packages/openartifact) | 0.2.0-1 | 0 | Free-as-in-freedom artifact repository manager (Maven, npm, PyPI, OCI, Helm, ..… |
+| 2026-10-20 19:24:12 | [openartifact-bin](https://aur.archlinux.org/packages/openartifact-bin) | 0.2.0-1 | 0 | Free-as-in-freedom artifact repository manager (Maven, npm, PyPI, OCI, Helm, ..… |
+| 2026-10-20 19:28:03 | [bash-autosuggestions-git](https://aur.archlinux.org/packages/bash-autosuggestions-git) | r1.9267715-1 | 0 | Fish-like autosuggestions for bash |
+| 2026-10-20 19:46:22 | [abb-agent](https://aur.archlinux.org/packages/abb-agent) | 0.2.0-1 | 0 | Replacement for the Synology Active Backup for Business Linux agent: any distro… |
+| 2026-10-20 19:46:28 | [abb-agent-bin](https://aur.archlinux.org/packages/abb-agent-bin) | 0.2.0-1 | 0 | Replacement for the Synology Active Backup for Business Linux agent: any distro… |
+| 2026-10-20 19:46:54 | [lola-retro](https://aur.archlinux.org/packages/lola-retro) | 1.11.2-1 | 0 | CRT shader for RetroArch |
+| 2026-10-20 19:58:51 | [lmm-api-extensions-bin](https://aur.archlinux.org/packages/lmm-api-extensions-bin) | 0.1.0rc1-1 | 0 | LMM API Go extensions (prebuilt binary) |
+| 2026-10-20 19:58:51 | [lmm-api-core-bin](https://aur.archlinux.org/packages/lmm-api-core-bin) | 0.1.0rc2-1 | 0 | LMM API Rust core (prebuilt binary) |
+| 2026-10-20 19:59:44 | [pg_sift-git](https://aur.archlinux.org/packages/pg_sift-git) | 3.1.0.r209.g72aa970… | 0 | PostgreSQL full-text and column indexes with aggregate pushdown (development ve… |
+| 2026-10-20 20:07:24 | [padtune](https://aur.archlinux.org/packages/padtune) | 0.1.0-1 | 0 | Unofficial configurator for BIGBIG WON controllers (Rainbow 2 Pro and family):… |
+| 2026-10-20 20:14:34 | [padtune-bin](https://aur.archlinux.org/packages/padtune-bin) | 0.1.0-1 | 0 | Unofficial configurator for BIGBIG WON controllers (Rainbow 2 Pro and family):… |
 
 ## Data source
 
