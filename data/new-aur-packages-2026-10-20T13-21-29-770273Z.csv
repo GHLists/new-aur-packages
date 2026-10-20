@@ -1,0 +1,15 @@
+created_at,package,version,votes,description
+2026-10-20T12:21:57Z,ibus-table-zhengma,1.4.6-1,0,This is a ZhengMa table engine for IBus Table.
+2026-10-20T12:37:28Z,python-ffsim,0.0.84-1,1,Faster simulation of fermionic quantum circuits
+2026-10-20T12:40:17Z,ibus-table-zhengma-git,1.1.0.20261020.r0.g…,0,ZhengMa input method table for IBus (git version)
+2026-10-20T12:42:51Z,orbok,0.0.0-1,0,A placeholder package for orbok
+2026-10-20T12:44:30Z,orbok-bin,0.0.0-1,0,A placeholder package for orbok-bin
+2026-10-20T12:57:16Z,prikk,0.0.0-1,0,A placeholder package for prikk
+2026-10-20T12:57:59Z,prikk-bin,0.0.0-1,0,A placeholder package for prikk-bin
+2026-10-20T13:00:43Z,amdgpu-fan-ctl-tyan-s8030gm2ne,1.0.0-1,0,AMD GPU temperature driven fan control for Tyan S8030GM2NE via local ipmitool
+2026-10-20T13:02:42Z,arama,0.0.0-1,0,A placeholder package for arama
+2026-10-20T13:03:22Z,arama-bin,0.0.0-1,0,A placeholder package for arama-bin
+2026-10-20T13:05:13Z,omriss,0.0.0-1,0,A placeholder package for omriss
+2026-10-20T13:09:23Z,omriss-bin,0.0.0-1,0,A placeholder package for omriss-bin
+2026-10-20T13:10:56Z,bekoedit,0.0.0-1,0,A placeholder package for bekoedit
+2026-10-20T13:11:56Z,xenity-git,3.44.6.r0.gb6407b3-1,0,GTK3 drop-in replacement for Zenity 3.44
