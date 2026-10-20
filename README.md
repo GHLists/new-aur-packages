@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 18:20 UTC
+## Latest list — 2026-10-20 19:19 UTC
 
-New packages created between 2026-10-20 17:20 UTC and 2026-10-20 18:20 UTC.
+New packages created between 2026-10-20 18:20 UTC and 2026-10-20 19:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-20T18-20-13-154346Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-20T19-19-51-561386Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 17:33:36 | [cinemion-bin](https://aur.archlinux.org/packages/cinemion-bin) | 0.1.0-1 | 0 | Self-hosted media server and player for movies, shows and home videos |
-| 2026-10-20 17:37:08 | [purrtop](https://aur.archlinux.org/packages/purrtop) | 1.0.0-1 | 0 | A colorful system monitor and task manager for Linux |
-| 2026-10-20 17:43:23 | [raft-desktop-bin](https://aur.archlinux.org/packages/raft-desktop-bin) | 1.21.24-1 | 0 | Collaborative human and AI messaging desktop app |
-| 2026-10-20 17:47:26 | [zwift-bootstrap-bin](https://aur.archlinux.org/packages/zwift-bootstrap-bin) | 0.1.1-1 | 0 | Unofficial native Linux launcher for Zwift that installs, updates and starts th… |
-| 2026-10-20 17:55:38 | [xenity](https://aur.archlinux.org/packages/xenity) | 3.44.6-1 | 0 | GTK3 drop-in replacement for Zenity 3.44 |
+| 2026-10-20 18:32:10 | [lyapunov](https://aur.archlinux.org/packages/lyapunov) | 0.1.0-1 | 0 | Save an activity as a card and resume it later |
+| 2026-10-20 18:34:48 | [crit.md-bin](https://aur.archlinux.org/packages/crit.md-bin) | 0.23.0-1 | 1 | Review agent plans, diffs, and web apps in the browser |
+| 2026-10-20 19:14:29 | [wscreensavers](https://aur.archlinux.org/packages/wscreensavers) | 1.0.0-1 | 0 | Native Wayland version of XScreenSaver with 22 built-in WebGL/Canvas ports, XSc… |
+| 2026-10-20 19:18:03 | [frameport-bin](https://aur.archlinux.org/packages/frameport-bin) |  |  | Port games and apps to work with the Valve Steam Frame |
 
 ## Data source
 

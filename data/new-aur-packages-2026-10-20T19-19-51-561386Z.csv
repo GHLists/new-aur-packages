@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-20T18:32:10Z,lyapunov,0.1.0-1,0,Save an activity as a card and resume it later
+2026-10-20T18:34:48Z,crit.md-bin,0.23.0-1,1,"Review agent plans, diffs, and web apps in the browser"
+2026-10-20T19:14:29Z,wscreensavers,1.0.0-1,0,"Native Wayland version of XScreenSaver with 22 built-in WebGL/Canvas ports, XScreenSaver XML bridge, PAM lock screen, and live desktop wallpaper mode"
+2026-10-20T19:18:03Z,frameport-bin,,,Port games and apps to work with the Valve Steam Frame
