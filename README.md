@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 22:20 UTC
+## Latest list — 2026-10-20 23:20 UTC
 
-New packages created between 2026-10-20 21:21 UTC and 2026-10-20 22:20 UTC.
+New packages created between 2026-10-20 22:20 UTC and 2026-10-20 23:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-20T22-20-52-930219Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-20T23-20-37-283437Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 21:44:59 | [insta360-link-controller-bin](https://aur.archlinux.org/packages/insta360-link-controller-bin) | 0.1.1-1 | 0 | Pure-Rust cross-platform controller suite (GUI, CLI, HTTP/WS server) for Insta3… |
-| 2026-10-20 21:54:18 | [noos-package-manager](https://aur.archlinux.org/packages/noos-package-manager) | 0.1.0-1 | 0 | Gestionnaire de paquets GTK4/Libadwaita (Pacman, AUR, Flatpak et AppImages) |
-| 2026-10-20 21:57:58 | [addwater-git](https://aur.archlinux.org/packages/addwater-git) | 1.3.r64.g09ca91a-1 | 0 | Installer and configuration tool for the Firefox GNOME theme (Git version) |
-| 2026-10-20 22:09:20 | [riptide-browser-bin](https://aur.archlinux.org/packages/riptide-browser-bin) | 0.4.0-1 | 0 | Keyboard-driven web browser with vim-like bindings, built on CEF |
+| 2026-10-20 22:27:48 | [riptide-browser](https://aur.archlinux.org/packages/riptide-browser) | 0.4.0-1 | 0 | Keyboard-driven web browser with vim-like bindings, built on CEF |
+| 2026-10-20 22:40:33 | [tailbridge-git](https://aur.archlinux.org/packages/tailbridge-git) | r20.a0617d9-1 | 0 | Expose individual devices across a LAN and a Tailscale tailnet (IPv4 aliases, N… |
+| 2026-10-20 23:00:36 | [ruvio-bin](https://aur.archlinux.org/packages/ruvio-bin) | 0.3.4-1 | 0 | Rust key-value server speaking RESP2 (Redis-compatible), prebuilt binaries |
+| 2026-10-20 23:14:30 | [domicile-bin](https://aur.archlinux.org/packages/domicile-bin) | 1.0.0pre.20261020.2… | 0 | A Wayland compositor whose renderer is a web engine. Installs the `domicile` lo… |
 
 ## Data source
 

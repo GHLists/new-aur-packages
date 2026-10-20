@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-20T22:27:48Z,riptide-browser,0.4.0-1,0,"Keyboard-driven web browser with vim-like bindings, built on CEF"
+2026-10-20T22:40:33Z,tailbridge-git,r20.a0617d9-1,0,"Expose individual devices across a LAN and a Tailscale tailnet (IPv4 aliases, NAT and per-device /32 routes)"
+2026-10-20T23:00:36Z,ruvio-bin,0.3.4-1,0,"Rust key-value server speaking RESP2 (Redis-compatible), prebuilt binaries"
+2026-10-20T23:14:30Z,domicile-bin,1.0.0pre.20261020.2…,0,"A Wayland compositor whose renderer is a web engine. Installs the `domicile` login session, the engine, the manganese and simple shells, the PAM service the lock uses and the `domicile` group."
