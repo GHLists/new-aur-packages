@@ -12,16 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 16:20 UTC
+## Latest list — 2026-10-20 17:20 UTC
 
-New packages created between 2026-10-20 15:22 UTC and 2026-10-20 16:20 UTC.
+New packages created between 2026-10-20 16:20 UTC and 2026-10-20 17:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-20T16-20-01-55087Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-20T17-20-55-039089Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 15:27:17 | [dcb-bin](https://aur.archlinux.org/packages/dcb-bin) | 0.1.0-1 | 0 | Build and run development containers |
-| 2026-10-20 15:56:24 | [ramcleaner](https://aur.archlinux.org/packages/ramcleaner) | 0.1.0-1 | 0 | Find processes holding unused memory, attribute them to their owner, and stop t… |
+| 2026-10-20 16:56:09 | [deepseek-harness-eac-bin](https://aur.archlinux.org/packages/deepseek-harness-eac-bin) | 5.3.6-3 | 0 | DeepSeek Harness EAC - desktop workbench for DSH plugins (upstream Debian build) |
+| 2026-10-20 17:01:02 | [mdpkg](https://aur.archlinux.org/packages/mdpkg) | 0.1.0-1 | 0 | Declarative multi-host package manager for Manjaro Linux via Markdown checklists |
+| 2026-10-20 17:02:43 | [aurgen](https://aur.archlinux.org/packages/aurgen) | 1.9.2-1 | 0 | Generate, test and publish AUR packages for GitHub projects |
+| 2026-10-20 17:07:26 | [ears-bin](https://aur.archlinux.org/packages/ears-bin) | 0.2.0-1 | 0 | Voice dictation: press a hotkey, speak, and ears types what you said |
+| 2026-10-20 17:07:34 | [ears-stt-bin](https://aur.archlinux.org/packages/ears-stt-bin) | 0.2.0-1 | 0 | OpenAI-compatible speech-to-text server for ears, backed by whisper.cpp |
+| 2026-10-20 17:07:43 | [ears-llm-bin](https://aur.archlinux.org/packages/ears-llm-bin) | 0.2.0-1 | 0 | OpenAI-compatible transcript clean-up server for ears, backed by llama.cpp |
+| 2026-10-20 17:11:41 | [pacmanstats](https://aur.archlinux.org/packages/pacmanstats) | 0.1.0-1 | 0 | TUI for browsing pacman history by day with per-day diff |
 
 ## Data source
 

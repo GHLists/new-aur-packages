@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-20T16:56:09Z,deepseek-harness-eac-bin,5.3.6-3,0,DeepSeek Harness EAC - desktop workbench for DSH plugins (upstream Debian build)
+2026-10-20T17:01:02Z,mdpkg,0.1.0-1,0,Declarative multi-host package manager for Manjaro Linux via Markdown checklists
+2026-10-20T17:02:43Z,aurgen,1.9.2-1,0,"Generate, test and publish AUR packages for GitHub projects"
+2026-10-20T17:07:26Z,ears-bin,0.2.0-1,0,"Voice dictation: press a hotkey, speak, and ears types what you said"
+2026-10-20T17:07:34Z,ears-stt-bin,0.2.0-1,0,"OpenAI-compatible speech-to-text server for ears, backed by whisper.cpp"
+2026-10-20T17:07:43Z,ears-llm-bin,0.2.0-1,0,"OpenAI-compatible transcript clean-up server for ears, backed by llama.cpp"
+2026-10-20T17:11:41Z,pacmanstats,0.1.0-1,0,TUI for browsing pacman history by day with per-day diff
