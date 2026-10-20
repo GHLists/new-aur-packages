@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-20T14:48:44Z,python-qiskit-addon-sqd,0.11.0-1,0,Sample-based Quantum Diagonalization
+2026-10-20T14:57:04Z,opto-bin,0.1.0-1,0,"See how busy your machine has been, and why"
+2026-10-20T15:05:12Z,sq-system-one-bin,0.1.1-1,0,"Streaming System One decisions for shell pipelines (Jev, Drex, Laya)"
+2026-10-20T15:06:34Z,sigilsmith-bin,0.9.11-1,0,Mod manager for Baldur's Gate 3 on Linux (unofficial community package of the official release files)
+2026-10-20T15:16:58Z,polymerium-bin,1.13.3-1,0,"Minecraft instance manager: mods, modpacks and one-click instance deployment (official binary)"
