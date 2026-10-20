@@ -12,26 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 20:19 UTC
+## Latest list — 2026-10-20 21:21 UTC
 
-New packages created between 2026-10-20 19:19 UTC and 2026-10-20 20:19 UTC.
+New packages created between 2026-10-20 20:19 UTC and 2026-10-20 21:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-20T20-19-52-393368Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-20T21-21-15-956248Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 19:21:38 | [vela-music-bin](https://aur.archlinux.org/packages/vela-music-bin) | 0.12.8-1 | 0 | Private Vela music library and native player |
-| 2026-10-20 19:24:09 | [openartifact](https://aur.archlinux.org/packages/openartifact) | 0.2.0-1 | 0 | Free-as-in-freedom artifact repository manager (Maven, npm, PyPI, OCI, Helm, ..… |
-| 2026-10-20 19:24:12 | [openartifact-bin](https://aur.archlinux.org/packages/openartifact-bin) | 0.2.0-1 | 0 | Free-as-in-freedom artifact repository manager (Maven, npm, PyPI, OCI, Helm, ..… |
-| 2026-10-20 19:28:03 | [bash-autosuggestions-git](https://aur.archlinux.org/packages/bash-autosuggestions-git) | r1.9267715-1 | 0 | Fish-like autosuggestions for bash |
-| 2026-10-20 19:46:22 | [abb-agent](https://aur.archlinux.org/packages/abb-agent) | 0.2.0-1 | 0 | Replacement for the Synology Active Backup for Business Linux agent: any distro… |
-| 2026-10-20 19:46:28 | [abb-agent-bin](https://aur.archlinux.org/packages/abb-agent-bin) | 0.2.0-1 | 0 | Replacement for the Synology Active Backup for Business Linux agent: any distro… |
-| 2026-10-20 19:46:54 | [lola-retro](https://aur.archlinux.org/packages/lola-retro) | 1.11.2-1 | 0 | CRT shader for RetroArch |
-| 2026-10-20 19:58:51 | [lmm-api-extensions-bin](https://aur.archlinux.org/packages/lmm-api-extensions-bin) | 0.1.0rc1-1 | 0 | LMM API Go extensions (prebuilt binary) |
-| 2026-10-20 19:58:51 | [lmm-api-core-bin](https://aur.archlinux.org/packages/lmm-api-core-bin) | 0.1.0rc2-1 | 0 | LMM API Rust core (prebuilt binary) |
-| 2026-10-20 19:59:44 | [pg_sift-git](https://aur.archlinux.org/packages/pg_sift-git) | 3.1.0.r209.g72aa970… | 0 | PostgreSQL full-text and column indexes with aggregate pushdown (development ve… |
-| 2026-10-20 20:07:24 | [padtune](https://aur.archlinux.org/packages/padtune) | 0.1.0-1 | 0 | Unofficial configurator for BIGBIG WON controllers (Rainbow 2 Pro and family):… |
-| 2026-10-20 20:14:34 | [padtune-bin](https://aur.archlinux.org/packages/padtune-bin) | 0.1.0-1 | 0 | Unofficial configurator for BIGBIG WON controllers (Rainbow 2 Pro and family):… |
+| 2026-10-20 20:20:19 | [gnome-shell-extension-vibecheck-git](https://aur.archlinux.org/packages/gnome-shell-extension-vibecheck-git) | 1.0.0.r1.g5cab59d-1 | 0 | GNOME Shell extension showing remaining Claude plan usage in the top bar and on… |
+| 2026-10-20 20:25:51 | [dux-files-git](https://aur.archlinux.org/packages/dux-files-git) | 2.0.0.r1.gf646769-1 | 0 | File manager for Wayland from Dux Labs (git) |
+| 2026-10-20 20:27:16 | [dux-files-bin](https://aur.archlinux.org/packages/dux-files-bin) | 2.0.0-1 | 1 | File manager for Wayland from Dux Labs (prebuilt binary) |
+| 2026-10-20 20:32:26 | [gpu-screen-recorder-gpui-bin](https://aur.archlinux.org/packages/gpu-screen-recorder-gpui-bin) | 5.7.10-1 | 0 | GPUI (Rust) frontend for gpu-screen-recorder (prebuilt binary) |
+| 2026-10-20 20:33:35 | [thesauromatic](https://aur.archlinux.org/packages/thesauromatic) | 0.1.0-1 | 0 | A static, offline, command-line thesaurus. |
+| 2026-10-20 20:40:30 | [mitos-editor-bin](https://aur.archlinux.org/packages/mitos-editor-bin) | 0.1.0-1 | 1 | A fast and minimal modal text editor |
+| 2026-10-20 20:43:14 | [colloid-gtk-theme](https://aur.archlinux.org/packages/colloid-gtk-theme) | 2026.08.08-1 | 0 | Gtk theme for Linux |
+| 2026-10-20 20:43:14 | [colloid-catppuccin-gtk-theme](https://aur.archlinux.org/packages/colloid-catppuccin-gtk-theme) | 2026.08.08-1 | 0 | Gtk Catppuccin theme for Linux |
+| 2026-10-20 20:43:14 | [colloid-dracula-gtk-theme](https://aur.archlinux.org/packages/colloid-dracula-gtk-theme) | 2026.08.08-1 | 0 | Gtk Dracula theme for Linux |
+| 2026-10-20 20:43:14 | [colloid-everforest-gtk-theme](https://aur.archlinux.org/packages/colloid-everforest-gtk-theme) | 2026.08.08-1 | 0 | Gtk Everforest theme for Linux |
+| 2026-10-20 20:43:14 | [colloid-gruvbox-gtk-theme](https://aur.archlinux.org/packages/colloid-gruvbox-gtk-theme) | 2026.08.08-1 | 0 | Gtk Gruvbox theme for Linux |
+| 2026-10-20 20:43:14 | [colloid-nord-gtk-theme](https://aur.archlinux.org/packages/colloid-nord-gtk-theme) | 2026.08.08-1 | 0 | Gtk Nord theme for Linux |
+| 2026-10-20 21:05:50 | [kappa-file-manager](https://aur.archlinux.org/packages/kappa-file-manager) | 0.1.0_beta.1-1 | 0 | Brutalist file manager for Ryoku OS (Rust core, Quickshell UI); independent com… |
+| 2026-10-20 21:07:12 | [logitech-g435-battery-bin](https://aur.archlinux.org/packages/logitech-g435-battery-bin) | 0.1.0-1 | 0 | Tray icon showing the battery level of the Logitech G435 wireless headset (preb… |
 
 ## Data source
 
