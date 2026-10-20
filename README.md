@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 11:20 UTC
+## Latest list — 2026-10-20 12:19 UTC
 
-New packages created between 2026-10-20 10:21 UTC and 2026-10-20 11:20 UTC.
+New packages created between 2026-10-20 11:20 UTC and 2026-10-20 12:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-20T11-20-05-577925Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-20T12-19-07-64451Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 10:23:48 | [gpwebcam-git](https://aur.archlinux.org/packages/gpwebcam-git) | 0.3.1.r1.g513ae03-1 | 0 | Use a GoPro connected over USB as a Linux webcam (latest commit) |
-| 2026-10-20 11:05:37 | [scuffed-stat-tracker-bin](https://aur.archlinux.org/packages/scuffed-stat-tracker-bin) | 0.5.0rc2-1 | 0 | Overwatch 2 personal stats tracker for Scuffed Crew (capture daemon and desktop… |
+| 2026-10-20 11:36:22 | [libcosmic-git](https://aur.archlinux.org/packages/libcosmic-git) | 1.0.0.r1034.46fcb08… | 0 | GUI platform toolkit for developing COSMIC applications and applets |
+| 2026-10-20 11:36:32 | [cosmic-tasks](https://aur.archlinux.org/packages/cosmic-tasks) | 0.3.1-1 | 0 | A simple task management application for the COSMIC desktop |
+| 2026-10-20 11:42:08 | [memex-bin](https://aur.archlinux.org/packages/memex-bin) | 0.29.1-1 | 0 | Search and resume Claude Code, Codex, Pi, OpenCode, Copilot and Cursor transcri… |
 
 ## Data source
 

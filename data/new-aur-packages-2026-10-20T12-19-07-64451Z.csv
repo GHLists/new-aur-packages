@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-20T11:36:22Z,libcosmic-git,1.0.0.r1034.46fcb08…,0,GUI platform toolkit for developing COSMIC applications and applets
+2026-10-20T11:36:32Z,cosmic-tasks,0.3.1-1,0,A simple task management application for the COSMIC desktop
+2026-10-20T11:42:08Z,memex-bin,0.29.1-1,0,"Search and resume Claude Code, Codex, Pi, OpenCode, Copilot and Cursor transcripts (prebuilt binary)"
