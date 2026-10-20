@@ -12,21 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 23:22 UTC
+## Latest list — 2026-10-20 00:20 UTC
 
-New packages created between 2026-10-19 22:19 UTC and 2026-10-19 23:22 UTC.
+New packages created between 2026-10-19 23:22 UTC and 2026-10-20 00:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-19T23-22-45-898199Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-20T00-20-17-804056Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 22:26:36 | [gdot-bin](https://aur.archlinux.org/packages/gdot-bin) | 0.1.0-1 | 0 | Modular, versioned dotfile manager |
-| 2026-10-19 22:28:18 | [spawn-desktop](https://aur.archlinux.org/packages/spawn-desktop) | 0.7.40-1 | 0 | Spawn desktop app with Discord Rich Presence |
-| 2026-10-19 22:32:44 | [tephro-server-bin](https://aur.archlinux.org/packages/tephro-server-bin) | 0.13.0-1 | 0 | Self-hosted group chat server: text, voice, video and screen sharing in one bin… |
-| 2026-10-19 22:33:04 | [tephro-client-bin](https://aur.archlinux.org/packages/tephro-client-bin) | 0.14.0-1 | 0 | Self-hosted group chat client: text, voice, video and screen sharing (release b… |
-| 2026-10-19 22:40:54 | [rala-bin](https://aur.archlinux.org/packages/rala-bin) | 0.1.0-1 | 0 | Publish static websites with Git over SSH (prebuilt binaries) |
-| 2026-10-19 22:46:36 | [comfyui-manager](https://aur.archlinux.org/packages/comfyui-manager) | 4.3-1 | 0 | Custom node, model and dependency manager for ComfyUI (installed into the comfy… |
-| 2026-10-19 22:51:15 | [aurora-ltr](https://aur.archlinux.org/packages/aurora-ltr) | 0.1.0-1 | 1 | Lightweight CLI for maintaining AUR packages |
+| 2026-10-19 23:36:13 | [noos-win-installer](https://aur.archlinux.org/packages/noos-win-installer) | 0.1.2-1 | 0 | Modern Bootable USB Creator for Linux (DD) & Windows 10/11 UEFI with Unattended… |
 
 ## Data source
 
