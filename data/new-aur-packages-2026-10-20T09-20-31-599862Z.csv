@@ -1,0 +1,12 @@
+created_at,package,version,votes,description
+2026-10-20T08:23:26Z,plico,0.1.4-1,0,"Editor PDF nativo per Linux: pagine, cancellazione vera, moduli, OCR, firma (PySide6/Qt)"
+2026-10-20T08:26:35Z,ivi-cli-bin,0.5.0beta.1-1,0,"Integrated CLI for managing, diagnosing, and operating VISA/IVI instruments (prebuilt binary)"
+2026-10-20T08:26:43Z,ivi-cli,0.5.0beta.1-1,0,"Integrated CLI for managing, diagnosing, and operating VISA/IVI instruments"
+2026-10-20T08:45:12Z,python-qiskit-fermions,1:0.2.0-1,0,A toolkit for working with fermionic systems
+2026-10-20T08:50:04Z,bebisfetch,0.1.0-1,0,"A lightweight, colorful, and fast system information tool written in Go."
+2026-10-20T08:50:54Z,logitech-g435-battery,0.1.0-1,0,Tray icon showing the battery level of the Logitech G435 wireless headset
+2026-10-20T08:56:03Z,rust-discord-overlay,0.2.0-1,0,"Lightweight Discord voice/text overlay for Linux (Wayland, GTK4 layer-shell), written in Rust"
+2026-10-20T08:57:51Z,hmcl-no-download-restriction,3.17.0.361.r1.g583e…,0,A Minecraft launcher with the mainland China game download restriction removed
+2026-10-20T09:05:30Z,ak820,0.1.1-1,0,"Configurator for the AJAZZ AK820 Pro keyboard: lighting, per-key RGB, key remapping, macros, TFT screen (GUI + CLI)"
+2026-10-20T09:05:35Z,ak820-bin,0.1.1-1,0,"Configurator for the AJAZZ AK820 Pro keyboard: lighting, per-key RGB, key remapping, macros, TFT screen (GUI + CLI, prebuilt)"
+2026-10-20T09:11:40Z,wifi-heatmapper-bin,0.6.0-2,0,Measure Wi-Fi signal strength and throughput and draw heat maps on a floor plan (prebuilt AppImage)
