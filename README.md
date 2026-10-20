@@ -12,21 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 17:20 UTC
+## Latest list — 2026-10-20 18:20 UTC
 
-New packages created between 2026-10-20 16:20 UTC and 2026-10-20 17:20 UTC.
+New packages created between 2026-10-20 17:20 UTC and 2026-10-20 18:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-20T17-20-55-039089Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-20T18-20-13-154346Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 16:56:09 | [deepseek-harness-eac-bin](https://aur.archlinux.org/packages/deepseek-harness-eac-bin) | 5.3.6-3 | 0 | DeepSeek Harness EAC - desktop workbench for DSH plugins (upstream Debian build) |
-| 2026-10-20 17:01:02 | [mdpkg](https://aur.archlinux.org/packages/mdpkg) | 0.1.0-1 | 0 | Declarative multi-host package manager for Manjaro Linux via Markdown checklists |
-| 2026-10-20 17:02:43 | [aurgen](https://aur.archlinux.org/packages/aurgen) | 1.9.2-1 | 0 | Generate, test and publish AUR packages for GitHub projects |
-| 2026-10-20 17:07:26 | [ears-bin](https://aur.archlinux.org/packages/ears-bin) | 0.2.0-1 | 0 | Voice dictation: press a hotkey, speak, and ears types what you said |
-| 2026-10-20 17:07:34 | [ears-stt-bin](https://aur.archlinux.org/packages/ears-stt-bin) | 0.2.0-1 | 0 | OpenAI-compatible speech-to-text server for ears, backed by whisper.cpp |
-| 2026-10-20 17:07:43 | [ears-llm-bin](https://aur.archlinux.org/packages/ears-llm-bin) | 0.2.0-1 | 0 | OpenAI-compatible transcript clean-up server for ears, backed by llama.cpp |
-| 2026-10-20 17:11:41 | [pacmanstats](https://aur.archlinux.org/packages/pacmanstats) | 0.1.0-1 | 0 | TUI for browsing pacman history by day with per-day diff |
+| 2026-10-20 17:33:36 | [cinemion-bin](https://aur.archlinux.org/packages/cinemion-bin) | 0.1.0-1 | 0 | Self-hosted media server and player for movies, shows and home videos |
+| 2026-10-20 17:37:08 | [purrtop](https://aur.archlinux.org/packages/purrtop) | 1.0.0-1 | 0 | A colorful system monitor and task manager for Linux |
+| 2026-10-20 17:43:23 | [raft-desktop-bin](https://aur.archlinux.org/packages/raft-desktop-bin) | 1.21.24-1 | 0 | Collaborative human and AI messaging desktop app |
+| 2026-10-20 17:47:26 | [zwift-bootstrap-bin](https://aur.archlinux.org/packages/zwift-bootstrap-bin) | 0.1.1-1 | 0 | Unofficial native Linux launcher for Zwift that installs, updates and starts th… |
+| 2026-10-20 17:55:38 | [xenity](https://aur.archlinux.org/packages/xenity) | 3.44.6-1 | 0 | GTK3 drop-in replacement for Zenity 3.44 |
 
 ## Data source
 
