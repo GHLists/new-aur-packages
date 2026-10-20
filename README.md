@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 15:22 UTC
+## Latest list — 2026-10-20 16:20 UTC
 
-New packages created between 2026-10-20 14:21 UTC and 2026-10-20 15:22 UTC.
+New packages created between 2026-10-20 15:22 UTC and 2026-10-20 16:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-20T15-22-06-404187Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-20T16-20-01-55087Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 14:48:44 | [python-qiskit-addon-sqd](https://aur.archlinux.org/packages/python-qiskit-addon-sqd) | 0.11.0-1 | 0 | Sample-based Quantum Diagonalization |
-| 2026-10-20 14:57:04 | [opto-bin](https://aur.archlinux.org/packages/opto-bin) | 0.1.0-1 | 0 | See how busy your machine has been, and why |
-| 2026-10-20 15:05:12 | [sq-system-one-bin](https://aur.archlinux.org/packages/sq-system-one-bin) | 0.1.1-1 | 0 | Streaming System One decisions for shell pipelines (Jev, Drex, Laya) |
-| 2026-10-20 15:06:34 | [sigilsmith-bin](https://aur.archlinux.org/packages/sigilsmith-bin) | 0.9.11-1 | 0 | Mod manager for Baldur's Gate 3 on Linux (unofficial community package of the o… |
-| 2026-10-20 15:16:58 | [polymerium-bin](https://aur.archlinux.org/packages/polymerium-bin) | 1.13.3-1 | 0 | Minecraft instance manager: mods, modpacks and one-click instance deployment (o… |
+| 2026-10-20 15:27:17 | [dcb-bin](https://aur.archlinux.org/packages/dcb-bin) | 0.1.0-1 | 0 | Build and run development containers |
+| 2026-10-20 15:56:24 | [ramcleaner](https://aur.archlinux.org/packages/ramcleaner) | 0.1.0-1 | 0 | Find processes holding unused memory, attribute them to their owner, and stop t… |
 
 ## Data source
 
