@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-20T01:38:04Z,ely-doc-app-bin,0.1.8-2,0,ElyDoc - Word document editor from the Ely Office suite
+2026-10-20T01:39:05Z,nitrokey-app2-git,2.7.1.r74.g5b7d8f9-1,0,Nitrokey management application for Nitrokey 3 devices
+2026-10-20T01:39:30Z,ely-mark-app-bin,0.1.8-2,0,ElyMark - Markdown editor from the Ely Office suite
+2026-10-20T01:40:56Z,ely-pdf-app-bin,0.1.8-2,0,ElyPDF - PDF viewer from the Ely Office suite
+2026-10-20T01:42:29Z,ely-show-app-bin,0.1.8-2,0,ElyShow - presentation app from the Ely Office suite
+2026-10-20T01:43:59Z,ely-table-app-bin,0.1.8-2,0,ElyTable - spreadsheet app from the Ely Office suite
+2026-10-20T01:45:17Z,ely-tree-app-bin,0.1.8-2,0,ElyTree - file tree and document organizer from the Ely Office suite
+2026-10-20T01:53:58Z,pig-bin,0.5.1-2,0,PiG (Pi in Go) - a Go port of the Pi coding agent

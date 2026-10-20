@@ -12,17 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 01:21 UTC
+## Latest list — 2026-10-20 02:20 UTC
 
-New packages created between 2026-10-20 00:20 UTC and 2026-10-20 01:21 UTC.
+New packages created between 2026-10-20 01:21 UTC and 2026-10-20 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-20T01-21-07-729015Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-20T02-20-35-380181Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 00:42:53 | [ufm-companion-bin](https://aur.archlinux.org/packages/ufm-companion-bin) | 2.1.8-1 | 0 | Native Wayland-first Linux companion for Ultimate File Manager Pro — dual-pane… |
-| 2026-10-20 00:45:39 | [touchfish-v4](https://aur.archlinux.org/packages/touchfish-v4) | 4.11.0-1 | 0 | FOSS multi-distribution LAN chatting tool |
-| 2026-10-20 00:53:40 | [preloader-signed-bin](https://aur.archlinux.org/packages/preloader-signed-bin) | 20130208-1 | 1 | Linux Foundation UEFI secure boot system (prebuilt X64 EFI binaries) |
+| 2026-10-20 01:38:04 | [ely-doc-app-bin](https://aur.archlinux.org/packages/ely-doc-app-bin) | 0.1.8-2 | 0 | ElyDoc - Word document editor from the Ely Office suite |
+| 2026-10-20 01:39:05 | [nitrokey-app2-git](https://aur.archlinux.org/packages/nitrokey-app2-git) | 2.7.1.r74.g5b7d8f9-1 | 0 | Nitrokey management application for Nitrokey 3 devices |
+| 2026-10-20 01:39:30 | [ely-mark-app-bin](https://aur.archlinux.org/packages/ely-mark-app-bin) | 0.1.8-2 | 0 | ElyMark - Markdown editor from the Ely Office suite |
+| 2026-10-20 01:40:56 | [ely-pdf-app-bin](https://aur.archlinux.org/packages/ely-pdf-app-bin) | 0.1.8-2 | 0 | ElyPDF - PDF viewer from the Ely Office suite |
+| 2026-10-20 01:42:29 | [ely-show-app-bin](https://aur.archlinux.org/packages/ely-show-app-bin) | 0.1.8-2 | 0 | ElyShow - presentation app from the Ely Office suite |
+| 2026-10-20 01:43:59 | [ely-table-app-bin](https://aur.archlinux.org/packages/ely-table-app-bin) | 0.1.8-2 | 0 | ElyTable - spreadsheet app from the Ely Office suite |
+| 2026-10-20 01:45:17 | [ely-tree-app-bin](https://aur.archlinux.org/packages/ely-tree-app-bin) | 0.1.8-2 | 0 | ElyTree - file tree and document organizer from the Ely Office suite |
+| 2026-10-20 01:53:58 | [pig-bin](https://aur.archlinux.org/packages/pig-bin) | 0.5.1-2 | 0 | PiG (Pi in Go) - a Go port of the Pi coding agent |
 
 ## Data source
 
