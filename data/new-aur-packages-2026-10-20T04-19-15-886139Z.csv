@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-20T03:36:39Z,dropwatch-music,0.1.5-1,0,Shows which albums by the artists in your music library you are missing
+2026-10-20T03:47:13Z,minimax-design,2.0.15-1,0,MiniMax Design desktop app repackaged from the official macOS release
+2026-10-20T03:48:23Z,zeroconnect-bin,2.6.1-1,0,File exchange application for Zero calculators (ZGC4)
+2026-10-20T03:56:12Z,musql-bin,0.4.0-1,1,"SQLite-compatible SQL, accelerated by columnar storage and a JIT compiler"
+2026-10-20T04:00:04Z,subs,0.1.1-1,0,"Subtitle TUI with fuzzy matching, guided TV episodes, and automatic sidecar downloads"
