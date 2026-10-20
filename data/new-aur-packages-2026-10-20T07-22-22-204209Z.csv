@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-20T06:20:55Z,pdf-math-reader-bin,0.1.13-2,0,"Read scientific documents in your language, in realtime, on any platform"
+2026-10-20T06:44:12Z,diskpush-bin,0.16.3-1,1,Push files fast. Sync only what changed.
+2026-10-20T06:57:41Z,mayaflux-bin,0.5.0-1,0,Modern C++23 framework for real-time graphics and audio with JIT live coding (prebuilt release)
