@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-21T05:53:47Z,dbine-bin,1.0.0-2,0,"DBine - desktop manager for 130+ SQL and NoSQL databases with notebooks, schema compare and AI assistant"
+2026-10-21T05:54:50Z,pdsync,0.1.0-1,0,"Unofficial Proton Drive sync client with a tray app (third-party, not supported by Proton)"
+2026-10-21T06:18:08Z,lumux-git,,,"Real-time ambient lighting sync for Philips Hue on Linux (Wayland), GTK4/libadwaita"
