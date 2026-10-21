@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-21T11:30:53Z,spot-bin,0.1.0-1,0,"TOML+CSS dialog runtime for Wayland (layer-shell overlays), prebuilt binary"
+2026-10-21T11:31:02Z,spot-git,0.1.0.r0.g7b06aa4-1,0,"TOML+CSS dialog runtime for Wayland (layer-shell overlays), built from git"
+2026-10-21T11:35:30Z,ahwoo-bin,2026.10.17.1348-1,0,Launcher for Ahwoo games
+2026-10-21T11:46:09Z,toonflow,2.0.7-1,0,AI 驱动的短剧 / 漫剧创作平台（Web 界面 + 本地服务端）
+2026-10-21T11:46:21Z,edvr-installer-bin,0.20.0-1,0,An unofficial patch for Elite Dangerous in VR
+2026-10-21T12:06:49Z,python-qiskit-addon-opt-mapper,0.1.0-1,0,Mapping combinatorial optimization problems to quantum computers
+2026-10-21T12:19:38Z,libsigrok-nemanjan00-git,,,"Client software that supports various hardware logic analyzers, core library (nemanjan00 fork: one fork with upstream plus pending hardware support: DSLogic U3Pro16/32, Sipeed SLogic, Saleae Logic Pro, Rigol MHO900 and more)"
