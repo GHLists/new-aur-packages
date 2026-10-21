@@ -12,22 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 07:22 UTC
+## Latest list — 2026-10-21 08:20 UTC
 
-New packages created between 2026-10-21 06:19 UTC and 2026-10-21 07:22 UTC.
+New packages created between 2026-10-21 07:22 UTC and 2026-10-21 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T07-22-23-925269Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T08-20-57-443315Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 06:26:46 | [uncharted-pc-bin](https://aur.archlinux.org/packages/uncharted-pc-bin) | 0.3.6.linux.102-1 | 0 | Uncharted: The Nathan Drake Collection native PC port (requires your own game d… |
-| 2026-10-21 06:27:29 | [gow3-pc-bin](https://aur.archlinux.org/packages/gow3-pc-bin) | 2.6.0-1 | 0 | God of War III Remastered native PC port (SpartanPort, requires your own game d… |
-| 2026-10-21 06:27:39 | [driveclub-pc-bin](https://aur.archlinux.org/packages/driveclub-pc-bin) | 0.2.1-1 | 0 | Driveclub PC wrapper, native Linux build (requires your own game dump) |
-| 2026-10-21 06:27:49 | [infamous-pc-bin](https://aur.archlinux.org/packages/infamous-pc-bin) | 2026.10.21.da39b0b-1 | 0 | inFAMOUS Second Son native PC port (requires your own game dump) |
-| 2026-10-21 06:28:48 | [bloodborne-pc-bin](https://aur.archlinux.org/packages/bloodborne-pc-bin) | 0.6-1 | 0 | Bloodborne native PC port (bbport, requires your own game dump) |
-| 2026-10-21 06:38:24 | [batticonplus-ayatana](https://aur.archlinux.org/packages/batticonplus-ayatana) | 2.0.1-1 | 0 | Lightweight battery icon for the system tray and notifier, wayland version (bas… |
-| 2026-10-21 06:52:24 | [batticonplus-ayatana-gtk3-git](https://aur.archlinux.org/packages/batticonplus-ayatana-gtk3-git) | 2.0.1-3 | 0 | Lightweight battery status icon for the tray with Ayatana Indicators support (R… |
-| 2026-10-21 07:18:51 | [kg-git](https://aur.archlinux.org/packages/kg-git) | r165.449fac2-1 | 0 | A tiny, lightning-fast UTF-8 text editor with pure Emacs keybindings (fork of k… |
+| 2026-10-21 07:22:27 | [google-voice-electron-archlinux](https://aur.archlinux.org/packages/google-voice-electron-archlinux) | 1.3.1-17 | 0 | An electron shell wrapper for the google voice app tailored for Arch Linux |
+| 2026-10-21 07:22:33 | [python-qiskit-paulice](https://aur.archlinux.org/packages/python-qiskit-paulice) | 0.2.1-1 | 1 | Embedding spacetime Pauli checks into Clifford circuits |
+| 2026-10-21 07:34:56 | [python-timestral-git](https://aur.archlinux.org/packages/python-timestral-git) | r1.a534bdb-1 | 0 | Standalone inference for Mistral AI Timestral time-series forecasting models |
+| 2026-10-21 07:35:27 | [ttf-kreativekorp-apple2-pr](https://aur.archlinux.org/packages/ttf-kreativekorp-apple2-pr) | 2020.04-2 | 1 | KreativeKorp's Apple II standard font: Print Char 21, and PR Number 3. |
+| 2026-10-21 07:35:27 | [ttf-kreativekorp-apple2-shaston](https://aur.archlinux.org/packages/ttf-kreativekorp-apple2-shaston) | 2020.04-2 | 1 | KreativeKorp's Apple II GS/OS system font: Shaston, in 4 different variants. |
+| 2026-10-21 07:35:27 | [ttf-kreativekorp-apple2-berkeliumii](https://aur.archlinux.org/packages/ttf-kreativekorp-apple2-berkeliumii) | 2020.04-2 | 1 | KreativeKorp's Apple II GEOS system font: Berkelium II, in 2 different variants. |
+| 2026-10-21 07:35:27 | [ttf-kreativekorp-apple2-bload](https://aur.archlinux.org/packages/ttf-kreativekorp-apple2-bload) | 2020.04-2 | 1 | KreativeKorp's Apple II standard bit patterns fonts: BLoad A1024 (lo-res graphi… |
+| 2026-10-21 07:37:17 | [netease-songrec-linux-bin](https://aur.archlinux.org/packages/netease-songrec-linux-bin) | 0.1.1-1 | 0 | Unofficial NetEase Music song recognition client for Linux |
+| 2026-10-21 07:47:57 | [python-pauli-prop](https://aur.archlinux.org/packages/python-pauli-prop) | 0.2.1-1 | 1 | Rust-accelerated Python interface for performing Pauli propagation |
+| 2026-10-21 08:06:16 | [shim-signed-bin](https://aur.archlinux.org/packages/shim-signed-bin) | 16.1+fedora+10-1 | 0 | Initial UEFI bootloader that handles chaining to a trusted full bootloader unde… |
 
 ## Data source
 
