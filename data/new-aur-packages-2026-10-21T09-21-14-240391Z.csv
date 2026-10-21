@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-21T08:25:55Z,super-paste-git,1.0.0.r98.gf927451-1,0,Clipboard manager with local OCR and synchronization (Git version)
+2026-10-21T08:27:43Z,super-paste-bin,1.0.0-1,0,Clipboard manager with local OCR and synchronization (upstream binaries)
+2026-10-21T08:44:05Z,hydrascale-bin,1.7.0-1,0,Run multiple Tailscale tailnets simultaneously on a single Linux machine.
+2026-10-21T09:10:27Z,zero-beat-git,0.4.0.r7.g9bf578d-1,0,Terminal music player for NetEase Cloud Music and Bilibili (TUI)
