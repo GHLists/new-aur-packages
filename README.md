@@ -12,17 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 16:19 UTC
+## Latest list — 2026-10-21 17:21 UTC
 
-New packages created between 2026-10-21 15:19 UTC and 2026-10-21 16:19 UTC.
+New packages created between 2026-10-21 16:19 UTC and 2026-10-21 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T16-19-16-176089Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T17-21-09-182597Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 15:20:33 | [onair-dra](https://aur.archlinux.org/packages/onair-dra) | 0.2.8-2 | 0 | DRA/DRA+ audio decoder add-on for OnAir (CDR sound) |
-| 2026-10-21 15:22:08 | [canopy-bin](https://aur.archlinux.org/packages/canopy-bin) | 0.2.3-1 | 0 | Terminal UI for tracking tasks across work management backends |
-| 2026-10-21 15:22:14 | [t3rry-bin](https://aur.archlinux.org/packages/t3rry-bin) | 0.1.4-1 | 0 | Move T3 Code projects and threads between server instances |
+| 2026-10-21 16:27:06 | [legio-launcher-git](https://aur.archlinux.org/packages/legio-launcher-git) | 1:0.2.2.r200.g2f227… | 0 | Legio desktop game launcher (development sources) |
+| 2026-10-21 16:29:32 | [ly-lock](https://aur.archlinux.org/packages/ly-lock) | 0.1.1-1 | 0 | Wayland lock screen that looks and behaves like the ly display manager |
+| 2026-10-21 16:40:18 | [csleep](https://aur.archlinux.org/packages/csleep) | 1.0.0-1 | 0 | Chunked sleep with a smooth progress bar and remaining-time countdown |
+| 2026-10-21 16:48:20 | [bornopata](https://aur.archlinux.org/packages/bornopata) | 0.1.0_alpha.2-1 | 0 | Bangla (Avro phonetic) input method for Fcitx5 that learns your words |
+| 2026-10-21 16:52:05 | [owly](https://aur.archlinux.org/packages/owly) | 0.4.0-1 | 0 | AirDrop's Wi-Fi radio on Linux: AWDL in userspace, the owlyd radio service, and… |
+| 2026-10-21 16:57:01 | [mongodb90-bin](https://aur.archlinux.org/packages/mongodb90-bin) | 9.0.4-1 | 0 | A high-performance, open source, schema-free document-oriented database |
+| 2026-10-21 17:01:14 | [vinculum-bin](https://aur.archlinux.org/packages/vinculum-bin) | 0.2.0-1 | 0 | Manage Wi-Fi, wired and VPN connections (NetworkManager GUI, prebuilt binary) |
+| 2026-10-21 17:05:12 | [omdrop-owl-bin](https://aur.archlinux.org/packages/omdrop-owl-bin) | 0.4.0-1 | 0 | AirDrop radio backend for Omdrop on non-Broadcom Wi-Fi, on Owly (prebuilt) |
 
 ## Data source
 

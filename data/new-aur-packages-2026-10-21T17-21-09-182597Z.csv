@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-21T16:27:06Z,legio-launcher-git,1:0.2.2.r200.g2f227…,0,Legio desktop game launcher (development sources)
+2026-10-21T16:29:32Z,ly-lock,0.1.1-1,0,Wayland lock screen that looks and behaves like the ly display manager
+2026-10-21T16:40:18Z,csleep,1.0.0-1,0,Chunked sleep with a smooth progress bar and remaining-time countdown
+2026-10-21T16:48:20Z,bornopata,0.1.0_alpha.2-1,0,Bangla (Avro phonetic) input method for Fcitx5 that learns your words
+2026-10-21T16:52:05Z,owly,0.4.0-1,0,"AirDrop's Wi-Fi radio on Linux: AWDL in userspace, the owlyd radio service, and the owly CLI"
+2026-10-21T16:57:01Z,mongodb90-bin,9.0.4-1,0,"A high-performance, open source, schema-free document-oriented database"
+2026-10-21T17:01:14Z,vinculum-bin,0.2.0-1,0,"Manage Wi-Fi, wired and VPN connections (NetworkManager GUI, prebuilt binary)"
+2026-10-21T17:05:12Z,omdrop-owl-bin,0.4.0-1,0,"AirDrop radio backend for Omdrop on non-Broadcom Wi-Fi, on Owly (prebuilt)"
