@@ -12,15 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 04:21 UTC
+## Latest list — 2026-10-21 05:20 UTC
 
-New packages created between 2026-10-21 03:21 UTC and 2026-10-21 04:21 UTC.
+New packages created between 2026-10-21 04:21 UTC and 2026-10-21 05:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T04-21-47-674971Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T05-20-31-896542Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 04:04:43 | [gnome-shell-extension-app-folder-grid-dimensions-git](https://aur.archlinux.org/packages/gnome-shell-extension-app-folder-grid-dimensions-git) | 20261021.3.e621f28-1 | 0 | Customize the number of rows and columns in the GNOME app folder grid (git) |
+| 2026-10-21 04:23:57 | [ccti](https://aur.archlinux.org/packages/ccti) | 0.1.9-1 | 0 | ComfyUI TUI: agentic image chat with inline terminal rendering |
+| 2026-10-21 04:24:52 | [thrapl-git](https://aur.archlinux.org/packages/thrapl-git) | 0.0.1.r1.2b7da63-1 | 0 | Easily adjust the PL2 (Turbo) wattage using the intel_rapl driver |
+| 2026-10-21 04:26:59 | [brainrot-bin](https://aur.archlinux.org/packages/brainrot-bin) | 0.5.4-1 | 0 | Brainrot programming language interpreter |
+| 2026-10-21 04:51:07 | [saiku](https://aur.archlinux.org/packages/saiku) | 1.0.0-1 | 0 | DSH-powered coding agent with a terminal UI and headless workers |
+| 2026-10-21 05:06:18 | [crit](https://aur.archlinux.org/packages/crit) | 0.23.0-1 | 0 | Review AI coding agents' plans, diffs and running apps in the browser, local-fi… |
 
 ## Data source
 

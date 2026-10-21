@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-21T04:23:57Z,ccti,0.1.9-1,0,ComfyUI TUI: agentic image chat with inline terminal rendering
+2026-10-21T04:24:52Z,thrapl-git,0.0.1.r1.2b7da63-1,0,Easily adjust the PL2 (Turbo) wattage using the intel_rapl driver
+2026-10-21T04:26:59Z,brainrot-bin,0.5.4-1,0,Brainrot programming language interpreter
+2026-10-21T04:51:07Z,saiku,1.0.0-1,0,DSH-powered coding agent with a terminal UI and headless workers
+2026-10-21T05:06:18Z,crit,0.23.0-1,0,"Review AI coding agents' plans, diffs and running apps in the browser, local-first"
