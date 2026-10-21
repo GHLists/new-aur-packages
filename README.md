@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 15:19 UTC
+## Latest list — 2026-10-21 16:19 UTC
 
-New packages created between 2026-10-21 14:22 UTC and 2026-10-21 15:19 UTC.
+New packages created between 2026-10-21 15:19 UTC and 2026-10-21 16:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T15-19-18-334782Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T16-19-16-176089Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 14:23:40 | [rwpm](https://aur.archlinux.org/packages/rwpm) | 1.14.0-1 | 0 | Separate RimWorld profiles, each with its own saves, settings and mod list |
-| 2026-10-21 14:44:13 | [wicked-ide-bin](https://aur.archlinux.org/packages/wicked-ide-bin) | 0.0.3-1 | 0 | Code editor that runs AI models on your own machine |
-| 2026-10-21 15:12:26 | [tallyd](https://aur.archlinux.org/packages/tallyd) | 0.1.0-1 | 0 | Detect ongoing calls by watching microphone and camera capture |
-| 2026-10-21 15:13:39 | [bivrost-bin](https://aur.archlinux.org/packages/bivrost-bin) | 0.4.1-1 | 0 | Local Azure Bastion sessions for Kubernetes and Podman workflows |
-| 2026-10-21 15:17:59 | [python-qiskit-addon-aqc-tensor](https://aur.archlinux.org/packages/python-qiskit-addon-aqc-tensor) |  |  | Approximate quantum compilation with tensor networks |
+| 2026-10-21 15:20:33 | [onair-dra](https://aur.archlinux.org/packages/onair-dra) | 0.2.8-2 | 0 | DRA/DRA+ audio decoder add-on for OnAir (CDR sound) |
+| 2026-10-21 15:22:08 | [canopy-bin](https://aur.archlinux.org/packages/canopy-bin) | 0.2.3-1 | 0 | Terminal UI for tracking tasks across work management backends |
+| 2026-10-21 15:22:14 | [t3rry-bin](https://aur.archlinux.org/packages/t3rry-bin) | 0.1.4-1 | 0 | Move T3 Code projects and threads between server instances |
 
 ## Data source
 
