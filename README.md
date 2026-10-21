@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 09:21 UTC
+## Latest list — 2026-10-21 10:21 UTC
 
-New packages created between 2026-10-21 08:20 UTC and 2026-10-21 09:21 UTC.
+New packages created between 2026-10-21 09:21 UTC and 2026-10-21 10:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T09-21-14-240391Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T10-21-21-685464Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 08:25:55 | [super-paste-git](https://aur.archlinux.org/packages/super-paste-git) | 1.0.0.r98.gf927451-1 | 0 | Clipboard manager with local OCR and synchronization (Git version) |
-| 2026-10-21 08:27:43 | [super-paste-bin](https://aur.archlinux.org/packages/super-paste-bin) | 1.0.0-1 | 0 | Clipboard manager with local OCR and synchronization (upstream binaries) |
-| 2026-10-21 08:44:05 | [hydrascale-bin](https://aur.archlinux.org/packages/hydrascale-bin) | 1.7.0-1 | 0 | Run multiple Tailscale tailnets simultaneously on a single Linux machine. |
-| 2026-10-21 09:10:27 | [zero-beat-git](https://aur.archlinux.org/packages/zero-beat-git) | 0.4.0.r7.g9bf578d-1 | 0 | Terminal music player for NetEase Cloud Music and Bilibili (TUI) |
+| 2026-10-21 09:55:17 | [python-qiskit-addon-slc](https://aur.archlinux.org/packages/python-qiskit-addon-slc) | 0.1.0-1 | 1 | Reducing PEC sampling overhead with shaded lightcones |
 
 ## Data source
 
