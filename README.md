@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 00:19 UTC
+## Latest list — 2026-10-21 01:20 UTC
 
-New packages created between 2026-10-20 23:20 UTC and 2026-10-21 00:19 UTC.
+New packages created between 2026-10-21 00:19 UTC and 2026-10-21 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T00-19-15-7222Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T01-20-30-189776Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 23:31:43 | [templum-bin](https://aur.archlinux.org/packages/templum-bin) | 0.1.3-1 | 1 | An infinite canvas for your terminals and your AI coding agents. |
-| 2026-10-21 00:06:27 | [network-manager-amneziawg](https://aur.archlinux.org/packages/network-manager-amneziawg) | 0.9.12-1 | 0 | NetworkManager VPN plugin for AmneziaWG |
-| 2026-10-21 00:14:39 | [steelmouse](https://aur.archlinux.org/packages/steelmouse) | 2.5.1-1 | 0 | System tray battery monitor for SteelSeries wireless mice |
+| 2026-10-21 01:16:30 | [qsc-cli](https://aur.archlinux.org/packages/qsc-cli) |  |  | Qualcomm Software Center CLI, with QIK and the QSC desktop app |
 
 ## Data source
 
