@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-10-21T22:24:00Z,plasmic-cli,0.1.382-1,0,Plasmic CLI for syncing local code with Plasmic designs (wraps @plasmicapp/cli)

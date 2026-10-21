@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 22:21 UTC
+## Latest list — 2026-10-21 23:21 UTC
 
-New packages created between 2026-10-21 21:21 UTC and 2026-10-21 22:21 UTC.
+New packages created between 2026-10-21 22:21 UTC and 2026-10-21 23:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T22-21-32-58112Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T23-21-16-41381Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 21:28:15 | [cosmic-ext-calculator](https://aur.archlinux.org/packages/cosmic-ext-calculator) | 0.2.1-1 | 0 | Calculator for the COSMIC desktop. |
+| 2026-10-21 22:24:00 | [plasmic-cli](https://aur.archlinux.org/packages/plasmic-cli) | 0.1.382-1 | 0 | Plasmic CLI for syncing local code with Plasmic designs (wraps @plasmicapp/cli) |
 
 ## Data source
 
