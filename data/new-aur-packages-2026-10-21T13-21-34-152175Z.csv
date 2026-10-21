@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-21T12:54:47Z,mgcarpet,0.1.0alpha4-1,0,Engine reimplementation of Magic Carpet 1 & 2 (requires original game data)
+2026-10-21T13:08:05Z,noos-firewall,0.1.0-1,0,Gestion graphique native et moderne du pare-feu UFW en Rust (GTK4 / Libadwaita)
+2026-10-21T13:19:36Z,krunner-scrivener,,,KRunner plugin to search Scrivener favorite and recent projects (Plasma 6)
