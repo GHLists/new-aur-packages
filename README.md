@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 10:21 UTC
+## Latest list — 2026-10-21 11:22 UTC
 
-New packages created between 2026-10-21 09:21 UTC and 2026-10-21 10:21 UTC.
+New packages created between 2026-10-21 10:21 UTC and 2026-10-21 11:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T10-21-21-685464Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T11-22-26-658934Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 09:55:17 | [python-qiskit-addon-slc](https://aur.archlinux.org/packages/python-qiskit-addon-slc) | 0.1.0-1 | 1 | Reducing PEC sampling overhead with shaded lightcones |
+| 2026-10-21 10:59:17 | [visual-studio-code-autoupdate](https://aur.archlinux.org/packages/visual-studio-code-autoupdate) | 1.0-1 | 0 | Direct Microsoft VS Code updater with a twice-daily user timer |
 
 ## Data source
 
