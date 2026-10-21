@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-21T17:42:51Z,wnvidia-control,0.1.1-1,0,"Overclock, undervolt, power limit and fan curves for NVIDIA GPUs (Wayland/X11 GUI, CLI and service)"
+2026-10-21T17:42:57Z,wnvidia-control-bin,0.1.1-1,0,"Overclock, undervolt, power limit and fan curves for NVIDIA GPUs (Wayland/X11 GUI, CLI and service) (prebuilt)"
+2026-10-21T18:03:35Z,ravel-git,r22.7761e45-1,0,"Read-only JSON, JSON Lines, YAML and Markdown viewer for GNOME"
+2026-10-21T18:05:49Z,xtool-studio,1.9.11-1,0,Design and control software for xTool laser machines (Linux port of the official Windows build)
