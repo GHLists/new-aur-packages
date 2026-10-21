@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 01:20 UTC
+## Latest list — 2026-10-21 02:19 UTC
 
-New packages created between 2026-10-21 00:19 UTC and 2026-10-21 01:20 UTC.
+New packages created between 2026-10-21 01:20 UTC and 2026-10-21 02:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T01-20-30-189776Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T02-19-28-166051Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 01:16:30 | [qsc-cli](https://aur.archlinux.org/packages/qsc-cli) |  |  | Qualcomm Software Center CLI, with QIK and the QSC desktop app |
+| 2026-10-21 02:02:45 | [linux-passkey](https://aur.archlinux.org/packages/linux-passkey) | 0.1.0-1 | 0 | Passkeys for Linux (FIDO2 / WebAuthn authenticator) |
+| 2026-10-21 02:02:45 | [gnome-shell-extension-linux-passkey](https://aur.archlinux.org/packages/gnome-shell-extension-linux-passkey) | 0.1.0-1 | 0 | GNOME Shell integration for Linux Passkey |
 
 ## Data source
 
