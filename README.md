@@ -12,17 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 06:19 UTC
+## Latest list — 2026-10-21 07:22 UTC
 
-New packages created between 2026-10-21 05:20 UTC and 2026-10-21 06:19 UTC.
+New packages created between 2026-10-21 06:19 UTC and 2026-10-21 07:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T06-19-36-849818Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T07-22-23-925269Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 05:53:47 | [dbine-bin](https://aur.archlinux.org/packages/dbine-bin) | 1.0.0-2 | 0 | DBine - desktop manager for 130+ SQL and NoSQL databases with notebooks, schema… |
-| 2026-10-21 05:54:50 | [pdsync](https://aur.archlinux.org/packages/pdsync) | 0.1.0-1 | 0 | Unofficial Proton Drive sync client with a tray app (third-party, not supported… |
-| 2026-10-21 06:18:08 | [lumux-git](https://aur.archlinux.org/packages/lumux-git) |  |  | Real-time ambient lighting sync for Philips Hue on Linux (Wayland), GTK4/libadw… |
+| 2026-10-21 06:26:46 | [uncharted-pc-bin](https://aur.archlinux.org/packages/uncharted-pc-bin) | 0.3.6.linux.102-1 | 0 | Uncharted: The Nathan Drake Collection native PC port (requires your own game d… |
+| 2026-10-21 06:27:29 | [gow3-pc-bin](https://aur.archlinux.org/packages/gow3-pc-bin) | 2.6.0-1 | 0 | God of War III Remastered native PC port (SpartanPort, requires your own game d… |
+| 2026-10-21 06:27:39 | [driveclub-pc-bin](https://aur.archlinux.org/packages/driveclub-pc-bin) | 0.2.1-1 | 0 | Driveclub PC wrapper, native Linux build (requires your own game dump) |
+| 2026-10-21 06:27:49 | [infamous-pc-bin](https://aur.archlinux.org/packages/infamous-pc-bin) | 2026.10.21.da39b0b-1 | 0 | inFAMOUS Second Son native PC port (requires your own game dump) |
+| 2026-10-21 06:28:48 | [bloodborne-pc-bin](https://aur.archlinux.org/packages/bloodborne-pc-bin) | 0.6-1 | 0 | Bloodborne native PC port (bbport, requires your own game dump) |
+| 2026-10-21 06:38:24 | [batticonplus-ayatana](https://aur.archlinux.org/packages/batticonplus-ayatana) | 2.0.1-1 | 0 | Lightweight battery icon for the system tray and notifier, wayland version (bas… |
+| 2026-10-21 06:52:24 | [batticonplus-ayatana-gtk3-git](https://aur.archlinux.org/packages/batticonplus-ayatana-gtk3-git) | 2.0.1-3 | 0 | Lightweight battery status icon for the tray with Ayatana Indicators support (R… |
+| 2026-10-21 07:18:51 | [kg-git](https://aur.archlinux.org/packages/kg-git) | r165.449fac2-1 | 0 | A tiny, lightning-fast UTF-8 text editor with pure Emacs keybindings (fork of k… |
 
 ## Data source
 

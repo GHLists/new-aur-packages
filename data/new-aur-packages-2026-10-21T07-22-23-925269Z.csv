@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-21T06:26:46Z,uncharted-pc-bin,0.3.6.linux.102-1,0,Uncharted: The Nathan Drake Collection native PC port (requires your own game dump)
+2026-10-21T06:27:29Z,gow3-pc-bin,2.6.0-1,0,"God of War III Remastered native PC port (SpartanPort, requires your own game dump)"
+2026-10-21T06:27:39Z,driveclub-pc-bin,0.2.1-1,0,"Driveclub PC wrapper, native Linux build (requires your own game dump)"
+2026-10-21T06:27:49Z,infamous-pc-bin,2026.10.21.da39b0b-1,0,inFAMOUS Second Son native PC port (requires your own game dump)
+2026-10-21T06:28:48Z,bloodborne-pc-bin,0.6-1,0,"Bloodborne native PC port (bbport, requires your own game dump)"
+2026-10-21T06:38:24Z,batticonplus-ayatana,2.0.1-1,0,"Lightweight battery icon for the system tray and notifier, wayland version (based on cbatticon)"
+2026-10-21T06:52:24Z,batticonplus-ayatana-gtk3-git,2.0.1-3,0,Lightweight battery status icon for the tray with Ayatana Indicators support (Resurrection Mirror)
+2026-10-21T07:18:51Z,kg-git,r165.449fac2-1,0,"A tiny, lightning-fast UTF-8 text editor with pure Emacs keybindings (fork of kilo, spiritual successor to mg)"
