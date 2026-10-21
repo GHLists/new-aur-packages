@@ -1,0 +1,12 @@
+created_at,package,version,votes,description
+2026-10-21T18:27:45Z,tinyxbox360backupmanager-git,0.18.0.r3618.g3059f…,0,A tiny game backup manager for the Xbox 360 (Aurora)
+2026-10-21T18:28:48Z,tracedraw-bin,0.10.0-1,0,"Vector illustration, page layout and print: an open-source vector editor (prebuilt binary)"
+2026-10-21T18:37:45Z,gutenprint-printer-app-git,1.0+r78.20260109.87…,0,PostScript Printer Application
+2026-10-21T18:38:15Z,bticino-easykit,0.1.0-1,0,"Unofficial client for the BTicino EASYKIT WiFi video door entry kit (live view, two-way audio, door release)"
+2026-10-21T18:38:35Z,caelestia-shell-plugins-git,2.5.0.r97.g37716a2-1,0,Caelestia Shell with the plugin system (git)
+2026-10-21T18:43:20Z,bticino-easykit-bin,0.1.0-1,0,Unofficial client for the BTicino EASYKIT WiFi video door entry kit (prebuilt binaries)
+2026-10-21T18:45:42Z,ravel-bin,0.1.0-1,0,"Read-only JSON, JSON Lines, YAML and Markdown viewer for GNOME (release binary)"
+2026-10-21T18:48:29Z,trccd,0.1.0-1,1,lightweight daemon for controlling Thermalright LCD displays
+2026-10-21T19:07:00Z,epicgameslauncher-appimage,0.100.0-1,0,The official Epic Games Launcher.
+2026-10-21T19:07:32Z,system-health,0.1.0-1,0,Read-only health report for Arch Linux and CachyOS
+2026-10-21T19:09:48Z,agterm-linux-bin,0.33.1+linux.1-1,0,"Native terminal with a workspace and session sidebar, built on libghostty"
