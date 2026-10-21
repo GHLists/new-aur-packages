@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 03:21 UTC
+## Latest list — 2026-10-21 04:21 UTC
 
-New packages created between 2026-10-21 02:19 UTC and 2026-10-21 03:21 UTC.
+New packages created between 2026-10-21 03:21 UTC and 2026-10-21 04:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T03-21-59-841763Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T04-21-47-674971Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 02:41:45 | [bitchx-modern](https://aur.archlinux.org/packages/bitchx-modern) | 1.2.1-1 | 0 | BitchX IRC client - modernized with TLS 1.3 and SASL |
-| 2026-10-21 02:42:43 | [presenced](https://aur.archlinux.org/packages/presenced) | 0.1.0-2 | 0 | ThinkPad X1C Gen14 ToF presence daemon: inhibit idle while present, auto-lock o… |
-| 2026-10-21 02:52:23 | [moto-buds-bin](https://aur.archlinux.org/packages/moto-buds-bin) | 0.1.0-1 | 0 | Motorola Moto Buds companion CLI and Qt6/QML desktop application (precompiled b… |
+| 2026-10-21 04:04:43 | [gnome-shell-extension-app-folder-grid-dimensions-git](https://aur.archlinux.org/packages/gnome-shell-extension-app-folder-grid-dimensions-git) | 20261021.3.e621f28-1 | 0 | Customize the number of rows and columns in the GNOME app folder grid (git) |
 
 ## Data source
 
