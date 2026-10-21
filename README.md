@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 02:19 UTC
+## Latest list — 2026-10-21 03:21 UTC
 
-New packages created between 2026-10-21 01:20 UTC and 2026-10-21 02:19 UTC.
+New packages created between 2026-10-21 02:19 UTC and 2026-10-21 03:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T02-19-28-166051Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T03-21-59-841763Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 02:02:45 | [linux-passkey](https://aur.archlinux.org/packages/linux-passkey) | 0.1.0-1 | 0 | Passkeys for Linux (FIDO2 / WebAuthn authenticator) |
-| 2026-10-21 02:02:45 | [gnome-shell-extension-linux-passkey](https://aur.archlinux.org/packages/gnome-shell-extension-linux-passkey) | 0.1.0-1 | 0 | GNOME Shell integration for Linux Passkey |
+| 2026-10-21 02:41:45 | [bitchx-modern](https://aur.archlinux.org/packages/bitchx-modern) | 1.2.1-1 | 0 | BitchX IRC client - modernized with TLS 1.3 and SASL |
+| 2026-10-21 02:42:43 | [presenced](https://aur.archlinux.org/packages/presenced) | 0.1.0-2 | 0 | ThinkPad X1C Gen14 ToF presence daemon: inhibit idle while present, auto-lock o… |
+| 2026-10-21 02:52:23 | [moto-buds-bin](https://aur.archlinux.org/packages/moto-buds-bin) | 0.1.0-1 | 0 | Motorola Moto Buds companion CLI and Qt6/QML desktop application (precompiled b… |
 
 ## Data source
 

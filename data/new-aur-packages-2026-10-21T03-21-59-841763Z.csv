@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-21T02:41:45Z,bitchx-modern,1.2.1-1,0,BitchX IRC client - modernized with TLS 1.3 and SASL
+2026-10-21T02:42:43Z,presenced,0.1.0-2,0,"ThinkPad X1C Gen14 ToF presence daemon: inhibit idle while present, auto-lock on leave, wake to greeter on return (tested only on X1 Carbon Gen 14)"
+2026-10-21T02:52:23Z,moto-buds-bin,0.1.0-1,0,Motorola Moto Buds companion CLI and Qt6/QML desktop application (precompiled binaries)
