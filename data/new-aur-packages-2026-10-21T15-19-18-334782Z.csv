@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-21T14:23:40Z,rwpm,1.14.0-1,0,"Separate RimWorld profiles, each with its own saves, settings and mod list"
+2026-10-21T14:44:13Z,wicked-ide-bin,0.0.3-1,0,Code editor that runs AI models on your own machine
+2026-10-21T15:12:26Z,tallyd,0.1.0-1,0,Detect ongoing calls by watching microphone and camera capture
+2026-10-21T15:13:39Z,bivrost-bin,0.4.1-1,0,Local Azure Bastion sessions for Kubernetes and Podman workflows
+2026-10-21T15:17:59Z,python-qiskit-addon-aqc-tensor,,,Approximate quantum compilation with tensor networks
