@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 13:21 UTC
+## Latest list — 2026-10-21 14:22 UTC
 
-New packages created between 2026-10-21 12:20 UTC and 2026-10-21 13:21 UTC.
+New packages created between 2026-10-21 13:21 UTC and 2026-10-21 14:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T13-21-34-152175Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-21T14-22-02-661329Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 12:54:47 | [mgcarpet](https://aur.archlinux.org/packages/mgcarpet) | 0.1.0alpha4-1 | 0 | Engine reimplementation of Magic Carpet 1 & 2 (requires original game data) |
-| 2026-10-21 13:08:05 | [noos-firewall](https://aur.archlinux.org/packages/noos-firewall) | 0.1.0-1 | 0 | Gestion graphique native et moderne du pare-feu UFW en Rust (GTK4 / Libadwaita) |
-| 2026-10-21 13:19:36 | [krunner-scrivener](https://aur.archlinux.org/packages/krunner-scrivener) |  |  | KRunner plugin to search Scrivener favorite and recent projects (Plasma 6) |
+| 2026-10-21 13:39:11 | [php85-igbinary](https://aur.archlinux.org/packages/php85-igbinary) | 3.2.17RC1-1 | 0 | A drop in replacement for the standard php serializer |
+| 2026-10-21 13:41:09 | [php85-memcached](https://aur.archlinux.org/packages/php85-memcached) | 3.4.0-1 | 0 | PHP extension for interfacing with memcached via libmemcached library |
+| 2026-10-21 13:44:59 | [0c-ime](https://aur.archlinux.org/packages/0c-ime) | 0.2.3-1 | 0 | Zhuyin (Bopomofo) input method with statistical and neural candidate selection,… |
+| 2026-10-21 14:16:06 | [stealth-mission-89](https://aur.archlinux.org/packages/stealth-mission-89) | 0.3.0-1 | 0 | A Rust/Bevy remake of DOS-era 3D flight simulations with VR support |
 
 ## Data source
 
