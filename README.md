@@ -12,15 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 07:19 UTC
+## Latest list — 2026-10-22 08:18 UTC
 
-New packages created between 2026-10-22 06:20 UTC and 2026-10-22 07:19 UTC.
+New packages created between 2026-10-22 07:19 UTC and 2026-10-22 08:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T07-19-59-63843Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T08-18-49-025859Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 06:46:36 | [filee-git](https://aur.archlinux.org/packages/filee-git) | 2.0.0.r14.g014e851-1 | 0 | Offline file converter for images, PDF, Office, HWP, video, audio, e-books and… |
+| 2026-10-22 07:24:18 | [hireferry-cli-git](https://aur.archlinux.org/packages/hireferry-cli-git) | 0.1.3.r41.g11b0dfc-1 | 0 | Command-line client for HireFerry (hfy) |
+| 2026-10-22 07:24:37 | [hireferry-server-git](https://aur.archlinux.org/packages/hireferry-server-git) | 0.1.0.r41.g11b0dfc-1 | 0 | Self-hosted recruitment server with an embedded web UI |
+| 2026-10-22 07:27:04 | [ssv-network](https://aur.archlinux.org/packages/ssv-network) | 2.5.0-1 | 0 | Secret-Shared-Validator (SSV) node for Ethereum staking |
+| 2026-10-22 07:29:45 | [hireferry-server-bin](https://aur.archlinux.org/packages/hireferry-server-bin) | 0.1.0-1 | 0 | Self-hosted recruitment server with an embedded web UI |
+| 2026-10-22 07:31:35 | [hireferry-cli-bin](https://aur.archlinux.org/packages/hireferry-cli-bin) | 0.1.3-1 | 0 | Command-line client for HireFerry (hfy) |
+| 2026-10-22 07:58:43 | [flasher-software-and-documentation](https://aur.archlinux.org/packages/flasher-software-and-documentation) | 9.86-1 | 0 | Segger Flasher Software and Documentation Pack for Linux |
+| 2026-10-22 08:15:30 | [loop-desktop-bin](https://aur.archlinux.org/packages/loop-desktop-bin) |  |  | Desktop client for the Loop team messenger |
 
 ## Data source
 

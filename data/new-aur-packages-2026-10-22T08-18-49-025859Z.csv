@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-22T07:24:18Z,hireferry-cli-git,0.1.3.r41.g11b0dfc-1,0,Command-line client for HireFerry (hfy)
+2026-10-22T07:24:37Z,hireferry-server-git,0.1.0.r41.g11b0dfc-1,0,Self-hosted recruitment server with an embedded web UI
+2026-10-22T07:27:04Z,ssv-network,2.5.0-1,0,Secret-Shared-Validator (SSV) node for Ethereum staking
+2026-10-22T07:29:45Z,hireferry-server-bin,0.1.0-1,0,Self-hosted recruitment server with an embedded web UI
+2026-10-22T07:31:35Z,hireferry-cli-bin,0.1.3-1,0,Command-line client for HireFerry (hfy)
+2026-10-22T07:58:43Z,flasher-software-and-documentation,9.86-1,0,Segger Flasher Software and Documentation Pack for Linux
+2026-10-22T08:15:30Z,loop-desktop-bin,,,Desktop client for the Loop team messenger
