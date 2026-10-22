@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 19:18 UTC
+## Latest list — 2026-10-22 20:21 UTC
 
-New packages created between 2026-10-22 18:22 UTC and 2026-10-22 19:18 UTC.
+New packages created between 2026-10-22 19:18 UTC and 2026-10-22 20:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T19-18-57-712487Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T20-21-24-320406Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 18:33:00 | [signed](https://aur.archlinux.org/packages/signed) | 0.3.1-1 | 0 | Sign PDFs and fill them in with text and dates, in a window or from the command… |
-| 2026-10-22 18:40:31 | [vesktop-bun](https://aur.archlinux.org/packages/vesktop-bun) | 1.6.8-1 | 0 | A standalone Electron-based Discord app with Vencord & improved Linux support (… |
+| 2026-10-22 19:31:38 | [orgwarrior](https://aur.archlinux.org/packages/orgwarrior) | 0.1.0-1 | 0 | A taskwarrior-style command line for Org mode's agenda, through your running Em… |
+| 2026-10-22 19:31:43 | [orgwarrior-web](https://aur.archlinux.org/packages/orgwarrior-web) | 0.1.0-1 | 0 | Org mode's agenda in your browser, phone first: a web page over orgwarrior's en… |
+| 2026-10-22 19:58:07 | [liner-bin](https://aur.archlinux.org/packages/liner-bin) | 0.1.40-1 | 0 | Music player that pulls your music and playlists from other platforms into one… |
+| 2026-10-22 20:08:02 | [cast-helper](https://aur.archlinux.org/packages/cast-helper) | 0.0.1-1 | 0 | Helper for the Cast plugin of Dux Shell: Chromecast and AirPlay mirroring and m… |
 
 ## Data source
 
