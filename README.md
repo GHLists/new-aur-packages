@@ -12,15 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 01:20 UTC
+## Latest list — 2026-10-22 02:20 UTC
 
-New packages created between 2026-10-22 00:22 UTC and 2026-10-22 01:20 UTC.
+New packages created between 2026-10-22 01:20 UTC and 2026-10-22 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T01-20-00-899688Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T02-20-08-232532Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 01:15:46 | [prettier-plugin-java](https://aur.archlinux.org/packages/prettier-plugin-java) |  |  | Prettier Java Plugin |
+| 2026-10-22 01:23:13 | [omnidotdev-run-cli](https://aur.archlinux.org/packages/omnidotdev-run-cli) | 0.1.1-1 | 0 | Self-hosting made simple |
+| 2026-10-22 01:23:28 | [omnidotdev-run-cli-bin](https://aur.archlinux.org/packages/omnidotdev-run-cli-bin) | 0.1.1-1 | 0 | Self-hosting made simple (pre-built) |
+| 2026-10-22 01:26:07 | [python-opt-einsum-fx](https://aur.archlinux.org/packages/python-opt-einsum-fx) | 0.1.4-1 | 0 | Optimizing einsum with torch.fx |
+| 2026-10-22 01:27:33 | [python-e3nn](https://aur.archlinux.org/packages/python-e3nn) | 0.6.0-1 | 0 | Euclidean neural networks for E(3) equivariant deep learning |
+| 2026-10-22 01:46:49 | [python-pyxtal](https://aur.archlinux.org/packages/python-pyxtal) | 1.1.5-1 | 0 | Python code for generation of crystal structures based on symmetry constraints |
+| 2026-10-22 02:03:55 | [mircode-bin](https://aur.archlinux.org/packages/mircode-bin) | 1.0.0-1 | 0 | Companion daemon & TUI config manager for MirCode mobile Git code review worksp… |
 
 ## Data source
 

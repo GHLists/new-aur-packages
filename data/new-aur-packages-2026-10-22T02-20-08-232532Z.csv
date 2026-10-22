@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-22T01:23:13Z,omnidotdev-run-cli,0.1.1-1,0,Self-hosting made simple
+2026-10-22T01:23:28Z,omnidotdev-run-cli-bin,0.1.1-1,0,Self-hosting made simple (pre-built)
+2026-10-22T01:26:07Z,python-opt-einsum-fx,0.1.4-1,0,Optimizing einsum with torch.fx
+2026-10-22T01:27:33Z,python-e3nn,0.6.0-1,0,Euclidean neural networks for E(3) equivariant deep learning
+2026-10-22T01:46:49Z,python-pyxtal,1.1.5-1,0,Python code for generation of crystal structures based on symmetry constraints
+2026-10-22T02:03:55Z,mircode-bin,1.0.0-1,0,Companion daemon & TUI config manager for MirCode mobile Git code review workspace
