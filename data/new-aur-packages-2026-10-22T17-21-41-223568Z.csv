@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-22T16:20:41Z,fluxter,0.7.5.r20260923.a5a…,0,"Keyboard-only TUI chat client for the Fluxer messaging platform, with inline media and voice calls"
+2026-10-22T16:59:52Z,orcaslicer-mcp-bin,2.4.2_mcp.13-1,0,OrcaSlicer fork with a local Remote API for AI assistants (MCP)
+2026-10-22T17:12:06Z,cadja,0.2.4-1,0,A music library indexer and database for DJs.
