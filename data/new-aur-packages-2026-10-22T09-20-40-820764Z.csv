@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-22T08:19:37Z,artcraft-launcher-appimage,0.6.1-1,0,"Install, update and launch the Craft App Suite (AppImage)"
+2026-10-22T08:20:18Z,xerj-bin,1.0.0rc.98-2,0,"Local-first search engine and MCP server for AI agents: BM25, vector and hybrid search over code, docs, logs and PDFs"
+2026-10-22T08:24:03Z,mattpocock-skills,1.3.1-1,0,"Matt Pocock's agent skills (agentskills.io format), linked into ~/.agents/skills via user tmpfiles"
+2026-10-22T08:44:49Z,rust-discord-overlay-bin,0.2.1-1,0,"Lightweight Discord voice/text overlay for Linux (Wayland, GTK4 layer-shell), written in Rust (prebuilt binary)"
+2026-10-22T09:14:57Z,isocast,0.0.8-1,0,OBS alternative that records every source as its own file
+2026-10-22T09:15:40Z,isocast-git,,,OBS alternative that records every source as its own file (Git HEAD
