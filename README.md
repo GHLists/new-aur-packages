@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 10:19 UTC
+## Latest list — 2026-10-22 11:20 UTC
 
-New packages created between 2026-10-22 09:20 UTC and 2026-10-22 10:19 UTC.
+New packages created between 2026-10-22 10:19 UTC and 2026-10-22 11:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T10-19-12-38906Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T11-20-36-070031Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 09:46:58 | [stickies-bin](https://aur.archlinux.org/packages/stickies-bin) | 0.10.0-1 | 0 | Local sticky notes for Linux Wayland with Layer Shell v4+ |
-| 2026-10-22 09:47:02 | [stickies](https://aur.archlinux.org/packages/stickies) | 0.10.0-1 | 0 | Local sticky notes for Linux Wayland with Layer Shell v4+ |
+| 2026-10-22 10:40:46 | [over-bin](https://aur.archlinux.org/packages/over-bin) | 0.1.0-1 | 0 | A git-based file overlay manager (dotfiles as overlays) (prebuilt binary) |
+| 2026-10-22 10:46:05 | [over](https://aur.archlinux.org/packages/over) | 0.1.0-1 | 0 | A git-based file overlay manager (dotfiles as overlays) |
+| 2026-10-22 11:12:30 | [samflash](https://aur.archlinux.org/packages/samflash) | 0.1.0-1 | 0 | A GUI samsung flashing tool (odin4 + heimdall) |
 
 ## Data source
 
