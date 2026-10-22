@@ -1,0 +1,12 @@
+created_at,package,version,votes,description
+2026-10-22T20:40:42Z,kumiko-bin,2.0.0-1,0,"Tiling terminal emulator for Linux, built on ttyx_ and Tilix"
+2026-10-22T20:40:51Z,kumiko,2.0.0-1,0,"Tiling terminal emulator for Linux, built on ttyx_ and Tilix"
+2026-10-22T20:45:15Z,tsc-rs-bin,0.8.0-1,0,TypeScript compiler and language server ported to Rust (official binaries)
+2026-10-22T20:55:23Z,todav,1.0.0-1,0,Tasks and calendar kept in your Nextcloud
+2026-10-22T20:55:28Z,todav-bin,1.0.0-1,0,Tasks and calendar kept in your Nextcloud
+2026-10-22T20:55:33Z,todav-git,1.0.0.r0.g8523762-1,0,Tasks and calendar kept in your Nextcloud
+2026-10-22T20:55:39Z,gnome-shell-extension-todav,1.0.0-1,0,"GNOME Shell companion extension for Todav: tasks, month and agenda in the top bar"
+2026-10-22T20:55:44Z,gnome-shell-extension-todav-bin,1.0.0-1,0,"GNOME Shell companion extension for Todav: tasks, month and agenda in the top bar"
+2026-10-22T20:55:50Z,gnome-shell-extension-todav-git,1.0.0.r0.g8523762-1,0,"GNOME Shell companion extension for Todav: tasks, month and agenda in the top bar"
+2026-10-22T21:00:52Z,gnome-shell-extension-vibecheck,1.1.1-1,0,GNOME Shell extension showing remaining Claude plan usage in the top bar and on a desktop card
+2026-10-22T21:00:57Z,gnome-shell-extension-vibecheck-bin,1.1.1-1,0,GNOME Shell extension showing remaining Claude plan usage in the top bar and on a desktop card
