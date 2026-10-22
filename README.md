@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 23:21 UTC
+## Latest list — 2026-10-22 00:22 UTC
 
-New packages created between 2026-10-21 22:21 UTC and 2026-10-21 23:21 UTC.
+New packages created between 2026-10-21 23:21 UTC and 2026-10-22 00:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-21T23-21-16-41381Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T00-22-10-723699Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 22:24:00 | [plasmic-cli](https://aur.archlinux.org/packages/plasmic-cli) | 0.1.382-1 | 0 | Plasmic CLI for syncing local code with Plasmic designs (wraps @plasmicapp/cli) |
+| 2026-10-21 23:28:48 | [ambience](https://aur.archlinux.org/packages/ambience) | 0.1.0-1 | 0 | Unofficial Philips Hue app: rooms, scenes and screen/music sync (not affiliated… |
+| 2026-10-22 00:02:44 | [open-git-control-bin](https://aur.archlinux.org/packages/open-git-control-bin) | 3.2.0-1 | 1 | Free, open-source desktop Git client with visual history, GitHub workflows, con… |
+| 2026-10-22 00:17:30 | [dccstatusline](https://aur.archlinux.org/packages/dccstatusline) | 0.0.4-1 | 0 | Fast, themeable status line for Claude Code, in pure C with zero dependencies |
 
 ## Data source
 

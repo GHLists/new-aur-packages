@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-21T23:28:48Z,ambience,0.1.0-1,0,"Unofficial Philips Hue app: rooms, scenes and screen/music sync (not affiliated with Signify)"
+2026-10-22T00:02:44Z,open-git-control-bin,3.2.0-1,1,"Free, open-source desktop Git client with visual history, GitHub workflows, conflict resolution, secret scanning and optional AI-assisted commits"
+2026-10-22T00:17:30Z,dccstatusline,0.0.4-1,0,"Fast, themeable status line for Claude Code, in pure C with zero dependencies"
