@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 14:22 UTC
+## Latest list — 2026-10-22 15:20 UTC
 
-New packages created between 2026-10-22 13:20 UTC and 2026-10-22 14:22 UTC.
+New packages created between 2026-10-22 14:22 UTC and 2026-10-22 15:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T14-22-12-368945Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T15-20-04-592009Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 13:29:12 | [python-llm-structured-confidence](https://aur.archlinux.org/packages/python-llm-structured-confidence) | 0.4.5-1 | 0 | Extract per-field confidence scores from LLM structured JSON outputs using toke… |
-| 2026-10-22 13:39:13 | [rossat-swarm-git](https://aur.archlinux.org/packages/rossat-swarm-git) | 1.0.0.r1.gdffde2e-1 | 0 | Open re-implementation of ROCCAT Swarm (GUI, CLI, library) for the Kone AIMO Re… |
-| 2026-10-22 13:39:50 | [rossat-swarm-bin](https://aur.archlinux.org/packages/rossat-swarm-bin) | 1.0.0-1 | 0 | Open re-implementation of ROCCAT Swarm (GUI, CLI, library) for the Kone AIMO Re… |
-| 2026-10-22 13:49:30 | [fieldcraft-bin](https://aur.archlinux.org/packages/fieldcraft-bin) | 0.7.0-1 | 1 | Open-source finite-element / CAE modeler: mesh, set up, solve and export decks… |
+| 2026-10-22 14:23:37 | [netmusic-webplayer-bin](https://aur.archlinux.org/packages/netmusic-webplayer-bin) | 0.1.0-2 | 0 | 网易云音乐官方网页版的非官方 Linux 桌面外壳 |
+| 2026-10-22 14:57:51 | [python-databricks-sdk](https://aur.archlinux.org/packages/python-databricks-sdk) | 0.156.0-1 | 0 | Databricks SDK for Python (Beta). |
 
 ## Data source
 
