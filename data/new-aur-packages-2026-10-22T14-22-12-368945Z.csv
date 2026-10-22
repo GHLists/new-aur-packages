@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-22T13:29:12Z,python-llm-structured-confidence,0.4.5-1,0,Extract per-field confidence scores from LLM structured JSON outputs using token-level log-probabilities.
+2026-10-22T13:39:13Z,rossat-swarm-git,1.0.0.r1.gdffde2e-1,0,"Open re-implementation of ROCCAT Swarm (GUI, CLI, library) for the Kone AIMO Remastered (git version)"
+2026-10-22T13:39:50Z,rossat-swarm-bin,1.0.0-1,0,"Open re-implementation of ROCCAT Swarm (GUI, CLI, library) for the Kone AIMO Remastered"
+2026-10-22T13:49:30Z,fieldcraft-bin,0.7.0-1,1,"Open-source finite-element / CAE modeler: mesh, set up, solve and export decks (binary release)"

@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 13:20 UTC
+## Latest list — 2026-10-22 14:22 UTC
 
-New packages created between 2026-10-22 12:21 UTC and 2026-10-22 13:20 UTC.
+New packages created between 2026-10-22 13:20 UTC and 2026-10-22 14:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T13-20-33-944829Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T14-22-12-368945Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 12:21:24 | [yukigram-desktop-clang](https://aur.archlinux.org/packages/yukigram-desktop-clang) | 7.2.9.0-1 | 1 | yukigram-desktop,build much faster&less memory requirment with clang |
-| 2026-10-22 12:57:34 | [mcp-kodi](https://aur.archlinux.org/packages/mcp-kodi) | 0.2.0-1 | 0 | MCP server that lets an AI assistant control Kodi over its JSON-RPC API |
-| 2026-10-22 12:58:33 | [qt5-feedback](https://aur.archlinux.org/packages/qt5-feedback) | 0.0.0.20150918-6 | 0 | Qt Tactile Feedback Add-on Module |
-| 2026-10-22 13:04:04 | [floci-cli-bin](https://aur.archlinux.org/packages/floci-cli-bin) | 0.4.0-1 | 0 | Command-line interface for Floci local cloud emulators |
+| 2026-10-22 13:29:12 | [python-llm-structured-confidence](https://aur.archlinux.org/packages/python-llm-structured-confidence) | 0.4.5-1 | 0 | Extract per-field confidence scores from LLM structured JSON outputs using toke… |
+| 2026-10-22 13:39:13 | [rossat-swarm-git](https://aur.archlinux.org/packages/rossat-swarm-git) | 1.0.0.r1.gdffde2e-1 | 0 | Open re-implementation of ROCCAT Swarm (GUI, CLI, library) for the Kone AIMO Re… |
+| 2026-10-22 13:39:50 | [rossat-swarm-bin](https://aur.archlinux.org/packages/rossat-swarm-bin) | 1.0.0-1 | 0 | Open re-implementation of ROCCAT Swarm (GUI, CLI, library) for the Kone AIMO Re… |
+| 2026-10-22 13:49:30 | [fieldcraft-bin](https://aur.archlinux.org/packages/fieldcraft-bin) | 0.7.0-1 | 1 | Open-source finite-element / CAE modeler: mesh, set up, solve and export decks… |
 
 ## Data source
 
