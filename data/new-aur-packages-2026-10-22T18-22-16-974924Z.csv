@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-22T17:26:28Z,sjcopy,0.1.0-1,0,"Copy terminal output to named, automatically expiring stores (copy) and read it back byte-exact (paste)"
+2026-10-22T17:38:23Z,edamame,0.1.6-1,0,A Terminal Markdown editor that stays rendered while you edit
+2026-10-22T17:46:07Z,unreal-engine-css-bin,5.6.1.css83-5,0,Prebuilt Coffee Stain Unreal Engine for Satisfactory mod development
+2026-10-22T17:46:14Z,satmod,1.0.0-1,0,"MSVC under Wine, Starter Project setup, and mod builds for Satisfactory modding"
+2026-10-22T17:54:27Z,onon,0.9.4-2,0,"A quiet reader for the keyboard, built on MuPDF and configured with Lua"
+2026-10-22T17:55:00Z,onon-git,0.9.4.r0.g49e499b-2,0,"A quiet reader for the keyboard, built on MuPDF and configured with Lua"
+2026-10-22T18:09:48Z,linauth,0.1.1-1,0,Native GTK4/libadwaita TOTP/HOTP authenticator that imports WinAuth backups
+2026-10-22T18:12:57Z,libfprint-goodix55b4,1.94.10.m2-2,0,libfprint with the Goodix 27c6:55b4 driver using the native Milan matcher
