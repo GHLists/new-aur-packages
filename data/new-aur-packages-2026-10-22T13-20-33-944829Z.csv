@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-22T12:21:24Z,yukigram-desktop-clang,7.2.9.0-1,1,"yukigram-desktop,build much faster&less memory requirment with clang"
+2026-10-22T12:57:34Z,mcp-kodi,0.2.0-1,0,MCP server that lets an AI assistant control Kodi over its JSON-RPC API
+2026-10-22T12:58:33Z,qt5-feedback,0.0.0.20150918-6,0,Qt Tactile Feedback Add-on Module
+2026-10-22T13:04:04Z,floci-cli-bin,0.4.0-1,0,Command-line interface for Floci local cloud emulators

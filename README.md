@@ -12,20 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 12:21 UTC
+## Latest list — 2026-10-22 13:20 UTC
 
-New packages created between 2026-10-22 11:20 UTC and 2026-10-22 12:21 UTC.
+New packages created between 2026-10-22 12:21 UTC and 2026-10-22 13:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T12-21-15-426053Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T13-20-33-944829Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 11:30:55 | [bluegit](https://aur.archlinux.org/packages/bluegit) | 20261022131900-1 | 0 | Self-hosted git-platform |
-| 2026-10-22 12:03:32 | [gkey-config](https://aur.archlinux.org/packages/gkey-config) | 1.0.0-1 | 0 | Configuration tool for the gaming keys of Logitech G keyboards (hid-lg-g15) |
-| 2026-10-22 12:10:54 | [python-gds2palace](https://aur.archlinux.org/packages/python-gds2palace) | 0.9.1-1 | 0 | Create AWS Palace (FEM Solver) model from GDSII layout files |
-| 2026-10-22 12:11:41 | [libvirt-iso-systemrescue-bin](https://aur.archlinux.org/packages/libvirt-iso-systemrescue-bin) | 13.02-1 | 0 | Official SystemRescue live recovery ISO for libvirt |
-| 2026-10-22 12:12:48 | [libvirt-iso-alpine-virt-bin](https://aur.archlinux.org/packages/libvirt-iso-alpine-virt-bin) | 3.24.2-1 | 0 | Official Alpine Linux virtualization ISO for libvirt |
-| 2026-10-22 12:14:41 | [libvirt-iso-opensuse-tumbleweed-bin](https://aur.archlinux.org/packages/libvirt-iso-opensuse-tumbleweed-bin) | 20261017-1 | 0 | Official openSUSE Tumbleweed network installation ISO for libvirt |
+| 2026-10-22 12:21:24 | [yukigram-desktop-clang](https://aur.archlinux.org/packages/yukigram-desktop-clang) | 7.2.9.0-1 | 1 | yukigram-desktop,build much faster&less memory requirment with clang |
+| 2026-10-22 12:57:34 | [mcp-kodi](https://aur.archlinux.org/packages/mcp-kodi) | 0.2.0-1 | 0 | MCP server that lets an AI assistant control Kodi over its JSON-RPC API |
+| 2026-10-22 12:58:33 | [qt5-feedback](https://aur.archlinux.org/packages/qt5-feedback) | 0.0.0.20150918-6 | 0 | Qt Tactile Feedback Add-on Module |
+| 2026-10-22 13:04:04 | [floci-cli-bin](https://aur.archlinux.org/packages/floci-cli-bin) | 0.4.0-1 | 0 | Command-line interface for Floci local cloud emulators |
 
 ## Data source
 
