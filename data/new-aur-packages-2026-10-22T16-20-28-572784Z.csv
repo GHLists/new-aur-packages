@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-22T15:41:53Z,ats-mini-controller-git,2.12.0.r27.g834e4c8…,0,"RTL-SDR station browser, live signal scanner and automatic CW decoder (web UI)"
+2026-10-22T15:50:31Z,mail-badge-notifier-git,r5.85b4b7c-1,0,Unread mail taskbar badges for Thunderbird/Betterbird with headless systemd service and GUI wrapper
+2026-10-22T16:02:57Z,mesonotes-bin,1.0.0-1,0,"Notes, tasks, boards, canvases and writing on your own computer"
+2026-10-22T16:10:29Z,python-fitdecode,0.11.0-1,0,FIT file parser and decoder

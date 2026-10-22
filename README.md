@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 15:20 UTC
+## Latest list — 2026-10-22 16:20 UTC
 
-New packages created between 2026-10-22 14:22 UTC and 2026-10-22 15:20 UTC.
+New packages created between 2026-10-22 15:20 UTC and 2026-10-22 16:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T15-20-04-592009Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T16-20-28-572784Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 14:23:37 | [netmusic-webplayer-bin](https://aur.archlinux.org/packages/netmusic-webplayer-bin) | 0.1.0-2 | 0 | 网易云音乐官方网页版的非官方 Linux 桌面外壳 |
-| 2026-10-22 14:57:51 | [python-databricks-sdk](https://aur.archlinux.org/packages/python-databricks-sdk) | 0.156.0-1 | 0 | Databricks SDK for Python (Beta). |
+| 2026-10-22 15:41:53 | [ats-mini-controller-git](https://aur.archlinux.org/packages/ats-mini-controller-git) | 2.12.0.r27.g834e4c8… | 0 | RTL-SDR station browser, live signal scanner and automatic CW decoder (web UI) |
+| 2026-10-22 15:50:31 | [mail-badge-notifier-git](https://aur.archlinux.org/packages/mail-badge-notifier-git) | r5.85b4b7c-1 | 0 | Unread mail taskbar badges for Thunderbird/Betterbird with headless systemd ser… |
+| 2026-10-22 16:02:57 | [mesonotes-bin](https://aur.archlinux.org/packages/mesonotes-bin) | 1.0.0-1 | 0 | Notes, tasks, boards, canvases and writing on your own computer |
+| 2026-10-22 16:10:29 | [python-fitdecode](https://aur.archlinux.org/packages/python-fitdecode) | 0.11.0-1 | 0 | FIT file parser and decoder |
 
 ## Data source
 
