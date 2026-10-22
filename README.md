@@ -12,25 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 21:22 UTC
+## Latest list — 2026-10-22 22:22 UTC
 
-New packages created between 2026-10-22 20:21 UTC and 2026-10-22 21:22 UTC.
+New packages created between 2026-10-22 21:22 UTC and 2026-10-22 22:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T21-22-06-354465Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T22-22-35-73506Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 20:40:42 | [kumiko-bin](https://aur.archlinux.org/packages/kumiko-bin) | 2.0.0-1 | 0 | Tiling terminal emulator for Linux, built on ttyx_ and Tilix |
-| 2026-10-22 20:40:51 | [kumiko](https://aur.archlinux.org/packages/kumiko) | 2.0.0-1 | 0 | Tiling terminal emulator for Linux, built on ttyx_ and Tilix |
-| 2026-10-22 20:45:15 | [tsc-rs-bin](https://aur.archlinux.org/packages/tsc-rs-bin) | 0.8.0-1 | 0 | TypeScript compiler and language server ported to Rust (official binaries) |
-| 2026-10-22 20:55:23 | [todav](https://aur.archlinux.org/packages/todav) | 1.0.0-1 | 0 | Tasks and calendar kept in your Nextcloud |
-| 2026-10-22 20:55:28 | [todav-bin](https://aur.archlinux.org/packages/todav-bin) | 1.0.0-1 | 0 | Tasks and calendar kept in your Nextcloud |
-| 2026-10-22 20:55:33 | [todav-git](https://aur.archlinux.org/packages/todav-git) | 1.0.0.r0.g8523762-1 | 0 | Tasks and calendar kept in your Nextcloud |
-| 2026-10-22 20:55:39 | [gnome-shell-extension-todav](https://aur.archlinux.org/packages/gnome-shell-extension-todav) | 1.0.0-1 | 0 | GNOME Shell companion extension for Todav: tasks, month and agenda in the top b… |
-| 2026-10-22 20:55:44 | [gnome-shell-extension-todav-bin](https://aur.archlinux.org/packages/gnome-shell-extension-todav-bin) | 1.0.0-1 | 0 | GNOME Shell companion extension for Todav: tasks, month and agenda in the top b… |
-| 2026-10-22 20:55:50 | [gnome-shell-extension-todav-git](https://aur.archlinux.org/packages/gnome-shell-extension-todav-git) | 1.0.0.r0.g8523762-1 | 0 | GNOME Shell companion extension for Todav: tasks, month and agenda in the top b… |
-| 2026-10-22 21:00:52 | [gnome-shell-extension-vibecheck](https://aur.archlinux.org/packages/gnome-shell-extension-vibecheck) | 1.1.1-1 | 0 | GNOME Shell extension showing remaining Claude plan usage in the top bar and on… |
-| 2026-10-22 21:00:57 | [gnome-shell-extension-vibecheck-bin](https://aur.archlinux.org/packages/gnome-shell-extension-vibecheck-bin) | 1.1.1-1 | 0 | GNOME Shell extension showing remaining Claude plan usage in the top bar and on… |
+| 2026-10-22 21:41:45 | [terrio-bin](https://aur.archlinux.org/packages/terrio-bin) | 0.4.1-1 | 0 | Pure-Rust geospatial raster and vector data I/O: the terrio command (prebuilt) |
+| 2026-10-22 21:41:45 | [terrio](https://aur.archlinux.org/packages/terrio) | 0.4.1-1 | 0 | Pure-Rust geospatial raster and vector data I/O: the terrio command |
+| 2026-10-22 22:02:51 | [polystrata](https://aur.archlinux.org/packages/polystrata) | 0.1.45.poly.2-1 | 0 | Run large AI models on your own PC: Qwen3.8-Flash-Next, GLM 5.3 Flash, DeepSeek… |
 
 ## Data source
 
