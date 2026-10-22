@@ -12,22 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 18:22 UTC
+## Latest list — 2026-10-22 19:18 UTC
 
-New packages created between 2026-10-22 17:21 UTC and 2026-10-22 18:22 UTC.
+New packages created between 2026-10-22 18:22 UTC and 2026-10-22 19:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T18-22-16-974924Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T19-18-57-712487Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 17:26:28 | [sjcopy](https://aur.archlinux.org/packages/sjcopy) | 0.1.0-1 | 0 | Copy terminal output to named, automatically expiring stores (copy) and read it… |
-| 2026-10-22 17:38:23 | [edamame](https://aur.archlinux.org/packages/edamame) | 0.1.6-1 | 0 | A Terminal Markdown editor that stays rendered while you edit |
-| 2026-10-22 17:46:07 | [unreal-engine-css-bin](https://aur.archlinux.org/packages/unreal-engine-css-bin) | 5.6.1.css83-5 | 0 | Prebuilt Coffee Stain Unreal Engine for Satisfactory mod development |
-| 2026-10-22 17:46:14 | [satmod](https://aur.archlinux.org/packages/satmod) | 1.0.0-1 | 0 | MSVC under Wine, Starter Project setup, and mod builds for Satisfactory modding |
-| 2026-10-22 17:54:27 | [onon](https://aur.archlinux.org/packages/onon) | 0.9.4-2 | 0 | A quiet reader for the keyboard, built on MuPDF and configured with Lua |
-| 2026-10-22 17:55:00 | [onon-git](https://aur.archlinux.org/packages/onon-git) | 0.9.4.r0.g49e499b-2 | 0 | A quiet reader for the keyboard, built on MuPDF and configured with Lua |
-| 2026-10-22 18:09:48 | [linauth](https://aur.archlinux.org/packages/linauth) | 0.1.1-1 | 0 | Native GTK4/libadwaita TOTP/HOTP authenticator that imports WinAuth backups |
-| 2026-10-22 18:12:57 | [libfprint-goodix55b4](https://aur.archlinux.org/packages/libfprint-goodix55b4) | 1.94.10.m2-2 | 0 | libfprint with the Goodix 27c6:55b4 driver using the native Milan matcher |
+| 2026-10-22 18:33:00 | [signed](https://aur.archlinux.org/packages/signed) | 0.3.1-1 | 0 | Sign PDFs and fill them in with text and dates, in a window or from the command… |
+| 2026-10-22 18:40:31 | [vesktop-bun](https://aur.archlinux.org/packages/vesktop-bun) | 1.6.8-1 | 0 | A standalone Electron-based Discord app with Vencord & improved Linux support (… |
 
 ## Data source
 
