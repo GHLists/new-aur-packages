@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-22T22:33:59Z,local-rocket-stats,0.1.0-1,0,"Rocket League stats and MMR tracker that reads the game's local data (Stats API + log), with tray and web dashboard"
+2026-10-22T22:34:05Z,local-rocket-stats-bin,0.1.0-1,0,"Rocket League stats and MMR tracker that reads the game's local data (Stats API + log), with tray and web dashboard (prebuilt)"
+2026-10-22T22:46:06Z,orpheus-desktop-bin,1.0.0-1,0,"Desktop app for the Orpheus Discord music bot, with the full dashboard, media controls and a tray remote"

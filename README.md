@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 22:22 UTC
+## Latest list — 2026-10-22 23:20 UTC
 
-New packages created between 2026-10-22 21:22 UTC and 2026-10-22 22:22 UTC.
+New packages created between 2026-10-22 22:22 UTC and 2026-10-22 23:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T22-22-35-73506Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T23-20-21-799552Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 21:41:45 | [terrio-bin](https://aur.archlinux.org/packages/terrio-bin) | 0.4.1-1 | 0 | Pure-Rust geospatial raster and vector data I/O: the terrio command (prebuilt) |
-| 2026-10-22 21:41:45 | [terrio](https://aur.archlinux.org/packages/terrio) | 0.4.1-1 | 0 | Pure-Rust geospatial raster and vector data I/O: the terrio command |
-| 2026-10-22 22:02:51 | [polystrata](https://aur.archlinux.org/packages/polystrata) | 0.1.45.poly.2-1 | 0 | Run large AI models on your own PC: Qwen3.8-Flash-Next, GLM 5.3 Flash, DeepSeek… |
+| 2026-10-22 22:33:59 | [local-rocket-stats](https://aur.archlinux.org/packages/local-rocket-stats) | 0.1.0-1 | 0 | Rocket League stats and MMR tracker that reads the game's local data (Stats API… |
+| 2026-10-22 22:34:05 | [local-rocket-stats-bin](https://aur.archlinux.org/packages/local-rocket-stats-bin) | 0.1.0-1 | 0 | Rocket League stats and MMR tracker that reads the game's local data (Stats API… |
+| 2026-10-22 22:46:06 | [orpheus-desktop-bin](https://aur.archlinux.org/packages/orpheus-desktop-bin) | 1.0.0-1 | 0 | Desktop app for the Orpheus Discord music bot, with the full dashboard, media c… |
 
 ## Data source
 
