@@ -1,0 +1,13 @@
+created_at,package,version,votes,description
+2026-10-22T04:25:48Z,macro-tool,2.0.0-1,0,Auto clicker and mouse and keyboard macro recorder for X11 and Wayland
+2026-10-22T04:28:01Z,battery-mode,0.1.0-2,0,"Named charge-limit modes for laptop batteries (save/balanced/full), persistent across reboots"
+2026-10-22T04:30:24Z,python-logging-journald,0.6.12-1,1,Pure python logging handler for writing logs to the journald using native protocol.
+2026-10-22T04:40:02Z,python-markdown-pytest,0.6.6-1,1,Pytest plugin for runs tests directly from Markdown files
+2026-10-22T04:48:06Z,python-grpcio-reflection,1.84.0-1,1,Standard Protobuf Reflection Service for gRPC.
+2026-10-22T05:08:38Z,ttf-kreativekorp-trs80-model1-original,2014.04-1,1,KreativeKorp's TRS-80 original Model 1 (I) font: Another Man's Treasure MIA.
+2026-10-22T05:08:38Z,ttf-kreativekorp-trs80-model1-lowercase,2014.04-1,1,KreativeKorp's TRS-80 lowercase Model 1 (I) font: Another Man's Treasure MIB.
+2026-10-22T05:08:38Z,ttf-kreativekorp-trs80-model3,2014.04-1,1,KreativeKorp's TRS-80 Model 3 (III) font: Another Man's Treasure MIII.
+2026-10-22T05:08:38Z,ttf-kreativekorp-trs80-model4-original,2014.04-1,1,KreativeKorp's TRS-80 original Model 4 font: Another Man's Treasure M4A.
+2026-10-22T05:08:38Z,ttf-kreativekorp-trs80-model4-intl,2014.04-1,1,KreativeKorp's TRS-80 international Model 4 font: Another Man's Treasure M4B.
+2026-10-22T05:09:08Z,python-aiothreads,1.1.4-1,0,Glue between async and thread worlds.
+2026-10-22T05:14:08Z,python-aiocarbon,0.15.3-1,0,Asynchronous client for carbon.
