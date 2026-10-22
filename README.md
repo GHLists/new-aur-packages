@@ -12,26 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 05:19 UTC
+## Latest list — 2026-10-22 06:20 UTC
 
-New packages created between 2026-10-22 04:20 UTC and 2026-10-22 05:19 UTC.
+New packages created between 2026-10-22 05:19 UTC and 2026-10-22 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T05-19-59-030109Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T06-20-22-211275Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 04:25:48 | [macro-tool](https://aur.archlinux.org/packages/macro-tool) | 2.0.0-1 | 0 | Auto clicker and mouse and keyboard macro recorder for X11 and Wayland |
-| 2026-10-22 04:28:01 | [battery-mode](https://aur.archlinux.org/packages/battery-mode) | 0.1.0-2 | 0 | Named charge-limit modes for laptop batteries (save/balanced/full), persistent… |
-| 2026-10-22 04:30:24 | [python-logging-journald](https://aur.archlinux.org/packages/python-logging-journald) | 0.6.12-1 | 1 | Pure python logging handler for writing logs to the journald using native proto… |
-| 2026-10-22 04:40:02 | [python-markdown-pytest](https://aur.archlinux.org/packages/python-markdown-pytest) | 0.6.6-1 | 1 | Pytest plugin for runs tests directly from Markdown files |
-| 2026-10-22 04:48:06 | [python-grpcio-reflection](https://aur.archlinux.org/packages/python-grpcio-reflection) | 1.84.0-1 | 1 | Standard Protobuf Reflection Service for gRPC. |
-| 2026-10-22 05:08:38 | [ttf-kreativekorp-trs80-model1-original](https://aur.archlinux.org/packages/ttf-kreativekorp-trs80-model1-original) | 2014.04-1 | 1 | KreativeKorp's TRS-80 original Model 1 (I) font: Another Man's Treasure MIA. |
-| 2026-10-22 05:08:38 | [ttf-kreativekorp-trs80-model1-lowercase](https://aur.archlinux.org/packages/ttf-kreativekorp-trs80-model1-lowercase) | 2014.04-1 | 1 | KreativeKorp's TRS-80 lowercase Model 1 (I) font: Another Man's Treasure MIB. |
-| 2026-10-22 05:08:38 | [ttf-kreativekorp-trs80-model3](https://aur.archlinux.org/packages/ttf-kreativekorp-trs80-model3) | 2014.04-1 | 1 | KreativeKorp's TRS-80 Model 3 (III) font: Another Man's Treasure MIII. |
-| 2026-10-22 05:08:38 | [ttf-kreativekorp-trs80-model4-original](https://aur.archlinux.org/packages/ttf-kreativekorp-trs80-model4-original) | 2014.04-1 | 1 | KreativeKorp's TRS-80 original Model 4 font: Another Man's Treasure M4A. |
-| 2026-10-22 05:08:38 | [ttf-kreativekorp-trs80-model4-intl](https://aur.archlinux.org/packages/ttf-kreativekorp-trs80-model4-intl) | 2014.04-1 | 1 | KreativeKorp's TRS-80 international Model 4 font: Another Man's Treasure M4B. |
-| 2026-10-22 05:09:08 | [python-aiothreads](https://aur.archlinux.org/packages/python-aiothreads) | 1.1.4-1 | 0 | Glue between async and thread worlds. |
-| 2026-10-22 05:14:08 | [python-aiocarbon](https://aur.archlinux.org/packages/python-aiocarbon) | 0.15.3-1 | 0 | Asynchronous client for carbon. |
+| 2026-10-22 05:29:13 | [wallpaperx-bin](https://aur.archlinux.org/packages/wallpaperx-bin) | 0.4.12-2 | 0 | Browse, manage, and apply Wallpaper Engine wallpapers on Linux |
+| 2026-10-22 05:51:05 | [keepalive-bin](https://aur.archlinux.org/packages/keepalive-bin) | 2.0.0-1 | 0 | Keep-Alive is a lightweight, cross-platform utility to prevent your system from… |
+| 2026-10-22 05:54:55 | [lazycut](https://aur.archlinux.org/packages/lazycut) | 0.4.0-1 | 0 | Terminal-based video trimming TUI |
+| 2026-10-22 06:14:39 | [filee-bin](https://aur.archlinux.org/packages/filee-bin) | 2.0.0-1 | 0 | Offline file converter for images, PDF, Office, HWP, video, audio, e-books and… |
 
 ## Data source
 

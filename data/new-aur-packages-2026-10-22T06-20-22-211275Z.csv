@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-22T05:29:13Z,wallpaperx-bin,0.4.12-2,0,"Browse, manage, and apply Wallpaper Engine wallpapers on Linux"
+2026-10-22T05:51:05Z,keepalive-bin,2.0.0-1,0,"Keep-Alive is a lightweight, cross-platform utility to prevent your system from sleeping. Perfect for uninterrupted downloads, active connections, or long-running tasks, like vibe coding."
+2026-10-22T05:54:55Z,lazycut,0.4.0-1,0,Terminal-based video trimming TUI
+2026-10-22T06:14:39Z,filee-bin,2.0.0-1,0,"Offline file converter for images, PDF, Office, HWP, video, audio, e-books and archives (upstream binary)"
