@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 03:22 UTC
+## Latest list — 2026-10-22 04:20 UTC
 
-New packages created between 2026-10-22 02:20 UTC and 2026-10-22 03:22 UTC.
+New packages created between 2026-10-22 03:22 UTC and 2026-10-22 04:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-22T03-22-17-198499Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-22T04-20-17-277348Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 02:26:52 | [rufix](https://aur.archlinux.org/packages/rufix) | 0.1.1-1 | 0 | Rufus-style USB formatter and bootable drive creator for Linux (GTK3) |
-| 2026-10-22 02:32:48 | [katiecad-git](https://aur.archlinux.org/packages/katiecad-git) | 0.2.2.r0.g0000000-1 | 0 | Lightweight CAD drawing tool (Python/Tkinter) with DXF/DWG support |
-| 2026-10-22 03:07:11 | [moonlight-qt-qiin2333-bin](https://aur.archlinux.org/packages/moonlight-qt-qiin2333-bin) | 6.5.0-1 | 0 | GameStream client for PCs with extra features (qiin2333 fork, prebuilt AppImage) |
+| 2026-10-22 04:08:47 | [privacybit](https://aur.archlinux.org/packages/privacybit) | 0.1.0-1 | 0 | Privacy audit for Linux desktops |
+| 2026-10-22 04:08:56 | [kcxy-wifi](https://aur.archlinux.org/packages/kcxy-wifi) | 1.0.1-1 | 0 | 河南开封科技传媒学院校园网（锐捷 RG-SAM+ eportal）自动认证与掉线重连 |
+| 2026-10-22 04:11:43 | [hnscrcpy-git](https://aur.archlinux.org/packages/hnscrcpy-git) | v1.0.1.r4.gdcb7bf9-1 | 0 | Display and control HarmonyOS NEXT devices via hdc, scrcpy-like (JavaFX + FFmpe… |
+| 2026-10-22 04:13:31 | [kcxy-wifi-bin](https://aur.archlinux.org/packages/kcxy-wifi-bin) | 1.0.1-1 | 0 | 河南开封科技传媒学院校园网（锐捷 RG-SAM+ eportal）自动认证与掉线重连（预编译） |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-22T04:08:47Z,privacybit,0.1.0-1,0,Privacy audit for Linux desktops
+2026-10-22T04:08:56Z,kcxy-wifi,1.0.1-1,0,河南开封科技传媒学院校园网（锐捷 RG-SAM+ eportal）自动认证与掉线重连
+2026-10-22T04:11:43Z,hnscrcpy-git,v1.0.1.r4.gdcb7bf9-1,0,"Display and control HarmonyOS NEXT devices via hdc, scrcpy-like (JavaFX + FFmpeg)"
+2026-10-22T04:13:31Z,kcxy-wifi-bin,1.0.1-1,0,河南开封科技传媒学院校园网（锐捷 RG-SAM+ eportal）自动认证与掉线重连（预编译）
