@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 07:19 UTC
+## Latest list — 2026-10-23 08:20 UTC
 
-New packages created between 2026-10-23 06:22 UTC and 2026-10-23 07:19 UTC.
+New packages created between 2026-10-23 07:19 UTC and 2026-10-23 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-23T07-19-40-976572Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-23T08-20-59-954121Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 06:24:36 | [scriptisto-bin](https://aur.archlinux.org/packages/scriptisto-bin) | 2.2.0-1 | 1 | A language-agnostic "shebang interpreter" that enables you to write scripts in… |
-| 2026-10-23 06:47:48 | [hopchat](https://aur.archlinux.org/packages/hopchat) | 0.1.0-1 | 0 | Offline, end-to-end encrypted terminal chat for your local network. No server,… |
-| 2026-10-23 06:47:56 | [hopchat-git](https://aur.archlinux.org/packages/hopchat-git) | 0.1.0.r0.g0000000-1 | 0 | Offline, end-to-end encrypted terminal chat for your local network. No server,… |
+| 2026-10-23 07:31:38 | [crabber-bin](https://aur.archlinux.org/packages/crabber-bin) | 0.1.0-1 | 0 | XMPP messenger built on GPUI (release binaries) |
+| 2026-10-23 07:54:03 | [gifetch](https://aur.archlinux.org/packages/gifetch) | 1.0.0-1 | 0 | Puts an animated GIF next to your fastfetch output, for the kitty terminal |
 
 ## Data source
 

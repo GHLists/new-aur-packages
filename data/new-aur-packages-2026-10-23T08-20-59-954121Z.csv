@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-23T07:31:38Z,crabber-bin,0.1.0-1,0,XMPP messenger built on GPUI (release binaries)
+2026-10-23T07:54:03Z,gifetch,1.0.0-1,0,"Puts an animated GIF next to your fastfetch output, for the kitty terminal"
