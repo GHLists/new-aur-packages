@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-23T03:22:57Z,dovecot-wormhole,0.14-1,0,bring back Dovecot's replication feature for Dovecot 2.4 and later
+2026-10-23T03:37:20Z,automorph-git,r32.5b79369-1,0,Self-hosted tool for automatically patching and distributing Android packages (Morphe Desktop)
+2026-10-23T03:57:26Z,lightos-codec-ffmpeg-bin,0.1.11-1,0,Optional Arch-native FFmpeg hardware H.264 worker for LightOS remote desktop
+2026-10-23T03:58:12Z,lightos-remoted-bin,0.1.11-1,0,LightOS browser remote desktop with a persistent isolated desktop session

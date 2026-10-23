@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 03:20 UTC
+## Latest list — 2026-10-23 04:21 UTC
 
-New packages created between 2026-10-23 02:21 UTC and 2026-10-23 03:20 UTC.
+New packages created between 2026-10-23 03:20 UTC and 2026-10-23 04:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-23T03-20-53-489827Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-23T04-21-08-496547Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 02:50:22 | [tardigrade](https://aur.archlinux.org/packages/tardigrade) | 0.1.1-1 | 0 | Self-healing creature of learned weights that lives in your terminal |
-| 2026-10-23 03:00:59 | [kero-bin](https://aur.archlinux.org/packages/kero-bin) | 2.1.9-2 | 0 | Cross-platform native terminal app optimized for agents |
-| 2026-10-23 03:01:32 | [fcitx5-theme-mellow-fixed](https://aur.archlinux.org/packages/fcitx5-theme-mellow-fixed) | 1.0.0-1 | 0 | Repaired Mellow fcitx5 themes with PNG textures and readable candidate highligh… |
-| 2026-10-23 03:13:20 | [dovewarden](https://aur.archlinux.org/packages/dovewarden) | 0.1.1-1 | 0 | a Dovecot replication controller, bringing back replication to Dovecot 2.4+ ser… |
+| 2026-10-23 03:22:57 | [dovecot-wormhole](https://aur.archlinux.org/packages/dovecot-wormhole) | 0.14-1 | 0 | bring back Dovecot's replication feature for Dovecot 2.4 and later |
+| 2026-10-23 03:37:20 | [automorph-git](https://aur.archlinux.org/packages/automorph-git) | r32.5b79369-1 | 0 | Self-hosted tool for automatically patching and distributing Android packages (… |
+| 2026-10-23 03:57:26 | [lightos-codec-ffmpeg-bin](https://aur.archlinux.org/packages/lightos-codec-ffmpeg-bin) | 0.1.11-1 | 0 | Optional Arch-native FFmpeg hardware H.264 worker for LightOS remote desktop |
+| 2026-10-23 03:58:12 | [lightos-remoted-bin](https://aur.archlinux.org/packages/lightos-remoted-bin) | 0.1.11-1 | 0 | LightOS browser remote desktop with a persistent isolated desktop session |
 
 ## Data source
 
