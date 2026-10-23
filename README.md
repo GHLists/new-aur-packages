@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 04:21 UTC
+## Latest list — 2026-10-23 05:21 UTC
 
-New packages created between 2026-10-23 03:20 UTC and 2026-10-23 04:21 UTC.
+New packages created between 2026-10-23 04:21 UTC and 2026-10-23 05:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-23T04-21-08-496547Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-23T05-21-59-520195Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 03:22:57 | [dovecot-wormhole](https://aur.archlinux.org/packages/dovecot-wormhole) | 0.14-1 | 0 | bring back Dovecot's replication feature for Dovecot 2.4 and later |
-| 2026-10-23 03:37:20 | [automorph-git](https://aur.archlinux.org/packages/automorph-git) | r32.5b79369-1 | 0 | Self-hosted tool for automatically patching and distributing Android packages (… |
-| 2026-10-23 03:57:26 | [lightos-codec-ffmpeg-bin](https://aur.archlinux.org/packages/lightos-codec-ffmpeg-bin) | 0.1.11-1 | 0 | Optional Arch-native FFmpeg hardware H.264 worker for LightOS remote desktop |
-| 2026-10-23 03:58:12 | [lightos-remoted-bin](https://aur.archlinux.org/packages/lightos-remoted-bin) | 0.1.11-1 | 0 | LightOS browser remote desktop with a persistent isolated desktop session |
+| 2026-10-23 04:22:43 | [dirule-bin](https://aur.archlinux.org/packages/dirule-bin) | 0.5.0-1 | 1 | Bulk-rename and sort files with reviewable rules. Previews before changes, undo… |
+| 2026-10-23 04:29:21 | [python-pan-python](https://aur.archlinux.org/packages/python-pan-python) | 0.26.0-1 | 0 | Multi-tool set for Palo Alto Networks PAN-OS, Panorama, WildFire and AutoFocus |
+| 2026-10-23 05:03:44 | [exercism-git](https://aur.archlinux.org/packages/exercism-git) | 3.5.9.r0.g4223e01-1 | 0 | Command line tool for exercism.io -- special edition::(extra cool and swag mode… |
+| 2026-10-23 05:11:33 | [gostman-bin](https://aur.archlinux.org/packages/gostman-bin) | 1.5.0-1 | 0 | An API client for REST, GraphQL, gRPC and WebSocket that you, your CI pipeline… |
 
 ## Data source
 
