@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-23T19:28:06Z,mascot,0.2.0-2,0,Shimeji-style desktop mascots for Wayland that you can talk to (a chat bubble for local or hosted language models)
+2026-10-23T19:35:50Z,materialcraft,0.4.0-1,0,vibe coded clean-room reimplementation of Adobe Substance Designer
+2026-10-23T19:37:53Z,materialcraft-git,0.4.0.r20.gcae0fd3-1,0,vibe coded clean-room reimplementation of Adobe Substance Designer (Git HEAD)
+2026-10-23T19:50:16Z,pdg,0.2.1-1,0,"Zero-install, pure-CPU text-to-speech engine with an embedded model"
+2026-10-23T19:53:20Z,upmd,0.2.7-1,0,Markdown-based task and workflow runner
+2026-10-23T20:10:40Z,screencraft,0.0.0-1,0,vibe coded clean-room reimplementation of Screen Studio
+2026-10-23T20:10:54Z,screencraft-git,0.0.0.r167.gcd52362…,0,vibe coded clean-room reimplementation of Screen Studio(Git HEAD)
+2026-10-23T20:12:38Z,rhythmbox-album-shuffle,1.0.0-1,0,Continuous album shuffle plugin for Rhythmbox

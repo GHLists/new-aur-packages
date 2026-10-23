@@ -12,22 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 19:21 UTC
+## Latest list — 2026-10-23 20:22 UTC
 
-New packages created between 2026-10-23 18:18 UTC and 2026-10-23 19:21 UTC.
+New packages created between 2026-10-23 19:21 UTC and 2026-10-23 20:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-23T19-21-17-976082Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-23T20-22-23-797462Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 18:32:22 | [tinycarapace-bin](https://aur.archlinux.org/packages/tinycarapace-bin) | 0.0.1-1 | 0 | A minimal carapace-spec interpreter |
-| 2026-10-23 18:45:49 | [swiftify-bin](https://aur.archlinux.org/packages/swiftify-bin) | 0.18.0-1 | 0 | A Spotify player for the desktop, built with Qt Quick and a Rust core (precompi… |
-| 2026-10-23 18:47:45 | [swiftify](https://aur.archlinux.org/packages/swiftify) | 0.18.0-1 | 0 | A Spotify player for Wayland, in Material 3 after end4 |
-| 2026-10-23 18:47:56 | [swiftify-git](https://aur.archlinux.org/packages/swiftify-git) | 0.18.0.r2.g81ecfe8-1 | 0 | A Spotify player for Wayland, in Material 3 after end4 (git master) |
-| 2026-10-23 19:14:25 | [python-nvidia-cutlass-dsl-libs-core](https://aur.archlinux.org/packages/python-nvidia-cutlass-dsl-libs-core) | 4.8.0-1 | 0 | NVIDIA CuTe DSL: Python front end |
-| 2026-10-23 19:14:31 | [python-nvidia-cutlass-dsl-libs-base](https://aur.archlinux.org/packages/python-nvidia-cutlass-dsl-libs-base) | 4.8.0-1 | 0 | NVIDIA CuTe DSL: MLIR bindings and profiler |
-| 2026-10-23 19:14:36 | [python-nvidia-cutlass-dsl-libs-cu13](https://aur.archlinux.org/packages/python-nvidia-cutlass-dsl-libs-cu13) | 4.8.0-1 | 0 | NVIDIA CuTe DSL: compiler and runtime for CUDA 13 |
-| 2026-10-23 19:14:41 | [python-nvidia-cutlass-dsl](https://aur.archlinux.org/packages/python-nvidia-cutlass-dsl) | 4.8.0-1 | 0 | NVIDIA CuTe DSL (the cutlass Python module), CUDA 13 build |
+| 2026-10-23 19:28:06 | [mascot](https://aur.archlinux.org/packages/mascot) | 0.2.0-2 | 0 | Shimeji-style desktop mascots for Wayland that you can talk to (a chat bubble f… |
+| 2026-10-23 19:35:50 | [materialcraft](https://aur.archlinux.org/packages/materialcraft) | 0.4.0-1 | 0 | vibe coded clean-room reimplementation of Adobe Substance Designer |
+| 2026-10-23 19:37:53 | [materialcraft-git](https://aur.archlinux.org/packages/materialcraft-git) | 0.4.0.r20.gcae0fd3-1 | 0 | vibe coded clean-room reimplementation of Adobe Substance Designer (Git HEAD) |
+| 2026-10-23 19:50:16 | [pdg](https://aur.archlinux.org/packages/pdg) | 0.2.1-1 | 0 | Zero-install, pure-CPU text-to-speech engine with an embedded model |
+| 2026-10-23 19:53:20 | [upmd](https://aur.archlinux.org/packages/upmd) | 0.2.7-1 | 0 | Markdown-based task and workflow runner |
+| 2026-10-23 20:10:40 | [screencraft](https://aur.archlinux.org/packages/screencraft) | 0.0.0-1 | 0 | vibe coded clean-room reimplementation of Screen Studio |
+| 2026-10-23 20:10:54 | [screencraft-git](https://aur.archlinux.org/packages/screencraft-git) | 0.0.0.r167.gcd52362… | 0 | vibe coded clean-room reimplementation of Screen Studio(Git HEAD) |
+| 2026-10-23 20:12:38 | [rhythmbox-album-shuffle](https://aur.archlinux.org/packages/rhythmbox-album-shuffle) | 1.0.0-1 | 0 | Continuous album shuffle plugin for Rhythmbox |
 
 ## Data source
 
