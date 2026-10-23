@@ -12,18 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 01:22 UTC
+## Latest list — 2026-10-23 02:21 UTC
 
-New packages created between 2026-10-23 00:20 UTC and 2026-10-23 01:22 UTC.
+New packages created between 2026-10-23 01:22 UTC and 2026-10-23 02:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-23T01-22-09-715778Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-23T02-21-24-149729Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 00:31:07 | [pam_rssh-jetm](https://aur.archlinux.org/packages/pam_rssh-jetm) | 1.2.1-1 | 0 | A PAM module that provides ssh-agent based authentication, requiring user prese… |
-| 2026-10-23 00:34:28 | [linksy-bin](https://aur.archlinux.org/packages/linksy-bin) | 0.8.3-1 | 0 | Your devices, connected: direct file/clipboard/screen/camera sharing between Li… |
-| 2026-10-23 00:40:09 | [nexchat-git](https://aur.archlinux.org/packages/nexchat-git) | 1:0.2.1.r2.g25eb9e0… | 0 | IRC client: HexChat continued on GTK4, with a terminal UI (git master) |
-| 2026-10-23 01:05:49 | [lance-git](https://aur.archlinux.org/packages/lance-git) | 2.3.1.r0.geff854a-2 | 0 | A minimal basically-C compiler |
+| 2026-10-23 01:37:46 | [todesk-enterprise-client-bin](https://aur.archlinux.org/packages/todesk-enterprise-client-bin) | 3.2.0.0-1 | 0 | ToDesk Enterprise Client (controller) - remote control, enterprise edition |
+| 2026-10-23 01:37:49 | [todesk-enterprise-host-bin](https://aur.archlinux.org/packages/todesk-enterprise-host-bin) | 3.2.0.0-1 | 0 | ToDesk Enterprise Host (controlled endpoint) - remote control, enterprise editi… |
+| 2026-10-23 01:44:41 | [gzjam](https://aur.archlinux.org/packages/gzjam) | 0.2.1-1 | 0 | A DJ application for social dance. |
+| 2026-10-23 01:51:30 | [viper-synapse-bin](https://aur.archlinux.org/packages/viper-synapse-bin) | 0.0.3-1 | 0 | Razer device settings: key bindings, macros, lighting and sensitivity, in a Syn… |
+| 2026-10-23 02:01:50 | [slick-mod-bundled](https://aur.archlinux.org/packages/slick-mod-bundled) | 2.0.139-1 | 0 | The most powerful and versatile Slack client mod (bundled Electron version) |
 
 ## Data source
 

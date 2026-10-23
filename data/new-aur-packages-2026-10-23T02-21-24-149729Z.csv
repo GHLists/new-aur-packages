@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-23T01:37:46Z,todesk-enterprise-client-bin,3.2.0.0-1,0,"ToDesk Enterprise Client (controller) - remote control, enterprise edition"
+2026-10-23T01:37:49Z,todesk-enterprise-host-bin,3.2.0.0-1,0,"ToDesk Enterprise Host (controlled endpoint) - remote control, enterprise edition"
+2026-10-23T01:44:41Z,gzjam,0.2.1-1,0,A DJ application for social dance.
+2026-10-23T01:51:30Z,viper-synapse-bin,0.0.3-1,0,"Razer device settings: key bindings, macros, lighting and sensitivity, in a Synapse-style window"
+2026-10-23T02:01:50Z,slick-mod-bundled,2.0.139-1,0,The most powerful and versatile Slack client mod (bundled Electron version)
