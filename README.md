@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 06:22 UTC
+## Latest list — 2026-10-23 07:19 UTC
 
-New packages created between 2026-10-23 05:21 UTC and 2026-10-23 06:22 UTC.
+New packages created between 2026-10-23 06:22 UTC and 2026-10-23 07:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-23T06-22-00-659208Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-23T07-19-40-976572Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 06:07:06 | [crabber-git](https://aur.archlinux.org/packages/crabber-git) | 0.0.0.r8.g4a7374a-1 | 0 | XMPP messenger built on GPUI (git version) |
-| 2026-10-23 06:13:10 | [shebang-bin](https://aur.archlinux.org/packages/shebang-bin) | 2026.10.19-1 | 1 | A sometimes nice way of doing CLI. Mostly harmless. Works on thursdays. |
+| 2026-10-23 06:24:36 | [scriptisto-bin](https://aur.archlinux.org/packages/scriptisto-bin) | 2.2.0-1 | 1 | A language-agnostic "shebang interpreter" that enables you to write scripts in… |
+| 2026-10-23 06:47:48 | [hopchat](https://aur.archlinux.org/packages/hopchat) | 0.1.0-1 | 0 | Offline, end-to-end encrypted terminal chat for your local network. No server,… |
+| 2026-10-23 06:47:56 | [hopchat-git](https://aur.archlinux.org/packages/hopchat-git) | 0.1.0.r0.g0000000-1 | 0 | Offline, end-to-end encrypted terminal chat for your local network. No server,… |
 
 ## Data source
 

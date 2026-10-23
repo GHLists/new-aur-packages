@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-23T06:24:36Z,scriptisto-bin,2.2.0-1,1,"A language-agnostic ""shebang interpreter"" that enables you to write scripts in compiled languages"
+2026-10-23T06:47:48Z,hopchat,0.1.0-1,0,"Offline, end-to-end encrypted terminal chat for your local network. No server, no internet, no accounts."
+2026-10-23T06:47:56Z,hopchat-git,0.1.0.r0.g0000000-1,0,"Offline, end-to-end encrypted terminal chat for your local network. No server, no internet, no accounts. (latest git)"
