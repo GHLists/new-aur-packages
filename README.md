@@ -12,20 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 17:21 UTC
+## Latest list — 2026-10-23 18:18 UTC
 
-New packages created between 2026-10-23 16:21 UTC and 2026-10-23 17:21 UTC.
+New packages created between 2026-10-23 17:21 UTC and 2026-10-23 18:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-23T17-21-53-074597Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-23T18-18-59-334946Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 16:21:55 | [unsampled-piano](https://aur.archlinux.org/packages/unsampled-piano) | 0.1.0-1 | 0 | Physically modelled piano, no samples: standalone player, CLAP and VST3 plugins |
-| 2026-10-23 16:22:07 | [unsampled-piano-git](https://aur.archlinux.org/packages/unsampled-piano-git) | 0.1.0.r90.gd773a16-1 | 0 | Physically modelled piano, no samples: standalone player, CLAP and VST3 plugins… |
-| 2026-10-23 16:49:29 | [otf-furifont](https://aur.archlinux.org/packages/otf-furifont) | v0.6.2-1 | 0 | Japanese font that shows furigana on the font itself. |
-| 2026-10-23 16:49:34 | [ttf-furifont-variable](https://aur.archlinux.org/packages/ttf-furifont-variable) | v0.6.2-1 | 0 | Japanese font that shows furigana on the font itself. |
-| 2026-10-23 16:51:42 | [libspecbleach-git](https://aur.archlinux.org/packages/libspecbleach-git) | r216.f63b64b-1 | 0 | C library for audio noise reduction. Contains extras |
-| 2026-10-23 17:03:20 | [switch-frame-tap](https://aur.archlinux.org/packages/switch-frame-tap) | 0.7.14-1 | 0 | PC viewer for Switch Frame Tap: watch and record your Nintendo Switch streamed… |
+| 2026-10-23 17:38:42 | [dux-calendar-git](https://aur.archlinux.org/packages/dux-calendar-git) | 2.0.0.r6.ge7123fc-1 | 0 | Local, Google, Microsoft, and CalDAV calendars for the Dux desktop (git) |
+| 2026-10-23 17:38:53 | [dux-greeter-bin](https://aur.archlinux.org/packages/dux-greeter-bin) | 2.0.0-1 | 0 | Greetd login screen with the Dux Shell aesthetic (prebuilt binary) |
+| 2026-10-23 17:39:02 | [dux-greeter-git](https://aur.archlinux.org/packages/dux-greeter-git) | 2.0.0.r3.g4034ba1-1 | 0 | Greetd login screen with the Dux Shell aesthetic (git) |
+| 2026-10-23 17:39:10 | [dux-search-bin](https://aur.archlinux.org/packages/dux-search-bin) | 2.0.0-1 | 0 | Fast filesystem search service (prebuilt binary) |
+| 2026-10-23 17:39:16 | [dux-search-git](https://aur.archlinux.org/packages/dux-search-git) | 2.0.0.r1.g646b0e0-1 | 0 | Fast filesystem search service (git) |
+| 2026-10-23 17:39:22 | [dux-shell-git](https://aur.archlinux.org/packages/dux-shell-git) | 2.0.0.r43.gb7be4a3-1 | 0 | Desktop shell for wayland compositors built with Quickshell & GO (git) |
+| 2026-10-23 17:41:27 | [dux-calendar-bin](https://aur.archlinux.org/packages/dux-calendar-bin) | 2.0.0-1 | 0 | Local, Google, Microsoft, and CalDAV calendars for the Dux desktop (prebuilt bi… |
+| 2026-10-23 18:08:29 | [falconsdr](https://aur.archlinux.org/packages/falconsdr) | 0.9.0-1 | 0 | Wideband SDR ATC/radio scanner - records only the transmissions it stops on |
 
 ## Data source
 
