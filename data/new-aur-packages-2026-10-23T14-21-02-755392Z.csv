@@ -1,0 +1,16 @@
+created_at,package,version,votes,description
+2026-10-23T13:52:27Z,linux-cachyos-deckify,7.3.0-3,0,The Linux BORE + Cachy Sauce + Handheld Kernel by CachyOS with other patches and improvements. kernel and modules
+2026-10-23T13:52:27Z,linux-cachyos-deckify-headers,7.3.0-3,0,Headers and scripts for building modules for the Linux BORE + Cachy Sauce + Handheld Kernel by CachyOS with other patches and improvements. kernel
+2026-10-23T13:53:12Z,linux-cachyos-rt-bore,7.3.0-3,0,The Linux BORE-RT + Cachy Sauce Kernel by CachyOS with other patches and improvements kernel and modules
+2026-10-23T13:53:12Z,linux-cachyos-rt-bore-headers,7.3.0-3,0,Headers and scripts for building modules for the Linux BORE-RT + Cachy Sauce Kernel by CachyOS with other patches and improvements kernel
+2026-10-23T13:55:41Z,ttf-michelangelus,1.10-1,0,"Serif fonts inspired by Michelangelo, designed by Studiogusto"
+2026-10-23T13:55:50Z,ttf-kerberos,1.4.1-1,0,Serif font family for long-form reading on paper and screens
+2026-10-23T13:55:59Z,ttf-kerberos-variable,1.4.1-1,0,Variable serif font family for long-form reading on paper and screens
+2026-10-23T13:56:07Z,ttf-vavin,1.1-1,0,Garamond-derived serif fonts with a large x-height for screen reading
+2026-10-23T13:56:15Z,ttf-prologue,1.002-1,0,"Sans-serif font family derived from Epilogue, with revised italics and vertical metrics"
+2026-10-23T13:58:22Z,hegn-git,0.1.0.r68.g9029000-1,1,Cloud Hypervisor MicroVM sandbox manager and TUI for coding agents (git version)
+2026-10-23T14:05:43Z,python-vodozemac,0.10.0-1,0,Python bindings for vodozemac
+2026-10-23T14:08:40Z,bstyle,1.0-1,0,Custom QML theme
+2026-10-23T14:08:43Z,bstyle-git,1.0.r0.g4a60434-1,0,Custom QML theme (latest commit from master)
+2026-10-23T14:09:13Z,dockerman-ce-bin,6.3.0-1,0,Lightweight Docker management UI built with Tauri and React
+2026-10-23T14:18:22Z,fabricad,,,"Fast, lightweight parametric 3D CAD (parts, assemblies, drawings) on Qt 6 and OpenCASCADE"
