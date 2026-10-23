@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-23T11:30:24Z,superhtml-git,0.7.0.r17.gf0deee8-1,0,HTML Language Server & Templating Language Library (git)
+2026-10-23T11:33:00Z,csskit-bin,0.0.35-1,0,"Refreshing CSS: formatter, minifier, linter and more"
+2026-10-23T11:33:14Z,riptags-bin,0.2.3-1,0,Fast tree-sitter symbol search: definitions and cross-references
+2026-10-23T11:37:06Z,git-worktree-share,0.1.4-1,0,Share untracked files across git worktrees
