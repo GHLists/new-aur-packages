@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-23T15:26:55Z,agents-anywhere,2.0.3-1,0,Open-source cross-device AI agent workbench desktop app (built from source)
+2026-10-23T15:34:09Z,toaster,0.4.11-1,0,"Hears whatever is playing and writes it out as live Strudel code, with visuals"
+2026-10-23T15:45:41Z,hunspell-rm,2026.10.14-1,0,"Romansh hunspell dictionaries of the Lia Rumantscha: Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran, Puter and Vallader"
+2026-10-23T15:45:41Z,hyphen-rm,2026.10.14-1,0,"Romansh hyphenation patterns of the Lia Rumantscha, for Rumantsch Grischun and the five idioms"
+2026-10-23T16:01:37Z,blaadpapers-git,0.5.0.r0.g3015815-1,0,Fast & clean wallpaper manager (latest commit from master)

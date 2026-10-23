@@ -12,19 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 15:21 UTC
+## Latest list — 2026-10-23 16:21 UTC
 
-New packages created between 2026-10-23 14:21 UTC and 2026-10-23 15:21 UTC.
+New packages created between 2026-10-23 15:21 UTC and 2026-10-23 16:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-23T15-21-55-78083Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-23T16-21-08-292038Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 14:58:08 | [key-gunner](https://aur.archlinux.org/packages/key-gunner) | 1.3.1-1 | 0 | A game where you defeat waves of enemies by typing |
-| 2026-10-23 15:02:58 | [lrdp-bin](https://aur.archlinux.org/packages/lrdp-bin) | 0.2.0-1 | 0 | LRDP remote desktop client built with Flutter and FreeRDP (prebuilt Linux x64 A… |
-| 2026-10-23 15:05:33 | [immich-desktop](https://aur.archlinux.org/packages/immich-desktop) | 0.2.3-1 | 0 | Unofficial native Qt desktop client for Immich |
-| 2026-10-23 15:09:59 | [mc3000-mcp](https://aur.archlinux.org/packages/mc3000-mcp) | 0.2.0-1 | 0 | Safe MCP server for SKYRC MC3000-compatible battery chargers over Bluetooth LE |
-| 2026-10-23 15:18:44 | [cosmic-ext-applet-clippy-land-bin](https://aur.archlinux.org/packages/cosmic-ext-applet-clippy-land-bin) |  |  | Clipboard history applet for the COSMIC panel (prebuilt binary) |
+| 2026-10-23 15:26:55 | [agents-anywhere](https://aur.archlinux.org/packages/agents-anywhere) | 2.0.3-1 | 0 | Open-source cross-device AI agent workbench desktop app (built from source) |
+| 2026-10-23 15:34:09 | [toaster](https://aur.archlinux.org/packages/toaster) | 0.4.11-1 | 0 | Hears whatever is playing and writes it out as live Strudel code, with visuals |
+| 2026-10-23 15:45:41 | [hunspell-rm](https://aur.archlinux.org/packages/hunspell-rm) | 2026.10.14-1 | 0 | Romansh hunspell dictionaries of the Lia Rumantscha: Rumantsch Grischun, Sursil… |
+| 2026-10-23 15:45:41 | [hyphen-rm](https://aur.archlinux.org/packages/hyphen-rm) | 2026.10.14-1 | 0 | Romansh hyphenation patterns of the Lia Rumantscha, for Rumantsch Grischun and… |
+| 2026-10-23 16:01:37 | [blaadpapers-git](https://aur.archlinux.org/packages/blaadpapers-git) | 0.5.0.r0.g3015815-1 | 0 | Fast & clean wallpaper manager (latest commit from master) |
 
 ## Data source
 
