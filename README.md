@@ -12,19 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 16:21 UTC
+## Latest list — 2026-10-23 17:21 UTC
 
-New packages created between 2026-10-23 15:21 UTC and 2026-10-23 16:21 UTC.
+New packages created between 2026-10-23 16:21 UTC and 2026-10-23 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-23T16-21-08-292038Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-23T17-21-53-074597Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 15:26:55 | [agents-anywhere](https://aur.archlinux.org/packages/agents-anywhere) | 2.0.3-1 | 0 | Open-source cross-device AI agent workbench desktop app (built from source) |
-| 2026-10-23 15:34:09 | [toaster](https://aur.archlinux.org/packages/toaster) | 0.4.11-1 | 0 | Hears whatever is playing and writes it out as live Strudel code, with visuals |
-| 2026-10-23 15:45:41 | [hunspell-rm](https://aur.archlinux.org/packages/hunspell-rm) | 2026.10.14-1 | 0 | Romansh hunspell dictionaries of the Lia Rumantscha: Rumantsch Grischun, Sursil… |
-| 2026-10-23 15:45:41 | [hyphen-rm](https://aur.archlinux.org/packages/hyphen-rm) | 2026.10.14-1 | 0 | Romansh hyphenation patterns of the Lia Rumantscha, for Rumantsch Grischun and… |
-| 2026-10-23 16:01:37 | [blaadpapers-git](https://aur.archlinux.org/packages/blaadpapers-git) | 0.5.0.r0.g3015815-1 | 0 | Fast & clean wallpaper manager (latest commit from master) |
+| 2026-10-23 16:21:55 | [unsampled-piano](https://aur.archlinux.org/packages/unsampled-piano) | 0.1.0-1 | 0 | Physically modelled piano, no samples: standalone player, CLAP and VST3 plugins |
+| 2026-10-23 16:22:07 | [unsampled-piano-git](https://aur.archlinux.org/packages/unsampled-piano-git) | 0.1.0.r90.gd773a16-1 | 0 | Physically modelled piano, no samples: standalone player, CLAP and VST3 plugins… |
+| 2026-10-23 16:49:29 | [otf-furifont](https://aur.archlinux.org/packages/otf-furifont) | v0.6.2-1 | 0 | Japanese font that shows furigana on the font itself. |
+| 2026-10-23 16:49:34 | [ttf-furifont-variable](https://aur.archlinux.org/packages/ttf-furifont-variable) | v0.6.2-1 | 0 | Japanese font that shows furigana on the font itself. |
+| 2026-10-23 16:51:42 | [libspecbleach-git](https://aur.archlinux.org/packages/libspecbleach-git) | r216.f63b64b-1 | 0 | C library for audio noise reduction. Contains extras |
+| 2026-10-23 17:03:20 | [switch-frame-tap](https://aur.archlinux.org/packages/switch-frame-tap) | 0.7.14-1 | 0 | PC viewer for Switch Frame Tap: watch and record your Nintendo Switch streamed… |
 
 ## Data source
 
