@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 02:21 UTC
+## Latest list — 2026-10-23 03:20 UTC
 
-New packages created between 2026-10-23 01:22 UTC and 2026-10-23 02:21 UTC.
+New packages created between 2026-10-23 02:21 UTC and 2026-10-23 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-23T02-21-24-149729Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-23T03-20-53-489827Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 01:37:46 | [todesk-enterprise-client-bin](https://aur.archlinux.org/packages/todesk-enterprise-client-bin) | 3.2.0.0-1 | 0 | ToDesk Enterprise Client (controller) - remote control, enterprise edition |
-| 2026-10-23 01:37:49 | [todesk-enterprise-host-bin](https://aur.archlinux.org/packages/todesk-enterprise-host-bin) | 3.2.0.0-1 | 0 | ToDesk Enterprise Host (controlled endpoint) - remote control, enterprise editi… |
-| 2026-10-23 01:44:41 | [gzjam](https://aur.archlinux.org/packages/gzjam) | 0.2.1-1 | 0 | A DJ application for social dance. |
-| 2026-10-23 01:51:30 | [viper-synapse-bin](https://aur.archlinux.org/packages/viper-synapse-bin) | 0.0.3-1 | 0 | Razer device settings: key bindings, macros, lighting and sensitivity, in a Syn… |
-| 2026-10-23 02:01:50 | [slick-mod-bundled](https://aur.archlinux.org/packages/slick-mod-bundled) | 2.0.139-1 | 0 | The most powerful and versatile Slack client mod (bundled Electron version) |
+| 2026-10-23 02:50:22 | [tardigrade](https://aur.archlinux.org/packages/tardigrade) | 0.1.1-1 | 0 | Self-healing creature of learned weights that lives in your terminal |
+| 2026-10-23 03:00:59 | [kero-bin](https://aur.archlinux.org/packages/kero-bin) | 2.1.9-2 | 0 | Cross-platform native terminal app optimized for agents |
+| 2026-10-23 03:01:32 | [fcitx5-theme-mellow-fixed](https://aur.archlinux.org/packages/fcitx5-theme-mellow-fixed) | 1.0.0-1 | 0 | Repaired Mellow fcitx5 themes with PNG textures and readable candidate highligh… |
+| 2026-10-23 03:13:20 | [dovewarden](https://aur.archlinux.org/packages/dovewarden) | 0.1.1-1 | 0 | a Dovecot replication controller, bringing back replication to Dovecot 2.4+ ser… |
 
 ## Data source
 

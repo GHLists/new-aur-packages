@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-23T02:50:22Z,tardigrade,0.1.1-1,0,Self-healing creature of learned weights that lives in your terminal
+2026-10-23T03:00:59Z,kero-bin,2.1.9-2,0,Cross-platform native terminal app optimized for agents
+2026-10-23T03:01:32Z,fcitx5-theme-mellow-fixed,1.0.0-1,0,Repaired Mellow fcitx5 themes with PNG textures and readable candidate highlights
+2026-10-23T03:13:20Z,dovewarden,0.1.1-1,0,"a Dovecot replication controller, bringing back replication to Dovecot 2.4+ servers"
