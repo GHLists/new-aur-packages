@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 00:20 UTC
+## Latest list — 2026-10-23 01:22 UTC
 
-New packages created between 2026-10-22 23:20 UTC and 2026-10-23 00:20 UTC.
+New packages created between 2026-10-23 00:20 UTC and 2026-10-23 01:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-23T00-20-28-028141Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-23T01-22-09-715778Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 23:51:30 | [nethack-cn-bin](https://aur.archlinux.org/packages/nethack-cn-bin) | 5.0.1pre509.27e34f0… | 0 | Simplified Chinese localization of NetHack 5.0.1 (prebuilt binaries) |
+| 2026-10-23 00:31:07 | [pam_rssh-jetm](https://aur.archlinux.org/packages/pam_rssh-jetm) | 1.2.1-1 | 0 | A PAM module that provides ssh-agent based authentication, requiring user prese… |
+| 2026-10-23 00:34:28 | [linksy-bin](https://aur.archlinux.org/packages/linksy-bin) | 0.8.3-1 | 0 | Your devices, connected: direct file/clipboard/screen/camera sharing between Li… |
+| 2026-10-23 00:40:09 | [nexchat-git](https://aur.archlinux.org/packages/nexchat-git) | 1:0.2.1.r2.g25eb9e0… | 0 | IRC client: HexChat continued on GTK4, with a terminal UI (git master) |
+| 2026-10-23 01:05:49 | [lance-git](https://aur.archlinux.org/packages/lance-git) | 2.3.1.r0.geff854a-2 | 0 | A minimal basically-C compiler |
 
 ## Data source
 
