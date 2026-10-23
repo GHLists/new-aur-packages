@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-23T14:58:08Z,key-gunner,1.3.1-1,0,A game where you defeat waves of enemies by typing
+2026-10-23T15:02:58Z,lrdp-bin,0.2.0-1,0,LRDP remote desktop client built with Flutter and FreeRDP (prebuilt Linux x64 AppImage)
+2026-10-23T15:05:33Z,immich-desktop,0.2.3-1,0,Unofficial native Qt desktop client for Immich
+2026-10-23T15:09:59Z,mc3000-mcp,0.2.0-1,0,Safe MCP server for SKYRC MC3000-compatible battery chargers over Bluetooth LE
+2026-10-23T15:18:44Z,cosmic-ext-applet-clippy-land-bin,,,Clipboard history applet for the COSMIC panel (prebuilt binary)
