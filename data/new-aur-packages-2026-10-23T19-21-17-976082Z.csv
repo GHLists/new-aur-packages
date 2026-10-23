@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-23T18:32:22Z,tinycarapace-bin,0.0.1-1,0,A minimal carapace-spec interpreter
+2026-10-23T18:45:49Z,swiftify-bin,0.18.0-1,0,"A Spotify player for the desktop, built with Qt Quick and a Rust core (precompiled binary)"
+2026-10-23T18:47:45Z,swiftify,0.18.0-1,0,"A Spotify player for Wayland, in Material 3 after end4"
+2026-10-23T18:47:56Z,swiftify-git,0.18.0.r2.g81ecfe8-1,0,"A Spotify player for Wayland, in Material 3 after end4 (git master)"
+2026-10-23T19:14:25Z,python-nvidia-cutlass-dsl-libs-core,4.8.0-1,0,NVIDIA CuTe DSL: Python front end
+2026-10-23T19:14:31Z,python-nvidia-cutlass-dsl-libs-base,4.8.0-1,0,NVIDIA CuTe DSL: MLIR bindings and profiler
+2026-10-23T19:14:36Z,python-nvidia-cutlass-dsl-libs-cu13,4.8.0-1,0,NVIDIA CuTe DSL: compiler and runtime for CUDA 13
+2026-10-23T19:14:41Z,python-nvidia-cutlass-dsl,4.8.0-1,0,"NVIDIA CuTe DSL (the cutlass Python module), CUDA 13 build"

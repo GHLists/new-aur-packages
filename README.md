@@ -12,22 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 18:18 UTC
+## Latest list — 2026-10-23 19:21 UTC
 
-New packages created between 2026-10-23 17:21 UTC and 2026-10-23 18:18 UTC.
+New packages created between 2026-10-23 18:18 UTC and 2026-10-23 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-23T18-18-59-334946Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-23T19-21-17-976082Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 17:38:42 | [dux-calendar-git](https://aur.archlinux.org/packages/dux-calendar-git) | 2.0.0.r6.ge7123fc-1 | 0 | Local, Google, Microsoft, and CalDAV calendars for the Dux desktop (git) |
-| 2026-10-23 17:38:53 | [dux-greeter-bin](https://aur.archlinux.org/packages/dux-greeter-bin) | 2.0.0-1 | 0 | Greetd login screen with the Dux Shell aesthetic (prebuilt binary) |
-| 2026-10-23 17:39:02 | [dux-greeter-git](https://aur.archlinux.org/packages/dux-greeter-git) | 2.0.0.r3.g4034ba1-1 | 0 | Greetd login screen with the Dux Shell aesthetic (git) |
-| 2026-10-23 17:39:10 | [dux-search-bin](https://aur.archlinux.org/packages/dux-search-bin) | 2.0.0-1 | 0 | Fast filesystem search service (prebuilt binary) |
-| 2026-10-23 17:39:16 | [dux-search-git](https://aur.archlinux.org/packages/dux-search-git) | 2.0.0.r1.g646b0e0-1 | 0 | Fast filesystem search service (git) |
-| 2026-10-23 17:39:22 | [dux-shell-git](https://aur.archlinux.org/packages/dux-shell-git) | 2.0.0.r43.gb7be4a3-1 | 0 | Desktop shell for wayland compositors built with Quickshell & GO (git) |
-| 2026-10-23 17:41:27 | [dux-calendar-bin](https://aur.archlinux.org/packages/dux-calendar-bin) | 2.0.0-1 | 0 | Local, Google, Microsoft, and CalDAV calendars for the Dux desktop (prebuilt bi… |
-| 2026-10-23 18:08:29 | [falconsdr](https://aur.archlinux.org/packages/falconsdr) | 0.9.0-1 | 0 | Wideband SDR ATC/radio scanner - records only the transmissions it stops on |
+| 2026-10-23 18:32:22 | [tinycarapace-bin](https://aur.archlinux.org/packages/tinycarapace-bin) | 0.0.1-1 | 0 | A minimal carapace-spec interpreter |
+| 2026-10-23 18:45:49 | [swiftify-bin](https://aur.archlinux.org/packages/swiftify-bin) | 0.18.0-1 | 0 | A Spotify player for the desktop, built with Qt Quick and a Rust core (precompi… |
+| 2026-10-23 18:47:45 | [swiftify](https://aur.archlinux.org/packages/swiftify) | 0.18.0-1 | 0 | A Spotify player for Wayland, in Material 3 after end4 |
+| 2026-10-23 18:47:56 | [swiftify-git](https://aur.archlinux.org/packages/swiftify-git) | 0.18.0.r2.g81ecfe8-1 | 0 | A Spotify player for Wayland, in Material 3 after end4 (git master) |
+| 2026-10-23 19:14:25 | [python-nvidia-cutlass-dsl-libs-core](https://aur.archlinux.org/packages/python-nvidia-cutlass-dsl-libs-core) | 4.8.0-1 | 0 | NVIDIA CuTe DSL: Python front end |
+| 2026-10-23 19:14:31 | [python-nvidia-cutlass-dsl-libs-base](https://aur.archlinux.org/packages/python-nvidia-cutlass-dsl-libs-base) | 4.8.0-1 | 0 | NVIDIA CuTe DSL: MLIR bindings and profiler |
+| 2026-10-23 19:14:36 | [python-nvidia-cutlass-dsl-libs-cu13](https://aur.archlinux.org/packages/python-nvidia-cutlass-dsl-libs-cu13) | 4.8.0-1 | 0 | NVIDIA CuTe DSL: compiler and runtime for CUDA 13 |
+| 2026-10-23 19:14:41 | [python-nvidia-cutlass-dsl](https://aur.archlinux.org/packages/python-nvidia-cutlass-dsl) | 4.8.0-1 | 0 | NVIDIA CuTe DSL (the cutlass Python module), CUDA 13 build |
 
 ## Data source
 
