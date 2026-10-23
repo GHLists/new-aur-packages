@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-23T10:35:53Z,aoostar-lcd-bin,1.0.1-1,0,Glanceable front-panel status display for the AOOSTAR WTR MAX home server
+2026-10-23T10:37:26Z,rbw-enhanced,1.15.0.r27.gd8333f6…,0,"Unofficial Bitwarden CLI (enhanced fork: full editing, attachments, persistent login)"
+2026-10-23T10:47:11Z,workbuddy-international,5.8.4.41366630_7395…,0,AI Agent for everyday office work - WorkBuddy international edition (unofficial Linux port)
+2026-10-23T11:14:44Z,passfox-host,0.2.0-1,0,"Native messaging host for passfox, the Firefox add-on that fills logins from pass"
