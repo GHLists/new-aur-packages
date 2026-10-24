@@ -12,20 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 01:19 UTC
+## Latest list — 2026-10-24 02:20 UTC
 
-New packages created between 2026-10-24 00:20 UTC and 2026-10-24 01:19 UTC.
+New packages created between 2026-10-24 01:19 UTC and 2026-10-24 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-24T01-19-58-118322Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-24T02-20-13-6285Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 00:33:01 | [happier-cli-bin](https://aur.archlinux.org/packages/happier-cli-bin) | 0.2.17-1 | 0 | Mobile and web companion for Claude Code, Codex, and other coding agents |
-| 2026-10-24 00:50:44 | [lshwtui-bin](https://aur.archlinux.org/packages/lshwtui-bin) | 0.1.1-1 | 1 | A lazygit inspired hardware details explorer |
-| 2026-10-24 00:50:49 | [podmutt-bin](https://aur.archlinux.org/packages/podmutt-bin) | 1.3.0-1 | 1 | A modern, keyboard-driven podcast client (TUI) for Linux and macOS inspired by… |
-| 2026-10-24 00:50:54 | [mpdtui-bin](https://aur.archlinux.org/packages/mpdtui-bin) | 3.3.0-1 | 1 | A lazygit-style terminal UI for MPD (Music Player Daemon) |
-| 2026-10-24 01:04:45 | [vedi-bin](https://aur.archlinux.org/packages/vedi-bin) | 2.4.1-1 | 1 | Pager for colored text; select with the keyboard and copy |
-| 2026-10-24 01:04:58 | [vedi](https://aur.archlinux.org/packages/vedi) | 2.4.1-1 | 1 | Pager for colored text; select with the keyboard and copy |
+| 2026-10-24 01:20:02 | [brothy-bin](https://aur.archlinux.org/packages/brothy-bin) | 0.1.1-1 | 1 | A calm terminal Markdown reader: folder tree, outline, live reload, Obsidian-fl… |
+| 2026-10-24 01:30:02 | [noos-flasher](https://aur.archlinux.org/packages/noos-flasher) | 0.2.0-1 | 0 | Créateur de clés USB bootables Linux (DD) & Windows 10/11 UEFI avec studio de d… |
+| 2026-10-24 01:43:33 | [superghidra](https://aur.archlinux.org/packages/superghidra) | 0.3.0-1 | 0 | Reverse-engineering suite for Ghidra: P-code lifting, Z3, binary diffing |
+| 2026-10-24 02:09:44 | [rtl8761bu-firmware](https://aur.archlinux.org/packages/rtl8761bu-firmware) | 1.9.1038.3023-1 | 0 | Updated Realtek RTL8761BU Bluetooth 5.4 firmware (0xddd5c761) fixing Xbox Serie… |
 
 ## Data source
 
