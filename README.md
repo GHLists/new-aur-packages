@@ -12,21 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 09:22 UTC
+## Latest list — 2026-10-24 10:19 UTC
 
-New packages created between 2026-10-24 08:18 UTC and 2026-10-24 09:22 UTC.
+New packages created between 2026-10-24 09:22 UTC and 2026-10-24 10:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-24T09-22-08-309403Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-24T10-19-42-828797Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 08:47:51 | [rustconn-appimage](https://aur.archlinux.org/packages/rustconn-appimage) | 0.23.21-1 | 0 | Modern GTK4 connection manager for SSH, RDP, VNC and SPICE (AppImage) |
-| 2026-10-24 08:51:33 | [sonolith](https://aur.archlinux.org/packages/sonolith) | 2.3.0-1 | 0 | YouTube Music desktop client |
-| 2026-10-24 08:51:39 | [sonolith-bin](https://aur.archlinux.org/packages/sonolith-bin) | 2.3.0-1 | 0 | YouTube Music desktop client (prebuilt) |
-| 2026-10-24 08:52:17 | [quickshell-release-git](https://aur.archlinux.org/packages/quickshell-release-git) | 0.3.2.r11.g9b0f339-1 | 0 | Flexible toolkit for making desktop shells with QtQuick (Release build, -DNO_PC… |
-| 2026-10-24 08:55:20 | [midnight-cli-fix-git](https://aur.archlinux.org/packages/midnight-cli-fix-git) | r793.e6b4900-1 | 0 | DiM's fork of Caelestia-CLI |
-| 2026-10-24 08:57:34 | [rustconn-bin](https://aur.archlinux.org/packages/rustconn-bin) | 0.23.21-1 | 0 | Modern GTK4 connection manager for SSH, RDP, VNC and SPICE (prebuilt) |
-| 2026-10-24 08:58:03 | [rakkomik-bin](https://aur.archlinux.org/packages/rakkomik-bin) | 1.2.4-1 | 0 | Manga and comic downloader (prebuilt) |
+| 2026-10-24 09:57:46 | [amorphis](https://aur.archlinux.org/packages/amorphis) | 0.1.0-1 | 0 | Small fail-closed screen locker for Wayland and X11 |
+| 2026-10-24 10:00:00 | [discophile-bin](https://aur.archlinux.org/packages/discophile-bin) | 0.1.0-1 | 0 | Your music server, played like a record collection: a player for Navidrome, Sub… |
+| 2026-10-24 10:02:23 | [legacy-cycles-bin](https://aur.archlinux.org/packages/legacy-cycles-bin) | 0.0.27-1 | 0 | TRON Legacy-style light cycle game (prebuilt binary) |
+| 2026-10-24 10:02:35 | [legacy-cycles-server-bin](https://aur.archlinux.org/packages/legacy-cycles-server-bin) | 0.0.27-1 | 0 | Dedicated server for Legacy Cycles (prebuilt binary, systemd service) |
 
 ## Data source
 
