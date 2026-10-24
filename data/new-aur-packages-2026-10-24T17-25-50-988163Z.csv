@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-24T16:20:14Z,bt-bin,1.3.0-1,0,Interactive tree-like terminal file manager
+2026-10-24T16:43:29Z,discord-canary-prerelease-patched-electron-bin,20261024.162607-1,0,Discord Canary with patched prerelease Electron and Linux fixes (AVX2 required)
+2026-10-24T16:48:32Z,dbhub-mcp-server,1.5.0-1,0,"Database MCP server for Postgres, MySQL, MariaDB, SQL Server, Oracle and SQLite"
+2026-10-24T16:51:40Z,pulse-egoist-bin,0.1.29-1,0,"Everything your computer is doing, in one calm window."
