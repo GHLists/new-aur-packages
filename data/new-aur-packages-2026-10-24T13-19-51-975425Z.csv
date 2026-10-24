@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-24T12:23:34Z,bluegit-runner,20261024131232-1,0,Separate CI runner for BlueGit (runs jobs in Docker on your own machine)
+2026-10-24T12:23:38Z,linksy-common,0.9.5-1,0,"Your devices, connected: the service and tools both Linksy apps share"
+2026-10-24T12:23:38Z,linksy,0.9.5-1,0,"Your phone and your Linux computer, working as one (GTK app, for GNOME and most desktops)"
+2026-10-24T12:23:38Z,linksy-qt,0.9.5-1,0,"Your phone and your Linux computer, working as one (Qt app, for KDE Plasma)"
+2026-10-24T12:36:40Z,iodeos-installer-bin,0.3.1-1,0,iodéOS is installable within a few clicks! The installer is available for all official devices.
+2026-10-24T12:46:45Z,waydroid-a17-nvidia-bin,20261024.3-1,0,"Waydroid for Android 17 (WayDroid-ATV) with NVIDIA acceleration: NVK + ANGLE vendor image, freeform cards, host IME and clipboard"
+2026-10-24T12:48:56Z,szs-bin,2.42a-1,0,Wiimms SZS Tools (wszst)
+2026-10-24T13:07:04Z,8188fu-7.2.x-nambers-dkms-git,r131.68e5679-1,0,"Kernel driver module for Realtek RTL8188FU and RTL8188FTV Wireless 802.11n USB 2.0 adapters (device id 0bda:f179), for kernel versions 4.15.x ~ 7.2.x"
+2026-10-24T13:18:02Z,kformat,0.1.0-1,0,"Format disks, SSDs and USB sticks simply and safely (Rust + Kirigami + udisks2)"
