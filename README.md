@@ -12,18 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 08:18 UTC
+## Latest list — 2026-10-24 09:22 UTC
 
-New packages created between 2026-10-24 07:19 UTC and 2026-10-24 08:18 UTC.
+New packages created between 2026-10-24 08:18 UTC and 2026-10-24 09:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-24T08-18-57-036894Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-24T09-22-08-309403Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 07:31:48 | [enclave-messenger](https://aur.archlinux.org/packages/enclave-messenger) | 0.1.0-1 | 0 | Private messages without a phone number, through Tor and the Nym mixnet |
-| 2026-10-24 07:32:01 | [enclave-messenger-bin](https://aur.archlinux.org/packages/enclave-messenger-bin) | 0.1.0-1 | 0 | Private messages without a phone number, through Tor and the Nym mixnet |
-| 2026-10-24 07:59:22 | [mc-schem](https://aur.archlinux.org/packages/mc-schem) | 1.3.0-1 | 0 | A rust/c++ library to generate, load, manipulate and save minecraft schematic f… |
-| 2026-10-24 08:11:29 | [rakkomik](https://aur.archlinux.org/packages/rakkomik) | 1.2.3-1 | 0 | Manga and comic downloader |
+| 2026-10-24 08:47:51 | [rustconn-appimage](https://aur.archlinux.org/packages/rustconn-appimage) | 0.23.21-1 | 0 | Modern GTK4 connection manager for SSH, RDP, VNC and SPICE (AppImage) |
+| 2026-10-24 08:51:33 | [sonolith](https://aur.archlinux.org/packages/sonolith) | 2.3.0-1 | 0 | YouTube Music desktop client |
+| 2026-10-24 08:51:39 | [sonolith-bin](https://aur.archlinux.org/packages/sonolith-bin) | 2.3.0-1 | 0 | YouTube Music desktop client (prebuilt) |
+| 2026-10-24 08:52:17 | [quickshell-release-git](https://aur.archlinux.org/packages/quickshell-release-git) | 0.3.2.r11.g9b0f339-1 | 0 | Flexible toolkit for making desktop shells with QtQuick (Release build, -DNO_PC… |
+| 2026-10-24 08:55:20 | [midnight-cli-fix-git](https://aur.archlinux.org/packages/midnight-cli-fix-git) | r793.e6b4900-1 | 0 | DiM's fork of Caelestia-CLI |
+| 2026-10-24 08:57:34 | [rustconn-bin](https://aur.archlinux.org/packages/rustconn-bin) | 0.23.21-1 | 0 | Modern GTK4 connection manager for SSH, RDP, VNC and SPICE (prebuilt) |
+| 2026-10-24 08:58:03 | [rakkomik-bin](https://aur.archlinux.org/packages/rakkomik-bin) | 1.2.4-1 | 0 | Manga and comic downloader (prebuilt) |
 
 ## Data source
 

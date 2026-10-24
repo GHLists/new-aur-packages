@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-24T08:47:51Z,rustconn-appimage,0.23.21-1,0,"Modern GTK4 connection manager for SSH, RDP, VNC and SPICE (AppImage)"
+2026-10-24T08:51:33Z,sonolith,2.3.0-1,0,YouTube Music desktop client
+2026-10-24T08:51:39Z,sonolith-bin,2.3.0-1,0,YouTube Music desktop client (prebuilt)
+2026-10-24T08:52:17Z,quickshell-release-git,0.3.2.r11.g9b0f339-1,0,"Flexible toolkit for making desktop shells with QtQuick (Release build, -DNO_PCH=ON)"
+2026-10-24T08:55:20Z,midnight-cli-fix-git,r793.e6b4900-1,0,DiM's fork of Caelestia-CLI
+2026-10-24T08:57:34Z,rustconn-bin,0.23.21-1,0,"Modern GTK4 connection manager for SSH, RDP, VNC and SPICE (prebuilt)"
+2026-10-24T08:58:03Z,rakkomik-bin,1.2.4-1,0,Manga and comic downloader (prebuilt)
