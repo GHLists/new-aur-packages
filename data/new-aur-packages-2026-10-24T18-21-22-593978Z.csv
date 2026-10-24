@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-24T17:30:13Z,emaki-bin,0.3.1-1,0,An agentic development environment
+2026-10-24T17:46:47Z,librepaper,0.0.50-1,0,"A free collaborative writing, editing, and commenting platform"
+2026-10-24T18:01:41Z,scribe-bin,0.3.20-1,0,A native GNOME Markdown editor that renders your document as you type (upstream binary)
+2026-10-24T18:02:37Z,scribe-git,0.3.20.r0.g8fa7390-1,0,A native GNOME Markdown editor that renders your document as you type (development version)
+2026-10-24T18:06:44Z,emaki,0.3.1-1,0,An agentic development environment
+2026-10-24T18:09:05Z,libva-nvidia-driver-cagedbird,0.0.18.cb1-1,0,VA-API driver on NVDEC/NVENC with hardware encode and Chrome support (cagedbird043 fork)
