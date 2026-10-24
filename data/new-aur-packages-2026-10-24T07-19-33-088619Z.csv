@@ -1,0 +1,20 @@
+created_at,package,version,votes,description
+2026-10-24T06:20:44Z,tend,0.2.0_beta-1,0,"Tends the machine: scans dead weight, cleans safely, backs up dotfiles, and watches resources"
+2026-10-24T06:38:18Z,ttf-kreativekorp-lisa-emptyfolders,2011.02-1,1,KreativeKorp's Lisa font from WMFONT: Empty Folders.
+2026-10-24T06:38:18Z,ttf-kreativekorp-lisa-engelbart,2011.02-1,1,KreativeKorp's Lisa font from SYSCURSOR: Engelbart.
+2026-10-24T06:38:18Z,ttf-kreativekorp-lisa-calc,2011.02-1,1,KreativeKorp's Lisa font from CALCFONT: LisaCalc Paper.
+2026-10-24T06:38:18Z,ttf-kreativekorp-lisa-graph,2011.02-1,1,KreativeKorp's Lisa font from MARKER: LisaGraph Paper.
+2026-10-24T06:38:18Z,ttf-kreativekorp-lisa-guide,2011.02-1,1,KreativeKorp's Lisa font from IMGRAPH: LisaGuide Paper.
+2026-10-24T06:38:18Z,ttf-kreativekorp-lisa-project,2011.02-1,1,KreativeKorp's Lisa font from TOOLKIT: LisaProject Paper.
+2026-10-24T06:38:18Z,ttf-kreativekorp-lisa-sketch,2011.02-1,1,KreativeKorp's Lisa font from SYSPAT: LisaSketch Paper.
+2026-10-24T06:38:18Z,ttf-kreativekorp-lisa-terminal,2011.02-1,1,KreativeKorp's Lisa font from TILE*VT: LisaTerminal Paper.
+2026-10-24T06:38:18Z,ttf-kreativekorp-lisa-priamwhamos,2011.02-1,1,KreativeKorp's Lisa font from ICONFONT: Priam Whamos.
+2026-10-24T06:38:18Z,ttf-kreativekorp-lisa-someacronym,2011.02-1,1,KreativeKorp's Lisa font from HELV7RP: Some Acronym.
+2026-10-24T06:38:18Z,ttf-kreativekorp-lisa-startupfrom,2011.02-1,1,KreativeKorp's Lisa font from ROM/Workshop: Startup From.
+2026-10-24T06:38:18Z,ttf-kreativekorp-lisa-twiggy,2011.02-1,1,KreativeKorp's Lisa font from SYSTEXT: Twiggy.
+2026-10-24T06:40:36Z,rune-player-git,1.1.0.20250126.1118…,0,The player that blends classic design with modern technology
+2026-10-24T06:54:39Z,pan-chainguard,0.15.0-1,0,Manage Root Store and Intermediate Certificate Chains on PAN-OS
+2026-10-24T07:05:37Z,tessera-bin,0.3.1-1,1,Self-hosted file and note sharing that cleans up after itself
+2026-10-24T07:15:11Z,chatwithwork-desktop,0.4.0-1,0,"Chat with Work Desktop: the desktop app, terminal interface and background agent"
+2026-10-24T07:15:16Z,chatwithwork-desktop-bin,0.4.0-1,0,"Chat with Work Desktop: the desktop app, terminal interface and background agent"
+2026-10-24T07:15:21Z,chatwithwork-desktop-git,0.4.0-1,0,"Chat with Work Desktop: the desktop app, terminal interface and background agent (development version)"
