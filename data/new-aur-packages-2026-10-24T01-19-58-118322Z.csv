@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-24T00:33:01Z,happier-cli-bin,0.2.17-1,0,"Mobile and web companion for Claude Code, Codex, and other coding agents"
+2026-10-24T00:50:44Z,lshwtui-bin,0.1.1-1,1,A lazygit inspired hardware details explorer
+2026-10-24T00:50:49Z,podmutt-bin,1.3.0-1,1,"A modern, keyboard-driven podcast client (TUI) for Linux and macOS inspired by lazygit and mpdtui"
+2026-10-24T00:50:54Z,mpdtui-bin,3.3.0-1,1,A lazygit-style terminal UI for MPD (Music Player Daemon)
+2026-10-24T01:04:45Z,vedi-bin,2.4.1-1,1,Pager for colored text; select with the keyboard and copy
+2026-10-24T01:04:58Z,vedi,2.4.1-1,1,Pager for colored text; select with the keyboard and copy
