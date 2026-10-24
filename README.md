@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 14:22 UTC
+## Latest list — 2026-10-24 15:22 UTC
 
-New packages created between 2026-10-24 13:19 UTC and 2026-10-24 14:22 UTC.
+New packages created between 2026-10-24 14:22 UTC and 2026-10-24 15:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-24T14-22-37-642294Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-24T15-22-38-373819Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 13:27:10 | [perl-date-holidays-de](https://aur.archlinux.org/packages/perl-date-holidays-de) | 2.07-1 | 0 | Determine German holidays |
-| 2026-10-24 13:42:06 | [kimi-code-desktop-bin](https://aur.archlinux.org/packages/kimi-code-desktop-bin) | 1.1.2-1 | 0 | Kimi Code Desktop - GUI client for the Kimi Code agent (prebuilt binary) |
+| 2026-10-24 14:50:28 | [pgtui](https://aur.archlinux.org/packages/pgtui) | 0.3.0-1 | 0 | Simple terminal UI for PostgreSQL |
+| 2026-10-24 14:52:14 | [pgtui-bin](https://aur.archlinux.org/packages/pgtui-bin) | 0.3.0-1 | 0 | Simple terminal UI for PostgreSQL (prebuilt) |
+| 2026-10-24 15:15:01 | [aetherprompt-git](https://aur.archlinux.org/packages/aetherprompt-git) | 0.1.1-1 | 0 | Wayland passphrase prompt (pinentry & ssh-askpass) styled after caelestia (git… |
 
 ## Data source
 

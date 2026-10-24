@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-24T14:50:28Z,pgtui,0.3.0-1,0,Simple terminal UI for PostgreSQL
+2026-10-24T14:52:14Z,pgtui-bin,0.3.0-1,0,Simple terminal UI for PostgreSQL (prebuilt)
+2026-10-24T15:15:01Z,aetherprompt-git,0.1.1-1,0,Wayland passphrase prompt (pinentry & ssh-askpass) styled after caelestia (git version)
