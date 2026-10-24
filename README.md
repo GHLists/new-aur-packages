@@ -12,20 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 18:21 UTC
+## Latest list — 2026-10-24 19:19 UTC
 
-New packages created between 2026-10-24 17:25 UTC and 2026-10-24 18:21 UTC.
+New packages created between 2026-10-24 18:21 UTC and 2026-10-24 19:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-24T18-21-22-593978Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-24T19-19-30-711397Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 17:30:13 | [emaki-bin](https://aur.archlinux.org/packages/emaki-bin) | 0.3.1-1 | 0 | An agentic development environment |
-| 2026-10-24 17:46:47 | [librepaper](https://aur.archlinux.org/packages/librepaper) | 0.0.50-1 | 0 | A free collaborative writing, editing, and commenting platform |
-| 2026-10-24 18:01:41 | [scribe-bin](https://aur.archlinux.org/packages/scribe-bin) | 0.3.20-1 | 0 | A native GNOME Markdown editor that renders your document as you type (upstream… |
-| 2026-10-24 18:02:37 | [scribe-git](https://aur.archlinux.org/packages/scribe-git) | 0.3.20.r0.g8fa7390-1 | 0 | A native GNOME Markdown editor that renders your document as you type (developm… |
-| 2026-10-24 18:06:44 | [emaki](https://aur.archlinux.org/packages/emaki) | 0.3.1-1 | 0 | An agentic development environment |
-| 2026-10-24 18:09:05 | [libva-nvidia-driver-cagedbird](https://aur.archlinux.org/packages/libva-nvidia-driver-cagedbird) | 0.0.18.cb1-1 | 0 | VA-API driver on NVDEC/NVENC with hardware encode and Chrome support (cagedbird… |
+| 2026-10-24 18:26:49 | [zstd-x64v3](https://aur.archlinux.org/packages/zstd-x64v3) | 1.5.7-3 | 0 | Zstandard - Fast real-time compression algorithm (x86-64-v3) |
+| 2026-10-24 18:34:43 | [zstd-x64v4](https://aur.archlinux.org/packages/zstd-x64v4) | 1.5.7-3 | 0 | Zstandard - Fast real-time compression algorithm (x86-64-v4) |
+| 2026-10-24 18:51:57 | [kio-chomikuj-git](https://aur.archlinux.org/packages/kio-chomikuj-git) | 0.1.0.r9.g9daa9ab-1 | 0 | KIO worker and System Settings module for Chomikuj.pl |
+| 2026-10-24 19:03:14 | [clarion-git](https://aur.archlinux.org/packages/clarion-git) | 0.1.0.r93.ga758930-1 | 0 | Wayland compositor with native Vulkan rendering, HDR10/scRGB color management a… |
+| 2026-10-24 19:13:07 | [jadx-headless-mcp-bin](https://aur.archlinux.org/packages/jadx-headless-mcp-bin) | 0.8.0-1 | 0 | Headless MCP server for Android APK static analysis, built on jadx-core |
 
 ## Data source
 

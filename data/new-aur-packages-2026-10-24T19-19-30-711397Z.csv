@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-24T18:26:49Z,zstd-x64v3,1.5.7-3,0,Zstandard - Fast real-time compression algorithm (x86-64-v3)
+2026-10-24T18:34:43Z,zstd-x64v4,1.5.7-3,0,Zstandard - Fast real-time compression algorithm (x86-64-v4)
+2026-10-24T18:51:57Z,kio-chomikuj-git,0.1.0.r9.g9daa9ab-1,0,KIO worker and System Settings module for Chomikuj.pl
+2026-10-24T19:03:14Z,clarion-git,0.1.0.r93.ga758930-1,0,"Wayland compositor with native Vulkan rendering, HDR10/scRGB color management and an integrated GPUI desktop shell (git version)"
+2026-10-24T19:13:07Z,jadx-headless-mcp-bin,0.8.0-1,0,"Headless MCP server for Android APK static analysis, built on jadx-core"
