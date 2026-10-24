@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 22:22 UTC
+## Latest list — 2026-10-24 23:19 UTC
 
-New packages created between 2026-10-24 21:21 UTC and 2026-10-24 22:22 UTC.
+New packages created between 2026-10-24 22:22 UTC and 2026-10-24 23:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-24T22-22-01-969018Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-24T23-19-07-064193Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 21:26:58 | [downvid-wails-bin](https://aur.archlinux.org/packages/downvid-wails-bin) | 1.6.3-1 | 0 | Modern video downloader GUI for yt-dlp/ffmpeg (Wails new architecture, prebuilt) |
-| 2026-10-24 22:10:25 | [mrstreamer-bin](https://aur.archlinux.org/packages/mrstreamer-bin) | 0.0.19-1 | 0 | IPTV player with bundled Electron, FFmpeg and ffprobe |
+| 2026-10-24 22:25:51 | [musike-bin](https://aur.archlinux.org/packages/musike-bin) | 1.5.1-2 | 0 | Open-source music player for YouTube Music |
+| 2026-10-24 22:35:03 | [penguin-engine-git](https://aur.archlinux.org/packages/penguin-engine-git) | 0.1.0.r78.g1ef35dd-1 | 0 | Animated desktop wallpapers for Wayland: plays Wallpaper Engine wallpapers |
+| 2026-10-24 22:47:34 | [codemeyo-bin](https://aur.archlinux.org/packages/codemeyo-bin) | 1.11.7-1 | 0 | Multi-LLM autonomous coding agent with Claude, GPT, Grok, Gemini, DeepSeek, Mis… |
+| 2026-10-24 23:02:08 | [magpie-git](https://aur.archlinux.org/packages/magpie-git) | 0.1.1463.r0.g2a3d9f… | 0 | One place to pick every AI coding agent's model: Codex, Claude Code, Gemini CLI… |
 
 ## Data source
 
