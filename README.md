@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 04:22 UTC
+## Latest list — 2026-10-24 05:21 UTC
 
-New packages created between 2026-10-24 03:21 UTC and 2026-10-24 04:22 UTC.
+New packages created between 2026-10-24 04:22 UTC and 2026-10-24 05:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-24T04-22-01-671106Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-24T05-21-13-909083Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 03:41:36 | [stfu](https://aur.archlinux.org/packages/stfu) | 0.2.0-1 | 0 | Kill switch for all microphones (PipeWire/WirePlumber) |
-| 2026-10-24 03:47:06 | [madc-bin](https://aur.archlinux.org/packages/madc-bin) | 0.106.0-1 | 1 | A self-contained C/C++ language with built-in compiler/linker, JIT, AOT and an… |
+| 2026-10-24 04:26:13 | [rnazar](https://aur.archlinux.org/packages/rnazar) | 0.8.3-1 | 0 | System tray evil eye ward and crash notifier |
+| 2026-10-24 04:38:36 | [yetease-music-bin](https://aur.archlinux.org/packages/yetease-music-bin) | 0.2.3-1 | 0 | A fast, clean third-party NetEase Cloud Music client — Rust core × Flutter UI (… |
+| 2026-10-24 04:45:39 | [rnazar-bin](https://aur.archlinux.org/packages/rnazar-bin) | 0.8.3-1 | 0 | System tray evil eye ward and crash notifier |
+| 2026-10-24 04:56:58 | [ptk-bin](https://aur.archlinux.org/packages/ptk-bin) | 0.3.0rc5-1 | 0 | Warm PowerShell MCP sessions with compact, recoverable output |
 
 ## Data source
 

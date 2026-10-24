@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-24T04:26:13Z,rnazar,0.8.3-1,0,System tray evil eye ward and crash notifier
+2026-10-24T04:38:36Z,yetease-music-bin,0.2.3-1,0,"A fast, clean third-party NetEase Cloud Music client — Rust core × Flutter UI (Linux-first)"
+2026-10-24T04:45:39Z,rnazar-bin,0.8.3-1,0,System tray evil eye ward and crash notifier
+2026-10-24T04:56:58Z,ptk-bin,0.3.0rc5-1,0,"Warm PowerShell MCP sessions with compact, recoverable output"
