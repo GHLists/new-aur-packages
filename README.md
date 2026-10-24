@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 20:20 UTC
+## Latest list — 2026-10-24 21:21 UTC
 
-New packages created between 2026-10-24 19:19 UTC and 2026-10-24 20:20 UTC.
+New packages created between 2026-10-24 20:20 UTC and 2026-10-24 21:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-24T20-20-56-864708Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-24T21-21-34-530982Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 19:28:24 | [python-pan-os-python](https://aur.archlinux.org/packages/python-pan-os-python) | 1.13.1-1 | 0 | Framework for interacting with Palo Alto Networks devices via API |
-| 2026-10-24 20:06:07 | [ingetrazo](https://aur.archlinux.org/packages/ingetrazo) | 0.5.9-0 | 0 | vibe coded clean-room reimplementation of Trimble Sketchup |
-| 2026-10-24 20:06:29 | [tracedraw](https://aur.archlinux.org/packages/tracedraw) | 0.16.0-1 | 0 | vibe coded clean-room reimplementation of Corel Draw |
+| 2026-10-24 20:25:11 | [tracedraw-git](https://aur.archlinux.org/packages/tracedraw-git) | 0.17.0.r0.g94271e2-1 | 0 | vibe coded clean-room reimplementation of Corel Draw |
+| 2026-10-24 20:31:11 | [textifyopendocument](https://aur.archlinux.org/packages/textifyopendocument) | 0.1.1-1 | 0 | Fast OpenDocument (odt/ods/odp) to plain text converter for previews |
+| 2026-10-24 21:02:48 | [ktfmt-bin](https://aur.archlinux.org/packages/ktfmt-bin) | 0.65-1 | 0 | A program that reformats Kotlin source code to comply with the common community… |
 
 ## Data source
 

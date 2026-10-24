@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-24T20:25:11Z,tracedraw-git,0.17.0.r0.g94271e2-1,0,vibe coded clean-room reimplementation of Corel Draw
+2026-10-24T20:31:11Z,textifyopendocument,0.1.1-1,0,Fast OpenDocument (odt/ods/odp) to plain text converter for previews
+2026-10-24T21:02:48Z,ktfmt-bin,0.65-1,0,A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions (prebuilt native binary)
