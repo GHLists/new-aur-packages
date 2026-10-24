@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 21:21 UTC
+## Latest list — 2026-10-24 22:22 UTC
 
-New packages created between 2026-10-24 20:20 UTC and 2026-10-24 21:21 UTC.
+New packages created between 2026-10-24 21:21 UTC and 2026-10-24 22:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-24T21-21-34-530982Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-24T22-22-01-969018Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 20:25:11 | [tracedraw-git](https://aur.archlinux.org/packages/tracedraw-git) | 0.17.0.r0.g94271e2-1 | 0 | vibe coded clean-room reimplementation of Corel Draw |
-| 2026-10-24 20:31:11 | [textifyopendocument](https://aur.archlinux.org/packages/textifyopendocument) | 0.1.1-1 | 0 | Fast OpenDocument (odt/ods/odp) to plain text converter for previews |
-| 2026-10-24 21:02:48 | [ktfmt-bin](https://aur.archlinux.org/packages/ktfmt-bin) | 0.65-1 | 0 | A program that reformats Kotlin source code to comply with the common community… |
+| 2026-10-24 21:26:58 | [downvid-wails-bin](https://aur.archlinux.org/packages/downvid-wails-bin) | 1.6.3-1 | 0 | Modern video downloader GUI for yt-dlp/ffmpeg (Wails new architecture, prebuilt) |
+| 2026-10-24 22:10:25 | [mrstreamer-bin](https://aur.archlinux.org/packages/mrstreamer-bin) | 0.0.19-1 | 0 | IPTV player with bundled Electron, FFmpeg and ffprobe |
 
 ## Data source
 
