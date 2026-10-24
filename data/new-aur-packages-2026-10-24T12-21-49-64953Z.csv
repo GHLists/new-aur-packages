@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-24T11:36:55Z,fieldcraft,0.7.0-1,0,vibe coded clean-room reimplementation of Dassault Systems Abaqus
+2026-10-24T11:57:54Z,your-szu-life-bin,0.10.0-1,0,Shenzhen University campus life application (prebuilt Debian package)
+2026-10-24T11:58:10Z,your-szu-life-git,20261024.r572cce5-1,0,Shenzhen University campus life application (git)
+2026-10-24T11:58:59Z,fieldcraft-git,0.7.0.r167.g7d9c027…,0,vibe coded clean-room reimplementation of Dassault Systems Abaqus (Git HEAD)
+2026-10-24T12:01:24Z,nodejs-lts-iron,20.20.2-1,0,Evented I/O for V8 javascript (LTS release: Iron)
