@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-24T03:41:36Z,stfu,0.2.0-1,0,Kill switch for all microphones (PipeWire/WirePlumber)
+2026-10-24T03:47:06Z,madc-bin,0.106.0-1,1,"A self-contained C/C++ language with built-in compiler/linker, JIT, AOT and an interactive REPL"

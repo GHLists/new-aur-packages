@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 02:20 UTC
+## Latest list — 2026-10-24 04:22 UTC
 
-New packages created between 2026-10-24 01:19 UTC and 2026-10-24 02:20 UTC.
+New packages created between 2026-10-24 03:21 UTC and 2026-10-24 04:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-24T02-20-13-6285Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-24T04-22-01-671106Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 01:20:02 | [brothy-bin](https://aur.archlinux.org/packages/brothy-bin) | 0.1.1-1 | 1 | A calm terminal Markdown reader: folder tree, outline, live reload, Obsidian-fl… |
-| 2026-10-24 01:30:02 | [noos-flasher](https://aur.archlinux.org/packages/noos-flasher) | 0.2.0-1 | 0 | Créateur de clés USB bootables Linux (DD) & Windows 10/11 UEFI avec studio de d… |
-| 2026-10-24 01:43:33 | [superghidra](https://aur.archlinux.org/packages/superghidra) | 0.3.0-1 | 0 | Reverse-engineering suite for Ghidra: P-code lifting, Z3, binary diffing |
-| 2026-10-24 02:09:44 | [rtl8761bu-firmware](https://aur.archlinux.org/packages/rtl8761bu-firmware) | 1.9.1038.3023-1 | 0 | Updated Realtek RTL8761BU Bluetooth 5.4 firmware (0xddd5c761) fixing Xbox Serie… |
+| 2026-10-24 03:41:36 | [stfu](https://aur.archlinux.org/packages/stfu) | 0.2.0-1 | 0 | Kill switch for all microphones (PipeWire/WirePlumber) |
+| 2026-10-24 03:47:06 | [madc-bin](https://aur.archlinux.org/packages/madc-bin) | 0.106.0-1 | 1 | A self-contained C/C++ language with built-in compiler/linker, JIT, AOT and an… |
 
 ## Data source
 
