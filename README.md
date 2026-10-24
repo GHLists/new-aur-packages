@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 10:19 UTC
+## Latest list — 2026-10-24 11:21 UTC
 
-New packages created between 2026-10-24 09:22 UTC and 2026-10-24 10:19 UTC.
+New packages created between 2026-10-24 10:19 UTC and 2026-10-24 11:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-24T10-19-42-828797Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-24T11-21-40-669898Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 09:57:46 | [amorphis](https://aur.archlinux.org/packages/amorphis) | 0.1.0-1 | 0 | Small fail-closed screen locker for Wayland and X11 |
-| 2026-10-24 10:00:00 | [discophile-bin](https://aur.archlinux.org/packages/discophile-bin) | 0.1.0-1 | 0 | Your music server, played like a record collection: a player for Navidrome, Sub… |
-| 2026-10-24 10:02:23 | [legacy-cycles-bin](https://aur.archlinux.org/packages/legacy-cycles-bin) | 0.0.27-1 | 0 | TRON Legacy-style light cycle game (prebuilt binary) |
-| 2026-10-24 10:02:35 | [legacy-cycles-server-bin](https://aur.archlinux.org/packages/legacy-cycles-server-bin) | 0.0.27-1 | 0 | Dedicated server for Legacy Cycles (prebuilt binary, systemd service) |
+| 2026-10-24 10:27:29 | [linux-exploit-suggester](https://aur.archlinux.org/packages/linux-exploit-suggester) | 1.2-1 | 0 | Linux privilege escalation auditing tool |
+| 2026-10-24 11:03:43 | [transfuse](https://aur.archlinux.org/packages/transfuse) | 0.6.0-1 | 0 | Backup, compress and restore KDE Plasma user configurations |
 
 ## Data source
 
