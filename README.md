@@ -12,16 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 06:21 UTC
+## Latest list — 2026-10-25 07:20 UTC
 
-New packages created between 2026-10-25 05:20 UTC and 2026-10-25 06:21 UTC.
+New packages created between 2026-10-25 06:21 UTC and 2026-10-25 07:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T06-21-35-259407Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T07-20-12-942995Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 06:09:17 | [bbhost-desktop-bin](https://aur.archlinux.org/packages/bbhost-desktop-bin) | 0.2.19-1 | 0 | Definitive Bloodborne PC Experience |
-| 2026-10-25 06:11:04 | [ichgytw-bin](https://aur.archlinux.org/packages/ichgytw-bin) | 0.1.96-1 | 0 | A static recompilation project of the N64 game The World Is Not Enough |
+| 2026-10-25 06:27:36 | [ttf-kreativekorp-urbanrenewal-athene](https://aur.archlinux.org/packages/ttf-kreativekorp-urbanrenewal-athene) | 2011.01-2 | 1 | KreativeKorp's Urban Renewal font: Athene, the TrueType version of Athens. |
+| 2026-10-25 06:27:36 | [ttf-kreativekorp-urbanrenewal-liverpool](https://aur.archlinux.org/packages/ttf-kreativekorp-urbanrenewal-liverpool) | 2011.01-2 | 1 | KreativeKorp's Urban Renewal font: Liverpool, the TrueType version of London. |
+| 2026-10-25 06:27:36 | [ttf-kreativekorp-urbanrenewal-losaltos](https://aur.archlinux.org/packages/ttf-kreativekorp-urbanrenewal-losaltos) | 2011.01-2 | 1 | KreativeKorp's Urban Renewal font: Los Altos, the TrueType version of Los Angel… |
+| 2026-10-25 06:27:36 | [ttf-kreativekorp-urbanrenewal-parcplace](https://aur.archlinux.org/packages/ttf-kreativekorp-urbanrenewal-parcplace) | 2011.01-2 | 1 | KreativeKorp's Urban Renewal font: Parc Place, the TrueType version of Cream, C… |
+| 2026-10-25 06:27:36 | [ttf-kreativekorp-urbanrenewal-sanfrisco](https://aur.archlinux.org/packages/ttf-kreativekorp-urbanrenewal-sanfrisco) | 2011.01-2 | 1 | KreativeKorp's Urban Renewal font: Sanfrisco, the TrueType version of San Franc… |
+| 2026-10-25 06:27:36 | [ttf-kreativekorp-urbanrenewal-torrance](https://aur.archlinux.org/packages/ttf-kreativekorp-urbanrenewal-torrance) | 2011.01-2 | 1 | KreativeKorp's Urban Renewal font: Torrance, the TrueType version of Toronto. |
+| 2026-10-25 06:27:36 | [ttf-kreativekorp-urbanrenewal-valencia](https://aur.archlinux.org/packages/ttf-kreativekorp-urbanrenewal-valencia) | 2011.01-2 | 1 | KreativeKorp's Urban Renewal font: Valencia, the TrueType version of Venice. |
+| 2026-10-25 06:39:33 | [otk-git](https://aur.archlinux.org/packages/otk-git) | 0.1.0.alpha.1.r0.g2… | 0 | Open Terminal Kit, a browser UI for coding-agent backends (git version) |
 
 ## Data source
 
