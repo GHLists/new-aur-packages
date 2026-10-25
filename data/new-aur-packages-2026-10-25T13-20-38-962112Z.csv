@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-25T12:25:47Z,geartowns-bin,0.0.11-1,0,Fujitsu FM Towns emulator and debugger with an embedded MCP server (prebuilt binary)
+2026-10-25T12:25:50Z,geartowns-git,1.0.0.r0.g4dbdc3e-1,0,Fujitsu FM Towns emulator and debugger with an embedded MCP server
+2026-10-25T12:55:47Z,open-cad-studio-appimage,2026.42-1,0,"A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering (AppImage)"

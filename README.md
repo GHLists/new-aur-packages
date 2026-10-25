@@ -12,20 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 12:18 UTC
+## Latest list — 2026-10-25 13:20 UTC
 
-New packages created between 2026-10-25 11:20 UTC and 2026-10-25 12:18 UTC.
+New packages created between 2026-10-25 12:18 UTC and 2026-10-25 13:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T12-18-55-750985Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T13-20-38-962112Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 11:41:08 | [tuios-sketch-bin](https://aur.archlinux.org/packages/tuios-sketch-bin) | 0.11.0-1 | 0 | Draw Mermaid diagrams in the terminal, or as SVG or PNG |
-| 2026-10-25 11:41:21 | [tuios-plot-bin](https://aur.archlinux.org/packages/tuios-plot-bin) | 0.11.0-1 | 0 | Draw charts in the terminal from CSV, TSV or JSON |
-| 2026-10-25 11:41:34 | [tuios-tml-bin](https://aur.archlinux.org/packages/tuios-tml-bin) | 0.11.0-1 | 0 | Show TML documents in the terminal |
-| 2026-10-25 11:43:10 | [flydigi-vader4d](https://aur.archlinux.org/packages/flydigi-vader4d) | 0.1.1-1 | 0 | Userspace DInput driver for Flydigi Vader 4 Pro |
-| 2026-10-25 11:43:15 | [vader-companion](https://aur.archlinux.org/packages/vader-companion) | 0.1.1-1 | 0 | Vader Companion — configure Flydigi Vader 4 Pro on Linux |
-| 2026-10-25 12:15:19 | [openvpn-gui-linux-bin](https://aur.archlinux.org/packages/openvpn-gui-linux-bin) |  |  | A simple Linux GUI for OpenVPN |
+| 2026-10-25 12:25:47 | [geartowns-bin](https://aur.archlinux.org/packages/geartowns-bin) | 0.0.11-1 | 0 | Fujitsu FM Towns emulator and debugger with an embedded MCP server (prebuilt bi… |
+| 2026-10-25 12:25:50 | [geartowns-git](https://aur.archlinux.org/packages/geartowns-git) | 1.0.0.r0.g4dbdc3e-1 | 0 | Fujitsu FM Towns emulator and debugger with an embedded MCP server |
+| 2026-10-25 12:55:47 | [open-cad-studio-appimage](https://aur.archlinux.org/packages/open-cad-studio-appimage) | 2026.42-1 | 0 | A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-acc… |
 
 ## Data source
 
