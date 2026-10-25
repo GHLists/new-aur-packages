@@ -12,18 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 18:19 UTC
+## Latest list — 2026-10-25 19:22 UTC
 
-New packages created between 2026-10-25 17:21 UTC and 2026-10-25 18:19 UTC.
+New packages created between 2026-10-25 18:19 UTC and 2026-10-25 19:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T18-19-05-256043Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T19-22-13-508412Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 17:41:57 | [stillmusic](https://aur.archlinux.org/packages/stillmusic) | 0.3.0beta1-1 | 0 | Minimal black and white CLI music player powered by MPV |
-| 2026-10-25 17:42:11 | [stillmusic-bin](https://aur.archlinux.org/packages/stillmusic-bin) | 0.3.0beta1-1 | 0 | Minimal black and white CLI music player powered by MPV (prebuilt binary) |
-| 2026-10-25 18:11:02 | [python-asslayer](https://aur.archlinux.org/packages/python-asslayer) | 0.1.0-1 | 0 | ASS subtitle desktop overlay for Wayland, rendered with libass and Vulkan |
-| 2026-10-25 18:14:29 | [c0wrk-openvino](https://aur.archlinux.org/packages/c0wrk-openvino) | 0.13.0-1 | 0 | Desktop AI coding-agent built with Wails (Go + React) — OpenVINO flavor, upstre… |
+| 2026-10-25 18:22:06 | [driftleaf-bin](https://aur.archlinux.org/packages/driftleaf-bin) | 0.7.0-1 | 0 | A local-first encrypted notes, graph, and database app |
+| 2026-10-25 18:28:06 | [ffmpeg8.1](https://aur.archlinux.org/packages/ffmpeg8.1) | 8.1.3-1 | 0 | Complete solution to record, convert and stream audio and video |
+| 2026-10-25 18:47:52 | [inox-canary](https://aur.archlinux.org/packages/inox-canary) | 0.1.1_canary.1-1 | 0 | Canary channel of the Inox Wayland desktop environment |
+| 2026-10-25 19:06:11 | [skillspector](https://aur.archlinux.org/packages/skillspector) | 2.13.1-1 | 0 | Security scanner for AI agent skills (Claude Code, Cursor, and similar) |
+| 2026-10-25 19:12:23 | [rhythmbox-albumartist-filter](https://aur.archlinux.org/packages/rhythmbox-albumartist-filter) | 1.0.0-1 | 0 | Continuous album shuffle plugin for Rhythmbox |
 
 ## Data source
 
