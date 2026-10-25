@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 22:19 UTC
+## Latest list — 2026-10-25 23:21 UTC
 
-New packages created between 2026-10-25 21:19 UTC and 2026-10-25 22:19 UTC.
+New packages created between 2026-10-25 22:19 UTC and 2026-10-25 23:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T22-19-35-936944Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T23-21-40-69241Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 22:03:11 | [notav](https://aur.archlinux.org/packages/notav) | 0.1.0-1 | 0 | Notes and a journal kept in your Nextcloud |
-| 2026-10-25 22:03:16 | [notav-bin](https://aur.archlinux.org/packages/notav-bin) | 0.1.0-1 | 0 | Notes and a journal kept in your Nextcloud |
-| 2026-10-25 22:03:22 | [notav-git](https://aur.archlinux.org/packages/notav-git) | 0.1.0.r0.g7a48a0e-1 | 0 | Notes and a journal kept in your Nextcloud |
-| 2026-10-25 22:03:38 | [camofox-browser](https://aur.archlinux.org/packages/camofox-browser) | 1.18.1-1 | 0 | Stealth browser for AI agents with advanced fingerprint spoofing |
+| 2026-10-25 22:47:46 | [slskd](https://aur.archlinux.org/packages/slskd) | 0.26.2-1 | 0 | A modern client-server application for the Soulseek file sharing network |
+| 2026-10-25 23:17:03 | [lenovo-fanboost](https://aur.archlinux.org/packages/lenovo-fanboost) | 0.1.0-1 | 0 | Fan control and boost daemon for Lenovo laptops (DKMS) |
 
 ## Data source
 
