@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-25T08:42:52Z,xdm-app-bin,9.0.6_pre.21-1,0,"Fast, resumable download accelerator and video downloader with HLS/DASH support"
+2026-10-25T08:43:00Z,codeg-server-bin,0.40.0-1,0,"Standalone server of Codeg, a collaborative multi-agent AI coding workspace (prebuilt binary)"
+2026-10-25T08:47:08Z,mim,0.4-1,0,"MimIR: a higher-order, dependently typed intermediate representation with plugins"
