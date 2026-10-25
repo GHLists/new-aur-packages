@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 17:21 UTC
+## Latest list — 2026-10-25 18:19 UTC
 
-New packages created between 2026-10-25 16:19 UTC and 2026-10-25 17:21 UTC.
+New packages created between 2026-10-25 17:21 UTC and 2026-10-25 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T17-21-29-636685Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T18-19-05-256043Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 16:38:44 | [bongo](https://aur.archlinux.org/packages/bongo) | 1.1.0-1 | 0 | Bangla input method (Avro Phonetic and National/Bijoy) with fcitx5 and IBus fro… |
-| 2026-10-25 16:45:02 | [antra-bin](https://aur.archlinux.org/packages/antra-bin) | 1.1.8-1 | 0 | A desktop music library builder that supports Spotify, YouTube Music, Apple Mus… |
-| 2026-10-25 17:10:30 | [flaccy-server-bin](https://aur.archlinux.org/packages/flaccy-server-bin) | 0.1.0-1 | 0 | Headless OpenSubsonic server for one music folder, made for Flaccy and any Subs… |
-| 2026-10-25 17:19:08 | [legacy-cycles-bin](https://aur.archlinux.org/packages/legacy-cycles-bin) | 0.0.27-1 | 0 | TRON Legacy-style light cycle game (prebuilt binary) |
-| 2026-10-25 17:19:15 | [legacy-cycles-server-bin](https://aur.archlinux.org/packages/legacy-cycles-server-bin) | 0.0.27-1 | 0 | Dedicated server for Legacy Cycles (prebuilt binary, systemd service) |
+| 2026-10-25 17:41:57 | [stillmusic](https://aur.archlinux.org/packages/stillmusic) | 0.3.0beta1-1 | 0 | Minimal black and white CLI music player powered by MPV |
+| 2026-10-25 17:42:11 | [stillmusic-bin](https://aur.archlinux.org/packages/stillmusic-bin) | 0.3.0beta1-1 | 0 | Minimal black and white CLI music player powered by MPV (prebuilt binary) |
+| 2026-10-25 18:11:02 | [python-asslayer](https://aur.archlinux.org/packages/python-asslayer) | 0.1.0-1 | 0 | ASS subtitle desktop overlay for Wayland, rendered with libass and Vulkan |
+| 2026-10-25 18:14:29 | [c0wrk-openvino](https://aur.archlinux.org/packages/c0wrk-openvino) | 0.13.0-1 | 0 | Desktop AI coding-agent built with Wails (Go + React) — OpenVINO flavor, upstre… |
 
 ## Data source
 

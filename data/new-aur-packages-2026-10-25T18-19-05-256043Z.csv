@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-25T17:41:57Z,stillmusic,0.3.0beta1-1,0,Minimal black and white CLI music player powered by MPV
+2026-10-25T17:42:11Z,stillmusic-bin,0.3.0beta1-1,0,Minimal black and white CLI music player powered by MPV (prebuilt binary)
+2026-10-25T18:11:02Z,python-asslayer,0.1.0-1,0,"ASS subtitle desktop overlay for Wayland, rendered with libass and Vulkan"
+2026-10-25T18:14:29Z,c0wrk-openvino,0.13.0-1,0,"Desktop AI coding-agent built with Wails (Go + React) — OpenVINO flavor, upstream release binaries"
