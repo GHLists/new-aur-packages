@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 19:22 UTC
+## Latest list — 2026-10-25 20:19 UTC
 
-New packages created between 2026-10-25 18:19 UTC and 2026-10-25 19:22 UTC.
+New packages created between 2026-10-25 19:22 UTC and 2026-10-25 20:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T19-22-13-508412Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T20-19-30-27492Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 18:22:06 | [driftleaf-bin](https://aur.archlinux.org/packages/driftleaf-bin) | 0.7.0-1 | 0 | A local-first encrypted notes, graph, and database app |
-| 2026-10-25 18:28:06 | [ffmpeg8.1](https://aur.archlinux.org/packages/ffmpeg8.1) | 8.1.3-1 | 0 | Complete solution to record, convert and stream audio and video |
-| 2026-10-25 18:47:52 | [inox-canary](https://aur.archlinux.org/packages/inox-canary) | 0.1.1_canary.1-1 | 0 | Canary channel of the Inox Wayland desktop environment |
-| 2026-10-25 19:06:11 | [skillspector](https://aur.archlinux.org/packages/skillspector) | 2.13.1-1 | 0 | Security scanner for AI agent skills (Claude Code, Cursor, and similar) |
-| 2026-10-25 19:12:23 | [rhythmbox-albumartist-filter](https://aur.archlinux.org/packages/rhythmbox-albumartist-filter) | 1.0.0-1 | 0 | Continuous album shuffle plugin for Rhythmbox |
+| 2026-10-25 19:24:58 | [ccalc-git](https://aur.archlinux.org/packages/ccalc-git) | 2.17.0.2.r9.gc8edd3… | 0 | Arbitrary precision console calculator |
+| 2026-10-25 19:30:28 | [asus-ec-sensors-plus-dkms](https://aur.archlinux.org/packages/asus-ec-sensors-plus-dkms) | 0.1.1-1 | 0 | ASUS motherboard EC sensors (VRM, CPU, motherboard, CPU_OPT fan) for boards not… |
+| 2026-10-25 19:37:02 | [mavernix](https://aur.archlinux.org/packages/mavernix) | 0.1.3-1 | 0 | A lightweight Wayland desktop session with a classic look |
+| 2026-10-25 19:46:03 | [openq4-bin](https://aur.archlinux.org/packages/openq4-bin) | 0.13.2-1 | 0 | Open-source Quake 4 engine and game code replacement (binary release). You need… |
 
 ## Data source
 
