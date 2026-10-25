@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-25T09:48:50Z,nouveau-dkms,2.2.0-1,0,"Unified Nouveau out-of-tree module with Fermi core, shader, and DDR3 memory reclocking (DKMS)"
+2026-10-25T10:00:06Z,wayweather-git,3.0.1_r5_g9ab786e-1,0,"Weather module for Waybar with saved locations, GPS/IP geolocation, a TUI and a C library"
+2026-10-25T10:00:30Z,wayweather-bin,3.0.1-1,0,"Weather module for Waybar with saved locations, GPS/IP geolocation, a TUI and a C library"
+2026-10-25T10:00:41Z,omarchy-hyprmouse,0.1.0-1,0,"Remap mouse buttons to any Omarchy hotkey, plus lighting and DPI for supported mice (pluggable drivers, Razer first)"
+2026-10-25T10:11:11Z,ddc-controls-git,0.1.0_r5_g4be76a2-1,0,"GTK3 monitor control panel for DDC/CI (libddcci) and backlights, with a waybar module (git version)"

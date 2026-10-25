@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 09:18 UTC
+## Latest list — 2026-10-25 10:20 UTC
 
-New packages created between 2026-10-25 08:21 UTC and 2026-10-25 09:18 UTC.
+New packages created between 2026-10-25 09:18 UTC and 2026-10-25 10:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T09-18-57-331685Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T10-20-09-341581Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 08:42:52 | [xdm-app-bin](https://aur.archlinux.org/packages/xdm-app-bin) | 9.0.6_pre.21-1 | 0 | Fast, resumable download accelerator and video downloader with HLS/DASH support |
-| 2026-10-25 08:43:00 | [codeg-server-bin](https://aur.archlinux.org/packages/codeg-server-bin) | 0.40.0-1 | 0 | Standalone server of Codeg, a collaborative multi-agent AI coding workspace (pr… |
-| 2026-10-25 08:47:08 | [mim](https://aur.archlinux.org/packages/mim) | 0.4-1 | 0 | MimIR: a higher-order, dependently typed intermediate representation with plugi… |
+| 2026-10-25 09:48:50 | [nouveau-dkms](https://aur.archlinux.org/packages/nouveau-dkms) | 2.2.0-1 | 0 | Unified Nouveau out-of-tree module with Fermi core, shader, and DDR3 memory rec… |
+| 2026-10-25 10:00:06 | [wayweather-git](https://aur.archlinux.org/packages/wayweather-git) | 3.0.1_r5_g9ab786e-1 | 0 | Weather module for Waybar with saved locations, GPS/IP geolocation, a TUI and a… |
+| 2026-10-25 10:00:30 | [wayweather-bin](https://aur.archlinux.org/packages/wayweather-bin) | 3.0.1-1 | 0 | Weather module for Waybar with saved locations, GPS/IP geolocation, a TUI and a… |
+| 2026-10-25 10:00:41 | [omarchy-hyprmouse](https://aur.archlinux.org/packages/omarchy-hyprmouse) | 0.1.0-1 | 0 | Remap mouse buttons to any Omarchy hotkey, plus lighting and DPI for supported… |
+| 2026-10-25 10:11:11 | [ddc-controls-git](https://aur.archlinux.org/packages/ddc-controls-git) | 0.1.0_r5_g4be76a2-1 | 0 | GTK3 monitor control panel for DDC/CI (libddcci) and backlights, with a waybar… |
 
 ## Data source
 
