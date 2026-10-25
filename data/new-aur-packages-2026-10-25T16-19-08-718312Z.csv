@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-25T15:27:42Z,goose-lang,2026.3-1,0,"Memory-safe systems language with no heap allocator, GC, or lifetime annotations"
+2026-10-25T16:03:02Z,oddity-bin,0.1.0alpha.2-1,0,Native Linux launcher for Neverness To Everness
+2026-10-25T16:08:25Z,aiostreams-desktop-bin,0.20.0-1,0,"AIOStreams desktop app in a native window, playing through mpv"
+2026-10-25T16:16:51Z,wallhost,,,"Animated wallpapers (Wallpaper Engine workshop content) behind the KDE Plasma desktop, crash-isolated from plasmashell"
