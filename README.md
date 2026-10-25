@@ -12,19 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 10:20 UTC
+## Latest list — 2026-10-25 12:18 UTC
 
-New packages created between 2026-10-25 09:18 UTC and 2026-10-25 10:20 UTC.
+New packages created between 2026-10-25 11:20 UTC and 2026-10-25 12:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T10-20-09-341581Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T12-18-55-750985Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 09:48:50 | [nouveau-dkms](https://aur.archlinux.org/packages/nouveau-dkms) | 2.2.0-1 | 0 | Unified Nouveau out-of-tree module with Fermi core, shader, and DDR3 memory rec… |
-| 2026-10-25 10:00:06 | [wayweather-git](https://aur.archlinux.org/packages/wayweather-git) | 3.0.1_r5_g9ab786e-1 | 0 | Weather module for Waybar with saved locations, GPS/IP geolocation, a TUI and a… |
-| 2026-10-25 10:00:30 | [wayweather-bin](https://aur.archlinux.org/packages/wayweather-bin) | 3.0.1-1 | 0 | Weather module for Waybar with saved locations, GPS/IP geolocation, a TUI and a… |
-| 2026-10-25 10:00:41 | [omarchy-hyprmouse](https://aur.archlinux.org/packages/omarchy-hyprmouse) | 0.1.0-1 | 0 | Remap mouse buttons to any Omarchy hotkey, plus lighting and DPI for supported… |
-| 2026-10-25 10:11:11 | [ddc-controls-git](https://aur.archlinux.org/packages/ddc-controls-git) | 0.1.0_r5_g4be76a2-1 | 0 | GTK3 monitor control panel for DDC/CI (libddcci) and backlights, with a waybar… |
+| 2026-10-25 11:41:08 | [tuios-sketch-bin](https://aur.archlinux.org/packages/tuios-sketch-bin) | 0.11.0-1 | 0 | Draw Mermaid diagrams in the terminal, or as SVG or PNG |
+| 2026-10-25 11:41:21 | [tuios-plot-bin](https://aur.archlinux.org/packages/tuios-plot-bin) | 0.11.0-1 | 0 | Draw charts in the terminal from CSV, TSV or JSON |
+| 2026-10-25 11:41:34 | [tuios-tml-bin](https://aur.archlinux.org/packages/tuios-tml-bin) | 0.11.0-1 | 0 | Show TML documents in the terminal |
+| 2026-10-25 11:43:10 | [flydigi-vader4d](https://aur.archlinux.org/packages/flydigi-vader4d) | 0.1.1-1 | 0 | Userspace DInput driver for Flydigi Vader 4 Pro |
+| 2026-10-25 11:43:15 | [vader-companion](https://aur.archlinux.org/packages/vader-companion) | 0.1.1-1 | 0 | Vader Companion — configure Flydigi Vader 4 Pro on Linux |
+| 2026-10-25 12:15:19 | [openvpn-gui-linux-bin](https://aur.archlinux.org/packages/openvpn-gui-linux-bin) |  |  | A simple Linux GUI for OpenVPN |
 
 ## Data source
 
