@@ -12,18 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 16:19 UTC
+## Latest list — 2026-10-25 17:21 UTC
 
-New packages created between 2026-10-25 15:20 UTC and 2026-10-25 16:19 UTC.
+New packages created between 2026-10-25 16:19 UTC and 2026-10-25 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T16-19-08-718312Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T17-21-29-636685Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 15:27:42 | [goose-lang](https://aur.archlinux.org/packages/goose-lang) | 2026.3-1 | 0 | Memory-safe systems language with no heap allocator, GC, or lifetime annotations |
-| 2026-10-25 16:03:02 | [oddity-bin](https://aur.archlinux.org/packages/oddity-bin) | 0.1.0alpha.2-1 | 0 | Native Linux launcher for Neverness To Everness |
-| 2026-10-25 16:08:25 | [aiostreams-desktop-bin](https://aur.archlinux.org/packages/aiostreams-desktop-bin) | 0.20.0-1 | 0 | AIOStreams desktop app in a native window, playing through mpv |
-| 2026-10-25 16:16:51 | [wallhost](https://aur.archlinux.org/packages/wallhost) |  |  | Animated wallpapers (Wallpaper Engine workshop content) behind the KDE Plasma d… |
+| 2026-10-25 16:38:44 | [bongo](https://aur.archlinux.org/packages/bongo) | 1.1.0-1 | 0 | Bangla input method (Avro Phonetic and National/Bijoy) with fcitx5 and IBus fro… |
+| 2026-10-25 16:45:02 | [antra-bin](https://aur.archlinux.org/packages/antra-bin) | 1.1.8-1 | 0 | A desktop music library builder that supports Spotify, YouTube Music, Apple Mus… |
+| 2026-10-25 17:10:30 | [flaccy-server-bin](https://aur.archlinux.org/packages/flaccy-server-bin) | 0.1.0-1 | 0 | Headless OpenSubsonic server for one music folder, made for Flaccy and any Subs… |
+| 2026-10-25 17:19:08 | [legacy-cycles-bin](https://aur.archlinux.org/packages/legacy-cycles-bin) | 0.0.27-1 | 0 | TRON Legacy-style light cycle game (prebuilt binary) |
+| 2026-10-25 17:19:15 | [legacy-cycles-server-bin](https://aur.archlinux.org/packages/legacy-cycles-server-bin) | 0.0.27-1 | 0 | Dedicated server for Legacy Cycles (prebuilt binary, systemd service) |
 
 ## Data source
 
