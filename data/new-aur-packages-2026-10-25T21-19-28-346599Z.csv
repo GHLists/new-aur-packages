@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-25T20:37:37Z,opentabletdriver-rc,0.6.8rc1-1,0,A cross-platform open source tablet driver (release candidate)
+2026-10-25T20:49:59Z,qemu-ios-ipod-git,6.2.50.r92578.g501c…,0,iPod touch 1st generation (iPhoneOS 1.0) emulator based on the qemu-ios QEMU fork (system files not included)
+2026-10-25T20:50:05Z,qemu-apple-t8030-git,1.0.0rc1.r125695.gc…,0,"QEMU fork with Apple t8030 (iPhone 11 / A13) guest support, based on ChefKissInc/Inferno (unofficial build, no firmware included)"
+2026-10-25T20:52:00Z,xnu-qemu-arm64-git,4.2.0.r73552.g26949…,0,"Aleph Security's QEMU fork that boots the iOS 12.1 XNU kernel (iPhone 6s Plus) to a root shell, with Linux-host fixes"
