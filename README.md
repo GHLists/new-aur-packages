@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 04:19 UTC
+## Latest list — 2026-10-25 05:20 UTC
 
-New packages created between 2026-10-25 03:19 UTC and 2026-10-25 04:19 UTC.
+New packages created between 2026-10-25 04:19 UTC and 2026-10-25 05:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T04-19-16-432215Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T05-20-17-284748Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 03:40:48 | [python-puikit](https://aur.archlinux.org/packages/python-puikit) | 1.15.0-1 | 1 | Capability-based Python UI framework with TUI and GUI backends |
-| 2026-10-25 03:40:57 | [xefm](https://aur.archlinux.org/packages/xefm) | 1.10.0-1 | 1 | A dual-pane file manager for the desktop and the terminal |
-| 2026-10-25 03:41:02 | [eosh](https://aur.archlinux.org/packages/eosh) | 0.3.0-1 | 1 | A lightweight but powerful terminal shell with rich TAB completion and context… |
-| 2026-10-25 03:47:30 | [zenworks](https://aur.archlinux.org/packages/zenworks) | 0.0.1-1 | 0 | A desktop environment built on Quickshell and Hyprland |
+| 2026-10-25 04:20:46 | [one-kvm-bin](https://aur.archlinux.org/packages/one-kvm-bin) | 0.2.8-1 | 0 | Open and lightweight IP-KVM solution for BIOS-level remote management (prebuilt) |
+| 2026-10-25 04:28:15 | [plasma6-runners-markdown-bookmarks-git](https://aur.archlinux.org/packages/plasma6-runners-markdown-bookmarks-git) | 0.5.1.r6.g625d5d5-1 | 0 | A Krunner plugin to open web links listed in a Markdown file |
+| 2026-10-25 04:41:18 | [strata-terminal-bin](https://aur.archlinux.org/packages/strata-terminal-bin) | 0.1.49.2-1 | 0 | Strata Terminal: run Qwen3.8-Flash-Next and DeepSeek V4.1-Flash locally with an… |
 
 ## Data source
 

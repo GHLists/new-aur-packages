@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-25T04:20:46Z,one-kvm-bin,0.2.8-1,0,Open and lightweight IP-KVM solution for BIOS-level remote management (prebuilt)
+2026-10-25T04:28:15Z,plasma6-runners-markdown-bookmarks-git,0.5.1.r6.g625d5d5-1,0,A Krunner plugin to open web links listed in a Markdown file
+2026-10-25T04:41:18Z,strata-terminal-bin,0.1.49.2-1,0,Strata Terminal: run Qwen3.8-Flash-Next and DeepSeek V4.1-Flash locally with an OpenAI/Anthropic-compatible API (prebuilt)
