@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 14:19 UTC
+## Latest list — 2026-10-25 15:20 UTC
 
-New packages created between 2026-10-25 13:20 UTC and 2026-10-25 14:19 UTC.
+New packages created between 2026-10-25 14:19 UTC and 2026-10-25 15:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T14-19-51-031748Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T15-20-07-731145Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 13:40:58 | [learnharness-bin](https://aur.archlinux.org/packages/learnharness-bin) | 0.3.7-1 | 0 | Agent harness for adaptive teaching, practice, and a knowledge graph |
+| 2026-10-25 14:26:22 | [python-hypercorn](https://aur.archlinux.org/packages/python-hypercorn) | 0.18.0-1 | 1 | A ASGI Server based on Hyper libraries and inspired by Gunicorn. |
+| 2026-10-25 14:38:12 | [python-mcap](https://aur.archlinux.org/packages/python-mcap) | 1.6.0-1 | 0 | Python library for reading and writing MCAP files |
+| 2026-10-25 14:59:19 | [python-mcap-protobuf-support](https://aur.archlinux.org/packages/python-mcap-protobuf-support) | 0.6.0-1 | 0 | Protobuf support for the Python MCAP library |
 
 ## Data source
 
