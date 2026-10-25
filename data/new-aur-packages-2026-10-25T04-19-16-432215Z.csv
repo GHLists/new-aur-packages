@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-25T03:40:48Z,python-puikit,1.15.0-1,1,Capability-based Python UI framework with TUI and GUI backends
+2026-10-25T03:40:57Z,xefm,1.10.0-1,1,A dual-pane file manager for the desktop and the terminal
+2026-10-25T03:41:02Z,eosh,0.3.0-1,1,A lightweight but powerful terminal shell with rich TAB completion and context switching
+2026-10-25T03:47:30Z,zenworks,0.0.1-1,0,A desktop environment built on Quickshell and Hyprland
