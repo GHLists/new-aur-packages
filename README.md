@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 13:20 UTC
+## Latest list — 2026-10-25 14:19 UTC
 
-New packages created between 2026-10-25 12:18 UTC and 2026-10-25 13:20 UTC.
+New packages created between 2026-10-25 13:20 UTC and 2026-10-25 14:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T13-20-38-962112Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T14-19-51-031748Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 12:25:47 | [geartowns-bin](https://aur.archlinux.org/packages/geartowns-bin) | 0.0.11-1 | 0 | Fujitsu FM Towns emulator and debugger with an embedded MCP server (prebuilt bi… |
-| 2026-10-25 12:25:50 | [geartowns-git](https://aur.archlinux.org/packages/geartowns-git) | 1.0.0.r0.g4dbdc3e-1 | 0 | Fujitsu FM Towns emulator and debugger with an embedded MCP server |
-| 2026-10-25 12:55:47 | [open-cad-studio-appimage](https://aur.archlinux.org/packages/open-cad-studio-appimage) | 2026.42-1 | 0 | A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-acc… |
+| 2026-10-25 13:40:58 | [learnharness-bin](https://aur.archlinux.org/packages/learnharness-bin) | 0.3.7-1 | 0 | Agent harness for adaptive teaching, practice, and a knowledge graph |
 
 ## Data source
 
