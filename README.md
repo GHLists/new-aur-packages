@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 00:21 UTC
+## Latest list — 2026-10-25 01:19 UTC
 
-New packages created between 2026-10-24 23:19 UTC and 2026-10-25 00:21 UTC.
+New packages created between 2026-10-25 00:21 UTC and 2026-10-25 01:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T00-21-19-065724Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T01-19-22-822073Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 23:30:12 | [penguin-engine](https://aur.archlinux.org/packages/penguin-engine) | 0.1.0-1 | 0 | Animated desktop wallpapers for Wayland: plays Wallpaper Engine wallpapers |
-| 2026-10-25 00:06:34 | [caffeine-applet](https://aur.archlinux.org/packages/caffeine-applet) | 0.1.2-1 | 0 | COSMIC panel applet that keeps the system awake via a logind inhibitor lock |
+| 2026-10-25 00:59:34 | [goport-bin](https://aur.archlinux.org/packages/goport-bin) | 1.3.3-1 | 1 | Fast concurrent TCP/UDP port scanner in Go with Lua plugin support |
+| 2026-10-25 01:00:19 | [vk-sagittarius](https://aur.archlinux.org/packages/vk-sagittarius) | 1.0.7-1 | 0 | VK Sagittarius control center (LCD telemetry, ARGB lighting, 4-channel fan curv… |
 
 ## Data source
 
