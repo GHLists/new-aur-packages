@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 05:20 UTC
+## Latest list — 2026-10-25 06:21 UTC
 
-New packages created between 2026-10-25 04:19 UTC and 2026-10-25 05:20 UTC.
+New packages created between 2026-10-25 05:20 UTC and 2026-10-25 06:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T05-20-17-284748Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-25T06-21-35-259407Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 04:20:46 | [one-kvm-bin](https://aur.archlinux.org/packages/one-kvm-bin) | 0.2.8-1 | 0 | Open and lightweight IP-KVM solution for BIOS-level remote management (prebuilt) |
-| 2026-10-25 04:28:15 | [plasma6-runners-markdown-bookmarks-git](https://aur.archlinux.org/packages/plasma6-runners-markdown-bookmarks-git) | 0.5.1.r6.g625d5d5-1 | 0 | A Krunner plugin to open web links listed in a Markdown file |
-| 2026-10-25 04:41:18 | [strata-terminal-bin](https://aur.archlinux.org/packages/strata-terminal-bin) | 0.1.49.2-1 | 0 | Strata Terminal: run Qwen3.8-Flash-Next and DeepSeek V4.1-Flash locally with an… |
+| 2026-10-25 06:09:17 | [bbhost-desktop-bin](https://aur.archlinux.org/packages/bbhost-desktop-bin) | 0.2.19-1 | 0 | Definitive Bloodborne PC Experience |
+| 2026-10-25 06:11:04 | [ichgytw-bin](https://aur.archlinux.org/packages/ichgytw-bin) | 0.1.96-1 | 0 | A static recompilation project of the N64 game The World Is Not Enough |
 
 ## Data source
 
