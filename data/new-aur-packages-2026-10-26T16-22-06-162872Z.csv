@@ -1,0 +1,99 @@
+created_at,package,version,votes,description
+2026-10-26T15:22:25Z,ttf-commissioner-hinted,1.012-1,0,"Commissioner, a low-contrast humanist sans with Flare/Volume/Weight axes and a separate italic, re-hinted with ttfautohint for FreeType (optionally static / Nerd Fonts patched)"
+2026-10-26T15:30:10Z,legacycycles-bin,0.0.32-1,0,TRON Legacy-style light cycle game (prebuilt binary; bike model compiled in)
+2026-10-26T15:30:22Z,legacycycles-server-bin,0.0.32-1,0,"Dedicated server for Legacy Cycles (prebuilt binary, systemd service)"
+2026-10-26T15:30:31Z,sonic-accounts-integration,26.08.2-1,0,Online account management system and its SonicDE integration components
+2026-10-26T15:30:55Z,sonic-activity-manager-daemon,6.8.0-1,0,System service to manage user activities and track the usage patterns
+2026-10-26T15:31:42Z,sonic-crypto-library,2.3.12-2,0,SonicDE cryptographic library
+2026-10-26T15:31:50Z,sonic-daemon,6.31.0-1,0,Extensible daemon for providing system level services
+2026-10-26T15:32:13Z,sonic-disks,6.8.0-1,0,Monitors S.M.A.R.T. capable devices for imminent failure
+2026-10-26T15:32:30Z,sonic-drawing-tablet,6.8.0-1,0,GUI for Wacom Linux drivers that supports different button/pen layout profiles
+2026-10-26T15:32:46Z,sonic-exiv2-library,26.08.2-1,0,A library to manipulate pictures metadata
+2026-10-26T15:32:54Z,sonic-file-search-ui,6.8.0-1,0,A dedicated search application for SonicDE
+2026-10-26T15:33:02Z,sonic-firewall,6.8.0-1,0,Control Panel for your system firewall
+2026-10-26T15:33:09Z,sonic-frameworks-addons-downloader,6.31.0-1,0,Support for downloading application assets from the network
+2026-10-26T15:33:17Z,sonic-frameworks-app-info,6.31.0-1,0,Advanced plugin and service introspection
+2026-10-26T15:33:25Z,sonic-frameworks-archive,6.31.0-1,0,Qt addon providing access to numerous types of archives
+2026-10-26T15:33:42Z,sonic-frameworks-autocomplete,6.31.0-1,0,Text completion helpers and widgets
+2026-10-26T15:33:50Z,sonic-frameworks-barcode,6.31.0-1,0,A barcode API to produce QRCode barcodes and DataMatrix barcodes
+2026-10-26T15:33:58Z,sonic-frameworks-bluetooth,6.31.0-1,0,Qt wrapper for Bluez 5 DBus API
+2026-10-26T15:34:06Z,sonic-frameworks-bookmarks,6.31.0-1,0,Support for bookmarks and the XBEL format
+2026-10-26T15:34:37Z,sonic-frameworks-crash-handler,6.31.0-1,0,Support for application crash analysis and bug report from apps
+2026-10-26T15:34:46Z,sonic-frameworks-data-models,6.31.0-1,0,Models for Qt Model/View system
+2026-10-26T15:34:53Z,sonic-frameworks-data-views,6.31.0-1,0,Widget addons for Qt Model/View
+2026-10-26T15:35:01Z,sonic-frameworks-dbus,6.31.0-1,0,Addons to QtDBus
+2026-10-26T15:35:09Z,sonic-frameworks-device-integration,6.31.0-1,0,Hardware integration and detection
+2026-10-26T15:35:25Z,sonic-frameworks-feeds,6.31.0-1,0,RSS/Atom parser library
+2026-10-26T15:35:33Z,sonic-frameworks-file-metadata,6.31.0-1,0,A library for extracting file metadata
+2026-10-26T15:35:41Z,sonic-frameworks-file-search,6.31.0-1,0,A framework for searching and managing metadata
+2026-10-26T15:35:57Z,sonic-frameworks-holidays,6.31.0-1,0,SonicDE library for regional holiday information
+2026-10-26T15:36:22Z,sonic-frameworks-image-formats,6.31.0-1,0,Image format plugins for Qt 6
+2026-10-26T15:36:30Z,sonic-frameworks-internationalization,6.31.0-1,0,Advanced internationalization framework
+2026-10-26T15:37:11Z,sonic-frameworks-keyring-pam,6.8.0-1,0,SonicDE keyring PAM integration
+2026-10-26T15:37:19Z,sonic-frameworks-keyring,6.31.0-1,0,Secure and unified container for user passwords
+2026-10-26T15:37:27Z,sonic-frameworks-modemmanager,6.31.0-1,0,Qt wrapper for ModemManager DBus API
+2026-10-26T15:37:35Z,sonic-frameworks-networkmanager,6.31.0-1,0,Qt wrapper for NetworkManager API
+2026-10-26T15:37:43Z,sonic-frameworks-notification-settings,6.31.0-1,0,Configuration system for SonicDE notify
+2026-10-26T15:37:51Z,sonic-frameworks-notifications,6.31.0-1,0,Abstraction for system notifications
+2026-10-26T15:38:07Z,sonic-frameworks-package,6.31.0-1,0,Framework that lets applications manage user installable packages of non-binary assets
+2026-10-26T15:38:15Z,sonic-frameworks-progress-ui,6.31.0-1,0,Widgets for tracking KJob instances
+2026-10-26T15:38:23Z,sonic-frameworks-pseudo-terminal,6.31.0-1,0,Pty abstraction
+2026-10-26T15:38:31Z,sonic-frameworks-purpose,6.31.0-1,0,Framework for providing abstractions to get the developers purposes fulfilled
+2026-10-26T15:38:39Z,sonic-frameworks-qml-bridge,6.31.0-1,0,Provides integration of QML and SonicDE Frameworks
+2026-10-26T15:38:47Z,sonic-frameworks-qt-integration,6.31.0-1,0,Framework providing components to allow applications to integrate with a SonicDE Workspace
+2026-10-26T15:38:55Z,sonic-frameworks-quick-charts,6.31.0-1,0,A QtQuick plugin providing high-performance charts
+2026-10-26T15:39:04Z,sonic-frameworks-quick-desktop-style,6.31.0-1,0,A style for Qt Quick Controls 2 to make it follow your desktop theme
+2026-10-26T15:39:35Z,sonic-frameworks-root-shell,6.31.0-1,0,Integration with su for elevated privileges
+2026-10-26T15:39:59Z,sonic-frameworks-settings-utils,6.31.0-1,0,Utilities for interacting with the Sonic configuration system
+2026-10-26T15:40:08Z,sonic-frameworks-settings,6.31.0-1,0,Configuration system
+2026-10-26T15:40:16Z,sonic-frameworks-spell-check,6.31.0-1,0,Spelling framework for Qt
+2026-10-26T15:40:24Z,sonic-frameworks-sso,8.61.2.3-2,0,A D-Bus service which performs user authentication on behalf of its clients
+2026-10-26T15:40:32Z,sonic-frameworks-status-notification,6.31.0-1,0,Implementation of Status Notifier Items
+2026-10-26T15:40:39Z,sonic-frameworks-svg,6.31.0-1,0,Components for handling SVGs
+2026-10-26T15:40:47Z,sonic-frameworks-syntax-highlighting,6.31.0-1,0,Syntax highlighting engine for structured text and code
+2026-10-26T15:40:55Z,sonic-frameworks-text-codec,6.31.0-1,0,Provide a collection of methods to manipulate strings using various encodings
+2026-10-26T15:41:03Z,sonic-frameworks-text-editor,6.31.0-1,0,Advanced embeddable text editor
+2026-10-26T15:41:12Z,sonic-frameworks-text-widgets,6.31.0-1,0,Advanced text editing widgets
+2026-10-26T15:41:19Z,sonic-frameworks-ui-components,6.31.0-1,0,Document centric plugin system
+2026-10-26T15:41:27Z,sonic-frameworks-unit-conversion,6.31.0-1,0,Support for unit conversion
+2026-10-26T15:41:35Z,sonic-frameworks-user-feedback,6.31.0-1,0,Framework for collecting user feedback for applications via telemetry and surveys
+2026-10-26T15:41:43Z,sonic-frameworks-via,6.31.0-1,0,Desktop keyboard configurator for QMK keyboards
+2026-10-26T15:41:51Z,sonic-frameworks-widgets-addons,6.31.0-1,0,Addons to QtWidgets
+2026-10-26T15:42:07Z,sonic-frameworks-xml-gui,6.31.0-1,0,User configurable main windows
+2026-10-26T15:42:16Z,sonic-frameworks-zeroconf,6.31.0-1,0,Abstraction to system DNSSD features
+2026-10-26T15:42:24Z,sonic-gamma,6.8.0-1,0,Adjust your monitor gamma settings
+2026-10-26T15:42:40Z,devcrate,0.1.0-1,0,"A fast, cross-platform developer toolkit built on Tauri."
+2026-10-26T15:42:55Z,sonic-keyboard,6.8.1.1-1,0,Virtual keyboard for Qt-based desktops with SonicDE X11 integration
+2026-10-26T15:43:03Z,sonic-launcher-menu-edit,6.8.0-1,0,SonicDE menu editor
+2026-10-26T15:43:19Z,sonic-mobile-interface,6.8.0-1,0,SonicDE interface for mobile devices
+2026-10-26T15:43:44Z,sonic-oxygen-icons,6.31.0-1,0,SonicDE Oxygen Icon Theme
+2026-10-26T15:43:44Z,sonic-oxygen-icons-svg,6.31.0-1,0,SonicDE Oxygen Icon Theme (Scalable Vector Graphics)
+2026-10-26T15:43:52Z,sonic-oxygen-sounds,6.8.0-1,0,The Oxygen Sound Theme
+2026-10-26T15:44:00Z,sonic-oxygen,6.8.0-1,0,SonicDE Oxygen style
+2026-10-26T15:44:00Z,sonic-oxygen-cursors,6.8.0-1,0,SonicDE Oxygen cursors
+2026-10-26T15:44:09Z,sonic-partition-manager,26.08.2-1,0,"A SonicDE utility that allows you to manage disks, partitions, and file systems"
+2026-10-26T15:44:26Z,sonic-plasma5-support-library,6.8.0-1,0,Support components for porting from KF5/Qt5 to KF6/Qt6
+2026-10-26T15:44:34Z,sonic-polkit-agent,6.8.0-1,0,Daemon providing a polkit authentication UI for SonicDE
+2026-10-26T15:44:42Z,sonic-polkit,0.201.2-1,0,A library that allows developers to access PolicyKit API with a nice Qt-style API
+2026-10-26T15:44:50Z,sonic-power-management,6.8.0.1-1,0,Manages the power consumption settings of a SonicDE Shell
+2026-10-26T15:44:58Z,sonic-print-management,6.8.0-1,0,A tool for managing print jobs and printers
+2026-10-26T15:45:06Z,sonic-pulseaudio-library,1.8.1-1,0,Qt bindings for libpulse
+2026-10-26T15:45:14Z,sonic-pyside6,6.11.2.2-1,0,Enables the use of Qt6 APIs in Python applications
+2026-10-26T15:45:14Z,sonic-pyside6-tools,6.11.2.2-1,0,Tools for pyside6
+2026-10-26T15:45:14Z,sonic-shiboken6,6.11.2.2-1,0,Python/C++ bindings helper module
+2026-10-26T15:45:14Z,sonic-shiboken6-generator,6.11.2.2-1,0,Python/C++ bindings generator
+2026-10-26T15:45:22Z,sonic-qt-accounts-library,1.17.2-1,0,Qt-based client library for accessing the online accounts database
+2026-10-26T15:46:43Z,sonic-silver-sound-theme,6.8.0-1,0,Ocean Sound Theme for SonicDE
+2026-10-26T15:46:59Z,sonic-ssh-password-prompt,6.8.0-1,0,ssh-add helper that uses the Sonic keyring and kpassworddialog
+2026-10-26T15:47:14Z,sonic-system-log,26.08.2-1,0,System log viewer tool
+2026-10-26T15:47:30Z,sonic-system-monitor,6.8.0-1,0,"An interface for monitoring system sensors, process information and other system resources"
+2026-10-26T15:47:39Z,sonic-system-settings,6.8.0-1,0,"SonicDE system manager for hardware, software, and workspaces"
+2026-10-26T15:47:47Z,sonic-system-stats,6.8.0-1,0,A plugin based system monitoring daemon
+2026-10-26T15:48:13Z,sonic-theme-sdk,6.8.0-1,0,Applications useful for SonicDE development
+2026-10-26T15:48:21Z,sonic-thunderbolt,6.8.0-1,0,SonicDE integration for controlling Thunderbolt devices
+2026-10-26T15:48:28Z,sonic-tv-interface,6.8.0-1,0,SonicDE interface for TVs
+2026-10-26T15:48:36Z,sonic-vault,6.8.0-1,0,SonicDE applet and services for creating encrypted vaults
+2026-10-26T15:49:24Z,sonic-write-daemon,6.8.0-1,0,SonicDE daemon listening for wall and write messages
+2026-10-26T16:11:47Z,freehire-cli,0.26.3-1,0,CLI over the freehire job API for agents
+2026-10-26T16:15:12Z,ratslang-bin,0.5.0-1,0,Configuration language for building physical systems in Rust: CLI and language server
+2026-10-26T16:15:15Z,ratslang,0.5.0-1,0,Configuration language for building physical systems in Rust: CLI and language server
