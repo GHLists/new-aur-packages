@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-26T07:39:31Z,nouveau-utils,2.2.1-1,0,"Userspace dynamic frequency governor, CLI management tool, and interactive TUI for Nouveau"
+2026-10-26T07:40:24Z,otk-bin,1:0.1.0beta1-1,0,"Open Terminal Kit, a browser UI for coding-agent backends (release binary)"
+2026-10-26T07:48:47Z,otk,1:0.1.0beta1-1,0,"Open Terminal Kit, a browser UI for coding-agent backends"
