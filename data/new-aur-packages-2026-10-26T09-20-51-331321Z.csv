@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-26T08:46:26Z,evebuddy-git,0.77.0.r137.g49bde8…,0,Multi-platform companion app for EVE Online (development version)
+2026-10-26T08:46:56Z,eve-wrench-git,0.6.0.r0.g2de3d80-1,0,"EVE Online settings manager - backup, restore, and sync settings (development version)"
+2026-10-26T08:47:03Z,teamcity-cli-git,1.6.0.r1.g4ef45b2-1,0,Command-line interface for JetBrains TeamCity (git version)
+2026-10-26T09:02:54Z,ngx-fsr4,0.1.0-1,0,EXPERIMENTAL: stand-in for NVIDIA's NGX runtime that answers DLSS Super Resolution with AMD FSR 4 (Proton)
+2026-10-26T09:11:41Z,scottbass3-greeter-git,r1.68d683d-1,0,"greetd greeter for Hyprland built on Quickshell, with the scottbass3-shell lock screen look"
