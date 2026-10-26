@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-26T01:35:48Z,mygo-cloudmusic-bin,0.1.12-2,0,MyGo 云音乐 - 第三方网易云音乐原生客户端
+2026-10-26T01:53:41Z,saxby-bin,0.9.5-1,0,Local-first LLM routing daemon
+2026-10-26T02:16:50Z,anibeam,2.2.0-1,0,"Browse, play and track a local anime library (Qt 6 and libmpv)"
