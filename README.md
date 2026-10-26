@@ -12,16 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 23:21 UTC
+## Latest list — 2026-10-26 00:20 UTC
 
-New packages created between 2026-10-25 22:19 UTC and 2026-10-25 23:21 UTC.
+New packages created between 2026-10-25 23:21 UTC and 2026-10-26 00:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-25T23-21-40-69241Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-26T00-20-36-981083Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 22:47:46 | [slskd](https://aur.archlinux.org/packages/slskd) | 0.26.2-1 | 0 | A modern client-server application for the Soulseek file sharing network |
-| 2026-10-25 23:17:03 | [lenovo-fanboost](https://aur.archlinux.org/packages/lenovo-fanboost) | 0.1.0-1 | 0 | Fan control and boost daemon for Lenovo laptops (DKMS) |
+| 2026-10-25 23:23:13 | [cutecosmic](https://aur.archlinux.org/packages/cutecosmic) | 0.2.0-1 | 0 | Qt platform theme for the COSMIC desktop environment |
+| 2026-10-25 23:32:42 | [rhythmbox-folder-shuffle](https://aur.archlinux.org/packages/rhythmbox-folder-shuffle) | 1.0.0-1 | 0 | Continuous folder shuffle plugin for Rhythmbox |
+| 2026-10-25 23:39:47 | [mise-browser-bin](https://aur.archlinux.org/packages/mise-browser-bin) | 1.3.0-1 | 0 | Minimalist, privacy-focused, keyboard-centric web browser engineered for Linux |
+| 2026-10-25 23:50:08 | [bitwig-agent](https://aur.archlinux.org/packages/bitwig-agent) | 0.1.1-1 | 0 | Thin MCP/CLI bridge and controller extension for Bitwig Studio |
+| 2026-10-25 23:55:20 | [qtermwidget5](https://aur.archlinux.org/packages/qtermwidget5) | 1.4.0-1 | 0 | A terminal widget for Qt 5, legacy dependency |
+| 2026-10-26 00:06:21 | [rhythmbox-now-playing-sidebar](https://aur.archlinux.org/packages/rhythmbox-now-playing-sidebar) | 1.0.0-1 | 0 | Adds a Now Playing box to Rhythmbox's left sidebar |
+| 2026-10-26 00:07:14 | [ttf-kibernetyk-mono](https://aur.archlinux.org/packages/ttf-kibernetyk-mono) | 1.0.1-1 | 0 | Geometric monospace typeface inspired by the Ukrainian Cybernetics School, with… |
 
 ## Data source
 
