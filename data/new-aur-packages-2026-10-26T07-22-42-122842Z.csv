@@ -1,0 +1,14 @@
+created_at,package,version,votes,description
+2026-10-26T06:27:39Z,lyr-bin,0.1.0-1,0,"A desktop status bar for Wayland, Windows and macOS (binary release)"
+2026-10-26T06:39:24Z,aceround-apply-bin,0.3.3-1,0,"AceRound Auto Apply — AI job applications on company career sites, in your own browser, with every step visible"
+2026-10-26T06:49:33Z,asc-amct-bin,9.2.0-1,0,Huawei Ascend Model Compression Toolkit: amct_acl plus Caffe/ONNX/PyTorch/TensorFlow plugins
+2026-10-26T06:49:41Z,asc-bisheng-bin,9.2.0-1,0,"Huawei Bisheng C/C++ compiler for Ascend (ccec_compiler, LLVM based)"
+2026-10-26T06:49:49Z,asc-devkit-bin,9.2.0-1,0,"Huawei Ascend CANN Ascend C devkit (compiler headers, tikcpp, Ascend C libs)"
+2026-10-26T06:49:56Z,asc-devkit-git,9.2.0.r3250.343a6e8…,0,"Huawei Ascend CANN Ascend C devkit (compiler headers, tikcpp, Ascend C libs) - source build"
+2026-10-26T06:50:04Z,asc-nnal-bin,9.2.0-1,0,Huawei Ascend CANN NNAL: ATB (Ascend Transformer Boost) and ASDSIP
+2026-10-26T06:50:12Z,asc-runtime-bin,9.2.0-1,0,"Huawei Ascend CANN NPU runtime (ACL, GE client, HCCL, mmpa)"
+2026-10-26T06:50:19Z,asc-runtime-git,9.2.0.r3025.0d259c5…,0,"Huawei Ascend CANN NPU runtime (ACL, GE client, HCCL, mmpa) - source build"
+2026-10-26T06:50:27Z,asc-toolkit-bin,9.2.0-1,0,"Huawei Ascend CANN Toolkit: GE, metadef, tbe-tik, AOE, pyACL, profiler, simulator and MindStudio tools"
+2026-10-26T06:50:35Z,asc-tools-bin,9.2.0-1,0,"Huawei Ascend CANN developer tools (cpudebug, msobjdump, operator_cmp, show_kernel_debug_data)"
+2026-10-26T06:50:42Z,asc-tools-git,9.2.0.r282.2575ba72…,0,"Huawei Ascend CANN developer tools (cpudebug, npuchk, msobjdump) - source build"
+2026-10-26T07:05:39Z,muster-agent-bin,0.3.13-1,0,"Agentic development environment (ADE) for Codex, Claude Code, OpenCode and local models"

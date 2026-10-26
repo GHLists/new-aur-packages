@@ -12,19 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 06:20 UTC
+## Latest list — 2026-10-26 07:22 UTC
 
-New packages created between 2026-10-26 05:18 UTC and 2026-10-26 06:20 UTC.
+New packages created between 2026-10-26 06:20 UTC and 2026-10-26 07:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-26T06-20-00-182776Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-26T07-22-42-122842Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 05:22:15 | [polylauncher-bin](https://aur.archlinux.org/packages/polylauncher-bin) | 0.2.1-2 | 0 | PolyTrack Launcher For Multiple Versions Of The Game |
-| 2026-10-26 05:25:51 | [eternal-timer](https://aur.archlinux.org/packages/eternal-timer) | 3.0.0-1 | 0 | Timers and stopwatches that survive shutdowns and power cuts |
-| 2026-10-26 05:28:26 | [saber-note-bin](https://aur.archlinux.org/packages/saber-note-bin) | 1.37.0-2 | 0 | The cross-platform open-source notes app built for handwriting |
-| 2026-10-26 05:40:12 | [directory-navigator-bin](https://aur.archlinux.org/packages/directory-navigator-bin) | 1.0.8-1 | 1 | A modern terminal file manager built in Rust with Turbo Vision, inspired by DOS… |
-| 2026-10-26 06:03:55 | [bloodborne-lantern-engine-linux-bin](https://aur.archlinux.org/packages/bloodborne-lantern-engine-linux-bin) | 0.9.37-1 | 0 | Bloodborne PC port (Lantern Engine Linux, needs your own game dump) |
+| 2026-10-26 06:27:39 | [lyr-bin](https://aur.archlinux.org/packages/lyr-bin) | 0.1.0-1 | 0 | A desktop status bar for Wayland, Windows and macOS (binary release) |
+| 2026-10-26 06:39:24 | [aceround-apply-bin](https://aur.archlinux.org/packages/aceround-apply-bin) | 0.3.3-1 | 0 | AceRound Auto Apply — AI job applications on company career sites, in your own… |
+| 2026-10-26 06:49:33 | [asc-amct-bin](https://aur.archlinux.org/packages/asc-amct-bin) | 9.2.0-1 | 0 | Huawei Ascend Model Compression Toolkit: amct_acl plus Caffe/ONNX/PyTorch/Tenso… |
+| 2026-10-26 06:49:41 | [asc-bisheng-bin](https://aur.archlinux.org/packages/asc-bisheng-bin) | 9.2.0-1 | 0 | Huawei Bisheng C/C++ compiler for Ascend (ccec_compiler, LLVM based) |
+| 2026-10-26 06:49:49 | [asc-devkit-bin](https://aur.archlinux.org/packages/asc-devkit-bin) | 9.2.0-1 | 0 | Huawei Ascend CANN Ascend C devkit (compiler headers, tikcpp, Ascend C libs) |
+| 2026-10-26 06:49:56 | [asc-devkit-git](https://aur.archlinux.org/packages/asc-devkit-git) | 9.2.0.r3250.343a6e8… | 0 | Huawei Ascend CANN Ascend C devkit (compiler headers, tikcpp, Ascend C libs) -… |
+| 2026-10-26 06:50:04 | [asc-nnal-bin](https://aur.archlinux.org/packages/asc-nnal-bin) | 9.2.0-1 | 0 | Huawei Ascend CANN NNAL: ATB (Ascend Transformer Boost) and ASDSIP |
+| 2026-10-26 06:50:12 | [asc-runtime-bin](https://aur.archlinux.org/packages/asc-runtime-bin) | 9.2.0-1 | 0 | Huawei Ascend CANN NPU runtime (ACL, GE client, HCCL, mmpa) |
+| 2026-10-26 06:50:19 | [asc-runtime-git](https://aur.archlinux.org/packages/asc-runtime-git) | 9.2.0.r3025.0d259c5… | 0 | Huawei Ascend CANN NPU runtime (ACL, GE client, HCCL, mmpa) - source build |
+| 2026-10-26 06:50:27 | [asc-toolkit-bin](https://aur.archlinux.org/packages/asc-toolkit-bin) | 9.2.0-1 | 0 | Huawei Ascend CANN Toolkit: GE, metadef, tbe-tik, AOE, pyACL, profiler, simulat… |
+| 2026-10-26 06:50:35 | [asc-tools-bin](https://aur.archlinux.org/packages/asc-tools-bin) | 9.2.0-1 | 0 | Huawei Ascend CANN developer tools (cpudebug, msobjdump, operator_cmp, show_ker… |
+| 2026-10-26 06:50:42 | [asc-tools-git](https://aur.archlinux.org/packages/asc-tools-git) | 9.2.0.r282.2575ba72… | 0 | Huawei Ascend CANN developer tools (cpudebug, npuchk, msobjdump) - source build |
+| 2026-10-26 07:05:39 | [muster-agent-bin](https://aur.archlinux.org/packages/muster-agent-bin) | 0.3.13-1 | 0 | Agentic development environment (ADE) for Codex, Claude Code, OpenCode and loca… |
 
 ## Data source
 
