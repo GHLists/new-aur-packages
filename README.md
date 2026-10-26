@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 04:21 UTC
+## Latest list — 2026-10-26 05:18 UTC
 
-New packages created between 2026-10-26 03:20 UTC and 2026-10-26 04:21 UTC.
+New packages created between 2026-10-26 04:21 UTC and 2026-10-26 05:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-26T04-21-11-969654Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-26T05-18-56-303549Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 03:41:42 | [lenovo-fanboost-gui](https://aur.archlinux.org/packages/lenovo-fanboost-gui) | 0.1.1-1 | 0 | Native Qt6 companion GUI for lenovo-fanboost |
+| 2026-10-26 04:41:47 | [polylauncher-git](https://aur.archlinux.org/packages/polylauncher-git) | 0.2.1-2 | 0 | PolyTrack Launcher |
 
 ## Data source
 
