@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 19:21 UTC
+## Latest list — 2026-10-26 20:19 UTC
 
-New packages created between 2026-10-26 18:21 UTC and 2026-10-26 19:21 UTC.
+New packages created between 2026-10-26 19:21 UTC and 2026-10-26 20:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-26T19-21-46-236524Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-26T20-19-30-227433Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 18:27:42 | [superlight](https://aur.archlinux.org/packages/superlight) | 1.0.2-1 | 0 | System Monitor for Linux Desktops |
-| 2026-10-26 19:07:17 | [nvrm-vaapi-driver](https://aur.archlinux.org/packages/nvrm-vaapi-driver) | 0.1.0-2 | 0 | VA-API driver for NVIDIA GPUs (NVDEC/NVENC via open kernel module ioctls, no CU… |
+| 2026-10-26 19:42:49 | [tracentp-git](https://aur.archlinux.org/packages/tracentp-git) | 1.1.0.r0.53c4ab7-1 | 0 | Network Time Protocol (NTP) tracer |
 
 ## Data source
 
