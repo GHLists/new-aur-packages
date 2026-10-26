@@ -12,21 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 17:22 UTC
+## Latest list — 2026-10-26 18:21 UTC
 
-New packages created between 2026-10-26 16:22 UTC and 2026-10-26 17:22 UTC.
+New packages created between 2026-10-26 17:22 UTC and 2026-10-26 18:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-26T17-22-22-058175Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-26T18-21-08-725282Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 16:25:03 | [phrased-bin](https://aur.archlinux.org/packages/phrased-bin) | 0.3.0-1 | 0 | Types phrases from the Phrasedeck iPhone app into the focused window (Wayland) |
-| 2026-10-26 16:58:46 | [python-cashews](https://aur.archlinux.org/packages/python-cashews) | 7.6.0-1 | 0 | Cache tools with async power |
-| 2026-10-26 16:59:25 | [python-fastapi-pagination](https://aur.archlinux.org/packages/python-fastapi-pagination) | 0.16.1-1 | 0 | Pagination support for FastAPI |
-| 2026-10-26 16:59:55 | [python-sqlakeyset](https://aur.archlinux.org/packages/python-sqlakeyset) | 2.0.1787969905-1 | 0 | Offset-free paging for SQLAlchemy |
-| 2026-10-26 17:03:25 | [python-turbopuffer](https://aur.archlinux.org/packages/python-turbopuffer) | 3.0.0-1 | 0 | Python client for the Turbopuffer vector database |
-| 2026-10-26 17:11:16 | [philosophic-moon-bin](https://aur.archlinux.org/packages/philosophic-moon-bin) | 0.3.5-1 | 0 | A shared moon in your terminal: chat, stargazing, a communal plant and a graffi… |
-| 2026-10-26 17:14:49 | [honcho](https://aur.archlinux.org/packages/honcho) | 3.4.1-1 | 0 | Open-source memory server for AI agents (FastAPI API + background deriver worke… |
+| 2026-10-26 17:26:20 | [jotmail](https://aur.archlinux.org/packages/jotmail) | 0.1.1-1 | 0 | Notes from your IMAP mailbox (Apple Notes, Fastmail) in a terminal, with images… |
+| 2026-10-26 17:26:29 | [jotdo](https://aur.archlinux.org/packages/jotdo) | 0.1.1-1 | 0 | Reminders from your CalDAV server (Nextcloud, Apple Reminders lists) in a termi… |
+| 2026-10-26 18:04:15 | [hp-charge-limit-rs](https://aur.archlinux.org/packages/hp-charge-limit-rs) | 0.3.0-1 | 0 | Battery charge limiter for HP laptops via ACPI WMI |
+| 2026-10-26 18:04:28 | [hp-charge-limit-rs-bin](https://aur.archlinux.org/packages/hp-charge-limit-rs-bin) | 0.3.0-1 | 0 | Battery charge limiter for HP laptops via ACPI WMI |
 
 ## Data source
 

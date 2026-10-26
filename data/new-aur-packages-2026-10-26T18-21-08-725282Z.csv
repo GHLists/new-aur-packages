@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-26T17:26:20Z,jotmail,0.1.1-1,0,"Notes from your IMAP mailbox (Apple Notes, Fastmail) in a terminal, with images in kitty and Ghostty"
+2026-10-26T17:26:29Z,jotdo,0.1.1-1,0,"Reminders from your CalDAV server (Nextcloud, Apple Reminders lists) in a terminal"
+2026-10-26T18:04:15Z,hp-charge-limit-rs,0.3.0-1,0,Battery charge limiter for HP laptops via ACPI WMI
+2026-10-26T18:04:28Z,hp-charge-limit-rs-bin,0.3.0-1,0,Battery charge limiter for HP laptops via ACPI WMI
