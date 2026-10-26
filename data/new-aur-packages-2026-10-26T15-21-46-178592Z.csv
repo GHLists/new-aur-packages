@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-26T14:25:46Z,mygo-cloudmusic,0.1.13-2,0,MyGo 云音乐 - 第三方网易云音乐原生客户端
+2026-10-26T14:51:35Z,yay-reviewer,0.2.0-1,0,"yay, but Claude reviews every AUR package's build files (PKGBUILD, install scripts, hooks) before they're built"
+2026-10-26T14:53:27Z,ttf-geologica-hinted,1.010-2,0,"Geologica, a humanist-geometric sans with Sharp/Cursive/Slant/Weight axes, re-hinted with ttfautohint for FreeType (optionally static / Nerd Fonts patched)"
+2026-10-26T14:58:33Z,binwalk2,2.4.3-10,0,Tool for searching a given binary image for embedded files
+2026-10-26T15:09:10Z,daftar-bin,0.2.0-1,0,A native GTK app and a command line for an Obsidian vault in a Git repository
+2026-10-26T15:09:21Z,daftar-cli-bin,0.2.0-1,0,"The command line and TUI of Daftar, for an Obsidian vault in a Git repository"
+2026-10-26T15:13:11Z,create-awesome-rust-app,0.4.2-1,0,Rust-native scaffolding CLI for the Rust programming language (source build)
+2026-10-26T15:14:25Z,create-awesome-rust-app-bin,0.4.2-1,0,Rust-native scaffolding CLI for the Rust programming language (prebuilt binary)
