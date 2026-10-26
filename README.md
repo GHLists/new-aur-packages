@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 22:20 UTC
+## Latest list — 2026-10-26 23:19 UTC
 
-New packages created between 2026-10-26 21:19 UTC and 2026-10-26 22:20 UTC.
+New packages created between 2026-10-26 22:20 UTC and 2026-10-26 23:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-26T22-20-29-643017Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-26T23-19-59-192886Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 21:30:41 | [libresplit-bin](https://aur.archlinux.org/packages/libresplit-bin) | 0.3.0-1 | 0 | Free speedrun timer with auto splitting and load removal (prebuilt binary) |
-| 2026-10-26 21:31:46 | [libresplit](https://aur.archlinux.org/packages/libresplit) | 0.3.0-1 | 0 | Free speedrun timer with auto splitting and load removal. |
-| 2026-10-26 21:38:16 | [sonora-nightly-bin](https://aur.archlinux.org/packages/sonora-nightly-bin) | 0.44.2.nightly.2026… | 0 | A native music streaming client, built with Rust and GPUI (nightly build of mai… |
-| 2026-10-26 21:48:20 | [quadrahq-git](https://aur.archlinux.org/packages/quadrahq-git) | 0.37.3.r1.gf4fb4b9-1 | 0 | Run the macOS Roblox client on Linux through Darling |
+| 2026-10-26 22:22:19 | [brygge](https://aur.archlinux.org/packages/brygge) | 0.0.0-1 | 0 | A placeholder package for brygge |
+| 2026-10-26 22:22:45 | [brygge-bin](https://aur.archlinux.org/packages/brygge-bin) | 0.0.0-1 | 0 | A placeholder package for brygge-bin |
+| 2026-10-26 22:37:44 | [heroic-games-launcher-bun](https://aur.archlinux.org/packages/heroic-games-launcher-bun) | 2.22.4-1 | 0 | Native GOG, Epic Games and Amazon games launcher for Linux (built with Bun) |
+| 2026-10-26 23:04:58 | [stikk](https://aur.archlinux.org/packages/stikk) | 0.0.0-1 | 0 | A placeholder package for stikk |
+| 2026-10-26 23:05:40 | [stikk-bin](https://aur.archlinux.org/packages/stikk-bin) | 0.0.0-1 | 0 | A placeholder package for stikk-bin |
+| 2026-10-26 23:06:11 | [xara](https://aur.archlinux.org/packages/xara) | 0.1.1-1 | 0 | A VARA-compatible HF/FM sound modem for Linux with a web UI |
 
 ## Data source
 
