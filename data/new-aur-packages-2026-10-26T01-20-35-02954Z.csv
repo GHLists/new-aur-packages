@@ -1,0 +1,17 @@
+created_at,package,version,votes,description
+2026-10-26T00:21:33Z,linkman,0.2.0-1,0,"A fast, beautiful TUI + CLI for creating and managing symlinks"
+2026-10-26T00:21:46Z,linkman-bin,0.2.0-1,0,"A fast, beautiful TUI + CLI for creating and managing symlinks"
+2026-10-26T00:32:15Z,meoui-qml,1.0.4beta3-5,0,MeoUI Qt Quick Material Design 3 component library
+2026-10-26T00:32:30Z,meo-plasma-login-manager,6.8.1-2,0,Meo Login display manager for MeoArch
+2026-10-26T00:37:41Z,python-ldap3-ad-auth,0.1.1-1,0,ldap3 adapter for NTLM/Kerberos signing and channel binding
+2026-10-26T00:45:37Z,python-bloodhound-ce,1.9.1-1,0,Python based ingestor for BloodHound
+2026-10-26T00:49:51Z,pi-acp,0.0.34-1,0,ACP adapter for the pi coding agent
+2026-10-26T00:51:10Z,meo-icons,0.4.0-5,0,Meo Symbols Material Design 3 icon theme
+2026-10-26T00:51:23Z,meo-icon-studio,0.1.0-2,0,MeoArch per-application icon renderer and reviewed identity source sheet
+2026-10-26T00:51:35Z,meo-kde-runtime,0.4.0beta3-8,0,Minimal Meo KDE runtime bridge for Meo applications
+2026-10-26T00:51:48Z,meo-desktop,0.4.0-23,0,"Meo Desktop integration for MeoArch, powered by KDE Plasma"
+2026-10-26T00:52:00Z,meo-settings,0.2.0beta5-5,0,Meo Settings application for MeoArch
+2026-10-26T00:52:13Z,meo-repair,0.1.0-2,0,Meo Repair diagnostics and consent-gated system repair for MeoArch
+2026-10-26T00:52:26Z,omnistore-bin,0.1.5beta1-1,0,OmniStore software manager for MeoArch
+2026-10-26T00:52:39Z,meo-account-bin,0.1.0-11,0,Meo Account broker and authentication dialog for MeoArch (prebuilt)
+2026-10-26T01:13:47Z,jdk-temurin-ea-bin,28+21-1,0,"Temurin 28 early access build, OpenJDK binaries by Adoptium"

@@ -12,21 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 00:20 UTC
+## Latest list — 2026-10-26 01:20 UTC
 
-New packages created between 2026-10-25 23:21 UTC and 2026-10-26 00:20 UTC.
+New packages created between 2026-10-26 00:20 UTC and 2026-10-26 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-26T00-20-36-981083Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-26T01-20-35-02954Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 23:23:13 | [cutecosmic](https://aur.archlinux.org/packages/cutecosmic) | 0.2.0-1 | 0 | Qt platform theme for the COSMIC desktop environment |
-| 2026-10-25 23:32:42 | [rhythmbox-folder-shuffle](https://aur.archlinux.org/packages/rhythmbox-folder-shuffle) | 1.0.0-1 | 0 | Continuous folder shuffle plugin for Rhythmbox |
-| 2026-10-25 23:39:47 | [mise-browser-bin](https://aur.archlinux.org/packages/mise-browser-bin) | 1.3.0-1 | 0 | Minimalist, privacy-focused, keyboard-centric web browser engineered for Linux |
-| 2026-10-25 23:50:08 | [bitwig-agent](https://aur.archlinux.org/packages/bitwig-agent) | 0.1.1-1 | 0 | Thin MCP/CLI bridge and controller extension for Bitwig Studio |
-| 2026-10-25 23:55:20 | [qtermwidget5](https://aur.archlinux.org/packages/qtermwidget5) | 1.4.0-1 | 0 | A terminal widget for Qt 5, legacy dependency |
-| 2026-10-26 00:06:21 | [rhythmbox-now-playing-sidebar](https://aur.archlinux.org/packages/rhythmbox-now-playing-sidebar) | 1.0.0-1 | 0 | Adds a Now Playing box to Rhythmbox's left sidebar |
-| 2026-10-26 00:07:14 | [ttf-kibernetyk-mono](https://aur.archlinux.org/packages/ttf-kibernetyk-mono) | 1.0.1-1 | 0 | Geometric monospace typeface inspired by the Ukrainian Cybernetics School, with… |
+| 2026-10-26 00:21:33 | [linkman](https://aur.archlinux.org/packages/linkman) | 0.2.0-1 | 0 | A fast, beautiful TUI + CLI for creating and managing symlinks |
+| 2026-10-26 00:21:46 | [linkman-bin](https://aur.archlinux.org/packages/linkman-bin) | 0.2.0-1 | 0 | A fast, beautiful TUI + CLI for creating and managing symlinks |
+| 2026-10-26 00:32:15 | [meoui-qml](https://aur.archlinux.org/packages/meoui-qml) | 1.0.4beta3-5 | 0 | MeoUI Qt Quick Material Design 3 component library |
+| 2026-10-26 00:32:30 | [meo-plasma-login-manager](https://aur.archlinux.org/packages/meo-plasma-login-manager) | 6.8.1-2 | 0 | Meo Login display manager for MeoArch |
+| 2026-10-26 00:37:41 | [python-ldap3-ad-auth](https://aur.archlinux.org/packages/python-ldap3-ad-auth) | 0.1.1-1 | 0 | ldap3 adapter for NTLM/Kerberos signing and channel binding |
+| 2026-10-26 00:45:37 | [python-bloodhound-ce](https://aur.archlinux.org/packages/python-bloodhound-ce) | 1.9.1-1 | 0 | Python based ingestor for BloodHound |
+| 2026-10-26 00:49:51 | [pi-acp](https://aur.archlinux.org/packages/pi-acp) | 0.0.34-1 | 0 | ACP adapter for the pi coding agent |
+| 2026-10-26 00:51:10 | [meo-icons](https://aur.archlinux.org/packages/meo-icons) | 0.4.0-5 | 0 | Meo Symbols Material Design 3 icon theme |
+| 2026-10-26 00:51:23 | [meo-icon-studio](https://aur.archlinux.org/packages/meo-icon-studio) | 0.1.0-2 | 0 | MeoArch per-application icon renderer and reviewed identity source sheet |
+| 2026-10-26 00:51:35 | [meo-kde-runtime](https://aur.archlinux.org/packages/meo-kde-runtime) | 0.4.0beta3-8 | 0 | Minimal Meo KDE runtime bridge for Meo applications |
+| 2026-10-26 00:51:48 | [meo-desktop](https://aur.archlinux.org/packages/meo-desktop) | 0.4.0-23 | 0 | Meo Desktop integration for MeoArch, powered by KDE Plasma |
+| 2026-10-26 00:52:00 | [meo-settings](https://aur.archlinux.org/packages/meo-settings) | 0.2.0beta5-5 | 0 | Meo Settings application for MeoArch |
+| 2026-10-26 00:52:13 | [meo-repair](https://aur.archlinux.org/packages/meo-repair) | 0.1.0-2 | 0 | Meo Repair diagnostics and consent-gated system repair for MeoArch |
+| 2026-10-26 00:52:26 | [omnistore-bin](https://aur.archlinux.org/packages/omnistore-bin) | 0.1.5beta1-1 | 0 | OmniStore software manager for MeoArch |
+| 2026-10-26 00:52:39 | [meo-account-bin](https://aur.archlinux.org/packages/meo-account-bin) | 0.1.0-11 | 0 | Meo Account broker and authentication dialog for MeoArch (prebuilt) |
+| 2026-10-26 01:13:47 | [jdk-temurin-ea-bin](https://aur.archlinux.org/packages/jdk-temurin-ea-bin) | 28+21-1 | 0 | Temurin 28 early access build, OpenJDK binaries by Adoptium |
 
 ## Data source
 
