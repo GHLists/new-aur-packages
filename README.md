@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 21:19 UTC
+## Latest list — 2026-10-26 22:20 UTC
 
-New packages created between 2026-10-26 20:19 UTC and 2026-10-26 21:19 UTC.
+New packages created between 2026-10-26 21:19 UTC and 2026-10-26 22:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-26T21-19-23-898767Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-26T22-20-29-643017Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 20:27:41 | [velocitty](https://aur.archlinux.org/packages/velocitty) | 1.0.4-1 | 0 | Terminal for Linux desktops |
-| 2026-10-26 20:29:45 | [efisc2026-bin](https://aur.archlinux.org/packages/efisc2026-bin) | 1.0.0.76-1 | 0 | Steuererklärungssoftware des Kantons Thurgau für das Steuerjahr 2025 (eFisc2026) |
-| 2026-10-26 20:52:20 | [pandacode](https://aur.archlinux.org/packages/pandacode) | 0.3.56-2 | 0 | Lightweight coding agent workspace |
+| 2026-10-26 21:30:41 | [libresplit-bin](https://aur.archlinux.org/packages/libresplit-bin) | 0.3.0-1 | 0 | Free speedrun timer with auto splitting and load removal (prebuilt binary) |
+| 2026-10-26 21:31:46 | [libresplit](https://aur.archlinux.org/packages/libresplit) | 0.3.0-1 | 0 | Free speedrun timer with auto splitting and load removal. |
+| 2026-10-26 21:38:16 | [sonora-nightly-bin](https://aur.archlinux.org/packages/sonora-nightly-bin) | 0.44.2.nightly.2026… | 0 | A native music streaming client, built with Rust and GPUI (nightly build of mai… |
+| 2026-10-26 21:48:20 | [quadrahq-git](https://aur.archlinux.org/packages/quadrahq-git) | 0.37.3.r1.gf4fb4b9-1 | 0 | Run the macOS Roblox client on Linux through Darling |
 
 ## Data source
 
