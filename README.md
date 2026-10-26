@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 11:18 UTC
+## Latest list — 2026-10-26 12:18 UTC
 
-New packages created between 2026-10-26 10:19 UTC and 2026-10-26 11:18 UTC.
+New packages created between 2026-10-26 11:18 UTC and 2026-10-26 12:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-26T11-18-46-59338Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-26T12-18-48-073521Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 10:41:17 | [blender-4.5-lts-bin](https://aur.archlinux.org/packages/blender-4.5-lts-bin) | 4.5.15-1 | 0 | A fully integrated 3D graphics creation suite (official 4.5 LTS precompiled bin… |
+| 2026-10-26 11:27:53 | [fgj-bin](https://aur.archlinux.org/packages/fgj-bin) | 0.6.0-1 | 0 | A command-line tool for working with Forgejo instances (including Codeberg.org)… |
+| 2026-10-26 12:10:49 | [chest-backup-bin](https://aur.archlinux.org/packages/chest-backup-bin) | 1.0.0-1 | 0 | Full-stack backup manager with web UI and scheduling (precompiled) |
+| 2026-10-26 12:13:23 | [velocity](https://aur.archlinux.org/packages/velocity) | 2.1-2 | 0 | Free open-source templating engine |
 
 ## Data source
 

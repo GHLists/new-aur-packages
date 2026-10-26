@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-26T11:27:53Z,fgj-bin,0.6.0-1,0,A command-line tool for working with Forgejo instances (including Codeberg.org) (prebuilt binary)
+2026-10-26T12:10:49Z,chest-backup-bin,1.0.0-1,0,Full-stack backup manager with web UI and scheduling (precompiled)
+2026-10-26T12:13:23Z,velocity,2.1-2,0,Free open-source templating engine
