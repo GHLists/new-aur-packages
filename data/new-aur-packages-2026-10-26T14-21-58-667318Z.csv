@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-26T13:26:13Z,mon-1stplayer-bin,0.1.2-1,0,Linux hardware monitor daemon for the 1STPLAYER USB display
+2026-10-26T13:26:13Z,mon-1stplayer,0.1.2-1,0,Linux hardware monitor daemon for the 1STPLAYER USB display
+2026-10-26T13:33:38Z,blender-3.6-lts-bin,3.6.23-1,0,A fully integrated 3D graphics creation suite (official 3.6 LTS precompiled binary release)
+2026-10-26T13:55:26Z,floral-notepaper-app,1.2.0-1,0,"花笺 — A lightweight, elegant cross-platform desktop sticky note app with Markdown support (Tauri/Rust)"
+2026-10-26T14:16:03Z,ezoo-download-git,1.0.6-1,1,Multi-threaded download manager written in Rust and Slint (Linux port)
