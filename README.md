@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 18:21 UTC
+## Latest list — 2026-10-26 19:21 UTC
 
-New packages created between 2026-10-26 17:22 UTC and 2026-10-26 18:21 UTC.
+New packages created between 2026-10-26 18:21 UTC and 2026-10-26 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-26T18-21-08-725282Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-26T19-21-46-236524Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 17:26:20 | [jotmail](https://aur.archlinux.org/packages/jotmail) | 0.1.1-1 | 0 | Notes from your IMAP mailbox (Apple Notes, Fastmail) in a terminal, with images… |
-| 2026-10-26 17:26:29 | [jotdo](https://aur.archlinux.org/packages/jotdo) | 0.1.1-1 | 0 | Reminders from your CalDAV server (Nextcloud, Apple Reminders lists) in a termi… |
-| 2026-10-26 18:04:15 | [hp-charge-limit-rs](https://aur.archlinux.org/packages/hp-charge-limit-rs) | 0.3.0-1 | 0 | Battery charge limiter for HP laptops via ACPI WMI |
-| 2026-10-26 18:04:28 | [hp-charge-limit-rs-bin](https://aur.archlinux.org/packages/hp-charge-limit-rs-bin) | 0.3.0-1 | 0 | Battery charge limiter for HP laptops via ACPI WMI |
+| 2026-10-26 18:27:42 | [superlight](https://aur.archlinux.org/packages/superlight) | 1.0.2-1 | 0 | System Monitor for Linux Desktops |
+| 2026-10-26 19:07:17 | [nvrm-vaapi-driver](https://aur.archlinux.org/packages/nvrm-vaapi-driver) | 0.1.0-2 | 0 | VA-API driver for NVIDIA GPUs (NVDEC/NVENC via open kernel module ioctls, no CU… |
 
 ## Data source
 

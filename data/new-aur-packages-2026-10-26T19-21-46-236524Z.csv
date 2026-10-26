@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-26T18:27:42Z,superlight,1.0.2-1,0,System Monitor for Linux Desktops
+2026-10-26T19:07:17Z,nvrm-vaapi-driver,0.1.0-2,0,"VA-API driver for NVIDIA GPUs (NVDEC/NVENC via open kernel module ioctls, no CUDA)"
