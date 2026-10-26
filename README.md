@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 10:19 UTC
+## Latest list — 2026-10-26 11:18 UTC
 
-New packages created between 2026-10-26 09:20 UTC and 2026-10-26 10:19 UTC.
+New packages created between 2026-10-26 10:19 UTC and 2026-10-26 11:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-26T10-19-32-076869Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-26T11-18-46-59338Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 09:21:27 | [thinkwatch-core-bin](https://aur.archlinux.org/packages/thinkwatch-core-bin) | 0.83.2-1 | 0 | Gateway engine for Claude Code, Codex and other AI clients (server build of twc… |
-| 2026-10-26 09:35:34 | [lawh-bin](https://aur.archlinux.org/packages/lawh-bin) | 0.1.0-1 | 0 | Keyboard-driven whiteboard for people who think in Vim (prebuilt binary) |
-| 2026-10-26 10:13:16 | [fragmemo-git](https://aur.archlinux.org/packages/fragmemo-git) | 2.1.0.r2.g055da33-1 | 0 | Code snippets manager for developers |
+| 2026-10-26 10:41:17 | [blender-4.5-lts-bin](https://aur.archlinux.org/packages/blender-4.5-lts-bin) | 4.5.15-1 | 0 | A fully integrated 3D graphics creation suite (official 4.5 LTS precompiled bin… |
 
 ## Data source
 
