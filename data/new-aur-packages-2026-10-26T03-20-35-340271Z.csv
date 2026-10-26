@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-26T02:31:15Z,electron46-bin,46.0.0alpha.1-1,0,Build cross platform desktop apps with web technologies — prebuilt
+2026-10-26T02:34:48Z,loaf-fm,0.2.0-1,0,Material 3 Expressive File Manager built with Qt6 Quick and Rust
+2026-10-26T02:38:22Z,mrstreamer-nightly-bin,0.0.20_nightly.2026…,1,"Nightly build of: IPTV player for Xtream Codes and M3U subscriptions, with live TV, programme guide, movies and series"
+2026-10-26T02:44:19Z,meo-ai,0.1.0beta2-6,0,Meo AI desktop app and headless AgentService
+2026-10-26T02:44:32Z,meo-ai-beta,0.1.0beta2-8,0,Meo AI desktop app and headless AgentService (Beta channel)
+2026-10-26T02:47:32Z,jdk-openjdk-ea,28+21-1,0,"OpenJDK 28 early access build, compiled from the openjdk/jdk sources"
+2026-10-26T02:50:37Z,mcp-discovery,0.3.2-1,0,A command-line tool written in Rust for discovering and documenting MCP Server capabilities.
+2026-10-26T03:00:43Z,qt-virt-manager-v2,0.72.99-5,0,"Qt5 Virtual Machine Manager provides a graphical tool for administering virtual machines for QEMU/KVM, Xen, and LXC and other Virtual Entities. Uses libvirt as the backend management API."
