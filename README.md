@@ -12,21 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 06:20 UTC
+## Latest list — 2026-10-27 07:21 UTC
 
-New packages created between 2026-10-27 05:20 UTC and 2026-10-27 06:20 UTC.
+New packages created between 2026-10-27 06:20 UTC and 2026-10-27 07:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T06-20-29-390952Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T07-21-25-414266Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 05:46:38 | [routine](https://aur.archlinux.org/packages/routine) | 0.1.0-1 | 0 | GNOME time-blocking client with local routine-server |
-| 2026-10-27 05:46:52 | [routine-bin](https://aur.archlinux.org/packages/routine-bin) | 0.1.0-1 | 0 | GNOME time-blocking client with local routine-server (prebuilt) |
-| 2026-10-27 05:54:40 | [rclone-manager-server](https://aur.archlinux.org/packages/rclone-manager-server) | 0.3.4-1 | 0 | Manage Rclone from your browser (pure web server, no GUI libraries) |
-| 2026-10-27 05:58:42 | [nexo-client](https://aur.archlinux.org/packages/nexo-client) | 0.7.0-1 | 0 | Native Minecraft launcher — no webview, no bundled runtime |
-| 2026-10-27 05:59:57 | [pocket-tts](https://aur.archlinux.org/packages/pocket-tts) | 4.0.1-1 | 0 | Kyutai's pocket-sized text-to-speech on the CPU, without Python |
-| 2026-10-27 06:11:10 | [keysharp-desktop-git](https://aur.archlinux.org/packages/keysharp-desktop-git) | v1.0.3.r0.gb28cac1-1 | 0 | Desktop interaction (windows, clipboard, etc) for KeySharp (Autohotkey Port) fo… |
-| 2026-10-27 06:11:24 | [keysharp-input-git](https://aur.archlinux.org/packages/keysharp-input-git) | v1.1.1.r0.gd57605c-1 | 0 | Input hooks for KeySharp (Autohotkey Port) for linux, compatible with X11 and W… |
+| 2026-10-27 06:24:22 | [pi-remote-control-bin](https://aur.archlinux.org/packages/pi-remote-control-bin) | 0.1.10-1 | 0 | Remote control for running Pi sessions: prc server with the mobile web UI built… |
+| 2026-10-27 06:32:12 | [greenmask](https://aur.archlinux.org/packages/greenmask) | 0.2.26-1 | 0 | PostgreSQL dump, anonymization and restore tool |
+| 2026-10-27 06:32:21 | [greenmask-bin](https://aur.archlinux.org/packages/greenmask-bin) | 0.2.26-1 | 0 | PostgreSQL dump, anonymization and restore tool (upstream build) |
+| 2026-10-27 06:33:58 | [riff-player-bin](https://aur.archlinux.org/packages/riff-player-bin) | 43.0.0-1 | 0 | A free, open-source desktop music player for YouTube Music, SoundCloud, and loc… |
+| 2026-10-27 06:41:56 | [python-mnemosyne-memory](https://aur.archlinux.org/packages/python-mnemosyne-memory) | 3.15.1-1 | 0 | Zero-cloud AI memory layer, SQLite-backed, single dependency |
+| 2026-10-27 06:47:58 | [ts-warp-git](https://aur.archlinux.org/packages/ts-warp-git) | 1.5.12.r6.gff90081-1 | 0 | Transparent proxy server and traffic wrapper (SOCKS4/5, HTTP) with GUI frontend |
 
 ## Data source
 
