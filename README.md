@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 22:20 UTC
+## Latest list — 2026-10-27 23:19 UTC
 
-New packages created between 2026-10-27 21:20 UTC and 2026-10-27 22:20 UTC.
+New packages created between 2026-10-27 22:20 UTC and 2026-10-27 23:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T22-20-04-822154Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T23-19-46-781443Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 21:38:38 | [kutu-doctor](https://aur.archlinux.org/packages/kutu-doctor) | 0.2.0-1 | 0 | Live memory-health dashboard and checker for kutu OS (zswap, MGLRU, DAMON, PSI) |
-| 2026-10-27 21:38:47 | [libmempressure](https://aur.archlinux.org/packages/libmempressure) | 0.2.1-1 | 0 | Memory-pressure events from kernel PSI for applications, an onTrimMemory for Li… |
-| 2026-10-27 21:38:56 | [python-mempressure](https://aur.archlinux.org/packages/python-mempressure) | 0.2.1-1 | 0 | Python binding for libmempressure: memory-pressure events from kernel PSI |
-| 2026-10-27 21:42:05 | [xdman-bin](https://aur.archlinux.org/packages/xdman-bin) | 9.0.8-1 | 0 | Powerfull download accelerator and video downloader (binary release) |
+| 2026-10-27 22:29:31 | [wwal-git](https://aur.archlinux.org/packages/wwal-git) | 1.1.0.r0.g0e7ee35-1 | 0 | Fast Wayland wallpaper, video, shader, and Steam Workshop engine with Material… |
+| 2026-10-27 22:32:37 | [hledger-simplefin-git](https://aur.archlinux.org/packages/hledger-simplefin-git) | r11.ea8ec42-1 | 0 | SimpleFIN helper scripts for hledger |
+| 2026-10-27 22:57:32 | [wwal-bin](https://aur.archlinux.org/packages/wwal-bin) | 1.1.0-1 | 0 | Fast Wayland wallpaper, video, shader, and Steam Workshop engine with Material… |
+| 2026-10-27 23:10:27 | [alsa-eldview-git](https://aur.archlinux.org/packages/alsa-eldview-git) | r1-1 | 0 | View audio capabilities of TV or sound system connected via HDMI or DisplayPort. |
 
 ## Data source
 
