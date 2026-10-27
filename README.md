@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 02:21 UTC
+## Latest list — 2026-10-27 03:19 UTC
 
-New packages created between 2026-10-27 01:20 UTC and 2026-10-27 02:21 UTC.
+New packages created between 2026-10-27 02:21 UTC and 2026-10-27 03:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T02-21-37-282518Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T03-19-10-015732Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 01:32:15 | [nixfmt-bin](https://aur.archlinux.org/packages/nixfmt-bin) | 1.5.0-1 | 0 | The official formatter for Nix code |
+| 2026-10-27 02:39:40 | [flashtui-bin](https://aur.archlinux.org/packages/flashtui-bin) | 0.1.1-1 | 1 | A disk flasher TUI |
+| 2026-10-27 02:58:25 | [firesync-git](https://aur.archlinux.org/packages/firesync-git) | v1.2.0.r0.g0285236-1 | 0 | A companion app for Fireshare that automatically detects and uploads new videos… |
+| 2026-10-27 02:59:24 | [gomodel](https://aur.archlinux.org/packages/gomodel) | 0.1.108-1 | 0 | High-performance AI gateway with caching, cost tracking, budgets, rate limits,… |
+| 2026-10-27 03:09:45 | [gomodel-git](https://aur.archlinux.org/packages/gomodel-git) | 0.1.108-1 | 0 | High-performance AI gateway (git main build, quasi-nightly) |
 
 ## Data source
 
