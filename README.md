@@ -12,18 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 04:21 UTC
+## Latest list — 2026-10-27 05:20 UTC
 
-New packages created between 2026-10-27 03:19 UTC and 2026-10-27 04:21 UTC.
+New packages created between 2026-10-27 04:21 UTC and 2026-10-27 05:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T04-21-23-632756Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T05-20-53-219865Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 03:59:22 | [shoin](https://aur.archlinux.org/packages/shoin) | 0.1.8-1 | 1 | A no-clutter terminal Markdown editor with modal editing |
-| 2026-10-27 04:00:04 | [bloodborne-pc-srshadowy-bin](https://aur.archlinux.org/packages/bloodborne-pc-srshadowy-bin) | 0.6.7-1 | 0 | Bloodborne native PC port (SrShadowy BBPort 0.6.7, separate test build, require… |
-| 2026-10-27 04:03:13 | [remmina-plugin-ultraviewer-git](https://aur.archlinux.org/packages/remmina-plugin-ultraviewer-git) | 0.2.0.r15.g5a83a8b-1 | 0 | UltraViewer remote desktop protocol plugin for Remmina |
-| 2026-10-27 04:19:39 | [kinjo-bin](https://aur.archlinux.org/packages/kinjo-bin) |  |  | TUI browser and command launcher for local services |
+| 2026-10-27 04:24:50 | [dishylink](https://aur.archlinux.org/packages/dishylink) | 1.3.0-1 | 0 | Desktop app to monitor the performance and health of your Starlink |
+| 2026-10-27 04:29:17 | [cozy-bin](https://aur.archlinux.org/packages/cozy-bin) | 0.2.37-1 | 1 | A Comfort First terminal text editor — type like nano, navigate like vim |
+| 2026-10-27 04:47:11 | [berthd-bin](https://aur.archlinux.org/packages/berthd-bin) | 0.6.3-1 | 1 | Persistent shell sessions — a small daemon that owns your PTYs, so shells outli… |
+| 2026-10-27 05:04:00 | [opencode-desktop-launcher](https://aur.archlinux.org/packages/opencode-desktop-launcher) | 1.0.0-1 | 0 | Launcher and desktop integration for the self-updating OpenCode AppImage |
+| 2026-10-27 05:10:09 | [lurker-git](https://aur.archlinux.org/packages/lurker-git) | 0.1.0.r19.g2e8371c-1 | 0 | LUKS and VeraCrypt CLI/desktop with privileged and unprivileged Linux workflows |
 
 ## Data source
 
