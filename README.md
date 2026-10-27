@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 17:22 UTC
+## Latest list — 2026-10-27 18:19 UTC
 
-New packages created between 2026-10-27 16:19 UTC and 2026-10-27 17:22 UTC.
+New packages created between 2026-10-27 17:22 UTC and 2026-10-27 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T17-22-09-562336Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T18-19-01-464937Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 16:19:51 | [clovercut-bin](https://aur.archlinux.org/packages/clovercut-bin) | 0.1.8-1 | 0 | Desktop-first, open-source video editor with built-in stock libraries and local… |
-| 2026-10-27 16:37:31 | [bee-agent](https://aur.archlinux.org/packages/bee-agent) | 0.1.1-1 | 0 | A minimal, headless Rust agent runtime implementing ACPv2. (prebuilt binary) |
-| 2026-10-27 16:53:37 | [ionix-base-git](https://aur.archlinux.org/packages/ionix-base-git) | r2.8788b1f-1 | 0 | Ionix system files shared by the desktop and the server: styler and themes, she… |
-| 2026-10-27 16:53:37 | [ionix-desktop-git](https://aur.archlinux.org/packages/ionix-desktop-git) | r2.8788b1f-1 | 0 | Ionix desktop: Hyprland defaults, session scripts, login modes, wallpaper (git) |
-| 2026-10-27 16:53:37 | [ionix-server-git](https://aur.archlinux.org/packages/ionix-server-git) | r2.8788b1f-1 | 0 | Ionix server: first-boot firewall and snapshot setup (git) |
+| 2026-10-27 17:27:49 | [paraphrase-git](https://aur.archlinux.org/packages/paraphrase-git) | 0.1.0.r273.g361a400… | 0 | Offline AI grammar checker, rewriter and reply writer that runs on your computer |
+| 2026-10-27 17:48:11 | [xeus6](https://aur.archlinux.org/packages/xeus6) | 6.0.6-1 | 0 | C++ implementation of the Jupyter kernel protocol |
 
 ## Data source
 
