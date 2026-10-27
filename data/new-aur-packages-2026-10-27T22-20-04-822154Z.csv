@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-27T21:38:38Z,kutu-doctor,0.2.0-1,0,"Live memory-health dashboard and checker for kutu OS (zswap, MGLRU, DAMON, PSI)"
+2026-10-27T21:38:47Z,libmempressure,0.2.1-1,0,"Memory-pressure events from kernel PSI for applications, an onTrimMemory for Linux"
+2026-10-27T21:38:56Z,python-mempressure,0.2.1-1,0,Python binding for libmempressure: memory-pressure events from kernel PSI
+2026-10-27T21:42:05Z,xdman-bin,9.0.8-1,0,Powerfull download accelerator and video downloader (binary release)
