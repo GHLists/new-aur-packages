@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 00:19 UTC
+## Latest list — 2026-10-27 02:21 UTC
 
-New packages created between 2026-10-26 23:19 UTC and 2026-10-27 00:19 UTC.
+New packages created between 2026-10-27 01:20 UTC and 2026-10-27 02:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T00-19-49-898241Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T02-21-37-282518Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 23:42:51 | [moss-ai](https://aur.archlinux.org/packages/moss-ai) | 0.1.0-1 | 0 | Non-LLM brain-inspired AI: neuroevolution, SNN, few-shot learning, continual le… |
-| 2026-10-27 00:01:14 | [cumpressor](https://aur.archlinux.org/packages/cumpressor) | 0.1.0-1 | 0 | Private, on-device video compressor built with Rust and GPUI |
-| 2026-10-27 00:01:21 | [cumpressor-bin](https://aur.archlinux.org/packages/cumpressor-bin) | 0.1.0-1 | 0 | Private, on-device video compressor built with Rust and GPUI (prebuilt binary) |
+| 2026-10-27 01:32:15 | [nixfmt-bin](https://aur.archlinux.org/packages/nixfmt-bin) | 1.5.0-1 | 0 | The official formatter for Nix code |
 
 ## Data source
 
