@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 19:20 UTC
+## Latest list — 2026-10-27 20:21 UTC
 
-New packages created between 2026-10-27 18:19 UTC and 2026-10-27 19:20 UTC.
+New packages created between 2026-10-27 19:20 UTC and 2026-10-27 20:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T19-20-24-38112Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T20-21-31-485376Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 18:24:37 | [atomic-agent-desktop-bin](https://aur.archlinux.org/packages/atomic-agent-desktop-bin) | 0.0.6-1 | 0 | Desktop app for Atomic Agent: starts the bundled agent locally and gives it a c… |
-| 2026-10-27 18:35:07 | [omnidict-git](https://aur.archlinux.org/packages/omnidict-git) | 1.1.0.r2.ga0824b4-1 | 0 | Offline dictionary for any language |
-| 2026-10-27 18:43:54 | [atomic-agent-bin](https://aur.archlinux.org/packages/atomic-agent-bin) | 0.6.12-1 | 0 | Local-first AI agent for the terminal: browses, edits files, runs approved comm… |
+| 2026-10-27 19:58:45 | [dragon-media-backend](https://aur.archlinux.org/packages/dragon-media-backend) | 0.82.1-1 | 0 | Qt C++ library intended for desktop music players |
 
 ## Data source
 
