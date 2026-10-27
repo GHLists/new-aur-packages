@@ -12,20 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 15:22 UTC
+## Latest list — 2026-10-27 16:19 UTC
 
-New packages created between 2026-10-27 14:19 UTC and 2026-10-27 15:22 UTC.
+New packages created between 2026-10-27 15:22 UTC and 2026-10-27 16:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T15-22-06-441216Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T16-19-06-829481Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 14:37:04 | [grimoire-tui-bin](https://aur.archlinux.org/packages/grimoire-tui-bin) | 0.7.5-1 | 0 | A terminal writing desk for novels |
-| 2026-10-27 14:39:58 | [gitpulsar](https://aur.archlinux.org/packages/gitpulsar) | 1.4.0-1 | 0 | Fast, native Git client for GNOME (GTK4 + libadwaita) |
-| 2026-10-27 14:40:09 | [bde-verify-git](https://aur.archlinux.org/packages/bde-verify-git) | 1.5.1.r1208.a03bd7b… | 0 | Static analysis tool verifying adherence to BDE C++ coding standards |
-| 2026-10-27 14:51:55 | [lootrs-git](https://aur.archlinux.org/packages/lootrs-git) | r17.g43869c2-1 | 0 | Minimal TUI and CLI for running Windows games through wine, Proton (umu) or nat… |
-| 2026-10-27 14:58:16 | [whodb-bin](https://aur.archlinux.org/packages/whodb-bin) | 0.136.0-1 | 0 | Database workspace with a web UI (prebuilt) |
-| 2026-10-27 14:58:42 | [whodb-cli-bin](https://aur.archlinux.org/packages/whodb-cli-bin) | 0.136.0-1 | 0 | Database management CLI with a TUI and an MCP server (prebuilt) |
+| 2026-10-27 15:39:25 | [betaflight-bin](https://aur.archlinux.org/packages/betaflight-bin) | 2026.6.2-1 | 0 | Configuration and management application for Betaflight flight controllers |
+| 2026-10-27 15:54:12 | [flclash-oixcloud](https://aur.archlinux.org/packages/flclash-oixcloud) | 0.9.2+2026102712-1 | 0 | A multi-platform proxy client based on ClashMeta, simple and easy to use, open-… |
 
 ## Data source
 
