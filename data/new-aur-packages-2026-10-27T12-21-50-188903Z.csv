@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-27T11:34:53Z,centrifugo-git,r1996.3a8731a-1,0,Scalable real-time messaging server (git version)
+2026-10-27T11:35:00Z,mcp-toolbox-git,r2350.0c8a71d-1,0,MCP server for databases (git version)
+2026-10-27T11:35:07Z,greenmask-git,r602.3a1befc-1,0,"PostgreSQL dump, anonymization and restore tool (git version)"
+2026-10-27T11:35:18Z,pocket-tts-git,r206.77c3d76-1,0,"Kyutai's pocket-sized text-to-speech on the CPU, without Python (git version)"
+2026-10-27T11:36:18Z,webdav-git,r292.0ca5bbb-1,0,Standalone WebDAV server (git version)
+2026-10-27T11:48:01Z,shorin-dux-niri-git,r147.abb38cb-1,0,Shorin Dux Shell (DMS) Niri desktop environment (Core Configs & Installer)
+2026-10-27T11:55:34Z,centrifugo,1.7.4-1,0,Real-time messaging server for web applications
+2026-10-27T12:05:57Z,tux-burner,0.99-1,0,"GPU undervolting, overclocking, and per-game tuning (AMD and NVIDIA)"

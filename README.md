@@ -12,21 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 11:20 UTC
+## Latest list — 2026-10-27 12:21 UTC
 
-New packages created between 2026-10-27 10:21 UTC and 2026-10-27 11:20 UTC.
+New packages created between 2026-10-27 11:20 UTC and 2026-10-27 12:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T11-20-16-235448Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T12-21-50-188903Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 10:31:39 | [pocket-tts-bin](https://aur.archlinux.org/packages/pocket-tts-bin) | 4.0.1-1 | 0 | Kyutai's pocket-sized text-to-speech on the CPU, without Python (prebuilt) |
-| 2026-10-27 10:35:27 | [segasonic-port-git](https://aur.archlinux.org/packages/segasonic-port-git) | 1.0.r89.gddfc87e-1 | 0 | A native port of SegaSonic The Hedgehog (Sega arcade, 1993) |
-| 2026-10-27 10:43:17 | [jabridge](https://aur.archlinux.org/packages/jabridge) | 1.4.0-1 | 1 | Control Jabra headsets and dongles on Linux. Change settings, manage sound and… |
-| 2026-10-27 10:44:50 | [gotrust](https://aur.archlinux.org/packages/gotrust) | 0.1.0-1 | 0 | Tray app for Sangfor aTrust gateways with local SOCKS5 and HTTP proxies |
-| 2026-10-27 10:44:58 | [gotrust-cli](https://aur.archlinux.org/packages/gotrust-cli) | 0.1.0-1 | 0 | Headless front-end for Sangfor aTrust gateways with local SOCKS5 and HTTP proxi… |
-| 2026-10-27 10:47:30 | [m-flasher](https://aur.archlinux.org/packages/m-flasher) | 0.6.1-1 | 1 | Back up, restore and reinstall the firmware of an M-VAVE FM-1 or SMK-37 |
-| 2026-10-27 11:01:21 | [kimai-cli](https://aur.archlinux.org/packages/kimai-cli) | 2.0.0-1 | 0 | Console application to manage your Kimai time-tracking data remotely |
+| 2026-10-27 11:34:53 | [centrifugo-git](https://aur.archlinux.org/packages/centrifugo-git) | r1996.3a8731a-1 | 0 | Scalable real-time messaging server (git version) |
+| 2026-10-27 11:35:00 | [mcp-toolbox-git](https://aur.archlinux.org/packages/mcp-toolbox-git) | r2350.0c8a71d-1 | 0 | MCP server for databases (git version) |
+| 2026-10-27 11:35:07 | [greenmask-git](https://aur.archlinux.org/packages/greenmask-git) | r602.3a1befc-1 | 0 | PostgreSQL dump, anonymization and restore tool (git version) |
+| 2026-10-27 11:35:18 | [pocket-tts-git](https://aur.archlinux.org/packages/pocket-tts-git) | r206.77c3d76-1 | 0 | Kyutai's pocket-sized text-to-speech on the CPU, without Python (git version) |
+| 2026-10-27 11:36:18 | [webdav-git](https://aur.archlinux.org/packages/webdav-git) | r292.0ca5bbb-1 | 0 | Standalone WebDAV server (git version) |
+| 2026-10-27 11:48:01 | [shorin-dux-niri-git](https://aur.archlinux.org/packages/shorin-dux-niri-git) | r147.abb38cb-1 | 0 | Shorin Dux Shell (DMS) Niri desktop environment (Core Configs & Installer) |
+| 2026-10-27 11:55:34 | [centrifugo](https://aur.archlinux.org/packages/centrifugo) | 1.7.4-1 | 0 | Real-time messaging server for web applications |
+| 2026-10-27 12:05:57 | [tux-burner](https://aur.archlinux.org/packages/tux-burner) | 0.99-1 | 0 | GPU undervolting, overclocking, and per-game tuning (AMD and NVIDIA) |
 
 ## Data source
 
