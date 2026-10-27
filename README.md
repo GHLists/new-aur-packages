@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 16:19 UTC
+## Latest list — 2026-10-27 17:22 UTC
 
-New packages created between 2026-10-27 15:22 UTC and 2026-10-27 16:19 UTC.
+New packages created between 2026-10-27 16:19 UTC and 2026-10-27 17:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T16-19-06-829481Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T17-22-09-562336Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 15:39:25 | [betaflight-bin](https://aur.archlinux.org/packages/betaflight-bin) | 2026.6.2-1 | 0 | Configuration and management application for Betaflight flight controllers |
-| 2026-10-27 15:54:12 | [flclash-oixcloud](https://aur.archlinux.org/packages/flclash-oixcloud) | 0.9.2+2026102712-1 | 0 | A multi-platform proxy client based on ClashMeta, simple and easy to use, open-… |
+| 2026-10-27 16:19:51 | [clovercut-bin](https://aur.archlinux.org/packages/clovercut-bin) | 0.1.8-1 | 0 | Desktop-first, open-source video editor with built-in stock libraries and local… |
+| 2026-10-27 16:37:31 | [bee-agent](https://aur.archlinux.org/packages/bee-agent) | 0.1.1-1 | 0 | A minimal, headless Rust agent runtime implementing ACPv2. (prebuilt binary) |
+| 2026-10-27 16:53:37 | [ionix-base-git](https://aur.archlinux.org/packages/ionix-base-git) | r2.8788b1f-1 | 0 | Ionix system files shared by the desktop and the server: styler and themes, she… |
+| 2026-10-27 16:53:37 | [ionix-desktop-git](https://aur.archlinux.org/packages/ionix-desktop-git) | r2.8788b1f-1 | 0 | Ionix desktop: Hyprland defaults, session scripts, login modes, wallpaper (git) |
+| 2026-10-27 16:53:37 | [ionix-server-git](https://aur.archlinux.org/packages/ionix-server-git) | r2.8788b1f-1 | 0 | Ionix server: first-boot firewall and snapshot setup (git) |
 
 ## Data source
 
