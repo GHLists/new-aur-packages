@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-27T10:31:39Z,pocket-tts-bin,4.0.1-1,0,"Kyutai's pocket-sized text-to-speech on the CPU, without Python (prebuilt)"
+2026-10-27T10:35:27Z,segasonic-port-git,1.0.r89.gddfc87e-1,0,"A native port of SegaSonic The Hedgehog (Sega arcade, 1993)"
+2026-10-27T10:43:17Z,jabridge,1.4.0-1,1,"Control Jabra headsets and dongles on Linux. Change settings, manage sound and update supported firmware."
+2026-10-27T10:44:50Z,gotrust,0.1.0-1,0,Tray app for Sangfor aTrust gateways with local SOCKS5 and HTTP proxies
+2026-10-27T10:44:58Z,gotrust-cli,0.1.0-1,0,Headless front-end for Sangfor aTrust gateways with local SOCKS5 and HTTP proxies
+2026-10-27T10:47:30Z,m-flasher,0.6.1-1,1,"Back up, restore and reinstall the firmware of an M-VAVE FM-1 or SMK-37"
+2026-10-27T11:01:21Z,kimai-cli,2.0.0-1,0,Console application to manage your Kimai time-tracking data remotely

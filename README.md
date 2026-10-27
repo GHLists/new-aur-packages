@@ -12,18 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 10:21 UTC
+## Latest list — 2026-10-27 11:20 UTC
 
-New packages created between 2026-10-27 09:20 UTC and 2026-10-27 10:21 UTC.
+New packages created between 2026-10-27 10:21 UTC and 2026-10-27 11:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T10-21-35-336813Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T11-20-16-235448Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 09:23:22 | [profile-sync-daemon-brave-origin](https://aur.archlinux.org/packages/profile-sync-daemon-brave-origin) | 2026.10.27-1 | 0 | Brave origin browser support for profile-sync-daemon |
-| 2026-10-27 10:01:25 | [centrifugo-bin](https://aur.archlinux.org/packages/centrifugo-bin) | 6.10.2-1 | 0 | Scalable real-time messaging server (prebuilt) |
-| 2026-10-27 10:10:17 | [netexperts-mail-bin](https://aur.archlinux.org/packages/netexperts-mail-bin) | 1.0.0-1 | 0 | NetExperts Mail desktop application with current hosted interface |
-| 2026-10-27 10:10:20 | [my-netexperts-bin](https://aur.archlinux.org/packages/my-netexperts-bin) | 1.0.0-1 | 0 | My NetExperts desktop application with current hosted interface |
+| 2026-10-27 10:31:39 | [pocket-tts-bin](https://aur.archlinux.org/packages/pocket-tts-bin) | 4.0.1-1 | 0 | Kyutai's pocket-sized text-to-speech on the CPU, without Python (prebuilt) |
+| 2026-10-27 10:35:27 | [segasonic-port-git](https://aur.archlinux.org/packages/segasonic-port-git) | 1.0.r89.gddfc87e-1 | 0 | A native port of SegaSonic The Hedgehog (Sega arcade, 1993) |
+| 2026-10-27 10:43:17 | [jabridge](https://aur.archlinux.org/packages/jabridge) | 1.4.0-1 | 1 | Control Jabra headsets and dongles on Linux. Change settings, manage sound and… |
+| 2026-10-27 10:44:50 | [gotrust](https://aur.archlinux.org/packages/gotrust) | 0.1.0-1 | 0 | Tray app for Sangfor aTrust gateways with local SOCKS5 and HTTP proxies |
+| 2026-10-27 10:44:58 | [gotrust-cli](https://aur.archlinux.org/packages/gotrust-cli) | 0.1.0-1 | 0 | Headless front-end for Sangfor aTrust gateways with local SOCKS5 and HTTP proxi… |
+| 2026-10-27 10:47:30 | [m-flasher](https://aur.archlinux.org/packages/m-flasher) | 0.6.1-1 | 1 | Back up, restore and reinstall the firmware of an M-VAVE FM-1 or SMK-37 |
+| 2026-10-27 11:01:21 | [kimai-cli](https://aur.archlinux.org/packages/kimai-cli) | 2.0.0-1 | 0 | Console application to manage your Kimai time-tracking data remotely |
 
 ## Data source
 
