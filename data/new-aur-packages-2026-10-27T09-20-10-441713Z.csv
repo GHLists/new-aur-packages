@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-27T08:37:06Z,python-scad123d-git,0.9.0.r0.g611f524-1,0,"Import OpenSCAD files as native build123d BRep geometry, via OpenSCAD's flattened CSG export (latest git version)"
+2026-10-27T08:37:06Z,scad2step-git,0.1.2.r1.g2e594fc-1,0,Convert an OpenSCAD file to a STEP file from the command line (latest git version)
+2026-10-27T08:37:11Z,python-scad123d,0.8.0-1,0,"Import OpenSCAD files as native build123d BRep geometry, via OpenSCAD's flattened CSG export"
+2026-10-27T08:37:14Z,scad2step,0.1.3-1,0,Convert an OpenSCAD file to a STEP file from the command line
+2026-10-27T09:00:06Z,fukidashi-bin,0.1.8-1,0,"Translates the Japanese text of games while you play, on your own machine"

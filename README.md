@@ -12,20 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 08:20 UTC
+## Latest list — 2026-10-27 09:20 UTC
 
-New packages created between 2026-10-27 07:21 UTC and 2026-10-27 08:20 UTC.
+New packages created between 2026-10-27 08:20 UTC and 2026-10-27 09:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T08-20-59-645583Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T09-20-10-441713Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 07:23:57 | [mcp-toolbox](https://aur.archlinux.org/packages/mcp-toolbox) | 1.15.0-1 | 0 | MCP server for databases |
-| 2026-10-27 07:24:06 | [mcp-toolbox-bin](https://aur.archlinux.org/packages/mcp-toolbox-bin) | 1.15.0-1 | 0 | MCP server for databases (prebuilt) |
-| 2026-10-27 07:24:14 | [webdav](https://aur.archlinux.org/packages/webdav) | 5.17.2-1 | 0 | Standalone WebDAV server |
-| 2026-10-27 07:24:22 | [webdav-bin](https://aur.archlinux.org/packages/webdav-bin) | 5.17.2-1 | 0 | Standalone WebDAV server (prebuilt) |
-| 2026-10-27 07:32:12 | [serial-port-utility-bin](https://aur.archlinux.org/packages/serial-port-utility-bin) | 6.6.8-1 | 0 | Serial, TCP and UDP in one window — up to 16 ports at once, with a transparent… |
-| 2026-10-27 08:10:16 | [redalert2-recomp-git](https://aur.archlinux.org/packages/redalert2-recomp-git) | 0.1.3.r0.g0000000-2 | 0 | Static recompilation of Red Alert 2 and Yuri's Revenge to native Linux (needs y… |
+| 2026-10-27 08:37:06 | [python-scad123d-git](https://aur.archlinux.org/packages/python-scad123d-git) | 0.9.0.r0.g611f524-1 | 0 | Import OpenSCAD files as native build123d BRep geometry, via OpenSCAD's flatten… |
+| 2026-10-27 08:37:06 | [scad2step-git](https://aur.archlinux.org/packages/scad2step-git) | 0.1.2.r1.g2e594fc-1 | 0 | Convert an OpenSCAD file to a STEP file from the command line (latest git versi… |
+| 2026-10-27 08:37:11 | [python-scad123d](https://aur.archlinux.org/packages/python-scad123d) | 0.8.0-1 | 0 | Import OpenSCAD files as native build123d BRep geometry, via OpenSCAD's flatten… |
+| 2026-10-27 08:37:14 | [scad2step](https://aur.archlinux.org/packages/scad2step) | 0.1.3-1 | 0 | Convert an OpenSCAD file to a STEP file from the command line |
+| 2026-10-27 09:00:06 | [fukidashi-bin](https://aur.archlinux.org/packages/fukidashi-bin) | 0.1.8-1 | 0 | Translates the Japanese text of games while you play, on your own machine |
 
 ## Data source
 
