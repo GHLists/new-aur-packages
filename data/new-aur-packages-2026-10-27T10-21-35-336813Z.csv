@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-27T09:23:22Z,profile-sync-daemon-brave-origin,2026.10.27-1,0,Brave origin browser support for profile-sync-daemon
+2026-10-27T10:01:25Z,centrifugo-bin,6.10.2-1,0,Scalable real-time messaging server (prebuilt)
+2026-10-27T10:10:17Z,netexperts-mail-bin,1.0.0-1,0,NetExperts Mail desktop application with current hosted interface
+2026-10-27T10:10:20Z,my-netexperts-bin,1.0.0-1,0,My NetExperts desktop application with current hosted interface
