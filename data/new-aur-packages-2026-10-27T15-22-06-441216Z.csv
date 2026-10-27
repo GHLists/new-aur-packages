@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-27T14:37:04Z,grimoire-tui-bin,0.7.5-1,0,A terminal writing desk for novels
+2026-10-27T14:39:58Z,gitpulsar,1.4.0-1,0,"Fast, native Git client for GNOME (GTK4 + libadwaita)"
+2026-10-27T14:40:09Z,bde-verify-git,1.5.1.r1208.a03bd7b…,0,Static analysis tool verifying adherence to BDE C++ coding standards
+2026-10-27T14:51:55Z,lootrs-git,r17.g43869c2-1,0,"Minimal TUI and CLI for running Windows games through wine, Proton (umu) or natively"
+2026-10-27T14:58:16Z,whodb-bin,0.136.0-1,0,Database workspace with a web UI (prebuilt)
+2026-10-27T14:58:42Z,whodb-cli-bin,0.136.0-1,0,Database management CLI with a TUI and an MCP server (prebuilt)
