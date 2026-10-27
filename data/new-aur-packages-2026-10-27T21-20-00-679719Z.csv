@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-27T20:28:37Z,sccache-jetm,0.19.0-1,0,Shared compilation cache - build with distributed-compile fixes
+2026-10-27T20:34:03Z,cosmic-control-center-applet-bin,0.2.1-1,0,Quick-Settings-style control center applet for the COSMIC panel (prebuilt binary)
+2026-10-27T20:39:53Z,jubbio-bin,3.8.5-1,0,Official desktop client for Jubbio (community chat & voice platform)
+2026-10-27T21:09:24Z,shakal-git,0.1.0.r15.4d7773d-1,0,Qt 6 front end for one deliberately aggressive ffmpeg degradation preset
