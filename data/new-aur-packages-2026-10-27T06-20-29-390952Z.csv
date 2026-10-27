@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-27T05:46:38Z,routine,0.1.0-1,0,GNOME time-blocking client with local routine-server
+2026-10-27T05:46:52Z,routine-bin,0.1.0-1,0,GNOME time-blocking client with local routine-server (prebuilt)
+2026-10-27T05:54:40Z,rclone-manager-server,0.3.4-1,0,"Manage Rclone from your browser (pure web server, no GUI libraries)"
+2026-10-27T05:58:42Z,nexo-client,0.7.0-1,0,"Native Minecraft launcher — no webview, no bundled runtime"
+2026-10-27T05:59:57Z,pocket-tts,4.0.1-1,0,"Kyutai's pocket-sized text-to-speech on the CPU, without Python"
+2026-10-27T06:11:10Z,keysharp-desktop-git,v1.0.3.r0.gb28cac1-1,0,"Desktop interaction (windows, clipboard, etc) for KeySharp (Autohotkey Port) for linux, compatible with X11, KWin/Plasma Wayland, GNOME/Cinammon, and more."
+2026-10-27T06:11:24Z,keysharp-input-git,v1.1.1.r0.gd57605c-1,0,"Input hooks for KeySharp (Autohotkey Port) for linux, compatible with X11 and Wayland."

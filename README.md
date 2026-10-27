@@ -12,19 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 05:20 UTC
+## Latest list — 2026-10-27 06:20 UTC
 
-New packages created between 2026-10-27 04:21 UTC and 2026-10-27 05:20 UTC.
+New packages created between 2026-10-27 05:20 UTC and 2026-10-27 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T05-20-53-219865Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-27T06-20-29-390952Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 04:24:50 | [dishylink](https://aur.archlinux.org/packages/dishylink) | 1.3.0-1 | 0 | Desktop app to monitor the performance and health of your Starlink |
-| 2026-10-27 04:29:17 | [cozy-bin](https://aur.archlinux.org/packages/cozy-bin) | 0.2.37-1 | 1 | A Comfort First terminal text editor — type like nano, navigate like vim |
-| 2026-10-27 04:47:11 | [berthd-bin](https://aur.archlinux.org/packages/berthd-bin) | 0.6.3-1 | 1 | Persistent shell sessions — a small daemon that owns your PTYs, so shells outli… |
-| 2026-10-27 05:04:00 | [opencode-desktop-launcher](https://aur.archlinux.org/packages/opencode-desktop-launcher) | 1.0.0-1 | 0 | Launcher and desktop integration for the self-updating OpenCode AppImage |
-| 2026-10-27 05:10:09 | [lurker-git](https://aur.archlinux.org/packages/lurker-git) | 0.1.0.r19.g2e8371c-1 | 0 | LUKS and VeraCrypt CLI/desktop with privileged and unprivileged Linux workflows |
+| 2026-10-27 05:46:38 | [routine](https://aur.archlinux.org/packages/routine) | 0.1.0-1 | 0 | GNOME time-blocking client with local routine-server |
+| 2026-10-27 05:46:52 | [routine-bin](https://aur.archlinux.org/packages/routine-bin) | 0.1.0-1 | 0 | GNOME time-blocking client with local routine-server (prebuilt) |
+| 2026-10-27 05:54:40 | [rclone-manager-server](https://aur.archlinux.org/packages/rclone-manager-server) | 0.3.4-1 | 0 | Manage Rclone from your browser (pure web server, no GUI libraries) |
+| 2026-10-27 05:58:42 | [nexo-client](https://aur.archlinux.org/packages/nexo-client) | 0.7.0-1 | 0 | Native Minecraft launcher — no webview, no bundled runtime |
+| 2026-10-27 05:59:57 | [pocket-tts](https://aur.archlinux.org/packages/pocket-tts) | 4.0.1-1 | 0 | Kyutai's pocket-sized text-to-speech on the CPU, without Python |
+| 2026-10-27 06:11:10 | [keysharp-desktop-git](https://aur.archlinux.org/packages/keysharp-desktop-git) | v1.0.3.r0.gb28cac1-1 | 0 | Desktop interaction (windows, clipboard, etc) for KeySharp (Autohotkey Port) fo… |
+| 2026-10-27 06:11:24 | [keysharp-input-git](https://aur.archlinux.org/packages/keysharp-input-git) | v1.1.1.r0.gd57605c-1 | 0 | Input hooks for KeySharp (Autohotkey Port) for linux, compatible with X11 and W… |
 
 ## Data source
 
