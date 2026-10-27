@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-26T23:42:51Z,moss-ai,0.1.0-1,0,"Non-LLM brain-inspired AI: neuroevolution, SNN, few-shot learning, continual learning"
+2026-10-27T00:01:14Z,cumpressor,0.1.0-1,0,"Private, on-device video compressor built with Rust and GPUI"
+2026-10-27T00:01:21Z,cumpressor-bin,0.1.0-1,0,"Private, on-device video compressor built with Rust and GPUI (prebuilt binary)"
