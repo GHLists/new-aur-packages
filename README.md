@@ -12,16 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 20:20 UTC
+## Latest list — 2026-10-28 21:19 UTC
 
-New packages created between 2026-10-28 19:19 UTC and 2026-10-28 20:20 UTC.
+New packages created between 2026-10-28 20:20 UTC and 2026-10-28 21:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-28T20-20-17-550502Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-28T21-19-09-150534Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 19:28:36 | [weasis-git](https://aur.archlinux.org/packages/weasis-git) | r3948.32fef3339-1 | 0 | Weasis DICOM medical viewer (built from git master) |
-| 2026-10-28 19:53:30 | [hyprcurtain](https://aur.archlinux.org/packages/hyprcurtain) | 1.0-1 | 0 | Stream Hyprland to Moonlight on a private headless output |
+| 2026-10-28 20:23:21 | [mint-backgrounds-slideshow](https://aur.archlinux.org/packages/mint-backgrounds-slideshow) | 1.0-1 | 0 | Linux Mint backgrounds from 13 Maya onward, as a single Cinnamon slideshow coll… |
+| 2026-10-28 20:31:34 | [pgstream](https://aur.archlinux.org/packages/pgstream) | 1.5.0-1 | 0 | PostgreSQL replication with DDL changes |
+| 2026-10-28 20:31:57 | [pgstream-bin](https://aur.archlinux.org/packages/pgstream-bin) | 1.5.0-1 | 0 | PostgreSQL replication with DDL changes (prebuilt) |
+| 2026-10-28 20:36:03 | [ttf-niek-fonts-android](https://aur.archlinux.org/packages/ttf-niek-fonts-android) | 2.8-1 | 0 | Font collection from Niek's fonts-extractor (android) archive |
+| 2026-10-28 20:49:14 | [ttf-niek-fonts-mac](https://aur.archlinux.org/packages/ttf-niek-fonts-mac) | 2.8-1 | 0 | Font collection from Niek's fonts-extractor (mac) archive |
+| 2026-10-28 20:59:22 | [ttf-fluentui-system-icons-git](https://aur.archlinux.org/packages/ttf-fluentui-system-icons-git) | 1:1.1.293.r416.g64e… | 0 | A collection of familiar, friendly and modern icons from Microsoft. |
+| 2026-10-28 21:00:32 | [qt6-base-phoenix](https://aur.archlinux.org/packages/qt6-base-phoenix) | 6.12.0-1 | 0 | A fork of Qt Base with support for per-monitor fractional scaling on X11 |
+| 2026-10-28 21:00:32 | [qt6-xcb-private-headers-phoenix](https://aur.archlinux.org/packages/qt6-xcb-private-headers-phoenix) | 6.12.0-1 | 0 | Private headers for Qt6 Xcb |
+| 2026-10-28 21:12:50 | [brygge](https://aur.archlinux.org/packages/brygge) | 0.0.0-1 | 0 | A placeholder package for brygge |
+| 2026-10-28 21:13:41 | [brygge-bin](https://aur.archlinux.org/packages/brygge-bin) | 0.0.0-1 | 0 | A placeholder package for brygge-bin |
+| 2026-10-28 21:13:58 | [stikk](https://aur.archlinux.org/packages/stikk) | 0.0.0-1 | 0 | A placeholder package for stikk |
+| 2026-10-28 21:14:25 | [stikk-bin](https://aur.archlinux.org/packages/stikk-bin) | 0.0.0-1 | 0 | A placeholder package for stikk-bin |
 
 ## Data source
 
