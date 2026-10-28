@@ -1,0 +1,19 @@
+created_at,package,version,votes,description
+2026-10-28T17:41:23Z,xf86-input-libinput-phoenix,1.5.0-2,0,Generic input driver for the X.Org server based on libinput
+2026-10-28T17:42:25Z,bigscreen-ui-git,1.0.0.r70.gc57d02b-1,0,Reusable Qt Quick components for TV/console style applications (Plasma Bigscreen)
+2026-10-28T17:45:24Z,obs-hyperate-plugin,0.1.12-1,0,OBS Studio plugin for real-time HypeRate heart rate sources and filters
+2026-10-28T17:47:31Z,git-credential-gmail,5.9.5-1,0,Git credential helper for Gmail accounts
+2026-10-28T17:47:31Z,git-credential-outlook,5.9.5-1,0,Git credential helper for Microsoft Outlook accounts
+2026-10-28T17:47:31Z,git-credential-yahoo,5.9.5-1,0,Git credential helper for Yahoo accounts
+2026-10-28T17:47:31Z,git-credential-aol,5.9.5-1,0,Git credential helper for AOL accounts
+2026-10-28T17:47:31Z,git-msgraph,5.9.5-1,0,Git helper to use Microsoft Graph API instead of SMTP to send emails
+2026-10-28T17:47:31Z,git-protonmail,5.9.5-1,0,Git helper to use ProtonMail API to send emails
+2026-10-28T17:49:42Z,xorg-server-phoenix,26.1.99.1-1,0,A fork of the Xorg server with HDR and proper multimonitor support
+2026-10-28T17:49:42Z,xorg-server-xephyr-phoenix,26.1.99.1-1,0,A nested X server that runs as an X application
+2026-10-28T17:49:42Z,xorg-server-xvfb-phoenix,26.1.99.1-1,0,Virtual framebuffer X server
+2026-10-28T17:49:42Z,xorg-server-xnest-phoenix,26.1.99.1-1,0,A nested X server that runs as an X application
+2026-10-28T17:49:42Z,xorg-server-common-phoenix,26.1.99.1-1,0,Xorg server common files
+2026-10-28T17:49:42Z,xorg-server-devel-phoenix,26.1.99.1-1,0,Development files for the X.Org X server
+2026-10-28T17:49:42Z,xorg-server-src-phoenix,26.1.99.1-1,0,Source files of the X.Org X server
+2026-10-28T17:57:58Z,mpv-phoenix,1:0.41.0-1,0,A fork of mpv with HDR support on X11
+2026-10-28T18:04:51Z,vk-hdr-layer-phoenix,1.0.0-1,0,Vulkan Wayland HDR WSI Layer
