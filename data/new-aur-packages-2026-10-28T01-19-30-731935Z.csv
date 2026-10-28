@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-28T00:33:34Z,flamewm-bin,0.1.2b-1,0,"Fast Rust X11 window manager and desktop session, with a preliminary Wayland compositor"
+2026-10-28T00:34:18Z,rusticlone-bin,2.0.1-1,0,"Scheduled 3-2-1-1-0 backups for computers and servers built on rustic profiles, with UI and notifications"

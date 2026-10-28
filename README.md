@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 00:20 UTC
+## Latest list — 2026-10-28 01:19 UTC
 
-New packages created between 2026-10-27 23:19 UTC and 2026-10-28 00:20 UTC.
+New packages created between 2026-10-28 00:20 UTC and 2026-10-28 01:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-28T00-20-50-287079Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-28T01-19-30-731935Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 23:38:28 | [brochure-bin](https://aur.archlinux.org/packages/brochure-bin) | 0.13.0-1 | 1 | A terminal RSS reader built Ratatui. |
-| 2026-10-27 23:49:01 | [db9s-bin](https://aur.archlinux.org/packages/db9s-bin) | 2026.10.2-1 | 1 | Database TUI |
-| 2026-10-28 00:10:59 | [senden-bin](https://aur.archlinux.org/packages/senden-bin) | 0.1.127-1 | 0 | Desktop client for Senden, the chat platform |
+| 2026-10-28 00:33:34 | [flamewm-bin](https://aur.archlinux.org/packages/flamewm-bin) | 0.1.2b-1 | 0 | Fast Rust X11 window manager and desktop session, with a preliminary Wayland co… |
+| 2026-10-28 00:34:18 | [rusticlone-bin](https://aur.archlinux.org/packages/rusticlone-bin) | 2.0.1-1 | 0 | Scheduled 3-2-1-1-0 backups for computers and servers built on rustic profiles,… |
 
 ## Data source
 
