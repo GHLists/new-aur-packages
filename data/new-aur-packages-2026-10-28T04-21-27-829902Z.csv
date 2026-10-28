@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-28T03:34:30Z,loaf-fm-git,0.2.1-1,0,Material 3 Expressive File Manager built with Qt6 Quick and Rust (git)
+2026-10-28T03:39:53Z,gpu-unlock-dkms,2.0.0-1,0,Lifts the GeForce cap that halves FP16/BF16/TF32 tensor throughput on RTX 20/30/40 cards (DKMS module and initramfs hooks)
+2026-10-28T03:39:53Z,gpu-unlock-firmware,2.0.0-1,0,Lifts the GeForce cap that halves FP16/BF16/TF32 tensor throughput on RTX 20/30/40 cards (firmware assets extracted from the NVIDIA installer)
+2026-10-28T03:40:26Z,dragon-media-backend-git,0.83.0_r428.g049f78…,0,Qt C++ library intended for desktop music players

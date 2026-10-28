@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 03:23 UTC
+## Latest list — 2026-10-28 04:21 UTC
 
-New packages created between 2026-10-28 02:21 UTC and 2026-10-28 03:23 UTC.
+New packages created between 2026-10-28 03:23 UTC and 2026-10-28 04:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-28T03-23-20-816451Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-28T04-21-27-829902Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 02:33:42 | [lynx-share-bin](https://aur.archlinux.org/packages/lynx-share-bin) | 0.1.19alpha-1 | 0 | A lightweight DAW with the FL Studio workflow (prebuilt binaries) |
+| 2026-10-28 03:34:30 | [loaf-fm-git](https://aur.archlinux.org/packages/loaf-fm-git) | 0.2.1-1 | 0 | Material 3 Expressive File Manager built with Qt6 Quick and Rust (git) |
+| 2026-10-28 03:39:53 | [gpu-unlock-dkms](https://aur.archlinux.org/packages/gpu-unlock-dkms) | 2.0.0-1 | 0 | Lifts the GeForce cap that halves FP16/BF16/TF32 tensor throughput on RTX 20/30… |
+| 2026-10-28 03:39:53 | [gpu-unlock-firmware](https://aur.archlinux.org/packages/gpu-unlock-firmware) | 2.0.0-1 | 0 | Lifts the GeForce cap that halves FP16/BF16/TF32 tensor throughput on RTX 20/30… |
+| 2026-10-28 03:40:26 | [dragon-media-backend-git](https://aur.archlinux.org/packages/dragon-media-backend-git) | 0.83.0_r428.g049f78… | 0 | Qt C++ library intended for desktop music players |
 
 ## Data source
 
