@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 09:20 UTC
+## Latest list — 2026-10-28 10:20 UTC
 
-New packages created between 2026-10-28 08:20 UTC and 2026-10-28 09:20 UTC.
+New packages created between 2026-10-28 09:20 UTC and 2026-10-28 10:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-28T09-20-42-096777Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-28T10-20-17-758482Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 08:32:27 | [linuwu-sense-dkms-git](https://aur.archlinux.org/packages/linuwu-sense-dkms-git) | r169.4483b6c-1 | 0 | Linuwu-Sense kernel module for Acer Predator/Nitro laptops (DKMS, git, clang-aw… |
-| 2026-10-28 09:13:54 | [python-lightgbm-cpu-only](https://aur.archlinux.org/packages/python-lightgbm-cpu-only) | 4.7.0-1 | 0 | LightGBM Python bindings with CPU/OpenMP support, without GPU or CUDA |
-| 2026-10-28 09:14:00 | [python-xgboost-cpu-only](https://aur.archlinux.org/packages/python-xgboost-cpu-only) | 3.4.1-1 | 0 | XGBoost Python bindings built from source for CPU/OpenMP, without CUDA or NCCL |
+| 2026-10-28 09:31:53 | [termtastic-git](https://aur.archlinux.org/packages/termtastic-git) | 1.0.0.alpha4.r7.g9a… | 0 | Feature-rich handmade Meshtastic console client |
+| 2026-10-28 09:47:29 | [termtastic](https://aur.archlinux.org/packages/termtastic) | 1.0.0_alpha4-1 | 0 | Feature-rich handmade Meshtastic console client |
+| 2026-10-28 09:54:57 | [gemini-api-cli-bin](https://aur.archlinux.org/packages/gemini-api-cli-bin) | 0.4.4-1 | 0 | Official command-line interface for the Google Gemini API (prebuilt binary) |
+| 2026-10-28 09:59:19 | [gemini-api-mcp](https://aur.archlinux.org/packages/gemini-api-mcp) | 0.1.0-1 | 0 | MCP server helper interface for the official Google Gemini API CLI (gemini-api) |
 
 ## Data source
 

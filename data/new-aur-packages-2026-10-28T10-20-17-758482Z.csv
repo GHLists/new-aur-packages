@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-28T09:31:53Z,termtastic-git,1.0.0.alpha4.r7.g9a…,0,Feature-rich handmade Meshtastic console client
+2026-10-28T09:47:29Z,termtastic,1.0.0_alpha4-1,0,Feature-rich handmade Meshtastic console client
+2026-10-28T09:54:57Z,gemini-api-cli-bin,0.4.4-1,0,Official command-line interface for the Google Gemini API (prebuilt binary)
+2026-10-28T09:59:19Z,gemini-api-mcp,0.1.0-1,0,MCP server helper interface for the official Google Gemini API CLI (gemini-api)
