@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-28T12:38:57Z,vector-fm,0.1.1-1,0,"Fast GTK4 file manager with nvim-style keys, a terminal panel and Lua config"
+2026-10-28T13:08:12Z,lyfy,0.1.0-1,0,Declarative system maintenance and Git-backed host state for Arch Linux
+2026-10-28T13:11:39Z,dux-gop-git,2.0.0.r1.gc1dbfaf-1,0,System monitoring CLI + REST API (git)
