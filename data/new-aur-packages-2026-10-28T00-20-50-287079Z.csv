@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-27T23:38:28Z,brochure-bin,0.13.0-1,1,A terminal RSS reader built Ratatui.
+2026-10-27T23:49:01Z,db9s-bin,2026.10.2-1,1,Database TUI
+2026-10-28T00:10:59Z,senden-bin,0.1.127-1,0,"Desktop client for Senden, the chat platform"

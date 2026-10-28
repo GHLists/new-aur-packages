@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 23:19 UTC
+## Latest list — 2026-10-28 00:20 UTC
 
-New packages created between 2026-10-27 22:20 UTC and 2026-10-27 23:19 UTC.
+New packages created between 2026-10-27 23:19 UTC and 2026-10-28 00:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-27T23-19-46-781443Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-28T00-20-50-287079Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 22:29:31 | [wwal-git](https://aur.archlinux.org/packages/wwal-git) | 1.1.0.r0.g0e7ee35-1 | 0 | Fast Wayland wallpaper, video, shader, and Steam Workshop engine with Material… |
-| 2026-10-27 22:32:37 | [hledger-simplefin-git](https://aur.archlinux.org/packages/hledger-simplefin-git) | r11.ea8ec42-1 | 0 | SimpleFIN helper scripts for hledger |
-| 2026-10-27 22:57:32 | [wwal-bin](https://aur.archlinux.org/packages/wwal-bin) | 1.1.0-1 | 0 | Fast Wayland wallpaper, video, shader, and Steam Workshop engine with Material… |
-| 2026-10-27 23:10:27 | [alsa-eldview-git](https://aur.archlinux.org/packages/alsa-eldview-git) | r1-1 | 0 | View audio capabilities of TV or sound system connected via HDMI or DisplayPort. |
+| 2026-10-27 23:38:28 | [brochure-bin](https://aur.archlinux.org/packages/brochure-bin) | 0.13.0-1 | 1 | A terminal RSS reader built Ratatui. |
+| 2026-10-27 23:49:01 | [db9s-bin](https://aur.archlinux.org/packages/db9s-bin) | 2026.10.2-1 | 1 | Database TUI |
+| 2026-10-28 00:10:59 | [senden-bin](https://aur.archlinux.org/packages/senden-bin) | 0.1.127-1 | 0 | Desktop client for Senden, the chat platform |
 
 ## Data source
 
