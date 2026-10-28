@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 13:18 UTC
+## Latest list — 2026-10-28 14:18 UTC
 
-New packages created between 2026-10-28 12:20 UTC and 2026-10-28 13:18 UTC.
+New packages created between 2026-10-28 13:18 UTC and 2026-10-28 14:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-28T13-18-40-063434Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-28T14-18-42-732991Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 12:38:57 | [vector-fm](https://aur.archlinux.org/packages/vector-fm) | 0.1.1-1 | 0 | Fast GTK4 file manager with nvim-style keys, a terminal panel and Lua config |
-| 2026-10-28 13:08:12 | [lyfy](https://aur.archlinux.org/packages/lyfy) | 0.1.0-1 | 0 | Declarative system maintenance and Git-backed host state for Arch Linux |
-| 2026-10-28 13:11:39 | [dux-gop-git](https://aur.archlinux.org/packages/dux-gop-git) | 2.0.0.r1.gc1dbfaf-1 | 0 | System monitoring CLI + REST API (git) |
+| 2026-10-28 14:05:23 | [xfce4-nightlight-plugin-git](https://aur.archlinux.org/packages/xfce4-nightlight-plugin-git) | r72.611c300-1 | 0 | XFCE panel plugin similar to GNOME's Quick Settings menu |
+| 2026-10-28 14:06:07 | [xfce4-extras-menu-plugin-git](https://aur.archlinux.org/packages/xfce4-extras-menu-plugin-git) | r72.611c300-1 | 0 | XFCE panel plugin similar to GNOME's Quick Settings menu |
+| 2026-10-28 14:06:52 | [xfce4-caffeine-plugin-git](https://aur.archlinux.org/packages/xfce4-caffeine-plugin-git) | r72.611c300-1 | 0 | Xfce panel plugin that keeps your screen from locking/sleeping. |
 
 ## Data source
 
