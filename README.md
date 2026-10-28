@@ -12,23 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 15:20 UTC
+## Latest list — 2026-10-28 16:19 UTC
 
-New packages created between 2026-10-28 14:18 UTC and 2026-10-28 15:20 UTC.
+New packages created between 2026-10-28 15:20 UTC and 2026-10-28 16:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-28T15-20-51-667451Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-28T16-19-26-303048Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 14:22:25 | [solco-bin](https://aur.archlinux.org/packages/solco-bin) | 1.0.0alpha.1-1 | 0 | Prep studio for DJs: grids, keys, tags, smart playlists and USB exports for CDJ… |
-| 2026-10-28 14:22:29 | [uuplugin-dns-patched-bin](https://aur.archlinux.org/packages/uuplugin-dns-patched-bin) | 14.2.2-1 | 0 | UU Steam Deck Linux plugin patched to preserve Tailscale DNS |
-| 2026-10-28 14:50:17 | [ocsinventory-agent3-bin](https://aur.archlinux.org/packages/ocsinventory-agent3-bin) | 3.0.0-1 | 0 | Hardware and software inventory agent for OCS Inventory server 3.x |
-| 2026-10-28 14:51:40 | [ocsinventory-agent3](https://aur.archlinux.org/packages/ocsinventory-agent3) | 3.0.0-1 | 0 | Hardware and software inventory agent for OCS Inventory server 3.x |
-| 2026-10-28 15:13:43 | [gtk4-phoenix](https://aur.archlinux.org/packages/gtk4-phoenix) | 1:4.25.0-1 | 0 | A fork of gtk with support for per-monitor fractional scaling on X11 |
-| 2026-10-28 15:13:43 | [gtk4-phoenix-demos](https://aur.archlinux.org/packages/gtk4-phoenix-demos) | 1:4.25.0-1 | 0 | A fork of gtk with support for per-monitor fractional scaling on X11 (demo appl… |
-| 2026-10-28 15:13:43 | [gtk4-phoenix-docs](https://aur.archlinux.org/packages/gtk4-phoenix-docs) | 1:4.25.0-1 | 0 | A fork of gtk with support for per-monitor fractional scaling on X11 (documenta… |
-| 2026-10-28 15:13:43 | [gtk-update-icon-cache-phoenix](https://aur.archlinux.org/packages/gtk-update-icon-cache-phoenix) | 1:4.25.0-1 | 0 | GTK icon cache updater |
-| 2026-10-28 15:17:36 | [hokum-bin](https://aur.archlinux.org/packages/hokum-bin) | 0.0.3-1 | 0 | Hokum: a freedesktop notification daemon for Wayland layer-shell compositors |
+| 2026-10-28 15:22:11 | [cpuinf-git](https://aur.archlinux.org/packages/cpuinf-git) | r3.36ab133-1 | 0 | tiny CPU-Z clone for x86 linux |
+| 2026-10-28 15:27:43 | [open-360-link-bin](https://aur.archlinux.org/packages/open-360-link-bin) | 0.1.5-1 | 0 | Open 360 Link: Pure-Rust cross-platform controller suite (GUI, CLI, HTTP/WS ser… |
+| 2026-10-28 15:50:06 | [rufix-git](https://aur.archlinux.org/packages/rufix-git) | 0.3.1.r1.g8191265-1 | 0 | Rufus-style USB formatter and bootable drive creator for Linux (GTK3) - git ver… |
 
 ## Data source
 
