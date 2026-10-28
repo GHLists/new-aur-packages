@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 01:19 UTC
+## Latest list — 2026-10-28 02:21 UTC
 
-New packages created between 2026-10-28 00:20 UTC and 2026-10-28 01:19 UTC.
+New packages created between 2026-10-28 01:19 UTC and 2026-10-28 02:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-28T01-19-30-731935Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-28T02-21-27-982616Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 00:33:34 | [flamewm-bin](https://aur.archlinux.org/packages/flamewm-bin) | 0.1.2b-1 | 0 | Fast Rust X11 window manager and desktop session, with a preliminary Wayland co… |
-| 2026-10-28 00:34:18 | [rusticlone-bin](https://aur.archlinux.org/packages/rusticlone-bin) | 2.0.1-1 | 0 | Scheduled 3-2-1-1-0 backups for computers and servers built on rustic profiles,… |
+| 2026-10-28 01:21:51 | [farplay-bin](https://aur.archlinux.org/packages/farplay-bin) | 1.4.0-1 | 0 | Ultra-low latency audio and video for playing music online |
+| 2026-10-28 02:00:18 | [file-roller-cn](https://aur.archlinux.org/packages/file-roller-cn) | 44.7-1 | 0 | GNOME archive manager with GBK/GB2312/GB18030 ZIP filename support |
+| 2026-10-28 02:08:34 | [loaf-fm-bin](https://aur.archlinux.org/packages/loaf-fm-bin) | 0.2.1-1 | 1 | Material 3 Expressive File Manager built with Qt6 Quick and Rust |
 
 ## Data source
 
