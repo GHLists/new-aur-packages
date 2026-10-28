@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 04:21 UTC
+## Latest list — 2026-10-28 06:20 UTC
 
-New packages created between 2026-10-28 03:23 UTC and 2026-10-28 04:21 UTC.
+New packages created between 2026-10-28 05:20 UTC and 2026-10-28 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-28T04-21-27-829902Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-28T06-20-21-035061Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 03:34:30 | [loaf-fm-git](https://aur.archlinux.org/packages/loaf-fm-git) | 0.2.1-1 | 0 | Material 3 Expressive File Manager built with Qt6 Quick and Rust (git) |
-| 2026-10-28 03:39:53 | [gpu-unlock-dkms](https://aur.archlinux.org/packages/gpu-unlock-dkms) | 2.0.0-1 | 0 | Lifts the GeForce cap that halves FP16/BF16/TF32 tensor throughput on RTX 20/30… |
-| 2026-10-28 03:39:53 | [gpu-unlock-firmware](https://aur.archlinux.org/packages/gpu-unlock-firmware) | 2.0.0-1 | 0 | Lifts the GeForce cap that halves FP16/BF16/TF32 tensor throughput on RTX 20/30… |
-| 2026-10-28 03:40:26 | [dragon-media-backend-git](https://aur.archlinux.org/packages/dragon-media-backend-git) | 0.83.0_r428.g049f78… | 0 | Qt C++ library intended for desktop music players |
+| 2026-10-28 05:24:14 | [pocketdesk](https://aur.archlinux.org/packages/pocketdesk) | 0.7.0-1 | 0 | Your Linux or Windows desktop on your Android phone: screen, input, clipboard,… |
+| 2026-10-28 06:05:35 | [spor-bin](https://aur.archlinux.org/packages/spor-bin) | 0.3.2-1 | 1 | Infinite undo for your whole project |
 
 ## Data source
 
