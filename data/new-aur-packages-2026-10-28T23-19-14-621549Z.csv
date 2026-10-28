@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-28T22:30:37Z,pombes-cleaner,1.0.1-2,0,A simple interactive Pacman cache cleaner for Arch Linux
+2026-10-28T23:02:20Z,rsql,0.21.0-1,0,Command line SQL interface for relational databases and common data file formats
+2026-10-28T23:02:40Z,rsql-bin,0.21.0-1,0,Command line SQL interface for relational databases and common data file formats (prebuilt)
+2026-10-28T23:10:46Z,notesearch-rag,0.1.0-1,0,"Hybrid dense + BM25 search over markdown memory notes, as a CLI and an MCP server (Claude Code, LM Studio)"
