@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-28T14:22:25Z,solco-bin,1.0.0alpha.1-1,0,"Prep studio for DJs: grids, keys, tags, smart playlists and USB exports for CDJs (private beta, needs a licence key)"
+2026-10-28T14:22:29Z,uuplugin-dns-patched-bin,14.2.2-1,0,UU Steam Deck Linux plugin patched to preserve Tailscale DNS
+2026-10-28T14:50:17Z,ocsinventory-agent3-bin,3.0.0-1,0,Hardware and software inventory agent for OCS Inventory server 3.x
+2026-10-28T14:51:40Z,ocsinventory-agent3,3.0.0-1,0,Hardware and software inventory agent for OCS Inventory server 3.x
+2026-10-28T15:13:43Z,gtk4-phoenix,1:4.25.0-1,0,A fork of gtk with support for per-monitor fractional scaling on X11
+2026-10-28T15:13:43Z,gtk4-phoenix-demos,1:4.25.0-1,0,A fork of gtk with support for per-monitor fractional scaling on X11 (demo applications)
+2026-10-28T15:13:43Z,gtk4-phoenix-docs,1:4.25.0-1,0,A fork of gtk with support for per-monitor fractional scaling on X11 (documentation)
+2026-10-28T15:13:43Z,gtk-update-icon-cache-phoenix,1:4.25.0-1,0,GTK icon cache updater
+2026-10-28T15:17:36Z,hokum-bin,0.0.3-1,0,Hokum: a freedesktop notification daemon for Wayland layer-shell compositors
