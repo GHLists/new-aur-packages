@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 08:20 UTC
+## Latest list — 2026-10-28 09:20 UTC
 
-New packages created between 2026-10-28 07:20 UTC and 2026-10-28 08:20 UTC.
+New packages created between 2026-10-28 08:20 UTC and 2026-10-28 09:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-28T08-20-46-351123Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-28T09-20-42-096777Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 07:20:31 | [lemon-studio-git](https://aur.archlinux.org/packages/lemon-studio-git) | r901.g60034ab-1 | 0 | A free and open-source digital audio workstation written in Rust |
-| 2026-10-28 07:54:06 | [flashpack](https://aur.archlinux.org/packages/flashpack) | 0.1.0-1 | 0 | Cross-platform Qt6 GUI for adb and fastboot |
+| 2026-10-28 08:32:27 | [linuwu-sense-dkms-git](https://aur.archlinux.org/packages/linuwu-sense-dkms-git) | r169.4483b6c-1 | 0 | Linuwu-Sense kernel module for Acer Predator/Nitro laptops (DKMS, git, clang-aw… |
+| 2026-10-28 09:13:54 | [python-lightgbm-cpu-only](https://aur.archlinux.org/packages/python-lightgbm-cpu-only) | 4.7.0-1 | 0 | LightGBM Python bindings with CPU/OpenMP support, without GPU or CUDA |
+| 2026-10-28 09:14:00 | [python-xgboost-cpu-only](https://aur.archlinux.org/packages/python-xgboost-cpu-only) | 3.4.1-1 | 0 | XGBoost Python bindings built from source for CPU/OpenMP, without CUDA or NCCL |
 
 ## Data source
 
