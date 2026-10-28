@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-28T16:26:09Z,hush-shell,0.3.0-1,0,"Dynamic island shell for Hyprland, built on Quickshell: bar, launcher, notifications, control center, lock and login in one pill"
+2026-10-28T16:36:31Z,scarletnx-git,r2548.d42b41d-1,0,"Static recompiler that turns ARM64 and ARM32 programs into native code, like FEX-Emu in reverse"
+2026-10-28T16:41:10Z,vector-find,0.2.1-1,0,"Vector Find: fast GTK4 file manager with nvim-style keys, a terminal panel and Lua config"
+2026-10-28T16:41:18Z,vector-view,0.2.1-1,0,"Vector View: GTK4 viewer for images, videos (mpv), PDFs and office documents"
+2026-10-28T16:58:50Z,orbis-reframe,0.7.0-2,0,"Native Linux editor for Insta360 360° footage: stitch, stabilize and reframe"

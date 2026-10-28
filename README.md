@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 16:19 UTC
+## Latest list — 2026-10-28 17:20 UTC
 
-New packages created between 2026-10-28 15:20 UTC and 2026-10-28 16:19 UTC.
+New packages created between 2026-10-28 16:19 UTC and 2026-10-28 17:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-28T16-19-26-303048Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-28T17-20-55-702399Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 15:22:11 | [cpuinf-git](https://aur.archlinux.org/packages/cpuinf-git) | r3.36ab133-1 | 0 | tiny CPU-Z clone for x86 linux |
-| 2026-10-28 15:27:43 | [open-360-link-bin](https://aur.archlinux.org/packages/open-360-link-bin) | 0.1.5-1 | 0 | Open 360 Link: Pure-Rust cross-platform controller suite (GUI, CLI, HTTP/WS ser… |
-| 2026-10-28 15:50:06 | [rufix-git](https://aur.archlinux.org/packages/rufix-git) | 0.3.1.r1.g8191265-1 | 0 | Rufus-style USB formatter and bootable drive creator for Linux (GTK3) - git ver… |
+| 2026-10-28 16:26:09 | [hush-shell](https://aur.archlinux.org/packages/hush-shell) | 0.3.0-1 | 0 | Dynamic island shell for Hyprland, built on Quickshell: bar, launcher, notifica… |
+| 2026-10-28 16:36:31 | [scarletnx-git](https://aur.archlinux.org/packages/scarletnx-git) | r2548.d42b41d-1 | 0 | Static recompiler that turns ARM64 and ARM32 programs into native code, like FE… |
+| 2026-10-28 16:41:10 | [vector-find](https://aur.archlinux.org/packages/vector-find) | 0.2.1-1 | 0 | Vector Find: fast GTK4 file manager with nvim-style keys, a terminal panel and… |
+| 2026-10-28 16:41:18 | [vector-view](https://aur.archlinux.org/packages/vector-view) | 0.2.1-1 | 0 | Vector View: GTK4 viewer for images, videos (mpv), PDFs and office documents |
+| 2026-10-28 16:58:50 | [orbis-reframe](https://aur.archlinux.org/packages/orbis-reframe) | 0.7.0-2 | 0 | Native Linux editor for Insta360 360° footage: stitch, stabilize and reframe |
 
 ## Data source
 
