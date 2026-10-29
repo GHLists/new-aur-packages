@@ -12,29 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 21:21 UTC
+## Latest list — 2026-10-29 22:20 UTC
 
-New packages created between 2026-10-29 20:19 UTC and 2026-10-29 21:21 UTC.
+New packages created between 2026-10-29 21:21 UTC and 2026-10-29 22:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T21-21-35-611323Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T22-20-58-101408Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 20:32:05 | [mactahoe-gtk-theme-fixed-git](https://aur.archlinux.org/packages/mactahoe-gtk-theme-fixed-git) | 2026.09.10.r7.g1e45… | 0 | MacTahoe GTK theme, with GTK 3/4 geometry fixes (window buttons, headerbars, Na… |
-| 2026-10-29 21:11:48 | [colloid-gtk-theme-fixed-git](https://aur.archlinux.org/packages/colloid-gtk-theme-fixed-git) | 2026.08.08.r3.gfe11… | 0 | Colloid GTK theme, with GTK 3/4 geometry fixes (window buttons, headerbars, Nau… |
-| 2026-10-29 21:11:48 | [colloid-catppuccin-gtk-theme-fixed-git](https://aur.archlinux.org/packages/colloid-catppuccin-gtk-theme-fixed-git) | 2026.08.08.r3.gfe11… | 0 | Colloid GTK theme, Catppuccin colors, with GTK 3/4 geometry fixes |
-| 2026-10-29 21:11:48 | [colloid-dracula-gtk-theme-fixed-git](https://aur.archlinux.org/packages/colloid-dracula-gtk-theme-fixed-git) | 2026.08.08.r3.gfe11… | 0 | Colloid GTK theme, Dracula colors, with GTK 3/4 geometry fixes |
-| 2026-10-29 21:11:48 | [colloid-everforest-gtk-theme-fixed-git](https://aur.archlinux.org/packages/colloid-everforest-gtk-theme-fixed-git) | 2026.08.08.r3.gfe11… | 0 | Colloid GTK theme, Everforest colors, with GTK 3/4 geometry fixes |
-| 2026-10-29 21:11:48 | [colloid-gruvbox-gtk-theme-fixed-git](https://aur.archlinux.org/packages/colloid-gruvbox-gtk-theme-fixed-git) | 2026.08.08.r3.gfe11… | 0 | Colloid GTK theme, Gruvbox colors, with GTK 3/4 geometry fixes |
-| 2026-10-29 21:11:48 | [colloid-nord-gtk-theme-fixed-git](https://aur.archlinux.org/packages/colloid-nord-gtk-theme-fixed-git) | 2026.08.08.r3.gfe11… | 0 | Colloid GTK theme, Nord colors, with GTK 3/4 geometry fixes |
-| 2026-10-29 21:11:54 | [fluent-gtk-theme-fixed-git](https://aur.archlinux.org/packages/fluent-gtk-theme-fixed-git) | 2025.04.17.r44.g7a4… | 0 | Fluent design GTK theme, with GTK 3/4 geometry fixes (window buttons, headerbar… |
-| 2026-10-29 21:12:01 | [graphite-gtk-theme-fixed-git](https://aur.archlinux.org/packages/graphite-gtk-theme-fixed-git) | 2026.08.23.r5.g3641… | 0 | Graphite GTK theme, with GTK 3/4 geometry fixes (window buttons, headerbars, Na… |
-| 2026-10-29 21:12:07 | [jasper-gtk-theme-fixed-git](https://aur.archlinux.org/packages/jasper-gtk-theme-fixed-git) | r121.gec9f301.f7.0c… | 0 | Jasper GTK theme, Dracula colors, with GTK 3/4 geometry fixes (window buttons,… |
-| 2026-10-29 21:12:14 | [lavanda-gtk-theme-fixed-git](https://aur.archlinux.org/packages/lavanda-gtk-theme-fixed-git) | 2024.04.28.r17.g108… | 0 | Lavanda GTK theme, with GTK 3/4 geometry fixes (window buttons, headerbars, Nau… |
-| 2026-10-29 21:12:20 | [magnetic-gtk-theme-fixed-git](https://aur.archlinux.org/packages/magnetic-gtk-theme-fixed-git) | r53.g6d315e6.f7.0c0… | 0 | Magnetic GTK theme, with GTK 3/4 geometry fixes (window buttons, headerbars, Na… |
-| 2026-10-29 21:12:26 | [orchis-theme-fixed-git](https://aur.archlinux.org/packages/orchis-theme-fixed-git) | 2026.07.07.r5.ga4c4… | 0 | Orchis, a Material Design GTK theme, Dracula colors, with GTK 3/4 geometry fixe… |
-| 2026-10-29 21:12:33 | [orianin-gtk-theme-fixed-git](https://aur.archlinux.org/packages/orianin-gtk-theme-fixed-git) | r10.g5cfdf21.f7.0c0… | 0 | Orianin, a flat GTK theme, Nord colors, with GTK 3/4 geometry fixes (window but… |
-| 2026-10-29 21:16:49 | [arego](https://aur.archlinux.org/packages/arego) |  |  | Design with HTML and CSS on a native canvas |
+| 2026-10-29 21:26:23 | [zkapi-clientd-bin](https://aur.archlinux.org/packages/zkapi-clientd-bin) | 0.1.6-1 | 0 | Local inference API with private prepaid zkAPI access |
+| 2026-10-29 21:26:31 | [pacman-tmpfs](https://aur.archlinux.org/packages/pacman-tmpfs) | 2026.10.25-1 | 1 | Wrapper for pacman, yay, paru using tmpfs for caches. |
+| 2026-10-29 21:52:05 | [tuxmix-bin](https://aur.archlinux.org/packages/tuxmix-bin) | 0.3.5-1 | 0 | Open-source TotalMix replacement for RME audio interfaces on Linux (prebuilt) |
 
 ## Data source
 
