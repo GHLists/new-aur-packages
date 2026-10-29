@@ -12,20 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 18:20 UTC
+## Latest list — 2026-10-29 19:19 UTC
 
-New packages created between 2026-10-29 17:21 UTC and 2026-10-29 18:20 UTC.
+New packages created between 2026-10-29 18:20 UTC and 2026-10-29 19:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T18-20-36-99752Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T19-19-43-084077Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 17:24:13 | [backupthing-bin](https://aur.archlinux.org/packages/backupthing-bin) | 0.2.1-1 | 0 | Compress phone photos and videos to AVIF/AV1 and back them up to Proton Drive |
-| 2026-10-29 17:39:49 | [bamboo-end-store](https://aur.archlinux.org/packages/bamboo-end-store) | 2.0.1-1 | 0 | Console-first software store for EndeavourOS and Arch (pacman, AUR, Flatpak, Ap… |
-| 2026-10-29 17:41:22 | [okc](https://aur.archlinux.org/packages/okc) | 0.7.2-1 | 0 | Command-line client for the Muse Spark Open Kernel Challenge |
-| 2026-10-29 17:43:49 | [jellyfin-openrc](https://aur.archlinux.org/packages/jellyfin-openrc) | 12.2-1 | 0 | OpenRC init script for Jellyfin |
-| 2026-10-29 17:50:11 | [jellyfin-dinit](https://aur.archlinux.org/packages/jellyfin-dinit) | 12.2-1 | 0 | dinit service script for Jellyfin |
-| 2026-10-29 18:11:44 | [libsigrokdecode-nemanjan00-git](https://aur.archlinux.org/packages/libsigrokdecode-nemanjan00-git) | 0.2.0.r1524.gd65933… | 0 | Client software that supports various hardware logic analyzers, protocol decode… |
+| 2026-10-29 18:29:36 | [elevenlabs-web-cli-bin](https://aur.archlinux.org/packages/elevenlabs-web-cli-bin) | 0.1.1-1 | 0 | Terminal CLI for ElevenLabs |
+| 2026-10-29 18:55:50 | [libutf8](https://aur.archlinux.org/packages/libutf8) | 1.0-1 | 0 | UTF-8 encoding and decoding library |
+| 2026-10-29 18:56:35 | [pcw-cli](https://aur.archlinux.org/packages/pcw-cli) | 0.1.0-1 | 0 | Command-line client for ProxyCoreWrapper |
+| 2026-10-29 18:59:36 | [nzlauncher-bin](https://aur.archlinux.org/packages/nzlauncher-bin) | 0.4.1-1 | 0 | Launcher for Hyprland that learns how you use it (prebuilt) |
 
 ## Data source
 

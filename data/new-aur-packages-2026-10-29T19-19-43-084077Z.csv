@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-29T18:29:36Z,elevenlabs-web-cli-bin,0.1.1-1,0,Terminal CLI for ElevenLabs
+2026-10-29T18:55:50Z,libutf8,1.0-1,0,UTF-8 encoding and decoding library
+2026-10-29T18:56:35Z,pcw-cli,0.1.0-1,0,Command-line client for ProxyCoreWrapper
+2026-10-29T18:59:36Z,nzlauncher-bin,0.4.1-1,0,Launcher for Hyprland that learns how you use it (prebuilt)
