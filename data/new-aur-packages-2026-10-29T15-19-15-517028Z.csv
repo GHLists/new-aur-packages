@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-29T15:07:41Z,dbt-core-bin,2.0.8-1,0,"Tool for data analysts to build analytics the way engineers build applications (Rust engine, prebuilt)"
+2026-10-29T15:08:54Z,powerlevel11k-git,r343.580aa4c-1,0,Powerlevel10k continuation for all shells. (git version)
+2026-10-29T15:10:43Z,kdeglance,2.0.1-1,0,Quick Look-style file preview for KDE Plasma and Dolphin
+2026-10-29T15:11:24Z,kdeglance-bin,2.0.1-1,0,"Quick Look-style file preview for KDE Plasma and Dolphin (upstream binary, needs an x86-64-v3 CPU)"

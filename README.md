@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 14:21 UTC
+## Latest list — 2026-10-29 15:19 UTC
 
-New packages created between 2026-10-29 13:20 UTC and 2026-10-29 14:21 UTC.
+New packages created between 2026-10-29 14:21 UTC and 2026-10-29 15:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T14-21-49-857422Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T15-19-15-517028Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 13:42:13 | [age-plugin-fido2-hmac](https://aur.archlinux.org/packages/age-plugin-fido2-hmac) | 0.5.0-1 | 0 | Age plugin to encrypt files with FIDO2 tokens using the hmac-secret extension |
-| 2026-10-29 13:46:33 | [age-plugin-openpgp-card](https://aur.archlinux.org/packages/age-plugin-openpgp-card) | 0.1.2-1 | 0 | Age plugin for using ed25519 on OpenPGP Card devices (YubiKeys, Nitrokeys) |
+| 2026-10-29 15:07:41 | [dbt-core-bin](https://aur.archlinux.org/packages/dbt-core-bin) | 2.0.8-1 | 0 | Tool for data analysts to build analytics the way engineers build applications… |
+| 2026-10-29 15:08:54 | [powerlevel11k-git](https://aur.archlinux.org/packages/powerlevel11k-git) | r343.580aa4c-1 | 0 | Powerlevel10k continuation for all shells. (git version) |
+| 2026-10-29 15:10:43 | [kdeglance](https://aur.archlinux.org/packages/kdeglance) | 2.0.1-1 | 0 | Quick Look-style file preview for KDE Plasma and Dolphin |
+| 2026-10-29 15:11:24 | [kdeglance-bin](https://aur.archlinux.org/packages/kdeglance-bin) | 2.0.1-1 | 0 | Quick Look-style file preview for KDE Plasma and Dolphin (upstream binary, need… |
 
 ## Data source
 
