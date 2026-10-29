@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 16:19 UTC
+## Latest list — 2026-10-29 17:21 UTC
 
-New packages created between 2026-10-29 15:19 UTC and 2026-10-29 16:19 UTC.
+New packages created between 2026-10-29 16:19 UTC and 2026-10-29 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T16-19-26-703024Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T17-21-03-588074Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 15:31:27 | [honk-bin](https://aur.archlinux.org/packages/honk-bin) | 0.1.0beta.3-1 | 0 | Experimental Linux eBPF transparent proxy engine (prebuilt musl static full bui… |
-| 2026-10-29 15:40:29 | [litellm-bin](https://aur.archlinux.org/packages/litellm-bin) | 1.106.6-1 | 0 | Library to easily interface with LLM API providers (prebuilt wheel) |
-| 2026-10-29 15:47:36 | [python-fastuuid-bin](https://aur.archlinux.org/packages/python-fastuuid-bin) | 0.14.0-1 | 0 | Python bindings to Rust's UUID library (prebuilt wheel) |
-| 2026-10-29 15:50:51 | [zero-breach-toolkit](https://aur.archlinux.org/packages/zero-breach-toolkit) | 0.1.11-1 | 0 | Offline spyware-triage scanner: checks local device traces against published me… |
+| 2026-10-29 16:26:07 | [rusty-inbox](https://aur.archlinux.org/packages/rusty-inbox) | 0.2.0-1 | 0 | Fast, native email client with a Rust engine, a Qt 6/QML interface and an optio… |
+| 2026-10-29 16:31:55 | [models](https://aur.archlinux.org/packages/models) | 0.14.1-1 | 0 | TUI and CLI for browsing AI models, benchmarks, coding agents and provider stat… |
+| 2026-10-29 16:32:10 | [models-git](https://aur.archlinux.org/packages/models-git) | 0.14.1.r1575.g416a8… | 0 | TUI and CLI for browsing AI models, benchmarks, coding agents and provider stat… |
+| 2026-10-29 16:43:49 | [opencadstudio](https://aur.archlinux.org/packages/opencadstudio) | 2026.43.0-1 | 0 | A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-acc… |
+| 2026-10-29 17:03:47 | [retroed-git](https://aur.archlinux.org/packages/retroed-git) | 2.0.2.r49.g2b78ca0-1 | 1 | General purpose tool suite for the Retro Engine (versions 1-5) |
+| 2026-10-29 17:11:37 | [axolotl-apclient-git](https://aur.archlinux.org/packages/axolotl-apclient-git) | 0.1.5.r21.ga7c2620-1 | 0 | Lightweight Archipelago multiworld text client built with C++ and ImGui (git ve… |
 
 ## Data source
 

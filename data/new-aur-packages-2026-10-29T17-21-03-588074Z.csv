@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-29T16:26:07Z,rusty-inbox,0.2.0-1,0,"Fast, native email client with a Rust engine, a Qt 6/QML interface and an optional AI assistant"
+2026-10-29T16:31:55Z,models,0.14.1-1,0,"TUI and CLI for browsing AI models, benchmarks, coding agents and provider statuses"
+2026-10-29T16:32:10Z,models-git,0.14.1.r1575.g416a8…,0,"TUI and CLI for browsing AI models, benchmarks, coding agents and provider statuses"
+2026-10-29T16:43:49Z,opencadstudio,2026.43.0-1,0,"A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering"
+2026-10-29T17:03:47Z,retroed-git,2.0.2.r49.g2b78ca0-1,1,General purpose tool suite for the Retro Engine (versions 1-5)
+2026-10-29T17:11:37Z,axolotl-apclient-git,0.1.5.r21.ga7c2620-1,0,Lightweight Archipelago multiworld text client built with C++ and ImGui (git version)
