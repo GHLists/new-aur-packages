@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-29T15:31:27Z,honk-bin,0.1.0beta.3-1,0,Experimental Linux eBPF transparent proxy engine (prebuilt musl static full build)
+2026-10-29T15:40:29Z,litellm-bin,1.106.6-1,0,Library to easily interface with LLM API providers (prebuilt wheel)
+2026-10-29T15:47:36Z,python-fastuuid-bin,0.14.0-1,0,Python bindings to Rust's UUID library (prebuilt wheel)
+2026-10-29T15:50:51Z,zero-breach-toolkit,0.1.11-1,0,Offline spyware-triage scanner: checks local device traces against published mercenary-spyware IOC feeds

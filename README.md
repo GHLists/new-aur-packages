@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 15:19 UTC
+## Latest list — 2026-10-29 16:19 UTC
 
-New packages created between 2026-10-29 14:21 UTC and 2026-10-29 15:19 UTC.
+New packages created between 2026-10-29 15:19 UTC and 2026-10-29 16:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T15-19-15-517028Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T16-19-26-703024Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 15:07:41 | [dbt-core-bin](https://aur.archlinux.org/packages/dbt-core-bin) | 2.0.8-1 | 0 | Tool for data analysts to build analytics the way engineers build applications… |
-| 2026-10-29 15:08:54 | [powerlevel11k-git](https://aur.archlinux.org/packages/powerlevel11k-git) | r343.580aa4c-1 | 0 | Powerlevel10k continuation for all shells. (git version) |
-| 2026-10-29 15:10:43 | [kdeglance](https://aur.archlinux.org/packages/kdeglance) | 2.0.1-1 | 0 | Quick Look-style file preview for KDE Plasma and Dolphin |
-| 2026-10-29 15:11:24 | [kdeglance-bin](https://aur.archlinux.org/packages/kdeglance-bin) | 2.0.1-1 | 0 | Quick Look-style file preview for KDE Plasma and Dolphin (upstream binary, need… |
+| 2026-10-29 15:31:27 | [honk-bin](https://aur.archlinux.org/packages/honk-bin) | 0.1.0beta.3-1 | 0 | Experimental Linux eBPF transparent proxy engine (prebuilt musl static full bui… |
+| 2026-10-29 15:40:29 | [litellm-bin](https://aur.archlinux.org/packages/litellm-bin) | 1.106.6-1 | 0 | Library to easily interface with LLM API providers (prebuilt wheel) |
+| 2026-10-29 15:47:36 | [python-fastuuid-bin](https://aur.archlinux.org/packages/python-fastuuid-bin) | 0.14.0-1 | 0 | Python bindings to Rust's UUID library (prebuilt wheel) |
+| 2026-10-29 15:50:51 | [zero-breach-toolkit](https://aur.archlinux.org/packages/zero-breach-toolkit) | 0.1.11-1 | 0 | Offline spyware-triage scanner: checks local device traces against published me… |
 
 ## Data source
 
