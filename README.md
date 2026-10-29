@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 00:20 UTC
+## Latest list — 2026-10-29 02:19 UTC
 
-New packages created between 2026-10-28 23:19 UTC and 2026-10-29 00:20 UTC.
+New packages created between 2026-10-29 01:19 UTC and 2026-10-29 02:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T00-20-45-299191Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T02-19-59-901068Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 23:34:33 | [xerahs-bin](https://aur.archlinux.org/packages/xerahs-bin) | 0.31.4-1 | 0 | Cross-platform screen capture and sharing tool (stable release binaries) |
-| 2026-10-28 23:54:15 | [pathvalidate-cli](https://aur.archlinux.org/packages/pathvalidate-cli) | 0.2.1-1 | 1 | The tool can sanitize/validate strings such as file-names/file-paths |
-| 2026-10-29 00:02:00 | [spor-git](https://aur.archlinux.org/packages/spor-git) | 0.3.2.r0.g6fa16b6-1 | 0 | infinite undo for your whole project |
-| 2026-10-29 00:02:08 | [defaultappsforge](https://aur.archlinux.org/packages/defaultappsforge) | 1.0.0-1 | 0 | Which app opens what: links, email, calendar, pictures, music, video, PDFs, fil… |
+| 2026-10-29 02:14:41 | [open-idea-bin](https://aur.archlinux.org/packages/open-idea-bin) | 0.1.23-1 | 0 | An open-source IDE inspired by IntelliJ IDEA, rebuilt in Rust |
+| 2026-10-29 02:16:10 | [open-idea-server-bin](https://aur.archlinux.org/packages/open-idea-server-bin) |  |  | OpenIDEA server - headless ACP agent backend for the OpenIDEA IDE |
 
 ## Data source
 
