@@ -1,0 +1,16 @@
+created_at,package,version,votes,description
+2026-10-29T20:32:05Z,mactahoe-gtk-theme-fixed-git,2026.09.10.r7.g1e45…,0,"MacTahoe GTK theme, with GTK 3/4 geometry fixes (window buttons, headerbars, Nautilus, Electron/Chromium titlebars)"
+2026-10-29T21:11:48Z,colloid-gtk-theme-fixed-git,2026.08.08.r3.gfe11…,0,"Colloid GTK theme, with GTK 3/4 geometry fixes (window buttons, headerbars, Nautilus, Electron/Chromium titlebars)"
+2026-10-29T21:11:48Z,colloid-catppuccin-gtk-theme-fixed-git,2026.08.08.r3.gfe11…,0,"Colloid GTK theme, Catppuccin colors, with GTK 3/4 geometry fixes"
+2026-10-29T21:11:48Z,colloid-dracula-gtk-theme-fixed-git,2026.08.08.r3.gfe11…,0,"Colloid GTK theme, Dracula colors, with GTK 3/4 geometry fixes"
+2026-10-29T21:11:48Z,colloid-everforest-gtk-theme-fixed-git,2026.08.08.r3.gfe11…,0,"Colloid GTK theme, Everforest colors, with GTK 3/4 geometry fixes"
+2026-10-29T21:11:48Z,colloid-gruvbox-gtk-theme-fixed-git,2026.08.08.r3.gfe11…,0,"Colloid GTK theme, Gruvbox colors, with GTK 3/4 geometry fixes"
+2026-10-29T21:11:48Z,colloid-nord-gtk-theme-fixed-git,2026.08.08.r3.gfe11…,0,"Colloid GTK theme, Nord colors, with GTK 3/4 geometry fixes"
+2026-10-29T21:11:54Z,fluent-gtk-theme-fixed-git,2025.04.17.r44.g7a4…,0,"Fluent design GTK theme, with GTK 3/4 geometry fixes (window buttons, headerbars, Nautilus, Electron/Chromium titlebars)"
+2026-10-29T21:12:01Z,graphite-gtk-theme-fixed-git,2026.08.23.r5.g3641…,0,"Graphite GTK theme, with GTK 3/4 geometry fixes (window buttons, headerbars, Nautilus, Electron/Chromium titlebars)"
+2026-10-29T21:12:07Z,jasper-gtk-theme-fixed-git,r121.gec9f301.f7.0c…,0,"Jasper GTK theme, Dracula colors, with GTK 3/4 geometry fixes (window buttons, headerbars, Nautilus, Electron/Chromium titlebars)"
+2026-10-29T21:12:14Z,lavanda-gtk-theme-fixed-git,2024.04.28.r17.g108…,0,"Lavanda GTK theme, with GTK 3/4 geometry fixes (window buttons, headerbars, Nautilus, Electron/Chromium titlebars)"
+2026-10-29T21:12:20Z,magnetic-gtk-theme-fixed-git,r53.g6d315e6.f7.0c0…,0,"Magnetic GTK theme, with GTK 3/4 geometry fixes (window buttons, headerbars, Nautilus, Electron/Chromium titlebars)"
+2026-10-29T21:12:26Z,orchis-theme-fixed-git,2026.07.07.r5.ga4c4…,0,"Orchis, a Material Design GTK theme, Dracula colors, with GTK 3/4 geometry fixes (window buttons, headerbars, Nautilus, Electron/Chromium titlebars)"
+2026-10-29T21:12:33Z,orianin-gtk-theme-fixed-git,r10.g5cfdf21.f7.0c0…,0,"Orianin, a flat GTK theme, Nord colors, with GTK 3/4 geometry fixes (window buttons, headerbars, Nautilus, Electron/Chromium titlebars)"
+2026-10-29T21:16:49Z,arego,,,Design with HTML and CSS on a native canvas
