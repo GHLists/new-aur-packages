@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-29T05:30:56Z,gremlincore,0.1.0-1,0,"The runtime for an agent that lives in your computer: queue, ledgers, wake, TUI, init. It drafts; you send."
+2026-10-29T05:30:56Z,meatbag,0.1.0-1,0,"Your AI chat exports in, a persona/ out. Extraction for gremlincore homes."
+2026-10-29T05:31:02Z,kohl,0.1.0-1,0,"RoboKohl: a model playing Kohl, files included. Personality loose, judgment stone-cold sober."
+2026-10-29T05:37:20Z,nemo-speech-cpu-nightly-bin,20261028.203448-1,1,"Native speech recognition, synthesis, and translation with CPU support (nightly)"
+2026-10-29T05:37:40Z,nemo-speech-cuda-nightly-bin,20261028.203448-1,1,"Native speech recognition, synthesis, and translation with CUDA support (nightly)"
+2026-10-29T05:37:59Z,nemo-speech-cuda13-nightly-bin,20261028.203448-1,1,"Native speech recognition, synthesis, and translation with CUDA 13 support (nightly)"
+2026-10-29T05:38:28Z,nemo-speech-vulkan-nightly-bin,20261028.203448-1,1,"Native speech recognition, synthesis, and translation with Vulkan support (nightly)"

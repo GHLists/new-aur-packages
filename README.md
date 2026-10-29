@@ -12,17 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 05:21 UTC
+## Latest list — 2026-10-29 06:20 UTC
 
-New packages created between 2026-10-29 04:21 UTC and 2026-10-29 05:21 UTC.
+New packages created between 2026-10-29 05:21 UTC and 2026-10-29 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T05-21-48-659717Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T06-20-11-846206Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 04:47:19 | [icebath-bin](https://aur.archlinux.org/packages/icebath-bin) | 1.0.7-1 | 0 | Tiling agentic harness and netrunner toolkit |
-| 2026-10-29 04:47:33 | [icebath](https://aur.archlinux.org/packages/icebath) | 1.0.7-1 | 0 | Tiling agentic harness and netrunner toolkit |
-| 2026-10-29 05:11:06 | [kanshi-gtk4-git](https://aur.archlinux.org/packages/kanshi-gtk4-git) | 0.4.0.r0.g5d54ea3-1 | 0 | Arrange displays on Wayland and save the layout as a kanshi profile |
+| 2026-10-29 05:30:56 | [gremlincore](https://aur.archlinux.org/packages/gremlincore) | 0.1.0-1 | 0 | The runtime for an agent that lives in your computer: queue, ledgers, wake, TUI… |
+| 2026-10-29 05:30:56 | [meatbag](https://aur.archlinux.org/packages/meatbag) | 0.1.0-1 | 0 | Your AI chat exports in, a persona/ out. Extraction for gremlincore homes. |
+| 2026-10-29 05:31:02 | [kohl](https://aur.archlinux.org/packages/kohl) | 0.1.0-1 | 0 | RoboKohl: a model playing Kohl, files included. Personality loose, judgment sto… |
+| 2026-10-29 05:37:20 | [nemo-speech-cpu-nightly-bin](https://aur.archlinux.org/packages/nemo-speech-cpu-nightly-bin) | 20261028.203448-1 | 1 | Native speech recognition, synthesis, and translation with CPU support (nightly) |
+| 2026-10-29 05:37:40 | [nemo-speech-cuda-nightly-bin](https://aur.archlinux.org/packages/nemo-speech-cuda-nightly-bin) | 20261028.203448-1 | 1 | Native speech recognition, synthesis, and translation with CUDA support (nightl… |
+| 2026-10-29 05:37:59 | [nemo-speech-cuda13-nightly-bin](https://aur.archlinux.org/packages/nemo-speech-cuda13-nightly-bin) | 20261028.203448-1 | 1 | Native speech recognition, synthesis, and translation with CUDA 13 support (nig… |
+| 2026-10-29 05:38:28 | [nemo-speech-vulkan-nightly-bin](https://aur.archlinux.org/packages/nemo-speech-vulkan-nightly-bin) | 20261028.203448-1 | 1 | Native speech recognition, synthesis, and translation with Vulkan support (nigh… |
 
 ## Data source
 
