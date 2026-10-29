@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 13:20 UTC
+## Latest list — 2026-10-29 14:21 UTC
 
-New packages created between 2026-10-29 12:19 UTC and 2026-10-29 13:20 UTC.
+New packages created between 2026-10-29 13:20 UTC and 2026-10-29 14:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T13-20-11-941703Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T14-21-49-857422Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 12:19:12 | [concentre-bin](https://aur.archlinux.org/packages/concentre-bin) | 0.10.0-1 | 0 | Focus timer with a visual countdown and tray icon (formerly Pomodorolm) |
-| 2026-10-29 13:06:29 | [xepher](https://aur.archlinux.org/packages/xepher) | 1.1.0-1 | 0 | Xepher — WeeChat plugin for XMPP/Jabber protocol |
-| 2026-10-29 13:06:38 | [kdeconnect-minimal](https://aur.archlinux.org/packages/kdeconnect-minimal) | 26.08.2-1 | 0 | KDE Connect daemon and CLI without KIO, Kirigami, Bluetooth or the GUI apps |
-| 2026-10-29 13:11:07 | [xepher-git](https://aur.archlinux.org/packages/xepher-git) | 1.1.0.r0.g31d1738-1 | 0 | Xepher — WeeChat plugin for XMPP/Jabber protocol (git master) |
+| 2026-10-29 13:42:13 | [age-plugin-fido2-hmac](https://aur.archlinux.org/packages/age-plugin-fido2-hmac) | 0.5.0-1 | 0 | Age plugin to encrypt files with FIDO2 tokens using the hmac-secret extension |
+| 2026-10-29 13:46:33 | [age-plugin-openpgp-card](https://aur.archlinux.org/packages/age-plugin-openpgp-card) | 0.1.2-1 | 0 | Age plugin for using ed25519 on OpenPGP Card devices (YubiKeys, Nitrokeys) |
 
 ## Data source
 
