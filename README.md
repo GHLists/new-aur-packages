@@ -12,20 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 07:19 UTC
+## Latest list — 2026-10-29 08:20 UTC
 
-New packages created between 2026-10-29 06:20 UTC and 2026-10-29 07:19 UTC.
+New packages created between 2026-10-29 07:19 UTC and 2026-10-29 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T07-19-38-39809Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T08-20-31-10308Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 06:39:49 | [g502-hub](https://aur.archlinux.org/packages/g502-hub) | 0.2.1-1 | 0 | Unofficial G HUB alternative for the Logitech G502 HERO: DPI, lighting, buttons… |
-| 2026-10-29 06:51:36 | [yunting](https://aur.archlinux.org/packages/yunting) | 0.6.30-1 | 0 | Native KDE client for NetEase Cloud Music (Qt 6 / Kirigami) |
-| 2026-10-29 07:01:54 | [openidea-bin](https://aur.archlinux.org/packages/openidea-bin) | 0.1.23-1 | 0 | Open-source IntelliJ IDEA-style IDE rebuilt in Rust |
-| 2026-10-29 07:14:05 | [novabrowser-webkit](https://aur.archlinux.org/packages/novabrowser-webkit) | 0.1.0-1 | 0 | Keyboard-driven browser on WebKitGTK 6.0, configured in TypeScript |
-| 2026-10-29 07:14:32 | [novabrowser-webkit-bin](https://aur.archlinux.org/packages/novabrowser-webkit-bin) | 0.1.0-1 | 0 | Keyboard-driven browser on WebKitGTK 6.0, configured in TypeScript (prebuilt) |
-| 2026-10-29 07:14:46 | [webkitgtk-6.0-nova-bin](https://aur.archlinux.org/packages/webkitgtk-6.0-nova-bin) | 2.54.2-2 | 0 | Web content engine for GTK 4 (PGO + x86-64-v3 + ThinLTO build with novabrowser… |
+| 2026-10-29 07:31:00 | [sysclet](https://aur.archlinux.org/packages/sysclet) | 0.3.0-1 | 0 | Generate ANSI text headers from TheDraw TDF fonts |
+| 2026-10-29 07:35:38 | [wavetune-git](https://aur.archlinux.org/packages/wavetune-git) | r6.g0e58965-1 | 0 | Unofficial wireless headset control center for Linux (git version) |
+| 2026-10-29 07:45:58 | [ieumoffice-bin](https://aur.archlinux.org/packages/ieumoffice-bin) | 0.12.8-1 | 0 | IeumOffice - desktop office suite for DOCX/XLSX/PPTX/PDF/HWP/Markdown (prebuilt… |
 
 ## Data source
 
