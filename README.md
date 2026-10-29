@@ -12,20 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 17:21 UTC
+## Latest list — 2026-10-29 18:20 UTC
 
-New packages created between 2026-10-29 16:19 UTC and 2026-10-29 17:21 UTC.
+New packages created between 2026-10-29 17:21 UTC and 2026-10-29 18:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T17-21-03-588074Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T18-20-36-99752Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 16:26:07 | [rusty-inbox](https://aur.archlinux.org/packages/rusty-inbox) | 0.2.0-1 | 0 | Fast, native email client with a Rust engine, a Qt 6/QML interface and an optio… |
-| 2026-10-29 16:31:55 | [models](https://aur.archlinux.org/packages/models) | 0.14.1-1 | 0 | TUI and CLI for browsing AI models, benchmarks, coding agents and provider stat… |
-| 2026-10-29 16:32:10 | [models-git](https://aur.archlinux.org/packages/models-git) | 0.14.1.r1575.g416a8… | 0 | TUI and CLI for browsing AI models, benchmarks, coding agents and provider stat… |
-| 2026-10-29 16:43:49 | [opencadstudio](https://aur.archlinux.org/packages/opencadstudio) | 2026.43.0-1 | 0 | A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-acc… |
-| 2026-10-29 17:03:47 | [retroed-git](https://aur.archlinux.org/packages/retroed-git) | 2.0.2.r49.g2b78ca0-1 | 1 | General purpose tool suite for the Retro Engine (versions 1-5) |
-| 2026-10-29 17:11:37 | [axolotl-apclient-git](https://aur.archlinux.org/packages/axolotl-apclient-git) | 0.1.5.r21.ga7c2620-1 | 0 | Lightweight Archipelago multiworld text client built with C++ and ImGui (git ve… |
+| 2026-10-29 17:24:13 | [backupthing-bin](https://aur.archlinux.org/packages/backupthing-bin) | 0.2.1-1 | 0 | Compress phone photos and videos to AVIF/AV1 and back them up to Proton Drive |
+| 2026-10-29 17:39:49 | [bamboo-end-store](https://aur.archlinux.org/packages/bamboo-end-store) | 2.0.1-1 | 0 | Console-first software store for EndeavourOS and Arch (pacman, AUR, Flatpak, Ap… |
+| 2026-10-29 17:41:22 | [okc](https://aur.archlinux.org/packages/okc) | 0.7.2-1 | 0 | Command-line client for the Muse Spark Open Kernel Challenge |
+| 2026-10-29 17:43:49 | [jellyfin-openrc](https://aur.archlinux.org/packages/jellyfin-openrc) | 12.2-1 | 0 | OpenRC init script for Jellyfin |
+| 2026-10-29 17:50:11 | [jellyfin-dinit](https://aur.archlinux.org/packages/jellyfin-dinit) | 12.2-1 | 0 | dinit service script for Jellyfin |
+| 2026-10-29 18:11:44 | [libsigrokdecode-nemanjan00-git](https://aur.archlinux.org/packages/libsigrokdecode-nemanjan00-git) | 0.2.0.r1524.gd65933… | 0 | Client software that supports various hardware logic analyzers, protocol decode… |
 
 ## Data source
 

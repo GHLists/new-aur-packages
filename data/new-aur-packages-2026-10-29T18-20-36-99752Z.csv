@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-29T17:24:13Z,backupthing-bin,0.2.1-1,0,Compress phone photos and videos to AVIF/AV1 and back them up to Proton Drive
+2026-10-29T17:39:49Z,bamboo-end-store,2.0.1-1,0,"Console-first software store for EndeavourOS and Arch (pacman, AUR, Flatpak, AppImage), Rust and Qt"
+2026-10-29T17:41:22Z,okc,0.7.2-1,0,Command-line client for the Muse Spark Open Kernel Challenge
+2026-10-29T17:43:49Z,jellyfin-openrc,12.2-1,0,OpenRC init script for Jellyfin
+2026-10-29T17:50:11Z,jellyfin-dinit,12.2-1,0,dinit service script for Jellyfin
+2026-10-29T18:11:44Z,libsigrokdecode-nemanjan00-git,0.2.0.r1524.gd65933…,0,"Client software that supports various hardware logic analyzers, protocol decoders library (nemanjan00 fork: upstream plus extra decoders, e.g. Saleae Logic 2 HLA support)"
