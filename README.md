@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 23:19 UTC
+## Latest list — 2026-10-29 00:20 UTC
 
-New packages created between 2026-10-28 22:19 UTC and 2026-10-28 23:19 UTC.
+New packages created between 2026-10-28 23:19 UTC and 2026-10-29 00:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-28T23-19-14-621549Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T00-20-45-299191Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 22:30:37 | [pombes-cleaner](https://aur.archlinux.org/packages/pombes-cleaner) | 1.0.1-2 | 0 | A simple interactive Pacman cache cleaner for Arch Linux |
-| 2026-10-28 23:02:20 | [rsql](https://aur.archlinux.org/packages/rsql) | 0.21.0-1 | 0 | Command line SQL interface for relational databases and common data file formats |
-| 2026-10-28 23:02:40 | [rsql-bin](https://aur.archlinux.org/packages/rsql-bin) | 0.21.0-1 | 0 | Command line SQL interface for relational databases and common data file format… |
-| 2026-10-28 23:10:46 | [notesearch-rag](https://aur.archlinux.org/packages/notesearch-rag) | 0.1.0-1 | 0 | Hybrid dense + BM25 search over markdown memory notes, as a CLI and an MCP serv… |
+| 2026-10-28 23:34:33 | [xerahs-bin](https://aur.archlinux.org/packages/xerahs-bin) | 0.31.4-1 | 0 | Cross-platform screen capture and sharing tool (stable release binaries) |
+| 2026-10-28 23:54:15 | [pathvalidate-cli](https://aur.archlinux.org/packages/pathvalidate-cli) | 0.2.1-1 | 1 | The tool can sanitize/validate strings such as file-names/file-paths |
+| 2026-10-29 00:02:00 | [spor-git](https://aur.archlinux.org/packages/spor-git) | 0.3.2.r0.g6fa16b6-1 | 0 | infinite undo for your whole project |
+| 2026-10-29 00:02:08 | [defaultappsforge](https://aur.archlinux.org/packages/defaultappsforge) | 1.0.0-1 | 0 | Which app opens what: links, email, calendar, pictures, music, video, PDFs, fil… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-28T23:34:33Z,xerahs-bin,0.31.4-1,0,Cross-platform screen capture and sharing tool (stable release binaries)
+2026-10-28T23:54:15Z,pathvalidate-cli,0.2.1-1,1,The tool can sanitize/validate strings such as file-names/file-paths
+2026-10-29T00:02:00Z,spor-git,0.3.2.r0.g6fa16b6-1,0,infinite undo for your whole project
+2026-10-29T00:02:08Z,defaultappsforge,1.0.0-1,0,"Which app opens what: links, email, calendar, pictures, music, video, PDFs, files and more; web apps (Gmail, Google Calendar) as choices. Any Linux, any desktop or none, works on a text console (Forge Suite)"
