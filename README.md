@@ -12,21 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 06:20 UTC
+## Latest list — 2026-10-29 07:19 UTC
 
-New packages created between 2026-10-29 05:21 UTC and 2026-10-29 06:20 UTC.
+New packages created between 2026-10-29 06:20 UTC and 2026-10-29 07:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T06-20-11-846206Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T07-19-38-39809Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 05:30:56 | [gremlincore](https://aur.archlinux.org/packages/gremlincore) | 0.1.0-1 | 0 | The runtime for an agent that lives in your computer: queue, ledgers, wake, TUI… |
-| 2026-10-29 05:30:56 | [meatbag](https://aur.archlinux.org/packages/meatbag) | 0.1.0-1 | 0 | Your AI chat exports in, a persona/ out. Extraction for gremlincore homes. |
-| 2026-10-29 05:31:02 | [kohl](https://aur.archlinux.org/packages/kohl) | 0.1.0-1 | 0 | RoboKohl: a model playing Kohl, files included. Personality loose, judgment sto… |
-| 2026-10-29 05:37:20 | [nemo-speech-cpu-nightly-bin](https://aur.archlinux.org/packages/nemo-speech-cpu-nightly-bin) | 20261028.203448-1 | 1 | Native speech recognition, synthesis, and translation with CPU support (nightly) |
-| 2026-10-29 05:37:40 | [nemo-speech-cuda-nightly-bin](https://aur.archlinux.org/packages/nemo-speech-cuda-nightly-bin) | 20261028.203448-1 | 1 | Native speech recognition, synthesis, and translation with CUDA support (nightl… |
-| 2026-10-29 05:37:59 | [nemo-speech-cuda13-nightly-bin](https://aur.archlinux.org/packages/nemo-speech-cuda13-nightly-bin) | 20261028.203448-1 | 1 | Native speech recognition, synthesis, and translation with CUDA 13 support (nig… |
-| 2026-10-29 05:38:28 | [nemo-speech-vulkan-nightly-bin](https://aur.archlinux.org/packages/nemo-speech-vulkan-nightly-bin) | 20261028.203448-1 | 1 | Native speech recognition, synthesis, and translation with Vulkan support (nigh… |
+| 2026-10-29 06:39:49 | [g502-hub](https://aur.archlinux.org/packages/g502-hub) | 0.2.1-1 | 0 | Unofficial G HUB alternative for the Logitech G502 HERO: DPI, lighting, buttons… |
+| 2026-10-29 06:51:36 | [yunting](https://aur.archlinux.org/packages/yunting) | 0.6.30-1 | 0 | Native KDE client for NetEase Cloud Music (Qt 6 / Kirigami) |
+| 2026-10-29 07:01:54 | [openidea-bin](https://aur.archlinux.org/packages/openidea-bin) | 0.1.23-1 | 0 | Open-source IntelliJ IDEA-style IDE rebuilt in Rust |
+| 2026-10-29 07:14:05 | [novabrowser-webkit](https://aur.archlinux.org/packages/novabrowser-webkit) | 0.1.0-1 | 0 | Keyboard-driven browser on WebKitGTK 6.0, configured in TypeScript |
+| 2026-10-29 07:14:32 | [novabrowser-webkit-bin](https://aur.archlinux.org/packages/novabrowser-webkit-bin) | 0.1.0-1 | 0 | Keyboard-driven browser on WebKitGTK 6.0, configured in TypeScript (prebuilt) |
+| 2026-10-29 07:14:46 | [webkitgtk-6.0-nova-bin](https://aur.archlinux.org/packages/webkitgtk-6.0-nova-bin) | 2.54.2-2 | 0 | Web content engine for GTK 4 (PGO + x86-64-v3 + ThinLTO build with novabrowser… |
 
 ## Data source
 
