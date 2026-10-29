@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 03:19 UTC
+## Latest list — 2026-10-29 04:21 UTC
 
-New packages created between 2026-10-29 02:19 UTC and 2026-10-29 03:19 UTC.
+New packages created between 2026-10-29 03:19 UTC and 2026-10-29 04:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T03-19-06-428223Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T04-21-26-705971Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 02:57:04 | [fabricad-bin](https://aur.archlinux.org/packages/fabricad-bin) | 0.2.1-1 | 0 | Fast, lightweight parametric 3D CAD (parts, assemblies, drawings) on Qt 6 and O… |
+| 2026-10-29 03:50:23 | [g0v0-robin](https://aur.archlinux.org/packages/g0v0-robin) | 2026.1022.1-2 | 0 | g0v0! -- free and open rhythm experience! (Robin pre-release channel) |
+| 2026-10-29 03:50:33 | [g0v0-robin-bin](https://aur.archlinux.org/packages/g0v0-robin-bin) | 2026.1022.1-2 | 0 | g0v0! -- free and open rhythm experience! (Robin pre-release channel) |
 
 ## Data source
 
