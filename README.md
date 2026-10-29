@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 12:19 UTC
+## Latest list — 2026-10-29 13:20 UTC
 
-New packages created between 2026-10-29 11:20 UTC and 2026-10-29 12:19 UTC.
+New packages created between 2026-10-29 12:19 UTC and 2026-10-29 13:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T12-19-11-567081Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T13-20-11-941703Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 11:31:27 | [wpsdav-bin](https://aur.archlinux.org/packages/wpsdav-bin) | 0.1.0-1 | 0 | Mount WPS/Kdocs cloud storage as a WebDAV endpoint |
-| 2026-10-29 11:42:55 | [gufo-git](https://aur.archlinux.org/packages/gufo-git) | 0.26.0.r12.ge011849… | 0 | The Open Source Strix Halo AI engine (git version). |
-| 2026-10-29 11:54:55 | [cap-bin](https://aur.archlinux.org/packages/cap-bin) | 0.6.2-1 | 0 | Screen recording with Studio, Instant, and screenshot modes |
+| 2026-10-29 12:19:12 | [concentre-bin](https://aur.archlinux.org/packages/concentre-bin) | 0.10.0-1 | 0 | Focus timer with a visual countdown and tray icon (formerly Pomodorolm) |
+| 2026-10-29 13:06:29 | [xepher](https://aur.archlinux.org/packages/xepher) | 1.1.0-1 | 0 | Xepher — WeeChat plugin for XMPP/Jabber protocol |
+| 2026-10-29 13:06:38 | [kdeconnect-minimal](https://aur.archlinux.org/packages/kdeconnect-minimal) | 26.08.2-1 | 0 | KDE Connect daemon and CLI without KIO, Kirigami, Bluetooth or the GUI apps |
+| 2026-10-29 13:11:07 | [xepher-git](https://aur.archlinux.org/packages/xepher-git) | 1.1.0.r0.g31d1738-1 | 0 | Xepher — WeeChat plugin for XMPP/Jabber protocol (git master) |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-29T12:19:12Z,concentre-bin,0.10.0-1,0,Focus timer with a visual countdown and tray icon (formerly Pomodorolm)
+2026-10-29T13:06:29Z,xepher,1.1.0-1,0,Xepher — WeeChat plugin for XMPP/Jabber protocol
+2026-10-29T13:06:38Z,kdeconnect-minimal,26.08.2-1,0,"KDE Connect daemon and CLI without KIO, Kirigami, Bluetooth or the GUI apps"
+2026-10-29T13:11:07Z,xepher-git,1.1.0.r0.g31d1738-1,0,Xepher — WeeChat plugin for XMPP/Jabber protocol (git master)
