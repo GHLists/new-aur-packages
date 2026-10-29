@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-29T19:56:57Z,fake-home-git,v0.1.0.3.r2.gd1afa2…,0,Banish your programs that don't respect XDG base directory
+2026-10-29T20:00:30Z,herdr-core-bin,0.1.13-2,0,Background server that keeps Herdr terminals and coding agents running
+2026-10-29T20:00:41Z,herdr-app-bin,0.1.7-2,0,Native desktop workspace for terminals and coding agents that keep running

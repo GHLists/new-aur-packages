@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 19:19 UTC
+## Latest list — 2026-10-29 20:19 UTC
 
-New packages created between 2026-10-29 18:20 UTC and 2026-10-29 19:19 UTC.
+New packages created between 2026-10-29 19:19 UTC and 2026-10-29 20:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T19-19-43-084077Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T20-19-35-725599Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 18:29:36 | [elevenlabs-web-cli-bin](https://aur.archlinux.org/packages/elevenlabs-web-cli-bin) | 0.1.1-1 | 0 | Terminal CLI for ElevenLabs |
-| 2026-10-29 18:55:50 | [libutf8](https://aur.archlinux.org/packages/libutf8) | 1.0-1 | 0 | UTF-8 encoding and decoding library |
-| 2026-10-29 18:56:35 | [pcw-cli](https://aur.archlinux.org/packages/pcw-cli) | 0.1.0-1 | 0 | Command-line client for ProxyCoreWrapper |
-| 2026-10-29 18:59:36 | [nzlauncher-bin](https://aur.archlinux.org/packages/nzlauncher-bin) | 0.4.1-1 | 0 | Launcher for Hyprland that learns how you use it (prebuilt) |
+| 2026-10-29 19:56:57 | [fake-home-git](https://aur.archlinux.org/packages/fake-home-git) | v0.1.0.3.r2.gd1afa2… | 0 | Banish your programs that don't respect XDG base directory |
+| 2026-10-29 20:00:30 | [herdr-core-bin](https://aur.archlinux.org/packages/herdr-core-bin) | 0.1.13-2 | 0 | Background server that keeps Herdr terminals and coding agents running |
+| 2026-10-29 20:00:41 | [herdr-app-bin](https://aur.archlinux.org/packages/herdr-app-bin) | 0.1.7-2 | 0 | Native desktop workspace for terminals and coding agents that keep running |
 
 ## Data source
 
