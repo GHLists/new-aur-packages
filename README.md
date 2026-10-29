@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 04:21 UTC
+## Latest list — 2026-10-29 05:21 UTC
 
-New packages created between 2026-10-29 03:19 UTC and 2026-10-29 04:21 UTC.
+New packages created between 2026-10-29 04:21 UTC and 2026-10-29 05:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T04-21-26-705971Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-29T05-21-48-659717Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 03:50:23 | [g0v0-robin](https://aur.archlinux.org/packages/g0v0-robin) | 2026.1022.1-2 | 0 | g0v0! -- free and open rhythm experience! (Robin pre-release channel) |
-| 2026-10-29 03:50:33 | [g0v0-robin-bin](https://aur.archlinux.org/packages/g0v0-robin-bin) | 2026.1022.1-2 | 0 | g0v0! -- free and open rhythm experience! (Robin pre-release channel) |
+| 2026-10-29 04:47:19 | [icebath-bin](https://aur.archlinux.org/packages/icebath-bin) | 1.0.7-1 | 0 | Tiling agentic harness and netrunner toolkit |
+| 2026-10-29 04:47:33 | [icebath](https://aur.archlinux.org/packages/icebath) | 1.0.7-1 | 0 | Tiling agentic harness and netrunner toolkit |
+| 2026-10-29 05:11:06 | [kanshi-gtk4-git](https://aur.archlinux.org/packages/kanshi-gtk4-git) | 0.4.0.r0.g5d54ea3-1 | 0 | Arrange displays on Wayland and save the layout as a kanshi profile |
 
 ## Data source
 
