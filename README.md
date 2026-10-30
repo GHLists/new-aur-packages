@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 06:19 UTC
+## Latest list — 2026-10-30 07:20 UTC
 
-New packages created between 2026-10-30 05:19 UTC and 2026-10-30 06:19 UTC.
+New packages created between 2026-10-30 06:19 UTC and 2026-10-30 07:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T06-19-17-836906Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T07-20-22-671854Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 05:38:41 | [glab-tui-bin](https://aur.archlinux.org/packages/glab-tui-bin) | 0.9.4-1 | 1 | A terminal user interface (TUI) for GitLab/GitHub, built on top of glab/gh. |
+| 2026-10-30 06:40:12 | [biliup-git](https://aur.archlinux.org/packages/biliup-git) | 1.3.4.r7.gc2a8f41-1 | 0 | Automatic livestream recording and Bilibili video uploader |
+| 2026-10-30 06:40:22 | [opp-git](https://aur.archlinux.org/packages/opp-git) | 0.6.0.r0.g0000000-1 | 0 | An all-in-one osu! toolkit (built from git master) |
+| 2026-10-30 06:52:18 | [opp-bin](https://aur.archlinux.org/packages/opp-bin) | 0.6.0-1 | 0 | An all-in-one osu! toolkit |
+| 2026-10-30 06:52:37 | [rusbmux](https://aur.archlinux.org/packages/rusbmux) | 0.2.1-1 | 0 | A usbmuxd replacement in pure Rust |
 
 ## Data source
 
