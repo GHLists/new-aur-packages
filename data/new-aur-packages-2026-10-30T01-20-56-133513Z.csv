@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-10-30T00:20:27Z,python-mp-api,0.47.0-1,0,Materials Project API client for accessing materials data
+2026-10-30T00:21:02Z,herdr-app-desktop-bin,0.1.8-1,0,Native desktop workspace for terminals and coding agents that keep running (prebuilt)
+2026-10-30T00:52:32Z,hexal-bin,0.3.4-1,1,A modal text editor aiming to supersede Helix
+2026-10-30T00:54:36Z,plasma6-themes-steamos-vapor-fixed,1.0.0-1,1,"SteamOS Vapor and VGUI themes for KDE Plasma, fixed for Plasma 6.8, with Konsole and Alacritty colors"
+2026-10-30T01:07:47Z,python-dara-xrd,1.3.0-1,0,Data-driven Automated Rietveld Analysis for powder XRD phase search and refinement

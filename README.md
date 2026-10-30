@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 00:19 UTC
+## Latest list — 2026-10-30 01:20 UTC
 
-New packages created between 2026-10-29 23:21 UTC and 2026-10-30 00:19 UTC.
+New packages created between 2026-10-30 00:19 UTC and 2026-10-30 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T00-19-43-652936Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T01-20-56-133513Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 23:22:04 | [python-chgnet](https://aur.archlinux.org/packages/python-chgnet) | 0.4.2-1 | 0 | Pretrained Universal Neural Network Potential for Charge-informed Atomistic Mod… |
-| 2026-10-30 00:14:11 | [hc-bin](https://aur.archlinux.org/packages/hc-bin) | 0.1.14-1 | 0 | herdr-core (hc) — background server that keeps Herdr terminals and coding agent… |
+| 2026-10-30 00:20:27 | [python-mp-api](https://aur.archlinux.org/packages/python-mp-api) | 0.47.0-1 | 0 | Materials Project API client for accessing materials data |
+| 2026-10-30 00:21:02 | [herdr-app-desktop-bin](https://aur.archlinux.org/packages/herdr-app-desktop-bin) | 0.1.8-1 | 0 | Native desktop workspace for terminals and coding agents that keep running (pre… |
+| 2026-10-30 00:52:32 | [hexal-bin](https://aur.archlinux.org/packages/hexal-bin) | 0.3.4-1 | 1 | A modal text editor aiming to supersede Helix |
+| 2026-10-30 00:54:36 | [plasma6-themes-steamos-vapor-fixed](https://aur.archlinux.org/packages/plasma6-themes-steamos-vapor-fixed) | 1.0.0-1 | 1 | SteamOS Vapor and VGUI themes for KDE Plasma, fixed for Plasma 6.8, with Konsol… |
+| 2026-10-30 01:07:47 | [python-dara-xrd](https://aur.archlinux.org/packages/python-dara-xrd) | 1.3.0-1 | 0 | Data-driven Automated Rietveld Analysis for powder XRD phase search and refinem… |
 
 ## Data source
 
