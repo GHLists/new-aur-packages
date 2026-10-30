@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 11:19 UTC
+## Latest list — 2026-10-30 12:19 UTC
 
-New packages created between 2026-10-30 10:20 UTC and 2026-10-30 11:19 UTC.
+New packages created between 2026-10-30 11:19 UTC and 2026-10-30 12:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T11-19-15-344032Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T12-19-32-124878Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 10:39:49 | [xdm-app-git](https://aur.archlinux.org/packages/xdm-app-git) | 9.0.8.r10.ge5a9ecda… | 0 | Fast, resumable download accelerator and video downloader with HLS/DASH support… |
-| 2026-10-30 10:41:42 | [zsh-claude-code-git](https://aur.archlinux.org/packages/zsh-claude-code-git) | 0.1.1.r7.g6aaa34f-1 | 0 | Claude-powered helpers for zsh: ask, explain, and natural-language-to-command w… |
-| 2026-10-30 10:47:36 | [chilen-git](https://aur.archlinux.org/packages/chilen-git) | r624.2cb51b2-1 | 0 | Fully offline, blazingly fast music player for your library |
-| 2026-10-30 10:52:40 | [hunspell-sk-git](https://aur.archlinux.org/packages/hunspell-sk-git) | 2.4.9.r0.gee4ffc3-1 | 0 | Slovak dictionary for Hunspell (git version) |
+| 2026-10-30 11:40:52 | [unpalm](https://aur.archlinux.org/packages/unpalm) | 0.1.2-1 | 0 | Linux palm rejection filter for touchpads |
+| 2026-10-30 11:41:06 | [python-cheby-git](https://aur.archlinux.org/packages/python-cheby-git) | 1.7.2-1 | 0 | The Cheby project aims at defining a file format to describe the HW/SW interfac… |
+| 2026-10-30 12:17:35 | [cinnabar-bin](https://aur.archlinux.org/packages/cinnabar-bin) |  |  | Unofficial client compatible with Minecraft: Bedrock Edition, written in Rust |
 
 ## Data source
 
