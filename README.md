@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 22:20 UTC
+## Latest list — 2026-10-30 00:19 UTC
 
-New packages created between 2026-10-29 21:21 UTC and 2026-10-29 22:20 UTC.
+New packages created between 2026-10-29 23:21 UTC and 2026-10-30 00:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-29T22-20-58-101408Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T00-19-43-652936Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 21:26:23 | [zkapi-clientd-bin](https://aur.archlinux.org/packages/zkapi-clientd-bin) | 0.1.6-1 | 0 | Local inference API with private prepaid zkAPI access |
-| 2026-10-29 21:26:31 | [pacman-tmpfs](https://aur.archlinux.org/packages/pacman-tmpfs) | 2026.10.25-1 | 1 | Wrapper for pacman, yay, paru using tmpfs for caches. |
-| 2026-10-29 21:52:05 | [tuxmix-bin](https://aur.archlinux.org/packages/tuxmix-bin) | 0.3.5-1 | 0 | Open-source TotalMix replacement for RME audio interfaces on Linux (prebuilt) |
+| 2026-10-29 23:22:04 | [python-chgnet](https://aur.archlinux.org/packages/python-chgnet) | 0.4.2-1 | 0 | Pretrained Universal Neural Network Potential for Charge-informed Atomistic Mod… |
+| 2026-10-30 00:14:11 | [hc-bin](https://aur.archlinux.org/packages/hc-bin) | 0.1.14-1 | 0 | herdr-core (hc) — background server that keeps Herdr terminals and coding agent… |
 
 ## Data source
 

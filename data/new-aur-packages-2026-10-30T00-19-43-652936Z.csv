@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-10-29T23:22:04Z,python-chgnet,0.4.2-1,0,Pretrained Universal Neural Network Potential for Charge-informed Atomistic Modeling
+2026-10-30T00:14:11Z,hc-bin,0.1.14-1,0,"herdr-core (hc) — background server that keeps Herdr terminals and coding agents running (prebuilt, static)"
