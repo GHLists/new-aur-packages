@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-30T16:30:25Z,artcraft-launcher-bin,0.10.0-1,0,"Install, update and launch the Craft App Suite (prebuilt binary)"
+2026-10-30T16:36:06Z,python-checktestdata,2026.9.2-1,0,Python reimplementation of the DOMjudge checktestdata input validation tool
+2026-10-30T16:59:56Z,libfprint-betterlife-347d-git,1.94.10.r1.g1b644d7…,0,libfprint-2 with native Blestech Betterlife 347d:0302 (MOC) and 347d:0304 (MOH) USB fingerprint sensor support
+2026-10-30T17:01:26Z,litefin,2.0.20-1,0,Jellyfin & Emby Client for Smart TVs and Desktop
+2026-10-30T17:14:41Z,aurora-viewer-git,0.8.4.beta.20261030…,0,"A modern Second Life viewer, written from scratch in Rust (Vulkan)"
+2026-10-30T17:17:35Z,llama-cpp-x64v3,,,LLM inference in C/C++ (x86-64-v3 optimized)
