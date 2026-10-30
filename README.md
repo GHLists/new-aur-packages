@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 14:24 UTC
+## Latest list — 2026-10-30 15:21 UTC
 
-New packages created between 2026-10-30 13:21 UTC and 2026-10-30 14:24 UTC.
+New packages created between 2026-10-30 14:24 UTC and 2026-10-30 15:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T14-24-46-37834Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T15-21-06-342998Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 14:00:49 | [mpris-bridge](https://aur.archlinux.org/packages/mpris-bridge) | 1.0.0-1 | 0 | Publishes Firefox media tabs as MPRIS players (native-messaging helper for the… |
+| 2026-10-30 14:42:28 | [rhythmbox-session-restore](https://aur.archlinux.org/packages/rhythmbox-session-restore) | 1.0.0-1 | 0 | Continuous folder shuffle plugin for Rhythmbox |
 
 ## Data source
 
