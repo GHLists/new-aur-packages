@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-10-30T14:00:49Z,mpris-bridge,1.0.0-1,0,Publishes Firefox media tabs as MPRIS players (native-messaging helper for the MPRIS Bridge extension)
