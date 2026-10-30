@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-30T17:31:49Z,libdeflate-x64v2,1.26-1,0,Heavily optimized DEFLATE/zlib/gzip compression and decompression (x86-64-v2)
+2026-10-30T17:33:33Z,libdeflate-x64v3,1.26-1,0,Heavily optimized DEFLATE/zlib/gzip compression and decompression (x86-64-v3)
+2026-10-30T17:34:58Z,libdeflate-x64v4,1.26-1,0,Heavily optimized DEFLATE/zlib/gzip compression and decompression (x86-64-v4)
+2026-10-30T17:36:51Z,litefin-bin,2.0.20-2,0,Jellyfin & Emby Client for Smart TVs and Desktop (prebuilt binary)
