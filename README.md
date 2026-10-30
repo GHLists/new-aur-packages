@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 22:19 UTC
+## Latest list — 2026-10-30 23:21 UTC
 
-New packages created between 2026-10-30 21:22 UTC and 2026-10-30 22:19 UTC.
+New packages created between 2026-10-30 22:19 UTC and 2026-10-30 23:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T22-19-44-722278Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T23-21-31-089497Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 21:28:52 | [cheatmaster-bin](https://aur.archlinux.org/packages/cheatmaster-bin) | 0.0.5-1 | 0 | Memory scanner that works out how a game stores a number: find it, freeze it, k… |
-| 2026-10-30 21:33:35 | [profuse](https://aur.archlinux.org/packages/profuse) | 0.1.1-1 | 0 | Proton Drive FUSE client for Linux — mounts your Proton Drive as a local filesy… |
-| 2026-10-30 21:59:14 | [libfprint-adst-2009-git](https://aur.archlinux.org/packages/libfprint-adst-2009-git) | 1.94.10.r1.g29cec34… | 0 | libfprint-2 with native ADST / BYD BF5325 (2009:7638) Match-On-Chip USB fingerp… |
+| 2026-10-30 22:33:17 | [nano-j2me-git](https://aur.archlinux.org/packages/nano-j2me-git) | 0.5.2.r0.gbea5022-1 | 0 | J2ME (CLDC 1.1 / MIDP 2.0) runtime and desktop emulator client (git master) |
+| 2026-10-30 23:06:04 | [openmouse-bridge-bin](https://aur.archlinux.org/packages/openmouse-bridge-bin) | 1.0.0beta.20-1 | 0 | Background service for OpenMouse: device communication, app detection and autom… |
+| 2026-10-30 23:11:05 | [oku-bin](https://aur.archlinux.org/packages/oku-bin) | 0.0.8-1 | 0 | Swap and bridge across 30+ chains and trade perps on Oku, from your terminal or… |
+| 2026-10-30 23:15:22 | [alto](https://aur.archlinux.org/packages/alto) | 0.10.0-1 | 0 | GUI file synchronization client that can sync with any cloud provider |
 
 ## Data source
 
