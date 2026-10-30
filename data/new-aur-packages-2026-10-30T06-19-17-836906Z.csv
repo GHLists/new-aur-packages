@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-10-30T05:38:41Z,glab-tui-bin,0.9.4-1,1,"A terminal user interface (TUI) for GitLab/GitHub, built on top of glab/gh."
