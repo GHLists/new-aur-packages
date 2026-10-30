@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 08:19 UTC
+## Latest list — 2026-10-30 09:20 UTC
 
-New packages created between 2026-10-30 07:20 UTC and 2026-10-30 08:19 UTC.
+New packages created between 2026-10-30 08:19 UTC and 2026-10-30 09:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T08-19-46-484857Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T09-20-42-824707Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 07:27:18 | [astragram-desktop](https://aur.archlinux.org/packages/astragram-desktop) | 7.3.3.4-2 | 0 | Customizable Telegram desktop client based on AyuGram (prebuilt) |
-| 2026-10-30 07:29:19 | [proc](https://aur.archlinux.org/packages/proc) | 2.0.2-1 | 1 | Semantic CLI tool for process management. Target by port, PID, name or path. |
-| 2026-10-30 07:38:54 | [hdd_sound-git](https://aur.archlinux.org/packages/hdd_sound-git) | r9.83e34ba-1 | 0 | Play mechanical HDD sounds in Linux linked to real disk activity |
+| 2026-10-30 08:33:59 | [arvanclouds3-bin](https://aur.archlinux.org/packages/arvanclouds3-bin) | 1.2.5_24-1 | 0 | ArvanCloud Object Storage desktop explorer (unofficial package) |
+| 2026-10-30 08:52:42 | [jna-bin](https://aur.archlinux.org/packages/jna-bin) | 5.19.1-1 | 0 | Java Native Access (jna.jar) and cross-platform mappings (jna-platform.jar), pr… |
+| 2026-10-30 09:14:40 | [gigactl-git](https://aur.archlinux.org/packages/gigactl-git) | 1.0.r71.g79ad2d5-1 | 0 | Fan and RGB keyboard backlight control for Gigabyte G5/G6 gaming laptops |
 
 ## Data source
 
