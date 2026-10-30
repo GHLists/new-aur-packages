@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 19:22 UTC
+## Latest list — 2026-10-30 21:22 UTC
 
-New packages created between 2026-10-30 18:21 UTC and 2026-10-30 19:22 UTC.
+New packages created between 2026-10-30 20:22 UTC and 2026-10-30 21:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T19-22-06-006665Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T21-22-12-998893Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 18:32:43 | [zdotool-git](https://aur.archlinux.org/packages/zdotool-git) | r1.g0000000-2 | 0 | Linux command-line automation tool that injects input through uinput |
-| 2026-10-30 19:04:38 | [pivra](https://aur.archlinux.org/packages/pivra) | 0.1.0-1 | 0 | Native GNOME JPEG/PNG image viewer |
-| 2026-10-30 19:18:46 | [xodus-nexus](https://aur.archlinux.org/packages/xodus-nexus) |  |  | Xbox-inspired launcher for Microsoft Store PC games on Linux, built on Xodus |
+| 2026-10-30 20:22:14 | [atto-netbsd-git](https://aur.archlinux.org/packages/atto-netbsd-git) | 20261030065351.gbf6… | 0 | Small Emacs-like terminal editor from NetBSD |
+| 2026-10-30 20:33:40 | [icon-theme-toolkit](https://aur.archlinux.org/packages/icon-theme-toolkit) | 1.0.1-1 | 0 | Toolkit for creating and editing Linux icon themes |
+| 2026-10-30 21:17:26 | [atto-editor-git](https://aur.archlinux.org/packages/atto-editor-git) |  |  | Small Emacs-like terminal editor by Hugh Barney |
 
 ## Data source
 
