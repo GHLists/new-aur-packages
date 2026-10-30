@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 04:21 UTC
+## Latest list — 2026-10-30 05:19 UTC
 
-New packages created between 2026-10-30 03:20 UTC and 2026-10-30 04:21 UTC.
+New packages created between 2026-10-30 04:21 UTC and 2026-10-30 05:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T04-21-01-032803Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T05-19-04-514583Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 03:24:58 | [cargo-shear-git](https://aur.archlinux.org/packages/cargo-shear-git) | 1.14.0.r10.gc33ee7b… | 0 | Remove unused dependencies in a Rust project |
-| 2026-10-30 04:15:18 | [draco-3d-git](https://aur.archlinux.org/packages/draco-3d-git) | 1.5.9.r1.gd429de8-1 | 0 | Draco is a library for compressing and decompressing 3D geometric meshes and po… |
+| 2026-10-30 04:31:01 | [draco-3d](https://aur.archlinux.org/packages/draco-3d) | 1.5.9-1 | 1 | Draco is a library for compressing and decompressing 3D geometric meshes and po… |
+| 2026-10-30 04:59:29 | [anna-git](https://aur.archlinux.org/packages/anna-git) | 0.2.0rc4-1 | 0 | anna's archive cli |
+| 2026-10-30 05:00:56 | [plasma6-themes-nobara-fixed](https://aur.archlinux.org/packages/plasma6-themes-nobara-fixed) | 0.1.0-1 | 0 | Nobara appearance for Plasma 6.8 with wallpapers, icons, GTK and Konsole themes |
+| 2026-10-30 05:02:12 | [chilpa-bin](https://aur.archlinux.org/packages/chilpa-bin) | 0.1.0-1 | 0 | Native music player with local libraries and extensible sources |
 
 ## Data source
 

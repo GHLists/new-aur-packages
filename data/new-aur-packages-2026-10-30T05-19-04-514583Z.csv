@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-30T04:31:01Z,draco-3d,1.5.9-1,1,Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
+2026-10-30T04:59:29Z,anna-git,0.2.0rc4-1,0,anna's archive cli
+2026-10-30T05:00:56Z,plasma6-themes-nobara-fixed,0.1.0-1,0,"Nobara appearance for Plasma 6.8 with wallpapers, icons, GTK and Konsole themes"
+2026-10-30T05:02:12Z,chilpa-bin,0.1.0-1,0,Native music player with local libraries and extensible sources
