@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-30T07:27:18Z,astragram-desktop,7.3.3.4-2,0,Customizable Telegram desktop client based on AyuGram (prebuilt)
+2026-10-30T07:29:19Z,proc,2.0.2-1,1,"Semantic CLI tool for process management. Target by port, PID, name or path."
+2026-10-30T07:38:54Z,hdd_sound-git,r9.83e34ba-1,0,Play mechanical HDD sounds in Linux linked to real disk activity

@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 07:20 UTC
+## Latest list — 2026-10-30 08:19 UTC
 
-New packages created between 2026-10-30 06:19 UTC and 2026-10-30 07:20 UTC.
+New packages created between 2026-10-30 07:20 UTC and 2026-10-30 08:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T07-20-22-671854Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T08-19-46-484857Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 06:40:12 | [biliup-git](https://aur.archlinux.org/packages/biliup-git) | 1.3.4.r7.gc2a8f41-1 | 0 | Automatic livestream recording and Bilibili video uploader |
-| 2026-10-30 06:40:22 | [opp-git](https://aur.archlinux.org/packages/opp-git) | 0.6.0.r0.g0000000-1 | 0 | An all-in-one osu! toolkit (built from git master) |
-| 2026-10-30 06:52:18 | [opp-bin](https://aur.archlinux.org/packages/opp-bin) | 0.6.0-1 | 0 | An all-in-one osu! toolkit |
-| 2026-10-30 06:52:37 | [rusbmux](https://aur.archlinux.org/packages/rusbmux) | 0.2.1-1 | 0 | A usbmuxd replacement in pure Rust |
+| 2026-10-30 07:27:18 | [astragram-desktop](https://aur.archlinux.org/packages/astragram-desktop) | 7.3.3.4-2 | 0 | Customizable Telegram desktop client based on AyuGram (prebuilt) |
+| 2026-10-30 07:29:19 | [proc](https://aur.archlinux.org/packages/proc) | 2.0.2-1 | 1 | Semantic CLI tool for process management. Target by port, PID, name or path. |
+| 2026-10-30 07:38:54 | [hdd_sound-git](https://aur.archlinux.org/packages/hdd_sound-git) | r9.83e34ba-1 | 0 | Play mechanical HDD sounds in Linux linked to real disk activity |
 
 ## Data source
 
