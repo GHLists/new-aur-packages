@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-30T21:28:52Z,cheatmaster-bin,0.0.5-1,0,"Memory scanner that works out how a game stores a number: find it, freeze it, keep it across restarts"
+2026-10-30T21:33:35Z,profuse,0.1.1-1,0,Proton Drive FUSE client for Linux — mounts your Proton Drive as a local filesystem
+2026-10-30T21:59:14Z,libfprint-adst-2009-git,1.94.10.r1.g29cec34…,0,libfprint-2 with native ADST / BYD BF5325 (2009:7638) Match-On-Chip USB fingerprint sensor support
