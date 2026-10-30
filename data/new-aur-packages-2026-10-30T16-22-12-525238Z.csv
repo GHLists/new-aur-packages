@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-30T15:27:58Z,okular-mupdf,0.5.8-1,0,"Secure and fast MuPDF-based Okular backend for PDF, ePUB, MOBI, AZW3, and KFX"
+2026-10-30T15:53:15Z,meetily,0.4.1-1,0,Local meeting transcription and summaries (CPU build)
+2026-10-30T15:53:15Z,meetily-cuda,0.4.1-1,0,Local meeting transcription and summaries (NVIDIA CUDA build)
+2026-10-30T15:53:17Z,meetily-vulkan,0.4.1-1,0,"Local meeting transcription and summaries (AMD, Intel and NVIDIA Vulkan build)"
+2026-10-30T15:53:21Z,meetily-openblas,0.4.1-1,0,Local meeting transcription and summaries (OpenBLAS CPU build)
+2026-10-30T15:53:21Z,meetily-hipblas,0.4.1-1,0,Local meeting transcription and summaries (AMD ROCm HIPBLAS build)
+2026-10-30T15:53:21Z,meetily-openmp,0.4.1-1,0,Local meeting transcription and summaries (OpenMP CPU build)
+2026-10-30T15:59:55Z,frost,0.1.0-1,0,Local browser file manager for Linux desktops
+2026-10-30T16:07:50Z,winepipe,1.0.0-1,0,"PipeWire-native ASIO driver for Wine (no JACK), with a COSMIC settings app"
