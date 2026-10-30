@@ -12,22 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 02:20 UTC
+## Latest list — 2026-10-30 03:20 UTC
 
-New packages created between 2026-10-30 01:20 UTC and 2026-10-30 02:20 UTC.
+New packages created between 2026-10-30 02:20 UTC and 2026-10-30 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T02-20-07-170839Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T03-20-30-117033Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 01:28:38 | [termilly-bin](https://aur.archlinux.org/packages/termilly-bin) | 1.4.0-1 | 1 | A terminal that keeps your agents, servers and projects in view |
-| 2026-10-30 01:45:27 | [libfprint-zk9500-git](https://aur.archlinux.org/packages/libfprint-zk9500-git) | 1.94.100.r3.gfbf28c… | 0 | libfprint-2 with native ZKTeco ZK9500 (1b55:0124) optical fingerprint reader su… |
-| 2026-10-30 02:05:37 | [python-torch-ema](https://aur.archlinux.org/packages/python-torch-ema) | 0.3-1 | 0 | Exponential Moving Average of PyTorch model parameters |
-| 2026-10-30 02:05:56 | [python-matscipy](https://aur.archlinux.org/packages/python-matscipy) | 1.3.1-1 | 0 | Generic Python materials science tools for plasticity, fracture mechanics, and… |
-| 2026-10-30 02:06:14 | [python-nequip](https://aur.archlinux.org/packages/python-nequip) | 0.19.1-1 | 0 | E(3)-equivariant interatomic potentials |
-| 2026-10-30 02:06:25 | [python-nequip-allegro](https://aur.archlinux.org/packages/python-nequip-allegro) | 0.8.3-1 | 0 | Allegro: scalable E(3)-equivariant interatomic potentials |
-| 2026-10-30 02:12:09 | [rustdesk-kde-wayland-bin](https://aur.archlinux.org/packages/rustdesk-kde-wayland-bin) | 1.5.0.kde1-1 | 0 | RustDesk remote desktop, with resolution change support on KDE Plasma Wayland |
-| 2026-10-30 02:15:11 | [clash-of-rust-bin](https://aur.archlinux.org/packages/clash-of-rust-bin) | 0.6.5-1 | 0 | Cross-platform client side based on Rust, Slint and mihomo. |
+| 2026-10-30 02:27:44 | [python-packflow](https://aur.archlinux.org/packages/python-packflow) | 1.0.0-1 | 0 | Flow matching for molecular crystal structure prediction with GRPO post-training |
+| 2026-10-30 02:35:17 | [python-skmatter](https://aur.archlinux.org/packages/python-skmatter) | 0.4.1-1 | 0 | A collection of scikit-learn compatible utilities for materials science and che… |
+| 2026-10-30 02:45:26 | [notion-app-electron-bin](https://aur.archlinux.org/packages/notion-app-electron-bin) | 7.41.1-1 | 0 | Your connected workspace for wiki, docs & projects (official app, repacked) |
+| 2026-10-30 02:52:13 | [python-gvp](https://aur.archlinux.org/packages/python-gvp) | 0.1.0-1 | 0 | Geometric Vector Perceptrons: rotation-equivariant GNN for learning from biomol… |
 
 ## Data source
 

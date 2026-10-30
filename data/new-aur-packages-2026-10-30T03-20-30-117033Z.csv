@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-30T02:27:44Z,python-packflow,1.0.0-1,0,Flow matching for molecular crystal structure prediction with GRPO post-training
+2026-10-30T02:35:17Z,python-skmatter,0.4.1-1,0,A collection of scikit-learn compatible utilities for materials science and chemistry
+2026-10-30T02:45:26Z,notion-app-electron-bin,7.41.1-1,0,"Your connected workspace for wiki, docs & projects (official app, repacked)"
+2026-10-30T02:52:13Z,python-gvp,0.1.0-1,0,Geometric Vector Perceptrons: rotation-equivariant GNN for learning from biomolecular structure
