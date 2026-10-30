@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 03:20 UTC
+## Latest list — 2026-10-30 04:21 UTC
 
-New packages created between 2026-10-30 02:20 UTC and 2026-10-30 03:20 UTC.
+New packages created between 2026-10-30 03:20 UTC and 2026-10-30 04:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T03-20-30-117033Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T04-21-01-032803Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 02:27:44 | [python-packflow](https://aur.archlinux.org/packages/python-packflow) | 1.0.0-1 | 0 | Flow matching for molecular crystal structure prediction with GRPO post-training |
-| 2026-10-30 02:35:17 | [python-skmatter](https://aur.archlinux.org/packages/python-skmatter) | 0.4.1-1 | 0 | A collection of scikit-learn compatible utilities for materials science and che… |
-| 2026-10-30 02:45:26 | [notion-app-electron-bin](https://aur.archlinux.org/packages/notion-app-electron-bin) | 7.41.1-1 | 0 | Your connected workspace for wiki, docs & projects (official app, repacked) |
-| 2026-10-30 02:52:13 | [python-gvp](https://aur.archlinux.org/packages/python-gvp) | 0.1.0-1 | 0 | Geometric Vector Perceptrons: rotation-equivariant GNN for learning from biomol… |
+| 2026-10-30 03:24:58 | [cargo-shear-git](https://aur.archlinux.org/packages/cargo-shear-git) | 1.14.0.r10.gc33ee7b… | 0 | Remove unused dependencies in a Rust project |
+| 2026-10-30 04:15:18 | [draco-3d-git](https://aur.archlinux.org/packages/draco-3d-git) | 1.5.9.r1.gd429de8-1 | 0 | Draco is a library for compressing and decompressing 3D geometric meshes and po… |
 
 ## Data source
 
