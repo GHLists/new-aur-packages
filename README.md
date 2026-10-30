@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 09:20 UTC
+## Latest list — 2026-10-30 10:20 UTC
 
-New packages created between 2026-10-30 08:19 UTC and 2026-10-30 09:20 UTC.
+New packages created between 2026-10-30 09:20 UTC and 2026-10-30 10:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T09-20-42-824707Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T10-20-07-498865Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 08:33:59 | [arvanclouds3-bin](https://aur.archlinux.org/packages/arvanclouds3-bin) | 1.2.5_24-1 | 0 | ArvanCloud Object Storage desktop explorer (unofficial package) |
-| 2026-10-30 08:52:42 | [jna-bin](https://aur.archlinux.org/packages/jna-bin) | 5.19.1-1 | 0 | Java Native Access (jna.jar) and cross-platform mappings (jna-platform.jar), pr… |
-| 2026-10-30 09:14:40 | [gigactl-git](https://aur.archlinux.org/packages/gigactl-git) | 1.0.r71.g79ad2d5-1 | 0 | Fan and RGB keyboard backlight control for Gigabyte G5/G6 gaming laptops |
+| 2026-10-30 09:50:42 | [opencode-studio](https://aur.archlinux.org/packages/opencode-studio) | 2.5.1-1 | 0 | Local GUI for managing OpenCode configurations (MCP, skills, plugins, auth, pro… |
+| 2026-10-30 10:05:06 | [tsuzuri](https://aur.archlinux.org/packages/tsuzuri) | 0.3.1-1 | 0 | Block-based notebook for the terminal with plain Markdown files and Vim editing |
+| 2026-10-30 10:05:21 | [tsuzuri-git](https://aur.archlinux.org/packages/tsuzuri-git) | 0.3.1.r1.gca1dc0e-1 | 0 | Block-based notebook for the terminal with plain Markdown files and Vim editing |
 
 ## Data source
 

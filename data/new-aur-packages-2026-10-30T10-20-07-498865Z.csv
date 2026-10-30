@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-30T09:50:42Z,opencode-studio,2.5.1-1,0,"Local GUI for managing OpenCode configurations (MCP, skills, plugins, auth, profiles)"
+2026-10-30T10:05:06Z,tsuzuri,0.3.1-1,0,Block-based notebook for the terminal with plain Markdown files and Vim editing
+2026-10-30T10:05:21Z,tsuzuri-git,0.3.1.r1.gca1dc0e-1,0,Block-based notebook for the terminal with plain Markdown files and Vim editing
