@@ -12,19 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 01:20 UTC
+## Latest list — 2026-10-30 02:20 UTC
 
-New packages created between 2026-10-30 00:19 UTC and 2026-10-30 01:20 UTC.
+New packages created between 2026-10-30 01:20 UTC and 2026-10-30 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T01-20-56-133513Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T02-20-07-170839Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 00:20:27 | [python-mp-api](https://aur.archlinux.org/packages/python-mp-api) | 0.47.0-1 | 0 | Materials Project API client for accessing materials data |
-| 2026-10-30 00:21:02 | [herdr-app-desktop-bin](https://aur.archlinux.org/packages/herdr-app-desktop-bin) | 0.1.8-1 | 0 | Native desktop workspace for terminals and coding agents that keep running (pre… |
-| 2026-10-30 00:52:32 | [hexal-bin](https://aur.archlinux.org/packages/hexal-bin) | 0.3.4-1 | 1 | A modal text editor aiming to supersede Helix |
-| 2026-10-30 00:54:36 | [plasma6-themes-steamos-vapor-fixed](https://aur.archlinux.org/packages/plasma6-themes-steamos-vapor-fixed) | 1.0.0-1 | 1 | SteamOS Vapor and VGUI themes for KDE Plasma, fixed for Plasma 6.8, with Konsol… |
-| 2026-10-30 01:07:47 | [python-dara-xrd](https://aur.archlinux.org/packages/python-dara-xrd) | 1.3.0-1 | 0 | Data-driven Automated Rietveld Analysis for powder XRD phase search and refinem… |
+| 2026-10-30 01:28:38 | [termilly-bin](https://aur.archlinux.org/packages/termilly-bin) | 1.4.0-1 | 1 | A terminal that keeps your agents, servers and projects in view |
+| 2026-10-30 01:45:27 | [libfprint-zk9500-git](https://aur.archlinux.org/packages/libfprint-zk9500-git) | 1.94.100.r3.gfbf28c… | 0 | libfprint-2 with native ZKTeco ZK9500 (1b55:0124) optical fingerprint reader su… |
+| 2026-10-30 02:05:37 | [python-torch-ema](https://aur.archlinux.org/packages/python-torch-ema) | 0.3-1 | 0 | Exponential Moving Average of PyTorch model parameters |
+| 2026-10-30 02:05:56 | [python-matscipy](https://aur.archlinux.org/packages/python-matscipy) | 1.3.1-1 | 0 | Generic Python materials science tools for plasticity, fracture mechanics, and… |
+| 2026-10-30 02:06:14 | [python-nequip](https://aur.archlinux.org/packages/python-nequip) | 0.19.1-1 | 0 | E(3)-equivariant interatomic potentials |
+| 2026-10-30 02:06:25 | [python-nequip-allegro](https://aur.archlinux.org/packages/python-nequip-allegro) | 0.8.3-1 | 0 | Allegro: scalable E(3)-equivariant interatomic potentials |
+| 2026-10-30 02:12:09 | [rustdesk-kde-wayland-bin](https://aur.archlinux.org/packages/rustdesk-kde-wayland-bin) | 1.5.0.kde1-1 | 0 | RustDesk remote desktop, with resolution change support on KDE Plasma Wayland |
+| 2026-10-30 02:15:11 | [clash-of-rust-bin](https://aur.archlinux.org/packages/clash-of-rust-bin) | 0.6.5-1 | 0 | Cross-platform client side based on Rust, Slint and mihomo. |
 
 ## Data source
 

@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-10-30T01:28:38Z,termilly-bin,1.4.0-1,1,"A terminal that keeps your agents, servers and projects in view"
+2026-10-30T01:45:27Z,libfprint-zk9500-git,1.94.100.r3.gfbf28c…,0,libfprint-2 with native ZKTeco ZK9500 (1b55:0124) optical fingerprint reader support
+2026-10-30T02:05:37Z,python-torch-ema,0.3-1,0,Exponential Moving Average of PyTorch model parameters
+2026-10-30T02:05:56Z,python-matscipy,1.3.1-1,0,"Generic Python materials science tools for plasticity, fracture mechanics, and more"
+2026-10-30T02:06:14Z,python-nequip,0.19.1-1,0,E(3)-equivariant interatomic potentials
+2026-10-30T02:06:25Z,python-nequip-allegro,0.8.3-1,0,Allegro: scalable E(3)-equivariant interatomic potentials
+2026-10-30T02:12:09Z,rustdesk-kde-wayland-bin,1.5.0.kde1-1,0,"RustDesk remote desktop, with resolution change support on KDE Plasma Wayland"
+2026-10-30T02:15:11Z,clash-of-rust-bin,0.6.5-1,0,"Cross-platform client side based on Rust, Slint and mihomo."
