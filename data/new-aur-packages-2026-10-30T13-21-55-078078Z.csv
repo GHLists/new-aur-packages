@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-30T12:31:57Z,python-quickjs-ng,0.17.0.2-1,0,Thin Python wrapper of the quickjs-ng JavaScript engine.
+2026-10-30T12:54:29Z,xmtr-bin,0.3.1-1,0,"Concurrent traceroute built on trippy that publishes routes, trace several targets at once and see every hop on a map."
+2026-10-30T12:54:43Z,xmtr,0.3.1-1,0,"Concurrent traceroute built on trippy that publishes routes, trace several targets at once and see every hop on a map."
+2026-10-30T12:56:22Z,strata-app-bin,0.2.8-2,0,Strata Desktop - Local inference engine and GUI for frontier AI models
+2026-10-30T13:04:49Z,cinnabar,0.1.31-1,1,"Unofficial client compatible with Minecraft: Bedrock Edition, written in Rust"
+2026-10-30T13:11:17Z,inkpane-git,r42.97f641b-1,0,Draw on your screen through a transparent Wayland overlay (layer-shell)
