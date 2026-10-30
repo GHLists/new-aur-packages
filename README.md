@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 18:21 UTC
+## Latest list — 2026-10-30 19:22 UTC
 
-New packages created between 2026-10-30 17:20 UTC and 2026-10-30 18:21 UTC.
+New packages created between 2026-10-30 18:21 UTC and 2026-10-30 19:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T18-21-36-366102Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T19-22-06-006665Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 17:31:49 | [libdeflate-x64v2](https://aur.archlinux.org/packages/libdeflate-x64v2) | 1.26-1 | 0 | Heavily optimized DEFLATE/zlib/gzip compression and decompression (x86-64-v2) |
-| 2026-10-30 17:33:33 | [libdeflate-x64v3](https://aur.archlinux.org/packages/libdeflate-x64v3) | 1.26-1 | 0 | Heavily optimized DEFLATE/zlib/gzip compression and decompression (x86-64-v3) |
-| 2026-10-30 17:34:58 | [libdeflate-x64v4](https://aur.archlinux.org/packages/libdeflate-x64v4) | 1.26-1 | 0 | Heavily optimized DEFLATE/zlib/gzip compression and decompression (x86-64-v4) |
-| 2026-10-30 17:36:51 | [litefin-bin](https://aur.archlinux.org/packages/litefin-bin) | 2.0.20-2 | 0 | Jellyfin & Emby Client for Smart TVs and Desktop (prebuilt binary) |
+| 2026-10-30 18:32:43 | [zdotool-git](https://aur.archlinux.org/packages/zdotool-git) | r1.g0000000-2 | 0 | Linux command-line automation tool that injects input through uinput |
+| 2026-10-30 19:04:38 | [pivra](https://aur.archlinux.org/packages/pivra) | 0.1.0-1 | 0 | Native GNOME JPEG/PNG image viewer |
+| 2026-10-30 19:18:46 | [xodus-nexus](https://aur.archlinux.org/packages/xodus-nexus) |  |  | Xbox-inspired launcher for Microsoft Store PC games on Linux, built on Xodus |
 
 ## Data source
 
