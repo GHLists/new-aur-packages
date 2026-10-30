@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-30T10:39:49Z,xdm-app-git,9.0.8.r10.ge5a9ecda…,0,"Fast, resumable download accelerator and video downloader with HLS/DASH support (master branch)"
+2026-10-30T10:41:42Z,zsh-claude-code-git,0.1.1.r7.g6aaa34f-1,0,"Claude-powered helpers for zsh: ask, explain, and natural-language-to-command widgets"
+2026-10-30T10:47:36Z,chilen-git,r624.2cb51b2-1,0,"Fully offline, blazingly fast music player for your library"
+2026-10-30T10:52:40Z,hunspell-sk-git,2.4.9.r0.gee4ffc3-1,0,Slovak dictionary for Hunspell (git version)

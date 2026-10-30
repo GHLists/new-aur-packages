@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 10:20 UTC
+## Latest list — 2026-10-30 11:19 UTC
 
-New packages created between 2026-10-30 09:20 UTC and 2026-10-30 10:20 UTC.
+New packages created between 2026-10-30 10:20 UTC and 2026-10-30 11:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T10-20-07-498865Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-30T11-19-15-344032Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 09:50:42 | [opencode-studio](https://aur.archlinux.org/packages/opencode-studio) | 2.5.1-1 | 0 | Local GUI for managing OpenCode configurations (MCP, skills, plugins, auth, pro… |
-| 2026-10-30 10:05:06 | [tsuzuri](https://aur.archlinux.org/packages/tsuzuri) | 0.3.1-1 | 0 | Block-based notebook for the terminal with plain Markdown files and Vim editing |
-| 2026-10-30 10:05:21 | [tsuzuri-git](https://aur.archlinux.org/packages/tsuzuri-git) | 0.3.1.r1.gca1dc0e-1 | 0 | Block-based notebook for the terminal with plain Markdown files and Vim editing |
+| 2026-10-30 10:39:49 | [xdm-app-git](https://aur.archlinux.org/packages/xdm-app-git) | 9.0.8.r10.ge5a9ecda… | 0 | Fast, resumable download accelerator and video downloader with HLS/DASH support… |
+| 2026-10-30 10:41:42 | [zsh-claude-code-git](https://aur.archlinux.org/packages/zsh-claude-code-git) | 0.1.1.r7.g6aaa34f-1 | 0 | Claude-powered helpers for zsh: ask, explain, and natural-language-to-command w… |
+| 2026-10-30 10:47:36 | [chilen-git](https://aur.archlinux.org/packages/chilen-git) | r624.2cb51b2-1 | 0 | Fully offline, blazingly fast music player for your library |
+| 2026-10-30 10:52:40 | [hunspell-sk-git](https://aur.archlinux.org/packages/hunspell-sk-git) | 2.4.9.r0.gee4ffc3-1 | 0 | Slovak dictionary for Hunspell (git version) |
 
 ## Data source
 
