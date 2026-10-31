@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 23:21 UTC
+## Latest list — 2026-10-31 00:18 UTC
 
-New packages created between 2026-10-30 22:19 UTC and 2026-10-30 23:21 UTC.
+New packages created between 2026-10-30 23:21 UTC and 2026-10-31 00:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-30T23-21-31-089497Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T00-18-52-414436Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 22:33:17 | [nano-j2me-git](https://aur.archlinux.org/packages/nano-j2me-git) | 0.5.2.r0.gbea5022-1 | 0 | J2ME (CLDC 1.1 / MIDP 2.0) runtime and desktop emulator client (git master) |
-| 2026-10-30 23:06:04 | [openmouse-bridge-bin](https://aur.archlinux.org/packages/openmouse-bridge-bin) | 1.0.0beta.20-1 | 0 | Background service for OpenMouse: device communication, app detection and autom… |
-| 2026-10-30 23:11:05 | [oku-bin](https://aur.archlinux.org/packages/oku-bin) | 0.0.8-1 | 0 | Swap and bridge across 30+ chains and trade perps on Oku, from your terminal or… |
-| 2026-10-30 23:15:22 | [alto](https://aur.archlinux.org/packages/alto) | 0.10.0-1 | 0 | GUI file synchronization client that can sync with any cloud provider |
+| 2026-10-31 00:04:36 | [invidious-companion-git](https://aur.archlinux.org/packages/invidious-companion-git) | release.master.127.… | 0 | Companion app for invidious |
+| 2026-10-31 00:13:38 | [openrig-git](https://aur.archlinux.org/packages/openrig-git) | r103.dbb2761-1 | 0 | Guitar multi-effects pedalboard. |
 
 ## Data source
 
