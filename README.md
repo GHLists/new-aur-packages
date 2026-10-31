@@ -12,23 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 11:18 UTC
+## Latest list — 2026-10-31 12:20 UTC
 
-New packages created between 2026-10-31 10:20 UTC and 2026-10-31 11:18 UTC.
+New packages created between 2026-10-31 11:18 UTC and 2026-10-31 12:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T11-18-47-521372Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T12-20-04-617696Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 10:35:06 | [epoch-app-bin](https://aur.archlinux.org/packages/epoch-app-bin) | 1.0.1-1 | 0 | Archivo personal de la web: guarda el HTML de una página para volver a verla co… |
-| 2026-10-31 10:50:16 | [python-django-cachalot](https://aur.archlinux.org/packages/python-django-cachalot) | 2.9.1-1 | 0 | Caches your Django ORM queries and automatically invalidates them. |
-| 2026-10-31 10:50:47 | [matlab-agentic-toolkit-installer](https://aur.archlinux.org/packages/matlab-agentic-toolkit-installer) | 0.3.0-1 | 0 | A unified installer for the MATLAB MCP Server, MATLAB Agentic Toolkit and Simul… |
-| 2026-10-31 11:07:19 | [bettertimer-bin](https://aur.archlinux.org/packages/bettertimer-bin) | 1.1.1-1 | 0 | 'sleep' with progress and notifications, written in rust |
-| 2026-10-31 11:14:26 | [python-django-treenode](https://aur.archlinux.org/packages/python-django-treenode) |  |  | probably the best abstract model/admin for your tree based stuff. |
-| 2026-10-31 11:15:45 | [python-azure-ai-documentintelligence](https://aur.archlinux.org/packages/python-azure-ai-documentintelligence) |  |  | Microsoft Azure AI Document Intelligence Client Library for Python |
-| 2026-10-31 11:17:30 | [python-httpx-oauth](https://aur.archlinux.org/packages/python-httpx-oauth) |  |  | Async OAuth client using HTTPX |
-| 2026-10-31 11:17:49 | [python-turbohtml](https://aur.archlinux.org/packages/python-turbohtml) |  |  | A fast, fully typed HTML toolkit for Python, powered by a C-accelerated core. |
-| 2026-10-31 11:18:01 | [python-whoosh-compat](https://aur.archlinux.org/packages/python-whoosh-compat) |  |  | Whoosh query-language parser emitting programmatic tantivy queries |
+| 2026-10-31 11:24:41 | [python-tantivy](https://aur.archlinux.org/packages/python-tantivy) | 0.27.0-1 | 0 | Official Python bindings for the Tantivy search engine |
+| 2026-10-31 11:48:51 | [kando-kwin-integration](https://aur.archlinux.org/packages/kando-kwin-integration) | 0.4.1-1 | 1 | A small KWin plugin required for Kando on Wayland. |
+| 2026-10-31 11:57:29 | [terraprism-bin](https://aur.archlinux.org/packages/terraprism-bin) | 0.13.0-1 | 0 | Terminal UI for viewing Terraform and OpenTofu plans (prebuilt binary) |
+| 2026-10-31 11:58:34 | [terraprism-git](https://aur.archlinux.org/packages/terraprism-git) | 0.13.0.r0.g8acf2ff-1 | 0 | Terminal UI for viewing Terraform and OpenTofu plans (git version) |
+| 2026-10-31 12:04:18 | [python-llama-index-embeddings-openai-like](https://aur.archlinux.org/packages/python-llama-index-embeddings-openai-like) | 0.4.0-1 | 0 | llama-index embeddings openai integration |
+| 2026-10-31 12:04:22 | [python-llama-index-llms-ollama](https://aur.archlinux.org/packages/python-llama-index-llms-ollama) | 0.11.0-1 | 0 | llama-index llms ollama integration |
+| 2026-10-31 12:04:27 | [python-llama-index-llms-openai-like](https://aur.archlinux.org/packages/python-llama-index-llms-openai-like) | 0.8.0-1 | 0 | llama-index llms openai like integration |
+| 2026-10-31 12:05:33 | [python-llama-index-embeddings-ollama](https://aur.archlinux.org/packages/python-llama-index-embeddings-ollama) | 0.10.0-2 | 0 | llama-index embeddings ollama integration |
+| 2026-10-31 12:19:30 | [kalipso-git](https://aur.archlinux.org/packages/kalipso-git) |  |  | Teleprompter that keeps your place: follows your voice on your computer, scroll… |
 
 ## Data source
 

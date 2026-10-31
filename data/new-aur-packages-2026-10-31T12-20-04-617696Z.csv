@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-31T11:24:41Z,python-tantivy,0.27.0-1,0,Official Python bindings for the Tantivy search engine
+2026-10-31T11:48:51Z,kando-kwin-integration,0.4.1-1,1,A small KWin plugin required for Kando on Wayland.
+2026-10-31T11:57:29Z,terraprism-bin,0.13.0-1,0,Terminal UI for viewing Terraform and OpenTofu plans (prebuilt binary)
+2026-10-31T11:58:34Z,terraprism-git,0.13.0.r0.g8acf2ff-1,0,Terminal UI for viewing Terraform and OpenTofu plans (git version)
+2026-10-31T12:04:18Z,python-llama-index-embeddings-openai-like,0.4.0-1,0,llama-index embeddings openai integration
+2026-10-31T12:04:22Z,python-llama-index-llms-ollama,0.11.0-1,0,llama-index llms ollama integration
+2026-10-31T12:04:27Z,python-llama-index-llms-openai-like,0.8.0-1,0,llama-index llms openai like integration
+2026-10-31T12:05:33Z,python-llama-index-embeddings-ollama,0.10.0-2,0,llama-index embeddings ollama integration
+2026-10-31T12:19:30Z,kalipso-git,,,"Teleprompter that keeps your place: follows your voice on your computer, scrolls at a steady pace or waits for your pedal (development version)"
