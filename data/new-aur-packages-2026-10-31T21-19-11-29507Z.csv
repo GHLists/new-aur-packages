@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-31T20:22:25Z,glimpse-pager-bin,0.1.0-1,0,A terminal pager for files and streams
+2026-10-31T20:22:38Z,glimpse-pager,0.1.0-1,0,A terminal pager for files and streams
+2026-10-31T21:06:45Z,silent,1.0.0-1,0,"A borderless, fast file previewer for Nautilus on X11 (replaces sushi)"
+2026-10-31T21:15:31Z,legenda-git,,,GTK 4 subtitle search and downloader
