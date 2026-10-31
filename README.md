@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 02:20 UTC
+## Latest list — 2026-10-31 03:20 UTC
 
-New packages created between 2026-10-31 01:19 UTC and 2026-10-31 02:20 UTC.
+New packages created between 2026-10-31 02:20 UTC and 2026-10-31 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T02-20-14-223311Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T03-20-18-593846Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 01:26:38 | [agent-desktop-bin](https://aur.archlinux.org/packages/agent-desktop-bin) | 1.0.2-1 | 0 | Desktop computer use for AI agents through OS accessibility trees (pre-compiled… |
-| 2026-10-31 01:31:32 | [ufw-manager-tui](https://aur.archlinux.org/packages/ufw-manager-tui) | 0.1.4-1 | 1 | A friendly terminal UI for managing ufw firewall rules without getting locked o… |
-| 2026-10-31 01:37:53 | [antares-circuit-bin](https://aur.archlinux.org/packages/antares-circuit-bin) | 2.4.0-1 | 1 | Digital circuit learning platform |
+| 2026-10-31 02:26:39 | [squirrel-disk](https://aur.archlinux.org/packages/squirrel-disk) | 2.6.1-1 | 0 | Fast, cross-platform disk usage analyzer with an animated sunburst (native Rust… |
+| 2026-10-31 03:03:45 | [easypostman-bin](https://aur.archlinux.org/packages/easypostman-bin) | 6.2.9-1 | 0 | An open-source API debugging and stress testing tool inspired by Postman and JM… |
 
 ## Data source
 
