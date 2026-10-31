@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-31T10:35:06Z,epoch-app-bin,1.0.1-1,0,Archivo personal de la web: guarda el HTML de una página para volver a verla como estaba
+2026-10-31T10:50:16Z,python-django-cachalot,2.9.1-1,0,Caches your Django ORM queries and automatically invalidates them.
+2026-10-31T10:50:47Z,matlab-agentic-toolkit-installer,0.3.0-1,0,"A unified installer for the MATLAB MCP Server, MATLAB Agentic Toolkit and Simulink Agentic Toolkit"
+2026-10-31T11:07:19Z,bettertimer-bin,1.1.1-1,0,"'sleep' with progress and notifications, written in rust"
+2026-10-31T11:14:26Z,python-django-treenode,,,probably the best abstract model/admin for your tree based stuff.
+2026-10-31T11:15:45Z,python-azure-ai-documentintelligence,,,Microsoft Azure AI Document Intelligence Client Library for Python
+2026-10-31T11:17:30Z,python-httpx-oauth,,,Async OAuth client using HTTPX
+2026-10-31T11:17:49Z,python-turbohtml,,,"A fast, fully typed HTML toolkit for Python, powered by a C-accelerated core."
+2026-10-31T11:18:01Z,python-whoosh-compat,,,Whoosh query-language parser emitting programmatic tantivy queries
