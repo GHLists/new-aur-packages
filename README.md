@@ -12,23 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 04:19 UTC
+## Latest list — 2026-10-31 05:19 UTC
 
-New packages created between 2026-10-31 03:20 UTC and 2026-10-31 04:19 UTC.
+New packages created between 2026-10-31 04:19 UTC and 2026-10-31 05:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T04-19-43-706185Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T05-19-56-070073Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 03:52:20 | [antfood-git](https://aur.archlinux.org/packages/antfood-git) | r28.aed379e-1 | 0 | A text-first app for recording and viewing calories, weight, and other daily ev… |
-| 2026-10-31 04:02:29 | [qt6-configqml](https://aur.archlinux.org/packages/qt6-configqml) | 0.2.0-1 | 0 | Layered configuration for Qt and QML |
-| 2026-10-31 04:08:22 | [certfan](https://aur.archlinux.org/packages/certfan) | 0.3.0-1 | 0 | Checks that every IP address behind a TLS hostname serves the same valid, not-a… |
-| 2026-10-31 04:08:43 | [cloud-image-inspector](https://aur.archlinux.org/packages/cloud-image-inspector) | 0.1.0-1 | 0 | Read qcow2 and raw cloud disk images without booting or mounting them: OS, logi… |
-| 2026-10-31 04:09:04 | [code-buster](https://aur.archlinux.org/packages/code-buster) | 0.12.0-1 | 0 | Deterministic, offline static analysis for repository structure, dependencies,… |
-| 2026-10-31 04:09:25 | [keploy](https://aur.archlinux.org/packages/keploy) | 3.6.162-1 | 0 | Record real API traffic and replay it as regression tests with auto-generated d… |
-| 2026-10-31 04:09:46 | [postsleuth](https://aur.archlinux.org/packages/postsleuth) | 0.2.1-1 | 0 | Diagnoses why a Postfix server is not delivering mail: groups the queue by defe… |
-| 2026-10-31 04:10:08 | [python-blastradius](https://aur.archlinux.org/packages/python-blastradius) | 0.1.0+r4.ee88d07-1 | 0 | Shows what breaks before you change a Python function: callers with file:line,… |
-| 2026-10-31 04:10:29 | [python-wheelripe](https://aur.archlinux.org/packages/python-wheelripe) | 0.1.0-1 | 0 | Before you move to a new Python (3.15, free-threaded 3.15t), find every locked… |
+| 2026-10-31 04:27:20 | [dsh-tui-git](https://aur.archlinux.org/packages/dsh-tui-git) | 0.17.0.r1798.g83fcf… | 0 | Claude Code style fullscreen TUI launcher for DeepSeek Harness (dsh), built fro… |
+| 2026-10-31 04:33:10 | [bencher](https://aur.archlinux.org/packages/bencher) | 0.3.18-1 | 0 | Continuous benchmarking platform: catch performance regressions in CI |
+| 2026-10-31 04:33:30 | [dbdiff](https://aur.archlinux.org/packages/dbdiff) | 0.2.2-1 | 0 | Compare database schemas, detect schema drift, and generate migration SQL, with… |
+| 2026-10-31 04:33:51 | [dockdu](https://aur.archlinux.org/packages/dockdu) | 0.5.0-1 | 0 | Read-only report of where Docker disk space went: container log files, build ca… |
+| 2026-10-31 04:34:12 | [drainready](https://aur.archlinux.org/packages/drainready) | 0.2.0-1 | 0 | Predicts whether kubectl drain will finish on a node by checking PodDisruptionB… |
+| 2026-10-31 04:34:33 | [expose](https://aur.archlinux.org/packages/expose) | 0.5.4-1 | 0 | A single-binary, zero-signup alternative to ngrok to expose localhost to the in… |
+| 2026-10-31 04:57:16 | [flikka](https://aur.archlinux.org/packages/flikka) | 0.2.0-1 | 0 | Screen recorder and video editor for AI agents on Linux: record browsers, termi… |
 
 ## Data source
 

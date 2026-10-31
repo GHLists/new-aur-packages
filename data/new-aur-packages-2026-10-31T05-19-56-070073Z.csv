@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-10-31T04:27:20Z,dsh-tui-git,0.17.0.r1798.g83fcf…,0,"Claude Code style fullscreen TUI launcher for DeepSeek Harness (dsh), built from the main branch"
+2026-10-31T04:33:10Z,bencher,0.3.18-1,0,Continuous benchmarking platform: catch performance regressions in CI
+2026-10-31T04:33:30Z,dbdiff,0.2.2-1,0,"Compare database schemas, detect schema drift, and generate migration SQL, with JSON output and a CI mode"
+2026-10-31T04:33:51Z,dockdu,0.5.0-1,0,"Read-only report of where Docker disk space went: container log files, build cache shared with images and storage per Compose project"
+2026-10-31T04:34:12Z,drainready,0.2.0-1,0,Predicts whether kubectl drain will finish on a node by checking PodDisruptionBudgets before you cordon; names the blocking budget and why
+2026-10-31T04:34:33Z,expose,0.5.4-1,0,"A single-binary, zero-signup alternative to ngrok to expose localhost to the internet"
+2026-10-31T04:57:16Z,flikka,0.2.0-1,0,"Screen recorder and video editor for AI agents on Linux: record browsers, terminals and desktops, then edit, narrate and render from the CLI"
