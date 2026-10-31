@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 07:20 UTC
+## Latest list — 2026-10-31 08:20 UTC
 
-New packages created between 2026-10-31 06:18 UTC and 2026-10-31 07:20 UTC.
+New packages created between 2026-10-31 07:20 UTC and 2026-10-31 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T07-20-55-960227Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T08-20-28-668026Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 06:20:18 | [ex-vi-vim-compat](https://aur.archlinux.org/packages/ex-vi-vim-compat) | 1-1 | 0 | Runs neovim if vi or vim is called |
-| 2026-10-31 06:33:36 | [vanyavpn-appimage](https://aur.archlinux.org/packages/vanyavpn-appimage) | 1.0.0-1 | 0 | VanyaVPN — VPN-клиент |
-| 2026-10-31 06:59:51 | [yaru-cursor-theme](https://aur.archlinux.org/packages/yaru-cursor-theme) | 26.10.3-1 | 0 | Yaru cursor theme from Ubuntu |
-| 2026-10-31 07:06:32 | [revda-next](https://aur.archlinux.org/packages/revda-next) | 5.8.0-1 | 0 | Danmaku live & video player for Linux (pure-Go rewrite of Revda) |
+| 2026-10-31 08:04:07 | [openomsi-bin](https://aur.archlinux.org/packages/openomsi-bin) | 0.3.45-1 | 0 | OMSI 2 recreated from scratch in Rust, compatible with every map and mod; pre-b… |
 
 ## Data source
 

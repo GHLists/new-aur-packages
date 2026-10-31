@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-10-31T08:04:07Z,openomsi-bin,0.3.45-1,0,"OMSI 2 recreated from scratch in Rust, compatible with every map and mod; pre-built upstream binary"
