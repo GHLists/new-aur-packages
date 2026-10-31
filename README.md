@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 17:18 UTC
+## Latest list — 2026-10-31 18:19 UTC
 
-New packages created between 2026-10-31 16:19 UTC and 2026-10-31 17:18 UTC.
+New packages created between 2026-10-31 17:18 UTC and 2026-10-31 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T17-18-49-367838Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T18-19-06-729173Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 16:21:33 | [v10-un-pack-git](https://aur.archlinux.org/packages/v10-un-pack-git) | r3.9157b1b-1 | 0 | Research Unix Version 10 of the pack and unpack commands |
-| 2026-10-31 16:43:11 | [vte-console-git](https://aur.archlinux.org/packages/vte-console-git) | 1.0.0rc1.r0.g9454ab… | 0 | Wayland-native dropdown terminal (GTK4 + VTE + gtk4-layer-shell) |
-| 2026-10-31 16:43:13 | [shan-shui-wallpaper-bin](https://aur.archlinux.org/packages/shan-shui-wallpaper-bin) | 0.2.1-1 | 0 | Endless Chinese landscape painting that slowly scrolls across your Wayland desk… |
-| 2026-10-31 17:18:03 | [deskwaifu-bin](https://aur.archlinux.org/packages/deskwaifu-bin) |  |  | DeskWaifu application and all default plugins |
-| 2026-10-31 17:18:03 | [deskwaifu-ocr-bin](https://aur.archlinux.org/packages/deskwaifu-ocr-bin) |  |  | DeskWaifu native OCR helper and ONNX Runtime CPU runtime (no models or dictiona… |
+| 2026-10-31 17:32:52 | [pokebonk](https://aur.archlinux.org/packages/pokebonk) | 1.2.0-3 | 0 | Desktop client for PokéBonk, a 3D survival fan-game |
+| 2026-10-31 17:33:35 | [prospero-bin](https://aur.archlinux.org/packages/prospero-bin) | 0.9.0-1 | 0 | Native GUI for running and supervising AI coding agents (prebuilt binaries) |
+| 2026-10-31 17:56:38 | [glesha](https://aur.archlinux.org/packages/glesha) | 0.5.2-1 | 0 | Encrypted archives and indexed cloud backups |
+| 2026-10-31 18:14:16 | [open-quickshare-bin](https://aur.archlinux.org/packages/open-quickshare-bin) |  |  | Complete Quick Share implementation for Linux with Bluetooth LE and Wi-Fi Direct |
 
 ## Data source
 
