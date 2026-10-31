@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-31T14:26:36Z,goquark-git,1.2.0.r0.g0cbc221-1,0,Unofficial Quark Drive CLI/TUI/MCP client (git version)
+2026-10-31T14:48:10Z,bpfcompat,0.3.7-3,0,eBPF compatibility evidence and CI gate: boots real kernels in VMs to validate BPF objects and loaders
+2026-10-31T14:52:33Z,silverbullet-cli,2.12.1-1,0,Official command-line client for SilverBullet
+2026-10-31T15:02:09Z,edithere-bin,0.12.3-1,0,Screenshot annotation and visual feedback tool (prebuilt binary)
