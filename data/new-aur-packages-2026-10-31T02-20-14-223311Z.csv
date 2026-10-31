@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-31T01:26:38Z,agent-desktop-bin,1.0.2-1,0,Desktop computer use for AI agents through OS accessibility trees (pre-compiled binary)
+2026-10-31T01:31:32Z,ufw-manager-tui,0.1.4-1,1,A friendly terminal UI for managing ufw firewall rules without getting locked out
+2026-10-31T01:37:53Z,antares-circuit-bin,2.4.0-1,1,Digital circuit learning platform

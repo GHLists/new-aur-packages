@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 01:19 UTC
+## Latest list — 2026-10-31 02:20 UTC
 
-New packages created between 2026-10-31 00:18 UTC and 2026-10-31 01:19 UTC.
+New packages created between 2026-10-31 01:19 UTC and 2026-10-31 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T01-19-16-249358Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T02-20-14-223311Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 00:25:41 | [tokenleft](https://aur.archlinux.org/packages/tokenleft) | 0.1.1-1 | 1 | Show remaining Claude, Codex and Cursor usage |
-| 2026-10-31 00:39:54 | [hex-bin](https://aur.archlinux.org/packages/hex-bin) | 3.0.0-1 | 0 | Hex voice dictation app by Anomaly: hold a key, speak, and it types (Linux beta… |
-| 2026-10-31 00:58:48 | [escargot-native-bin](https://aur.archlinux.org/packages/escargot-native-bin) | 0.1.0-2 | 0 | Native Linux client for MSN Messenger 7.5 on the Escargot network |
+| 2026-10-31 01:26:38 | [agent-desktop-bin](https://aur.archlinux.org/packages/agent-desktop-bin) | 1.0.2-1 | 0 | Desktop computer use for AI agents through OS accessibility trees (pre-compiled… |
+| 2026-10-31 01:31:32 | [ufw-manager-tui](https://aur.archlinux.org/packages/ufw-manager-tui) | 0.1.4-1 | 1 | A friendly terminal UI for managing ufw firewall rules without getting locked o… |
+| 2026-10-31 01:37:53 | [antares-circuit-bin](https://aur.archlinux.org/packages/antares-circuit-bin) | 2.4.0-1 | 1 | Digital circuit learning platform |
 
 ## Data source
 
