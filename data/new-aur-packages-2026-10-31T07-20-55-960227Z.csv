@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-31T06:20:18Z,ex-vi-vim-compat,1-1,0,Runs neovim if vi or vim is called
+2026-10-31T06:33:36Z,vanyavpn-appimage,1.0.0-1,0,VanyaVPN — VPN-клиент
+2026-10-31T06:59:51Z,yaru-cursor-theme,26.10.3-1,0,Yaru cursor theme from Ubuntu
+2026-10-31T07:06:32Z,revda-next,5.8.0-1,0,Danmaku live & video player for Linux (pure-Go rewrite of Revda)
