@@ -12,20 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 22:20 UTC
+## Latest list — 2026-10-31 23:19 UTC
 
-New packages created between 2026-10-31 21:19 UTC and 2026-10-31 22:20 UTC.
+New packages created between 2026-10-31 22:20 UTC and 2026-10-31 23:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T22-20-27-842696Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T23-19-42-869829Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 21:21:21 | [libernull](https://aur.archlinux.org/packages/libernull) | 0.1.0-1 | 0 | Minimal markup-based typesetting system for authors/writers |
-| 2026-10-31 21:28:12 | [les11-mc-dx-temperature-reader](https://aur.archlinux.org/packages/les11-mc-dx-temperature-reader) | 1.0.0-1 | 0 | Read the LES11-MC-Dx USB temperature sensor over Modbus RTU |
-| 2026-10-31 21:28:21 | [les11-mc-dx-overtemp-shutdown](https://aur.archlinux.org/packages/les11-mc-dx-overtemp-shutdown) | 1.0.0-1 | 0 | Shut the system down when any LES11-MC-Dx USB temperature probe exceeds a confi… |
-| 2026-10-31 21:34:15 | [goresym-bin](https://aur.archlinux.org/packages/goresym-bin) | 3.4.1-1 | 0 | Go symbol recovery tool |
-| 2026-10-31 22:03:22 | [mixtapes-bin](https://aur.archlinux.org/packages/mixtapes-bin) | 2026.10.31.0-1 | 0 | A modern, Linux-first YouTube Music player (prebuilt) |
-| 2026-10-31 22:04:08 | [liveside](https://aur.archlinux.org/packages/liveside) | 0.10.0-1 | 0 | Twitch chat client with a window, a terminal frontend and a daemon |
+| 2026-10-31 22:29:14 | [sharky-shell-git](https://aur.archlinux.org/packages/sharky-shell-git) | 2.0.0.r0.g0000000-1 | 0 | Unix-first interactive shell written in Rust |
+| 2026-10-31 22:35:05 | [meteo-pl](https://aur.archlinux.org/packages/meteo-pl) | 0.9.2-1 | 0 | ICM weather forecasts, interactive meteograms and a Plasma 6 widget |
+| 2026-10-31 22:39:01 | [libslimbook](https://aur.archlinux.org/packages/libslimbook) | 1.28.1-1 | 0 | Slimbook core library, slimbookctl CLI and settings load/store service |
+| 2026-10-31 22:39:08 | [python-slimbook](https://aur.archlinux.org/packages/python-slimbook) | 1.27.0-1 | 0 | Python binding for libslimbook (Slimbook hardware API) |
+| 2026-10-31 22:39:15 | [slimbook-service](https://aur.archlinux.org/packages/slimbook-service) | 1.0.16-1 | 0 | Slimbook service: performance-mode notifications, ppd/EC profile sync, touchpad… |
+| 2026-10-31 22:39:22 | [qc71-laptop-slimbook-dkms](https://aur.archlinux.org/packages/qc71-laptop-slimbook-dkms) | 1.3.3-1 | 0 | Slimbook QC71 EC platform driver (generic_slimbook branch, DKMS) |
+| 2026-10-31 22:55:46 | [lilbee-compat-cuda](https://aur.archlinux.org/packages/lilbee-compat-cuda) | 0.6.90b691-1 | 0 | The whole local AI stack in one executable: run and manage local AI models, and… |
+| 2026-10-31 22:57:46 | [sharky-shell-bin](https://aur.archlinux.org/packages/sharky-shell-bin) | 2.0.0-1 | 0 | Unix-first interactive shell written in Rust (prebuilt binary) |
 
 ## Data source
 
