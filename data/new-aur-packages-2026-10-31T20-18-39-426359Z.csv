@@ -1,0 +1,18 @@
+created_at,package,version,votes,description
+2026-10-31T19:22:35Z,flashtester,0.4.0-1,0,"Tests USB sticks, SD cards and other disks for fake capacity, data loss and speed, like h2testw plus a quick capacity probe. Runs on Windows, Linux and FreeBSD"
+2026-10-31T19:23:03Z,freelance-invoice-cli,1.0.0+r31.07e93ff-1,0,Generate a clean HTML invoice from a JSON file. Zero dependencies
+2026-10-31T19:25:19Z,freelance-time-cli,1.0.0+r19.b8b2254-1,0,"Track billable hours per project from the command line. Zero dependencies, local JSON file, no cloud account"
+2026-10-31T19:25:49Z,git-barber,0.3.0-1,0,"A CLI and TUI for cleaning up merged Git branches, including squash and rebase merges"
+2026-10-31T19:26:19Z,prt,0.6.1-1,0,"A terminal UI for monitoring network ports, inspecting owning processes, and managing SSH tunnels on macOS and Linux"
+2026-10-31T19:26:49Z,python-csv-quality-gate,0.3.1-1,0,"Checks CSV files for missing columns, empty cells, and duplicate values using configurable profiles, with line-number evidence and pass/warn/fail exit codes"
+2026-10-31T19:27:18Z,rowsafe,0.10.26-1,0,"Open-source PostgreSQL tooling for backups, restore testing, health checks and tuning, with an Apache-2.0 CLI, Linux server agent and MCP integration"
+2026-10-31T19:27:46Z,sidekick,0.6.6-1,0,Deploy apps to your own VPS over SSH with zero-downtime
+2026-10-31T19:28:18Z,treeport,0.1.3-1,0,"Read-only filename portability checks for directories, JSONL manifests, and ZIP entries; reports destination name collisions and path-length violations"
+2026-10-31T19:28:46Z,whyd,0.2.0-1,0,"Diagnose why your Linux system froze, crashed or shut down"
+2026-10-31T19:29:45Z,halofetch-bin,3.1.1-1,0,"System information fetch with centered logos, panels and a live monitor"
+2026-10-31T19:47:50Z,osu-radio-git,0.1.0alpha.r55.g3cf…,0,Desktop music player for local osu! libraries (development version)
+2026-10-31T19:51:06Z,vylk,3.1.2-1,0,"Lightweight, low-resource single-binary markdown notes editor"
+2026-10-31T19:51:54Z,alyafetch,0.1.0-1,0,A minimal fetch utility written in POSIX shell with Nerd Font icons
+2026-10-31T19:58:58Z,osu-radio-bin,0.1.0alpha.2-1,0,Desktop music player for local osu! libraries (binary release)
+2026-10-31T20:04:06Z,tape24-bin,0.9.530-1,0,"Destructive tape-style 24-track DAW (X11-backed, XWayland on Wayland sessions)"
+2026-10-31T20:13:54Z,open-quickshare,,,Complete Quick Share implementation for Linux with Bluetooth LE and Wi-Fi Direct
