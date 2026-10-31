@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 16:19 UTC
+## Latest list — 2026-10-31 17:18 UTC
 
-New packages created between 2026-10-31 15:19 UTC and 2026-10-31 16:19 UTC.
+New packages created between 2026-10-31 16:19 UTC and 2026-10-31 17:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T16-19-37-216322Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T17-18-49-367838Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 15:43:51 | [atvv](https://aur.archlinux.org/packages/atvv) | 0.1.0-1 | 0 | Bluetooth voice remote userspace stack |
-| 2026-10-31 15:43:51 | [atvv-gui](https://aur.archlinux.org/packages/atvv-gui) | 0.1.0-1 | 0 | GTK4/libadwaita configuration app for ATVV remotes |
-| 2026-10-31 16:05:27 | [cs-script-bin](https://aur.archlinux.org/packages/cs-script-bin) | 4.14.13.0-1 | 1 | Run C# sources like scripts |
+| 2026-10-31 16:21:33 | [v10-un-pack-git](https://aur.archlinux.org/packages/v10-un-pack-git) | r3.9157b1b-1 | 0 | Research Unix Version 10 of the pack and unpack commands |
+| 2026-10-31 16:43:11 | [vte-console-git](https://aur.archlinux.org/packages/vte-console-git) | 1.0.0rc1.r0.g9454ab… | 0 | Wayland-native dropdown terminal (GTK4 + VTE + gtk4-layer-shell) |
+| 2026-10-31 16:43:13 | [shan-shui-wallpaper-bin](https://aur.archlinux.org/packages/shan-shui-wallpaper-bin) | 0.2.1-1 | 0 | Endless Chinese landscape painting that slowly scrolls across your Wayland desk… |
+| 2026-10-31 17:18:03 | [deskwaifu-bin](https://aur.archlinux.org/packages/deskwaifu-bin) |  |  | DeskWaifu application and all default plugins |
+| 2026-10-31 17:18:03 | [deskwaifu-ocr-bin](https://aur.archlinux.org/packages/deskwaifu-ocr-bin) |  |  | DeskWaifu native OCR helper and ONNX Runtime CPU runtime (no models or dictiona… |
 
 ## Data source
 
