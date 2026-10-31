@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 00:18 UTC
+## Latest list — 2026-10-31 01:19 UTC
 
-New packages created between 2026-10-30 23:21 UTC and 2026-10-31 00:18 UTC.
+New packages created between 2026-10-31 00:18 UTC and 2026-10-31 01:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T00-18-52-414436Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T01-19-16-249358Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 00:04:36 | [invidious-companion-git](https://aur.archlinux.org/packages/invidious-companion-git) | release.master.127.… | 0 | Companion app for invidious |
-| 2026-10-31 00:13:38 | [openrig-git](https://aur.archlinux.org/packages/openrig-git) | r103.dbb2761-1 | 0 | Guitar multi-effects pedalboard. |
+| 2026-10-31 00:25:41 | [tokenleft](https://aur.archlinux.org/packages/tokenleft) | 0.1.1-1 | 1 | Show remaining Claude, Codex and Cursor usage |
+| 2026-10-31 00:39:54 | [hex-bin](https://aur.archlinux.org/packages/hex-bin) | 3.0.0-1 | 0 | Hex voice dictation app by Anomaly: hold a key, speak, and it types (Linux beta… |
+| 2026-10-31 00:58:48 | [escargot-native-bin](https://aur.archlinux.org/packages/escargot-native-bin) | 0.1.0-2 | 0 | Native Linux client for MSN Messenger 7.5 on the Escargot network |
 
 ## Data source
 

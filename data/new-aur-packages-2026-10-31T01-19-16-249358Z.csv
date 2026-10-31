@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-31T00:25:41Z,tokenleft,0.1.1-1,1,"Show remaining Claude, Codex and Cursor usage"
+2026-10-31T00:39:54Z,hex-bin,3.0.0-1,0,"Hex voice dictation app by Anomaly: hold a key, speak, and it types (Linux beta; not the hex dump tool)"
+2026-10-31T00:58:48Z,escargot-native-bin,0.1.0-2,0,Native Linux client for MSN Messenger 7.5 on the Escargot network
