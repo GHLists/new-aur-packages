@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-10-31T13:56:14Z,sdl3-trigger-rumble-hack,3.4.18-1,0,"A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard (Version 3) (with trigger rumble hack)"
+2026-10-31T13:56:22Z,xone-dkms-trigger-rumble-hack,0.5.8-1,0,Modern Linux driver for Xbox One and Xbox Series X|S controllers (with trigger rumble hack)
+2026-10-31T13:56:35Z,xpadneo-dkms-trigger-rumble-hack,0.11.pre-1,0,Advanced Linux Driver for Xbox One Wireless Gamepad (with trigger rumble hack)
