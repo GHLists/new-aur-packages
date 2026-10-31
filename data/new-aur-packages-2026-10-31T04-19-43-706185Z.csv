@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-10-31T03:52:20Z,antfood-git,r28.aed379e-1,0,"A text-first app for recording and viewing calories, weight, and other daily events"
+2026-10-31T04:02:29Z,qt6-configqml,0.2.0-1,0,Layered configuration for Qt and QML
+2026-10-31T04:08:22Z,certfan,0.3.0-1,0,"Checks that every IP address behind a TLS hostname serves the same valid, not-about-to-expire certificate, with exit codes, JSON and Prometheus output"
+2026-10-31T04:08:43Z,cloud-image-inspector,0.1.0-1,0,"Read qcow2 and raw cloud disk images without booting or mounting them: OS, login shells, sudo/doas, init system, sshd and cloud-init facts, plus ls/cat/export of files inside"
+2026-10-31T04:09:04Z,code-buster,0.12.0-1,0,"Deterministic, offline static analysis for repository structure, dependencies, dead code, duplication, complexity, security, and maintainability across 18 languages"
+2026-10-31T04:09:25Z,keploy,3.6.162-1,0,Record real API traffic and replay it as regression tests with auto-generated dependency mocks
+2026-10-31T04:09:46Z,postsleuth,0.2.1-1,0,"Diagnoses why a Postfix server is not delivering mail: groups the queue by deferral reason, qshape view, mail log analysis, message traces and SPF/DKIM/DMARC/PTR checks; read-only by default, also an MCP server"
+2026-10-31T04:10:08Z,python-blastradius,0.1.0+r4.ee88d07-1,0,"Shows what breaks before you change a Python function: callers with file:line, transitive dependents and affected tests, using a local call graph"
+2026-10-31T04:10:29Z,python-wheelripe,0.1.0-1,0,"Before you move to a new Python (3.15, free-threaded 3.15t), find every locked dependency with no wheel for it on your platforms and the smallest bump that fixes each. CLI, GitHub Action, MCP"
