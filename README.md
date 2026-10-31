@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 15:19 UTC
+## Latest list — 2026-10-31 16:19 UTC
 
-New packages created between 2026-10-31 14:18 UTC and 2026-10-31 15:19 UTC.
+New packages created between 2026-10-31 15:19 UTC and 2026-10-31 16:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T15-19-12-586494Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T16-19-37-216322Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 14:26:36 | [goquark-git](https://aur.archlinux.org/packages/goquark-git) | 1.2.0.r0.g0cbc221-1 | 0 | Unofficial Quark Drive CLI/TUI/MCP client (git version) |
-| 2026-10-31 14:48:10 | [bpfcompat](https://aur.archlinux.org/packages/bpfcompat) | 0.3.7-3 | 0 | eBPF compatibility evidence and CI gate: boots real kernels in VMs to validate… |
-| 2026-10-31 14:52:33 | [silverbullet-cli](https://aur.archlinux.org/packages/silverbullet-cli) | 2.12.1-1 | 0 | Official command-line client for SilverBullet |
-| 2026-10-31 15:02:09 | [edithere-bin](https://aur.archlinux.org/packages/edithere-bin) | 0.12.3-1 | 0 | Screenshot annotation and visual feedback tool (prebuilt binary) |
+| 2026-10-31 15:43:51 | [atvv](https://aur.archlinux.org/packages/atvv) | 0.1.0-1 | 0 | Bluetooth voice remote userspace stack |
+| 2026-10-31 15:43:51 | [atvv-gui](https://aur.archlinux.org/packages/atvv-gui) | 0.1.0-1 | 0 | GTK4/libadwaita configuration app for ATVV remotes |
+| 2026-10-31 16:05:27 | [cs-script-bin](https://aur.archlinux.org/packages/cs-script-bin) | 4.14.13.0-1 | 1 | Run C# sources like scripts |
 
 ## Data source
 
