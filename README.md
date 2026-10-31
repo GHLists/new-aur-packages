@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 21:19 UTC
+## Latest list — 2026-10-31 22:20 UTC
 
-New packages created between 2026-10-31 20:18 UTC and 2026-10-31 21:19 UTC.
+New packages created between 2026-10-31 21:19 UTC and 2026-10-31 22:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T21-19-11-29507Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T22-20-27-842696Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 20:22:25 | [glimpse-pager-bin](https://aur.archlinux.org/packages/glimpse-pager-bin) | 0.1.0-1 | 0 | A terminal pager for files and streams |
-| 2026-10-31 20:22:38 | [glimpse-pager](https://aur.archlinux.org/packages/glimpse-pager) | 0.1.0-1 | 0 | A terminal pager for files and streams |
-| 2026-10-31 21:06:45 | [silent](https://aur.archlinux.org/packages/silent) | 1.0.0-1 | 0 | A borderless, fast file previewer for Nautilus on X11 (replaces sushi) |
-| 2026-10-31 21:15:31 | [legenda-git](https://aur.archlinux.org/packages/legenda-git) |  |  | GTK 4 subtitle search and downloader |
+| 2026-10-31 21:21:21 | [libernull](https://aur.archlinux.org/packages/libernull) | 0.1.0-1 | 0 | Minimal markup-based typesetting system for authors/writers |
+| 2026-10-31 21:28:12 | [les11-mc-dx-temperature-reader](https://aur.archlinux.org/packages/les11-mc-dx-temperature-reader) | 1.0.0-1 | 0 | Read the LES11-MC-Dx USB temperature sensor over Modbus RTU |
+| 2026-10-31 21:28:21 | [les11-mc-dx-overtemp-shutdown](https://aur.archlinux.org/packages/les11-mc-dx-overtemp-shutdown) | 1.0.0-1 | 0 | Shut the system down when any LES11-MC-Dx USB temperature probe exceeds a confi… |
+| 2026-10-31 21:34:15 | [goresym-bin](https://aur.archlinux.org/packages/goresym-bin) | 3.4.1-1 | 0 | Go symbol recovery tool |
+| 2026-10-31 22:03:22 | [mixtapes-bin](https://aur.archlinux.org/packages/mixtapes-bin) | 2026.10.31.0-1 | 0 | A modern, Linux-first YouTube Music player (prebuilt) |
+| 2026-10-31 22:04:08 | [liveside](https://aur.archlinux.org/packages/liveside) | 0.10.0-1 | 0 | Twitch chat client with a window, a terminal frontend and a daemon |
 
 ## Data source
 

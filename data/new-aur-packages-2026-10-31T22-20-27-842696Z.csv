@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-10-31T21:21:21Z,libernull,0.1.0-1,0,Minimal markup-based typesetting system for authors/writers
+2026-10-31T21:28:12Z,les11-mc-dx-temperature-reader,1.0.0-1,0,Read the LES11-MC-Dx USB temperature sensor over Modbus RTU
+2026-10-31T21:28:21Z,les11-mc-dx-overtemp-shutdown,1.0.0-1,0,Shut the system down when any LES11-MC-Dx USB temperature probe exceeds a configured maximum
+2026-10-31T21:34:15Z,goresym-bin,3.4.1-1,0,Go symbol recovery tool
+2026-10-31T22:03:22Z,mixtapes-bin,2026.10.31.0-1,0,"A modern, Linux-first YouTube Music player (prebuilt)"
+2026-10-31T22:04:08Z,liveside,0.10.0-1,0,"Twitch chat client with a window, a terminal frontend and a daemon"
