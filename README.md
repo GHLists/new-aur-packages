@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 08:20 UTC
+## Latest list — 2026-10-31 10:20 UTC
 
-New packages created between 2026-10-31 07:20 UTC and 2026-10-31 08:20 UTC.
+New packages created between 2026-10-31 09:19 UTC and 2026-10-31 10:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T08-20-28-668026Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T10-20-29-243874Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 08:04:07 | [openomsi-bin](https://aur.archlinux.org/packages/openomsi-bin) | 0.3.45-1 | 0 | OMSI 2 recreated from scratch in Rust, compatible with every map and mod; pre-b… |
+| 2026-10-31 09:23:03 | [ssc-codec-git](https://aur.archlinux.org/packages/ssc-codec-git) | 0.1.0.r0.g0000000-1 | 0 | Samsung Scalable/Seamless Codec (SSC) A2DP codec for PipeWire (Galaxy Buds), re… |
+| 2026-10-31 09:23:19 | [efr-code-git](https://aur.archlinux.org/packages/efr-code-git) | 0.0.6.r2250.g8bb1c1… | 0 | Terminal-first AI agent harness that lives in zsh, with a daemon that owns the… |
+| 2026-10-31 09:46:15 | [atk-logic](https://aur.archlinux.org/packages/atk-logic) | 1.0.6.6-1 | 0 | ALIENTEK logic analyzer software (ATK-Logic) |
+| 2026-10-31 10:03:42 | [gostc](https://aur.archlinux.org/packages/gostc) | 2.0.11-1 | 0 | frp-based NAT traversal management client |
 
 ## Data source
 

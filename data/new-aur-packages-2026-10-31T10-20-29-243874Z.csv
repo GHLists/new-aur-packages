@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-10-31T09:23:03Z,ssc-codec-git,0.1.0.r0.g0000000-1,0,"Samsung Scalable/Seamless Codec (SSC) A2DP codec for PipeWire (Galaxy Buds), replaces the aptx plugin"
+2026-10-31T09:23:19Z,efr-code-git,0.0.6.r2250.g8bb1c1…,0,"Terminal-first AI agent harness that lives in zsh, with a daemon that owns the state (main branch)"
+2026-10-31T09:46:15Z,atk-logic,1.0.6.6-1,0,ALIENTEK logic analyzer software (ATK-Logic)
+2026-10-31T10:03:42Z,gostc,2.0.11-1,0,frp-based NAT traversal management client
