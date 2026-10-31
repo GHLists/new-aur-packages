@@ -12,18 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 18:19 UTC
+## Latest list — 2026-10-31 19:20 UTC
 
-New packages created between 2026-10-31 17:18 UTC and 2026-10-31 18:19 UTC.
+New packages created between 2026-10-31 18:19 UTC and 2026-10-31 19:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-10-31T18-19-06-729173Z.csv)
+[Full CSV](data/new-aur-packages-2026-10-31T19-20-52-54285Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 17:32:52 | [pokebonk](https://aur.archlinux.org/packages/pokebonk) | 1.2.0-3 | 0 | Desktop client for PokéBonk, a 3D survival fan-game |
-| 2026-10-31 17:33:35 | [prospero-bin](https://aur.archlinux.org/packages/prospero-bin) | 0.9.0-1 | 0 | Native GUI for running and supervising AI coding agents (prebuilt binaries) |
-| 2026-10-31 17:56:38 | [glesha](https://aur.archlinux.org/packages/glesha) | 0.5.2-1 | 0 | Encrypted archives and indexed cloud backups |
-| 2026-10-31 18:14:16 | [open-quickshare-bin](https://aur.archlinux.org/packages/open-quickshare-bin) |  |  | Complete Quick Share implementation for Linux with Bluetooth LE and Wi-Fi Direct |
+| 2026-10-31 18:37:46 | [mousr](https://aur.archlinux.org/packages/mousr) | 0.1.9-1 | 0 | Keyboard-driven mouse control for Wayland |
+| 2026-10-31 18:48:59 | [boxbox-bin](https://aur.archlinux.org/packages/boxbox-bin) | 0.3.2-1 | 0 | Desktop file manager for local files and self-hosted BoxBox servers |
+| 2026-10-31 18:52:00 | [zl-limiter-vst3](https://aur.archlinux.org/packages/zl-limiter-vst3) | 0.0.1-2 | 0 | Mastering limiter plugin (VST3 version) |
+| 2026-10-31 18:52:00 | [zl-limiter-lv2](https://aur.archlinux.org/packages/zl-limiter-lv2) | 0.0.1-2 | 0 | Mastering limiter plugin (LV2 version) |
+| 2026-10-31 18:52:00 | [zl-limiter](https://aur.archlinux.org/packages/zl-limiter) | 0.0.1-2 | 0 | Mastering limiter plugin (metapackage that requires all plugin formats) |
+| 2026-10-31 19:03:14 | [xteink-unlocker-bin](https://aur.archlinux.org/packages/xteink-unlocker-bin) | 0.2.42-1 | 0 | Install CrossPoint Reader on USB-locked Xteink devices via their own OTA update… |
+| 2026-10-31 19:15:40 | [halofetch](https://aur.archlinux.org/packages/halofetch) | 3.1.0-1 | 0 | System information fetch with centered logos, panels and a live monitor |
+| 2026-10-31 19:15:48 | [wailsmaxima](https://aur.archlinux.org/packages/wailsmaxima) | 1.0.0-1 | 0 | Symbolic and numerical Computer Algebra System workstation for Maxima (wxMaxima… |
 
 ## Data source
 
