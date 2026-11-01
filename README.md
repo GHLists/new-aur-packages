@@ -12,31 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 21:18 UTC
+## Latest list — 2026-11-01 22:20 UTC
 
-New packages created between 2026-11-01 20:18 UTC and 2026-11-01 21:18 UTC.
+New packages created between 2026-11-01 21:18 UTC and 2026-11-01 22:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T21-18-44-119733Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T22-20-02-74138Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 20:37:44 | [rachis-cli](https://aur.archlinux.org/packages/rachis-cli) | 2026.10.0-1 | 0 | Command line interface and artifact viewer for the Rachis framework |
-| 2026-11-01 20:41:43 | [libcoraza](https://aur.archlinux.org/packages/libcoraza) | 1.8.0-1 | 0 | OWASP Coraza C connector |
-| 2026-11-01 20:41:49 | [nginx-mod-coraza](https://aur.archlinux.org/packages/nginx-mod-coraza) | 0.23.0-1 | 0 | Coraza Nginx Connector (module for nginx) |
-| 2026-11-01 20:41:54 | [nginx-mainline-mod-coraza](https://aur.archlinux.org/packages/nginx-mainline-mod-coraza) | 0.23.0-1 | 0 | Coraza Nginx Connector (module for mainline nginx) |
-| 2026-11-01 20:42:03 | [fava-dashboards](https://aur.archlinux.org/packages/fava-dashboards) | 2.0.2-1 | 0 | Custom Dashboards for Beancount in Fava |
-| 2026-11-01 20:42:08 | [fava-portfolio-returns](https://aur.archlinux.org/packages/fava-portfolio-returns) | 2.7.0-1 | 0 | Show portfolio returns in Fava |
-| 2026-11-01 20:42:14 | [python-beancount-import](https://aur.archlinux.org/packages/python-beancount-import) | 1.5.0-1 | 0 | Semi-automatic importer from external data sources into beancount |
-| 2026-11-01 20:42:19 | [python-django-recaptcha](https://aur.archlinux.org/packages/python-django-recaptcha) | 4.1.0-1 | 0 | Django reCAPTCHA form field/widget integration app |
-| 2026-11-01 20:42:24 | [python-opentimestamps](https://aur.archlinux.org/packages/python-opentimestamps) | 0.5.0-1 | 0 | Python3 library for creating and verifying OpenTimestamps proofs |
-| 2026-11-01 20:42:51 | [python-pkb-client](https://aur.archlinux.org/packages/python-pkb-client) | 2.2.0-1 | 0 | Unofficial client for the Porkbun API |
-| 2026-11-01 20:44:14 | [aries-connect-bin](https://aur.archlinux.org/packages/aries-connect-bin) | 0.2.0-1 | 0 | KDE Connect-compatible daemon exposing devices over D-Bus (no KDE/Qt dependenci… |
-| 2026-11-01 20:51:09 | [citadel](https://aur.archlinux.org/packages/citadel) | 902-1 | 0 | Citadel/UX is a collaboration suite (messaging and groupware) that is descended… |
-| 2026-11-01 20:51:09 | [libcitadel](https://aur.archlinux.org/packages/libcitadel) | 902-1 | 0 | Citadel/UX is a collaboration suite (messaging and groupware) that is descended… |
-| 2026-11-01 20:51:09 | [webcit](https://aur.archlinux.org/packages/webcit) | 902-1 | 0 | Citadel/UX is a collaboration suite (messaging and groupware) that is descended… |
-| 2026-11-01 20:51:20 | [lapac71g-lapac71h-keyboard-gnome-git](https://aur.archlinux.org/packages/lapac71g-lapac71h-keyboard-gnome-git) | r85.01e23a3-1 | 0 | GNOME Quick Settings keyboard RGB control for Intel NUC X15 LAPAC71G/LAPAC71H |
-| 2026-11-01 21:06:20 | [macropad-bin](https://aur.archlinux.org/packages/macropad-bin) | 0.7.2-1 | 0 | Program MINI_KEYBOARD macropads and use their keys for Home Assistant, Bragi au… |
-| 2026-11-01 21:10:42 | [memdoor-bin](https://aur.archlinux.org/packages/memdoor-bin) | 1.769.0-1 | 0 | Coding and automation agent in a single CLI binary (prebuilt binaries) |
+| 2026-11-01 21:20:18 | [kraken-workbench-bin](https://aur.archlinux.org/packages/kraken-workbench-bin) | 0.4.0-1 | 0 | Reverse-engineering workbench on Ghidra's decompiler: analyse, patch and rewrit… |
+| 2026-11-01 21:24:26 | [electric-eye-bin](https://aur.archlinux.org/packages/electric-eye-bin) | 0.1.0-1 | 0 | Prebuilt electric-eye read-only Linux activity monitor |
+| 2026-11-01 21:36:03 | [q2-taxa](https://aur.archlinux.org/packages/q2-taxa) | 2026.10.0-1 | 0 | QIIME 2 taxonomic analysis and interactive visualizations |
+| 2026-11-01 21:39:05 | [q2-feature-table](https://aur.archlinux.org/packages/q2-feature-table) | 2026.10.0-1 | 0 | QIIME 2 manipulation and visualization of sample by feature tables |
+| 2026-11-01 21:54:29 | [gill](https://aur.archlinux.org/packages/gill) | 0.1.0-1 | 0 | Run the bash lines fish cannot, and keep bash's state between them |
 
 ## Data source
 

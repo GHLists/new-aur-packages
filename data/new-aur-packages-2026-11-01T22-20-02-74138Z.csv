@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-01T21:20:18Z,kraken-workbench-bin,0.4.0-1,0,"Reverse-engineering workbench on Ghidra's decompiler: analyse, patch and rewrite binaries, with an AI assistant"
+2026-11-01T21:24:26Z,electric-eye-bin,0.1.0-1,0,Prebuilt electric-eye read-only Linux activity monitor
+2026-11-01T21:36:03Z,q2-taxa,2026.10.0-1,0,QIIME 2 taxonomic analysis and interactive visualizations
+2026-11-01T21:39:05Z,q2-feature-table,2026.10.0-1,0,QIIME 2 manipulation and visualization of sample by feature tables
+2026-11-01T21:54:29Z,gill,0.1.0-1,0,"Run the bash lines fish cannot, and keep bash's state between them"
