@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-01T00:27:56Z,catwalk3d,2.4.2-2,0,"Headless 3D model thumbnails rendered on the CPU, entirely in Rust"
+2026-11-01T00:27:56Z,catwalk3d-thumbnailer,2.4.2-2,0,"Desktop thumbnailer for STL, 3MF and STEP models using catwalk3d"
+2026-11-01T00:38:16Z,crest-player-git,0.1.0.r83.g11ab314-1,0,"Terminal music player with YouTube streaming, synchronized lyrics, and ASCII video"
+2026-11-01T00:41:43Z,snes-asar-git,1.91.r16.g5fd539c-1,1,SNES assembler for applying patches to existing ROMs or creating new ROMs from scratch
+2026-11-01T01:12:41Z,xcompmgr-zoom,1.1.10-1,0,"Composite window effect manager for X.org, with full-desktop zoom"
+2026-11-01T01:12:47Z,rxcom,0.3.0-1,0,X11 compositor with a full-desktop zoom
+2026-11-01T01:14:29Z,libraven,0.2.0-1,1,Lightweight multithreaded GUI library in C for editors and tools

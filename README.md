@@ -12,15 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 00:21 UTC
+## Latest list — 2026-11-01 01:20 UTC
 
-New packages created between 2026-10-31 23:19 UTC and 2026-11-01 00:21 UTC.
+New packages created between 2026-11-01 00:21 UTC and 2026-11-01 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T00-21-10-677355Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T01-20-45-024213Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 23:22:07 | [fido2-manage-bin](https://aur.archlinux.org/packages/fido2-manage-bin) | 0.2.1-1 | 0 | A command-line tool for managing FIDO2 security keys |
+| 2026-11-01 00:27:56 | [catwalk3d](https://aur.archlinux.org/packages/catwalk3d) | 2.4.2-2 | 0 | Headless 3D model thumbnails rendered on the CPU, entirely in Rust |
+| 2026-11-01 00:27:56 | [catwalk3d-thumbnailer](https://aur.archlinux.org/packages/catwalk3d-thumbnailer) | 2.4.2-2 | 0 | Desktop thumbnailer for STL, 3MF and STEP models using catwalk3d |
+| 2026-11-01 00:38:16 | [crest-player-git](https://aur.archlinux.org/packages/crest-player-git) | 0.1.0.r83.g11ab314-1 | 0 | Terminal music player with YouTube streaming, synchronized lyrics, and ASCII vi… |
+| 2026-11-01 00:41:43 | [snes-asar-git](https://aur.archlinux.org/packages/snes-asar-git) | 1.91.r16.g5fd539c-1 | 1 | SNES assembler for applying patches to existing ROMs or creating new ROMs from… |
+| 2026-11-01 01:12:41 | [xcompmgr-zoom](https://aur.archlinux.org/packages/xcompmgr-zoom) | 1.1.10-1 | 0 | Composite window effect manager for X.org, with full-desktop zoom |
+| 2026-11-01 01:12:47 | [rxcom](https://aur.archlinux.org/packages/rxcom) | 0.3.0-1 | 0 | X11 compositor with a full-desktop zoom |
+| 2026-11-01 01:14:29 | [libraven](https://aur.archlinux.org/packages/libraven) | 0.2.0-1 | 1 | Lightweight multithreaded GUI library in C for editors and tools |
 
 ## Data source
 
