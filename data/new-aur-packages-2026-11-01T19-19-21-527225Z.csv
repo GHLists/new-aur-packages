@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-01T18:26:17Z,python-parsl,2026.10.26-1,0,Parallel Python workflows with data dependency tracking
+2026-11-01T18:31:01Z,python-frictionless,5.21.0-1,0,"Describe, extract, validate and transform tabular data"
+2026-11-01T18:37:00Z,chatblade,0.7.0-3,0,A CLI Swiss Army Knife for ChatGPT
+2026-11-01T18:47:48Z,python-rachis,2026.10.0-2,0,Extensible scientific analysis framework formerly known as QIIME 2
+2026-11-01T18:50:30Z,kio-stl-thumbnailer,1.0-1,0,"STL thumbnails for Dolphin/KIO (software-rendered, no GL)"
+2026-11-01T18:52:27Z,debugger-cli,0.1.3-1,1,LLM-friendly debugger CLI using the Debug Adapter Protocol
+2026-11-01T18:56:43Z,aries-connect,0.2.0-1,0,KDE Connect-compatible daemon exposing devices over D-Bus (no KDE/Qt dependencies)
+2026-11-01T19:08:41Z,battles-of-brass-git,1.0.r38.4d2284b-1,0,"Battles of Brass, a game inspired by Spirits of Steel, made in java! (git version)"
