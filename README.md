@@ -12,19 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 22:20 UTC
+## Latest list — 2026-11-01 23:18 UTC
 
-New packages created between 2026-11-01 21:18 UTC and 2026-11-01 22:20 UTC.
+New packages created between 2026-11-01 22:20 UTC and 2026-11-01 23:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T22-20-02-74138Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T23-18-49-633904Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 21:20:18 | [kraken-workbench-bin](https://aur.archlinux.org/packages/kraken-workbench-bin) | 0.4.0-1 | 0 | Reverse-engineering workbench on Ghidra's decompiler: analyse, patch and rewrit… |
-| 2026-11-01 21:24:26 | [electric-eye-bin](https://aur.archlinux.org/packages/electric-eye-bin) | 0.1.0-1 | 0 | Prebuilt electric-eye read-only Linux activity monitor |
-| 2026-11-01 21:36:03 | [q2-taxa](https://aur.archlinux.org/packages/q2-taxa) | 2026.10.0-1 | 0 | QIIME 2 taxonomic analysis and interactive visualizations |
-| 2026-11-01 21:39:05 | [q2-feature-table](https://aur.archlinux.org/packages/q2-feature-table) | 2026.10.0-1 | 0 | QIIME 2 manipulation and visualization of sample by feature tables |
-| 2026-11-01 21:54:29 | [gill](https://aur.archlinux.org/packages/gill) | 0.1.0-1 | 0 | Run the bash lines fish cannot, and keep bash's state between them |
+| 2026-11-01 22:21:22 | [beads-viewer-bin](https://aur.archlinux.org/packages/beads-viewer-bin) | 0.25.2-3 | 0 | Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, d… |
+| 2026-11-01 22:36:19 | [ec_access](https://aur.archlinux.org/packages/ec_access) | 2010.01-1 | 0 | Small utility to read and write embedded controllder data at '/sys/kernel/debug… |
+| 2026-11-01 22:49:31 | [q2-sample-classifier](https://aur.archlinux.org/packages/q2-sample-classifier) | 2026.10.0-1 | 0 | QIIME 2 classification and regression of biological samples |
+| 2026-11-01 22:53:15 | [q2-quality-control](https://aur.archlinux.org/packages/q2-quality-control) | 2026.10.0-1 | 0 | QIIME 2 quality control of feature and sequence data |
+| 2026-11-01 23:16:02 | [lazybw-bin](https://aur.archlinux.org/packages/lazybw-bin) |  |  | A keyboard-first terminal UI for the Bitwarden vault (static binary) |
+| 2026-11-01 23:16:07 | [lazybw](https://aur.archlinux.org/packages/lazybw) |  |  | A keyboard-first terminal UI for the Bitwarden vault |
 
 ## Data source
 
