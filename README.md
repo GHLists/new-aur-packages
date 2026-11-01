@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 14:20 UTC
+## Latest list — 2026-11-01 15:20 UTC
 
-New packages created between 2026-11-01 13:20 UTC and 2026-11-01 14:20 UTC.
+New packages created between 2026-11-01 14:20 UTC and 2026-11-01 15:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T14-20-50-767896Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T15-20-19-307207Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 13:27:08 | [posirc](https://aur.archlinux.org/packages/posirc) | 0.3.1beta2-1 | 0 | Small C99 IRC client with verified TLS, a Unicode terminal UI and Unix pipes |
-| 2026-11-01 13:28:23 | [rtxui](https://aur.archlinux.org/packages/rtxui) | 0.1.3-1 | 0 | C++ terminal user interfaces built from HTML templates, CSS and reactive state |
-| 2026-11-01 13:38:37 | [rocm-gfx906-bin](https://aur.archlinux.org/packages/rocm-gfx906-bin) | 10.3.0a20261031-1 | 0 | ROCm Core SDK - CDNA1 |
-| 2026-11-01 13:54:38 | [recomplauncher-bin](https://aur.archlinux.org/packages/recomplauncher-bin) | 0.90.0-1 | 0 | Recompiled games, native on PC. |
-| 2026-11-01 14:00:39 | [steam-redeemer-bin](https://aur.archlinux.org/packages/steam-redeemer-bin) | 2026.08.17.2-1 | 0 | Bulk-redeem Humble Bundle Steam keys with ownership detection (prebuilt binary) |
+| 2026-11-01 14:53:31 | [kunsplash-wallpapers](https://aur.archlinux.org/packages/kunsplash-wallpapers) | 0.1.0-1 | 0 | Unofficial Plasma 6 widget and daemon that sets your wallpaper from Unsplash |
+| 2026-11-01 14:53:39 | [kunsplash-wallpapers-git](https://aur.archlinux.org/packages/kunsplash-wallpapers-git) | 0.1.0.r1.gf7e8d64-1 | 0 | Unofficial Plasma 6 widget and daemon that sets your wallpaper from Unsplash |
 
 ## Data source
 
