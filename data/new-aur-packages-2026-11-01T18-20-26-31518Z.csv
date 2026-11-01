@@ -1,0 +1,20 @@
+created_at,package,version,votes,description
+2026-11-01T17:33:13Z,vellum-bin,2.0.1-1,0,"Featherweight wallpaper manager for Wayland: a tiny daemon, CLI and TUI (prebuilt)"
+2026-11-01T17:40:13Z,bash-peek,1.0.0-1,1,"Interactive TUI debugger, line profiler, and time-travel inspector for Bash scripts"
+2026-11-01T17:53:08Z,ffmpeg-dektec-bin,1:9.0.2_dektec12-1,0,"FFmpeg with DekTec SDI, DVB-ASI and SMPTE ST 2110 devices (prebuilt DekTec Linux release)"
+2026-11-01T17:53:38Z,lucent-bin,1.0.1-1,0,"A blazing-fast, D-Bus activated Wayland notification daemon (Pre-compiled)"
+2026-11-01T17:53:56Z,python-pyturbojpeg,2.6.1-1,0,Python wrapper for libjpeg-turbo image encoding and decoding
+2026-11-01T17:54:09Z,python-rjieba,0.2.2-1,0,Fast Chinese text segmentation with jieba-rs Python bindings
+2026-11-01T17:54:23Z,python-sphn,0.2.1-1,0,"Rust-backed Python audio decoding, resampling and Opus streaming"
+2026-11-01T17:55:43Z,python-indic-numtowords,1.0.2-1,0,Convert numbers to words in Indian languages and English
+2026-11-01T17:55:56Z,python-text2num,3.1.0-1,0,Parse and transcribe numbers expressed as natural language words
+2026-11-01T17:57:27Z,gnubg-gtk3,1.08.003-1,0,GNU Backgammon (GTK3 GUI)
+2026-11-01T17:59:07Z,python-ema-pytorch,0.8.3-1,0,Exponential moving averages for PyTorch models and tensor trees
+2026-11-01T17:59:40Z,texlive-emono,0.1.1-1,0,Monochrome emoji fonts for pdfTeX and LaTeX
+2026-11-01T18:03:27Z,kwi,0.1.0-1,0,Modern and fast terminal for KDE Plasma and other desktops
+2026-11-01T18:06:10Z,python-q2templates,2026.10.0-1,0,HTML templates and interactive reports for QIIME 2 visualizations
+2026-11-01T18:06:22Z,python-utmos-pytorch,0.1.0-1,0,Fairseq-free PyTorch implementation of UTMOS speech quality prediction
+2026-11-01T18:13:01Z,deskfleet-bin,0.5.0-1,0,Manage a team's AI agents and working environments across machines
+2026-11-01T18:14:20Z,python-vocos,0.1.0-1,0,Fourier-based neural vocoder for high-quality audio synthesis
+2026-11-01T18:18:58Z,python-whisper-normalizer,,,Multilingual text normalization for speech recognition and synthesis
+2026-11-01T18:19:28Z,python-rnanorm,,,Common RNA-seq normalization methods
