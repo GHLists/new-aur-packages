@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 15:20 UTC
+## Latest list — 2026-11-01 16:20 UTC
 
-New packages created between 2026-11-01 14:20 UTC and 2026-11-01 15:20 UTC.
+New packages created between 2026-11-01 15:20 UTC and 2026-11-01 16:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T15-20-19-307207Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T16-20-32-790837Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 14:53:31 | [kunsplash-wallpapers](https://aur.archlinux.org/packages/kunsplash-wallpapers) | 0.1.0-1 | 0 | Unofficial Plasma 6 widget and daemon that sets your wallpaper from Unsplash |
-| 2026-11-01 14:53:39 | [kunsplash-wallpapers-git](https://aur.archlinux.org/packages/kunsplash-wallpapers-git) | 0.1.0.r1.gf7e8d64-1 | 0 | Unofficial Plasma 6 widget and daemon that sets your wallpaper from Unsplash |
+| 2026-11-01 15:20:40 | [kvmem-cuda-git](https://aur.archlinux.org/packages/kvmem-cuda-git) | 0.19.1.r20.g4b755f2… | 0 | llama.cpp server with KVMem long-context KV memory management (CUDA) |
+| 2026-11-01 15:28:31 | [texlive-emono-git](https://aur.archlinux.org/packages/texlive-emono-git) | 1.r2.g3n-1 | 0 | Development version of monochrome emoji fonts for pdfTeX and LaTeX |
+| 2026-11-01 15:33:45 | [notekpr-cli-bin](https://aur.archlinux.org/packages/notekpr-cli-bin) | 0.9.1-1 | 0 | Command-line client for notekpr, end-to-end encrypted Markdown notes |
 
 ## Data source
 

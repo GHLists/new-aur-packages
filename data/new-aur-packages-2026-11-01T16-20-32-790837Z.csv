@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-01T15:20:40Z,kvmem-cuda-git,0.19.1.r20.g4b755f2…,0,llama.cpp server with KVMem long-context KV memory management (CUDA)
+2026-11-01T15:28:31Z,texlive-emono-git,1.r2.g3n-1,0,Development version of monochrome emoji fonts for pdfTeX and LaTeX
+2026-11-01T15:33:45Z,notekpr-cli-bin,0.9.1-1,0,"Command-line client for notekpr, end-to-end encrypted Markdown notes"
