@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 03:20 UTC
+## Latest list — 2026-11-01 05:20 UTC
 
-New packages created between 2026-11-01 02:21 UTC and 2026-11-01 03:20 UTC.
+New packages created between 2026-11-01 04:19 UTC and 2026-11-01 05:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T03-20-42-423463Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T05-20-44-414612Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 02:29:58 | [libmmd](https://aur.archlinux.org/packages/libmmd) | 0.7.4.3-1 | 0 | A renderlib for mikumiku dance pmd model and vmd motion files |
-| 2026-11-01 02:41:56 | [soundpad-bin](https://aur.archlinux.org/packages/soundpad-bin) | 0.2.0-1 | 0 | Soundpad alternative with PipeWire virtual mic & global hotkeys (Rust + egui) |
-| 2026-11-01 03:00:15 | [texlive-emo](https://aur.archlinux.org/packages/texlive-emo) | 1.0-2 | 0 | Emoji support for all LaTeX engines |
-| 2026-11-01 03:06:44 | [texlive-emo-git](https://aur.archlinux.org/packages/texlive-emo-git) | 0.4.r85.g0000000-1 | 0 | Emoji support for all LaTeX engines (development version) |
+| 2026-11-01 04:32:40 | [smb3-foundry-git](https://aur.archlinux.org/packages/smb3-foundry-git) | 1.6.r66.gd907aafd-2 | 1 | A modern Super Mario Bros. 3 level editor (development version) |
+| 2026-11-01 04:43:11 | [smb3-foundry](https://aur.archlinux.org/packages/smb3-foundry) | 1.6-1 | 1 | A modern Super Mario Bros. 3 level editor |
 
 ## Data source
 
