@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 08:19 UTC
+## Latest list — 2026-11-01 09:20 UTC
 
-New packages created between 2026-11-01 07:18 UTC and 2026-11-01 08:19 UTC.
+New packages created between 2026-11-01 08:19 UTC and 2026-11-01 09:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T08-19-38-464997Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T09-20-56-041216Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 08:15:17 | [makepkg-jail-local](https://aur.archlinux.org/packages/makepkg-jail-local) |  |  | Local bubblewrap makepkg sandbox with AppArmor and a restricted paru adapter |
+| 2026-11-01 08:51:02 | [auto-aur-keyring](https://aur.archlinux.org/packages/auto-aur-keyring) | 20240923-1 | 0 | Auto-AUR keyring |
+| 2026-11-01 08:52:19 | [auto-aur-mirrorlist](https://aur.archlinux.org/packages/auto-aur-mirrorlist) | 20260606-1 | 0 | Auto-AUR mirrorlist to use with Pacman |
+| 2026-11-01 08:55:21 | [kwi-git](https://aur.archlinux.org/packages/kwi-git) | r20.c91d984-1 | 0 | Kwi is a modern and fast terminal for KDE Plasma and other desktops built on li… |
 
 ## Data source
 

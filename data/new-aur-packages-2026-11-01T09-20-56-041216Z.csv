@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-01T08:51:02Z,auto-aur-keyring,20240923-1,0,Auto-AUR keyring
+2026-11-01T08:52:19Z,auto-aur-mirrorlist,20260606-1,0,Auto-AUR mirrorlist to use with Pacman
+2026-11-01T08:55:21Z,kwi-git,r20.c91d984-1,0,Kwi is a modern and fast terminal for KDE Plasma and other desktops built on libghostty-vt
