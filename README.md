@@ -12,21 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 01:20 UTC
+## Latest list — 2026-11-01 02:21 UTC
 
-New packages created between 2026-11-01 00:21 UTC and 2026-11-01 01:20 UTC.
+New packages created between 2026-11-01 01:20 UTC and 2026-11-01 02:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T01-20-45-024213Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T02-21-22-485862Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 00:27:56 | [catwalk3d](https://aur.archlinux.org/packages/catwalk3d) | 2.4.2-2 | 0 | Headless 3D model thumbnails rendered on the CPU, entirely in Rust |
-| 2026-11-01 00:27:56 | [catwalk3d-thumbnailer](https://aur.archlinux.org/packages/catwalk3d-thumbnailer) | 2.4.2-2 | 0 | Desktop thumbnailer for STL, 3MF and STEP models using catwalk3d |
-| 2026-11-01 00:38:16 | [crest-player-git](https://aur.archlinux.org/packages/crest-player-git) | 0.1.0.r83.g11ab314-1 | 0 | Terminal music player with YouTube streaming, synchronized lyrics, and ASCII vi… |
-| 2026-11-01 00:41:43 | [snes-asar-git](https://aur.archlinux.org/packages/snes-asar-git) | 1.91.r16.g5fd539c-1 | 1 | SNES assembler for applying patches to existing ROMs or creating new ROMs from… |
-| 2026-11-01 01:12:41 | [xcompmgr-zoom](https://aur.archlinux.org/packages/xcompmgr-zoom) | 1.1.10-1 | 0 | Composite window effect manager for X.org, with full-desktop zoom |
-| 2026-11-01 01:12:47 | [rxcom](https://aur.archlinux.org/packages/rxcom) | 0.3.0-1 | 0 | X11 compositor with a full-desktop zoom |
-| 2026-11-01 01:14:29 | [libraven](https://aur.archlinux.org/packages/libraven) | 0.2.0-1 | 1 | Lightweight multithreaded GUI library in C for editors and tools |
+| 2026-11-01 01:27:54 | [koral-bin](https://aur.archlinux.org/packages/koral-bin) | 0.1.0-1 | 0 | A Rust terminal with native sharky shell support |
+| 2026-11-01 01:46:05 | [python-py65-git](https://aur.archlinux.org/packages/python-py65-git) | 1.2.0.r12.gf857233-2 | 1 | Emulate 6502-based microcomputer systems in Python (bleeding-edge version) |
+| 2026-11-01 01:53:24 | [python-py65](https://aur.archlinux.org/packages/python-py65) | 1.2.0-1 | 1 | Emulate 6502-based microcomputer systems in Python |
+| 2026-11-01 02:01:31 | [mingw-w64-bsu](https://aur.archlinux.org/packages/mingw-w64-bsu) | 0.1.1-1 | 0 | Blaad's System Utilities (mingw-w64) |
+| 2026-11-01 02:16:03 | [thrum](https://aur.archlinux.org/packages/thrum) | 0.4.0-1 | 0 | A Winamp-style music player and library manager that wears the Omarchy theme |
 
 ## Data source
 
