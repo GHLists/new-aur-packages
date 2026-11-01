@@ -12,22 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 19:19 UTC
+## Latest list — 2026-11-01 20:18 UTC
 
-New packages created between 2026-11-01 18:20 UTC and 2026-11-01 19:19 UTC.
+New packages created between 2026-11-01 19:19 UTC and 2026-11-01 20:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T19-19-21-527225Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T20-18-53-135578Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 18:26:17 | [python-parsl](https://aur.archlinux.org/packages/python-parsl) | 2026.10.26-1 | 0 | Parallel Python workflows with data dependency tracking |
-| 2026-11-01 18:31:01 | [python-frictionless](https://aur.archlinux.org/packages/python-frictionless) | 5.21.0-1 | 0 | Describe, extract, validate and transform tabular data |
-| 2026-11-01 18:37:00 | [chatblade](https://aur.archlinux.org/packages/chatblade) | 0.7.0-3 | 0 | A CLI Swiss Army Knife for ChatGPT |
-| 2026-11-01 18:47:48 | [python-rachis](https://aur.archlinux.org/packages/python-rachis) | 2026.10.0-2 | 0 | Extensible scientific analysis framework formerly known as QIIME 2 |
-| 2026-11-01 18:50:30 | [kio-stl-thumbnailer](https://aur.archlinux.org/packages/kio-stl-thumbnailer) | 1.0-1 | 0 | STL thumbnails for Dolphin/KIO (software-rendered, no GL) |
-| 2026-11-01 18:52:27 | [debugger-cli](https://aur.archlinux.org/packages/debugger-cli) | 0.1.3-1 | 1 | LLM-friendly debugger CLI using the Debug Adapter Protocol |
-| 2026-11-01 18:56:43 | [aries-connect](https://aur.archlinux.org/packages/aries-connect) | 0.2.0-1 | 0 | KDE Connect-compatible daemon exposing devices over D-Bus (no KDE/Qt dependenci… |
-| 2026-11-01 19:08:41 | [battles-of-brass-git](https://aur.archlinux.org/packages/battles-of-brass-git) | 1.0.r38.4d2284b-1 | 0 | Battles of Brass, a game inspired by Spirits of Steel, made in java! (git versi… |
+| 2026-11-01 19:27:58 | [bibabo-bilanz-bin](https://aur.archlinux.org/packages/bibabo-bilanz-bin) | 1.0.0-1 | 0 | Buchhaltung für eine kleine GmbH: SKR04, Bilanz und GuV, ELSTER-Vorbereitung, J… |
+| 2026-11-01 19:40:01 | [qc71-laptop-lapac71-dkms-git](https://aur.archlinux.org/packages/qc71-laptop-lapac71-dkms-git) | r83.54a5299-1 | 0 | QC71 laptop platform driver with LAPAC71G/H battery, keyboard RGB and fan suppo… |
+| 2026-11-01 20:01:05 | [cordiale-bin](https://aur.archlinux.org/packages/cordiale-bin) | 1.0.4.41204204168-1 | 0 | Native desktop client for Grappa chat, built with Rust and Slint (official bina… |
+| 2026-11-01 20:03:44 | [dotnet-build-deps-10.0-bin](https://aur.archlinux.org/packages/dotnet-build-deps-10.0-bin) | 1-1 | 0 | Build dependencies of the .NET packages from Microsoft's build of .NET 10.0 and… |
+| 2026-11-01 20:03:53 | [dotnet-build-deps-10.0](https://aur.archlinux.org/packages/dotnet-build-deps-10.0) | 1-1 | 0 | Build dependencies of the .NET packages from the source-built .NET 10.0 of Arch… |
+| 2026-11-01 20:07:40 | [powershell-build-deps-bin](https://aur.archlinux.org/packages/powershell-build-deps-bin) | 1-1 | 0 | Lets PowerShell build against the libraries from nuget.org instead of building… |
+| 2026-11-01 20:07:40 | [powershell-editor-services-build-deps-bin](https://aur.archlinux.org/packages/powershell-editor-services-build-deps-bin) | 1-1 | 0 | Lets the PowerShell editor services build against the libraries from nuget.org… |
+| 2026-11-01 20:07:47 | [powershell-build-deps](https://aur.archlinux.org/packages/powershell-build-deps) | 1-1 | 0 | Libraries PowerShell builds against, built from source (meta package) |
+| 2026-11-01 20:08:02 | [powershell-editor-services-build-deps](https://aur.archlinux.org/packages/powershell-editor-services-build-deps) | 1-1 | 0 | Libraries the PowerShell editor services build against, built from source (meta… |
+| 2026-11-01 20:16:20 | [plasma6-applets-ha-pages](https://aur.archlinux.org/packages/plasma6-applets-ha-pages) |  |  | KDE Plasma 6 widget showing Home Assistant dashboard sections as pages, read li… |
 
 ## Data source
 
