@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 16:20 UTC
+## Latest list — 2026-11-01 17:20 UTC
 
-New packages created between 2026-11-01 15:20 UTC and 2026-11-01 16:20 UTC.
+New packages created between 2026-11-01 16:20 UTC and 2026-11-01 17:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T16-20-32-790837Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T17-20-08-184992Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 15:20:40 | [kvmem-cuda-git](https://aur.archlinux.org/packages/kvmem-cuda-git) | 0.19.1.r20.g4b755f2… | 0 | llama.cpp server with KVMem long-context KV memory management (CUDA) |
-| 2026-11-01 15:28:31 | [texlive-emono-git](https://aur.archlinux.org/packages/texlive-emono-git) | 1.r2.g3n-1 | 0 | Development version of monochrome emoji fonts for pdfTeX and LaTeX |
-| 2026-11-01 15:33:45 | [notekpr-cli-bin](https://aur.archlinux.org/packages/notekpr-cli-bin) | 0.9.1-1 | 0 | Command-line client for notekpr, end-to-end encrypted Markdown notes |
+| 2026-11-01 16:32:10 | [proc-cli](https://aur.archlinux.org/packages/proc-cli) | 2.2.0-1 | 1 | Semantic CLI tool for process management. Target by port, PID, name or path. |
+| 2026-11-01 16:32:13 | [proc-cli-bin](https://aur.archlinux.org/packages/proc-cli-bin) | 2.2.0-1 | 1 | Semantic CLI tool for process management. Target by port, PID, name or path. |
+| 2026-11-01 16:39:50 | [forgelink-bin](https://aur.archlinux.org/packages/forgelink-bin) | 0.3.13-1 | 1 | CLI for generating shareable URLs to files in hosted git repositories |
+| 2026-11-01 17:06:45 | [vkbasalt-overlay](https://aur.archlinux.org/packages/vkbasalt-overlay) | 0.1.2-1 | 0 | Vulkan post-processing layer with in-game ImGui overlay |
+| 2026-11-01 17:13:47 | [electric-eye](https://aur.archlinux.org/packages/electric-eye) | 0.1.0-1 | 0 | Explain what applications are doing with eBPF-based Linux activity monitoring |
 
 ## Data source
 
