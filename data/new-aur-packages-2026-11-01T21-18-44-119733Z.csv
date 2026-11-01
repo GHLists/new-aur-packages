@@ -1,0 +1,18 @@
+created_at,package,version,votes,description
+2026-11-01T20:37:44Z,rachis-cli,2026.10.0-1,0,Command line interface and artifact viewer for the Rachis framework
+2026-11-01T20:41:43Z,libcoraza,1.8.0-1,0,OWASP Coraza C connector
+2026-11-01T20:41:49Z,nginx-mod-coraza,0.23.0-1,0,Coraza Nginx Connector (module for nginx)
+2026-11-01T20:41:54Z,nginx-mainline-mod-coraza,0.23.0-1,0,Coraza Nginx Connector (module for mainline nginx)
+2026-11-01T20:42:03Z,fava-dashboards,2.0.2-1,0,Custom Dashboards for Beancount in Fava
+2026-11-01T20:42:08Z,fava-portfolio-returns,2.7.0-1,0,Show portfolio returns in Fava
+2026-11-01T20:42:14Z,python-beancount-import,1.5.0-1,0,Semi-automatic importer from external data sources into beancount
+2026-11-01T20:42:19Z,python-django-recaptcha,4.1.0-1,0,Django reCAPTCHA form field/widget integration app
+2026-11-01T20:42:24Z,python-opentimestamps,0.5.0-1,0,Python3 library for creating and verifying OpenTimestamps proofs
+2026-11-01T20:42:51Z,python-pkb-client,2.2.0-1,0,Unofficial client for the Porkbun API
+2026-11-01T20:44:14Z,aries-connect-bin,0.2.0-1,0,KDE Connect-compatible daemon exposing devices over D-Bus (no KDE/Qt dependencies)
+2026-11-01T20:51:09Z,citadel,902-1,0,Citadel/UX is a collaboration suite (messaging and groupware) that is descended from the Citadel family of programs which became popular in the 1980s and 1990s as a bulletin board system platform.
+2026-11-01T20:51:09Z,libcitadel,902-1,0,Citadel/UX is a collaboration suite (messaging and groupware) that is descended from the Citadel family of programs which became popular in the 1980s and 1990s as a bulletin board system platform.
+2026-11-01T20:51:09Z,webcit,902-1,0,Citadel/UX is a collaboration suite (messaging and groupware) that is descended from the Citadel family of programs which became popular in the 1980s and 1990s as a bulletin board system platform.
+2026-11-01T20:51:20Z,lapac71g-lapac71h-keyboard-gnome-git,r85.01e23a3-1,0,GNOME Quick Settings keyboard RGB control for Intel NUC X15 LAPAC71G/LAPAC71H
+2026-11-01T21:06:20Z,macropad-bin,0.7.2-1,0,"Program MINI_KEYBOARD macropads and use their keys for Home Assistant, Bragi audio and profiles"
+2026-11-01T21:10:42Z,memdoor-bin,1.769.0-1,0,Coding and automation agent in a single CLI binary (prebuilt binaries)

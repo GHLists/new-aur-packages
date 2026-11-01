@@ -12,24 +12,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 20:18 UTC
+## Latest list — 2026-11-01 21:18 UTC
 
-New packages created between 2026-11-01 19:19 UTC and 2026-11-01 20:18 UTC.
+New packages created between 2026-11-01 20:18 UTC and 2026-11-01 21:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T20-18-53-135578Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T21-18-44-119733Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 19:27:58 | [bibabo-bilanz-bin](https://aur.archlinux.org/packages/bibabo-bilanz-bin) | 1.0.0-1 | 0 | Buchhaltung für eine kleine GmbH: SKR04, Bilanz und GuV, ELSTER-Vorbereitung, J… |
-| 2026-11-01 19:40:01 | [qc71-laptop-lapac71-dkms-git](https://aur.archlinux.org/packages/qc71-laptop-lapac71-dkms-git) | r83.54a5299-1 | 0 | QC71 laptop platform driver with LAPAC71G/H battery, keyboard RGB and fan suppo… |
-| 2026-11-01 20:01:05 | [cordiale-bin](https://aur.archlinux.org/packages/cordiale-bin) | 1.0.4.41204204168-1 | 0 | Native desktop client for Grappa chat, built with Rust and Slint (official bina… |
-| 2026-11-01 20:03:44 | [dotnet-build-deps-10.0-bin](https://aur.archlinux.org/packages/dotnet-build-deps-10.0-bin) | 1-1 | 0 | Build dependencies of the .NET packages from Microsoft's build of .NET 10.0 and… |
-| 2026-11-01 20:03:53 | [dotnet-build-deps-10.0](https://aur.archlinux.org/packages/dotnet-build-deps-10.0) | 1-1 | 0 | Build dependencies of the .NET packages from the source-built .NET 10.0 of Arch… |
-| 2026-11-01 20:07:40 | [powershell-build-deps-bin](https://aur.archlinux.org/packages/powershell-build-deps-bin) | 1-1 | 0 | Lets PowerShell build against the libraries from nuget.org instead of building… |
-| 2026-11-01 20:07:40 | [powershell-editor-services-build-deps-bin](https://aur.archlinux.org/packages/powershell-editor-services-build-deps-bin) | 1-1 | 0 | Lets the PowerShell editor services build against the libraries from nuget.org… |
-| 2026-11-01 20:07:47 | [powershell-build-deps](https://aur.archlinux.org/packages/powershell-build-deps) | 1-1 | 0 | Libraries PowerShell builds against, built from source (meta package) |
-| 2026-11-01 20:08:02 | [powershell-editor-services-build-deps](https://aur.archlinux.org/packages/powershell-editor-services-build-deps) | 1-1 | 0 | Libraries the PowerShell editor services build against, built from source (meta… |
-| 2026-11-01 20:16:20 | [plasma6-applets-ha-pages](https://aur.archlinux.org/packages/plasma6-applets-ha-pages) |  |  | KDE Plasma 6 widget showing Home Assistant dashboard sections as pages, read li… |
+| 2026-11-01 20:37:44 | [rachis-cli](https://aur.archlinux.org/packages/rachis-cli) | 2026.10.0-1 | 0 | Command line interface and artifact viewer for the Rachis framework |
+| 2026-11-01 20:41:43 | [libcoraza](https://aur.archlinux.org/packages/libcoraza) | 1.8.0-1 | 0 | OWASP Coraza C connector |
+| 2026-11-01 20:41:49 | [nginx-mod-coraza](https://aur.archlinux.org/packages/nginx-mod-coraza) | 0.23.0-1 | 0 | Coraza Nginx Connector (module for nginx) |
+| 2026-11-01 20:41:54 | [nginx-mainline-mod-coraza](https://aur.archlinux.org/packages/nginx-mainline-mod-coraza) | 0.23.0-1 | 0 | Coraza Nginx Connector (module for mainline nginx) |
+| 2026-11-01 20:42:03 | [fava-dashboards](https://aur.archlinux.org/packages/fava-dashboards) | 2.0.2-1 | 0 | Custom Dashboards for Beancount in Fava |
+| 2026-11-01 20:42:08 | [fava-portfolio-returns](https://aur.archlinux.org/packages/fava-portfolio-returns) | 2.7.0-1 | 0 | Show portfolio returns in Fava |
+| 2026-11-01 20:42:14 | [python-beancount-import](https://aur.archlinux.org/packages/python-beancount-import) | 1.5.0-1 | 0 | Semi-automatic importer from external data sources into beancount |
+| 2026-11-01 20:42:19 | [python-django-recaptcha](https://aur.archlinux.org/packages/python-django-recaptcha) | 4.1.0-1 | 0 | Django reCAPTCHA form field/widget integration app |
+| 2026-11-01 20:42:24 | [python-opentimestamps](https://aur.archlinux.org/packages/python-opentimestamps) | 0.5.0-1 | 0 | Python3 library for creating and verifying OpenTimestamps proofs |
+| 2026-11-01 20:42:51 | [python-pkb-client](https://aur.archlinux.org/packages/python-pkb-client) | 2.2.0-1 | 0 | Unofficial client for the Porkbun API |
+| 2026-11-01 20:44:14 | [aries-connect-bin](https://aur.archlinux.org/packages/aries-connect-bin) | 0.2.0-1 | 0 | KDE Connect-compatible daemon exposing devices over D-Bus (no KDE/Qt dependenci… |
+| 2026-11-01 20:51:09 | [citadel](https://aur.archlinux.org/packages/citadel) | 902-1 | 0 | Citadel/UX is a collaboration suite (messaging and groupware) that is descended… |
+| 2026-11-01 20:51:09 | [libcitadel](https://aur.archlinux.org/packages/libcitadel) | 902-1 | 0 | Citadel/UX is a collaboration suite (messaging and groupware) that is descended… |
+| 2026-11-01 20:51:09 | [webcit](https://aur.archlinux.org/packages/webcit) | 902-1 | 0 | Citadel/UX is a collaboration suite (messaging and groupware) that is descended… |
+| 2026-11-01 20:51:20 | [lapac71g-lapac71h-keyboard-gnome-git](https://aur.archlinux.org/packages/lapac71g-lapac71h-keyboard-gnome-git) | r85.01e23a3-1 | 0 | GNOME Quick Settings keyboard RGB control for Intel NUC X15 LAPAC71G/LAPAC71H |
+| 2026-11-01 21:06:20 | [macropad-bin](https://aur.archlinux.org/packages/macropad-bin) | 0.7.2-1 | 0 | Program MINI_KEYBOARD macropads and use their keys for Home Assistant, Bragi au… |
+| 2026-11-01 21:10:42 | [memdoor-bin](https://aur.archlinux.org/packages/memdoor-bin) | 1.769.0-1 | 0 | Coding and automation agent in a single CLI binary (prebuilt binaries) |
 
 ## Data source
 
