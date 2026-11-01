@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 02:21 UTC
+## Latest list — 2026-11-01 03:20 UTC
 
-New packages created between 2026-11-01 01:20 UTC and 2026-11-01 02:21 UTC.
+New packages created between 2026-11-01 02:21 UTC and 2026-11-01 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T02-21-22-485862Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T03-20-42-423463Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 01:27:54 | [koral-bin](https://aur.archlinux.org/packages/koral-bin) | 0.1.0-1 | 0 | A Rust terminal with native sharky shell support |
-| 2026-11-01 01:46:05 | [python-py65-git](https://aur.archlinux.org/packages/python-py65-git) | 1.2.0.r12.gf857233-2 | 1 | Emulate 6502-based microcomputer systems in Python (bleeding-edge version) |
-| 2026-11-01 01:53:24 | [python-py65](https://aur.archlinux.org/packages/python-py65) | 1.2.0-1 | 1 | Emulate 6502-based microcomputer systems in Python |
-| 2026-11-01 02:01:31 | [mingw-w64-bsu](https://aur.archlinux.org/packages/mingw-w64-bsu) | 0.1.1-1 | 0 | Blaad's System Utilities (mingw-w64) |
-| 2026-11-01 02:16:03 | [thrum](https://aur.archlinux.org/packages/thrum) | 0.4.0-1 | 0 | A Winamp-style music player and library manager that wears the Omarchy theme |
+| 2026-11-01 02:29:58 | [libmmd](https://aur.archlinux.org/packages/libmmd) | 0.7.4.3-1 | 0 | A renderlib for mikumiku dance pmd model and vmd motion files |
+| 2026-11-01 02:41:56 | [soundpad-bin](https://aur.archlinux.org/packages/soundpad-bin) | 0.2.0-1 | 0 | Soundpad alternative with PipeWire virtual mic & global hotkeys (Rust + egui) |
+| 2026-11-01 03:00:15 | [texlive-emo](https://aur.archlinux.org/packages/texlive-emo) | 1.0-2 | 0 | Emoji support for all LaTeX engines |
+| 2026-11-01 03:06:44 | [texlive-emo-git](https://aur.archlinux.org/packages/texlive-emo-git) | 0.4.r85.g0000000-1 | 0 | Emoji support for all LaTeX engines (development version) |
 
 ## Data source
 
