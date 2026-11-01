@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-01T07:08:18Z,libfprint-fpc-disum,1.94.100_fpc1-1,0,libfprint with FPC Disum 10a5:9201 fingerprint sensor support
+2026-11-01T07:09:09Z,quaver-music-appimage,1.7.2-1,0,Third-party QQ Music client built with Electron (AppImage)
