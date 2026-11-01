@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 07:18 UTC
+## Latest list — 2026-11-01 08:19 UTC
 
-New packages created between 2026-11-01 06:20 UTC and 2026-11-01 07:18 UTC.
+New packages created between 2026-11-01 07:18 UTC and 2026-11-01 08:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T07-18-28-117886Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-01T08-19-38-464997Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 07:08:18 | [libfprint-fpc-disum](https://aur.archlinux.org/packages/libfprint-fpc-disum) | 1.94.100_fpc1-1 | 0 | libfprint with FPC Disum 10a5:9201 fingerprint sensor support |
-| 2026-11-01 07:09:09 | [quaver-music-appimage](https://aur.archlinux.org/packages/quaver-music-appimage) | 1.7.2-1 | 0 | Third-party QQ Music client built with Electron (AppImage) |
+| 2026-11-01 08:15:17 | [makepkg-jail-local](https://aur.archlinux.org/packages/makepkg-jail-local) |  |  | Local bubblewrap makepkg sandbox with AppArmor and a restricted paru adapter |
 
 ## Data source
 

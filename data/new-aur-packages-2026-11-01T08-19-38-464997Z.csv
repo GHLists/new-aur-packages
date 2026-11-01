@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-11-01T08:15:17Z,makepkg-jail-local,,,Local bubblewrap makepkg sandbox with AppArmor and a restricted paru adapter
