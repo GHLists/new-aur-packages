@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-02T17:47:41Z,bnetctl-bin,1.1.0-1,0,"CLI to install, manage, and run Battle.net on Linux via Wine"
+2026-11-02T17:48:30Z,bnetctl-git,1.1.0.r0.g16b1719-1,0,"CLI to install, manage, and run Battle.net on Linux via Wine (git version)"
+2026-11-02T18:02:39Z,rose-pine-btop-git,r9.c27e5d4-1,0,Rosé Pine theme for btop
+2026-11-02T18:07:13Z,rose-pine-fcitx5-git,r6.01c291b-1,0,Soho vibes for fcitx5
+2026-11-02T18:15:08Z,rose-pine-ironbar-git,r1.5c8359d-1,0,Rosé Pine theme for ironbar
+2026-11-02T18:16:54Z,rose-pine-swaync-git,r9.d506efe-1,0,Soho vibes for SwayNotificationCenter

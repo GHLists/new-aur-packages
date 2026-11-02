@@ -12,15 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 17:21 UTC
+## Latest list — 2026-11-02 18:21 UTC
 
-New packages created between 2026-11-02 16:19 UTC and 2026-11-02 17:21 UTC.
+New packages created between 2026-11-02 17:21 UTC and 2026-11-02 18:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T17-21-35-477333Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T18-21-17-868703Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 17:12:45 | [xmap-studio-bin](https://aur.archlinux.org/packages/xmap-studio-bin) | 26.3.3-1 | 0 | Free and open-source mind map editor for .xmind files, with native LaTeX formul… |
+| 2026-11-02 17:47:41 | [bnetctl-bin](https://aur.archlinux.org/packages/bnetctl-bin) | 1.1.0-1 | 0 | CLI to install, manage, and run Battle.net on Linux via Wine |
+| 2026-11-02 17:48:30 | [bnetctl-git](https://aur.archlinux.org/packages/bnetctl-git) | 1.1.0.r0.g16b1719-1 | 0 | CLI to install, manage, and run Battle.net on Linux via Wine (git version) |
+| 2026-11-02 18:02:39 | [rose-pine-btop-git](https://aur.archlinux.org/packages/rose-pine-btop-git) | r9.c27e5d4-1 | 0 | Rosé Pine theme for btop |
+| 2026-11-02 18:07:13 | [rose-pine-fcitx5-git](https://aur.archlinux.org/packages/rose-pine-fcitx5-git) | r6.01c291b-1 | 0 | Soho vibes for fcitx5 |
+| 2026-11-02 18:15:08 | [rose-pine-ironbar-git](https://aur.archlinux.org/packages/rose-pine-ironbar-git) | r1.5c8359d-1 | 0 | Rosé Pine theme for ironbar |
+| 2026-11-02 18:16:54 | [rose-pine-swaync-git](https://aur.archlinux.org/packages/rose-pine-swaync-git) | r9.d506efe-1 | 0 | Soho vibes for SwayNotificationCenter |
 
 ## Data source
 
