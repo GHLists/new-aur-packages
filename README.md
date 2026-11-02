@@ -12,17 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 19:21 UTC
+## Latest list — 2026-11-02 20:19 UTC
 
-New packages created between 2026-11-02 18:21 UTC and 2026-11-02 19:21 UTC.
+New packages created between 2026-11-02 19:21 UTC and 2026-11-02 20:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T19-21-57-988333Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T20-19-11-852812Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 18:48:19 | [openidea-git](https://aur.archlinux.org/packages/openidea-git) | 0.1.34.r3.gc0c56da-1 | 0 | Open-source IntelliJ IDEA-style IDE rebuilt in Rust |
-| 2026-11-02 18:56:39 | [fsshield](https://aur.archlinux.org/packages/fsshield) | 1.0-1 | 0 | Limit a new process's access to the filesystem |
-| 2026-11-02 19:13:38 | [il2cppdumper](https://aur.archlinux.org/packages/il2cppdumper) | 6.7.46.r1.g4741d46-1 | 0 | Unity IL2CPP metadata dumper |
+| 2026-11-02 19:24:07 | [rive-cli-bin](https://aur.archlinux.org/packages/rive-cli-bin) | 1.8.0-1 | 0 | Command-line tools for creating, previewing, and publishing Rive graphics |
+| 2026-11-02 19:40:03 | [planisphere-bin](https://aur.archlinux.org/packages/planisphere-bin) | 0.2.1-1 | 0 | Elite Dangerous expedition flight planner, fleet carrier router, and astrometri… |
+| 2026-11-02 19:40:26 | [synergy-dragon-alpha-bin](https://aur.archlinux.org/packages/synergy-dragon-alpha-bin) | 0.7.0-2 | 0 | Share a single mouse and keyboard between multiple computers |
+| 2026-11-02 20:06:21 | [whoisthat-bin](https://aur.archlinux.org/packages/whoisthat-bin) | 0.17.4-1 | 0 | Modern terminal-based VPN client with Xray-core backend (prebuilt binaries) |
+| 2026-11-02 20:13:38 | [camilo](https://aur.archlinux.org/packages/camilo) | 1.0.0-1 | 0 | Terminal camera app for Kitty |
+| 2026-11-02 20:14:29 | [camilo-bin](https://aur.archlinux.org/packages/camilo-bin) | 1.0.0-1 | 0 | Terminal camera app for Kitty (prebuilt portable binary) |
 
 ## Data source
 
