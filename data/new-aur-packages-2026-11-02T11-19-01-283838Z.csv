@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-02T10:47:30Z,strata-files,1.1.1-1,1,"A fast, keyboard-first file manager for Linux"
+2026-11-02T10:52:10Z,xkb-editor,0.1.0-1,0,Edit or create keyboard layouts
+2026-11-02T10:53:36Z,orbit-tui-bin,0.11.17-1,0,Extensible 24/7 terminal workspace and autonomous AI agent cockpit in Rust

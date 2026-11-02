@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 10:18 UTC
+## Latest list — 2026-11-02 11:19 UTC
 
-New packages created between 2026-11-02 09:19 UTC and 2026-11-02 10:18 UTC.
+New packages created between 2026-11-02 10:18 UTC and 2026-11-02 11:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T10-18-23-412121Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T11-19-01-283838Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 09:26:10 | [fiji-latest-bin](https://aur.archlinux.org/packages/fiji-latest-bin) | 2:20261030.1817-1 | 0 | Fiji is an image processing package, a “batteries-included” distribution of Ima… |
-| 2026-11-02 09:36:40 | [jankk](https://aur.archlinux.org/packages/jankk) | 0.1.2-1 | 0 | A GBA game launcher and emulator frontend built with Qt and mGBA |
-| 2026-11-02 09:47:10 | [jankk-bin](https://aur.archlinux.org/packages/jankk-bin) | 0.1.2-1 | 0 | A GBA game launcher and emulator frontend built with Qt and mGBA (prebuilt) |
-| 2026-11-02 10:07:58 | [typewriter-nocturne-bin](https://aur.archlinux.org/packages/typewriter-nocturne-bin) | 1.0.0-1 | 0 | A literary, typewriter-inspired terminal based on Hyper |
+| 2026-11-02 10:47:30 | [strata-files](https://aur.archlinux.org/packages/strata-files) | 1.1.1-1 | 1 | A fast, keyboard-first file manager for Linux |
+| 2026-11-02 10:52:10 | [xkb-editor](https://aur.archlinux.org/packages/xkb-editor) | 0.1.0-1 | 0 | Edit or create keyboard layouts |
+| 2026-11-02 10:53:36 | [orbit-tui-bin](https://aur.archlinux.org/packages/orbit-tui-bin) | 0.11.17-1 | 0 | Extensible 24/7 terminal workspace and autonomous AI agent cockpit in Rust |
 
 ## Data source
 
