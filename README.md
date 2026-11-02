@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 12:21 UTC
+## Latest list — 2026-11-02 13:20 UTC
 
-New packages created between 2026-11-02 11:19 UTC and 2026-11-02 12:21 UTC.
+New packages created between 2026-11-02 12:21 UTC and 2026-11-02 13:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T12-21-01-753771Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T13-20-39-307237Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 11:41:10 | [voicestudio-git](https://aur.archlinux.org/packages/voicestudio-git) | 0.5.7.r6387.g1a2992… | 0 | Local AI voice studio: cloning, speech, dubbing and transcription (development… |
-| 2026-11-02 11:51:41 | [goroute-bin](https://aur.archlinux.org/packages/goroute-bin) | 0.7.0-1 | 0 | Ultra-lightweight LLM gateway and multi-account router in Go (< 5MB RAM) |
-| 2026-11-02 12:08:10 | [liquid-glass-git](https://aur.archlinux.org/packages/liquid-glass-git) | 0.1.0.r54.gc12f6a8-1 | 0 | Physical liquid glass & optical lensing UI engine for Linux & Wayland (WGPU + W… |
+| 2026-11-02 12:27:17 | [libredj](https://aur.archlinux.org/packages/libredj) | 0.9.0-2 | 0 | DJ software for Linux. |
+| 2026-11-02 13:16:49 | [sch-rnd-svn](https://aur.archlinux.org/packages/sch-rnd-svn) | r12509-1 | 0 | simple, modular, scriptable schematics editor |
 
 ## Data source
 
