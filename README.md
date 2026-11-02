@@ -12,16 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 01:20 UTC
+## Latest list — 2026-11-02 02:20 UTC
 
-New packages created between 2026-11-02 00:20 UTC and 2026-11-02 01:20 UTC.
+New packages created between 2026-11-02 01:20 UTC and 2026-11-02 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T01-20-11-672601Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T02-20-10-488702Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 00:57:39 | [legion-y520-fan-control-git](https://aur.archlinux.org/packages/legion-y520-fan-control-git) | 2.7.1.r19.g0701acb-1 | 0 | Extreme Cooling, automatic fan mode and gaming tools for Lenovo Legion Y520-15I… |
-| 2026-11-02 00:58:09 | [solace](https://aur.archlinux.org/packages/solace) | 3.2-1 | 1 | Sol Anachronistic Computer Emulation: a Sol-20 computer emulator |
+| 2026-11-02 01:41:00 | [python-einops-exts](https://aur.archlinux.org/packages/python-einops-exts) | 0.0.4-1 | 0 | Einops helpers for tensor lists, anonymous dimensions and PyTorch modules |
+| 2026-11-02 01:42:03 | [python-monotonic-align](https://aur.archlinux.org/packages/python-monotonic-align) | 1.2-1 | 0 | Cython monotonic alignment search with PyTorch tensor interfaces |
+| 2026-11-02 01:56:32 | [raspberrypi-bootloader-common](https://aur.archlinux.org/packages/raspberrypi-bootloader-common) | 1.20260915-4 | 0 | Bootloader files for Raspberry Pi (shared installer script) |
+| 2026-11-02 01:56:32 | [raspberrypi-bootloader-legacy](https://aur.archlinux.org/packages/raspberrypi-bootloader-legacy) | 1.20260915-4 | 0 | Bootloader files for Raspberry Pi (1/2/3, Zero & Zero 2) |
+| 2026-11-02 01:56:32 | [raspberrypi-bootloader-rpi4](https://aur.archlinux.org/packages/raspberrypi-bootloader-rpi4) | 1.20260915-4 | 0 | Bootloader files for Raspberry Pi (4 only) |
+| 2026-11-02 02:11:36 | [remmina-cf-dib-git](https://aur.archlinux.org/packages/remmina-cf-dib-git) | 1:1.4.43+r10592+gf7… | 0 | A remote desktop client written in GTK+ - git checkout with CF_DIB image clipbo… |
 
 ## Data source
 

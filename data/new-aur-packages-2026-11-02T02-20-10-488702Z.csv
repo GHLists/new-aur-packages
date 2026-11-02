@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-02T01:41:00Z,python-einops-exts,0.0.4-1,0,"Einops helpers for tensor lists, anonymous dimensions and PyTorch modules"
+2026-11-02T01:42:03Z,python-monotonic-align,1.2-1,0,Cython monotonic alignment search with PyTorch tensor interfaces
+2026-11-02T01:56:32Z,raspberrypi-bootloader-common,1.20260915-4,0,Bootloader files for Raspberry Pi (shared installer script)
+2026-11-02T01:56:32Z,raspberrypi-bootloader-legacy,1.20260915-4,0,"Bootloader files for Raspberry Pi (1/2/3, Zero & Zero 2)"
+2026-11-02T01:56:32Z,raspberrypi-bootloader-rpi4,1.20260915-4,0,Bootloader files for Raspberry Pi (4 only)
+2026-11-02T02:11:36Z,remmina-cf-dib-git,1:1.4.43+r10592+gf7…,0,A remote desktop client written in GTK+ - git checkout with CF_DIB image clipboard fix
