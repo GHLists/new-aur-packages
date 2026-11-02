@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 16:19 UTC
+## Latest list — 2026-11-02 17:21 UTC
 
-New packages created between 2026-11-02 15:20 UTC and 2026-11-02 16:19 UTC.
+New packages created between 2026-11-02 16:19 UTC and 2026-11-02 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T16-19-54-513342Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T17-21-35-477333Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 15:51:44 | [xound](https://aur.archlinux.org/packages/xound) | 2.0.0-1 | 0 | PipeWire audio control: equalizer, noise suppression, mic monitor, soundboard,… |
+| 2026-11-02 17:12:45 | [xmap-studio-bin](https://aur.archlinux.org/packages/xmap-studio-bin) | 26.3.3-1 | 0 | Free and open-source mind map editor for .xmind files, with native LaTeX formul… |
 
 ## Data source
 
