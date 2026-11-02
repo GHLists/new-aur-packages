@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 11:19 UTC
+## Latest list — 2026-11-02 12:21 UTC
 
-New packages created between 2026-11-02 10:18 UTC and 2026-11-02 11:19 UTC.
+New packages created between 2026-11-02 11:19 UTC and 2026-11-02 12:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T11-19-01-283838Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T12-21-01-753771Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 10:47:30 | [strata-files](https://aur.archlinux.org/packages/strata-files) | 1.1.1-1 | 1 | A fast, keyboard-first file manager for Linux |
-| 2026-11-02 10:52:10 | [xkb-editor](https://aur.archlinux.org/packages/xkb-editor) | 0.1.0-1 | 0 | Edit or create keyboard layouts |
-| 2026-11-02 10:53:36 | [orbit-tui-bin](https://aur.archlinux.org/packages/orbit-tui-bin) | 0.11.17-1 | 0 | Extensible 24/7 terminal workspace and autonomous AI agent cockpit in Rust |
+| 2026-11-02 11:41:10 | [voicestudio-git](https://aur.archlinux.org/packages/voicestudio-git) | 0.5.7.r6387.g1a2992… | 0 | Local AI voice studio: cloning, speech, dubbing and transcription (development… |
+| 2026-11-02 11:51:41 | [goroute-bin](https://aur.archlinux.org/packages/goroute-bin) | 0.7.0-1 | 0 | Ultra-lightweight LLM gateway and multi-account router in Go (< 5MB RAM) |
+| 2026-11-02 12:08:10 | [liquid-glass-git](https://aur.archlinux.org/packages/liquid-glass-git) | 0.1.0.r54.gc12f6a8-1 | 0 | Physical liquid glass & optical lensing UI engine for Linux & Wayland (WGPU + W… |
 
 ## Data source
 

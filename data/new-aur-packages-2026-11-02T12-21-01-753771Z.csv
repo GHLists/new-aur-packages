@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-02T11:41:10Z,voicestudio-git,0.5.7.r6387.g1a2992…,0,"Local AI voice studio: cloning, speech, dubbing and transcription (development sources)"
+2026-11-02T11:51:41Z,goroute-bin,0.7.0-1,0,Ultra-lightweight LLM gateway and multi-account router in Go (< 5MB RAM)
+2026-11-02T12:08:10Z,liquid-glass-git,0.1.0.r54.gc12f6a8-1,0,Physical liquid glass & optical lensing UI engine for Linux & Wayland (WGPU + WGSL)
