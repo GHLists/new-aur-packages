@@ -12,17 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 07:19 UTC
+## Latest list — 2026-11-02 08:20 UTC
 
-New packages created between 2026-11-02 06:20 UTC and 2026-11-02 07:19 UTC.
+New packages created between 2026-11-02 07:19 UTC and 2026-11-02 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T07-19-25-462465Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T08-20-20-365183Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 06:21:15 | [mechrevo-console](https://aur.archlinux.org/packages/mechrevo-console) | 0.1.0.r1535.gcee10e… | 0 | Native MECHREVO system and OEM device control console |
-| 2026-11-02 07:14:25 | [perl-frozen](https://aur.archlinux.org/packages/perl-frozen) | 0.09-1 | 0 | an immutable container that survives a fork |
-| 2026-11-02 07:16:18 | [perl-struct-codec](https://aur.archlinux.org/packages/perl-struct-codec) |  |  | a Perl structure to bytes and back, with nothing lost |
+| 2026-11-02 07:25:40 | [omnidiff](https://aur.archlinux.org/packages/omnidiff) | 0.3.0-1 | 0 | Fast, robust, accurate content-aware diffing |
+| 2026-11-02 07:28:00 | [perl-hyperman](https://aur.archlinux.org/packages/perl-hyperman) | 0.66-1 | 0 | an event-loop PSGI server |
+| 2026-11-02 07:30:02 | [mimick-git](https://aur.archlinux.org/packages/mimick-git) | r0-1 | 0 | Unofficial Immich desktop client for Linux (GTK4/libadwaita) |
+| 2026-11-02 07:46:12 | [perl-object-proto](https://aur.archlinux.org/packages/perl-object-proto) | 1.00-1 | 0 | objects with prototype chains |
+| 2026-11-02 07:48:50 | [marioqt-git](https://aur.archlinux.org/packages/marioqt-git) | r149.3593fd2-1 | 1 | Playable Super Mario Bros NES-style Mario level editor |
+| 2026-11-02 08:14:59 | [perl-horus](https://aur.archlinux.org/packages/perl-horus) | 1.00-1 | 0 | XS UUID/GUID generator supporting all RFC 9562 versions |
+| 2026-11-02 08:15:38 | [perl-apophis](https://aur.archlinux.org/packages/perl-apophis) | 1.00-1 | 0 | Content addressable storage with deterministic UUID v5 identifiers |
+| 2026-11-02 08:17:40 | [perl-dbix-loop](https://aur.archlinux.org/packages/perl-dbix-loop) |  |  | non-blocking DBI on your event loop |
 
 ## Data source
 
