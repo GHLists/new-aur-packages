@@ -12,20 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 02:20 UTC
+## Latest list — 2026-11-02 03:19 UTC
 
-New packages created between 2026-11-02 01:20 UTC and 2026-11-02 02:20 UTC.
+New packages created between 2026-11-02 02:20 UTC and 2026-11-02 03:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T02-20-10-488702Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T03-19-12-930488Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 01:41:00 | [python-einops-exts](https://aur.archlinux.org/packages/python-einops-exts) | 0.0.4-1 | 0 | Einops helpers for tensor lists, anonymous dimensions and PyTorch modules |
-| 2026-11-02 01:42:03 | [python-monotonic-align](https://aur.archlinux.org/packages/python-monotonic-align) | 1.2-1 | 0 | Cython monotonic alignment search with PyTorch tensor interfaces |
-| 2026-11-02 01:56:32 | [raspberrypi-bootloader-common](https://aur.archlinux.org/packages/raspberrypi-bootloader-common) | 1.20260915-4 | 0 | Bootloader files for Raspberry Pi (shared installer script) |
-| 2026-11-02 01:56:32 | [raspberrypi-bootloader-legacy](https://aur.archlinux.org/packages/raspberrypi-bootloader-legacy) | 1.20260915-4 | 0 | Bootloader files for Raspberry Pi (1/2/3, Zero & Zero 2) |
-| 2026-11-02 01:56:32 | [raspberrypi-bootloader-rpi4](https://aur.archlinux.org/packages/raspberrypi-bootloader-rpi4) | 1.20260915-4 | 0 | Bootloader files for Raspberry Pi (4 only) |
-| 2026-11-02 02:11:36 | [remmina-cf-dib-git](https://aur.archlinux.org/packages/remmina-cf-dib-git) | 1:1.4.43+r10592+gf7… | 0 | A remote desktop client written in GTK+ - git checkout with CF_DIB image clipbo… |
+| 2026-11-02 02:55:18 | [viper4linux-re](https://aur.archlinux.org/packages/viper4linux-re) | 1.0.0-1 | 0 | ViPERDSP audio effects for PipeWire with a Qt6 interface |
+| 2026-11-02 02:56:22 | [finch-agent-bin](https://aur.archlinux.org/packages/finch-agent-bin) | 1.7.5-2 | 0 | Finch Agent - lightweight desktop AI agent with cross-session memory, skills an… |
 
 ## Data source
 
