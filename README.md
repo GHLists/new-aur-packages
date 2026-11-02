@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 04:18 UTC
+## Latest list — 2026-11-02 05:20 UTC
 
-New packages created between 2026-11-02 03:19 UTC and 2026-11-02 04:18 UTC.
+New packages created between 2026-11-02 04:18 UTC and 2026-11-02 05:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T04-18-58-02824Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T05-20-10-038065Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 03:38:04 | [ofdgo-git](https://aur.archlinux.org/packages/ofdgo-git) | r1065.9d20ecd-2 | 0 | Native cross-platform pure-Go OFD / PDF rendering and viewing tool |
-| 2026-11-02 03:39:22 | [triproxy-bin](https://aur.archlinux.org/packages/triproxy-bin) | 0.2.2-1 | 0 | A modern multi-core proxy client: unified lifecycle management for Mihomo, sing… |
-| 2026-11-02 03:46:51 | [ayagami-git](https://aur.archlinux.org/packages/ayagami-git) | 0.1.0r0.0d1d7aa-1 | 1 | A 2D puppet model renderer compatible with Live2D (development version) |
-| 2026-11-02 03:56:34 | [elfbsp-bin](https://aur.archlinux.org/packages/elfbsp-bin) | 1.3.1-1 | 0 | Modern BSP tree builder for idTech1 games and source ports. Based on Andrew Apt… |
-| 2026-11-02 04:05:45 | [git-ego-bin](https://aur.archlinux.org/packages/git-ego-bin) | 0.2.4-2 | 0 | Your Git identity manager and automatic profile switcher. |
+| 2026-11-02 05:09:43 | [codjd](https://aur.archlinux.org/packages/codjd) | 0.2.0-1 | 0 | codj daemon - music player and keyboard DJ engine (decks, cue, beatgrids, Souls… |
+| 2026-11-02 05:09:49 | [codj](https://aur.archlinux.org/packages/codj) | 0.2.0-1 | 0 | Vim-style terminal music player and keyboard DJ (TUI for codjd) |
 
 ## Data source
 

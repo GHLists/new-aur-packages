@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-02T05:09:43Z,codjd,0.2.0-1,0,"codj daemon - music player and keyboard DJ engine (decks, cue, beatgrids, Soulseek) over D-Bus"
+2026-11-02T05:09:49Z,codj,0.2.0-1,0,Vim-style terminal music player and keyboard DJ (TUI for codjd)
