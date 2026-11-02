@@ -1,0 +1,15 @@
+created_at,package,version,votes,description
+2026-11-02T08:22:54Z,perl-tie-orderedhash,1.00-1,0,Ordered Hashes with a public C ABI
+2026-11-02T08:23:30Z,python315-freethreaded,3.15.2-1,0,CPython 3.15 with free-threading support (GIL disabled)
+2026-11-02T08:24:39Z,perl-file-raw,0.19-1,0,File operations using direct system calls
+2026-11-02T08:25:40Z,perl-file-raw-json,0.08-1,0,Fast JSON / JSONL plugin for File::Raw
+2026-11-02T08:28:16Z,perl-fetch,0.29-1,0,"HTTP/3, HTTP/2 and HTTP/1.1 Future-based user agent"
+2026-11-02T08:37:13Z,perl-json-schema-fast,0.10-1,0,a fast JSON Schema (draft 2020-12) validator
+2026-11-02T08:37:35Z,perl-file-raw-xml,0.04-1,0,an XML parser
+2026-11-02T08:37:41Z,nitromta-bin,0.1.4-1,0,Self-hosted mail delivery engine that speaks the Amazon SES v2 API
+2026-11-02T08:41:18Z,perl-open-api,0.15-1,0,"OpenAPI 2.0, 3.0 and 3.1 server and client"
+2026-11-02T08:43:22Z,perl-eshu,0.14-1,0,"indentation fixer and syntax highlighter for C, Perl, XS, XML, HTML,"
+2026-11-02T08:44:22Z,perl-markdown-simple,0.23-1,0,Markdown to HTML
+2026-11-02T08:44:50Z,perl-template-stencil,0.13-1,0,a fast template engine
+2026-11-02T08:46:39Z,perl-search-trigram,0.03-1,0,Trigram inverted index search with Dice coefficient scoring
+2026-11-02T08:50:19Z,perl-punk,0.68-1,0,a MVC web framework
