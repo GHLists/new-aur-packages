@@ -12,20 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 20:19 UTC
+## Latest list — 2026-11-02 21:19 UTC
 
-New packages created between 2026-11-02 19:21 UTC and 2026-11-02 20:19 UTC.
+New packages created between 2026-11-02 20:19 UTC and 2026-11-02 21:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T20-19-11-852812Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T21-19-50-393009Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 19:24:07 | [rive-cli-bin](https://aur.archlinux.org/packages/rive-cli-bin) | 1.8.0-1 | 0 | Command-line tools for creating, previewing, and publishing Rive graphics |
-| 2026-11-02 19:40:03 | [planisphere-bin](https://aur.archlinux.org/packages/planisphere-bin) | 0.2.1-1 | 0 | Elite Dangerous expedition flight planner, fleet carrier router, and astrometri… |
-| 2026-11-02 19:40:26 | [synergy-dragon-alpha-bin](https://aur.archlinux.org/packages/synergy-dragon-alpha-bin) | 0.7.0-2 | 0 | Share a single mouse and keyboard between multiple computers |
-| 2026-11-02 20:06:21 | [whoisthat-bin](https://aur.archlinux.org/packages/whoisthat-bin) | 0.17.4-1 | 0 | Modern terminal-based VPN client with Xray-core backend (prebuilt binaries) |
-| 2026-11-02 20:13:38 | [camilo](https://aur.archlinux.org/packages/camilo) | 1.0.0-1 | 0 | Terminal camera app for Kitty |
-| 2026-11-02 20:14:29 | [camilo-bin](https://aur.archlinux.org/packages/camilo-bin) | 1.0.0-1 | 0 | Terminal camera app for Kitty (prebuilt portable binary) |
+| 2026-11-02 20:34:37 | [tinox-ide](https://aur.archlinux.org/packages/tinox-ide) | 0.1.0-1 | 0 | Native KDE Plasma IDE for the Tinox language, written in Tinox (built from sour… |
+| 2026-11-02 20:53:23 | [opldeck](https://aur.archlinux.org/packages/opldeck) | 0.8.0-1 | 0 | PS2 game library manager for Open PS2 Loader |
+| 2026-11-02 20:58:08 | [rose-pine-gtk-theme-full-git](https://aur.archlinux.org/packages/rose-pine-gtk-theme-full-git) | 2.2.0.r6.g598be13-1 | 0 | A GTK theme with the Rose Pine colour palette. Includes Icons. (git version) |
+| 2026-11-02 21:09:47 | [vtium](https://aur.archlinux.org/packages/vtium) | 0.1.0alpha.1-1 | 0 | Terminal for the Linux console, drawn through KMS/DRM |
+| 2026-11-02 21:09:47 | [vtium-terminfo](https://aur.archlinux.org/packages/vtium-terminfo) | 0.1.0alpha.1-1 | 0 | The terminfo entry xterm-vtium, for sessions in vtium |
+| 2026-11-02 21:09:54 | [vtium-git](https://aur.archlinux.org/packages/vtium-git) | r1866.16e66a2-1 | 0 | Terminal for the Linux console, drawn through KMS/DRM (git main) |
+| 2026-11-02 21:09:54 | [vtium-terminfo-git](https://aur.archlinux.org/packages/vtium-terminfo-git) | r1866.16e66a2-1 | 0 | The terminfo entry xterm-vtium, for sessions in vtium (git main) |
 
 ## Data source
 
