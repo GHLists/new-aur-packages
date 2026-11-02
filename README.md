@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 15:20 UTC
+## Latest list — 2026-11-02 16:19 UTC
 
-New packages created between 2026-11-02 14:21 UTC and 2026-11-02 15:20 UTC.
+New packages created between 2026-11-02 15:20 UTC and 2026-11-02 16:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T15-20-52-800757Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T16-19-54-513342Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 14:39:45 | [amp-desktop-bin](https://aur.archlinux.org/packages/amp-desktop-bin) | 0.1.29893834-1 | 0 | Amp, the frontier coding agent, as a desktop app |
-| 2026-11-02 15:00:43 | [nvforever-bin](https://aur.archlinux.org/packages/nvforever-bin) | 0.5.1-1 | 0 | Clean-room Fallout: New Vegas engine (official prebuilt release; requires game… |
+| 2026-11-02 15:51:44 | [xound](https://aur.archlinux.org/packages/xound) | 2.0.0-1 | 0 | PipeWire audio control: equalizer, noise suppression, mic monitor, soundboard,… |
 
 ## Data source
 
