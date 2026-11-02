@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-02T06:21:15Z,mechrevo-console,0.1.0.r1535.gcee10e…,0,Native MECHREVO system and OEM device control console
+2026-11-02T07:14:25Z,perl-frozen,0.09-1,0,an immutable container that survives a fork
+2026-11-02T07:16:18Z,perl-struct-codec,,,"a Perl structure to bytes and back, with nothing lost"

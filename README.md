@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 06:20 UTC
+## Latest list — 2026-11-02 07:19 UTC
 
-New packages created between 2026-11-02 05:20 UTC and 2026-11-02 06:20 UTC.
+New packages created between 2026-11-02 06:20 UTC and 2026-11-02 07:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T06-20-15-626824Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T07-19-25-462465Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 05:24:18 | [nlock-bin](https://aur.archlinux.org/packages/nlock-bin) | 0.1.9-1 | 1 | Make shell commands take turns: named locks with a queue for terminals, cron jo… |
-| 2026-11-02 05:24:33 | [staind-bin](https://aur.archlinux.org/packages/staind-bin) | 1.0.0-1 | 1 | A tiny Zig tool that colors stderr through a FIFO |
-| 2026-11-02 05:56:42 | [explorenova-bin](https://aur.archlinux.org/packages/explorenova-bin) | 0.1.0-1 | 0 | Terminal file manager: git-annotated tree, previews, fuzzy search, vim keys (pr… |
+| 2026-11-02 06:21:15 | [mechrevo-console](https://aur.archlinux.org/packages/mechrevo-console) | 0.1.0.r1535.gcee10e… | 0 | Native MECHREVO system and OEM device control console |
+| 2026-11-02 07:14:25 | [perl-frozen](https://aur.archlinux.org/packages/perl-frozen) | 0.09-1 | 0 | an immutable container that survives a fork |
+| 2026-11-02 07:16:18 | [perl-struct-codec](https://aur.archlinux.org/packages/perl-struct-codec) |  |  | a Perl structure to bytes and back, with nothing lost |
 
 ## Data source
 
