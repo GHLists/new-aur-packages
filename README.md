@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 14:21 UTC
+## Latest list — 2026-11-02 15:20 UTC
 
-New packages created between 2026-11-02 13:20 UTC and 2026-11-02 14:21 UTC.
+New packages created between 2026-11-02 14:21 UTC and 2026-11-02 15:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T14-21-17-279341Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T15-20-52-800757Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 13:58:06 | [ukibuild](https://aur.archlinux.org/packages/ukibuild) | 0.3.0-1 | 0 | Build and sign Unified Kernel Images (UKI) |
-| 2026-11-02 14:16:51 | [codex-daemon-update-hook](https://aur.archlinux.org/packages/codex-daemon-update-hook) | 0.1.0-1 | 0 | Keep managed Codex daemon packages in sync with pacman upgrades |
+| 2026-11-02 14:39:45 | [amp-desktop-bin](https://aur.archlinux.org/packages/amp-desktop-bin) | 0.1.29893834-1 | 0 | Amp, the frontier coding agent, as a desktop app |
+| 2026-11-02 15:00:43 | [nvforever-bin](https://aur.archlinux.org/packages/nvforever-bin) | 0.5.1-1 | 0 | Clean-room Fallout: New Vegas engine (official prebuilt release; requires game… |
 
 ## Data source
 
