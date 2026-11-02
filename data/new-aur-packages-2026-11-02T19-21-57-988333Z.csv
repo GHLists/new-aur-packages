@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-02T18:48:19Z,openidea-git,0.1.34.r3.gc0c56da-1,0,Open-source IntelliJ IDEA-style IDE rebuilt in Rust
+2026-11-02T18:56:39Z,fsshield,1.0-1,0,Limit a new process's access to the filesystem
+2026-11-02T19:13:38Z,il2cppdumper,6.7.46.r1.g4741d46-1,0,Unity IL2CPP metadata dumper
