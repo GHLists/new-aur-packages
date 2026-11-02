@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 13:20 UTC
+## Latest list — 2026-11-02 14:21 UTC
 
-New packages created between 2026-11-02 12:21 UTC and 2026-11-02 13:20 UTC.
+New packages created between 2026-11-02 13:20 UTC and 2026-11-02 14:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T13-20-39-307237Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T14-21-17-279341Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 12:27:17 | [libredj](https://aur.archlinux.org/packages/libredj) | 0.9.0-2 | 0 | DJ software for Linux. |
-| 2026-11-02 13:16:49 | [sch-rnd-svn](https://aur.archlinux.org/packages/sch-rnd-svn) | r12509-1 | 0 | simple, modular, scriptable schematics editor |
+| 2026-11-02 13:58:06 | [ukibuild](https://aur.archlinux.org/packages/ukibuild) | 0.3.0-1 | 0 | Build and sign Unified Kernel Images (UKI) |
+| 2026-11-02 14:16:51 | [codex-daemon-update-hook](https://aur.archlinux.org/packages/codex-daemon-update-hook) | 0.1.0-1 | 0 | Keep managed Codex daemon packages in sync with pacman upgrades |
 
 ## Data source
 

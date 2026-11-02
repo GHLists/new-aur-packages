@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-02T13:58:06Z,ukibuild,0.3.0-1,0,Build and sign Unified Kernel Images (UKI)
+2026-11-02T14:16:51Z,codex-daemon-update-hook,0.1.0-1,0,Keep managed Codex daemon packages in sync with pacman upgrades
