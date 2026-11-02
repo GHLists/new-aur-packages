@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-02T09:26:10Z,fiji-latest-bin,2:20261030.1817-1,0,"Fiji is an image processing package, a “batteries-included” distribution of ImageJ2, bundling a lot of plugins which facilitate scientific image analysis."
+2026-11-02T09:36:40Z,jankk,0.1.2-1,0,A GBA game launcher and emulator frontend built with Qt and mGBA
+2026-11-02T09:47:10Z,jankk-bin,0.1.2-1,0,A GBA game launcher and emulator frontend built with Qt and mGBA (prebuilt)
+2026-11-02T10:07:58Z,typewriter-nocturne-bin,1.0.0-1,0,"A literary, typewriter-inspired terminal based on Hyper"
