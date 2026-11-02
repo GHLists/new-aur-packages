@@ -12,20 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 23:18 UTC
+## Latest list — 2026-11-02 00:20 UTC
 
-New packages created between 2026-11-01 22:20 UTC and 2026-11-01 23:18 UTC.
+New packages created between 2026-11-01 23:18 UTC and 2026-11-02 00:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-01T23-18-49-633904Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T00-20-24-279293Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 22:21:22 | [beads-viewer-bin](https://aur.archlinux.org/packages/beads-viewer-bin) | 0.25.2-3 | 0 | Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, d… |
-| 2026-11-01 22:36:19 | [ec_access](https://aur.archlinux.org/packages/ec_access) | 2010.01-1 | 0 | Small utility to read and write embedded controllder data at '/sys/kernel/debug… |
-| 2026-11-01 22:49:31 | [q2-sample-classifier](https://aur.archlinux.org/packages/q2-sample-classifier) | 2026.10.0-1 | 0 | QIIME 2 classification and regression of biological samples |
-| 2026-11-01 22:53:15 | [q2-quality-control](https://aur.archlinux.org/packages/q2-quality-control) | 2026.10.0-1 | 0 | QIIME 2 quality control of feature and sequence data |
-| 2026-11-01 23:16:02 | [lazybw-bin](https://aur.archlinux.org/packages/lazybw-bin) |  |  | A keyboard-first terminal UI for the Bitwarden vault (static binary) |
-| 2026-11-01 23:16:07 | [lazybw](https://aur.archlinux.org/packages/lazybw) |  |  | A keyboard-first terminal UI for the Bitwarden vault |
+| 2026-11-01 23:26:17 | [conflux-gtk-git](https://aur.archlinux.org/packages/conflux-gtk-git) | 1.1.0.r41.g79d4347-1 | 0 | GNOME app to set up and watch conflux syncs |
+| 2026-11-01 23:46:31 | [conflux-gtk](https://aur.archlinux.org/packages/conflux-gtk) | 2.0.0-1 | 0 | GNOME app to set up and watch conflux syncs |
+| 2026-11-01 23:46:39 | [conflux-gtk-bin](https://aur.archlinux.org/packages/conflux-gtk-bin) | 2.0.0-1 | 0 | GNOME app to set up and watch conflux syncs |
+| 2026-11-01 23:47:03 | [q2-feature-classifier](https://aur.archlinux.org/packages/q2-feature-classifier) | 2026.10.0-1 | 0 | QIIME 2 taxonomic classification of biological sequences |
+| 2026-11-01 23:50:22 | [hyprland-plus](https://aur.archlinux.org/packages/hyprland-plus) | 0.57.0.p2-1 | 0 | Hyprland 0.57.0 with Halcyon window features, app-scoped pen pressure curves an… |
+| 2026-11-01 23:58:49 | [colibri-social](https://aur.archlinux.org/packages/colibri-social) | 0.5.1-1 | 0 | Call, chat, and hang out on a platform built for you! |
+| 2026-11-01 23:59:33 | [colibri-social-beta](https://aur.archlinux.org/packages/colibri-social-beta) | 0.6.0_spaces.19-1 | 0 | Call, chat, and hang out on a platform built for you! |
+| 2026-11-02 00:00:10 | [colibri-social-beta-bin](https://aur.archlinux.org/packages/colibri-social-beta-bin) | 0.6.0_spaces.19-1 | 0 | Call, chat, and hang out on a platform built for you! (spaces version) |
+| 2026-11-02 00:11:25 | [wps-office-kr-bin](https://aur.archlinux.org/packages/wps-office-kr-bin) | 12.1.2.29183-1 | 0 | WPS Office Korean-patched build (prebuilt binary from GitHub Releases) |
 
 ## Data source
 

@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-01T23:26:17Z,conflux-gtk-git,1.1.0.r41.g79d4347-1,0,GNOME app to set up and watch conflux syncs
+2026-11-01T23:46:31Z,conflux-gtk,2.0.0-1,0,GNOME app to set up and watch conflux syncs
+2026-11-01T23:46:39Z,conflux-gtk-bin,2.0.0-1,0,GNOME app to set up and watch conflux syncs
+2026-11-01T23:47:03Z,q2-feature-classifier,2026.10.0-1,0,QIIME 2 taxonomic classification of biological sequences
+2026-11-01T23:50:22Z,hyprland-plus,0.57.0.p2-1,0,"Hyprland 0.57.0 with Halcyon window features, app-scoped pen pressure curves and Surface touchD integration"
+2026-11-01T23:58:49Z,colibri-social,0.5.1-1,0,"Call, chat, and hang out on a platform built for you!"
+2026-11-01T23:59:33Z,colibri-social-beta,0.6.0_spaces.19-1,0,"Call, chat, and hang out on a platform built for you!"
+2026-11-02T00:00:10Z,colibri-social-beta-bin,0.6.0_spaces.19-1,0,"Call, chat, and hang out on a platform built for you! (spaces version)"
+2026-11-02T00:11:25Z,wps-office-kr-bin,12.1.2.29183-1,0,WPS Office Korean-patched build (prebuilt binary from GitHub Releases)
