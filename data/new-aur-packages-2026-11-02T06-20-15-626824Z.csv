@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-02T05:24:18Z,nlock-bin,0.1.9-1,1,"Make shell commands take turns: named locks with a queue for terminals, cron jobs, scripts and coding agents"
+2026-11-02T05:24:33Z,staind-bin,1.0.0-1,1,A tiny Zig tool that colors stderr through a FIFO
+2026-11-02T05:56:42Z,explorenova-bin,0.1.0-1,0,"Terminal file manager: git-annotated tree, previews, fuzzy search, vim keys (prebuilt)"

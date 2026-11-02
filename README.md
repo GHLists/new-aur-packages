@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 05:20 UTC
+## Latest list — 2026-11-02 06:20 UTC
 
-New packages created between 2026-11-02 04:18 UTC and 2026-11-02 05:20 UTC.
+New packages created between 2026-11-02 05:20 UTC and 2026-11-02 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T05-20-10-038065Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T06-20-15-626824Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 05:09:43 | [codjd](https://aur.archlinux.org/packages/codjd) | 0.2.0-1 | 0 | codj daemon - music player and keyboard DJ engine (decks, cue, beatgrids, Souls… |
-| 2026-11-02 05:09:49 | [codj](https://aur.archlinux.org/packages/codj) | 0.2.0-1 | 0 | Vim-style terminal music player and keyboard DJ (TUI for codjd) |
+| 2026-11-02 05:24:18 | [nlock-bin](https://aur.archlinux.org/packages/nlock-bin) | 0.1.9-1 | 1 | Make shell commands take turns: named locks with a queue for terminals, cron jo… |
+| 2026-11-02 05:24:33 | [staind-bin](https://aur.archlinux.org/packages/staind-bin) | 1.0.0-1 | 1 | A tiny Zig tool that colors stderr through a FIFO |
+| 2026-11-02 05:56:42 | [explorenova-bin](https://aur.archlinux.org/packages/explorenova-bin) | 0.1.0-1 | 0 | Terminal file manager: git-annotated tree, previews, fuzzy search, vim keys (pr… |
 
 ## Data source
 
