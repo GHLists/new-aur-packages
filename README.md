@@ -12,21 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 21:19 UTC
+## Latest list — 2026-11-02 22:21 UTC
 
-New packages created between 2026-11-02 20:19 UTC and 2026-11-02 21:19 UTC.
+New packages created between 2026-11-02 21:19 UTC and 2026-11-02 22:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T21-19-50-393009Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T22-21-05-12751Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 20:34:37 | [tinox-ide](https://aur.archlinux.org/packages/tinox-ide) | 0.1.0-1 | 0 | Native KDE Plasma IDE for the Tinox language, written in Tinox (built from sour… |
-| 2026-11-02 20:53:23 | [opldeck](https://aur.archlinux.org/packages/opldeck) | 0.8.0-1 | 0 | PS2 game library manager for Open PS2 Loader |
-| 2026-11-02 20:58:08 | [rose-pine-gtk-theme-full-git](https://aur.archlinux.org/packages/rose-pine-gtk-theme-full-git) | 2.2.0.r6.g598be13-1 | 0 | A GTK theme with the Rose Pine colour palette. Includes Icons. (git version) |
-| 2026-11-02 21:09:47 | [vtium](https://aur.archlinux.org/packages/vtium) | 0.1.0alpha.1-1 | 0 | Terminal for the Linux console, drawn through KMS/DRM |
-| 2026-11-02 21:09:47 | [vtium-terminfo](https://aur.archlinux.org/packages/vtium-terminfo) | 0.1.0alpha.1-1 | 0 | The terminfo entry xterm-vtium, for sessions in vtium |
-| 2026-11-02 21:09:54 | [vtium-git](https://aur.archlinux.org/packages/vtium-git) | r1866.16e66a2-1 | 0 | Terminal for the Linux console, drawn through KMS/DRM (git main) |
-| 2026-11-02 21:09:54 | [vtium-terminfo-git](https://aur.archlinux.org/packages/vtium-terminfo-git) | r1866.16e66a2-1 | 0 | The terminfo entry xterm-vtium, for sessions in vtium (git main) |
+| 2026-11-02 21:45:34 | [disc-image-studio](https://aur.archlinux.org/packages/disc-image-studio) | 1.3.6-1 | 0 | Generate CD, DVD and Blu-ray images that show a picture on the burned disc |
+| 2026-11-02 21:45:42 | [disc-image-studio-bin](https://aur.archlinux.org/packages/disc-image-studio-bin) | 1.3.6-1 | 0 | Generate CD, DVD and Blu-ray images that show a picture on the burned disc (pre… |
+| 2026-11-02 21:45:51 | [disc-image-studio-git](https://aur.archlinux.org/packages/disc-image-studio-git) | r55.374c063-1 | 0 | Generate CD, DVD and Blu-ray images that show a picture on the burned disc (git… |
+| 2026-11-02 22:00:31 | [pi-gui](https://aur.archlinux.org/packages/pi-gui) | 1.0.1-1 | 0 | Electron GUI app for the pi coding agent runtime |
+| 2026-11-02 22:07:53 | [peek2](https://aur.archlinux.org/packages/peek2) | 0.2.1-1 | 0 | Region screen recorder with audio, straight to the clipboard (Rust rewrite of P… |
 
 ## Data source
 
