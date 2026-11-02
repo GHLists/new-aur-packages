@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 22:21 UTC
+## Latest list — 2026-11-02 23:21 UTC
 
-New packages created between 2026-11-02 21:19 UTC and 2026-11-02 22:21 UTC.
+New packages created between 2026-11-02 22:21 UTC and 2026-11-02 23:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-02T22-21-05-12751Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-02T23-21-52-902669Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 21:45:34 | [disc-image-studio](https://aur.archlinux.org/packages/disc-image-studio) | 1.3.6-1 | 0 | Generate CD, DVD and Blu-ray images that show a picture on the burned disc |
-| 2026-11-02 21:45:42 | [disc-image-studio-bin](https://aur.archlinux.org/packages/disc-image-studio-bin) | 1.3.6-1 | 0 | Generate CD, DVD and Blu-ray images that show a picture on the burned disc (pre… |
-| 2026-11-02 21:45:51 | [disc-image-studio-git](https://aur.archlinux.org/packages/disc-image-studio-git) | r55.374c063-1 | 0 | Generate CD, DVD and Blu-ray images that show a picture on the burned disc (git… |
-| 2026-11-02 22:00:31 | [pi-gui](https://aur.archlinux.org/packages/pi-gui) | 1.0.1-1 | 0 | Electron GUI app for the pi coding agent runtime |
-| 2026-11-02 22:07:53 | [peek2](https://aur.archlinux.org/packages/peek2) | 0.2.1-1 | 0 | Region screen recorder with audio, straight to the clipboard (Rust rewrite of P… |
+| 2026-11-02 22:47:46 | [numr-desktop-bin](https://aur.archlinux.org/packages/numr-desktop-bin) | 0.9.1-1 | 0 | Desktop app for the numr text calculator: variables, units, currencies, live ra… |
+| 2026-11-02 23:00:22 | [catpaw-cn](https://aur.archlinux.org/packages/catpaw-cn) | 2026.1016.0034-1 | 0 | 妙手 AI Agent 桌面应用（国内版），非官方 Linux 移植 |
 
 ## Data source
 
