@@ -12,20 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 12:21 UTC
+## Latest list — 2026-11-03 13:19 UTC
 
-New packages created between 2026-11-03 11:19 UTC and 2026-11-03 12:21 UTC.
+New packages created between 2026-11-03 12:21 UTC and 2026-11-03 13:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T12-21-30-398944Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T13-19-22-719072Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 11:47:22 | [yggdrasil-dinit](https://aur.archlinux.org/packages/yggdrasil-dinit) | 20261030-1 | 0 | Dinit script for Yggdrasil. |
-| 2026-11-03 11:58:17 | [blockcodec-bin](https://aur.archlinux.org/packages/blockcodec-bin) | 0.1.0-1 | 0 | Lossless audio codec with a SPARK-proved block decoder, per-block CRCs and fast… |
-| 2026-11-03 11:59:57 | [deepseek-harness-cli-git](https://aur.archlinux.org/packages/deepseek-harness-cli-git) | 0.2.2.alpha.3.r2558… | 0 | DeepSeek Harness CLI (dsh) and agent harness (git, builds on Linux without the… |
-| 2026-11-03 12:03:58 | [kalipso-bin](https://aur.archlinux.org/packages/kalipso-bin) | 2.0-1 | 0 | Teleprompter that keeps your place: follows your voice on your computer, scroll… |
-| 2026-11-03 12:04:26 | [kalipso](https://aur.archlinux.org/packages/kalipso) | 2.0-1 | 0 | Teleprompter that keeps your place: follows your voice on your computer, scroll… |
-| 2026-11-03 12:05:06 | [saturn-canary-bin](https://aur.archlinux.org/packages/saturn-canary-bin) | 4.0.2-1 | 0 | Cross-platform deezer client made in Flutter - Canary Version |
+| 2026-11-03 12:36:08 | [faceform-wrap](https://aur.archlinux.org/packages/faceform-wrap) | 2025.11.14-2 | 0 | Topology transfer tool that fits a base mesh to 3D scans |
 
 ## Data source
 
