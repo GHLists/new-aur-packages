@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 09:20 UTC
+## Latest list — 2026-11-03 10:19 UTC
 
-New packages created between 2026-11-03 08:21 UTC and 2026-11-03 09:20 UTC.
+New packages created between 2026-11-03 09:20 UTC and 2026-11-03 10:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T09-20-28-143591Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T10-19-18-248915Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 08:42:07 | [bsg-diaspora-sa-vr](https://aur.archlinux.org/packages/bsg-diaspora-sa-vr) | 1.0-1 | 0 | Battlestar Galactica: Diaspora on a modern FreeSpace Open engine with VR (OpenX… |
-| 2026-11-03 09:08:56 | [glyph-ocr](https://aur.archlinux.org/packages/glyph-ocr) | 0.1.0-1 | 0 | Blazing-fast, minimal Wayland screen OCR & text sniper |
+| 2026-11-03 09:21:54 | [glyph-ocr-bin](https://aur.archlinux.org/packages/glyph-ocr-bin) | 0.1.1-1 | 0 | Blazing-fast, minimal Wayland screen OCR & text sniper (precompiled binary) |
+| 2026-11-03 09:27:34 | [sing-box-ez-gui-bin](https://aur.archlinux.org/packages/sing-box-ez-gui-bin) | 0.1.2-1 | 0 | GUI client for the sing-box proxy core (prebuilt binary) |
+| 2026-11-03 09:44:13 | [astrbot-desktop-bin](https://aur.archlinux.org/packages/astrbot-desktop-bin) | 4.29.4-1 | 0 | AstrBot desktop application (official prebuilt binaries) |
+| 2026-11-03 10:12:49 | [mothx-git](https://aur.archlinux.org/packages/mothx-git) | 1.3.108.pre.1.r7.gb… | 0 | 🚀 One Binary to Rule Them All — Your AI Coding Assistant in the Terminal |
+| 2026-11-03 10:12:49 | [python-mothx-installer-git](https://aur.archlinux.org/packages/python-mothx-installer-git) | 1.3.108.pre.1.r7.gb… | 0 | 🚀 One Binary to Rule Them All — Your AI Coding Assistant in the Terminal |
 
 ## Data source
 
