@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-03T03:00:00Z,r-charport,0.1.1-1,0,ALTREP String Interoperability
+2026-11-03T03:00:53Z,rustgrid-bin,0.1.5-2,0,"Native database GUI for SQL and Redis, built in Rust without WebView"
+2026-11-03T03:15:41Z,aerial-lock-git,0.1.0.r0.g2f00ea1-1,0,Wayland session lock with video backgrounds and an idle/session companion
