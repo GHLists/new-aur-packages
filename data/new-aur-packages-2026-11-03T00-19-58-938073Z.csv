@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-02T23:57:24Z,ttf-xmind-hinted,1.001-1,0,"Xmind (Google Fonts), a humanist sans with a wght axis and Greek/Cyrillic, re-hinted with ttfautohint for FreeType (optionally static / Nerd Fonts patched)"
+2026-11-02T23:57:30Z,ttf-zen-maru-gothic-hinted,1.002-1,0,"Zen Maru Gothic (Google Fonts), a rounded Japanese gothic with Latin/Greek/Cyrillic, re-hinted with ttfautohint for FreeType (optionally Nerd Fonts patched)"
+2026-11-02T23:57:36Z,ttf-geom-hinted,1.102-1,0,"Geom (Google Fonts), a geometric sans with a wght axis and Greek, re-hinted with ttfautohint for FreeType (optionally static / Nerd Fonts patched)"
+2026-11-02T23:57:42Z,ttf-akt-hinted,1.100-1,0,"Akt (Google Fonts), a grotesque sans with a wght axis (100-900), Greek and Cyrillic, re-hinted with ttfautohint for FreeType (optionally static / Nerd Fonts patched)"
+2026-11-02T23:57:48Z,ttf-tiktok-sans-hinted,4.000-1,0,"TikTok Sans (Google Fonts), a four-axis (opsz, slnt, wdth, wght) sans with Greek and Cyrillic, re-hinted with ttfautohint for FreeType (optionally static / Nerd Fonts patched)"
+2026-11-02T23:57:54Z,ttf-didact-gothic-hinted,2.101-1,0,"Didact Gothic (Google Fonts), a single-weight geometric sans with Greek (incl. polytonic) and Cyrillic, optionally re-hinted with ttfautohint for FreeType / Nerd Fonts patched"
+2026-11-03T00:06:03Z,rusty-coco-git,r8.9c07c1f-1,1,TRS-80 Color Computer emulator written in Rust
