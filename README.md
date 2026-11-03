@@ -12,15 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 08:21 UTC
+## Latest list — 2026-11-03 09:20 UTC
 
-New packages created between 2026-11-03 07:20 UTC and 2026-11-03 08:21 UTC.
+New packages created between 2026-11-03 08:21 UTC and 2026-11-03 09:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T08-21-42-006551Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T09-20-28-143591Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 08:15:38 | [basalt-inference-git](https://aur.archlinux.org/packages/basalt-inference-git) | 0.2.0.43.g2911d687-1 | 0 | Local inference engine for Qwen3.8-Flash-Next MoE packs (NVIDIA Blackwell, sm_1… |
+| 2026-11-03 08:42:07 | [bsg-diaspora-sa-vr](https://aur.archlinux.org/packages/bsg-diaspora-sa-vr) | 1.0-1 | 0 | Battlestar Galactica: Diaspora on a modern FreeSpace Open engine with VR (OpenX… |
+| 2026-11-03 09:08:56 | [glyph-ocr](https://aur.archlinux.org/packages/glyph-ocr) | 0.1.0-1 | 0 | Blazing-fast, minimal Wayland screen OCR & text sniper |
 
 ## Data source
 
