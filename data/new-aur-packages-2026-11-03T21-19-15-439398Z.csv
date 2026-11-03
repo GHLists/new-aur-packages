@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-03T20:21:22Z,python-pypicosdk-git,1.7.5.r6.g2ad6ac4-1,0,Python bindings for PicoSDK to work with Picoscopes
+2026-11-03T20:43:13Z,carapace-man-bin,0.0.3-1,0,A multi-shell completion man companion
+2026-11-03T20:47:17Z,nvidia-open-p2p-dkms,615.78.08-1,0,NVIDIA open kernel modules patched for consumer GPU P2P (PCIe BAR1 / NVLink)
+2026-11-03T21:10:14Z,tinyice,2.12.3-1,0,Icecast-compatible streaming server for audio and video
+2026-11-03T21:10:24Z,tinyice-bin,2.12.3-1,0,Icecast-compatible streaming server for audio and video (prebuilt)
