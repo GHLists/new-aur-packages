@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-03T11:47:22Z,yggdrasil-dinit,20261030-1,0,Dinit script for Yggdrasil.
+2026-11-03T11:58:17Z,blockcodec-bin,0.1.0-1,0,"Lossless audio codec with a SPARK-proved block decoder, per-block CRCs and fast seeking"
+2026-11-03T11:59:57Z,deepseek-harness-cli-git,0.2.2.alpha.3.r2558…,0,"DeepSeek Harness CLI (dsh) and agent harness (git, builds on Linux without the macOS-only CUA provider)"
+2026-11-03T12:03:58Z,kalipso-bin,2.0-1,0,"Teleprompter that keeps your place: follows your voice on your computer, scrolls at a steady pace or waits for your pedal (prebuilt)"
+2026-11-03T12:04:26Z,kalipso,2.0-1,0,"Teleprompter that keeps your place: follows your voice on your computer, scrolls at a steady pace or waits for your pedal"
+2026-11-03T12:05:06Z,saturn-canary-bin,4.0.2-1,0,Cross-platform deezer client made in Flutter - Canary Version
