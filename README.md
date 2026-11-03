@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 06:19 UTC
+## Latest list — 2026-11-03 07:20 UTC
 
-New packages created between 2026-11-03 05:19 UTC and 2026-11-03 06:19 UTC.
+New packages created between 2026-11-03 06:19 UTC and 2026-11-03 07:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T06-19-37-882767Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T07-20-01-217302Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 05:21:16 | [aflow](https://aur.archlinux.org/packages/aflow) | 4.1.0-1 | 0 | Automatic FLOW framework for autonomous materials discovery |
-| 2026-11-03 06:08:24 | [coolapk-desktop-bin](https://aur.archlinux.org/packages/coolapk-desktop-bin) | 1.39.3-1 | 0 | 基于 Tauri 2、Vue 3 和 Rust 的非官方酷安桌面客户端 |
+| 2026-11-03 06:28:04 | [gitee-cli-git](https://aur.archlinux.org/packages/gitee-cli-git) | 0.3.3.r0.gb9500a1-1 | 0 | Gitee CLI is a tool which interact with gitee server seamlessly via terminal |
+| 2026-11-03 06:36:16 | [tri7d-bin](https://aur.archlinux.org/packages/tri7d-bin) | 7.0.0-1 | 0 | Cryptographic Triangles (TRI) lightweight Rust daemon (tri7) - PoS staking, Tor… |
+| 2026-11-03 06:42:02 | [mdv](https://aur.archlinux.org/packages/mdv) | 0.1.1-1 | 0 | Terminal markdown viewer that follows your desktop palette, with inline images… |
+| 2026-11-03 06:43:41 | [gitee-cli](https://aur.archlinux.org/packages/gitee-cli) | 0.3.3-1 | 0 | Gitee CLI is a tool which interact with gitee server seamlessly via terminal |
 
 ## Data source
 

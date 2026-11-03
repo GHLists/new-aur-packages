@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-03T06:28:04Z,gitee-cli-git,0.3.3.r0.gb9500a1-1,0,Gitee CLI is a tool which interact with gitee server seamlessly via terminal
+2026-11-03T06:36:16Z,tri7d-bin,7.0.0-1,0,"Cryptographic Triangles (TRI) lightweight Rust daemon (tri7) - PoS staking, Tor + I2P, built-in explorer"
+2026-11-03T06:42:02Z,mdv,0.1.1-1,0,"Terminal markdown viewer that follows your desktop palette, with inline images and rendered mermaid diagrams"
+2026-11-03T06:43:41Z,gitee-cli,0.3.3-1,0,Gitee CLI is a tool which interact with gitee server seamlessly via terminal
