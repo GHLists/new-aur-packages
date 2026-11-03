@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-03T16:24:18Z,vm-qontrol-bin,0.0.5-1,0,"Create, run and fine-tune QEMU/KVM virtual machines: guided setup, unattended installs, settings that explain themselves"
+2026-11-03T16:24:46Z,goatcounter-git,2.7.0.r127.gc031008…,0,Open source web analytics platform
+2026-11-03T16:26:35Z,paperless-db-sqlite,3.4.1-1,0,SQLite backend for paperless-ngx
+2026-11-03T16:26:44Z,paperless-db-mariadb,3.4.1-1,0,MariaDB backend for paperless-ngx
+2026-11-03T16:26:51Z,ti84-evo-linux,1.0.1-1,0,Unofficial udev rules and launcher for using TI Connect Evo with the TI-84 Evo
+2026-11-03T16:26:54Z,paperless-db-postgresql,3.4.1-1,0,PostgreSQL backend for paperless-ngx
+2026-11-03T16:30:06Z,panasonic-posture-manager-bin,2.1.1-1,0,Prebuilt posture management and screen orientation for convertible Linux 2-in-1 laptops
+2026-11-03T17:11:33Z,tscsync,2.2.1-1,0,Pre-boot TSC sync for AMD (UEFI) so Linux keeps the TSC clocksource
