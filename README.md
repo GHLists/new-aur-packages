@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 21:19 UTC
+## Latest list — 2026-11-03 22:20 UTC
 
-New packages created between 2026-11-03 20:19 UTC and 2026-11-03 21:19 UTC.
+New packages created between 2026-11-03 21:19 UTC and 2026-11-03 22:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T21-19-15-439398Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T22-20-53-185973Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 20:21:22 | [python-pypicosdk-git](https://aur.archlinux.org/packages/python-pypicosdk-git) | 1.7.5.r6.g2ad6ac4-1 | 0 | Python bindings for PicoSDK to work with Picoscopes |
-| 2026-11-03 20:43:13 | [carapace-man-bin](https://aur.archlinux.org/packages/carapace-man-bin) | 0.0.3-1 | 0 | A multi-shell completion man companion |
-| 2026-11-03 20:47:17 | [nvidia-open-p2p-dkms](https://aur.archlinux.org/packages/nvidia-open-p2p-dkms) | 615.78.08-1 | 0 | NVIDIA open kernel modules patched for consumer GPU P2P (PCIe BAR1 / NVLink) |
-| 2026-11-03 21:10:14 | [tinyice](https://aur.archlinux.org/packages/tinyice) | 2.12.3-1 | 0 | Icecast-compatible streaming server for audio and video |
-| 2026-11-03 21:10:24 | [tinyice-bin](https://aur.archlinux.org/packages/tinyice-bin) | 2.12.3-1 | 0 | Icecast-compatible streaming server for audio and video (prebuilt) |
+| 2026-11-03 21:19:54 | [goatak-setup-archbased](https://aur.archlinux.org/packages/goatak-setup-archbased) | 20261103-1 | 0 | Interactive first-time setup for the GoATAK server: CA and server certificates,… |
+| 2026-11-03 21:46:05 | [plex-tray](https://aur.archlinux.org/packages/plex-tray) | 0.1.0-3 | 0 | Desktop tray controls for the system Plex Media Server service |
+| 2026-11-03 21:51:29 | [omnidotdev-taproot](https://aur.archlinux.org/packages/omnidotdev-taproot) | 0.2.0-1 | 0 | Auto-generate a full GraphQL API from a PostgreSQL database |
+| 2026-11-03 21:51:42 | [omnidotdev-taproot-bin](https://aur.archlinux.org/packages/omnidotdev-taproot-bin) | 0.2.0-1 | 0 | Auto-generate a full GraphQL API from a PostgreSQL database (pre-built) |
 
 ## Data source
 
