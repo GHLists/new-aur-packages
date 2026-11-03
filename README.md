@@ -12,20 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 18:19 UTC
+## Latest list — 2026-11-03 19:21 UTC
 
-New packages created between 2026-11-03 17:22 UTC and 2026-11-03 18:19 UTC.
+New packages created between 2026-11-03 18:19 UTC and 2026-11-03 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T18-19-32-008209Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T19-21-06-575277Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 17:23:01 | [moonfin](https://aur.archlinux.org/packages/moonfin) | 3.0.0-1 | 0 | Jellyfin & Emby media client for Linux. Use this package for non-systemd distros |
-| 2026-11-03 17:46:51 | [craft-anything-bin](https://aur.archlinux.org/packages/craft-anything-bin) | 0.3.0-1 | 0 | Understand how any software works, and craft your own (prebuilt binary) |
-| 2026-11-03 17:47:30 | [materialcraft-bin](https://aur.archlinux.org/packages/materialcraft-bin) | 0.1.0-1 | 0 | Design procedural PBR materials with node graphs (prebuilt binary) |
-| 2026-11-03 17:47:56 | [texturecraft-bin](https://aur.archlinux.org/packages/texturecraft-bin) | 0.3.0-1 | 0 | Paint PBR textures directly on 3D meshes (prebuilt binary) |
-| 2026-11-03 17:55:06 | [wikistow-cli-beta-bin](https://aur.archlinux.org/packages/wikistow-cli-beta-bin) | 0.23.0beta.1-1 | 0 | Command-line client for your family's encrypted wiki, for people and their agen… |
-| 2026-11-03 17:55:06 | [wikistow-desktop-beta-bin](https://aur.archlinux.org/packages/wikistow-desktop-beta-bin) | 0.23.0beta.1-1 | 0 | Desktop app for your family's encrypted wiki (beta channel) |
+| 2026-11-03 18:36:13 | [snippit-git](https://aur.archlinux.org/packages/snippit-git) | 1.2.2.r4.gf6f438c-1 | 0 | Desktop clip-trimming tool with live multi-track audio mixing and lossless expo… |
+| 2026-11-03 19:15:38 | [azure-functions-core-tools-4-bin](https://aur.archlinux.org/packages/azure-functions-core-tools-4-bin) | 4.15.2-1 | 0 | Command line tools for Azure Functions (v4) |
 
 ## Data source
 
