@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 04:18 UTC
+## Latest list — 2026-11-03 05:19 UTC
 
-New packages created between 2026-11-03 03:21 UTC and 2026-11-03 04:18 UTC.
+New packages created between 2026-11-03 04:18 UTC and 2026-11-03 05:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T04-18-37-758711Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T05-19-48-632861Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 03:44:12 | [gmid-piano](https://aur.archlinux.org/packages/gmid-piano) | 0.2.1-1 | 0 | Falling-note piano roll, keyboard and chord/scale explorers with MIDI editing |
-| 2026-11-03 04:12:43 | [morpheflow-git](https://aur.archlinux.org/packages/morpheflow-git) | r0.0000000-1 | 0 | Self-hosted edge management portal and build pipeline for Android packages (Fas… |
+| 2026-11-03 04:23:44 | [fml-tcmaker](https://aur.archlinux.org/packages/fml-tcmaker) | 5.11-1 | 1 | FML Test Card Maker: An application that allows to create test cards and more b… |
+| 2026-11-03 04:24:12 | [go-fuck](https://aur.archlinux.org/packages/go-fuck) | 0.10.0-1 | 0 | A blazingly fast reimplementation of thefuck in Go |
+| 2026-11-03 04:58:26 | [python-matdeeplearn](https://aur.archlinux.org/packages/python-matdeeplearn) | 0.0.1-1 | 0 | GNN package for materials chemistry (Fung Lab, Georgia Tech) |
+| 2026-11-03 05:06:45 | [python-mattertune](https://aur.archlinux.org/packages/python-mattertune) | 0.1.0.r441.fea9022-1 | 0 | Fine-tuning platform for atomistic foundation models (Fung Lab, Georgia Tech) |
 
 ## Data source
 

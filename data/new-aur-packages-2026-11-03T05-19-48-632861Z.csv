@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-03T04:23:44Z,fml-tcmaker,5.11-1,1,"FML Test Card Maker: An application that allows to create test cards and more basic patterns from their individual elements (colour bars, frequency gratings, etc), rather than having to draw them manually with a graphics package."
+2026-11-03T04:24:12Z,go-fuck,0.10.0-1,0,A blazingly fast reimplementation of thefuck in Go
+2026-11-03T04:58:26Z,python-matdeeplearn,0.0.1-1,0,"GNN package for materials chemistry (Fung Lab, Georgia Tech)"
+2026-11-03T05:06:45Z,python-mattertune,0.1.0.r441.fea9022-1,0,"Fine-tuning platform for atomistic foundation models (Fung Lab, Georgia Tech)"
