@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-03T13:25:02Z,metamod-source-dev,2.0.0.1483-1,0,"Metamod:Source, a plugin loader for Source engine game servers, for the Source 1 games of hl2sdk with Linux servers (development builds)"
+2026-11-03T13:25:02Z,metamod-source-dev-src,2.0.0.1483-1,0,"Metamod:Source's sources the metamod-source-dev package is built from, for building plugins against it (--mms-path=/usr/src/metamod-source)"
+2026-11-03T13:25:10Z,sourcemod-dev-scripting,1.13.0.7484-1,0,"SourcePawn compiler (spcomp) and include files of SourceMod, for compiling SourceMod plugins (development builds)"
+2026-11-03T13:25:10Z,sourcemod-dev,1.13.0.7484-1,0,"SourceMod, the scripting and administration platform for Source engine game servers, for the games of hl2sdk with Linux servers (development builds)"
+2026-11-03T13:25:10Z,sourcemod-dev-src,1.13.0.7484-1,0,"SourceMod's sources the sourcemod-dev packages are built from, with their patches, for building extensions against it (--sm-path=/usr/src/sourcemod)"
+2026-11-03T13:38:30Z,freerdp-aad-helper,3.33.0-1,0,"AAD (Entra ID) browser auth helpers for FreeRDP (webview and xdg-open), for Azure Virtual Desktop"
+2026-11-03T13:50:06Z,catpaw,2026.0929.1642-1,0,CatPaw AI Agent 桌面应用（国际版），非官方 Linux 移植
+2026-11-03T13:55:12Z,apate,0.2.1-1,1,PrismML fork of llama.cpp with CUDA support to run Ternary Bonsai LLM models.
+2026-11-03T14:09:01Z,panasonic-posture-manager,2.0.0-1,0,Posture management and screen orientation for convertible Linux 2-in-1 laptops
