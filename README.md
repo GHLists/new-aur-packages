@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 01:20 UTC
+## Latest list — 2026-11-03 02:21 UTC
 
-New packages created between 2026-11-03 00:19 UTC and 2026-11-03 01:20 UTC.
+New packages created between 2026-11-03 01:20 UTC and 2026-11-03 02:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T01-20-11-441501Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T02-21-08-088826Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 01:05:34 | [se98-wm-theme](https://aur.archlinux.org/packages/se98-wm-theme) | 1.82-1 | 0 | Windows 98 Second Edition (Win98SE) inspired window manager theme for xfwm4, me… |
+| 2026-11-03 01:43:47 | [sysmon-tui](https://aur.archlinux.org/packages/sysmon-tui) | 1.0.0-1 | 0 | Live terminal system monitor with an interactive process table |
 
 ## Data source
 
