@@ -12,21 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 00:19 UTC
+## Latest list — 2026-11-03 01:20 UTC
 
-New packages created between 2026-11-02 23:21 UTC and 2026-11-03 00:19 UTC.
+New packages created between 2026-11-03 00:19 UTC and 2026-11-03 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T00-19-58-938073Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T01-20-11-441501Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 23:57:24 | [ttf-xmind-hinted](https://aur.archlinux.org/packages/ttf-xmind-hinted) | 1.001-1 | 0 | Xmind (Google Fonts), a humanist sans with a wght axis and Greek/Cyrillic, re-h… |
-| 2026-11-02 23:57:30 | [ttf-zen-maru-gothic-hinted](https://aur.archlinux.org/packages/ttf-zen-maru-gothic-hinted) | 1.002-1 | 0 | Zen Maru Gothic (Google Fonts), a rounded Japanese gothic with Latin/Greek/Cyri… |
-| 2026-11-02 23:57:36 | [ttf-geom-hinted](https://aur.archlinux.org/packages/ttf-geom-hinted) | 1.102-1 | 0 | Geom (Google Fonts), a geometric sans with a wght axis and Greek, re-hinted wit… |
-| 2026-11-02 23:57:42 | [ttf-akt-hinted](https://aur.archlinux.org/packages/ttf-akt-hinted) | 1.100-1 | 0 | Akt (Google Fonts), a grotesque sans with a wght axis (100-900), Greek and Cyri… |
-| 2026-11-02 23:57:48 | [ttf-tiktok-sans-hinted](https://aur.archlinux.org/packages/ttf-tiktok-sans-hinted) | 4.000-1 | 0 | TikTok Sans (Google Fonts), a four-axis (opsz, slnt, wdth, wght) sans with Gree… |
-| 2026-11-02 23:57:54 | [ttf-didact-gothic-hinted](https://aur.archlinux.org/packages/ttf-didact-gothic-hinted) | 2.101-1 | 0 | Didact Gothic (Google Fonts), a single-weight geometric sans with Greek (incl.… |
-| 2026-11-03 00:06:03 | [rusty-coco-git](https://aur.archlinux.org/packages/rusty-coco-git) | r8.9c07c1f-1 | 1 | TRS-80 Color Computer emulator written in Rust |
+| 2026-11-03 01:05:34 | [se98-wm-theme](https://aur.archlinux.org/packages/se98-wm-theme) | 1.82-1 | 0 | Windows 98 Second Edition (Win98SE) inspired window manager theme for xfwm4, me… |
 
 ## Data source
 
