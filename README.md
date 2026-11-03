@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 19:21 UTC
+## Latest list — 2026-11-03 20:19 UTC
 
-New packages created between 2026-11-03 18:19 UTC and 2026-11-03 19:21 UTC.
+New packages created between 2026-11-03 19:21 UTC and 2026-11-03 20:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T19-21-06-575277Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T20-19-31-119982Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 18:36:13 | [snippit-git](https://aur.archlinux.org/packages/snippit-git) | 1.2.2.r4.gf6f438c-1 | 0 | Desktop clip-trimming tool with live multi-track audio mixing and lossless expo… |
-| 2026-11-03 19:15:38 | [azure-functions-core-tools-4-bin](https://aur.archlinux.org/packages/azure-functions-core-tools-4-bin) | 4.15.2-1 | 0 | Command line tools for Azure Functions (v4) |
+| 2026-11-03 20:12:17 | [mediasync-git](https://aur.archlinux.org/packages/mediasync-git) | r22.5515558-1 | 0 | Universal media session bridge: local MPRIS players and Jellyfin sessions behin… |
 
 ## Data source
 
