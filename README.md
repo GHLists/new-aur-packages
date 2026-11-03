@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 05:19 UTC
+## Latest list — 2026-11-03 06:19 UTC
 
-New packages created between 2026-11-03 04:18 UTC and 2026-11-03 05:19 UTC.
+New packages created between 2026-11-03 05:19 UTC and 2026-11-03 06:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T05-19-48-632861Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T06-19-37-882767Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 04:23:44 | [fml-tcmaker](https://aur.archlinux.org/packages/fml-tcmaker) | 5.11-1 | 1 | FML Test Card Maker: An application that allows to create test cards and more b… |
-| 2026-11-03 04:24:12 | [go-fuck](https://aur.archlinux.org/packages/go-fuck) | 0.10.0-1 | 0 | A blazingly fast reimplementation of thefuck in Go |
-| 2026-11-03 04:58:26 | [python-matdeeplearn](https://aur.archlinux.org/packages/python-matdeeplearn) | 0.0.1-1 | 0 | GNN package for materials chemistry (Fung Lab, Georgia Tech) |
-| 2026-11-03 05:06:45 | [python-mattertune](https://aur.archlinux.org/packages/python-mattertune) | 0.1.0.r441.fea9022-1 | 0 | Fine-tuning platform for atomistic foundation models (Fung Lab, Georgia Tech) |
+| 2026-11-03 05:21:16 | [aflow](https://aur.archlinux.org/packages/aflow) | 4.1.0-1 | 0 | Automatic FLOW framework for autonomous materials discovery |
+| 2026-11-03 06:08:24 | [coolapk-desktop-bin](https://aur.archlinux.org/packages/coolapk-desktop-bin) | 1.39.3-1 | 0 | 基于 Tauri 2、Vue 3 和 Rust 的非官方酷安桌面客户端 |
 
 ## Data source
 

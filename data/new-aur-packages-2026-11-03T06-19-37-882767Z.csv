@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-03T05:21:16Z,aflow,4.1.0-1,0,Automatic FLOW framework for autonomous materials discovery
+2026-11-03T06:08:24Z,coolapk-desktop-bin,1.39.3-1,0,基于 Tauri 2、Vue 3 和 Rust 的非官方酷安桌面客户端
