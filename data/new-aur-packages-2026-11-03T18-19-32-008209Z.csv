@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-03T17:23:01Z,moonfin,3.0.0-1,0,Jellyfin & Emby media client for Linux. Use this package for non-systemd distros
+2026-11-03T17:46:51Z,craft-anything-bin,0.3.0-1,0,"Understand how any software works, and craft your own (prebuilt binary)"
+2026-11-03T17:47:30Z,materialcraft-bin,0.1.0-1,0,Design procedural PBR materials with node graphs (prebuilt binary)
+2026-11-03T17:47:56Z,texturecraft-bin,0.3.0-1,0,Paint PBR textures directly on 3D meshes (prebuilt binary)
+2026-11-03T17:55:06Z,wikistow-cli-beta-bin,0.23.0beta.1-1,0,"Command-line client for your family's encrypted wiki, for people and their agents (beta channel)"
+2026-11-03T17:55:06Z,wikistow-desktop-beta-bin,0.23.0beta.1-1,0,Desktop app for your family's encrypted wiki (beta channel)

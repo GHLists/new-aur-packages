@@ -12,22 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 17:22 UTC
+## Latest list — 2026-11-03 18:19 UTC
 
-New packages created between 2026-11-03 16:20 UTC and 2026-11-03 17:22 UTC.
+New packages created between 2026-11-03 17:22 UTC and 2026-11-03 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T17-22-20-641341Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T18-19-32-008209Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 16:24:18 | [vm-qontrol-bin](https://aur.archlinux.org/packages/vm-qontrol-bin) | 0.0.5-1 | 0 | Create, run and fine-tune QEMU/KVM virtual machines: guided setup, unattended i… |
-| 2026-11-03 16:24:46 | [goatcounter-git](https://aur.archlinux.org/packages/goatcounter-git) | 2.7.0.r127.gc031008… | 0 | Open source web analytics platform |
-| 2026-11-03 16:26:35 | [paperless-db-sqlite](https://aur.archlinux.org/packages/paperless-db-sqlite) | 3.4.1-1 | 0 | SQLite backend for paperless-ngx |
-| 2026-11-03 16:26:44 | [paperless-db-mariadb](https://aur.archlinux.org/packages/paperless-db-mariadb) | 3.4.1-1 | 0 | MariaDB backend for paperless-ngx |
-| 2026-11-03 16:26:51 | [ti84-evo-linux](https://aur.archlinux.org/packages/ti84-evo-linux) | 1.0.1-1 | 0 | Unofficial udev rules and launcher for using TI Connect Evo with the TI-84 Evo |
-| 2026-11-03 16:26:54 | [paperless-db-postgresql](https://aur.archlinux.org/packages/paperless-db-postgresql) | 3.4.1-1 | 0 | PostgreSQL backend for paperless-ngx |
-| 2026-11-03 16:30:06 | [panasonic-posture-manager-bin](https://aur.archlinux.org/packages/panasonic-posture-manager-bin) | 2.1.1-1 | 0 | Prebuilt posture management and screen orientation for convertible Linux 2-in-1… |
-| 2026-11-03 17:11:33 | [tscsync](https://aur.archlinux.org/packages/tscsync) | 2.2.1-1 | 0 | Pre-boot TSC sync for AMD (UEFI) so Linux keeps the TSC clocksource |
+| 2026-11-03 17:23:01 | [moonfin](https://aur.archlinux.org/packages/moonfin) | 3.0.0-1 | 0 | Jellyfin & Emby media client for Linux. Use this package for non-systemd distros |
+| 2026-11-03 17:46:51 | [craft-anything-bin](https://aur.archlinux.org/packages/craft-anything-bin) | 0.3.0-1 | 0 | Understand how any software works, and craft your own (prebuilt binary) |
+| 2026-11-03 17:47:30 | [materialcraft-bin](https://aur.archlinux.org/packages/materialcraft-bin) | 0.1.0-1 | 0 | Design procedural PBR materials with node graphs (prebuilt binary) |
+| 2026-11-03 17:47:56 | [texturecraft-bin](https://aur.archlinux.org/packages/texturecraft-bin) | 0.3.0-1 | 0 | Paint PBR textures directly on 3D meshes (prebuilt binary) |
+| 2026-11-03 17:55:06 | [wikistow-cli-beta-bin](https://aur.archlinux.org/packages/wikistow-cli-beta-bin) | 0.23.0beta.1-1 | 0 | Command-line client for your family's encrypted wiki, for people and their agen… |
+| 2026-11-03 17:55:06 | [wikistow-desktop-beta-bin](https://aur.archlinux.org/packages/wikistow-desktop-beta-bin) | 0.23.0beta.1-1 | 0 | Desktop app for your family's encrypted wiki (beta channel) |
 
 ## Data source
 
