@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-11-03T08:15:38Z,basalt-inference-git,0.2.0.43.g2911d687-1,0,"Local inference engine for Qwen3.8-Flash-Next MoE packs (NVIDIA Blackwell, sm_120)"

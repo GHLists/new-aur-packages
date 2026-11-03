@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 07:20 UTC
+## Latest list — 2026-11-03 08:21 UTC
 
-New packages created between 2026-11-03 06:19 UTC and 2026-11-03 07:20 UTC.
+New packages created between 2026-11-03 07:20 UTC and 2026-11-03 08:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T07-20-01-217302Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T08-21-42-006551Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 06:28:04 | [gitee-cli-git](https://aur.archlinux.org/packages/gitee-cli-git) | 0.3.3.r0.gb9500a1-1 | 0 | Gitee CLI is a tool which interact with gitee server seamlessly via terminal |
-| 2026-11-03 06:36:16 | [tri7d-bin](https://aur.archlinux.org/packages/tri7d-bin) | 7.0.0-1 | 0 | Cryptographic Triangles (TRI) lightweight Rust daemon (tri7) - PoS staking, Tor… |
-| 2026-11-03 06:42:02 | [mdv](https://aur.archlinux.org/packages/mdv) | 0.1.1-1 | 0 | Terminal markdown viewer that follows your desktop palette, with inline images… |
-| 2026-11-03 06:43:41 | [gitee-cli](https://aur.archlinux.org/packages/gitee-cli) | 0.3.3-1 | 0 | Gitee CLI is a tool which interact with gitee server seamlessly via terminal |
+| 2026-11-03 08:15:38 | [basalt-inference-git](https://aur.archlinux.org/packages/basalt-inference-git) | 0.2.0.43.g2911d687-1 | 0 | Local inference engine for Qwen3.8-Flash-Next MoE packs (NVIDIA Blackwell, sm_1… |
 
 ## Data source
 
