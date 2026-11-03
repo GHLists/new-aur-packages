@@ -1,0 +1,29 @@
+created_at,package,version,votes,description
+2026-11-03T10:21:19Z,key2touch-git,r3.g37c35b6-1,0,"Map keyboard keys to touchscreen input on Wayland desktops, made for playing on Waydroid"
+2026-11-03T10:22:03Z,ambuild,2.2.r82.g01212cb-1,0,"AlliedModders' build system, used by SourceMod, SourcePawn and Metamod:Source"
+2026-11-03T10:27:25Z,hl2sdk,20261002-1,0,"Source SDKs of the games Metamod:Source and SourceMod support, with their static libraries built from source (a build dependency)"
+2026-11-03T10:33:48Z,sourcemod-sourcebans-pp-discord-forward,1.1.0.r10.g736764a-1,0,"SourceBans++ Discord Forward, a SourceMod plugin forwarding bans, comms blocks and reports to Discord webhooks"
+2026-11-03T10:33:48Z,sourcemod-smjansson,2.6.0.1.r36.gb811b3…,0,"SMJansson, a JSON extension of SourceMod (in the addons folder of sourcemod)"
+2026-11-03T10:33:48Z,lib32-libmaxminddb,1.14.1-1,0,MaxMindDB GeoIP2 database library (32-bit)
+2026-11-03T10:33:48Z,sourcemod-steamworks,1.2.3c.r7.gf0c1b62-1,0,"SteamWorks, a SourceMod extension exposing Steamworks functions (in the addons folder of sourcemod)"
+2026-11-03T10:33:48Z,sourcemod-advertisements,2.1.2-1,0,"Advertisements, a SourceMod plugin displaying messages on game servers (in the addons folder of sourcemod)"
+2026-11-03T10:33:48Z,sourcemod-multicolors,2.2.0.r3.gd2f2dc9-1,0,"Multi-Colors, SourceMod include files for coloured chat messages in any game (Colors and More Colors)"
+2026-11-03T10:33:48Z,metamod-source,1.12.0.1229-1,0,"Metamod:Source, the plugin loader of SourceMod, for Source engine game servers, for the games of hl2sdk with Linux servers (the addons folder of a server)"
+2026-11-03T10:33:48Z,metamod-source-src,1.12.0.1229-1,0,"Metamod:Source's sources the metamod-source package is built from, for building SourceMod and plugins or extensions against it (--mms-path=/usr/src/metamod-source)"
+2026-11-03T10:33:48Z,sourcemod-scripting,1.12.0.7260-1,0,"SourcePawn compiler (spcomp) and include files of SourceMod, for compiling SourceMod plugins"
+2026-11-03T10:33:48Z,sourcemod,1.12.0.7260-1,0,"SourceMod, the scripting and administration platform for Source engine game servers, for the games of hl2sdk with Linux servers (the addons and cfg folders of a server)"
+2026-11-03T10:33:48Z,sourcemod-src,1.12.0.7260-1,0,"SourceMod's sources the sourcemod packages are built from, with their patches, for building extensions against it (--sm-path=/usr/src/sourcemod)"
+2026-11-03T10:35:03Z,sourcebans-pp,2.2.3-1,0,"SourceBans++, the admin, ban and communication management of SourceMod game servers (web panel)"
+2026-11-03T10:35:03Z,sourcemod-sourcebans-pp,2.2.3-1,0,"SourceBans++, the admin, ban and communication management of SourceMod game servers (SourceMod plugins)"
+2026-11-03T10:37:14Z,ttc-calicosevka,1.0.0-1,0,An Iosevka-based font created by a calico cat lover
+2026-11-03T10:54:05Z,qoder-agent,0.5.2-1,0,"Qoder new form, with programming agents as the core engine, from idea to implementation, easy to handle."
+2026-11-03T10:54:29Z,qoder-cn-agent,0.5.2-1,0,Qoder 全新形态，以编程智能体为核心引擎，从想法到实现，轻松搞定。
+2026-11-03T10:55:00Z,qoder-ide,1.38.0-1,0,AI native IDE for real-world software development.
+2026-11-03T10:55:16Z,qoder-cn-ide,1.38.0-1,0,面向真实软件开发的 AI 原生 Qoder CN IDE。
+2026-11-03T10:55:25Z,trae-ide,2.3.93439-1,0,AI-powered IDE by ByteDance
+2026-11-03T10:55:35Z,trae-cn-ide,2.3.98528-1,0,AI-powered IDE by ByteDance (Chinese Domestic Version)
+2026-11-03T10:55:44Z,workbuddy-agent,5.6.2.40046327_c7b5…,0,腾讯云代码助手推出的 AI Agent 办公工具
+2026-11-03T10:56:04Z,workbuddy-intl-agent,5.9.4.42593613_fa0a…,0,AI Agent for everyday office work - WorkBuddy international edition (unofficial Linux port)
+2026-11-03T11:00:28Z,lib32-mariadb-connector-c,3.1.13-1,0,MariaDB connector libraries for C/C++
+2026-11-03T11:04:29Z,xviewer-minimal,2.6.2-2,0,"GTK3 image viewer with printing, without plugins or Cinnamon integration"
+2026-11-03T11:07:45Z,lib32-postgresql-libs,18.6-1,0,"PostgreSQL's client library, libpq, with its OAuth module (32-bit)"
