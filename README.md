@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 03:21 UTC
+## Latest list — 2026-11-03 04:18 UTC
 
-New packages created between 2026-11-03 02:21 UTC and 2026-11-03 03:21 UTC.
+New packages created between 2026-11-03 03:21 UTC and 2026-11-03 04:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-03T03-21-12-41422Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-03T04-18-37-758711Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 03:00:00 | [r-charport](https://aur.archlinux.org/packages/r-charport) | 0.1.1-1 | 0 | ALTREP String Interoperability |
-| 2026-11-03 03:00:53 | [rustgrid-bin](https://aur.archlinux.org/packages/rustgrid-bin) | 0.1.5-2 | 0 | Native database GUI for SQL and Redis, built in Rust without WebView |
-| 2026-11-03 03:15:41 | [aerial-lock-git](https://aur.archlinux.org/packages/aerial-lock-git) | 0.1.0.r0.g2f00ea1-1 | 0 | Wayland session lock with video backgrounds and an idle/session companion |
+| 2026-11-03 03:44:12 | [gmid-piano](https://aur.archlinux.org/packages/gmid-piano) | 0.2.1-1 | 0 | Falling-note piano roll, keyboard and chord/scale explorers with MIDI editing |
+| 2026-11-03 04:12:43 | [morpheflow-git](https://aur.archlinux.org/packages/morpheflow-git) | r0.0000000-1 | 0 | Self-hosted edge management portal and build pipeline for Android packages (Fas… |
 
 ## Data source
 
