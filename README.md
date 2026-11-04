@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 15:22 UTC
+## Latest list — 2026-11-04 16:19 UTC
 
-New packages created between 2026-11-04 14:21 UTC and 2026-11-04 15:22 UTC.
+New packages created between 2026-11-04 15:22 UTC and 2026-11-04 16:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T15-22-02-865443Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-04T16-19-04-837878Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 14:34:03 | [ddcci-driver-linux-0.5.0-dkms](https://aur.archlinux.org/packages/ddcci-driver-linux-0.5.0-dkms) | 0.5.0-1 | 0 | Linux kernel drivers for DDC/CI monitors (DKMS), 0.5.0 fork |
+| 2026-11-04 15:47:17 | [histui-git](https://aur.archlinux.org/packages/histui-git) | 0.0.14.r33.gade0a13… | 0 | Notification history browser and daemon for Linux desktops (latest Git main) |
+| 2026-11-04 15:47:57 | [ghostunnel](https://aur.archlinux.org/packages/ghostunnel) | 1.11.5-1 | 0 | TLS proxy with mutual authentication for securing non-TLS services |
+| 2026-11-04 15:48:13 | [ghostunnel-bin](https://aur.archlinux.org/packages/ghostunnel-bin) | 1.11.5-1 | 0 | TLS proxy with mutual authentication for securing non-TLS services (prebuilt) |
+| 2026-11-04 15:55:42 | [gsp370-tray](https://aur.archlinux.org/packages/gsp370-tray) | 2.0.1-1 | 1 | Tiny StatusNotifierItem tray for the Sennheiser/EPOS GSP 370 (battery and sidet… |
 
 ## Data source
 
