@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-04T01:26:50Z,dfdu-bin,0.5.0-1,0,Disk usage browser for the terminal
+2026-11-04T01:26:58Z,dfdu,0.5.0-1,0,Disk usage browser for the terminal
+2026-11-04T01:27:06Z,dfdu-git,0.5.0-1,0,Disk usage browser for the terminal (latest commit)
+2026-11-04T02:16:21Z,mechon-ai-git,1.2.2-1,0,Local-first desktop workstation for SFT and DPO dataset engineering (always tracks and builds latest release tag)

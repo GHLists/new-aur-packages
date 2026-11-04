@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 00:20 UTC
+## Latest list — 2026-11-04 02:20 UTC
 
-New packages created between 2026-11-03 23:18 UTC and 2026-11-04 00:20 UTC.
+New packages created between 2026-11-04 01:20 UTC and 2026-11-04 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T00-20-50-283582Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-04T02-20-59-237051Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 23:27:22 | [python-flit-core3](https://aur.archlinux.org/packages/python-flit-core3) | 3.12.0-1 | 0 | PEP 517 build backend for projects requiring Flit 3 |
-| 2026-11-03 23:34:12 | [rabbitvcs-dolphin-git](https://aur.archlinux.org/packages/rabbitvcs-dolphin-git) | r3.76f4dc0-1 | 0 | RabbitVCS integration for the Dolphin file manager |
-| 2026-11-03 23:37:58 | [steam-library-mover](https://aur.archlinux.org/packages/steam-library-mover) | 0.1.2-1 | 0 | Move installed Steam games between Steam libraries safely |
-| 2026-11-03 23:55:33 | [goldeneye-pc-port-bin](https://aur.archlinux.org/packages/goldeneye-pc-port-bin) | 0.5.0-1 | 0 | Native PC port of GoldenEye 007 (N64) with mouse and keyboard, widescreen and s… |
+| 2026-11-04 01:26:50 | [dfdu-bin](https://aur.archlinux.org/packages/dfdu-bin) | 0.5.0-1 | 0 | Disk usage browser for the terminal |
+| 2026-11-04 01:26:58 | [dfdu](https://aur.archlinux.org/packages/dfdu) | 0.5.0-1 | 0 | Disk usage browser for the terminal |
+| 2026-11-04 01:27:06 | [dfdu-git](https://aur.archlinux.org/packages/dfdu-git) | 0.5.0-1 | 0 | Disk usage browser for the terminal (latest commit) |
+| 2026-11-04 02:16:21 | [mechon-ai-git](https://aur.archlinux.org/packages/mechon-ai-git) | 1.2.2-1 | 0 | Local-first desktop workstation for SFT and DPO dataset engineering (always tra… |
 
 ## Data source
 
