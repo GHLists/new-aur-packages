@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 16:19 UTC
+## Latest list — 2026-11-04 17:21 UTC
 
-New packages created between 2026-11-04 15:22 UTC and 2026-11-04 16:19 UTC.
+New packages created between 2026-11-04 16:19 UTC and 2026-11-04 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T16-19-04-837878Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-04T17-21-46-68597Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 15:47:17 | [histui-git](https://aur.archlinux.org/packages/histui-git) | 0.0.14.r33.gade0a13… | 0 | Notification history browser and daemon for Linux desktops (latest Git main) |
-| 2026-11-04 15:47:57 | [ghostunnel](https://aur.archlinux.org/packages/ghostunnel) | 1.11.5-1 | 0 | TLS proxy with mutual authentication for securing non-TLS services |
-| 2026-11-04 15:48:13 | [ghostunnel-bin](https://aur.archlinux.org/packages/ghostunnel-bin) | 1.11.5-1 | 0 | TLS proxy with mutual authentication for securing non-TLS services (prebuilt) |
-| 2026-11-04 15:55:42 | [gsp370-tray](https://aur.archlinux.org/packages/gsp370-tray) | 2.0.1-1 | 1 | Tiny StatusNotifierItem tray for the Sennheiser/EPOS GSP 370 (battery and sidet… |
+| 2026-11-04 16:21:24 | [neo4j-mcp](https://aur.archlinux.org/packages/neo4j-mcp) | 2.1.0-1 | 0 | Neo4j official MCP server |
+| 2026-11-04 16:21:35 | [neo4j-mcp-bin](https://aur.archlinux.org/packages/neo4j-mcp-bin) | 2.1.0-1 | 0 | Neo4j official MCP server (prebuilt) |
+| 2026-11-04 16:51:21 | [vstbridge](https://aur.archlinux.org/packages/vstbridge) | 0.0.4-1 | 0 | Windows VST2/VST3/CLAP plugins in Linux DAWs via Wine. A fork of yabridge by Ro… |
 
 ## Data source
 
