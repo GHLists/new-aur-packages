@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 22:29 UTC
+## Latest list — 2026-11-04 23:19 UTC
 
-New packages created between 2026-11-04 21:25 UTC and 2026-11-04 22:29 UTC.
+New packages created between 2026-11-04 22:29 UTC and 2026-11-04 23:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T22-29-50-481697Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-04T23-19-26-680201Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 21:44:00 | [honrp-bin](https://aur.archlinux.org/packages/honrp-bin) | 0.2.6-1 | 1 | Discord Rich Presence for Heroes of Newerth (Juvio) on Linux/Steam Proton |
-| 2026-11-04 22:03:24 | [aurgus-bin](https://aur.archlinux.org/packages/aurgus-bin) | 0.1.1-1 | 0 | AUR helper that audits PKGBUILDs before building them (prebuilt binary) |
-| 2026-11-04 22:25:01 | [tuxtalk](https://aur.archlinux.org/packages/tuxtalk) | 0.21.0-1 | 0 | Voice dictation for Linux: hold a key, talk, and your words are typed for you |
+| 2026-11-04 22:42:10 | [apkscope](https://aur.archlinux.org/packages/apkscope) | 0.5.3-1 | 0 | Android APK decompiler, xrefs, API recon and MCP server, with native viewer |
+| 2026-11-04 22:51:34 | [invoiceninja-ui](https://aur.archlinux.org/packages/invoiceninja-ui) | 2026.10.06.1-1 | 0 | React administration frontend for Invoice Ninja |
+| 2026-11-04 23:09:46 | [kantele](https://aur.archlinux.org/packages/kantele) | 0.1.0-1 | 0 | Settings GUI for the d77 window managers (pwm, wasp, spitfire) |
 
 ## Data source
 
