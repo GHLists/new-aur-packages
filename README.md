@@ -12,21 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 09:21 UTC
+## Latest list — 2026-11-04 10:23 UTC
 
-New packages created between 2026-11-04 08:20 UTC and 2026-11-04 09:21 UTC.
+New packages created between 2026-11-04 09:21 UTC and 2026-11-04 10:23 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T09-21-15-777668Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-04T10-23-15-178701Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 09:04:27 | [bb-desktop-bin](https://aur.archlinux.org/packages/bb-desktop-bin) | 0.48.1-1 | 0 | Agentic IDE for orchestrating coding agents (official AppImage) |
-| 2026-11-04 09:05:06 | [lunalauncher-git](https://aur.archlinux.org/packages/lunalauncher-git) | 11.0.2.r11406.g9176… | 0 | A custom Minecraft launcher based on Prism Launcher (git build with bundled Yuk… |
-| 2026-11-04 09:13:37 | [slintlu](https://aur.archlinux.org/packages/slintlu) | 0.1.0.r60.g871294b-1 | 0 | Run Wayland desktop shells (bars, docks, launchers, overlays) written in the Sl… |
-| 2026-11-04 09:13:45 | [lunadash-shell](https://aur.archlinux.org/packages/lunadash-shell) | 0.r14.g61c97b8-1 | 0 | LunaDash session shell (panel, dock, launcher, dashboard) written in Slint and… |
-| 2026-11-04 09:13:54 | [ludash](https://aur.archlinux.org/packages/ludash) | 1.0.0.r548.gf7afb5d… | 0 | LunaDash: C++ Wayland tiling desktop with OpenGL and optional Vulkan rendering… |
-| 2026-11-04 09:15:52 | [mcp-grafana](https://aur.archlinux.org/packages/mcp-grafana) | 2.2.0-1 | 0 | MCP server for Grafana |
-| 2026-11-04 09:15:58 | [mcp-grafana-bin](https://aur.archlinux.org/packages/mcp-grafana-bin) | 2.2.0-1 | 0 | MCP server for Grafana (prebuilt) |
+| 2026-11-04 09:51:14 | [zaptide-git](https://aur.archlinux.org/packages/zaptide-git) | 0.7.4.r391.g1a57adf… | 0 | Native WhatsApp client built with GTK4 and libadwaita (Git version) |
+| 2026-11-04 09:51:54 | [zaptide](https://aur.archlinux.org/packages/zaptide) | 0.7.4-1 | 0 | Native WhatsApp client built with GTK4 and libadwaita |
+| 2026-11-04 09:52:51 | [zaptide-bin](https://aur.archlinux.org/packages/zaptide-bin) | 0.7.4-1 | 0 | Native WhatsApp client built with GTK4 and libadwaita (upstream binary) |
+| 2026-11-04 09:53:43 | [pele](https://aur.archlinux.org/packages/pele) | 1.13.0-1 | 0 | Fast, lightweight Mermaid renderer that outputs themeable SVG |
+| 2026-11-04 09:54:17 | [pele-git](https://aur.archlinux.org/packages/pele-git) | 1.13.0.r0.g3a2f075-1 | 0 | Fast, lightweight Mermaid renderer that outputs themeable SVG (Git version) |
+| 2026-11-04 09:58:26 | [grunden-work-beta-bin](https://aur.archlinux.org/packages/grunden-work-beta-bin) | 0.17.96-1 | 0 | Grunden Cowork Beta desktop - sovereign AI workbench (prebuilt release) |
 
 ## Data source
 

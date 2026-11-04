@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-04T09:51:14Z,zaptide-git,0.7.4.r391.g1a57adf…,0,Native WhatsApp client built with GTK4 and libadwaita (Git version)
+2026-11-04T09:51:54Z,zaptide,0.7.4-1,0,Native WhatsApp client built with GTK4 and libadwaita
+2026-11-04T09:52:51Z,zaptide-bin,0.7.4-1,0,Native WhatsApp client built with GTK4 and libadwaita (upstream binary)
+2026-11-04T09:53:43Z,pele,1.13.0-1,0,"Fast, lightweight Mermaid renderer that outputs themeable SVG"
+2026-11-04T09:54:17Z,pele-git,1.13.0.r0.g3a2f075-1,0,"Fast, lightweight Mermaid renderer that outputs themeable SVG (Git version)"
+2026-11-04T09:58:26Z,grunden-work-beta-bin,0.17.96-1,0,Grunden Cowork Beta desktop - sovereign AI workbench (prebuilt release)
