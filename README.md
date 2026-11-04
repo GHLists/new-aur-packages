@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 17:21 UTC
+## Latest list — 2026-11-04 18:19 UTC
 
-New packages created between 2026-11-04 16:19 UTC and 2026-11-04 17:21 UTC.
+New packages created between 2026-11-04 17:21 UTC and 2026-11-04 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T17-21-46-68597Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-04T18-19-52-160014Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 16:21:24 | [neo4j-mcp](https://aur.archlinux.org/packages/neo4j-mcp) | 2.1.0-1 | 0 | Neo4j official MCP server |
-| 2026-11-04 16:21:35 | [neo4j-mcp-bin](https://aur.archlinux.org/packages/neo4j-mcp-bin) | 2.1.0-1 | 0 | Neo4j official MCP server (prebuilt) |
-| 2026-11-04 16:51:21 | [vstbridge](https://aur.archlinux.org/packages/vstbridge) | 0.0.4-1 | 0 | Windows VST2/VST3/CLAP plugins in Linux DAWs via Wine. A fork of yabridge by Ro… |
+| 2026-11-04 17:51:44 | [l2mapconv](https://aur.archlinux.org/packages/l2mapconv) | r164.g474ffe9-1 | 0 | Lineage II map previewer, geodata generator and map/radar renderer |
+| 2026-11-04 17:55:27 | [genoma](https://aur.archlinux.org/packages/genoma) | 0.1.0-1 | 0 | A Wayland shell toolkit: a Rust core drawing through Vulkan, interfaces written… |
 
 ## Data source
 
