@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-04T19:26:06Z,llama-prism-cuda-git,0.0.0_b12128_d7b289…,1,PrismML fork of llama.cpp with Ternary Bonsai models support. Build from sources with CUDA.
+2026-11-04T19:46:14Z,arch-skm,0.1.1-1,0,Automated linux kernel building with Signed Kernel Modules (in-tree & out-of-tree)
+2026-11-04T19:54:51Z,python-nose,1.3.7-19,0,A discovery-based unittest extension
+2026-11-04T20:12:10Z,kommunicator,0.1-1,0,Kirigami Client for Nextcloud Talk

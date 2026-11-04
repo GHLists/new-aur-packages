@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 19:18 UTC
+## Latest list — 2026-11-04 20:18 UTC
 
-New packages created between 2026-11-04 18:19 UTC and 2026-11-04 19:18 UTC.
+New packages created between 2026-11-04 19:18 UTC and 2026-11-04 20:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T19-18-38-716849Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-04T20-18-56-833675Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 18:28:56 | [xtop-bin](https://aur.archlinux.org/packages/xtop-bin) | 0.1.0-1 | 0 | A TUI system monitor written in Rust for X (prebuilt binary) |
+| 2026-11-04 19:26:06 | [llama-prism-cuda-git](https://aur.archlinux.org/packages/llama-prism-cuda-git) | 0.0.0_b12128_d7b289… | 1 | PrismML fork of llama.cpp with Ternary Bonsai models support. Build from source… |
+| 2026-11-04 19:46:14 | [arch-skm](https://aur.archlinux.org/packages/arch-skm) | 0.1.1-1 | 0 | Automated linux kernel building with Signed Kernel Modules (in-tree & out-of-tr… |
+| 2026-11-04 19:54:51 | [python-nose](https://aur.archlinux.org/packages/python-nose) | 1.3.7-19 | 0 | A discovery-based unittest extension |
+| 2026-11-04 20:12:10 | [kommunicator](https://aur.archlinux.org/packages/kommunicator) | 0.1-1 | 0 | Kirigami Client for Nextcloud Talk |
 
 ## Data source
 
