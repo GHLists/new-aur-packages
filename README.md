@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 06:21 UTC
+## Latest list — 2026-11-04 07:21 UTC
 
-New packages created between 2026-11-04 05:20 UTC and 2026-11-04 06:21 UTC.
+New packages created between 2026-11-04 06:21 UTC and 2026-11-04 07:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T06-21-32-880723Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-04T07-21-28-267522Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 05:33:12 | [ida-pro-plugin-zh-cn-git](https://aur.archlinux.org/packages/ida-pro-plugin-zh-cn-git) | r4.85769b4-1 | 0 | IDA Pro 9.x Simplified Chinese Localization Plugin |
+| 2026-11-04 06:50:58 | [gortex-bin](https://aur.archlinux.org/packages/gortex-bin) | 0.64.11-2 | 0 | High-performance code-intelligence engine for AI agents and IDEs, indexing repo… |
 
 ## Data source
 
