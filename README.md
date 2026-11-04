@@ -12,18 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 02:20 UTC
+## Latest list — 2026-11-04 03:20 UTC
 
-New packages created between 2026-11-04 01:20 UTC and 2026-11-04 02:20 UTC.
+New packages created between 2026-11-04 02:20 UTC and 2026-11-04 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T02-20-59-237051Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-04T03-20-50-352008Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 01:26:50 | [dfdu-bin](https://aur.archlinux.org/packages/dfdu-bin) | 0.5.0-1 | 0 | Disk usage browser for the terminal |
-| 2026-11-04 01:26:58 | [dfdu](https://aur.archlinux.org/packages/dfdu) | 0.5.0-1 | 0 | Disk usage browser for the terminal |
-| 2026-11-04 01:27:06 | [dfdu-git](https://aur.archlinux.org/packages/dfdu-git) | 0.5.0-1 | 0 | Disk usage browser for the terminal (latest commit) |
-| 2026-11-04 02:16:21 | [mechon-ai-git](https://aur.archlinux.org/packages/mechon-ai-git) | 1.2.2-1 | 0 | Local-first desktop workstation for SFT and DPO dataset engineering (always tra… |
+| 2026-11-04 02:33:10 | [gtkittorrent](https://aur.archlinux.org/packages/gtkittorrent) | 0.1.2-1 | 0 | Modern GTK4 and Libadwaita frontend for qBittorrent |
+| 2026-11-04 02:34:20 | [kryoptic](https://aur.archlinux.org/packages/kryoptic) | 1.5.4-1 | 0 | A PKCS #11 software token written in Rust |
+| 2026-11-04 02:43:49 | [boquilahub](https://aur.archlinux.org/packages/boquilahub) | 0.6.0-1 | 0 | Local AI-powered nature monitoring tool with CLI, TUI and GUI |
+| 2026-11-04 02:55:51 | [rail-bin](https://aur.archlinux.org/packages/rail-bin) | 0.10.1-1 | 1 | A modern terminal mail client for Gmail and Microsoft 365, with an MCP server f… |
+| 2026-11-04 02:56:58 | [eglantine-git](https://aur.archlinux.org/packages/eglantine-git) | 0.r29964.g55cb315-1 | 1 | Nintendo Switch emulator (development branch) |
+| 2026-11-04 03:01:45 | [python-onnx-asr](https://aur.archlinux.org/packages/python-onnx-asr) | 0.12.0-1 | 0 | Speech recognition with ONNX models (Parakeet, Whisper, GigaAM and others) |
+| 2026-11-04 03:10:16 | [jotter-bin](https://aur.archlinux.org/packages/jotter-bin) | 0.5.2-1 | 1 | A fast Jupyter notebook TUI with vim keys, inline plots and rendered LaTeX |
 
 ## Data source
 
