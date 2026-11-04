@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 18:19 UTC
+## Latest list — 2026-11-04 19:18 UTC
 
-New packages created between 2026-11-04 17:21 UTC and 2026-11-04 18:19 UTC.
+New packages created between 2026-11-04 18:19 UTC and 2026-11-04 19:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T18-19-52-160014Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-04T19-18-38-716849Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 17:51:44 | [l2mapconv](https://aur.archlinux.org/packages/l2mapconv) | r164.g474ffe9-1 | 0 | Lineage II map previewer, geodata generator and map/radar renderer |
-| 2026-11-04 17:55:27 | [genoma](https://aur.archlinux.org/packages/genoma) | 0.1.0-1 | 0 | A Wayland shell toolkit: a Rust core drawing through Vulkan, interfaces written… |
+| 2026-11-04 18:28:56 | [xtop-bin](https://aur.archlinux.org/packages/xtop-bin) | 0.1.0-1 | 0 | A TUI system monitor written in Rust for X (prebuilt binary) |
 
 ## Data source
 

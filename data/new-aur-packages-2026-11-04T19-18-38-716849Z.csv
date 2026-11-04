@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-11-04T18:28:56Z,xtop-bin,0.1.0-1,0,A TUI system monitor written in Rust for X (prebuilt binary)
