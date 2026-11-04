@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 20:18 UTC
+## Latest list — 2026-11-04 21:25 UTC
 
-New packages created between 2026-11-04 19:18 UTC and 2026-11-04 20:18 UTC.
+New packages created between 2026-11-04 20:18 UTC and 2026-11-04 21:25 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T20-18-56-833675Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-04T21-25-17-331201Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 19:26:06 | [llama-prism-cuda-git](https://aur.archlinux.org/packages/llama-prism-cuda-git) | 0.0.0_b12128_d7b289… | 1 | PrismML fork of llama.cpp with Ternary Bonsai models support. Build from source… |
-| 2026-11-04 19:46:14 | [arch-skm](https://aur.archlinux.org/packages/arch-skm) | 0.1.1-1 | 0 | Automated linux kernel building with Signed Kernel Modules (in-tree & out-of-tr… |
-| 2026-11-04 19:54:51 | [python-nose](https://aur.archlinux.org/packages/python-nose) | 1.3.7-19 | 0 | A discovery-based unittest extension |
-| 2026-11-04 20:12:10 | [kommunicator](https://aur.archlinux.org/packages/kommunicator) | 0.1-1 | 0 | Kirigami Client for Nextcloud Talk |
+| 2026-11-04 20:21:46 | [arch-skm-bin](https://aur.archlinux.org/packages/arch-skm-bin) | 0.1.1-1 | 0 | Automated linux kernel building with Signed Kernel Modules (in-tree & out-of-tr… |
+| 2026-11-04 20:23:43 | [aurgus-git](https://aur.archlinux.org/packages/aurgus-git) | 0.1.0.r7.g4fff586-1 | 0 | AUR helper that audits PKGBUILDs before building them (git version) |
+| 2026-11-04 20:34:21 | [gweather-add-loc-bin](https://aur.archlinux.org/packages/gweather-add-loc-bin) | 0.1.2-1 | 0 | Add custom locations with arbitrary coordinates to GNOME Weather (prebuilt bina… |
+| 2026-11-04 20:40:22 | [netscape-communicator](https://aur.archlinux.org/packages/netscape-communicator) | 4.79-4 | 0 | Netscape Communicator 4.79 web browser, mail and news client (2001, static Moti… |
 
 ## Data source
 

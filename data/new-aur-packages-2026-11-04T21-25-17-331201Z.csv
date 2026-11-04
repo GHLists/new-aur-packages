@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-04T20:21:46Z,arch-skm-bin,0.1.1-1,0,Automated linux kernel building with Signed Kernel Modules (in-tree & out-of-tree) (prebuilt binaries)
+2026-11-04T20:23:43Z,aurgus-git,0.1.0.r7.g4fff586-1,0,AUR helper that audits PKGBUILDs before building them (git version)
+2026-11-04T20:34:21Z,gweather-add-loc-bin,0.1.2-1,0,Add custom locations with arbitrary coordinates to GNOME Weather (prebuilt binary)
+2026-11-04T20:40:22Z,netscape-communicator,4.79-4,0,"Netscape Communicator 4.79 web browser, mail and news client (2001, static Motif)"
