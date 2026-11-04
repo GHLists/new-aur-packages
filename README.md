@@ -12,20 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 10:23 UTC
+## Latest list — 2026-11-04 12:21 UTC
 
-New packages created between 2026-11-04 09:21 UTC and 2026-11-04 10:23 UTC.
+New packages created between 2026-11-04 10:23 UTC and 2026-11-04 12:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T10-23-15-178701Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-04T12-21-38-498525Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 09:51:14 | [zaptide-git](https://aur.archlinux.org/packages/zaptide-git) | 0.7.4.r391.g1a57adf… | 0 | Native WhatsApp client built with GTK4 and libadwaita (Git version) |
-| 2026-11-04 09:51:54 | [zaptide](https://aur.archlinux.org/packages/zaptide) | 0.7.4-1 | 0 | Native WhatsApp client built with GTK4 and libadwaita |
-| 2026-11-04 09:52:51 | [zaptide-bin](https://aur.archlinux.org/packages/zaptide-bin) | 0.7.4-1 | 0 | Native WhatsApp client built with GTK4 and libadwaita (upstream binary) |
-| 2026-11-04 09:53:43 | [pele](https://aur.archlinux.org/packages/pele) | 1.13.0-1 | 0 | Fast, lightweight Mermaid renderer that outputs themeable SVG |
-| 2026-11-04 09:54:17 | [pele-git](https://aur.archlinux.org/packages/pele-git) | 1.13.0.r0.g3a2f075-1 | 0 | Fast, lightweight Mermaid renderer that outputs themeable SVG (Git version) |
-| 2026-11-04 09:58:26 | [grunden-work-beta-bin](https://aur.archlinux.org/packages/grunden-work-beta-bin) | 0.17.96-1 | 0 | Grunden Cowork Beta desktop - sovereign AI workbench (prebuilt release) |
+| 2026-11-04 10:59:24 | [versitygw](https://aur.archlinux.org/packages/versitygw) | 1.10.0-1 | 0 | S3 object storage server for a filesystem |
+| 2026-11-04 10:59:30 | [versitygw-bin](https://aur.archlinux.org/packages/versitygw-bin) | 1.10.0-1 | 0 | S3 object storage server for a filesystem (prebuilt) |
+| 2026-11-04 11:15:08 | [compx-control-git](https://aur.archlinux.org/packages/compx-control-git) | 0.1.2-1 | 0 | Native GTK4/libadwaita configuration tool for COMPX-based gaming mice (git) |
+| 2026-11-04 11:23:08 | [compx-control](https://aur.archlinux.org/packages/compx-control) | 0.1.2-1 | 1 | Native GTK4/libadwaita configuration tool for COMPX-based gaming mice (MAD R, V… |
+| 2026-11-04 11:30:18 | [eveconsole-bin](https://aur.archlinux.org/packages/eveconsole-bin) | 0.9.18-2 | 0 | Cross-platform EVE Online companion for industry, trading and character managem… |
+| 2026-11-04 11:50:59 | [pail-bin](https://aur.archlinux.org/packages/pail-bin) | 0.4.0-1 | 0 | S3 storage manager with a desktop GUI and CLI |
+| 2026-11-04 11:52:32 | [discimagestudio](https://aur.archlinux.org/packages/discimagestudio) | 1.3.6-1 | 0 | Disc Image Studio CLI: generate and burn visible image-mapped CD, DVD and BD-R… |
+| 2026-11-04 11:52:38 | [discimagestudio-bin](https://aur.archlinux.org/packages/discimagestudio-bin) | 1.3.6-1 | 0 | Disc Image Studio CLI: generate and burn visible image-mapped CD, DVD and BD-R… |
+| 2026-11-04 11:56:19 | [madlions-control](https://aur.archlinux.org/packages/madlions-control) | 0.1.0-1 | 1 | Native GTK4/libadwaita configuration tool for MADLIONS magnetic-switch keyboards |
+| 2026-11-04 11:56:30 | [madlions-control-git](https://aur.archlinux.org/packages/madlions-control-git) | 0.1.0-1 | 1 | Native GTK4/libadwaita configuration tool for MADLIONS magnetic-switch keyboard… |
+| 2026-11-04 12:06:06 | [atk-control-git](https://aur.archlinux.org/packages/atk-control-git) | 0.2.0-1 | 1 | Native GTK4/libadwaita configuration tool for ATK/VXE gaming mice (git) |
+| 2026-11-04 12:09:20 | [atk-control](https://aur.archlinux.org/packages/atk-control) | 0.2.0-1 | 1 | Native GTK4/libadwaita configuration tool for ATK/VXE gaming mice (MAD R, VXE R… |
 
 ## Data source
 
