@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-05T19:23:28Z,hyprdown-git,0.3.0_r0_g6c40460-1,0,"Close every app running under Hyprland without user input, then exit, power off, reboot or log out (git version)"
+2026-11-05T19:31:49Z,vscodium-code-bin,1.143.17232-1,0,"VSCodium repackaged with full VS Code branding, clean desktop integration, and flags wrapper"
+2026-11-05T19:34:01Z,nightcap,0.5.0-1,0,Android x86-64 Roblox compatibility runtime for Linux
+2026-11-05T19:34:14Z,nightcap-bin,0.5.0-1,0,Android x86-64 Roblox compatibility runtime for Linux (prebuilt)
+2026-11-05T19:40:28Z,proxmox-auto-install-assistant,9.2.8-1,0,prepare an automated proxmox install iso
+2026-11-05T19:46:47Z,foundry-rs,1.9.0-1,0,"Ethereum development toolkit: forge, cast, anvil and chisel"

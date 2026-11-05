@@ -12,17 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 19:22 UTC
+## Latest list — 2026-11-05 20:21 UTC
 
-New packages created between 2026-11-05 18:21 UTC and 2026-11-05 19:22 UTC.
+New packages created between 2026-11-05 19:22 UTC and 2026-11-05 20:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T19-22-03-842814Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T20-21-21-777584Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 18:51:42 | [tapes](https://aur.archlinux.org/packages/tapes) | 0.1.6beta-1 | 0 | Atomic dotfiles switcher for Linux and ricing |
-| 2026-11-05 18:51:52 | [tapes-bin](https://aur.archlinux.org/packages/tapes-bin) | 0.1.6beta-1 | 0 | Atomic dotfiles switcher for Linux and ricing (prebuilt binary) |
-| 2026-11-05 18:52:02 | [tapes-git](https://aur.archlinux.org/packages/tapes-git) | 0.1.6beta.r8.gf6c01… | 0 | Atomic dotfiles switcher for Linux and ricing (git version) |
+| 2026-11-05 19:23:28 | [hyprdown-git](https://aur.archlinux.org/packages/hyprdown-git) | 0.3.0_r0_g6c40460-1 | 0 | Close every app running under Hyprland without user input, then exit, power off… |
+| 2026-11-05 19:31:49 | [vscodium-code-bin](https://aur.archlinux.org/packages/vscodium-code-bin) | 1.143.17232-1 | 0 | VSCodium repackaged with full VS Code branding, clean desktop integration, and… |
+| 2026-11-05 19:34:01 | [nightcap](https://aur.archlinux.org/packages/nightcap) | 0.5.0-1 | 0 | Android x86-64 Roblox compatibility runtime for Linux |
+| 2026-11-05 19:34:14 | [nightcap-bin](https://aur.archlinux.org/packages/nightcap-bin) | 0.5.0-1 | 0 | Android x86-64 Roblox compatibility runtime for Linux (prebuilt) |
+| 2026-11-05 19:40:28 | [proxmox-auto-install-assistant](https://aur.archlinux.org/packages/proxmox-auto-install-assistant) | 9.2.8-1 | 0 | prepare an automated proxmox install iso |
+| 2026-11-05 19:46:47 | [foundry-rs](https://aur.archlinux.org/packages/foundry-rs) | 1.9.0-1 | 0 | Ethereum development toolkit: forge, cast, anvil and chisel |
 
 ## Data source
 
