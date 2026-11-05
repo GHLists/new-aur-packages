@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 15:19 UTC
+## Latest list — 2026-11-05 16:22 UTC
 
-New packages created between 2026-11-05 14:20 UTC and 2026-11-05 15:19 UTC.
+New packages created between 2026-11-05 15:19 UTC and 2026-11-05 16:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T15-19-06-324931Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T16-22-05-314186Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 14:56:48 | [alpaka-cpp](https://aur.archlinux.org/packages/alpaka-cpp) | 2.2.0-1 | 0 | Abstraction Library for Parallel Kernel Acceleration |
-| 2026-11-05 15:01:21 | [ryl](https://aur.archlinux.org/packages/ryl) | 0.28.0-1 | 0 | Fast YAML linter and formatter |
-| 2026-11-05 15:01:33 | [ryl-bin](https://aur.archlinux.org/packages/ryl-bin) | 0.28.0-1 | 0 | Fast YAML linter and formatter (prebuilt) |
+| 2026-11-05 16:01:30 | [anima-engine](https://aur.archlinux.org/packages/anima-engine) | 0.1.1-1 | 0 | Animated desktop overlays, a Workshop browser, and AI background removal. Build… |
+| 2026-11-05 16:19:33 | [sing-box-dashboard-git](https://aur.archlinux.org/packages/sing-box-dashboard-git) |  |  | Web dashboard for sing-box |
 
 ## Data source
 
