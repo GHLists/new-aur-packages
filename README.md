@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 02:20 UTC
+## Latest list — 2026-11-05 03:21 UTC
 
-New packages created between 2026-11-05 01:21 UTC and 2026-11-05 02:20 UTC.
+New packages created between 2026-11-05 02:20 UTC and 2026-11-05 03:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T02-20-19-213109Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T03-21-23-321708Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 01:26:58 | [foldav](https://aur.archlinux.org/packages/foldav) | 0.1.0-1 | 0 | A file manager for the files in your Nextcloud |
-| 2026-11-05 01:27:04 | [foldav-git](https://aur.archlinux.org/packages/foldav-git) | 0.0.0.r0.g0000000-1 | 0 | A file manager for the files in your Nextcloud |
-| 2026-11-05 01:27:11 | [foldav-bin](https://aur.archlinux.org/packages/foldav-bin) | 0.1.0-1 | 0 | A file manager for the files in your Nextcloud |
-| 2026-11-05 01:45:18 | [frankmd-bin](https://aur.archlinux.org/packages/frankmd-bin) | 0.1.0-1 | 0 | Markdown notes and blog editor with live preview, Vim mode and AI tools (native… |
-| 2026-11-05 02:10:53 | [blaze-bin](https://aur.archlinux.org/packages/blaze-bin) | 0.20261027.0-1 | 0 | Incremental Rust build engine that rebuilds only what an edit changed |
+| 2026-11-05 02:34:03 | [wolverine-ctl](https://aur.archlinux.org/packages/wolverine-ctl) | 0.1.1-1 | 0 | Configure Razer Wolverine controllers on Linux: polling rate and button mapping… |
+| 2026-11-05 02:48:47 | [kakikotoba-git](https://aur.archlinux.org/packages/kakikotoba-git) | r28.a631f47-1 | 0 | Vertical text editor for novel writing |
 
 ## Data source
 
