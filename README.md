@@ -12,20 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 20:21 UTC
+## Latest list — 2026-11-05 21:22 UTC
 
-New packages created between 2026-11-05 19:22 UTC and 2026-11-05 20:21 UTC.
+New packages created between 2026-11-05 20:21 UTC and 2026-11-05 21:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T20-21-21-777584Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T21-22-07-364938Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 19:23:28 | [hyprdown-git](https://aur.archlinux.org/packages/hyprdown-git) | 0.3.0_r0_g6c40460-1 | 0 | Close every app running under Hyprland without user input, then exit, power off… |
-| 2026-11-05 19:31:49 | [vscodium-code-bin](https://aur.archlinux.org/packages/vscodium-code-bin) | 1.143.17232-1 | 0 | VSCodium repackaged with full VS Code branding, clean desktop integration, and… |
-| 2026-11-05 19:34:01 | [nightcap](https://aur.archlinux.org/packages/nightcap) | 0.5.0-1 | 0 | Android x86-64 Roblox compatibility runtime for Linux |
-| 2026-11-05 19:34:14 | [nightcap-bin](https://aur.archlinux.org/packages/nightcap-bin) | 0.5.0-1 | 0 | Android x86-64 Roblox compatibility runtime for Linux (prebuilt) |
-| 2026-11-05 19:40:28 | [proxmox-auto-install-assistant](https://aur.archlinux.org/packages/proxmox-auto-install-assistant) | 9.2.8-1 | 0 | prepare an automated proxmox install iso |
-| 2026-11-05 19:46:47 | [foundry-rs](https://aur.archlinux.org/packages/foundry-rs) | 1.9.0-1 | 0 | Ethereum development toolkit: forge, cast, anvil and chisel |
+| 2026-11-05 20:21:52 | [yolocam-bin](https://aur.archlinux.org/packages/yolocam-bin) | 1.1.0-1 | 0 | Control YoloLiv YoloCam S3 camera settings from the command line |
+| 2026-11-05 20:42:52 | [forge-ide-bin](https://aur.archlinux.org/packages/forge-ide-bin) | 0.1.1beta.1-1 | 0 | PHPStorm-style IDE for PHP, web and Lua (prebuilt release) |
+| 2026-11-05 20:56:00 | [mimo-desktop-bin](https://aur.archlinux.org/packages/mimo-desktop-bin) | 26.1105.50703_202-1 | 0 | Xiaomi MiMo desktop client with built-in AI assistant (official Linux build) |
+| 2026-11-05 21:01:44 | [skykeep-bin](https://aur.archlinux.org/packages/skykeep-bin) | 0.1.6-1 | 0 | Native iCloud apps: Notes, Reminders, Calendar, Contacts, Drive and Photos, off… |
+| 2026-11-05 21:02:24 | [skykeep](https://aur.archlinux.org/packages/skykeep) | 0.1.6-1 | 0 | Native iCloud apps: Notes, Reminders, Calendar, Contacts, Drive and Photos, off… |
 
 ## Data source
 
