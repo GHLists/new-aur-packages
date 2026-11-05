@@ -12,24 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 10:20 UTC
+## Latest list — 2026-11-05 11:19 UTC
 
-New packages created between 2026-11-05 09:19 UTC and 2026-11-05 10:20 UTC.
+New packages created between 2026-11-05 10:20 UTC and 2026-11-05 11:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T10-20-28-649766Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T11-19-29-683079Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 09:33:52 | [qrow](https://aur.archlinux.org/packages/qrow) | 0.12.0-1 | 0 | Query rows in tables, documents and databases from the terminal |
-| 2026-11-05 09:33:59 | [qrow-bin](https://aur.archlinux.org/packages/qrow-bin) | 0.12.0-1 | 0 | Query rows in tables, documents and databases from the terminal (pre-built bina… |
-| 2026-11-05 09:40:27 | [earshot-git](https://aur.archlinux.org/packages/earshot-git) | 1.1.0.r39.g3d6ebd2-1 | 0 | Use your phone as your PC's microphone, over Wi-Fi (latest git) |
-| 2026-11-05 09:40:42 | [earshot-bin](https://aur.archlinux.org/packages/earshot-bin) | 1.1.0-1 | 0 | Use your phone as your PC's microphone, over Wi-Fi (prebuilt release) |
-| 2026-11-05 09:41:18 | [youdaodict-bin](https://aur.archlinux.org/packages/youdaodict-bin) | 11.3.26.0-1 | 0 | Third-party A copy of Youdao Dict translation.有道翻译复刻版 |
-| 2026-11-05 09:51:01 | [openmausbot-bin](https://aur.archlinux.org/packages/openmausbot-bin) | 0.1.141-1 | 0 | Local-first chat app for running a team of AI agents |
-| 2026-11-05 09:59:43 | [niri-tracker-bin](https://aur.archlinux.org/packages/niri-tracker-bin) | 0.1.0-1 | 0 | Screen time tracking for the niri Wayland compositor (prebuilt binary) |
-| 2026-11-05 10:01:08 | [mediaboom-3](https://aur.archlinux.org/packages/mediaboom-3) | 2.0.3.0+1.0.0.0-1 | 0 | Cross-platform music and video player written in C# |
-| 2026-11-05 10:01:20 | [mediaboom-3-git](https://aur.archlinux.org/packages/mediaboom-3-git) | v0.1.0.r741.e2aecf6… | 0 | Cross-platform music and video player written in C# |
-| 2026-11-05 10:15:58 | [perl-test-diaginc](https://aur.archlinux.org/packages/perl-test-diaginc) | 0.010-1 | 0 | List modules and versions loaded if tests fail |
+| 2026-11-05 10:24:28 | [evex-mpp-bin](https://aur.archlinux.org/packages/evex-mpp-bin) | 0.8.0-1 | 0 | Desktop XMPP client built for EVE Online communities: fleet pings, auto-join ro… |
+| 2026-11-05 10:28:49 | [niri-tracker-git](https://aur.archlinux.org/packages/niri-tracker-git) | 0.1.1.r10.g44d411d-1 | 0 | Screen time tracking for the niri Wayland compositor |
+| 2026-11-05 10:33:49 | [rakazo-bin](https://aur.archlinux.org/packages/rakazo-bin) | 0.8.0-1 | 0 | Open-source Grok Bot alternative. Choose your own model and sandbox. |
+| 2026-11-05 10:33:52 | [mdflowviewer](https://aur.archlinux.org/packages/mdflowviewer) | 3.0.2-1 | 0 | Markdown viewer and editor with live preview (Tauri + WebKitGTK) |
+| 2026-11-05 10:33:59 | [mdflowviewer-bin](https://aur.archlinux.org/packages/mdflowviewer-bin) | 3.0.2-1 | 0 | Markdown viewer and editor with live preview (prebuilt binary) |
+| 2026-11-05 10:39:46 | [trackfolio-bin](https://aur.archlinux.org/packages/trackfolio-bin) | 0.1.0-1 | 0 | Manage FLAC and MP3 metadata in a local music catalog |
+| 2026-11-05 10:45:47 | [krakend](https://aur.archlinux.org/packages/krakend) | 3.0.3-1 | 0 | High-performance, stateless, declarative API gateway |
+| 2026-11-05 10:45:59 | [krakend-bin](https://aur.archlinux.org/packages/krakend-bin) | 3.0.3-1 | 0 | High-performance, stateless, declarative API gateway (prebuilt) |
+| 2026-11-05 10:53:52 | [videodown](https://aur.archlinux.org/packages/videodown) | 1.0.0_alpha.3-1 | 0 | 哔哩哔哩、抖音、YouTube 视频下载工具（MyGo/MujicaUI 原生界面） |
+| 2026-11-05 11:12:28 | [zinc-term](https://aur.archlinux.org/packages/zinc-term) | 0.2.0-1 | 0 | A terminal emulator written in Zig |
 
 ## Data source
 

@@ -1,0 +1,11 @@
+created_at,package,version,votes,description
+2026-11-05T10:24:28Z,evex-mpp-bin,0.8.0-1,0,"Desktop XMPP client built for EVE Online communities: fleet pings, auto-join rooms, always-on-top alerts, EVE time and themes."
+2026-11-05T10:28:49Z,niri-tracker-git,0.1.1.r10.g44d411d-1,0,Screen time tracking for the niri Wayland compositor
+2026-11-05T10:33:49Z,rakazo-bin,0.8.0-1,0,Open-source Grok Bot alternative. Choose your own model and sandbox.
+2026-11-05T10:33:52Z,mdflowviewer,3.0.2-1,0,Markdown viewer and editor with live preview (Tauri + WebKitGTK)
+2026-11-05T10:33:59Z,mdflowviewer-bin,3.0.2-1,0,Markdown viewer and editor with live preview (prebuilt binary)
+2026-11-05T10:39:46Z,trackfolio-bin,0.1.0-1,0,Manage FLAC and MP3 metadata in a local music catalog
+2026-11-05T10:45:47Z,krakend,3.0.3-1,0,"High-performance, stateless, declarative API gateway"
+2026-11-05T10:45:59Z,krakend-bin,3.0.3-1,0,"High-performance, stateless, declarative API gateway (prebuilt)"
+2026-11-05T10:53:52Z,videodown,1.0.0_alpha.3-1,0,哔哩哔哩、抖音、YouTube 视频下载工具（MyGo/MujicaUI 原生界面）
+2026-11-05T11:12:28Z,zinc-term,0.2.0-1,0,A terminal emulator written in Zig
