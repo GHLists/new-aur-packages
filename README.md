@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 03:21 UTC
+## Latest list — 2026-11-05 04:19 UTC
 
-New packages created between 2026-11-05 02:20 UTC and 2026-11-05 03:21 UTC.
+New packages created between 2026-11-05 03:21 UTC and 2026-11-05 04:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T03-21-23-321708Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T04-19-57-468842Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 02:34:03 | [wolverine-ctl](https://aur.archlinux.org/packages/wolverine-ctl) | 0.1.1-1 | 0 | Configure Razer Wolverine controllers on Linux: polling rate and button mapping… |
-| 2026-11-05 02:48:47 | [kakikotoba-git](https://aur.archlinux.org/packages/kakikotoba-git) | r28.a631f47-1 | 0 | Vertical text editor for novel writing |
+| 2026-11-05 03:37:07 | [alex-git](https://aur.archlinux.org/packages/alex-git) | 0.7.r0.g0000000-1 | 0 | Android Logical Extractor - ADB-based mobile acquisition tool (git) |
+| 2026-11-05 03:44:28 | [t3-code-bin](https://aur.archlinux.org/packages/t3-code-bin) | 0.1.7-1 | 0 | Desktop GUI for coding agents |
+| 2026-11-05 03:52:18 | [shuru-bin](https://aur.archlinux.org/packages/shuru-bin) | 0.13.0-1 | 1 | A local-first microVM sandbox for running AI agents safely |
+| 2026-11-05 04:03:43 | [pamtester-git](https://aur.archlinux.org/packages/pamtester-git) | 0.1.3.r0.gb40dde1-1 | 0 | Tiny program to test the pluggable authentication modules (PAM) facility (Git) |
 
 ## Data source
 
