@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 14:20 UTC
+## Latest list — 2026-11-05 15:19 UTC
 
-New packages created between 2026-11-05 13:19 UTC and 2026-11-05 14:20 UTC.
+New packages created between 2026-11-05 14:20 UTC and 2026-11-05 15:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T14-20-18-550391Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T15-19-06-324931Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 13:22:07 | [lakekeeper](https://aur.archlinux.org/packages/lakekeeper) | 0.14.2-1 | 0 | Apache Iceberg REST catalog |
-| 2026-11-05 13:22:16 | [lakekeeper-bin](https://aur.archlinux.org/packages/lakekeeper-bin) | 0.14.2-1 | 0 | Apache Iceberg REST catalog (prebuilt) |
+| 2026-11-05 14:56:48 | [alpaka-cpp](https://aur.archlinux.org/packages/alpaka-cpp) | 2.2.0-1 | 0 | Abstraction Library for Parallel Kernel Acceleration |
+| 2026-11-05 15:01:21 | [ryl](https://aur.archlinux.org/packages/ryl) | 0.28.0-1 | 0 | Fast YAML linter and formatter |
+| 2026-11-05 15:01:33 | [ryl-bin](https://aur.archlinux.org/packages/ryl-bin) | 0.28.0-1 | 0 | Fast YAML linter and formatter (prebuilt) |
 
 ## Data source
 

@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-05T14:56:48Z,alpaka-cpp,2.2.0-1,0,Abstraction Library for Parallel Kernel Acceleration
+2026-11-05T15:01:21Z,ryl,0.28.0-1,0,Fast YAML linter and formatter
+2026-11-05T15:01:33Z,ryl-bin,0.28.0-1,0,Fast YAML linter and formatter (prebuilt)
