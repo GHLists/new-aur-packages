@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 04:19 UTC
+## Latest list — 2026-11-05 05:21 UTC
 
-New packages created between 2026-11-05 03:21 UTC and 2026-11-05 04:19 UTC.
+New packages created between 2026-11-05 04:19 UTC and 2026-11-05 05:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T04-19-57-468842Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T05-21-35-639422Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 03:37:07 | [alex-git](https://aur.archlinux.org/packages/alex-git) | 0.7.r0.g0000000-1 | 0 | Android Logical Extractor - ADB-based mobile acquisition tool (git) |
-| 2026-11-05 03:44:28 | [t3-code-bin](https://aur.archlinux.org/packages/t3-code-bin) | 0.1.7-1 | 0 | Desktop GUI for coding agents |
-| 2026-11-05 03:52:18 | [shuru-bin](https://aur.archlinux.org/packages/shuru-bin) | 0.13.0-1 | 1 | A local-first microVM sandbox for running AI agents safely |
-| 2026-11-05 04:03:43 | [pamtester-git](https://aur.archlinux.org/packages/pamtester-git) | 0.1.3.r0.gb40dde1-1 | 0 | Tiny program to test the pluggable authentication modules (PAM) facility (Git) |
+| 2026-11-05 04:40:14 | [frankmdfast-bin](https://aur.archlinux.org/packages/frankmdfast-bin) | 0.1.0-1 | 0 | Native desktop rewrite of FrankMD: markdown notes with live preview, Vim mode a… |
+| 2026-11-05 04:59:20 | [alpm-html](https://aur.archlinux.org/packages/alpm-html) | 0.10.0-1 | 0 | Generate a static site for browsing an Arch repo, styled like the main website. |
+| 2026-11-05 05:17:27 | [hume-bin](https://aur.archlinux.org/packages/hume-bin) |  |  | A selection-first modal text editor for the terminal, scriptable in Scheme |
 
 ## Data source
 

@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-05T04:40:14Z,frankmdfast-bin,0.1.0-1,0,"Native desktop rewrite of FrankMD: markdown notes with live preview, Vim mode and AI tools (prebuilt binary)"
+2026-11-05T04:59:20Z,alpm-html,0.10.0-1,0,"Generate a static site for browsing an Arch repo, styled like the main website."
+2026-11-05T05:17:27Z,hume-bin,,,"A selection-first modal text editor for the terminal, scriptable in Scheme"
