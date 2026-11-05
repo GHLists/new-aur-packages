@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 05:21 UTC
+## Latest list — 2026-11-05 06:18 UTC
 
-New packages created between 2026-11-05 04:19 UTC and 2026-11-05 05:21 UTC.
+New packages created between 2026-11-05 05:21 UTC and 2026-11-05 06:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T05-21-35-639422Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T06-18-34-106542Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 04:40:14 | [frankmdfast-bin](https://aur.archlinux.org/packages/frankmdfast-bin) | 0.1.0-1 | 0 | Native desktop rewrite of FrankMD: markdown notes with live preview, Vim mode a… |
-| 2026-11-05 04:59:20 | [alpm-html](https://aur.archlinux.org/packages/alpm-html) | 0.10.0-1 | 0 | Generate a static site for browsing an Arch repo, styled like the main website. |
-| 2026-11-05 05:17:27 | [hume-bin](https://aur.archlinux.org/packages/hume-bin) |  |  | A selection-first modal text editor for the terminal, scriptable in Scheme |
+| 2026-11-05 05:23:52 | [shipwright-bin](https://aur.archlinux.org/packages/shipwright-bin) | 9.3.1-1 | 0 | An unofficial PC port of The Legend of Zelda: Ocarina of Time |
+| 2026-11-05 06:11:15 | [subview-bin](https://aur.archlinux.org/packages/subview-bin) | 0.1.0-1 | 0 | Display a subtitle stream from stdin as a desktop overlay |
 
 ## Data source
 
