@@ -12,20 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 01:21 UTC
+## Latest list — 2026-11-05 02:20 UTC
 
-New packages created between 2026-11-05 00:20 UTC and 2026-11-05 01:21 UTC.
+New packages created between 2026-11-05 01:21 UTC and 2026-11-05 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T01-21-14-547313Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T02-20-19-213109Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 00:35:45 | [wizardchat-bin](https://aur.archlinux.org/packages/wizardchat-bin) | 26.12.1-1 | 0 | Simple, secure, magical Matrix client |
-| 2026-11-05 00:54:50 | [gextant](https://aur.archlinux.org/packages/gextant) | 0.1.0-1 | 0 | Updates GNOME Shell extensions from their repositories |
-| 2026-11-05 00:54:56 | [gextant-bin](https://aur.archlinux.org/packages/gextant-bin) | 0.1.0-1 | 0 | Updates GNOME Shell extensions from their repositories |
-| 2026-11-05 00:55:01 | [gextant-git](https://aur.archlinux.org/packages/gextant-git) | 0.1.0.r35.g61d4acf-1 | 0 | Updates GNOME Shell extensions from their repositories |
-| 2026-11-05 01:12:10 | [electron45-castlab-bin](https://aur.archlinux.org/packages/electron45-castlab-bin) | 45.2.1+wvcus-1 | 0 | Electron for Content Security (ECS) is a fork of Electron created by castLabs t… |
-| 2026-11-05 01:18:46 | [python-ciscoisesdk](https://aur.archlinux.org/packages/python-ciscoisesdk) | 2.4.7-1 | 0 | Cisco Identity Services Engine SDK for Python |
+| 2026-11-05 01:26:58 | [foldav](https://aur.archlinux.org/packages/foldav) | 0.1.0-1 | 0 | A file manager for the files in your Nextcloud |
+| 2026-11-05 01:27:04 | [foldav-git](https://aur.archlinux.org/packages/foldav-git) | 0.0.0.r0.g0000000-1 | 0 | A file manager for the files in your Nextcloud |
+| 2026-11-05 01:27:11 | [foldav-bin](https://aur.archlinux.org/packages/foldav-bin) | 0.1.0-1 | 0 | A file manager for the files in your Nextcloud |
+| 2026-11-05 01:45:18 | [frankmd-bin](https://aur.archlinux.org/packages/frankmd-bin) | 0.1.0-1 | 0 | Markdown notes and blog editor with live preview, Vim mode and AI tools (native… |
+| 2026-11-05 02:10:53 | [blaze-bin](https://aur.archlinux.org/packages/blaze-bin) | 0.20261027.0-1 | 0 | Incremental Rust build engine that rebuilds only what an edit changed |
 
 ## Data source
 

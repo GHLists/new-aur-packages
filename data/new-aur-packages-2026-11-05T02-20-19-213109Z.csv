@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-05T01:26:58Z,foldav,0.1.0-1,0,A file manager for the files in your Nextcloud
+2026-11-05T01:27:04Z,foldav-git,0.0.0.r0.g0000000-1,0,A file manager for the files in your Nextcloud
+2026-11-05T01:27:11Z,foldav-bin,0.1.0-1,0,A file manager for the files in your Nextcloud
+2026-11-05T01:45:18Z,frankmd-bin,0.1.0-1,0,"Markdown notes and blog editor with live preview, Vim mode and AI tools (native FrankMD)"
+2026-11-05T02:10:53Z,blaze-bin,0.20261027.0-1,0,Incremental Rust build engine that rebuilds only what an edit changed
