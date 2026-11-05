@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-05T11:29:49Z,lichii-bin,75-1,1,"Experimental Nintendo Switch and Switch 2 emulator, fork of Eden (upstream AppImage)"
+2026-11-05T11:45:40Z,kiota,1.38.0-1,0,OpenAPI based HTTP client code generator
+2026-11-05T11:45:52Z,kiota-bin,1.38.0-1,0,OpenAPI based HTTP client code generator (prebuilt)
