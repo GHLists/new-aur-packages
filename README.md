@@ -12,18 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 07:27 UTC
+## Latest list — 2026-11-05 09:19 UTC
 
-New packages created between 2026-11-05 06:18 UTC and 2026-11-05 07:27 UTC.
+New packages created between 2026-11-05 08:19 UTC and 2026-11-05 09:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T07-27-59-845577Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T09-19-32-13125Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 06:19:44 | [subview-nightly-bin](https://aur.archlinux.org/packages/subview-nightly-bin) | 0.1.0+nightly+20261… | 0 | Display a subtitle stream from stdin as a desktop overlay — nightly build |
-| 2026-11-05 06:40:12 | [phoenix-dna](https://aur.archlinux.org/packages/phoenix-dna) | 0.1.0-1 | 0 | Voice-first AI agent for the KDE Plasma panel |
-| 2026-11-05 06:59:23 | [mimick](https://aur.archlinux.org/packages/mimick) | 9.12.0-2 | 0 | Unofficial Immich desktop client that backs up and browses your photos |
-| 2026-11-05 07:19:35 | [thinkrail](https://aur.archlinux.org/packages/thinkrail) | 0.3.1-1 | 0 | Lightweight IDE for vibe coding with the pi agent (desktop app and browser-base… |
+| 2026-11-05 08:53:56 | [mosaico](https://aur.archlinux.org/packages/mosaico) | 0.7.0-1 | 0 | The data platform for robotics and physical AI (meta package) |
+| 2026-11-05 08:53:56 | [mosaicod](https://aur.archlinux.org/packages/mosaicod) | 0.7.0-1 | 0 | The data platform for robotics and physical AI. |
+| 2026-11-05 08:53:56 | [python-mosaicolabs](https://aur.archlinux.org/packages/python-mosaicolabs) | 0.7.0-1 | 0 | Python SDK for the Mosaico data platform |
+| 2026-11-05 09:05:37 | [kiri-bin](https://aur.archlinux.org/packages/kiri-bin) | 0.1.17-1 | 0 | Tiny, fast container runtime speaking the Docker API (with GUI and bundled dock… |
+| 2026-11-05 09:05:37 | [kiri-lite-bin](https://aur.archlinux.org/packages/kiri-lite-bin) | 0.1.17-1 | 0 | Tiny, fast container runtime speaking the Docker API (engine only) |
 
 ## Data source
 
