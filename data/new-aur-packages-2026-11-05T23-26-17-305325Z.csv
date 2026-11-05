@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-05T22:21:59Z,weather-tui,1.4.0-1,1,A TUI application for displaying weather forecasts with hour-by-hour graphs
+2026-11-05T22:37:37Z,satur8,0.3.3-2,1,"Per-game digital vibrance for Linux: compositor/scanout saturation boost, never injected into the game"
+2026-11-05T23:03:10Z,openchronology-desktop-bin,0.22.0-1,0,"Exact timelines, shared on your terms: the OpenChronology desktop app"
+2026-11-05T23:03:25Z,openchronology-server,0.22.0-1,0,"Exact timelines, shared on your terms: the OpenChronology platform server"
+2026-11-05T23:15:31Z,satur8-bin,0.3.3-1,1,Per-game digital vibrance for Linux (prebuilt binaries)
