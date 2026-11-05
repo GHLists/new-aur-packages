@@ -12,16 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 00:20 UTC
+## Latest list — 2026-11-05 01:21 UTC
 
-New packages created between 2026-11-04 23:19 UTC and 2026-11-05 00:20 UTC.
+New packages created between 2026-11-05 00:20 UTC and 2026-11-05 01:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T00-20-20-002248Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T01-21-14-547313Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 23:55:38 | [lddtree](https://aur.archlinux.org/packages/lddtree) | 0.5.1-1 | 0 | Read the dynamic library dependency tree |
-| 2026-11-04 23:58:56 | [mole-cli-bin](https://aur.archlinux.org/packages/mole-cli-bin) | 0.4.0-1 | 0 | Deep clean and optimize your Linux desktop (CLI) |
+| 2026-11-05 00:35:45 | [wizardchat-bin](https://aur.archlinux.org/packages/wizardchat-bin) | 26.12.1-1 | 0 | Simple, secure, magical Matrix client |
+| 2026-11-05 00:54:50 | [gextant](https://aur.archlinux.org/packages/gextant) | 0.1.0-1 | 0 | Updates GNOME Shell extensions from their repositories |
+| 2026-11-05 00:54:56 | [gextant-bin](https://aur.archlinux.org/packages/gextant-bin) | 0.1.0-1 | 0 | Updates GNOME Shell extensions from their repositories |
+| 2026-11-05 00:55:01 | [gextant-git](https://aur.archlinux.org/packages/gextant-git) | 0.1.0.r35.g61d4acf-1 | 0 | Updates GNOME Shell extensions from their repositories |
+| 2026-11-05 01:12:10 | [electron45-castlab-bin](https://aur.archlinux.org/packages/electron45-castlab-bin) | 45.2.1+wvcus-1 | 0 | Electron for Content Security (ECS) is a fork of Electron created by castLabs t… |
+| 2026-11-05 01:18:46 | [python-ciscoisesdk](https://aur.archlinux.org/packages/python-ciscoisesdk) | 2.4.7-1 | 0 | Cisco Identity Services Engine SDK for Python |
 
 ## Data source
 

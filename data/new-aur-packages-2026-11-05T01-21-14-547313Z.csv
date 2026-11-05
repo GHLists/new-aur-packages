@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-05T00:35:45Z,wizardchat-bin,26.12.1-1,0,"Simple, secure, magical Matrix client"
+2026-11-05T00:54:50Z,gextant,0.1.0-1,0,Updates GNOME Shell extensions from their repositories
+2026-11-05T00:54:56Z,gextant-bin,0.1.0-1,0,Updates GNOME Shell extensions from their repositories
+2026-11-05T00:55:01Z,gextant-git,0.1.0.r35.g61d4acf-1,0,Updates GNOME Shell extensions from their repositories
+2026-11-05T01:12:10Z,electron45-castlab-bin,45.2.1+wvcus-1,0,Electron for Content Security (ECS) is a fork of Electron created by castLabs to facilitate the use of Google's Widevine Content Decryption Module (CDM) for DRM-enabled playback within Electron
+2026-11-05T01:18:46Z,python-ciscoisesdk,2.4.7-1,0,Cisco Identity Services Engine SDK for Python
