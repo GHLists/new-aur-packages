@@ -12,19 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 09:19 UTC
+## Latest list — 2026-11-05 10:20 UTC
 
-New packages created between 2026-11-05 08:19 UTC and 2026-11-05 09:19 UTC.
+New packages created between 2026-11-05 09:19 UTC and 2026-11-05 10:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T09-19-32-13125Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T10-20-28-649766Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 08:53:56 | [mosaico](https://aur.archlinux.org/packages/mosaico) | 0.7.0-1 | 0 | The data platform for robotics and physical AI (meta package) |
-| 2026-11-05 08:53:56 | [mosaicod](https://aur.archlinux.org/packages/mosaicod) | 0.7.0-1 | 0 | The data platform for robotics and physical AI. |
-| 2026-11-05 08:53:56 | [python-mosaicolabs](https://aur.archlinux.org/packages/python-mosaicolabs) | 0.7.0-1 | 0 | Python SDK for the Mosaico data platform |
-| 2026-11-05 09:05:37 | [kiri-bin](https://aur.archlinux.org/packages/kiri-bin) | 0.1.17-1 | 0 | Tiny, fast container runtime speaking the Docker API (with GUI and bundled dock… |
-| 2026-11-05 09:05:37 | [kiri-lite-bin](https://aur.archlinux.org/packages/kiri-lite-bin) | 0.1.17-1 | 0 | Tiny, fast container runtime speaking the Docker API (engine only) |
+| 2026-11-05 09:33:52 | [qrow](https://aur.archlinux.org/packages/qrow) | 0.12.0-1 | 0 | Query rows in tables, documents and databases from the terminal |
+| 2026-11-05 09:33:59 | [qrow-bin](https://aur.archlinux.org/packages/qrow-bin) | 0.12.0-1 | 0 | Query rows in tables, documents and databases from the terminal (pre-built bina… |
+| 2026-11-05 09:40:27 | [earshot-git](https://aur.archlinux.org/packages/earshot-git) | 1.1.0.r39.g3d6ebd2-1 | 0 | Use your phone as your PC's microphone, over Wi-Fi (latest git) |
+| 2026-11-05 09:40:42 | [earshot-bin](https://aur.archlinux.org/packages/earshot-bin) | 1.1.0-1 | 0 | Use your phone as your PC's microphone, over Wi-Fi (prebuilt release) |
+| 2026-11-05 09:41:18 | [youdaodict-bin](https://aur.archlinux.org/packages/youdaodict-bin) | 11.3.26.0-1 | 0 | Third-party A copy of Youdao Dict translation.有道翻译复刻版 |
+| 2026-11-05 09:51:01 | [openmausbot-bin](https://aur.archlinux.org/packages/openmausbot-bin) | 0.1.141-1 | 0 | Local-first chat app for running a team of AI agents |
+| 2026-11-05 09:59:43 | [niri-tracker-bin](https://aur.archlinux.org/packages/niri-tracker-bin) | 0.1.0-1 | 0 | Screen time tracking for the niri Wayland compositor (prebuilt binary) |
+| 2026-11-05 10:01:08 | [mediaboom-3](https://aur.archlinux.org/packages/mediaboom-3) | 2.0.3.0+1.0.0.0-1 | 0 | Cross-platform music and video player written in C# |
+| 2026-11-05 10:01:20 | [mediaboom-3-git](https://aur.archlinux.org/packages/mediaboom-3-git) | v0.1.0.r741.e2aecf6… | 0 | Cross-platform music and video player written in C# |
+| 2026-11-05 10:15:58 | [perl-test-diaginc](https://aur.archlinux.org/packages/perl-test-diaginc) | 0.010-1 | 0 | List modules and versions loaded if tests fail |
 
 ## Data source
 
