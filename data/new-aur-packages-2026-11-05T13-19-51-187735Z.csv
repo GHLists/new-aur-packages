@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-05T12:35:31Z,thronectl,0.3.0-1,0,Command-line tool and web UI for the Throne API (control Throne from scripts)
+2026-11-05T12:44:42Z,qoderwake-bin,1.2.11-1,0,QoderWake local CLI and daemon (official prebuilt Linux runtime)
+2026-11-05T12:44:57Z,qoderwake-cn-bin,1.2.11_cn-1,0,QoderWake 国内版 local CLI and daemon (official prebuilt Linux runtime)
+2026-11-05T12:45:03Z,koda-desktop-bin,1.3.2-1,0,Koda AI desktop client (prebuilt AppImage)
+2026-11-05T12:51:43Z,fzlaunch-git,r2.1100868-1,0,Launch apps and commands as systemd units from fzf (git development version)
