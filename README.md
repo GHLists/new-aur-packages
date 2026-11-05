@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 18:21 UTC
+## Latest list — 2026-11-05 19:22 UTC
 
-New packages created between 2026-11-05 17:20 UTC and 2026-11-05 18:21 UTC.
+New packages created between 2026-11-05 18:21 UTC and 2026-11-05 19:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T18-21-49-464556Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T19-22-03-842814Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 17:39:41 | [tequilashot-bin](https://aur.archlinux.org/packages/tequilashot-bin) | 0.3.0-1 | 0 | Tequilashot - screenshots and screen recording for Wayland |
-| 2026-11-05 17:49:08 | [quill-bin](https://aur.archlinux.org/packages/quill-bin) | 0.1.0-1 | 0 | Fast, keyboard-driven terminal email client with conversations, a unified inbox… |
-| 2026-11-05 18:09:52 | [wingdrive-nightly](https://aur.archlinux.org/packages/wingdrive-nightly) | 3.0.0-1 | 0 | WingDrive desktop file manager, every release including alpha, beta and rc |
-| 2026-11-05 18:17:44 | [termpicv-git](https://aur.archlinux.org/packages/termpicv-git) |  |  | Terminal image browser with a thumbnail grid and viewer, displayed through uebe… |
+| 2026-11-05 18:51:42 | [tapes](https://aur.archlinux.org/packages/tapes) | 0.1.6beta-1 | 0 | Atomic dotfiles switcher for Linux and ricing |
+| 2026-11-05 18:51:52 | [tapes-bin](https://aur.archlinux.org/packages/tapes-bin) | 0.1.6beta-1 | 0 | Atomic dotfiles switcher for Linux and ricing (prebuilt binary) |
+| 2026-11-05 18:52:02 | [tapes-git](https://aur.archlinux.org/packages/tapes-git) | 0.1.6beta.r8.gf6c01… | 0 | Atomic dotfiles switcher for Linux and ricing (git version) |
 
 ## Data source
 

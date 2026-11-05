@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-05T18:51:42Z,tapes,0.1.6beta-1,0,Atomic dotfiles switcher for Linux and ricing
+2026-11-05T18:51:52Z,tapes-bin,0.1.6beta-1,0,Atomic dotfiles switcher for Linux and ricing (prebuilt binary)
+2026-11-05T18:52:02Z,tapes-git,0.1.6beta.r8.gf6c01…,0,Atomic dotfiles switcher for Linux and ricing (git version)
