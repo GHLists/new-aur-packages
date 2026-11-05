@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 23:19 UTC
+## Latest list — 2026-11-05 00:20 UTC
 
-New packages created between 2026-11-04 22:29 UTC and 2026-11-04 23:19 UTC.
+New packages created between 2026-11-04 23:19 UTC and 2026-11-05 00:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-04T23-19-26-680201Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T00-20-20-002248Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 22:42:10 | [apkscope](https://aur.archlinux.org/packages/apkscope) | 0.5.3-1 | 0 | Android APK decompiler, xrefs, API recon and MCP server, with native viewer |
-| 2026-11-04 22:51:34 | [invoiceninja-ui](https://aur.archlinux.org/packages/invoiceninja-ui) | 2026.10.06.1-1 | 0 | React administration frontend for Invoice Ninja |
-| 2026-11-04 23:09:46 | [kantele](https://aur.archlinux.org/packages/kantele) | 0.1.0-1 | 0 | Settings GUI for the d77 window managers (pwm, wasp, spitfire) |
+| 2026-11-04 23:55:38 | [lddtree](https://aur.archlinux.org/packages/lddtree) | 0.5.1-1 | 0 | Read the dynamic library dependency tree |
+| 2026-11-04 23:58:56 | [mole-cli-bin](https://aur.archlinux.org/packages/mole-cli-bin) | 0.4.0-1 | 0 | Deep clean and optimize your Linux desktop (CLI) |
 
 ## Data source
 
