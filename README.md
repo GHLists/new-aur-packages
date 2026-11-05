@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 17:20 UTC
+## Latest list — 2026-11-05 18:21 UTC
 
-New packages created between 2026-11-05 16:22 UTC and 2026-11-05 17:20 UTC.
+New packages created between 2026-11-05 17:20 UTC and 2026-11-05 18:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T17-20-42-671862Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T18-21-49-464556Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 16:54:02 | [vibrancegui-linux](https://aur.archlinux.org/packages/vibrancegui-linux) | 0.1.0-1 | 0 | Unofficial VibranceGUI-style vkSumi color profile manager for Linux |
-| 2026-11-05 17:04:17 | [evebox-bin](https://aur.archlinux.org/packages/evebox-bin) | 0.31.0-2 | 0 | Web based Suricata EVE event viewer and alert management (static upstream binar… |
+| 2026-11-05 17:39:41 | [tequilashot-bin](https://aur.archlinux.org/packages/tequilashot-bin) | 0.3.0-1 | 0 | Tequilashot - screenshots and screen recording for Wayland |
+| 2026-11-05 17:49:08 | [quill-bin](https://aur.archlinux.org/packages/quill-bin) | 0.1.0-1 | 0 | Fast, keyboard-driven terminal email client with conversations, a unified inbox… |
+| 2026-11-05 18:09:52 | [wingdrive-nightly](https://aur.archlinux.org/packages/wingdrive-nightly) | 3.0.0-1 | 0 | WingDrive desktop file manager, every release including alpha, beta and rc |
+| 2026-11-05 18:17:44 | [termpicv-git](https://aur.archlinux.org/packages/termpicv-git) |  |  | Terminal image browser with a thumbnail grid and viewer, displayed through uebe… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-05T17:39:41Z,tequilashot-bin,0.3.0-1,0,Tequilashot - screenshots and screen recording for Wayland
+2026-11-05T17:49:08Z,quill-bin,0.1.0-1,0,"Fast, keyboard-driven terminal email client with conversations, a unified inbox and a real address book (prebuilt binary)"
+2026-11-05T18:09:52Z,wingdrive-nightly,3.0.0-1,0,"WingDrive desktop file manager, every release including alpha, beta and rc"
+2026-11-05T18:17:44Z,termpicv-git,,,"Terminal image browser with a thumbnail grid and viewer, displayed through ueberzug"
