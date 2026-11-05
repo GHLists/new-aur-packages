@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 16:22 UTC
+## Latest list — 2026-11-05 17:20 UTC
 
-New packages created between 2026-11-05 15:19 UTC and 2026-11-05 16:22 UTC.
+New packages created between 2026-11-05 16:22 UTC and 2026-11-05 17:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-05T16-22-05-314186Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-05T17-20-42-671862Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 16:01:30 | [anima-engine](https://aur.archlinux.org/packages/anima-engine) | 0.1.1-1 | 0 | Animated desktop overlays, a Workshop browser, and AI background removal. Build… |
-| 2026-11-05 16:19:33 | [sing-box-dashboard-git](https://aur.archlinux.org/packages/sing-box-dashboard-git) |  |  | Web dashboard for sing-box |
+| 2026-11-05 16:54:02 | [vibrancegui-linux](https://aur.archlinux.org/packages/vibrancegui-linux) | 0.1.0-1 | 0 | Unofficial VibranceGUI-style vkSumi color profile manager for Linux |
+| 2026-11-05 17:04:17 | [evebox-bin](https://aur.archlinux.org/packages/evebox-bin) | 0.31.0-2 | 0 | Web based Suricata EVE event viewer and alert management (static upstream binar… |
 
 ## Data source
 
