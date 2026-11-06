@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 19:21 UTC
+## Latest list — 2026-11-06 21:19 UTC
 
-New packages created between 2026-11-06 18:20 UTC and 2026-11-06 19:21 UTC.
+New packages created between 2026-11-06 20:19 UTC and 2026-11-06 21:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-06T19-21-08-947112Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-06T21-19-52-520877Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 18:32:32 | [grok-desktop](https://aur.archlinux.org/packages/grok-desktop) | 1.4.8-1 | 0 | Desktop GUI for the Grok Build coding agent |
-| 2026-11-06 18:37:33 | [hotkeys-gpd](https://aur.archlinux.org/packages/hotkeys-gpd) | 0.1.0-1 | 0 | Hotkey daemon for the GPD Pocket: backlight, volume and mute keys (evdev + ALSA… |
+| 2026-11-06 20:30:43 | [mutate-mvr-git](https://aur.archlinux.org/packages/mutate-mvr-git) | 0.1.0.r4.ge9edf0c-1 | 0 | Merge, isolate, delete and clean up MVR files |
+| 2026-11-06 20:53:35 | [aries-connect-git](https://aur.archlinux.org/packages/aries-connect-git) | v0.3.0.r13.g1ba9e15… | 0 | KDE Connect-compatible daemon exposing devices over D-Bus (no KDE/Qt dependenci… |
+| 2026-11-06 20:53:38 | [sheprd](https://aur.archlinux.org/packages/sheprd) | 20261104.1-1 | 0 | Native GPUI client for an installed Herdr daemon (formerly herdr-gpui) |
 
 ## Data source
 
