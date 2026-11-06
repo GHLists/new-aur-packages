@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-06T02:24:13Z,whop-bin,0.2.4-1,0,"Local-first terminal connection deck with SSH, sessions, and automation"
+2026-11-06T03:02:24Z,eddie-git,r104.c5be7de-1,0,The editor that watches the footage for you: a native Rust video editor with Meta's models built in
+2026-11-06T03:19:01Z,gamectl-git,,,"Sovereign TUI Game Manager & Launcher for Linux (Zero-Bloat, VCS development branch)"

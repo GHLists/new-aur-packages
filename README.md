@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 02:21 UTC
+## Latest list — 2026-11-06 03:20 UTC
 
-New packages created between 2026-11-06 01:21 UTC and 2026-11-06 02:21 UTC.
+New packages created between 2026-11-06 02:21 UTC and 2026-11-06 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-06T02-21-41-799042Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-06T03-20-59-23344Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 01:44:43 | [heatsync-chat-bin](https://aur.archlinux.org/packages/heatsync-chat-bin) | 0.3.0-1 | 0 | twitch, kick and youtube chat in one native window, with heatsync emotes (prebu… |
-| 2026-11-06 01:53:20 | [crossbow-bin](https://aur.archlinux.org/packages/crossbow-bin) | 0.13.5-1 | 0 | Proxy client for mihomo with a Tauri desktop interface |
+| 2026-11-06 02:24:13 | [whop-bin](https://aur.archlinux.org/packages/whop-bin) | 0.2.4-1 | 0 | Local-first terminal connection deck with SSH, sessions, and automation |
+| 2026-11-06 03:02:24 | [eddie-git](https://aur.archlinux.org/packages/eddie-git) | r104.c5be7de-1 | 0 | The editor that watches the footage for you: a native Rust video editor with Me… |
+| 2026-11-06 03:19:01 | [gamectl-git](https://aur.archlinux.org/packages/gamectl-git) |  |  | Sovereign TUI Game Manager & Launcher for Linux (Zero-Bloat, VCS development br… |
 
 ## Data source
 
