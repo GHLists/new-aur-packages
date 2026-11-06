@@ -12,20 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 11:19 UTC
+## Latest list — 2026-11-06 12:21 UTC
 
-New packages created between 2026-11-06 10:19 UTC and 2026-11-06 11:19 UTC.
+New packages created between 2026-11-06 11:19 UTC and 2026-11-06 12:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-06T11-19-39-280089Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-06T12-21-15-702968Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 10:22:02 | [viff-bin](https://aur.archlinux.org/packages/viff-bin) | 0.3.0-1 | 0 | A lightweight, native Git client, with a read-only project browser, an English/… |
-| 2026-11-06 10:28:14 | [meoui-qml-beta](https://aur.archlinux.org/packages/meoui-qml-beta) | 1.0.4beta3-6 | 0 | MeoUI Qt Quick Material Design 3 component library (Beta channel) |
-| 2026-11-06 10:28:29 | [meo-desktop-beta](https://aur.archlinux.org/packages/meo-desktop-beta) | 0.4.0-24 | 0 | Meo Desktop integration for MeoArch, powered by KDE Plasma (Beta channel) |
-| 2026-11-06 10:49:10 | [python-django-lts](https://aur.archlinux.org/packages/python-django-lts) | 5.2.19-2 | 0 | A high-level Python web framework, long-term support release |
-| 2026-11-06 11:01:04 | [doriface-bin](https://aur.archlinux.org/packages/doriface-bin) | 0.1.2-1 | 0 | Your devices, one terminal. Every machine you own, linked through an end-to-end… |
-| 2026-11-06 11:13:23 | [tidra](https://aur.archlinux.org/packages/tidra) | 0.1.6-1 | 0 | Keep every project you maintain up to date from one desktop app |
+| 2026-11-06 11:22:22 | [antifennel](https://aur.archlinux.org/packages/antifennel) | 0.3.2-1 | 1 | Turn Lua code into Fennel code |
+| 2026-11-06 11:23:51 | [antifennel-lua55](https://aur.archlinux.org/packages/antifennel-lua55) | 0.3.2-1 | 1 | Turn Lua code into Fennel code |
+| 2026-11-06 11:24:24 | [mkinitcpio-mercurio](https://aur.archlinux.org/packages/mkinitcpio-mercurio) | 1.0.0-1 | 0 | mkinitcpio hook that sends a notification through mercurio on each boot |
+| 2026-11-06 11:24:32 | [antifennel-lua54](https://aur.archlinux.org/packages/antifennel-lua54) | 0.3.2-1 | 1 | Turn Lua code into Fennel code |
+| 2026-11-06 11:25:16 | [antifennel-git](https://aur.archlinux.org/packages/antifennel-git) | 0.3.2.r2.g613a075-1 | 1 | Turn Lua code into Fennel code |
+| 2026-11-06 11:26:04 | [tidra-git](https://aur.archlinux.org/packages/tidra-git) | 0.1.6.r0.g606f55d-1 | 0 | Keep every project you maintain up to date from one desktop app (development) |
+| 2026-11-06 11:26:07 | [ttf-newsreader](https://aur.archlinux.org/packages/ttf-newsreader) | 2021.03.01-1 | 0 | Newsreader, a text and display serif typeface for on-screen reading by Producti… |
+| 2026-11-06 11:57:36 | [ishield-key-manager](https://aur.archlinux.org/packages/ishield-key-manager) | 1.14.1-2 | 0 | Manage Your iShield Key Devices with Ease. Use the iShield Key Manager to confi… |
 
 ## Data source
 

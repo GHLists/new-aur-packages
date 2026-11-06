@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-06T11:22:22Z,antifennel,0.3.2-1,1,Turn Lua code into Fennel code
+2026-11-06T11:23:51Z,antifennel-lua55,0.3.2-1,1,Turn Lua code into Fennel code
+2026-11-06T11:24:24Z,mkinitcpio-mercurio,1.0.0-1,0,mkinitcpio hook that sends a notification through mercurio on each boot
+2026-11-06T11:24:32Z,antifennel-lua54,0.3.2-1,1,Turn Lua code into Fennel code
+2026-11-06T11:25:16Z,antifennel-git,0.3.2.r2.g613a075-1,1,Turn Lua code into Fennel code
+2026-11-06T11:26:04Z,tidra-git,0.1.6.r0.g606f55d-1,0,Keep every project you maintain up to date from one desktop app (development)
+2026-11-06T11:26:07Z,ttf-newsreader,2021.03.01-1,0,"Newsreader, a text and display serif typeface for on-screen reading by Production Type"
+2026-11-06T11:57:36Z,ishield-key-manager,1.14.1-2,0,"Manage Your iShield Key Devices with Ease. Use the iShield Key Manager to configure WebAuthn/FIDO2, TOTP, HOTP, PIV and other functions of your iShield Key. The application supports all devices of the iShield Key series."
