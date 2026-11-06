@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 17:20 UTC
+## Latest list — 2026-11-06 19:21 UTC
 
-New packages created between 2026-11-06 16:21 UTC and 2026-11-06 17:20 UTC.
+New packages created between 2026-11-06 18:20 UTC and 2026-11-06 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-06T17-20-26-219112Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-06T19-21-08-947112Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 16:26:42 | [slinky](https://aur.archlinux.org/packages/slinky) | 0.1.0-1 | 0 | A utility for wrangling symbolic links on Unix systems |
-| 2026-11-06 16:30:33 | [slinky-bin](https://aur.archlinux.org/packages/slinky-bin) | 0.1.0-1 | 0 | A utility for wrangling symbolic links on Unix systems (prebuilt binaries) |
+| 2026-11-06 18:32:32 | [grok-desktop](https://aur.archlinux.org/packages/grok-desktop) | 1.4.8-1 | 0 | Desktop GUI for the Grok Build coding agent |
+| 2026-11-06 18:37:33 | [hotkeys-gpd](https://aur.archlinux.org/packages/hotkeys-gpd) | 0.1.0-1 | 0 | Hotkey daemon for the GPD Pocket: backlight, volume and mute keys (evdev + ALSA… |
 
 ## Data source
 
