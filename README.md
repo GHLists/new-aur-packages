@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 13:20 UTC
+## Latest list — 2026-11-06 14:19 UTC
 
-New packages created between 2026-11-06 12:21 UTC and 2026-11-06 13:20 UTC.
+New packages created between 2026-11-06 13:20 UTC and 2026-11-06 14:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-06T13-20-09-545859Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-06T14-19-31-216786Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 12:22:00 | [abcclock](https://aur.archlinux.org/packages/abcclock) | 1.4.1-1 | 0 | Qt5 hover desktop clock: analog dial, weekday, date, three city timezones and w… |
-| 2026-11-06 12:22:34 | [shotivo-bin](https://aur.archlinux.org/packages/shotivo-bin) | 1.0.0-1 | 0 | Free screenshots. Free sharing. No ads in the app. (precompiled) |
-| 2026-11-06 12:31:53 | [anarlog-bin](https://aur.archlinux.org/packages/anarlog-bin) | 1.4.34-1 | 0 | AI notepad for meetings — local-first, E2EE desktop note-taking app |
-| 2026-11-06 12:37:59 | [ljprint-git](https://aur.archlinux.org/packages/ljprint-git) | r9.f637ac6-1 | 0 | BLE CLI for LuckJingle / DingDang thermal printers (reverse-engineered protocol) |
-| 2026-11-06 12:50:42 | [skwd-drawing-model](https://aur.archlinux.org/packages/skwd-drawing-model) | 1.0.0-1 | 0 | Default Drawing model pack for Skwd Deck |
+| 2026-11-06 13:28:20 | [odyssey-ctl](https://aur.archlinux.org/packages/odyssey-ctl) | 0.1.0-1 | 0 | Control Samsung Odyssey monitors over DDC/CI: picture, game and lighting settin… |
+| 2026-11-06 13:28:25 | [odyssey-ctl-bin](https://aur.archlinux.org/packages/odyssey-ctl-bin) | 0.1.0-1 | 0 | Control Samsung Odyssey monitors over DDC/CI: picture, game and lighting settin… |
+| 2026-11-06 14:07:51 | [emuera-tty](https://aur.archlinux.org/packages/emuera-tty) | 0.1.1-1 | 0 | An Emuera (ERB engine) reimplementation in Rust for terminals |
 
 ## Data source
 

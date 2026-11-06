@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-06T13:28:20Z,odyssey-ctl,0.1.0-1,0,"Control Samsung Odyssey monitors over DDC/CI: picture, game and lighting settings, presets, CLI and GUI"
+2026-11-06T13:28:25Z,odyssey-ctl-bin,0.1.0-1,0,"Control Samsung Odyssey monitors over DDC/CI: picture, game and lighting settings, presets, CLI and GUI (prebuilt)"
+2026-11-06T14:07:51Z,emuera-tty,0.1.1-1,0,An Emuera (ERB engine) reimplementation in Rust for terminals
