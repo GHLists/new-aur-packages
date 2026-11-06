@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-06T01:44:43Z,heatsync-chat-bin,0.3.0-1,0,"twitch, kick and youtube chat in one native window, with heatsync emotes (prebuilt release)"
+2026-11-06T01:53:20Z,crossbow-bin,0.13.5-1,0,Proxy client for mihomo with a Tauri desktop interface
