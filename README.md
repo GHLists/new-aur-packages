@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 06:20 UTC
+## Latest list — 2026-11-06 07:21 UTC
 
-New packages created between 2026-11-06 05:20 UTC and 2026-11-06 06:20 UTC.
+New packages created between 2026-11-06 06:20 UTC and 2026-11-06 07:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-06T06-20-27-017952Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-06T07-21-40-261073Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 06:11:05 | [lightxdm](https://aur.archlinux.org/packages/lightxdm) | 1.0.0-1 | 0 | Start your desktop from a TTY1 login instead of a display manager, with PAM key… |
-| 2026-11-06 06:14:25 | [bypass](https://aur.archlinux.org/packages/bypass) | 0.2.0-1 | 1 | Modern terminal secrets manager compatible with KeePass vaults |
+| 2026-11-06 06:34:19 | [plein-git](https://aur.archlinux.org/packages/plein-git) | 0.10.4.r29.g0ed5702… | 0 | Start from a single idea, lay out the script, storyboard, shots and voiceover o… |
+| 2026-11-06 06:40:06 | [gplates-git](https://aur.archlinux.org/packages/gplates-git) | 2.6.0.56.291.ga46c7… | 0 | plate tectonic reconstructions |
+| 2026-11-06 06:40:12 | [lastwave-bin](https://aur.archlinux.org/packages/lastwave-bin) | 2.0.1-1 | 0 | Desktop music player: YouTube Music, lossless audio, word-synced lyrics and Las… |
+| 2026-11-06 07:09:10 | [brscan5-longpaper-fix](https://aur.archlinux.org/packages/brscan5-longpaper-fix) | 1.0.1-1 | 0 | SANE driver shim to enable long paper & receipt scanning up to 1.82m on Brother… |
 
 ## Data source
 
