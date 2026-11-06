@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-06T04:27:21Z,radioshed,1.6.1-1,0,Station-centric player for a local music library
+2026-11-06T04:36:03Z,pila-git,0.2.1.r207.g8b027d2…,0,A stacking Wayland compositor built on Smithay
+2026-11-06T04:39:47Z,roast,1.3.0-3,0,Adversarial cross-model code review
+2026-11-06T04:43:37Z,roast-git,r4.g8af0ff0-1,0,Adversarial cross-model code review
+2026-11-06T05:07:33Z,libcvec-git,r5.c2dcb09-1,1,Generic C++ vector library for C (bleeding edge)
+2026-11-06T05:10:54Z,notemark-bin,2.0.0-1,0,"A fast, local-first Markdown notes app. Notes are plain .md files."
+2026-11-06T05:11:42Z,routine-notify-bin,2.1.0-1,0,"Daily routine notification manager with scheduled reminders, AI messages and voice"
+2026-11-06T05:19:01Z,notemark-git,,,"A fast, local-first Markdown notes app. Notes are plain .md files."
