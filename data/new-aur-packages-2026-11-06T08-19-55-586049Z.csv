@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-06T07:23:03Z,uu-remote-linux-bin,0.2.53-1,0,Unofficial Linux host and viewer for NetEase UU Remote (prebuilt binary)
+2026-11-06T07:25:33Z,opendj-bin,0.5.0-1,0,"Free, open-source DJ software: decks, stems, effects and controllers"
+2026-11-06T07:35:44Z,sheprd-bin,20261104.1-1,0,Native GPUI client for an installed Herdr daemon (formerly herdr-gpui)
+2026-11-06T07:36:36Z,nexonic-download-manager-bin,0.17.0-1,0,"Free, open-source download manager: up to 32 connections per file, pause and resume, queues and a scheduler, batch download, site grabber, browser extension and videos from YouTube and 1,000+ other sites"
+2026-11-06T07:36:52Z,nexonic-download-manager-git,0.17.0.r0.g0000000-1,0,"Free, open-source download manager (latest git snapshot): up to 32 connections per file, pause and resume, queues and a scheduler, batch download, site grabber, browser extension and videos from YouTube and 1,000+ other sites"
+2026-11-06T07:42:55Z,daintree-bin,0.48.0-1,0,A review-first desktop habitat for running AI coding agents in parallel.
+2026-11-06T07:46:38Z,uuway-bin,1.5.3-1,0,UU Remote Linux host (prebuilt binary)
+2026-11-06T08:04:24Z,inkstone-git,0.14.0.r1.g1eed44f-1,0,"A lightweight desktop client for pi, with MCP and project workspaces."
+2026-11-06T08:07:25Z,python-unicode-rbnf,2.4.1-1,0,A pure Python implementation of ICU's rule-based number format engine
