@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-06T22:32:04Z,dbus-send-json,0.1.0-1,0,A modification of dbus-send to print replies in JSON
+2026-11-06T23:08:38Z,gnome-shell-extension-silver-dock-git,1.7.r52.gbecab9d-1,0,"A dock for GNOME Shell that can also hold the top bar's menu, clock and tray"
