@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 00:21 UTC
+## Latest list — 2026-11-06 01:21 UTC
 
-New packages created between 2026-11-05 23:27 UTC and 2026-11-06 00:21 UTC.
+New packages created between 2026-11-06 00:21 UTC and 2026-11-06 01:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-06T00-21-37-27528Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-06T01-21-14-421426Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 00:19:38 | [file-browser-tui](https://aur.archlinux.org/packages/file-browser-tui) |  |  | A Dolphin-like file manager for kitty |
+| 2026-11-06 00:38:23 | [midday-commander-bin](https://aur.archlinux.org/packages/midday-commander-bin) | 0.17-1 | 1 | A TUI dual-panel terminal file manager written in Go, inspired by Midnight Comm… |
 
 ## Data source
 

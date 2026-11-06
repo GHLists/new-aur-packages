@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-11-06T00:38:23Z,midday-commander-bin,0.17-1,1,"A TUI dual-panel terminal file manager written in Go, inspired by Midnight Commander."
