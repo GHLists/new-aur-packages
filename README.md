@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 03:20 UTC
+## Latest list — 2026-11-06 04:20 UTC
 
-New packages created between 2026-11-06 02:21 UTC and 2026-11-06 03:20 UTC.
+New packages created between 2026-11-06 03:20 UTC and 2026-11-06 04:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-06T03-20-59-23344Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-06T04-20-37-427334Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 02:24:13 | [whop-bin](https://aur.archlinux.org/packages/whop-bin) | 0.2.4-1 | 0 | Local-first terminal connection deck with SSH, sessions, and automation |
-| 2026-11-06 03:02:24 | [eddie-git](https://aur.archlinux.org/packages/eddie-git) | r104.c5be7de-1 | 0 | The editor that watches the footage for you: a native Rust video editor with Me… |
-| 2026-11-06 03:19:01 | [gamectl-git](https://aur.archlinux.org/packages/gamectl-git) |  |  | Sovereign TUI Game Manager & Launcher for Linux (Zero-Bloat, VCS development br… |
+| 2026-11-06 03:57:24 | [loomy-bin](https://aur.archlinux.org/packages/loomy-bin) | 0.9.39-1 | 0 | Third-party Linux client for Loomy.第三方Loomy Linux 客户端.Loomy，你的AI工作搭子。不只是听指令的助手，… |
 
 ## Data source
 
