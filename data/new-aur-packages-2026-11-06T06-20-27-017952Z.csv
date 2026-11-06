@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-06T06:11:05Z,lightxdm,1.0.0-1,0,"Start your desktop from a TTY1 login instead of a display manager, with PAM keyring unlock"
+2026-11-06T06:14:25Z,bypass,0.2.0-1,1,Modern terminal secrets manager compatible with KeePass vaults
