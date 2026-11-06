@@ -12,22 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 12:21 UTC
+## Latest list — 2026-11-06 13:20 UTC
 
-New packages created between 2026-11-06 11:19 UTC and 2026-11-06 12:21 UTC.
+New packages created between 2026-11-06 12:21 UTC and 2026-11-06 13:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-06T12-21-15-702968Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-06T13-20-09-545859Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 11:22:22 | [antifennel](https://aur.archlinux.org/packages/antifennel) | 0.3.2-1 | 1 | Turn Lua code into Fennel code |
-| 2026-11-06 11:23:51 | [antifennel-lua55](https://aur.archlinux.org/packages/antifennel-lua55) | 0.3.2-1 | 1 | Turn Lua code into Fennel code |
-| 2026-11-06 11:24:24 | [mkinitcpio-mercurio](https://aur.archlinux.org/packages/mkinitcpio-mercurio) | 1.0.0-1 | 0 | mkinitcpio hook that sends a notification through mercurio on each boot |
-| 2026-11-06 11:24:32 | [antifennel-lua54](https://aur.archlinux.org/packages/antifennel-lua54) | 0.3.2-1 | 1 | Turn Lua code into Fennel code |
-| 2026-11-06 11:25:16 | [antifennel-git](https://aur.archlinux.org/packages/antifennel-git) | 0.3.2.r2.g613a075-1 | 1 | Turn Lua code into Fennel code |
-| 2026-11-06 11:26:04 | [tidra-git](https://aur.archlinux.org/packages/tidra-git) | 0.1.6.r0.g606f55d-1 | 0 | Keep every project you maintain up to date from one desktop app (development) |
-| 2026-11-06 11:26:07 | [ttf-newsreader](https://aur.archlinux.org/packages/ttf-newsreader) | 2021.03.01-1 | 0 | Newsreader, a text and display serif typeface for on-screen reading by Producti… |
-| 2026-11-06 11:57:36 | [ishield-key-manager](https://aur.archlinux.org/packages/ishield-key-manager) | 1.14.1-2 | 0 | Manage Your iShield Key Devices with Ease. Use the iShield Key Manager to confi… |
+| 2026-11-06 12:22:00 | [abcclock](https://aur.archlinux.org/packages/abcclock) | 1.4.1-1 | 0 | Qt5 hover desktop clock: analog dial, weekday, date, three city timezones and w… |
+| 2026-11-06 12:22:34 | [shotivo-bin](https://aur.archlinux.org/packages/shotivo-bin) | 1.0.0-1 | 0 | Free screenshots. Free sharing. No ads in the app. (precompiled) |
+| 2026-11-06 12:31:53 | [anarlog-bin](https://aur.archlinux.org/packages/anarlog-bin) | 1.4.34-1 | 0 | AI notepad for meetings — local-first, E2EE desktop note-taking app |
+| 2026-11-06 12:37:59 | [ljprint-git](https://aur.archlinux.org/packages/ljprint-git) | r9.f637ac6-1 | 0 | BLE CLI for LuckJingle / DingDang thermal printers (reverse-engineered protocol) |
+| 2026-11-06 12:50:42 | [skwd-drawing-model](https://aur.archlinux.org/packages/skwd-drawing-model) | 1.0.0-1 | 0 | Default Drawing model pack for Skwd Deck |
 
 ## Data source
 
