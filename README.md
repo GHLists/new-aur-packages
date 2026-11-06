@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 21:19 UTC
+## Latest list — 2026-11-06 22:21 UTC
 
-New packages created between 2026-11-06 20:19 UTC and 2026-11-06 21:19 UTC.
+New packages created between 2026-11-06 21:19 UTC and 2026-11-06 22:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-06T21-19-52-520877Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-06T22-21-50-424558Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 20:30:43 | [mutate-mvr-git](https://aur.archlinux.org/packages/mutate-mvr-git) | 0.1.0.r4.ge9edf0c-1 | 0 | Merge, isolate, delete and clean up MVR files |
-| 2026-11-06 20:53:35 | [aries-connect-git](https://aur.archlinux.org/packages/aries-connect-git) | v0.3.0.r13.g1ba9e15… | 0 | KDE Connect-compatible daemon exposing devices over D-Bus (no KDE/Qt dependenci… |
-| 2026-11-06 20:53:38 | [sheprd](https://aur.archlinux.org/packages/sheprd) | 20261104.1-1 | 0 | Native GPUI client for an installed Herdr daemon (formerly herdr-gpui) |
+| 2026-11-06 21:20:28 | [capri-desktop-bin](https://aur.archlinux.org/packages/capri-desktop-bin) | 0.8.4-1 | 0 | Unofficial Capri desktop companion: she sits on your windows, chats and does th… |
+| 2026-11-06 21:25:26 | [mindustry-sdl3-bin](https://aur.archlinux.org/packages/mindustry-sdl3-bin) | 160.6-1 | 0 | SDL3 backend version of Mindustry. |
+| 2026-11-06 21:49:09 | [herdr-core](https://aur.archlinux.org/packages/herdr-core) | 0.1.18-1 | 0 | Run programs and coding agents in terminals that stay alive after you leave |
+| 2026-11-06 22:17:00 | [openrig-bin](https://aur.archlinux.org/packages/openrig-bin) | 0.11.0-1 | 0 | Open-source guitar multi-effects pedalboard: NAM, LV2 and impulse responses |
 
 ## Data source
 

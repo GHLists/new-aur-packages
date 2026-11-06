@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-06T21:20:28Z,capri-desktop-bin,0.8.4-1,0,"Unofficial Capri desktop companion: she sits on your windows, chats and does things for you (upstream binary)"
+2026-11-06T21:25:26Z,mindustry-sdl3-bin,160.6-1,0,SDL3 backend version of Mindustry.
+2026-11-06T21:49:09Z,herdr-core,0.1.18-1,0,Run programs and coding agents in terminals that stay alive after you leave
+2026-11-06T22:17:00Z,openrig-bin,0.11.0-1,0,"Open-source guitar multi-effects pedalboard: NAM, LV2 and impulse responses"
