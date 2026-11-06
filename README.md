@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 09:21 UTC
+## Latest list — 2026-11-06 10:19 UTC
 
-New packages created between 2026-11-06 08:19 UTC and 2026-11-06 09:21 UTC.
+New packages created between 2026-11-06 09:21 UTC and 2026-11-06 10:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-06T09-21-29-282575Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-06T10-19-06-09028Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 08:41:17 | [paperwing-git](https://aur.archlinux.org/packages/paperwing-git) | 1.2.4.r5.g1b3f52f-1 | 0 | The free, open-source desktop alternative to Adobe Acrobat. Built on BentoPDF. |
-| 2026-11-06 09:03:12 | [fabulous-git](https://aur.archlinux.org/packages/fabulous-git) | 3.12.3.r0.ge563623-1 | 0 | A WYSIWYG notebook with an exciting paper and literature management system. |
+| 2026-11-06 09:53:15 | [k582-control](https://aur.archlinux.org/packages/k582-control) | 0.1.0-1 | 0 | RGB lighting, per-key colours, remaps and macros for the Redragon K582 keyboard |
+| 2026-11-06 09:57:37 | [profer-git](https://aur.archlinux.org/packages/profer-git) | 0.16.22.r1.g424a9df… | 0 | General AI Agent desktop application based on Claude Agent SDK and Pi runtime:… |
 
 ## Data source
 

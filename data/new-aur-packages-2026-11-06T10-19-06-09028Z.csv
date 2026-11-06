@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-06T09:53:15Z,k582-control,0.1.0-1,0,"RGB lighting, per-key colours, remaps and macros for the Redragon K582 keyboard"
+2026-11-06T09:57:37Z,profer-git,0.16.22.r1.g424a9df…,0,"General AI Agent desktop application based on Claude Agent SDK and Pi runtime: multi-model access, collaborative sub-agent, timed task automation, tablet remote access, and team workspace."
