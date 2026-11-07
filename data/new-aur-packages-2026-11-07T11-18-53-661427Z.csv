@@ -1,0 +1,48 @@
+created_at,package,version,votes,description
+2026-11-07T10:40:40Z,synaptix-bin,0.2.0-1,0,"synaptix neural-network service: language models, speech, images and video for all apps — on NVIDIA GPU, Intel NPU or CPU"
+2026-11-07T10:40:48Z,synaptix-git,0.2.0.r0-1,0,"synaptix neural-network service: language models, speech, images and video for all apps — on NVIDIA GPU, Intel NPU or CPU"
+2026-11-07T10:40:57Z,syn-audio-player-bin,0.2.0-1,0,synshell music player
+2026-11-07T10:41:06Z,syn-audio-player-git,0.2.0.r0-1,0,synshell music player
+2026-11-07T10:41:15Z,syn-audio-recorder-bin,0.2.0-1,0,synshell voice recorder
+2026-11-07T10:41:25Z,syn-audio-recorder-git,0.2.0.r0-1,0,synshell voice recorder
+2026-11-07T10:41:34Z,syn-blocks-bin,0.2.0-1,0,synshell puzzle game with blocks
+2026-11-07T10:41:43Z,syn-blocks-git,0.2.0.r0-1,0,synshell puzzle game with blocks
+2026-11-07T10:41:51Z,syncamera-bin,0.2.0-1,0,"synshell camera: photos, video, night mode"
+2026-11-07T10:42:01Z,syncamera-git,0.2.0.r0-1,0,"synshell camera: photos, video, night mode"
+2026-11-07T10:42:11Z,syndroid-bin,0.2.0-1,0,synshell Android container: run Android apps on the desktop
+2026-11-07T10:42:20Z,syndroid-git,0.2.0.r0-1,0,synshell Android container: run Android apps on the desktop
+2026-11-07T10:42:29Z,syn-maps-bin,0.2.0-1,0,synshell maps
+2026-11-07T10:42:38Z,syn-maps-git,0.2.0.r0-1,0,synshell maps
+2026-11-07T10:42:49Z,syn-notes-bin,0.2.0-1,0,"synshell Notes: canvas pages, kanban, Gantt, mind maps, calendar, reminders"
+2026-11-07T10:42:57Z,syn-notes-git,0.2.0.r0-1,0,"synshell Notes: canvas pages, kanban, Gantt, mind maps, calendar, reminders"
+2026-11-07T10:43:07Z,synpass-bin,0.2.0-1,0,synshell password manager
+2026-11-07T10:43:16Z,synpass-git,0.2.0.r0-1,0,synshell password manager
+2026-11-07T10:43:25Z,syn-quitsmoke-bin,0.2.0-1,0,"QuitSmoke: quit smoking or vaping tracker — milestones, health recovery, savings"
+2026-11-07T10:43:34Z,syn-quitsmoke-git,0.2.0.r0-1,0,"QuitSmoke: quit smoking or vaping tracker — milestones, health recovery, savings"
+2026-11-07T10:43:43Z,syn-remote-bin,0.2.0-1,0,synshell remote control: IR blaster and smart TVs
+2026-11-07T10:43:51Z,syn-remote-git,0.2.0.r0-1,0,synshell remote control: IR blaster and smart TVs
+2026-11-07T10:44:00Z,synshell-ai-bin,0.2.0-1,0,"synshell: assistant — chats, voice mode, tools (needs the synaptix service)"
+2026-11-07T10:44:09Z,synshell-ai-git,0.2.0.r0-1,0,"synshell: assistant — chats, voice mode, tools (needs the synaptix service)"
+2026-11-07T10:44:18Z,synshell-bin,0.2.0-1,0,synshell desktop environment: core and applications (without the neural-network service)
+2026-11-07T10:44:26Z,synshell-core-bin,0.2.0-1,0,"synshell: synwm compositor, shell, login screen, on-screen keyboard, screenshots and screen sharing, settings, file manager, terminal, software center"
+2026-11-07T10:44:36Z,synshell-core-git,0.2.0.r0-1,0,"synshell: synwm compositor, shell, login screen, on-screen keyboard, screenshots and screen sharing, settings, file manager, terminal, software center"
+2026-11-07T10:44:46Z,synshell-game-bin,0.2.0-1,0,synshell: game mode (full-screen gamepad shell) and on-screen controller
+2026-11-07T10:44:55Z,synshell-game-git,0.2.0.r0-1,0,synshell: game mode (full-screen gamepad shell) and on-screen controller
+2026-11-07T10:45:05Z,synshell-git,0.2.0.r0-1,0,synshell desktop environment: core and applications (without the neural-network service)
+2026-11-07T10:45:14Z,synshell-link-bin,0.2.0-1,0,"synshell: computer and phone link — screen, input, files, notifications (synlink)"
+2026-11-07T10:45:23Z,synshell-link-git,0.2.0.r0-1,0,"synshell: computer and phone link — screen, input, files, notifications (synlink)"
+2026-11-07T10:45:33Z,synshell-mobile-bin,0.2.0-1,0,"synshell for phones: mobile shell, modem (calls, SMS, data), NFC, compass, step counter"
+2026-11-07T10:45:42Z,synshell-mobile-git,0.2.0.r0-1,0,"synshell for phones: mobile shell, modem (calls, SMS, data), NFC, compass, step counter"
+2026-11-07T10:45:51Z,syn-systeminfo-bin,0.2.0-1,0,"synshell system monitor: processes, CPU, GPU, memory, disks, network"
+2026-11-07T10:45:59Z,syn-systeminfo-git,0.2.0.r0-1,0,"synshell system monitor: processes, CPU, GPU, memory, disks, network"
+2026-11-07T10:46:08Z,syn-themeeditor-bin,0.2.0-1,0,synshell theme editor with live preview
+2026-11-07T10:46:17Z,syn-themeeditor-git,0.2.0.r0-1,0,synshell theme editor with live preview
+2026-11-07T10:46:25Z,syn-video-player-bin,0.2.0-1,0,"synshell video player: hardware decoding, subtitles, neural upscaling and frame interpolation"
+2026-11-07T10:46:35Z,syn-video-player-git,0.2.0.r0-1,0,"synshell video player: hardware decoding, subtitles, neural upscaling and frame interpolation"
+2026-11-07T10:46:44Z,syn-vm-bin,0.2.0-1,0,"synshell virtual machines on QEMU/KVM: wizard, built-in display, snapshots, USB and PCI passthrough, guest agent, CLI and MCP"
+2026-11-07T10:46:52Z,syn-vm-git,0.2.0.r0-1,0,"synshell virtual machines on QEMU/KVM: wizard, built-in display, snapshots, USB and PCI passthrough, guest agent, CLI and MCP"
+2026-11-07T10:47:01Z,syn-wine-helper-bin,0.2.0-1,0,synshell Wine helper: run Windows games and programs
+2026-11-07T10:47:11Z,syn-wine-helper-git,0.2.0.r0-1,0,synshell Wine helper: run Windows games and programs
+2026-11-07T10:47:19Z,syn-woman-cycle-bin,0.2.0-1,0,"synshell cycle tracker: periods, ovulation, symptoms — data stays on the device"
+2026-11-07T10:47:29Z,syn-woman-cycle-git,0.2.0.r0-1,0,"synshell cycle tracker: periods, ovulation, symptoms — data stays on the device"
+2026-11-07T11:00:25Z,sjnmusic-gui-git,0.1.0-1,0,EGUI client for the sjnmusic music library daemon
