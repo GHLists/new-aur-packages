@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 18:20 UTC
+## Latest list — 2026-11-07 20:20 UTC
 
-New packages created between 2026-11-07 17:19 UTC and 2026-11-07 18:20 UTC.
+New packages created between 2026-11-07 19:20 UTC and 2026-11-07 20:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-07T18-20-35-150898Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-07T20-20-13-163519Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-07 17:28:52 | [epicgames-proton](https://aur.archlinux.org/packages/epicgames-proton) | 0.1.0-1 | 0 | Run Epic Games Launcher with GE-Proton, with an update dialog, health check and… |
-| 2026-11-07 17:51:28 | [bbdown](https://aur.archlinux.org/packages/bbdown) | 1.7.8-1 | 0 | 一款命令行式哔哩哔哩下载器 |
-| 2026-11-07 17:54:27 | [gog-galaxy-proton](https://aur.archlinux.org/packages/gog-galaxy-proton) | 0.1.0-1 | 0 | Run GOG Galaxy with GE-Proton, with an update dialog, health check and rollback |
-| 2026-11-07 18:15:49 | [z13-backlight-quirk-dkms](https://aur.archlinux.org/packages/z13-backlight-quirk-dkms) | 1.0.0-1 | 0 | Lower minimum screen brightness for the 2025 ASUS ROG Flow Z13 (GZ302) via a DR… |
+| 2026-11-07 19:27:47 | [agent-sessions-bin](https://aur.archlinux.org/packages/agent-sessions-bin) | 1.3.2-1 | 0 | Desktop GUI to browse and manage agentic coding sessions (Claude Code, Codex CL… |
+| 2026-11-07 20:12:11 | [project-reclaimer-bin](https://aur.archlinux.org/packages/project-reclaimer-bin) | 0.10.0-1 | 0 | A rewrite of Bungie's Halo Games, including CE, 2, 3, and ODST. |
 
 ## Data source
 
