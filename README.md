@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 01:20 UTC
+## Latest list — 2026-11-07 02:20 UTC
 
-New packages created between 2026-11-07 00:19 UTC and 2026-11-07 01:20 UTC.
+New packages created between 2026-11-07 01:20 UTC and 2026-11-07 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-07T01-20-32-497479Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-07T02-20-38-601634Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-07 00:23:21 | [snout-desktop-bin](https://aur.archlinux.org/packages/snout-desktop-bin) | 0.3.0-1 | 0 | Native desktop workbench for Rime input method schemes, models, and themes |
-| 2026-11-07 00:35:21 | [rgx-search-znver4-bin](https://aur.archlinux.org/packages/rgx-search-znver4-bin) | 0.1.10-1 | 0 | Ripgrep-compatible search inside PDFs, Office documents, archives, 3D models, L… |
-| 2026-11-07 00:59:57 | [eddie](https://aur.archlinux.org/packages/eddie) | 0.1.0-1 | 0 | The editor that watches the footage for you: a native Rust video editor with Me… |
+| 2026-11-07 01:50:59 | [nmrs-bin](https://aur.archlinux.org/packages/nmrs-bin) | 2.1.0-1 | 0 | NetworkManager client built on nmrs and gpui (prebuilt binary) |
+| 2026-11-07 02:13:04 | [cloudlogin-bin](https://aur.archlinux.org/packages/cloudlogin-bin) | 1.0.2-1 | 0 | Cloud.ru authentication helper for Evolution Managed Kubernetes |
 
 ## Data source
 
