@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 04:21 UTC
+## Latest list — 2026-11-07 05:21 UTC
 
-New packages created between 2026-11-07 03:20 UTC and 2026-11-07 04:21 UTC.
+New packages created between 2026-11-07 04:21 UTC and 2026-11-07 05:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-07T04-21-46-310022Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-07T05-21-18-651169Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-07 03:22:48 | [quaver-music-beta-appimage](https://aur.archlinux.org/packages/quaver-music-beta-appimage) | 2.0.0_beta.0-1 | 0 | Third-party QQ Music client built with Electron (beta AppImage) |
-| 2026-11-07 03:37:43 | [evo-cli-bin](https://aur.archlinux.org/packages/evo-cli-bin) | 1.7.2-3 | 0 | CLI and MCP server for Cloud.ru Evolution |
+| 2026-11-07 04:43:04 | [playvortex-appimage](https://aur.archlinux.org/packages/playvortex-appimage) | 0.9.6-1 | 0 | Play and create games on Vortex (playvortex.io; AppImage, self-updating) |
+| 2026-11-07 04:49:42 | [gusco-bin](https://aur.archlinux.org/packages/gusco-bin) | 1.9.3-1 | 1 | An opinionated, orthodox file manager distilled from Commanders past, written i… |
 
 ## Data source
 
