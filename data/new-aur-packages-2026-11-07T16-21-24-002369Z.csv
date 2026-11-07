@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-07T15:25:37Z,technitium-console-git,1.4.0.r1.g27dd0bf-1,0,Modern admin console for Technitium DNS Server (built from git)
+2026-11-07T15:30:56Z,acom2000-git,r24.457dcd6-1,0,Remote control software for ACOM 2000A linear amplifier.
+2026-11-07T15:32:26Z,paperdoll-renderer-bin,0.1.2-1,0,Paperdoll Renderer: sprite/paperdoll renders from glTF/FBX bodies with a live preview (prebuilt binary)
+2026-11-07T15:39:03Z,larpercord-bin,0.6.1-1,0,"Native Discord client in Zig, with SDL3 and Dear ImGui"
+2026-11-07T15:40:18Z,mediasync,0.2.0-1,0,Universal media session bridge: local MPRIS players and Jellyfin sessions behind one local API
+2026-11-07T16:06:46Z,pixpin-linux-git,r20.eb501e5-1,0,"Smart Screenshot, Pin and Offline OCR tool for Linux (PixPin port, niri/wlroots variant)"
+2026-11-07T16:06:49Z,strm,1-1,0,A command-line interface for strumati
+2026-11-07T16:17:26Z,bypass-bin,0.2.1-1,1,Modern terminal secrets manager compatible with KeePass vaults

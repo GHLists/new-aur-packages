@@ -12,27 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 15:20 UTC
+## Latest list — 2026-11-07 16:21 UTC
 
-New packages created between 2026-11-07 14:20 UTC and 2026-11-07 15:20 UTC.
+New packages created between 2026-11-07 15:20 UTC and 2026-11-07 16:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-07T15-20-51-443849Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-07T16-21-24-002369Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-07 14:20:38 | [technitium-console-bin](https://aur.archlinux.org/packages/technitium-console-bin) | 1.4.0-1 | 0 | Modern admin console for Technitium DNS Server (prebuilt release bundle) |
-| 2026-11-07 14:25:07 | [nib-pdf-git](https://aur.archlinux.org/packages/nib-pdf-git) | 2.50.4.r0.g0000000-1 | 0 | Complete PDF toolkit that runs entirely on your own machine (fill, OCR, redact,… |
-| 2026-11-07 14:44:30 | [steamrip-desktop-bin](https://aur.archlinux.org/packages/steamrip-desktop-bin) | 2026.11.7-1 | 0 | Tray app that keeps a steamrip.com game library synced, installed, launched (Pr… |
-| 2026-11-07 14:47:25 | [ropy-bin](https://aur.archlinux.org/packages/ropy-bin) | 0.6.2-1 | 0 | A clipboard manager built with Rust and GPUI (prebuilt binary) |
-| 2026-11-07 14:48:11 | [dux-qt-base-git](https://aur.archlinux.org/packages/dux-qt-base-git) | 0.3.2.r913.g032cf5e… | 0 | Quickshell QML runtime as a shared library with a C entry point (git) |
-| 2026-11-07 14:50:51 | [swiftsim](https://aur.archlinux.org/packages/swiftsim) | 0.1.0-1 | 0 | Fast SPICE circuit simulator with a schematic editor and waveform viewer (LTspi… |
-| 2026-11-07 14:50:57 | [swiftsim-bin](https://aur.archlinux.org/packages/swiftsim-bin) | 0.1.0-1 | 0 | Fast SPICE circuit simulator with a schematic editor and waveform viewer (LTspi… |
-| 2026-11-07 14:51:03 | [swiftsim-git](https://aur.archlinux.org/packages/swiftsim-git) | 0.1.0.r0.g03d490e-1 | 0 | Fast SPICE circuit simulator with a schematic editor and waveform viewer (LTspi… |
-| 2026-11-07 14:51:55 | [dux-qt-base](https://aur.archlinux.org/packages/dux-qt-base) | 0.3.2-1 | 0 | Quickshell QML runtime as a shared library with a C entry point |
-| 2026-11-07 15:02:17 | [geany-snippets](https://aur.archlinux.org/packages/geany-snippets) | 1-6 | 0 | Snippets for Geany |
-| 2026-11-07 15:12:53 | [battlenet-proton](https://aur.archlinux.org/packages/battlenet-proton) | 0.2.0-1 | 0 | Run Battle.net with GE-Proton, with an update dialog, health check and rollback |
-| 2026-11-07 15:12:54 | [my-app-time](https://aur.archlinux.org/packages/my-app-time) | 1.0.0-1 | 0 | Your app usage time tracker |
-| 2026-11-07 15:13:28 | [dux-qt-base-bin](https://aur.archlinux.org/packages/dux-qt-base-bin) | 0.3.2-1 | 0 | Quickshell QML runtime as a shared library with a C entry point (prebuilt) |
+| 2026-11-07 15:25:37 | [technitium-console-git](https://aur.archlinux.org/packages/technitium-console-git) | 1.4.0.r1.g27dd0bf-1 | 0 | Modern admin console for Technitium DNS Server (built from git) |
+| 2026-11-07 15:30:56 | [acom2000-git](https://aur.archlinux.org/packages/acom2000-git) | r24.457dcd6-1 | 0 | Remote control software for ACOM 2000A linear amplifier. |
+| 2026-11-07 15:32:26 | [paperdoll-renderer-bin](https://aur.archlinux.org/packages/paperdoll-renderer-bin) | 0.1.2-1 | 0 | Paperdoll Renderer: sprite/paperdoll renders from glTF/FBX bodies with a live p… |
+| 2026-11-07 15:39:03 | [larpercord-bin](https://aur.archlinux.org/packages/larpercord-bin) | 0.6.1-1 | 0 | Native Discord client in Zig, with SDL3 and Dear ImGui |
+| 2026-11-07 15:40:18 | [mediasync](https://aur.archlinux.org/packages/mediasync) | 0.2.0-1 | 0 | Universal media session bridge: local MPRIS players and Jellyfin sessions behin… |
+| 2026-11-07 16:06:46 | [pixpin-linux-git](https://aur.archlinux.org/packages/pixpin-linux-git) | r20.eb501e5-1 | 0 | Smart Screenshot, Pin and Offline OCR tool for Linux (PixPin port, niri/wlroots… |
+| 2026-11-07 16:06:49 | [strm](https://aur.archlinux.org/packages/strm) | 1-1 | 0 | A command-line interface for strumati |
+| 2026-11-07 16:17:26 | [bypass-bin](https://aur.archlinux.org/packages/bypass-bin) | 0.2.1-1 | 1 | Modern terminal secrets manager compatible with KeePass vaults |
 
 ## Data source
 
