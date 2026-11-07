@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-07T21:56:46Z,switchworks,0.1.7-1,0,"Control plane for coding agents across your machines (swk, tray icon, systemd units)"
+2026-11-07T21:57:12Z,switchworks-bin,0.1.7-1,0,"Control plane for coding agents across your machines (swk, tray icon, systemd units) (Pre-compiled Binary)"
+2026-11-07T21:57:36Z,switchworks-git,0.1.7.r2.g9962d21-1,0,"Control plane for coding agents across your machines (swk, tray icon, systemd units) (Git version)"
+2026-11-07T21:58:06Z,crossdock,0.2.0-1,0,"Publish packages as signed apt, pacman, RPM and GooGet repositories (with server and systemd units)"
