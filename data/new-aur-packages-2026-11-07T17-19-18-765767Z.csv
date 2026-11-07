@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-07T16:51:40Z,tuck,0.1.4-1,1,"Fast, friendly file manager"
+2026-11-07T16:56:40Z,plasma-minimal-osd,1.0.0-1,0,"A clean, minimal, and bottom-aligned OSD replacement for KDE Plasma 6"
+2026-11-07T16:56:46Z,plasma-nm-networkd,6.8.2-1,0,"Plasma applet and System Settings module powered by systemd-networkd & NetworkManager, drop-in replacement for plasma-nm"
+2026-11-07T17:01:09Z,slack-desktop-wayland,4.49.89-1,0,Slack Desktop (Beta) for Linux with Wayland Support

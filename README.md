@@ -12,22 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 16:21 UTC
+## Latest list — 2026-11-07 17:19 UTC
 
-New packages created between 2026-11-07 15:20 UTC and 2026-11-07 16:21 UTC.
+New packages created between 2026-11-07 16:21 UTC and 2026-11-07 17:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-07T16-21-24-002369Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-07T17-19-18-765767Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-07 15:25:37 | [technitium-console-git](https://aur.archlinux.org/packages/technitium-console-git) | 1.4.0.r1.g27dd0bf-1 | 0 | Modern admin console for Technitium DNS Server (built from git) |
-| 2026-11-07 15:30:56 | [acom2000-git](https://aur.archlinux.org/packages/acom2000-git) | r24.457dcd6-1 | 0 | Remote control software for ACOM 2000A linear amplifier. |
-| 2026-11-07 15:32:26 | [paperdoll-renderer-bin](https://aur.archlinux.org/packages/paperdoll-renderer-bin) | 0.1.2-1 | 0 | Paperdoll Renderer: sprite/paperdoll renders from glTF/FBX bodies with a live p… |
-| 2026-11-07 15:39:03 | [larpercord-bin](https://aur.archlinux.org/packages/larpercord-bin) | 0.6.1-1 | 0 | Native Discord client in Zig, with SDL3 and Dear ImGui |
-| 2026-11-07 15:40:18 | [mediasync](https://aur.archlinux.org/packages/mediasync) | 0.2.0-1 | 0 | Universal media session bridge: local MPRIS players and Jellyfin sessions behin… |
-| 2026-11-07 16:06:46 | [pixpin-linux-git](https://aur.archlinux.org/packages/pixpin-linux-git) | r20.eb501e5-1 | 0 | Smart Screenshot, Pin and Offline OCR tool for Linux (PixPin port, niri/wlroots… |
-| 2026-11-07 16:06:49 | [strm](https://aur.archlinux.org/packages/strm) | 1-1 | 0 | A command-line interface for strumati |
-| 2026-11-07 16:17:26 | [bypass-bin](https://aur.archlinux.org/packages/bypass-bin) | 0.2.1-1 | 1 | Modern terminal secrets manager compatible with KeePass vaults |
+| 2026-11-07 16:51:40 | [tuck](https://aur.archlinux.org/packages/tuck) | 0.1.4-1 | 1 | Fast, friendly file manager |
+| 2026-11-07 16:56:40 | [plasma-minimal-osd](https://aur.archlinux.org/packages/plasma-minimal-osd) | 1.0.0-1 | 0 | A clean, minimal, and bottom-aligned OSD replacement for KDE Plasma 6 |
+| 2026-11-07 16:56:46 | [plasma-nm-networkd](https://aur.archlinux.org/packages/plasma-nm-networkd) | 6.8.2-1 | 0 | Plasma applet and System Settings module powered by systemd-networkd & NetworkM… |
+| 2026-11-07 17:01:09 | [slack-desktop-wayland](https://aur.archlinux.org/packages/slack-desktop-wayland) | 4.49.89-1 | 0 | Slack Desktop (Beta) for Linux with Wayland Support |
 
 ## Data source
 
