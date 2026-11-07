@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 17:19 UTC
+## Latest list — 2026-11-07 18:20 UTC
 
-New packages created between 2026-11-07 16:21 UTC and 2026-11-07 17:19 UTC.
+New packages created between 2026-11-07 17:19 UTC and 2026-11-07 18:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-07T17-19-18-765767Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-07T18-20-35-150898Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-07 16:51:40 | [tuck](https://aur.archlinux.org/packages/tuck) | 0.1.4-1 | 1 | Fast, friendly file manager |
-| 2026-11-07 16:56:40 | [plasma-minimal-osd](https://aur.archlinux.org/packages/plasma-minimal-osd) | 1.0.0-1 | 0 | A clean, minimal, and bottom-aligned OSD replacement for KDE Plasma 6 |
-| 2026-11-07 16:56:46 | [plasma-nm-networkd](https://aur.archlinux.org/packages/plasma-nm-networkd) | 6.8.2-1 | 0 | Plasma applet and System Settings module powered by systemd-networkd & NetworkM… |
-| 2026-11-07 17:01:09 | [slack-desktop-wayland](https://aur.archlinux.org/packages/slack-desktop-wayland) | 4.49.89-1 | 0 | Slack Desktop (Beta) for Linux with Wayland Support |
+| 2026-11-07 17:28:52 | [epicgames-proton](https://aur.archlinux.org/packages/epicgames-proton) | 0.1.0-1 | 0 | Run Epic Games Launcher with GE-Proton, with an update dialog, health check and… |
+| 2026-11-07 17:51:28 | [bbdown](https://aur.archlinux.org/packages/bbdown) | 1.7.8-1 | 0 | 一款命令行式哔哩哔哩下载器 |
+| 2026-11-07 17:54:27 | [gog-galaxy-proton](https://aur.archlinux.org/packages/gog-galaxy-proton) | 0.1.0-1 | 0 | Run GOG Galaxy with GE-Proton, with an update dialog, health check and rollback |
+| 2026-11-07 18:15:49 | [z13-backlight-quirk-dkms](https://aur.archlinux.org/packages/z13-backlight-quirk-dkms) | 1.0.0-1 | 0 | Lower minimum screen brightness for the 2025 ASUS ROG Flow Z13 (GZ302) via a DR… |
 
 ## Data source
 

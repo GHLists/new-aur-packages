@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-07T17:28:52Z,epicgames-proton,0.1.0-1,0,"Run Epic Games Launcher with GE-Proton, with an update dialog, health check and rollback"
+2026-11-07T17:51:28Z,bbdown,1.7.8-1,0,一款命令行式哔哩哔哩下载器
+2026-11-07T17:54:27Z,gog-galaxy-proton,0.1.0-1,0,"Run GOG Galaxy with GE-Proton, with an update dialog, health check and rollback"
+2026-11-07T18:15:49Z,z13-backlight-quirk-dkms,1.0.0-1,0,Lower minimum screen brightness for the 2025 ASUS ROG Flow Z13 (GZ302) via a DRM panel backlight quirk (DKMS)
