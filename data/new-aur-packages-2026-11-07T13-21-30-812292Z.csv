@@ -1,0 +1,12 @@
+created_at,package,version,votes,description
+2026-11-07T12:21:52Z,basctl,0.0.1-1,0,Control-plane CLI and agent for Beangle Bas Server
+2026-11-07T12:32:44Z,thinwire-nightly-bin,0.1.0.r277.g0c07a9c…,0,Thin multi-protocol desktop messenger (nightly build of main)
+2026-11-07T12:37:21Z,xdg-desktop-portal-tui,0.1.0-1,0,An xdg-desktop-portal file chooser: file-browser-tui in kitty as the Open and Save dialog
+2026-11-07T12:40:07Z,aurbreak-bin,0.1.1-1,0,"A fast, offline-first desktop browser for the Arch User Repository (AUR)"
+2026-11-07T12:41:21Z,libghostty-vt,1.0.0-1,0,"portable, high-performance C library for terminal emulation"
+2026-11-07T12:59:58Z,backtrack,0.1.0-1,0,"Browse your files as they were: backups you can step back through, built on Borg"
+2026-11-07T12:59:58Z,backtrack-nautilus,0.1.0-1,0,"Restore Previous Version in GNOME Files, for Backtrack"
+2026-11-07T12:59:58Z,backtrack-dolphin,0.1.0-1,0,"Restore Previous Version in Dolphin, for Backtrack"
+2026-11-07T13:02:54Z,bashub,0.0.8-1,0,Beangle BAS console server
+2026-11-07T13:11:20Z,neon-lasertag,0.2.0-1,0,"Red vs Blue lasertag in procedurally generated neon arenas, in VR or on the flat screen"
+2026-11-07T13:11:20Z,neon-lasertag-server,0.2.0-1,0,Dedicated server for Neon Lasertag
