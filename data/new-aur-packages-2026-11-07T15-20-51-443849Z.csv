@@ -1,0 +1,14 @@
+created_at,package,version,votes,description
+2026-11-07T14:20:38Z,technitium-console-bin,1.4.0-1,0,Modern admin console for Technitium DNS Server (prebuilt release bundle)
+2026-11-07T14:25:07Z,nib-pdf-git,2.50.4.r0.g0000000-1,0,"Complete PDF toolkit that runs entirely on your own machine (fill, OCR, redact, compare, sign, PDF/A) — git snapshot"
+2026-11-07T14:44:30Z,steamrip-desktop-bin,2026.11.7-1,0,"Tray app that keeps a steamrip.com game library synced, installed, launched (Proton via umu) and updated"
+2026-11-07T14:47:25Z,ropy-bin,0.6.2-1,0,A clipboard manager built with Rust and GPUI (prebuilt binary)
+2026-11-07T14:48:11Z,dux-qt-base-git,0.3.2.r913.g032cf5e…,0,Quickshell QML runtime as a shared library with a C entry point (git)
+2026-11-07T14:50:51Z,swiftsim,0.1.0-1,0,Fast SPICE circuit simulator with a schematic editor and waveform viewer (LTspice alternative)
+2026-11-07T14:50:57Z,swiftsim-bin,0.1.0-1,0,Fast SPICE circuit simulator with a schematic editor and waveform viewer (LTspice alternative; prebuilt)
+2026-11-07T14:51:03Z,swiftsim-git,0.1.0.r0.g03d490e-1,0,Fast SPICE circuit simulator with a schematic editor and waveform viewer (LTspice alternative; development version)
+2026-11-07T14:51:55Z,dux-qt-base,0.3.2-1,0,Quickshell QML runtime as a shared library with a C entry point
+2026-11-07T15:02:17Z,geany-snippets,1-6,0,Snippets for Geany
+2026-11-07T15:12:53Z,battlenet-proton,0.2.0-1,0,"Run Battle.net with GE-Proton, with an update dialog, health check and rollback"
+2026-11-07T15:12:54Z,my-app-time,1.0.0-1,0,Your app usage time tracker
+2026-11-07T15:13:28Z,dux-qt-base-bin,0.3.2-1,0,Quickshell QML runtime as a shared library with a C entry point (prebuilt)

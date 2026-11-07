@@ -12,18 +12,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 14:20 UTC
+## Latest list — 2026-11-07 15:20 UTC
 
-New packages created between 2026-11-07 13:21 UTC and 2026-11-07 14:20 UTC.
+New packages created between 2026-11-07 14:20 UTC and 2026-11-07 15:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-07T14-20-09-989986Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-07T15-20-51-443849Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-07 13:27:20 | [subx-bin](https://aur.archlinux.org/packages/subx-bin) | 1.3.4-1 | 0 | All-in-one fansub toolkit: extract/clean/shift/mux/convert/translate subs (preb… |
-| 2026-11-07 14:01:49 | [refryt-git](https://aur.archlinux.org/packages/refryt-git) | 0.2.2.r0.geb059cb-1 | 0 | A fast, native YouTube Music client (latest git) |
-| 2026-11-07 14:12:53 | [nib](https://aur.archlinux.org/packages/nib) | 2.50.4-1 | 0 | Complete PDF toolkit that runs entirely on your own machine (fill, OCR, redact,… |
-| 2026-11-07 14:13:06 | [nib-bin](https://aur.archlinux.org/packages/nib-bin) | 2.50.4-1 | 0 | Complete PDF toolkit that runs entirely on your own machine (fill, OCR, redact,… |
+| 2026-11-07 14:20:38 | [technitium-console-bin](https://aur.archlinux.org/packages/technitium-console-bin) | 1.4.0-1 | 0 | Modern admin console for Technitium DNS Server (prebuilt release bundle) |
+| 2026-11-07 14:25:07 | [nib-pdf-git](https://aur.archlinux.org/packages/nib-pdf-git) | 2.50.4.r0.g0000000-1 | 0 | Complete PDF toolkit that runs entirely on your own machine (fill, OCR, redact,… |
+| 2026-11-07 14:44:30 | [steamrip-desktop-bin](https://aur.archlinux.org/packages/steamrip-desktop-bin) | 2026.11.7-1 | 0 | Tray app that keeps a steamrip.com game library synced, installed, launched (Pr… |
+| 2026-11-07 14:47:25 | [ropy-bin](https://aur.archlinux.org/packages/ropy-bin) | 0.6.2-1 | 0 | A clipboard manager built with Rust and GPUI (prebuilt binary) |
+| 2026-11-07 14:48:11 | [dux-qt-base-git](https://aur.archlinux.org/packages/dux-qt-base-git) | 0.3.2.r913.g032cf5e… | 0 | Quickshell QML runtime as a shared library with a C entry point (git) |
+| 2026-11-07 14:50:51 | [swiftsim](https://aur.archlinux.org/packages/swiftsim) | 0.1.0-1 | 0 | Fast SPICE circuit simulator with a schematic editor and waveform viewer (LTspi… |
+| 2026-11-07 14:50:57 | [swiftsim-bin](https://aur.archlinux.org/packages/swiftsim-bin) | 0.1.0-1 | 0 | Fast SPICE circuit simulator with a schematic editor and waveform viewer (LTspi… |
+| 2026-11-07 14:51:03 | [swiftsim-git](https://aur.archlinux.org/packages/swiftsim-git) | 0.1.0.r0.g03d490e-1 | 0 | Fast SPICE circuit simulator with a schematic editor and waveform viewer (LTspi… |
+| 2026-11-07 14:51:55 | [dux-qt-base](https://aur.archlinux.org/packages/dux-qt-base) | 0.3.2-1 | 0 | Quickshell QML runtime as a shared library with a C entry point |
+| 2026-11-07 15:02:17 | [geany-snippets](https://aur.archlinux.org/packages/geany-snippets) | 1-6 | 0 | Snippets for Geany |
+| 2026-11-07 15:12:53 | [battlenet-proton](https://aur.archlinux.org/packages/battlenet-proton) | 0.2.0-1 | 0 | Run Battle.net with GE-Proton, with an update dialog, health check and rollback |
+| 2026-11-07 15:12:54 | [my-app-time](https://aur.archlinux.org/packages/my-app-time) | 1.0.0-1 | 0 | Your app usage time tracker |
+| 2026-11-07 15:13:28 | [dux-qt-base-bin](https://aur.archlinux.org/packages/dux-qt-base-bin) | 0.3.2-1 | 0 | Quickshell QML runtime as a shared library with a C entry point (prebuilt) |
 
 ## Data source
 
