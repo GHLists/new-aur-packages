@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-07T13:27:20Z,subx-bin,1.3.4-1,0,All-in-one fansub toolkit: extract/clean/shift/mux/convert/translate subs (prebuilt static binary)
+2026-11-07T14:01:49Z,refryt-git,0.2.2.r0.geb059cb-1,0,"A fast, native YouTube Music client (latest git)"
+2026-11-07T14:12:53Z,nib,2.50.4-1,0,"Complete PDF toolkit that runs entirely on your own machine (fill, OCR, redact, compare, sign, PDF/A)"
+2026-11-07T14:13:06Z,nib-bin,2.50.4-1,0,"Complete PDF toolkit that runs entirely on your own machine (fill, OCR, redact, compare, sign, PDF/A) — prebuilt binary"
