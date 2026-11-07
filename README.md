@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 20:20 UTC
+## Latest list — 2026-11-07 21:18 UTC
 
-New packages created between 2026-11-07 19:20 UTC and 2026-11-07 20:20 UTC.
+New packages created between 2026-11-07 20:20 UTC and 2026-11-07 21:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-07T20-20-13-163519Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-07T21-18-40-885953Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-07 19:27:47 | [agent-sessions-bin](https://aur.archlinux.org/packages/agent-sessions-bin) | 1.3.2-1 | 0 | Desktop GUI to browse and manage agentic coding sessions (Claude Code, Codex CL… |
-| 2026-11-07 20:12:11 | [project-reclaimer-bin](https://aur.archlinux.org/packages/project-reclaimer-bin) | 0.10.0-1 | 0 | A rewrite of Bungie's Halo Games, including CE, 2, 3, and ODST. |
+| 2026-11-07 20:20:25 | [nagram-desktop-beta-bin](https://aur.archlinux.org/packages/nagram-desktop-beta-bin) | 7.4.1.2beta-1 | 0 | Independent Telegram client based on Telegram Desktop (beta and release binary) |
+| 2026-11-07 20:20:29 | [cosmic-theme-bundles-git](https://aur.archlinux.org/packages/cosmic-theme-bundles-git) | r4.792870f-1 | 0 | Built-in theme bundles for the COSMIC desktop environment |
+| 2026-11-07 21:03:39 | [plasma6-wallpaperswitch-git](https://aur.archlinux.org/packages/plasma6-wallpaperswitch-git) | 6.2.0.r48.gade0c55-1 | 0 | Per-virtual-desktop wallpaper switcher for KDE Plasma 6, with video wallpaper s… |
 
 ## Data source
 
