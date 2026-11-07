@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 23:19 UTC
+## Latest list — 2026-11-07 00:19 UTC
 
-New packages created between 2026-11-06 22:21 UTC and 2026-11-06 23:19 UTC.
+New packages created between 2026-11-06 23:19 UTC and 2026-11-07 00:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-06T23-19-39-336404Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-07T00-19-27-091659Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 22:32:04 | [dbus-send-json](https://aur.archlinux.org/packages/dbus-send-json) | 0.1.0-1 | 0 | A modification of dbus-send to print replies in JSON |
-| 2026-11-06 23:08:38 | [gnome-shell-extension-silver-dock-git](https://aur.archlinux.org/packages/gnome-shell-extension-silver-dock-git) | 1.7.r52.gbecab9d-1 | 0 | A dock for GNOME Shell that can also hold the top bar's menu, clock and tray |
+| 2026-11-06 23:28:19 | [rgx-search-bin](https://aur.archlinux.org/packages/rgx-search-bin) | 0.1.10-1 | 0 | Ripgrep-compatible search inside PDFs, Office documents, archives, 3D models, L… |
 
 ## Data source
 
