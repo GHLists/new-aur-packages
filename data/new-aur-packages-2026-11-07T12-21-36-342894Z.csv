@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-07T11:31:07Z,tinyhand-git,1.0.2.r39.g28f6d8c-1,0,A hand-on-a-stick presentation pointer and drawing overlay for Wayland
+2026-11-07T11:42:49Z,hid-logitech-headset-dkms,0.4-1,0,Kernel driver reporting the battery of the Logitech PRO X 2 LIGHTSPEED headset (DKMS)
+2026-11-07T11:46:44Z,test-aur,0.1.0-1,0,
+2026-11-07T11:54:31Z,cfr2-bin,0.1.0-1,0,"Cloudflare R2 CLI: encrypted push/pull, keyhole/OpenBao secrets, trash, checksums, yazi plugin"
+2026-11-07T11:58:32Z,mygo-music,0.1.21-1,0,MyGo Music - 原生桌面音乐播放器，播放本地文件与插件内容，不使用 WebView
+2026-11-07T12:02:39Z,patchsplit,1.5.0-1,1,"A fast, cross-platform CLI tool for splitting and applying patches"
+2026-11-07T12:04:22Z,prebake,0.1.0-1,0,"Bakes Steam's Vulkan shader caches while you are away, so games start without shader processing"
+2026-11-07T12:12:05Z,libfprint-tod-goodix5f10-git,r4.gae212730-1,0,TOD module for the Goodix 27c6:5f10 fingerprint reader
