@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 10:18 UTC
+## Latest list — 2026-11-08 11:19 UTC
 
-New packages created between 2026-11-08 09:19 UTC and 2026-11-08 10:18 UTC.
+New packages created between 2026-11-08 10:18 UTC and 2026-11-08 11:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-08T10-18-52-091522Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-08T11-19-37-693703Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 09:27:43 | [virtomir-bin](https://aur.archlinux.org/packages/virtomir-bin) | 1.1.1-1 | 0 | A web control deck for KVM, QEMU and libvirt |
-| 2026-11-08 10:07:16 | [lichii-git](https://aur.archlinux.org/packages/lichii-git) | 0.r30389.gaae0b06-1 | 0 | VERY experimental Nintendo Switch 2 emulator |
+| 2026-11-08 10:34:51 | [nightscout-menu-bar-bin](https://aur.archlinux.org/packages/nightscout-menu-bar-bin) | 0.7.0-1 | 0 | Display live blood sugar data from Nightscout in your system tray |
+| 2026-11-08 10:54:46 | [valafmt](https://aur.archlinux.org/packages/valafmt) | 0.3.0-1 | 0 | An opinionated code formatter for the Vala programming language |
 
 ## Data source
 
