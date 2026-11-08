@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-08T04:25:11Z,andbible-bin,6.0.1257-1,0,Offline Bible study app (beta channel)
+2026-11-08T04:36:54Z,andbible-dev-bin,6.0.1257-1,0,Offline Bible study app (beta channel)
+2026-11-08T04:39:41Z,onair-avsplus,7.1.2-2,0,"AVS+ (Guangdian) decoder add-on for OnAir: shared libavcodec/libavutil with the AVS+ profile, for Chinese DTMB TV"
+2026-11-08T04:45:44Z,kite-cli-bin,0.2.1-1,0,Zerodha's official terminal app and CLI for Kite (prebuilt binary)
