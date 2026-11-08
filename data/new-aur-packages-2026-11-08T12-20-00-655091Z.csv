@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-08T11:30:09Z,minimax-code-bin,0.7.6-1,0,"MiniMax Code terminal AI coding agent (mcode CLI, prebuilt)"
+2026-11-08T11:31:41Z,kimi-work-bin,3.2.26-2,0,"Kimi Work desktop client, repackaged for the system Electron runtime"
+2026-11-08T11:57:53Z,wf-dock-plus,0.1.0-1,0,"Dock for Wayfire with pinned launchers, app grouping and a places menu, based on wf-dock"
+2026-11-08T12:03:34Z,uninews-git,0.2.1.r49.g98e5d6c-1,0,University news from Greek and international universities in one place
