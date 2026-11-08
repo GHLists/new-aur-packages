@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-08T16:22:02Z,cratty-git,0.1.0.r0.g2c49678-1,0,Native GPU-rendered SSH client with an encrypted host vault (git version)
+2026-11-08T16:30:44Z,misterdownloadmanager-bin,0.5.0-1,0,The ultimate open-source download manager (prebuilt binary)
+2026-11-08T16:33:35Z,cs2blocker,0.1.2-1,0,Linux-native Counter-Strike 2 server blocker with an interactive world map
+2026-11-08T16:34:13Z,cratty-bin,0.1.0-1,0,Native GPU-rendered SSH client with an encrypted host vault (release binaries)
+2026-11-08T16:37:34Z,donutmonitorcontrol,2.7.0-1,0,"Control monitor brightness, color and input over DDC/CI, with sun-based auto brightness"
+2026-11-08T17:05:46Z,repowise,0.60.1-1,0,"Codebase intelligence, CLI, MCP server and web dashboard for AI coding agents"

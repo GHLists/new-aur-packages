@@ -12,25 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 16:21 UTC
+## Latest list — 2026-11-08 17:20 UTC
 
-New packages created between 2026-11-08 15:20 UTC and 2026-11-08 16:21 UTC.
+New packages created between 2026-11-08 16:21 UTC and 2026-11-08 17:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-08T16-21-45-426945Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-08T17-20-12-616454Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 15:21:32 | [darmoshark-battery-dkms-git](https://aur.archlinux.org/packages/darmoshark-battery-dkms-git) | 0.1.0-1 | 0 | Darmoshark (MOJI) mouse battery exposed as a Linux power supply (DKMS) |
-| 2026-11-08 15:33:22 | [gdirect-bin](https://aur.archlinux.org/packages/gdirect-bin) | 0.12.1-1 | 0 | Browse, download, upload and mount Google Drive |
-| 2026-11-08 15:35:50 | [gdirect-git](https://aur.archlinux.org/packages/gdirect-git) | 0.12.1.r19.gd9ea2b4… | 0 | Browse, download, upload and mount Google Drive |
-| 2026-11-08 15:36:01 | [gdirect-desktop-bin](https://aur.archlinux.org/packages/gdirect-desktop-bin) | 0.12.1-1 | 0 | Desktop client for gdirect: browse, transfer and mount Google Drive |
-| 2026-11-08 15:36:11 | [gdirect-desktop-git](https://aur.archlinux.org/packages/gdirect-desktop-git) | 0.12.1.r19.gd9ea2b4… | 0 | Desktop client for gdirect: browse, transfer and mount Google Drive |
-| 2026-11-08 15:40:49 | [mactahoe-icon-theme](https://aur.archlinux.org/packages/mactahoe-icon-theme) | 2026.09.10-1 | 0 | macOS Tahoe 风格的图标与鼠标指针主题（预编译，无需渲染工具） |
-| 2026-11-08 15:52:45 | [tmail](https://aur.archlinux.org/packages/tmail) | 1.0.2-1 | 0 | A fast terminal email client with a spatial conversation map (IMAP/SMTP, Maildi… |
-| 2026-11-08 16:01:01 | [tmail-bin](https://aur.archlinux.org/packages/tmail-bin) | 1.0.2-1 | 0 | A fast terminal email client with a spatial conversation map (IMAP/SMTP, Maildi… |
-| 2026-11-08 16:11:10 | [kation-bin](https://aur.archlinux.org/packages/kation-bin) | 0.2.0-1 | 0 | Unofficial Proton Drive client for KDE Plasma |
-| 2026-11-08 16:12:28 | [near-bin](https://aur.archlinux.org/packages/near-bin) | 0.1.0-1 | 0 | near, a LAN-only file transfer hub, prebuilt binary |
-| 2026-11-08 16:17:55 | [near](https://aur.archlinux.org/packages/near) | 0.1.0-1 | 0 | near, a LAN-only file transfer hub, builds from source |
+| 2026-11-08 16:22:02 | [cratty-git](https://aur.archlinux.org/packages/cratty-git) | 0.1.0.r0.g2c49678-1 | 0 | Native GPU-rendered SSH client with an encrypted host vault (git version) |
+| 2026-11-08 16:30:44 | [misterdownloadmanager-bin](https://aur.archlinux.org/packages/misterdownloadmanager-bin) | 0.5.0-1 | 0 | The ultimate open-source download manager (prebuilt binary) |
+| 2026-11-08 16:33:35 | [cs2blocker](https://aur.archlinux.org/packages/cs2blocker) | 0.1.2-1 | 0 | Linux-native Counter-Strike 2 server blocker with an interactive world map |
+| 2026-11-08 16:34:13 | [cratty-bin](https://aur.archlinux.org/packages/cratty-bin) | 0.1.0-1 | 0 | Native GPU-rendered SSH client with an encrypted host vault (release binaries) |
+| 2026-11-08 16:37:34 | [donutmonitorcontrol](https://aur.archlinux.org/packages/donutmonitorcontrol) | 2.7.0-1 | 0 | Control monitor brightness, color and input over DDC/CI, with sun-based auto br… |
+| 2026-11-08 17:05:46 | [repowise](https://aur.archlinux.org/packages/repowise) | 0.60.1-1 | 0 | Codebase intelligence, CLI, MCP server and web dashboard for AI coding agents |
 
 ## Data source
 
