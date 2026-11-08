@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-08T02:36:45Z,openxplorer,2.0.15-1,1,Windows File Explorer-inspired file manager for Linux
+2026-11-08T02:42:46Z,modem73,2.5.0-1,0,KISS TNC frontend for the aicodix OFDM modem
+2026-11-08T02:55:12Z,crossdock-bin,0.2.0-1,0,"Publish packages as signed apt, pacman, RPM and GooGet repositories (with server and systemd units) (Pre-compiled Binary)"
+2026-11-08T02:55:36Z,crossdock-git,0.2.0.r0.gde4df13-1,0,"Publish packages as signed apt, pacman, RPM and GooGet repositories (with server and systemd units) (Git version)"
+2026-11-08T02:56:05Z,carryout,0.2.0-1,0,"Resumable, verifying downloader for multi-part Google Takeout exports"
+2026-11-08T02:56:28Z,carryout-bin,0.2.0-1,0,"Resumable, verifying downloader for multi-part Google Takeout exports (Pre-compiled Binary)"
+2026-11-08T03:02:46Z,carryout-git,0.2.0.r1.g1bd29a9-1,0,"Resumable, verifying downloader for multi-part Google Takeout exports (Git version)"
