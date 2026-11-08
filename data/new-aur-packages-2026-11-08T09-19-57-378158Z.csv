@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-08T08:23:21Z,wap-bin,0.0.50-1,0,Wap - Chromium-based browser with a local AI agent daemon and CLI (prebuilt)
+2026-11-08T08:29:33Z,nautilus-dummy,1.2-1,0,Dummy package to satisfy nautilus dependency
+2026-11-08T08:37:54Z,yaa-git,2.17.0.r112.g58c2a7…,0,Yet Another Agent: analyze and execute natural-language tasks (git)
+2026-11-08T08:38:04Z,yaa-bin,2.13.1-1,0,Yet Another Agent: analyze and execute natural-language tasks (prebuilt)
+2026-11-08T08:42:28Z,webkvm-bin,0.1.11-1,0,Native libvirt + QEMU/KVM and Incus manager with embedded web UI (prebuilt binary)
