@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-08T00:21:40Z,rgx-search-avx2-bin,0.1.10-1,0,"Ripgrep-compatible search inside PDFs, Office documents, archives, 3D models, LLM checkpoints, databases and e-mail (AVX2 optimized binary release)"
+2026-11-08T00:27:17Z,smartedit-bin,0.0.2-1,0,"Enable AI agents to efficiently explore and edit source code, improving token efficiency, cost and speed"
+2026-11-08T00:32:26Z,eglantine-daily-pgo-bin,20261107-1,1,The Eglantine Nintendo Switch 2 emulator AppImage (PGO build).
+2026-11-08T00:39:18Z,xmq,4.2.0-1,0,A tool and language to work with xml/html/json/yaml and parse any other format using ixml.
+2026-11-08T00:50:33Z,kenlm-shared,0.3.0.r20261108-1,0,KenLM language model runtime with shared libraries
+2026-11-08T00:52:46Z,miloinput-bin,0.1.0-1,0,Milo Chinese Pinyin input method for Fcitx5 (prebuilt)
+2026-11-08T00:55:27Z,xmq-git,4.2.0.r127.g8c7f3b3…,0,A tool and language to work with xml/html/json/yaml and parse any other format using ixml.
+2026-11-08T01:04:21Z,anny-dock,0.1.0-1,0,"A modern, animated dock for Hyprland built with Rust and Bevy Engine"
+2026-11-08T01:05:36Z,libigloo-git,0.9.5.r0.g1a4f575-1,0,A generic C framework used by the Icecast project
