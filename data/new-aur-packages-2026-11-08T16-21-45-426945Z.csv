@@ -1,0 +1,12 @@
+created_at,package,version,votes,description
+2026-11-08T15:21:32Z,darmoshark-battery-dkms-git,0.1.0-1,0,Darmoshark (MOJI) mouse battery exposed as a Linux power supply (DKMS)
+2026-11-08T15:33:22Z,gdirect-bin,0.12.1-1,0,"Browse, download, upload and mount Google Drive"
+2026-11-08T15:35:50Z,gdirect-git,0.12.1.r19.gd9ea2b4…,0,"Browse, download, upload and mount Google Drive"
+2026-11-08T15:36:01Z,gdirect-desktop-bin,0.12.1-1,0,"Desktop client for gdirect: browse, transfer and mount Google Drive"
+2026-11-08T15:36:11Z,gdirect-desktop-git,0.12.1.r19.gd9ea2b4…,0,"Desktop client for gdirect: browse, transfer and mount Google Drive"
+2026-11-08T15:40:49Z,mactahoe-icon-theme,2026.09.10-1,0,macOS Tahoe 风格的图标与鼠标指针主题（预编译，无需渲染工具）
+2026-11-08T15:52:45Z,tmail,1.0.2-1,0,"A fast terminal email client with a spatial conversation map (IMAP/SMTP, Maildir)"
+2026-11-08T16:01:01Z,tmail-bin,1.0.2-1,0,"A fast terminal email client with a spatial conversation map (IMAP/SMTP, Maildir) - prebuilt binary"
+2026-11-08T16:11:10Z,kation-bin,0.2.0-1,0,Unofficial Proton Drive client for KDE Plasma
+2026-11-08T16:12:28Z,near-bin,0.1.0-1,0,"near, a LAN-only file transfer hub, prebuilt binary"
+2026-11-08T16:17:55Z,near,0.1.0-1,0,"near, a LAN-only file transfer hub, builds from source"
