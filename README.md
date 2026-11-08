@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 22:20 UTC
+## Latest list — 2026-11-08 23:20 UTC
 
-New packages created between 2026-11-08 21:19 UTC and 2026-11-08 22:20 UTC.
+New packages created between 2026-11-08 22:20 UTC and 2026-11-08 23:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-08T22-20-42-871119Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-08T23-20-19-564643Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 21:35:53 | [hookshot-bin](https://aur.archlinux.org/packages/hookshot-bin) | 2.0.5-1 | 0 | Builds a native PC port of Ocarina of Time (Switch 2) from your own copy of the… |
-| 2026-11-08 21:49:31 | [psicode](https://aur.archlinux.org/packages/psicode) | 0.2.0-1 | 0 | Portable terminal coding agent written in C89 and Lua |
-| 2026-11-08 21:53:18 | [stratagram](https://aur.archlinux.org/packages/stratagram) | 1.0.4-1 | 0 | Network diagram editor: standardized stencils and line types, quick add and aut… |
-| 2026-11-08 22:13:17 | [ajuste-git](https://aur.archlinux.org/packages/ajuste-git) | r7.97db83b-1 | 0 | Native control panel and CLI for the Fractal Scape wireless headset (battery, E… |
+| 2026-11-08 22:27:19 | [stratagram-bin](https://aur.archlinux.org/packages/stratagram-bin) | 1.0.5-1 | 0 | Network diagram editor: standardized stencils and line types, quick add and aut… |
+| 2026-11-08 22:33:15 | [messverfahren-ravt](https://aur.archlinux.org/packages/messverfahren-ravt) | 1.1.0-63 | 0 | Mit der Messverfahren-RaVT Desktop-App können Sie die Datenübertragungsrate Ihr… |
+| 2026-11-08 22:35:24 | [bkmk](https://aur.archlinux.org/packages/bkmk) | 0.1-1 | 0 | CLI bookmark format converter |
+| 2026-11-08 22:35:24 | [python-bkmk](https://aur.archlinux.org/packages/python-bkmk) | 0.1-1 | 0 | Python library for bookmark format conversion |
+| 2026-11-08 23:04:06 | [hydra-ade](https://aur.archlinux.org/packages/hydra-ade) | 0.2.2-1 | 0 | Autonomous Development Environment for parallel AI agent fleets (Tauri v2 + Rus… |
+| 2026-11-08 23:18:43 | [eglantine-pgo-bin](https://aur.archlinux.org/packages/eglantine-pgo-bin) |  |  | The Eglantine Nintendo Switch 2 emulator AppImage (PGO build). |
 
 ## Data source
 

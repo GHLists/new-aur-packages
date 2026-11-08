@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-08T22:27:19Z,stratagram-bin,1.0.5-1,0,"Network diagram editor: standardized stencils and line types, quick add and auto layout (prebuilt)"
+2026-11-08T22:33:15Z,messverfahren-ravt,1.1.0-63,0,Mit der Messverfahren-RaVT Desktop-App können Sie die Datenübertragungsrate Ihres Internetzugangs messen und dadurch die Leistungsfähigkeit Ihres stationären Internetzugangs ermitteln.
+2026-11-08T22:35:24Z,bkmk,0.1-1,0,CLI bookmark format converter
+2026-11-08T22:35:24Z,python-bkmk,0.1-1,0,Python library for bookmark format conversion
+2026-11-08T23:04:06Z,hydra-ade,0.2.2-1,0,Autonomous Development Environment for parallel AI agent fleets (Tauri v2 + Rust Core)
+2026-11-08T23:18:43Z,eglantine-pgo-bin,,,The Eglantine Nintendo Switch 2 emulator AppImage (PGO build).
