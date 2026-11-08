@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-08T06:34:13Z,python-rich-click-1.9.9,1.9.9-1,0,Format click help output nicely with rich. (Updated to 1.9.9 for pros-cli)
+2026-11-08T06:43:14Z,wuwa-tappo-global-bin,1.0.4-1,0,Unofficial native Linux port of Wuwa Tappo (Global)
+2026-11-08T07:01:07Z,zen-bonsai-browser-bin,1.24.1b_bonsai.1-1,0,Zen Bonsai: an unofficial fork of Zen Browser with native tree-style tabs

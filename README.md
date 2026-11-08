@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 05:19 UTC
+## Latest list — 2026-11-08 07:20 UTC
 
-New packages created between 2026-11-08 04:20 UTC and 2026-11-08 05:19 UTC.
+New packages created between 2026-11-08 06:19 UTC and 2026-11-08 07:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-08T05-19-07-539389Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-08T07-20-06-443729Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 04:25:11 | [andbible-bin](https://aur.archlinux.org/packages/andbible-bin) | 6.0.1257-1 | 0 | Offline Bible study app (beta channel) |
-| 2026-11-08 04:36:54 | [andbible-dev-bin](https://aur.archlinux.org/packages/andbible-dev-bin) | 6.0.1257-1 | 0 | Offline Bible study app (beta channel) |
-| 2026-11-08 04:39:41 | [onair-avsplus](https://aur.archlinux.org/packages/onair-avsplus) | 7.1.2-2 | 0 | AVS+ (Guangdian) decoder add-on for OnAir: shared libavcodec/libavutil with the… |
-| 2026-11-08 04:45:44 | [kite-cli-bin](https://aur.archlinux.org/packages/kite-cli-bin) | 0.2.1-1 | 0 | Zerodha's official terminal app and CLI for Kite (prebuilt binary) |
+| 2026-11-08 06:34:13 | [python-rich-click-1.9.9](https://aur.archlinux.org/packages/python-rich-click-1.9.9) | 1.9.9-1 | 0 | Format click help output nicely with rich. (Updated to 1.9.9 for pros-cli) |
+| 2026-11-08 06:43:14 | [wuwa-tappo-global-bin](https://aur.archlinux.org/packages/wuwa-tappo-global-bin) | 1.0.4-1 | 0 | Unofficial native Linux port of Wuwa Tappo (Global) |
+| 2026-11-08 07:01:07 | [zen-bonsai-browser-bin](https://aur.archlinux.org/packages/zen-bonsai-browser-bin) | 1.24.1b_bonsai.1-1 | 0 | Zen Bonsai: an unofficial fork of Zen Browser with native tree-style tabs |
 
 ## Data source
 
