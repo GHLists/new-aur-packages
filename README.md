@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 21:19 UTC
+## Latest list — 2026-11-08 22:20 UTC
 
-New packages created between 2026-11-08 20:20 UTC and 2026-11-08 21:19 UTC.
+New packages created between 2026-11-08 21:19 UTC and 2026-11-08 22:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-08T21-19-53-877638Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-08T22-20-42-871119Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 20:28:52 | [tlg-pc-git](https://aur.archlinux.org/packages/tlg-pc-git) | 2026.10.27.4825a99-1 | 1 | Native PC port of The Last Guardian PS4 game |
-| 2026-11-08 20:41:46 | [antumbra](https://aur.archlinux.org/packages/antumbra) | 2.0.0-1 | 1 | TUI and CLI MTK flash tool for MediaTek based devices (Penumbra) |
-| 2026-11-08 20:42:42 | [reticulum-over-ethernet](https://aur.archlinux.org/packages/reticulum-over-ethernet) | 0.1.0-1 | 0 | Reticulum over Ethernet: carries Reticulum packets directly in Ethernet frames,… |
-| 2026-11-08 20:48:33 | [tlg-pc-bin](https://aur.archlinux.org/packages/tlg-pc-bin) | 2026.10.27.4825a99-1 | 1 | Native PC port of The Last Guardian PS4 game |
-| 2026-11-08 20:48:50 | [rawline-bin](https://aur.archlinux.org/packages/rawline-bin) | 1.0-1 | 0 | Cross-platform GUI proxy utility (binary release) |
+| 2026-11-08 21:35:53 | [hookshot-bin](https://aur.archlinux.org/packages/hookshot-bin) | 2.0.5-1 | 0 | Builds a native PC port of Ocarina of Time (Switch 2) from your own copy of the… |
+| 2026-11-08 21:49:31 | [psicode](https://aur.archlinux.org/packages/psicode) | 0.2.0-1 | 0 | Portable terminal coding agent written in C89 and Lua |
+| 2026-11-08 21:53:18 | [stratagram](https://aur.archlinux.org/packages/stratagram) | 1.0.4-1 | 0 | Network diagram editor: standardized stencils and line types, quick add and aut… |
+| 2026-11-08 22:13:17 | [ajuste-git](https://aur.archlinux.org/packages/ajuste-git) | r7.97db83b-1 | 0 | Native control panel and CLI for the Fractal Scape wireless headset (battery, E… |
 
 ## Data source
 

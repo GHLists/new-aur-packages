@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-08T21:35:53Z,hookshot-bin,2.0.5-1,0,Builds a native PC port of Ocarina of Time (Switch 2) from your own copy of the game (upstream AppImage)
+2026-11-08T21:49:31Z,psicode,0.2.0-1,0,Portable terminal coding agent written in C89 and Lua
+2026-11-08T21:53:18Z,stratagram,1.0.4-1,0,"Network diagram editor: standardized stencils and line types, quick add and auto layout"
+2026-11-08T22:13:17Z,ajuste-git,r7.97db83b-1,0,"Native control panel and CLI for the Fractal Scape wireless headset (battery, EQ, lighting, sidetone, ENC)"
