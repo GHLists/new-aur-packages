@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 14:19 UTC
+## Latest list — 2026-11-08 15:20 UTC
 
-New packages created between 2026-11-08 13:20 UTC and 2026-11-08 14:19 UTC.
+New packages created between 2026-11-08 14:19 UTC and 2026-11-08 15:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-08T14-19-13-643378Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-08T15-20-31-309314Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 13:32:44 | [rg-helper-bin](https://aur.archlinux.org/packages/rg-helper-bin) | 1.0.0-1 | 0 | Input helper for the RidiculousGnome GNOME Shell extension (evdev, system servi… |
-| 2026-11-08 13:47:59 | [bacularis](https://aur.archlinux.org/packages/bacularis) | 7.0.0-1 | 0 | Web interface and REST API for Bacula backup management |
+| 2026-11-08 14:40:55 | [sdrmm](https://aur.archlinux.org/packages/sdrmm) | 2.4.3-2 | 0 | Modular, client-server software-defined radio receiver (headless server) |
+| 2026-11-08 14:40:55 | [sdrmm-app](https://aur.archlinux.org/packages/sdrmm-app) | 2.4.3-2 | 0 | Modular, client-server software-defined radio receiver (desktop app) |
+| 2026-11-08 15:06:18 | [rearchiver-bin](https://aur.archlinux.org/packages/rearchiver-bin) | 0.2.0-1 | 0 | Prepare Reaper projects for archiving by converting WAV to FLAC/WavPack |
+| 2026-11-08 15:13:02 | [omawarden-app-dev-bin](https://aur.archlinux.org/packages/omawarden-app-dev-bin) | 0.4.0.dev.505499c-1 | 0 | Omawarden desktop app for Bitwarden/Vaultwarden (development build) |
 
 ## Data source
 
