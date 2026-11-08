@@ -12,20 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 17:20 UTC
+## Latest list — 2026-11-08 18:20 UTC
 
-New packages created between 2026-11-08 16:21 UTC and 2026-11-08 17:20 UTC.
+New packages created between 2026-11-08 17:20 UTC and 2026-11-08 18:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-08T17-20-12-616454Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-08T18-20-42-722226Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 16:22:02 | [cratty-git](https://aur.archlinux.org/packages/cratty-git) | 0.1.0.r0.g2c49678-1 | 0 | Native GPU-rendered SSH client with an encrypted host vault (git version) |
-| 2026-11-08 16:30:44 | [misterdownloadmanager-bin](https://aur.archlinux.org/packages/misterdownloadmanager-bin) | 0.5.0-1 | 0 | The ultimate open-source download manager (prebuilt binary) |
-| 2026-11-08 16:33:35 | [cs2blocker](https://aur.archlinux.org/packages/cs2blocker) | 0.1.2-1 | 0 | Linux-native Counter-Strike 2 server blocker with an interactive world map |
-| 2026-11-08 16:34:13 | [cratty-bin](https://aur.archlinux.org/packages/cratty-bin) | 0.1.0-1 | 0 | Native GPU-rendered SSH client with an encrypted host vault (release binaries) |
-| 2026-11-08 16:37:34 | [donutmonitorcontrol](https://aur.archlinux.org/packages/donutmonitorcontrol) | 2.7.0-1 | 0 | Control monitor brightness, color and input over DDC/CI, with sun-based auto br… |
-| 2026-11-08 17:05:46 | [repowise](https://aur.archlinux.org/packages/repowise) | 0.60.1-1 | 0 | Codebase intelligence, CLI, MCP server and web dashboard for AI coding agents |
+| 2026-11-08 17:28:13 | [abclock](https://aur.archlinux.org/packages/abclock) | 5.0.1-1 | 0 | gtklock with Beijing timezone wrapper, English+Chinese weekday (%ea) and 3-line… |
+| 2026-11-08 17:41:30 | [shauns_audio_visualizer](https://aur.archlinux.org/packages/shauns_audio_visualizer) | 1.0.0-7 | 0 | A retro audio visualizer for Linux |
+| 2026-11-08 17:53:30 | [donuttaskmanager-bin](https://aur.archlinux.org/packages/donuttaskmanager-bin) | 0.4.0-1 | 0 | GTK4/libadwaita task manager and performance monitor for Linux (formerly Task M… |
+| 2026-11-08 17:54:30 | [donutradio](https://aur.archlinux.org/packages/donutradio) | 2.3.0-1 | 0 | Internet radio player with curated ad-free stations, plus a KDE Plasma 6 widget |
+| 2026-11-08 18:01:32 | [donuttaskmanager](https://aur.archlinux.org/packages/donuttaskmanager) | 0.4.0-1 | 0 | GTK4/libadwaita task manager and performance monitor for Linux (formerly Task M… |
+| 2026-11-08 18:02:30 | [vibrancegui-linux-bin](https://aur.archlinux.org/packages/vibrancegui-linux-bin) | 0.2.6-1 | 0 | Unofficial VibranceGUI-style vkSumi profile manager for Linux (prebuilt) |
+| 2026-11-08 18:09:52 | [hoarder-bin](https://aur.archlinux.org/packages/hoarder-bin) | 1.0.0-1 | 0 | Pixel-exact screenshots and a clipboard that outlives the app that set it, for… |
+| 2026-11-08 18:10:08 | [hoarder-git](https://aur.archlinux.org/packages/hoarder-git) | 0.1.0.r0.g0000000-1 | 0 | Pixel-exact screenshots and a clipboard that outlives the app that set it, for… |
+| 2026-11-08 18:10:23 | [hoarder-wl-compat](https://aur.archlinux.org/packages/hoarder-wl-compat) | 1.0.0-1 | 0 | wl-copy and wl-paste served by Hoarder, in place of wl-clipboard |
+| 2026-11-08 18:12:31 | [hoarder](https://aur.archlinux.org/packages/hoarder) | 0.23.1-1 | 0 | A self-hostable bookmark-everything app (links, notes and images) with AI-based… |
 
 ## Data source
 

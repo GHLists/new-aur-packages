@@ -1,0 +1,11 @@
+created_at,package,version,votes,description
+2026-11-08T17:28:13Z,abclock,5.0.1-1,0,"gtklock with Beijing timezone wrapper, English+Chinese weekday (%ea) and 3-line lock layout"
+2026-11-08T17:41:30Z,shauns_audio_visualizer,1.0.0-7,0,A retro audio visualizer for Linux
+2026-11-08T17:53:30Z,donuttaskmanager-bin,0.4.0-1,0,GTK4/libadwaita task manager and performance monitor for Linux (formerly Task Manager)
+2026-11-08T17:54:30Z,donutradio,2.3.0-1,0,"Internet radio player with curated ad-free stations, plus a KDE Plasma 6 widget"
+2026-11-08T18:01:32Z,donuttaskmanager,0.4.0-1,0,GTK4/libadwaita task manager and performance monitor for Linux (formerly Task Manager)
+2026-11-08T18:02:30Z,vibrancegui-linux-bin,0.2.6-1,0,Unofficial VibranceGUI-style vkSumi profile manager for Linux (prebuilt)
+2026-11-08T18:09:52Z,hoarder-bin,1.0.0-1,0,"Pixel-exact screenshots and a clipboard that outlives the app that set it, for Wayland (prebuilt)"
+2026-11-08T18:10:08Z,hoarder-git,0.1.0.r0.g0000000-1,0,"Pixel-exact screenshots and a clipboard that outlives the app that set it, for Wayland (latest commit)"
+2026-11-08T18:10:23Z,hoarder-wl-compat,1.0.0-1,0,"wl-copy and wl-paste served by Hoarder, in place of wl-clipboard"
+2026-11-08T18:12:31Z,hoarder,0.23.1-1,0,"A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search"
