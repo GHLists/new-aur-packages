@@ -12,22 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 19:18 UTC
+## Latest list — 2026-11-08 20:20 UTC
 
-New packages created between 2026-11-08 18:20 UTC and 2026-11-08 19:18 UTC.
+New packages created between 2026-11-08 19:18 UTC and 2026-11-08 20:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-08T19-18-39-110047Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-08T20-20-46-378377Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 18:20:54 | [nenyactl-bin](https://aur.archlinux.org/packages/nenyactl-bin) | 0.1.0-1 | 0 | CLI tool for managing the Nenya AI API Gateway. |
-| 2026-11-08 18:32:17 | [zfs-assistant](https://aur.archlinux.org/packages/zfs-assistant) | 0.7.0-1 | 0 | Manage OpenZFS pools, datasets, snapshots and backups (desktop application, tra… |
-| 2026-11-08 18:32:17 | [zfs-assistant-cli](https://aur.archlinux.org/packages/zfs-assistant-cli) | 0.7.0-1 | 0 | Manage OpenZFS pools, datasets, snapshots and backups (helper and command line… |
-| 2026-11-08 18:35:43 | [mailviewer](https://aur.archlinux.org/packages/mailviewer) | 1.0.17-1 | 0 | EML & MSG mail viewer for GNOME written in Rust |
-| 2026-11-08 18:48:08 | [zfs-assistant-git](https://aur.archlinux.org/packages/zfs-assistant-git) | 0.7.0.r1.gb44500a-1 | 0 | Manage OpenZFS pools, datasets, snapshots and backups (desktop application, tra… |
-| 2026-11-08 18:48:08 | [zfs-assistant-cli-git](https://aur.archlinux.org/packages/zfs-assistant-cli-git) | 0.7.0.r1.gb44500a-1 | 0 | Manage OpenZFS pools, datasets, snapshots and backups (helper and command line… |
-| 2026-11-08 19:02:10 | [lichii-shader-sync-bin](https://aur.archlinux.org/packages/lichii-shader-sync-bin) | 1.1.2-1 | 0 | Downloads shared Vulkan shader caches into Lichii and Eden, so games stutter le… |
-| 2026-11-08 19:02:57 | [lichii-shader-sync](https://aur.archlinux.org/packages/lichii-shader-sync) | 1.1.2-1 | 0 | Downloads shared Vulkan shader caches into Lichii and Eden, so games stutter le… |
+| 2026-11-08 19:38:07 | [donutcleaner-bin](https://aur.archlinux.org/packages/donutcleaner-bin) | 0.2.0-1 | 0 | System maintenance and package dependency manager for Linux, GTK4 and Rust (for… |
 
 ## Data source
 
