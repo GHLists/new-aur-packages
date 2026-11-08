@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-08T07:27:57Z,bountytool,0.1.0-1,0,"End-to-end bug bounty reconnaissance, vulnerability triage and reporting suite"
+2026-11-08T08:07:12Z,xidong-git,0.1.0.r203.g1e5ebf7…,0,Lightweight CLI agent whose only tool is the shell (git)
+2026-11-08T08:07:23Z,xidong-bin,0.1.0-1,0,Lightweight CLI agent whose only tool is the shell
