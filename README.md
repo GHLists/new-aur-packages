@@ -12,15 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 20:20 UTC
+## Latest list — 2026-11-08 21:19 UTC
 
-New packages created between 2026-11-08 19:18 UTC and 2026-11-08 20:20 UTC.
+New packages created between 2026-11-08 20:20 UTC and 2026-11-08 21:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-08T20-20-46-378377Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-08T21-19-53-877638Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 19:38:07 | [donutcleaner-bin](https://aur.archlinux.org/packages/donutcleaner-bin) | 0.2.0-1 | 0 | System maintenance and package dependency manager for Linux, GTK4 and Rust (for… |
+| 2026-11-08 20:28:52 | [tlg-pc-git](https://aur.archlinux.org/packages/tlg-pc-git) | 2026.10.27.4825a99-1 | 1 | Native PC port of The Last Guardian PS4 game |
+| 2026-11-08 20:41:46 | [antumbra](https://aur.archlinux.org/packages/antumbra) | 2.0.0-1 | 1 | TUI and CLI MTK flash tool for MediaTek based devices (Penumbra) |
+| 2026-11-08 20:42:42 | [reticulum-over-ethernet](https://aur.archlinux.org/packages/reticulum-over-ethernet) | 0.1.0-1 | 0 | Reticulum over Ethernet: carries Reticulum packets directly in Ethernet frames,… |
+| 2026-11-08 20:48:33 | [tlg-pc-bin](https://aur.archlinux.org/packages/tlg-pc-bin) | 2026.10.27.4825a99-1 | 1 | Native PC port of The Last Guardian PS4 game |
+| 2026-11-08 20:48:50 | [rawline-bin](https://aur.archlinux.org/packages/rawline-bin) | 1.0-1 | 0 | Cross-platform GUI proxy utility (binary release) |
 
 ## Data source
 
