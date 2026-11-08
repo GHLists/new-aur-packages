@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-07T23:19:19Z,dwcode-bin,0.1.0-1,0,Keyboard-first Cybercore desktop editor (prebuilt binary)
+2026-11-07T23:31:58Z,tooka,1.2.0-1,0,A rule-based automatic file sorter
+2026-11-07T23:51:37Z,rgy-search-bin,0.1.10.0-1,0,Whole-filesystem name search and content search in one stack (binary release)
+2026-11-07T23:51:45Z,rgy-search-avx2-bin,0.1.10.0-1,0,Whole-filesystem name search and content search in one stack (AVX2 optimized binary release)
+2026-11-07T23:51:52Z,rgy-search-znver4-bin,0.1.10.0-1,0,Whole-filesystem name search and content search in one stack (AMD Zen 4 optimized binary release)
