@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-08T18:20:54Z,nenyactl-bin,0.1.0-1,0,CLI tool for managing the Nenya AI API Gateway.
+2026-11-08T18:32:17Z,zfs-assistant,0.7.0-1,0,"Manage OpenZFS pools, datasets, snapshots and backups (desktop application, tray status and notifications)"
+2026-11-08T18:32:17Z,zfs-assistant-cli,0.7.0-1,0,"Manage OpenZFS pools, datasets, snapshots and backups (helper and command line tool)"
+2026-11-08T18:35:43Z,mailviewer,1.0.17-1,0,EML & MSG mail viewer for GNOME written in Rust
+2026-11-08T18:48:08Z,zfs-assistant-git,0.7.0.r1.gb44500a-1,0,"Manage OpenZFS pools, datasets, snapshots and backups (desktop application, tray status and notifications, git version)"
+2026-11-08T18:48:08Z,zfs-assistant-cli-git,0.7.0.r1.gb44500a-1,0,"Manage OpenZFS pools, datasets, snapshots and backups (helper and command line tool, git version)"
+2026-11-08T19:02:10Z,lichii-shader-sync-bin,1.1.2-1,0,"Downloads shared Vulkan shader caches into Lichii and Eden, so games stutter less on first play (upstream binary)"
+2026-11-08T19:02:57Z,lichii-shader-sync,1.1.2-1,0,"Downloads shared Vulkan shader caches into Lichii and Eden, so games stutter less on first play"

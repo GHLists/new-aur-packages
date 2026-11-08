@@ -12,24 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 18:20 UTC
+## Latest list — 2026-11-08 19:18 UTC
 
-New packages created between 2026-11-08 17:20 UTC and 2026-11-08 18:20 UTC.
+New packages created between 2026-11-08 18:20 UTC and 2026-11-08 19:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-08T18-20-42-722226Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-08T19-18-39-110047Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 17:28:13 | [abclock](https://aur.archlinux.org/packages/abclock) | 5.0.1-1 | 0 | gtklock with Beijing timezone wrapper, English+Chinese weekday (%ea) and 3-line… |
-| 2026-11-08 17:41:30 | [shauns_audio_visualizer](https://aur.archlinux.org/packages/shauns_audio_visualizer) | 1.0.0-7 | 0 | A retro audio visualizer for Linux |
-| 2026-11-08 17:53:30 | [donuttaskmanager-bin](https://aur.archlinux.org/packages/donuttaskmanager-bin) | 0.4.0-1 | 0 | GTK4/libadwaita task manager and performance monitor for Linux (formerly Task M… |
-| 2026-11-08 17:54:30 | [donutradio](https://aur.archlinux.org/packages/donutradio) | 2.3.0-1 | 0 | Internet radio player with curated ad-free stations, plus a KDE Plasma 6 widget |
-| 2026-11-08 18:01:32 | [donuttaskmanager](https://aur.archlinux.org/packages/donuttaskmanager) | 0.4.0-1 | 0 | GTK4/libadwaita task manager and performance monitor for Linux (formerly Task M… |
-| 2026-11-08 18:02:30 | [vibrancegui-linux-bin](https://aur.archlinux.org/packages/vibrancegui-linux-bin) | 0.2.6-1 | 0 | Unofficial VibranceGUI-style vkSumi profile manager for Linux (prebuilt) |
-| 2026-11-08 18:09:52 | [hoarder-bin](https://aur.archlinux.org/packages/hoarder-bin) | 1.0.0-1 | 0 | Pixel-exact screenshots and a clipboard that outlives the app that set it, for… |
-| 2026-11-08 18:10:08 | [hoarder-git](https://aur.archlinux.org/packages/hoarder-git) | 0.1.0.r0.g0000000-1 | 0 | Pixel-exact screenshots and a clipboard that outlives the app that set it, for… |
-| 2026-11-08 18:10:23 | [hoarder-wl-compat](https://aur.archlinux.org/packages/hoarder-wl-compat) | 1.0.0-1 | 0 | wl-copy and wl-paste served by Hoarder, in place of wl-clipboard |
-| 2026-11-08 18:12:31 | [hoarder](https://aur.archlinux.org/packages/hoarder) | 0.23.1-1 | 0 | A self-hostable bookmark-everything app (links, notes and images) with AI-based… |
+| 2026-11-08 18:20:54 | [nenyactl-bin](https://aur.archlinux.org/packages/nenyactl-bin) | 0.1.0-1 | 0 | CLI tool for managing the Nenya AI API Gateway. |
+| 2026-11-08 18:32:17 | [zfs-assistant](https://aur.archlinux.org/packages/zfs-assistant) | 0.7.0-1 | 0 | Manage OpenZFS pools, datasets, snapshots and backups (desktop application, tra… |
+| 2026-11-08 18:32:17 | [zfs-assistant-cli](https://aur.archlinux.org/packages/zfs-assistant-cli) | 0.7.0-1 | 0 | Manage OpenZFS pools, datasets, snapshots and backups (helper and command line… |
+| 2026-11-08 18:35:43 | [mailviewer](https://aur.archlinux.org/packages/mailviewer) | 1.0.17-1 | 0 | EML & MSG mail viewer for GNOME written in Rust |
+| 2026-11-08 18:48:08 | [zfs-assistant-git](https://aur.archlinux.org/packages/zfs-assistant-git) | 0.7.0.r1.gb44500a-1 | 0 | Manage OpenZFS pools, datasets, snapshots and backups (desktop application, tra… |
+| 2026-11-08 18:48:08 | [zfs-assistant-cli-git](https://aur.archlinux.org/packages/zfs-assistant-cli-git) | 0.7.0.r1.gb44500a-1 | 0 | Manage OpenZFS pools, datasets, snapshots and backups (helper and command line… |
+| 2026-11-08 19:02:10 | [lichii-shader-sync-bin](https://aur.archlinux.org/packages/lichii-shader-sync-bin) | 1.1.2-1 | 0 | Downloads shared Vulkan shader caches into Lichii and Eden, so games stutter le… |
+| 2026-11-08 19:02:57 | [lichii-shader-sync](https://aur.archlinux.org/packages/lichii-shader-sync) | 1.1.2-1 | 0 | Downloads shared Vulkan shader caches into Lichii and Eden, so games stutter le… |
 
 ## Data source
 
