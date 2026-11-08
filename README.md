@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 13:20 UTC
+## Latest list — 2026-11-08 14:19 UTC
 
-New packages created between 2026-11-08 12:20 UTC and 2026-11-08 13:20 UTC.
+New packages created between 2026-11-08 13:20 UTC and 2026-11-08 14:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-08T13-20-06-923884Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-08T14-19-13-643378Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 12:49:32 | [ctui](https://aur.archlinux.org/packages/ctui) | 0.1.0-1 | 0 | C library of reusable ncursesw terminal user interface components |
-| 2026-11-08 12:54:00 | [mautrix-signal-nightly-bin](https://aur.archlinux.org/packages/mautrix-signal-nightly-bin) | 0.2610.0.r24340.34b… | 0 | A Matrix-Signal puppeting bridge (Golang version) |
-| 2026-11-08 13:04:06 | [agentero-bin](https://aur.archlinux.org/packages/agentero-bin) | 0.15.2-1 | 0 | Local-first research workspace (official desktop binary) |
-| 2026-11-08 13:04:15 | [agentero-cli-bin](https://aur.archlinux.org/packages/agentero-cli-bin) | 0.15.2-1 | 0 | Headless Vault and Catalog CLI for Agentero (official binary) |
+| 2026-11-08 13:32:44 | [rg-helper-bin](https://aur.archlinux.org/packages/rg-helper-bin) | 1.0.0-1 | 0 | Input helper for the RidiculousGnome GNOME Shell extension (evdev, system servi… |
+| 2026-11-08 13:47:59 | [bacularis](https://aur.archlinux.org/packages/bacularis) | 7.0.0-1 | 0 | Web interface and REST API for Bacula backup management |
 
 ## Data source
 

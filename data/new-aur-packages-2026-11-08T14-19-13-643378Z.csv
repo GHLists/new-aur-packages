@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-08T13:32:44Z,rg-helper-bin,1.0.0-1,0,"Input helper for the RidiculousGnome GNOME Shell extension (evdev, system service)"
+2026-11-08T13:47:59Z,bacularis,7.0.0-1,0,Web interface and REST API for Bacula backup management
