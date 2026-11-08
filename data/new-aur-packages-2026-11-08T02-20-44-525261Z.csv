@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-08T01:31:56Z,freellmapi-desktop-bin,0.16.21-3,0,FreeLLMAPI menu-bar app — local OpenAI-compatible LLM router
+2026-11-08T01:48:06Z,ezstream-git,1.0.2.r17.g47757b6-1,0,A streaming source client for Icecast
+2026-11-08T01:54:56Z,datasette-git,1.0a41.r73.77bc27bd…,1,An open source multi-tool for exploring and publishing data (bleeding-edge version)
