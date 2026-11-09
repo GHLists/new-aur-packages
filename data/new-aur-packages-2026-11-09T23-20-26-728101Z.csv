@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-09T22:45:18Z,noti-fi,0.18.1-1,0,"Notification daemon (notifd), command line (notify) and control panel for KDE Plasma and Hyprland on Wayland"
+2026-11-09T22:45:41Z,uq-hyprland-pin,0.56.2-1,0,Pins Hyprland to the release series uQ is tested against
+2026-11-09T22:45:49Z,uq,0.2.0-1,0,"Themeable Hyprland desktop: shell, theme and layout daemon, CLI and base config"
+2026-11-09T23:00:51Z,scdr,0.2.0-1,0,Process scheduling and priority daemon for EEVDF and sched_ext kernels
