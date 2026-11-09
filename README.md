@@ -12,19 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 13:19 UTC
+## Latest list — 2026-11-09 14:20 UTC
 
-New packages created between 2026-11-09 12:20 UTC and 2026-11-09 13:19 UTC.
+New packages created between 2026-11-09 13:19 UTC and 2026-11-09 14:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T13-19-47-840079Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T14-20-41-332658Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 12:21:36 | [texturecraft-git](https://aur.archlinux.org/packages/texturecraft-git) | v0.3.1.r120.g85729f… | 0 | vibe coded clean-room reimplementation of Adobe Substance 3D Painter (Git HEAD) |
-| 2026-11-09 12:24:54 | [texturecraft](https://aur.archlinux.org/packages/texturecraft) | 0.5.0-1 | 0 | vibe coded clean-room reimplementation of Adobe Substance 3D Painter |
-| 2026-11-09 12:59:48 | [qudelix-cli-bin](https://aur.archlinux.org/packages/qudelix-cli-bin) | 1.6.0-1 | 0 | A native macOS menu bar app for configuring the Qudelix 5K DAC/amp, over USB or… |
-| 2026-11-09 13:09:16 | [littera-bin](https://aur.archlinux.org/packages/littera-bin) | 1.0.6-1 | 0 | Local voice dictation for Linux/Wayland (prebuilt binary) |
-| 2026-11-09 13:09:16 | [silkfly-bin](https://aur.archlinux.org/packages/silkfly-bin) | 0.1.1-1 | 0 | Mod manager for Hollow Knight: Silksong |
+| 2026-11-09 13:24:54 | [appclone-bin](https://aur.archlinux.org/packages/appclone-bin) | 1.0.0-1 | 0 | 为任意 Linux 应用再开一个分身，只隔离它自己的数据（预编译版本） |
+| 2026-11-09 13:31:27 | [drydock](https://aur.archlinux.org/packages/drydock) | 1.3.1-1 | 0 | A live TUI dashboard for a fleet of git repos |
+| 2026-11-09 13:42:48 | [bluetooth-gpd](https://aur.archlinux.org/packages/bluetooth-gpd) | 0.1.0-1 | 0 | Linux Bluetooth manager with a daemon, a terminal interface, SBC audio and an A… |
+| 2026-11-09 13:50:28 | [img2stl](https://aur.archlinux.org/packages/img2stl) | v5.a65ef97-1 | 1 | Turns a two-color image into a 3D-print ready STL file |
+| 2026-11-09 14:10:29 | [chatpane](https://aur.archlinux.org/packages/chatpane) | 3.1.0-1 | 0 | Distraction-free desktop client for Facebook Messenger |
+| 2026-11-09 14:19:42 | [way-ocr-git](https://aur.archlinux.org/packages/way-ocr-git) |  |  | Lightning-fast, zero-dependency Screen OCR and text extractor for Wayland |
 
 ## Data source
 
