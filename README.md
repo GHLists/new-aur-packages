@@ -12,20 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 20:19 UTC
+## Latest list — 2026-11-09 21:19 UTC
 
-New packages created between 2026-11-09 19:19 UTC and 2026-11-09 20:19 UTC.
+New packages created between 2026-11-09 20:19 UTC and 2026-11-09 21:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T20-19-39-435935Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T21-19-53-946157Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 19:24:41 | [nexus-launcher](https://aur.archlinux.org/packages/nexus-launcher) | 0.5.0-1 | 0 | Xbox-inspired launcher for Microsoft Store PC games on Linux, built on Xodus |
-| 2026-11-09 19:25:46 | [nexus-launcher-bin](https://aur.archlinux.org/packages/nexus-launcher-bin) | 0.5.0-1 | 0 | Xbox-inspired launcher for Microsoft Store PC games on Linux, built on Xodus |
-| 2026-11-09 19:32:22 | [rustconn-ru](https://aur.archlinux.org/packages/rustconn-ru) | 0.24.9-1 | 0 | Modern connection manager for SSH, RDP, VNC, SPICE and more (with Russian local… |
-| 2026-11-09 19:43:31 | [jupyter-ruff-bin](https://aur.archlinux.org/packages/jupyter-ruff-bin) | 0.3.1-1 | 0 | JupyterLab and Jupyter Notebook extension for formatting code with Ruff |
-| 2026-11-09 19:47:37 | [slimit-gpu-git](https://aur.archlinux.org/packages/slimit-gpu-git) | 1.1.10.r4.g147873b-2 | 0 | GUI NVidia GPU overclock, power limit and fan manager |
-| 2026-11-09 20:03:06 | [python-smithy-cbor](https://aur.archlinux.org/packages/python-smithy-cbor) | 0.2.0-1 | 0 | CBOR serialization and deserialization support for Smithy tooling. |
+| 2026-11-09 20:39:57 | [ftx-for-linux](https://aur.archlinux.org/packages/ftx-for-linux) | 0.1.0-1 | 0 | Native GTK4/libadwaita FT8 and FT4 program for TCI radios (decoders ported from… |
+| 2026-11-09 20:52:41 | [python-smithy-checksums](https://aur.archlinux.org/packages/python-smithy-checksums) | 0.1.0-1 | 0 | Checksum algorithms for Smithy tooling, with native acceleration. |
+| 2026-11-09 21:04:38 | [slimit-gpu](https://aur.archlinux.org/packages/slimit-gpu) | 2.0.0-2 | 0 | GUI NVidia and AMD GPU overclock, power limit and fan manager |
+| 2026-11-09 21:07:10 | [metamorph-bin](https://aur.archlinux.org/packages/metamorph-bin) | 0.1.6-1 | 0 | Gym workout tracker (desktop app) |
 
 ## Data source
 

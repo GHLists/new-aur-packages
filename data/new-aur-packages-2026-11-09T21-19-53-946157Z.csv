@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-09T20:39:57Z,ftx-for-linux,0.1.0-1,0,Native GTK4/libadwaita FT8 and FT4 program for TCI radios (decoders ported from WSJT-X)
+2026-11-09T20:52:41Z,python-smithy-checksums,0.1.0-1,0,"Checksum algorithms for Smithy tooling, with native acceleration."
+2026-11-09T21:04:38Z,slimit-gpu,2.0.0-2,0,"GUI NVidia and AMD GPU overclock, power limit and fan manager"
+2026-11-09T21:07:10Z,metamorph-bin,0.1.6-1,0,Gym workout tracker (desktop app)
