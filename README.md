@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 03:20 UTC
+## Latest list — 2026-11-09 04:20 UTC
 
-New packages created between 2026-11-09 02:19 UTC and 2026-11-09 03:20 UTC.
+New packages created between 2026-11-09 03:20 UTC and 2026-11-09 04:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T03-20-56-277243Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T04-20-10-426605Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 02:20:02 | [thesio-bin](https://aur.archlinux.org/packages/thesio-bin) | 0.1.1-1 | 0 | A local-first workspace for academic research and writing |
+| 2026-11-09 04:19:47 | [protd](https://aur.archlinux.org/packages/protd) |  |  | prot daemon: process supervisor, .localhost reverse proxy and API |
+| 2026-11-09 04:19:47 | [prot](https://aur.archlinux.org/packages/prot) |  |  | prot command line interface and MCP server |
+| 2026-11-09 04:19:47 | [prot-desktop](https://aur.archlinux.org/packages/prot-desktop) |  |  | prot desktop app for managing development servers |
 
 ## Data source
 
