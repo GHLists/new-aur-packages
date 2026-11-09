@@ -12,20 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 17:19 UTC
+## Latest list — 2026-11-09 18:20 UTC
 
-New packages created between 2026-11-09 16:20 UTC and 2026-11-09 17:19 UTC.
+New packages created between 2026-11-09 17:19 UTC and 2026-11-09 18:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T17-19-46-700734Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T18-20-42-275186Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 16:38:25 | [ltchiptool-data](https://aur.archlinux.org/packages/ltchiptool-data) | 1.4.0-1 | 0 | LibreTiny board/family data snapshot for ltchiptool |
-| 2026-11-09 16:40:22 | [libadwaita-mintpatch](https://aur.archlinux.org/packages/libadwaita-mintpatch) | 1:1.10.0-1 | 0 | libadwaita with the Mint theme-support mechanism |
-| 2026-11-09 16:50:06 | [outlinux](https://aur.archlinux.org/packages/outlinux) | 1.0.0-1 | 0 | Wrapper desktop di Outlook Web basato su Electron |
-| 2026-11-09 17:01:36 | [rush-shell-bin](https://aur.archlinux.org/packages/rush-shell-bin) | 0.1.2-1 | 0 | POSIX-facing shell with modern interactive features |
-| 2026-11-09 17:13:32 | [stuff-bin](https://aur.archlinux.org/packages/stuff-bin) | 0.1.0-1 | 1 | lightweight file manager |
-| 2026-11-09 17:13:46 | [stuff-git](https://aur.archlinux.org/packages/stuff-git) | r0-1 | 1 | lightweight file manager |
+| 2026-11-09 17:52:05 | [em100-git](https://aur.archlinux.org/packages/em100-git) | r257.0c07a11-1 | 0 | Open source tool for the EM100 SPI flash emulator (latest version from the bran… |
 
 ## Data source
 
