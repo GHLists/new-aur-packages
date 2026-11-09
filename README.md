@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 06:19 UTC
+## Latest list — 2026-11-09 07:19 UTC
 
-New packages created between 2026-11-09 05:20 UTC and 2026-11-09 06:19 UTC.
+New packages created between 2026-11-09 06:19 UTC and 2026-11-09 07:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T06-19-36-98041Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T07-19-29-305107Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 05:35:29 | [hongguo-desktop-bin](https://aur.archlinux.org/packages/hongguo-desktop-bin) | 0.2.159-3 | 0 | 红果短剧桌面版（预编译 AppImage） |
-| 2026-11-09 05:50:38 | [gt3-revisited-bin](https://aur.archlinux.org/packages/gt3-revisited-bin) | 0.6.3-1 | 1 | Open reimplementation of the Gran Turismo 3 A-Spec engine |
-| 2026-11-09 06:12:55 | [gt3-revisited-git](https://aur.archlinux.org/packages/gt3-revisited-git) | 0.6.3.r4.g634adfa-1 | 1 | Open reimplementation of the Gran Turismo 3 A-Spec engine (latest Git version) |
-| 2026-11-09 06:13:43 | [yavcpdf](https://aur.archlinux.org/packages/yavcpdf) | 0.3.0-1 | 0 | A minimal, keyboard-driven PDF viewer |
-| 2026-11-09 06:13:58 | [yavcpdf-bin](https://aur.archlinux.org/packages/yavcpdf-bin) | 0.3.0-1 | 0 | A minimal, keyboard-driven PDF viewer (release binary) |
+| 2026-11-09 06:20:21 | [python-esphome-dashboard](https://aur.archlinux.org/packages/python-esphome-dashboard) | 20260425.0-1 | 0 | ESPHome dashboard and ESPHome Web |
+| 2026-11-09 06:21:00 | [python-kconfiglib](https://aur.archlinux.org/packages/python-kconfiglib) | 14.1.0-6 | 0 | A flexible Python Kconfig implementation |
+| 2026-11-09 06:56:45 | [kuina-git-static](https://aur.archlinux.org/packages/kuina-git-static) | 1d0ef3f-1 | 0 | Fish/bash/zsh shell prompt in the style of XMonad. |
 
 ## Data source
 
