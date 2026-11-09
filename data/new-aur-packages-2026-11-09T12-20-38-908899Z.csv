@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-09T11:35:04Z,astrolith,0.1.0-1,0,Local-first editor for Astro Markdown and MDX content
+2026-11-09T11:50:29Z,anicraft-git,0.1.0.r124.gb763033…,0,vibe coded clean-room reimplementation of Adobe Animate (Git HEAD)
+2026-11-09T12:09:55Z,qrcode-barcode-scanner-bin,0.11.0-1,0,Command-line QR code and barcode scanner with QR quality diagnostics
+2026-11-09T12:17:36Z,gramtty,,,A terminal Telegram client (TDLib linked statically)
+2026-11-09T12:17:44Z,gramtty-bin,,,"A terminal Telegram client (prebuilt binary, TDLib linked statically)"
