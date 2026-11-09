@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 00:21 UTC
+## Latest list — 2026-11-09 01:21 UTC
 
-New packages created between 2026-11-08 23:20 UTC and 2026-11-09 00:21 UTC.
+New packages created between 2026-11-09 00:21 UTC and 2026-11-09 01:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T00-21-31-10744Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T01-21-52-454546Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 23:29:41 | [eac-reboot-entry](https://aur.archlinux.org/packages/eac-reboot-entry) | 1.0.0-2 | 0 | A script shim to make booting into an EAC kernel a bit easier |
-| 2026-11-08 23:51:23 | [donutcleaner](https://aur.archlinux.org/packages/donutcleaner) | 0.2.1-1 | 0 | System maintenance and package dependency manager for Linux, GTK4 and Rust (for… |
+| 2026-11-09 00:50:08 | [omawarden-app-git-bin](https://aur.archlinux.org/packages/omawarden-app-git-bin) | 0.4.0.dev.324f875-1 | 0 | Omawarden desktop app for Bitwarden/Vaultwarden (prebuilt development build) |
+| 2026-11-09 01:08:42 | [incrust-git](https://aur.archlinux.org/packages/incrust-git) | 1.0.0.r26.c49ebbb-1 | 0 | A minimal incremental / idle terminal game about compiling stuff (git version) |
 
 ## Data source
 
