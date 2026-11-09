@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 01:21 UTC
+## Latest list — 2026-11-09 02:19 UTC
 
-New packages created between 2026-11-09 00:21 UTC and 2026-11-09 01:21 UTC.
+New packages created between 2026-11-09 01:21 UTC and 2026-11-09 02:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T01-21-52-454546Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T02-19-10-854657Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 00:50:08 | [omawarden-app-git-bin](https://aur.archlinux.org/packages/omawarden-app-git-bin) | 0.4.0.dev.324f875-1 | 0 | Omawarden desktop app for Bitwarden/Vaultwarden (prebuilt development build) |
-| 2026-11-09 01:08:42 | [incrust-git](https://aur.archlinux.org/packages/incrust-git) | 1.0.0.r26.c49ebbb-1 | 0 | A minimal incremental / idle terminal game about compiling stuff (git version) |
+| 2026-11-09 02:15:20 | [doriterm-bin](https://aur.archlinux.org/packages/doriterm-bin) | 0.1.13-1 | 0 | Your devices, one terminal. Every machine you own, linked through an end-to-end… |
 
 ## Data source
 
