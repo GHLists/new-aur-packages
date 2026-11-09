@@ -12,19 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 12:20 UTC
+## Latest list — 2026-11-09 13:19 UTC
 
-New packages created between 2026-11-09 11:20 UTC and 2026-11-09 12:20 UTC.
+New packages created between 2026-11-09 12:20 UTC and 2026-11-09 13:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T12-20-38-908899Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T13-19-47-840079Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 11:35:04 | [astrolith](https://aur.archlinux.org/packages/astrolith) | 0.1.0-1 | 0 | Local-first editor for Astro Markdown and MDX content |
-| 2026-11-09 11:50:29 | [anicraft-git](https://aur.archlinux.org/packages/anicraft-git) | 0.1.0.r124.gb763033… | 0 | vibe coded clean-room reimplementation of Adobe Animate (Git HEAD) |
-| 2026-11-09 12:09:55 | [qrcode-barcode-scanner-bin](https://aur.archlinux.org/packages/qrcode-barcode-scanner-bin) | 0.11.0-1 | 0 | Command-line QR code and barcode scanner with QR quality diagnostics |
-| 2026-11-09 12:17:36 | [gramtty](https://aur.archlinux.org/packages/gramtty) |  |  | A terminal Telegram client (TDLib linked statically) |
-| 2026-11-09 12:17:44 | [gramtty-bin](https://aur.archlinux.org/packages/gramtty-bin) |  |  | A terminal Telegram client (prebuilt binary, TDLib linked statically) |
+| 2026-11-09 12:21:36 | [texturecraft-git](https://aur.archlinux.org/packages/texturecraft-git) | v0.3.1.r120.g85729f… | 0 | vibe coded clean-room reimplementation of Adobe Substance 3D Painter (Git HEAD) |
+| 2026-11-09 12:24:54 | [texturecraft](https://aur.archlinux.org/packages/texturecraft) | 0.5.0-1 | 0 | vibe coded clean-room reimplementation of Adobe Substance 3D Painter |
+| 2026-11-09 12:59:48 | [qudelix-cli-bin](https://aur.archlinux.org/packages/qudelix-cli-bin) | 1.6.0-1 | 0 | A native macOS menu bar app for configuring the Qudelix 5K DAC/amp, over USB or… |
+| 2026-11-09 13:09:16 | [littera-bin](https://aur.archlinux.org/packages/littera-bin) | 1.0.6-1 | 0 | Local voice dictation for Linux/Wayland (prebuilt binary) |
+| 2026-11-09 13:09:16 | [silkfly-bin](https://aur.archlinux.org/packages/silkfly-bin) | 0.1.1-1 | 0 | Mod manager for Hollow Knight: Silksong |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-09T12:21:36Z,texturecraft-git,v0.3.1.r120.g85729f…,0,vibe coded clean-room reimplementation of Adobe Substance 3D Painter (Git HEAD)
+2026-11-09T12:24:54Z,texturecraft,0.5.0-1,0,vibe coded clean-room reimplementation of Adobe Substance 3D Painter
+2026-11-09T12:59:48Z,qudelix-cli-bin,1.6.0-1,0,"A native macOS menu bar app for configuring the Qudelix 5K DAC/amp, over USB or Bluetooth."
+2026-11-09T13:09:16Z,littera-bin,1.0.6-1,0,Local voice dictation for Linux/Wayland (prebuilt binary)
+2026-11-09T13:09:16Z,silkfly-bin,0.1.1-1,0,Mod manager for Hollow Knight: Silksong
