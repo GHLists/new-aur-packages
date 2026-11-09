@@ -12,20 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 23:20 UTC
+## Latest list — 2026-11-09 00:21 UTC
 
-New packages created between 2026-11-08 22:20 UTC and 2026-11-08 23:20 UTC.
+New packages created between 2026-11-08 23:20 UTC and 2026-11-09 00:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-08T23-20-19-564643Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T00-21-31-10744Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 22:27:19 | [stratagram-bin](https://aur.archlinux.org/packages/stratagram-bin) | 1.0.5-1 | 0 | Network diagram editor: standardized stencils and line types, quick add and aut… |
-| 2026-11-08 22:33:15 | [messverfahren-ravt](https://aur.archlinux.org/packages/messverfahren-ravt) | 1.1.0-63 | 0 | Mit der Messverfahren-RaVT Desktop-App können Sie die Datenübertragungsrate Ihr… |
-| 2026-11-08 22:35:24 | [bkmk](https://aur.archlinux.org/packages/bkmk) | 0.1-1 | 0 | CLI bookmark format converter |
-| 2026-11-08 22:35:24 | [python-bkmk](https://aur.archlinux.org/packages/python-bkmk) | 0.1-1 | 0 | Python library for bookmark format conversion |
-| 2026-11-08 23:04:06 | [hydra-ade](https://aur.archlinux.org/packages/hydra-ade) | 0.2.2-1 | 0 | Autonomous Development Environment for parallel AI agent fleets (Tauri v2 + Rus… |
-| 2026-11-08 23:18:43 | [eglantine-pgo-bin](https://aur.archlinux.org/packages/eglantine-pgo-bin) |  |  | The Eglantine Nintendo Switch 2 emulator AppImage (PGO build). |
+| 2026-11-08 23:29:41 | [eac-reboot-entry](https://aur.archlinux.org/packages/eac-reboot-entry) | 1.0.0-2 | 0 | A script shim to make booting into an EAC kernel a bit easier |
+| 2026-11-08 23:51:23 | [donutcleaner](https://aur.archlinux.org/packages/donutcleaner) | 0.2.1-1 | 0 | System maintenance and package dependency manager for Linux, GTK4 and Rust (for… |
 
 ## Data source
 
