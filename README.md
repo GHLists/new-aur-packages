@@ -12,23 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 15:22 UTC
+## Latest list — 2026-11-09 16:20 UTC
 
-New packages created between 2026-11-09 14:20 UTC and 2026-11-09 15:22 UTC.
+New packages created between 2026-11-09 15:22 UTC and 2026-11-09 16:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T15-22-12-57941Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T16-20-07-133274Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 14:23:47 | [mtgpu-s30-dkms](https://aur.archlinux.org/packages/mtgpu-s30-dkms) | 3.1.0-2 | 0 | Moore Threads MTT S30 kernel module and firmware (Linux 7.x+ DKMS port) |
-| 2026-11-09 14:24:08 | [mtgpu-s30-userland](https://aur.archlinux.org/packages/mtgpu-s30-userland) | 3.1.0-2 | 0 | Moore Threads MTT S30 userland graphics and compute drivers (OpenGL, Vulkan, VA… |
-| 2026-11-09 14:30:19 | [ente-bin](https://aur.archlinux.org/packages/ente-bin) | 1.7.31-3 | 0 | Desktop client for ente Photos (self-contained AppImage) |
-| 2026-11-09 14:40:23 | [ente-photos-bin](https://aur.archlinux.org/packages/ente-photos-bin) | 1.7.31-2 | 0 | Desktop client for ente Photos (self-contained AppImage) |
-| 2026-11-09 14:41:36 | [fun-overlay-git](https://aur.archlinux.org/packages/fun-overlay-git) | 0.1.0.r2.2bfddf4-1 | 0 | A lightweight, draggable animated GIF overlay for Wayland compositors like Hypr… |
-| 2026-11-09 14:45:02 | [crum-bs](https://aur.archlinux.org/packages/crum-bs) | 0.2.0-1 | 0 | Find and remove app leftovers, caches and system bloat |
-| 2026-11-09 14:45:07 | [crum-bs-bin](https://aur.archlinux.org/packages/crum-bs-bin) | 0.2.0-1 | 0 | Find and remove app leftovers, caches and system bloat (static binary) |
-| 2026-11-09 14:46:46 | [hindsight-api](https://aur.archlinux.org/packages/hindsight-api) | 1.2.0-1 | 0 | Agent memory system: retain, recall and reflect server (slim, ONNX embeddings) |
-| 2026-11-09 14:47:13 | [pi-ext-hindsight](https://aur.archlinux.org/packages/pi-ext-hindsight) | 0.8.6-1 | 0 | Hindsight long-term memory for the pi coding agent |
+| 2026-11-09 15:35:38 | [rowq](https://aur.archlinux.org/packages/rowq) | 1.0.0-1 | 0 | Query rows in tables, documents and databases from the terminal |
+| 2026-11-09 15:35:45 | [rowq-bin](https://aur.archlinux.org/packages/rowq-bin) | 1.0.0-1 | 0 | Query rows in tables, documents and databases from the terminal (pre-built bina… |
 
 ## Data source
 
