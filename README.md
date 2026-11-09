@@ -12,20 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 14:20 UTC
+## Latest list — 2026-11-09 15:22 UTC
 
-New packages created between 2026-11-09 13:19 UTC and 2026-11-09 14:20 UTC.
+New packages created between 2026-11-09 14:20 UTC and 2026-11-09 15:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T14-20-41-332658Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T15-22-12-57941Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 13:24:54 | [appclone-bin](https://aur.archlinux.org/packages/appclone-bin) | 1.0.0-1 | 0 | 为任意 Linux 应用再开一个分身，只隔离它自己的数据（预编译版本） |
-| 2026-11-09 13:31:27 | [drydock](https://aur.archlinux.org/packages/drydock) | 1.3.1-1 | 0 | A live TUI dashboard for a fleet of git repos |
-| 2026-11-09 13:42:48 | [bluetooth-gpd](https://aur.archlinux.org/packages/bluetooth-gpd) | 0.1.0-1 | 0 | Linux Bluetooth manager with a daemon, a terminal interface, SBC audio and an A… |
-| 2026-11-09 13:50:28 | [img2stl](https://aur.archlinux.org/packages/img2stl) | v5.a65ef97-1 | 1 | Turns a two-color image into a 3D-print ready STL file |
-| 2026-11-09 14:10:29 | [chatpane](https://aur.archlinux.org/packages/chatpane) | 3.1.0-1 | 0 | Distraction-free desktop client for Facebook Messenger |
-| 2026-11-09 14:19:42 | [way-ocr-git](https://aur.archlinux.org/packages/way-ocr-git) |  |  | Lightning-fast, zero-dependency Screen OCR and text extractor for Wayland |
+| 2026-11-09 14:23:47 | [mtgpu-s30-dkms](https://aur.archlinux.org/packages/mtgpu-s30-dkms) | 3.1.0-2 | 0 | Moore Threads MTT S30 kernel module and firmware (Linux 7.x+ DKMS port) |
+| 2026-11-09 14:24:08 | [mtgpu-s30-userland](https://aur.archlinux.org/packages/mtgpu-s30-userland) | 3.1.0-2 | 0 | Moore Threads MTT S30 userland graphics and compute drivers (OpenGL, Vulkan, VA… |
+| 2026-11-09 14:30:19 | [ente-bin](https://aur.archlinux.org/packages/ente-bin) | 1.7.31-3 | 0 | Desktop client for ente Photos (self-contained AppImage) |
+| 2026-11-09 14:40:23 | [ente-photos-bin](https://aur.archlinux.org/packages/ente-photos-bin) | 1.7.31-2 | 0 | Desktop client for ente Photos (self-contained AppImage) |
+| 2026-11-09 14:41:36 | [fun-overlay-git](https://aur.archlinux.org/packages/fun-overlay-git) | 0.1.0.r2.2bfddf4-1 | 0 | A lightweight, draggable animated GIF overlay for Wayland compositors like Hypr… |
+| 2026-11-09 14:45:02 | [crum-bs](https://aur.archlinux.org/packages/crum-bs) | 0.2.0-1 | 0 | Find and remove app leftovers, caches and system bloat |
+| 2026-11-09 14:45:07 | [crum-bs-bin](https://aur.archlinux.org/packages/crum-bs-bin) | 0.2.0-1 | 0 | Find and remove app leftovers, caches and system bloat (static binary) |
+| 2026-11-09 14:46:46 | [hindsight-api](https://aur.archlinux.org/packages/hindsight-api) | 1.2.0-1 | 0 | Agent memory system: retain, recall and reflect server (slim, ONNX embeddings) |
+| 2026-11-09 14:47:13 | [pi-ext-hindsight](https://aur.archlinux.org/packages/pi-ext-hindsight) | 0.8.6-1 | 0 | Hindsight long-term memory for the pi coding agent |
 
 ## Data source
 

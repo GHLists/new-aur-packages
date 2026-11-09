@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-09T14:23:47Z,mtgpu-s30-dkms,3.1.0-2,0,Moore Threads MTT S30 kernel module and firmware (Linux 7.x+ DKMS port)
+2026-11-09T14:24:08Z,mtgpu-s30-userland,3.1.0-2,0,"Moore Threads MTT S30 userland graphics and compute drivers (OpenGL, Vulkan, VA-API, MUSA)"
+2026-11-09T14:30:19Z,ente-bin,1.7.31-3,0,Desktop client for ente Photos (self-contained AppImage)
+2026-11-09T14:40:23Z,ente-photos-bin,1.7.31-2,0,Desktop client for ente Photos (self-contained AppImage)
+2026-11-09T14:41:36Z,fun-overlay-git,0.1.0.r2.2bfddf4-1,0,"A lightweight, draggable animated GIF overlay for Wayland compositors like Hyprland"
+2026-11-09T14:45:02Z,crum-bs,0.2.0-1,0,"Find and remove app leftovers, caches and system bloat"
+2026-11-09T14:45:07Z,crum-bs-bin,0.2.0-1,0,"Find and remove app leftovers, caches and system bloat (static binary)"
+2026-11-09T14:46:46Z,hindsight-api,1.2.0-1,0,"Agent memory system: retain, recall and reflect server (slim, ONNX embeddings)"
+2026-11-09T14:47:13Z,pi-ext-hindsight,0.8.6-1,0,Hindsight long-term memory for the pi coding agent
