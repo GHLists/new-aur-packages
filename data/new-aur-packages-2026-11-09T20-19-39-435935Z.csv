@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-09T19:24:41Z,nexus-launcher,0.5.0-1,0,"Xbox-inspired launcher for Microsoft Store PC games on Linux, built on Xodus"
+2026-11-09T19:25:46Z,nexus-launcher-bin,0.5.0-1,0,"Xbox-inspired launcher for Microsoft Store PC games on Linux, built on Xodus"
+2026-11-09T19:32:22Z,rustconn-ru,0.24.9-1,0,"Modern connection manager for SSH, RDP, VNC, SPICE and more (with Russian localization)"
+2026-11-09T19:43:31Z,jupyter-ruff-bin,0.3.1-1,0,JupyterLab and Jupyter Notebook extension for formatting code with Ruff
+2026-11-09T19:47:37Z,slimit-gpu-git,1.1.10.r4.g147873b-2,0,"GUI NVidia GPU overclock, power limit and fan manager"
+2026-11-09T20:03:06Z,python-smithy-cbor,0.2.0-1,0,CBOR serialization and deserialization support for Smithy tooling.
