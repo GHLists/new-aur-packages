@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 02:19 UTC
+## Latest list — 2026-11-09 03:20 UTC
 
-New packages created between 2026-11-09 01:21 UTC and 2026-11-09 02:19 UTC.
+New packages created between 2026-11-09 02:19 UTC and 2026-11-09 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T02-19-10-854657Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T03-20-56-277243Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 02:15:20 | [doriterm-bin](https://aur.archlinux.org/packages/doriterm-bin) | 0.1.13-1 | 0 | Your devices, one terminal. Every machine you own, linked through an end-to-end… |
+| 2026-11-09 02:20:02 | [thesio-bin](https://aur.archlinux.org/packages/thesio-bin) | 0.1.1-1 | 0 | A local-first workspace for academic research and writing |
 
 ## Data source
 
