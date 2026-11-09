@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 07:19 UTC
+## Latest list — 2026-11-09 08:20 UTC
 
-New packages created between 2026-11-09 06:19 UTC and 2026-11-09 07:19 UTC.
+New packages created between 2026-11-09 07:19 UTC and 2026-11-09 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T07-19-29-305107Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T08-20-03-072631Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 06:20:21 | [python-esphome-dashboard](https://aur.archlinux.org/packages/python-esphome-dashboard) | 20260425.0-1 | 0 | ESPHome dashboard and ESPHome Web |
-| 2026-11-09 06:21:00 | [python-kconfiglib](https://aur.archlinux.org/packages/python-kconfiglib) | 14.1.0-6 | 0 | A flexible Python Kconfig implementation |
-| 2026-11-09 06:56:45 | [kuina-git-static](https://aur.archlinux.org/packages/kuina-git-static) | 1d0ef3f-1 | 0 | Fish/bash/zsh shell prompt in the style of XMonad. |
+| 2026-11-09 07:42:04 | [nuvoton-hid-isp-git](https://aur.archlinux.org/packages/nuvoton-hid-isp-git) | r2.151134b-1 | 0 | Nuvoton USB HID ISP Programmer |
+| 2026-11-09 07:53:42 | [python-pytest-skip-slow](https://aur.archlinux.org/packages/python-pytest-skip-slow) | 1.1.0-1 | 0 | Pytest plugin to skip tests marked as slow by default |
+| 2026-11-09 07:54:06 | [proxypin-git](https://aur.archlinux.org/packages/proxypin-git) | 1.4.0.r41.g866ffad-1 | 0 | HTTP/HTTPS packet capture and manipulation tool with an in-process MITM proxy (… |
+| 2026-11-09 07:55:31 | [qtum-git](https://aur.archlinux.org/packages/qtum-git) | 30.3.0.r52981.g493a… | 0 | Qtum Core (git master): qtumd, qtum-qt, qtum-cli, qtum-tx, qtum-util, qtum-wall… |
+| 2026-11-09 07:56:27 | [qtum-bin](https://aur.archlinux.org/packages/qtum-bin) | 0.17.3-1 | 0 | Qtum Desktop Binary release |
 
 ## Data source
 
