@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-09T05:35:29Z,hongguo-desktop-bin,0.2.159-3,0,红果短剧桌面版（预编译 AppImage）
+2026-11-09T05:50:38Z,gt3-revisited-bin,0.6.3-1,1,Open reimplementation of the Gran Turismo 3 A-Spec engine
+2026-11-09T06:12:55Z,gt3-revisited-git,0.6.3.r4.g634adfa-1,1,Open reimplementation of the Gran Turismo 3 A-Spec engine (latest Git version)
+2026-11-09T06:13:43Z,yavcpdf,0.3.0-1,0,"A minimal, keyboard-driven PDF viewer"
+2026-11-09T06:13:58Z,yavcpdf-bin,0.3.0-1,0,"A minimal, keyboard-driven PDF viewer (release binary)"
