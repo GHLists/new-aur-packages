@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-09T18:39:49Z,rivermonad,0.1.0-1,0,xmonad-style tiling window manager for the river Wayland compositor
+2026-11-09T18:42:31Z,waymobar,0.1.0-1,0,"Wayland status bar written and configured in Haskell, with rivermonad widgets"
+2026-11-09T19:07:36Z,sanalyer-bin,2026.1107.110815-1,1,Instant messaging and VoIP application

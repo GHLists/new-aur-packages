@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 18:20 UTC
+## Latest list — 2026-11-09 19:19 UTC
 
-New packages created between 2026-11-09 17:19 UTC and 2026-11-09 18:20 UTC.
+New packages created between 2026-11-09 18:20 UTC and 2026-11-09 19:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-09T18-20-42-275186Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-09T19-19-59-730522Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 17:52:05 | [em100-git](https://aur.archlinux.org/packages/em100-git) | r257.0c07a11-1 | 0 | Open source tool for the EM100 SPI flash emulator (latest version from the bran… |
+| 2026-11-09 18:39:49 | [rivermonad](https://aur.archlinux.org/packages/rivermonad) | 0.1.0-1 | 0 | xmonad-style tiling window manager for the river Wayland compositor |
+| 2026-11-09 18:42:31 | [waymobar](https://aur.archlinux.org/packages/waymobar) | 0.1.0-1 | 0 | Wayland status bar written and configured in Haskell, with rivermonad widgets |
+| 2026-11-09 19:07:36 | [sanalyer-bin](https://aur.archlinux.org/packages/sanalyer-bin) | 2026.1107.110815-1 | 1 | Instant messaging and VoIP application |
 
 ## Data source
 
