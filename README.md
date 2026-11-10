@@ -12,17 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 12:21 UTC
+## Latest list — 2026-11-10 13:20 UTC
 
-New packages created between 2026-11-10 11:20 UTC and 2026-11-10 12:21 UTC.
+New packages created between 2026-11-10 12:21 UTC and 2026-11-10 13:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T12-21-21-222611Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T13-20-54-723631Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 11:58:11 | [ae-code](https://aur.archlinux.org/packages/ae-code) | 2026.11.10.1-1 | 0 | Desktop GUI for coding agents (fork of T3 Code), release |
-| 2026-11-10 11:58:16 | [ae-code-bin](https://aur.archlinux.org/packages/ae-code-bin) | 2026.11.10.1-1 | 0 | Desktop GUI for coding agents (fork of T3 Code), prebuilt release |
-| 2026-11-10 11:58:22 | [ae-code-git](https://aur.archlinux.org/packages/ae-code-git) | 2026.11.10.1.r0.g3d… | 0 | Desktop GUI for coding agents (fork of T3 Code), latest commit |
+| 2026-11-10 12:40:54 | [rgx-search-v2-bin](https://aur.archlinux.org/packages/rgx-search-v2-bin) | 0.1.10-1 | 0 | Ripgrep-compatible search inside PDFs, Office documents, archives, 3D models, L… |
+| 2026-11-10 12:41:01 | [rgx-search-v4-bin](https://aur.archlinux.org/packages/rgx-search-v4-bin) | 0.1.10-1 | 0 | Ripgrep-compatible search inside PDFs, Office documents, archives, 3D models, L… |
+| 2026-11-10 12:55:55 | [colibri-git](https://aur.archlinux.org/packages/colibri-git) | 2.1.0.r5150.g0a5504… | 0 | Colibri hierarchical MoE inference engine (Git source, CPU, web dashboard) |
+| 2026-11-10 12:56:46 | [silverscreen-git](https://aur.archlinux.org/packages/silverscreen-git) | 0.1.0.r0.g0000000-1 | 0 | Native GTK4 YouTube client that plays videos with MPV |
+| 2026-11-10 12:57:37 | [silverscreen-bin](https://aur.archlinux.org/packages/silverscreen-bin) | 0.1.0-1 | 0 | Native GTK4 YouTube client that plays videos with MPV (precompiled binary) |
+| 2026-11-10 13:16:28 | [sift-reader](https://aur.archlinux.org/packages/sift-reader) | 0.1.0-1 | 0 | Read the web, aloud, with Kokoro |
 
 ## Data source
 

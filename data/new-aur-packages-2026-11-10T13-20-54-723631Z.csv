@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-10T12:40:54Z,rgx-search-v2-bin,0.1.10-1,0,"Ripgrep-compatible search inside PDFs, Office documents, archives, 3D models, LLM checkpoints, databases and e-mail (x86-64-v2 tuned binary release)"
+2026-11-10T12:41:01Z,rgx-search-v4-bin,0.1.10-1,0,"Ripgrep-compatible search inside PDFs, Office documents, archives, 3D models, LLM checkpoints, databases and e-mail (x86-64-v4 / AVX-512 tuned binary release)"
+2026-11-10T12:55:55Z,colibri-git,2.1.0.r5150.g0a5504…,0,"Colibri hierarchical MoE inference engine (Git source, CPU, web dashboard)"
+2026-11-10T12:56:46Z,silverscreen-git,0.1.0.r0.g0000000-1,0,Native GTK4 YouTube client that plays videos with MPV
+2026-11-10T12:57:37Z,silverscreen-bin,0.1.0-1,0,Native GTK4 YouTube client that plays videos with MPV (precompiled binary)
+2026-11-10T13:16:28Z,sift-reader,0.1.0-1,0,"Read the web, aloud, with Kokoro"
