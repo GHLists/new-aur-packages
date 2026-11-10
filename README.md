@@ -12,20 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 07:21 UTC
+## Latest list — 2026-11-10 08:19 UTC
 
-New packages created between 2026-11-10 06:21 UTC and 2026-11-10 07:21 UTC.
+New packages created between 2026-11-10 07:21 UTC and 2026-11-10 08:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T07-21-22-279819Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T08-19-15-65902Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 06:40:49 | [matlivre](https://aur.archlinux.org/packages/matlivre) | 0.1.7-1 | 1 | A fast live script editor and runtime for MATLAB code. |
-| 2026-11-10 06:50:14 | [prot-desktop](https://aur.archlinux.org/packages/prot-desktop) | 0.2.1-1 | 0 | prot desktop app for managing development servers |
-| 2026-11-10 06:51:06 | [zotero-wakatime](https://aur.archlinux.org/packages/zotero-wakatime) | 0.2.2-1 | 0 | WakaTime time tracking integration for Zotero |
-| 2026-11-10 06:57:13 | [python-vserial-git](https://aur.archlinux.org/packages/python-vserial-git) | r1.a05fa94-1 | 0 | Professional Linux Virtual Serial Port & Silicon Hardware UART Emulator Suite w… |
-| 2026-11-10 06:57:32 | [vibex-bin](https://aur.archlinux.org/packages/vibex-bin) | 0.1.0-1 | 0 | Local-first AI coding workbench: Agent sessions, Git, terminals, and previews |
-| 2026-11-10 06:57:52 | [whatsie](https://aur.archlinux.org/packages/whatsie) | 6.0.3.r0.gb5800ff-1 | 1 | Fast Light weight WhatsApp Client based on Qt's WebEngine, With lots of setting… |
+| 2026-11-10 07:29:28 | [kwin-mcp](https://aur.archlinux.org/packages/kwin-mcp) | 0.12.0-1 | 0 | MCP server for Linux desktop GUI automation on KDE Plasma 6 Wayland |
+| 2026-11-10 07:46:19 | [umsfuse](https://aur.archlinux.org/packages/umsfuse) | 1.0.0-1 | 0 | FUSE driver and programs for UMSDOS |
 
 ## Data source
 
