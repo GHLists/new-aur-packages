@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 09:19 UTC
+## Latest list — 2026-11-10 11:20 UTC
 
-New packages created between 2026-11-10 08:19 UTC and 2026-11-10 09:19 UTC.
+New packages created between 2026-11-10 10:21 UTC and 2026-11-10 11:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T09-19-41-111779Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T11-20-11-771187Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 08:28:23 | [swiftdl-bin](https://aur.archlinux.org/packages/swiftdl-bin) | 0.3.5-1 | 0 | Fast, resumable download manager with many connections per file and a browser e… |
+| 2026-11-10 11:02:28 | [jotty-bin](https://aur.archlinux.org/packages/jotty-bin) | 2.0.0-1 | 0 | An opinionated, Wayland-native terminal emulator that supports both CPU and GPU… |
+| 2026-11-10 11:04:19 | [zero-beat-bin](https://aur.archlinux.org/packages/zero-beat-bin) | 0.7.0-1 | 0 | Terminal music player for NetEase Cloud Music and Bilibili (prebuilt binary) |
+| 2026-11-10 11:08:06 | [jotty-git](https://aur.archlinux.org/packages/jotty-git) | 2.0.0.r5.gc55c274-1 | 0 | An opinionated, Wayland-native terminal emulator that supports both CPU and GPU… |
 
 ## Data source
 
