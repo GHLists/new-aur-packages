@@ -12,16 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 14:21 UTC
+## Latest list — 2026-11-10 15:20 UTC
 
-New packages created between 2026-11-10 13:20 UTC and 2026-11-10 14:21 UTC.
+New packages created between 2026-11-10 14:21 UTC and 2026-11-10 15:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T14-21-17-039103Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T15-20-51-109887Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 13:34:17 | [novadeck-bin](https://aur.archlinux.org/packages/novadeck-bin) | 1.6.16-1 | 0 | Desktop terminal for running Claude Code, Codex and Antigravity side by side, w… |
-| 2026-11-10 14:00:41 | [soulm8te-bin](https://aur.archlinux.org/packages/soulm8te-bin) | 1.2.2-1 | 0 | Electron browser with private sessions, tab sleeping and native Chromium tabs. |
+| 2026-11-10 14:31:33 | [sift-reader-bin](https://aur.archlinux.org/packages/sift-reader-bin) | 0.1.1-1 | 0 | Read the web, aloud, with Kokoro (prebuilt) |
+| 2026-11-10 14:54:10 | [rufin](https://aur.archlinux.org/packages/rufin) | 0.9.0-1 | 0 | Native GTK4/libadwaita music client for Jellyfin, Subsonic, Navidrome and local… |
+| 2026-11-10 15:04:08 | [claude-cage-bin](https://aur.archlinux.org/packages/claude-cage-bin) | 0.1.7rc.1-1 | 0 | Isolated Claude development workspace with a local virtual machine |
+| 2026-11-10 15:06:57 | [silly-simple-git](https://aur.archlinux.org/packages/silly-simple-git) | 0.1.7.r5.g6e3315b-1 | 0 | Chat with AI characters on your own computer. No account, no terminal, nothing… |
+| 2026-11-10 15:10:19 | [tabdance-test-bin](https://aur.archlinux.org/packages/tabdance-test-bin) | 0.0.6-1 | 0 | Headless terminal testing |
+| 2026-11-10 15:12:25 | [recompia-bin](https://aur.archlinux.org/packages/recompia-bin) | 0.9.0-1 | 0 | Pokopia recompilation launcher with multiplayer support (requires game files) |
+| 2026-11-10 15:13:45 | [vleer-nightly-bin](https://aur.archlinux.org/packages/vleer-nightly-bin) | 0.1.0_nightly.20261… | 0 | Music, but without the subscription (nightly build) |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-10T14:31:33Z,sift-reader-bin,0.1.1-1,0,"Read the web, aloud, with Kokoro (prebuilt)"
+2026-11-10T14:54:10Z,rufin,0.9.0-1,0,"Native GTK4/libadwaita music client for Jellyfin, Subsonic, Navidrome and local libraries written in Rust"
+2026-11-10T15:04:08Z,claude-cage-bin,0.1.7rc.1-1,0,Isolated Claude development workspace with a local virtual machine
+2026-11-10T15:06:57Z,silly-simple-git,0.1.7.r5.g6e3315b-1,0,"Chat with AI characters on your own computer. No account, no terminal, nothing to set up."
+2026-11-10T15:10:19Z,tabdance-test-bin,0.0.6-1,0,Headless terminal testing
+2026-11-10T15:12:25Z,recompia-bin,0.9.0-1,0,Pokopia recompilation launcher with multiplayer support (requires game files)
+2026-11-10T15:13:45Z,vleer-nightly-bin,0.1.0_nightly.20261…,0,"Music, but without the subscription (nightly build)"
