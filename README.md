@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 01:19 UTC
+## Latest list — 2026-11-10 02:19 UTC
 
-New packages created between 2026-11-10 00:19 UTC and 2026-11-10 01:19 UTC.
+New packages created between 2026-11-10 01:19 UTC and 2026-11-10 02:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T01-19-57-266748Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T02-19-54-032361Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 00:41:48 | [beacon-cli-git](https://aur.archlinux.org/packages/beacon-cli-git) | 0.1.0.r31.g0aa9338-1 | 0 | Beacon status-page client with Waybar JSON output |
-| 2026-11-10 00:47:01 | [wowtype](https://aur.archlinux.org/packages/wowtype) | 0.3.6-1 | 0 | WeType 风格的拼音输入法：fcitx5 插件 + Rust 引擎（长句、半成品输入、纠错、学习） |
-| 2026-11-10 00:51:53 | [openxr-layer-quad-views-foveated-git](https://aur.archlinux.org/packages/openxr-layer-quad-views-foveated-git) | 1.1.3.r97.gcaf4d68-1 | 0 | OpenXR API layer to emulate quad views and foveated rendering support (OpenGL o… |
+| 2026-11-10 02:18:10 | [vardefm](https://aur.archlinux.org/packages/vardefm) |  |  | Open high-speed data modem for FM radios (VARA FM alternative) |
+| 2026-11-10 02:18:18 | [vardefm-bin](https://aur.archlinux.org/packages/vardefm-bin) |  |  | Open high-speed data modem for FM radios (VARA FM alternative) — binary release |
 
 ## Data source
 
