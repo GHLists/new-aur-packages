@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-10T06:40:49Z,matlivre,0.1.7-1,1,A fast live script editor and runtime for MATLAB code.
+2026-11-10T06:50:14Z,prot-desktop,0.2.1-1,0,prot desktop app for managing development servers
+2026-11-10T06:51:06Z,zotero-wakatime,0.2.2-1,0,WakaTime time tracking integration for Zotero
+2026-11-10T06:57:13Z,python-vserial-git,r1.a05fa94-1,0,Professional Linux Virtual Serial Port & Silicon Hardware UART Emulator Suite with Dedicated Protocol Sniffers and PulseView/Sigrok Logic Analyzer Bridge
+2026-11-10T06:57:32Z,vibex-bin,0.1.0-1,0,"Local-first AI coding workbench: Agent sessions, Git, terminals, and previews"
+2026-11-10T06:57:52Z,whatsie,6.0.3.r0.gb5800ff-1,1,"Fast Light weight WhatsApp Client based on Qt's WebEngine, With lots of settings and packed goodies"

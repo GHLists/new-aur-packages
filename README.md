@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 06:21 UTC
+## Latest list — 2026-11-10 07:21 UTC
 
-New packages created between 2026-11-10 05:19 UTC and 2026-11-10 06:21 UTC.
+New packages created between 2026-11-10 06:21 UTC and 2026-11-10 07:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T06-21-23-813553Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T07-21-22-279819Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 05:37:29 | [islet](https://aur.archlinux.org/packages/islet) | 0.1.0-1 | 0 | Dynamic Island / Floating Media HUD for wlroots and Smithay Wayland compositors |
-| 2026-11-10 05:43:14 | [matlivre-bin](https://aur.archlinux.org/packages/matlivre-bin) | 0.1.7-1 | 1 | A fast live script editor and runtime for MATLAB code. |
-| 2026-11-10 06:06:23 | [reason-network-bin](https://aur.archlinux.org/packages/reason-network-bin) | 0.12.17-1 | 0 | Team directory and message bus that lets coding agents on different machines me… |
-| 2026-11-10 06:17:42 | [ducter-bin](https://aur.archlinux.org/packages/ducter-bin) | 0.0.8-1 | 0 | Personal AI that dispatches work to coding agents on your own machines and repo… |
+| 2026-11-10 06:40:49 | [matlivre](https://aur.archlinux.org/packages/matlivre) | 0.1.7-1 | 1 | A fast live script editor and runtime for MATLAB code. |
+| 2026-11-10 06:50:14 | [prot-desktop](https://aur.archlinux.org/packages/prot-desktop) | 0.2.1-1 | 0 | prot desktop app for managing development servers |
+| 2026-11-10 06:51:06 | [zotero-wakatime](https://aur.archlinux.org/packages/zotero-wakatime) | 0.2.2-1 | 0 | WakaTime time tracking integration for Zotero |
+| 2026-11-10 06:57:13 | [python-vserial-git](https://aur.archlinux.org/packages/python-vserial-git) | r1.a05fa94-1 | 0 | Professional Linux Virtual Serial Port & Silicon Hardware UART Emulator Suite w… |
+| 2026-11-10 06:57:32 | [vibex-bin](https://aur.archlinux.org/packages/vibex-bin) | 0.1.0-1 | 0 | Local-first AI coding workbench: Agent sessions, Git, terminals, and previews |
+| 2026-11-10 06:57:52 | [whatsie](https://aur.archlinux.org/packages/whatsie) | 6.0.3.r0.gb5800ff-1 | 1 | Fast Light weight WhatsApp Client based on Qt's WebEngine, With lots of setting… |
 
 ## Data source
 
