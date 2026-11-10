@@ -12,19 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 21:20 UTC
+## Latest list — 2026-11-10 22:19 UTC
 
-New packages created between 2026-11-10 20:19 UTC and 2026-11-10 21:20 UTC.
+New packages created between 2026-11-10 21:20 UTC and 2026-11-10 22:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T21-20-47-191723Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T22-19-14-56445Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 20:32:21 | [tui-chart-git](https://aur.archlinux.org/packages/tui-chart-git) | 0.2.0.r0.ged21c70-1 | 0 | High resolution live charts for the terminal |
-| 2026-11-10 20:42:33 | [codex-x-bin](https://aur.archlinux.org/packages/codex-x-bin) | 0.3.33-1 | 0 | OpenAI Codex 桌面端/CLI 的可视化管理工具，具有 Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML… |
-| 2026-11-10 20:43:39 | [data2g](https://aur.archlinux.org/packages/data2g) | 0.4.3-1 | 0 | HF data modem on the SSTVAE OFDM waveform (VARA-compatible host ports, KISS): h… |
-| 2026-11-10 20:46:29 | [ragtime](https://aur.archlinux.org/packages/ragtime) | 0.2.0beta-1 | 0 | Chat and file transfer over HF with Data2G |
-| 2026-11-10 20:49:32 | [ragtime-git](https://aur.archlinux.org/packages/ragtime-git) | 0.2.0beta.r137.g6b8… | 0 | Chat and file transfer over HF with Data2G (git main) |
+| 2026-11-10 21:35:39 | [photoes](https://aur.archlinux.org/packages/photoes) | 0.1.0-1 | 0 | A fast, minimal, AI-first photos app for Linux |
 
 ## Data source
 
