@@ -12,15 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 22:19 UTC
+## Latest list — 2026-11-10 23:19 UTC
 
-New packages created between 2026-11-10 21:20 UTC and 2026-11-10 22:19 UTC.
+New packages created between 2026-11-10 22:19 UTC and 2026-11-10 23:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T22-19-14-56445Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T23-19-56-986166Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 21:35:39 | [photoes](https://aur.archlinux.org/packages/photoes) | 0.1.0-1 | 0 | A fast, minimal, AI-first photos app for Linux |
+| 2026-11-10 22:20:11 | [book-studio-git](https://aur.archlinux.org/packages/book-studio-git) | 2.2.0.r11.gc9157ca-1 | 0 | Write, read, annotate and print a book written in markdown. Free, open source,… |
+| 2026-11-10 22:42:17 | [chromium-extension-xbrowsersync](https://aur.archlinux.org/packages/chromium-extension-xbrowsersync) | 1.5.2-2 | 0 | xBrowserSync: free, open-source, anonymous and secure bookmark sync (Chromium e… |
+| 2026-11-10 22:42:23 | [firefox-extension-xbrowsersync](https://aur.archlinux.org/packages/firefox-extension-xbrowsersync) | 1.5.2-1 | 0 | xBrowserSync: free, open-source, anonymous and secure bookmark sync (Firefox ex… |
+| 2026-11-10 22:43:33 | [spaceknife-bin](https://aur.archlinux.org/packages/spaceknife-bin) | 0.3.4-1 | 0 | A modern, cross-platform disk usage analyzer: a live treemap that shows what fi… |
+| 2026-11-10 23:05:07 | [bsv-desktop-bin](https://aur.archlinux.org/packages/bsv-desktop-bin) | 3.3.1-1 | 0 | A cross-platform desktop wallet application for the BSV Blockchain, built with… |
+| 2026-11-10 23:13:22 | [swayprofile](https://aur.archlinux.org/packages/swayprofile) | 0.1.1-1 | 0 | Switch sway power/performance profiles (refresh rate, power-profiles-daemon, LA… |
 
 ## Data source
 

@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-10T22:20:11Z,book-studio-git,2.2.0.r11.gc9157ca-1,0,"Write, read, annotate and print a book written in markdown. Free, open source, offline."
+2026-11-10T22:42:17Z,chromium-extension-xbrowsersync,1.5.2-2,0,"xBrowserSync: free, open-source, anonymous and secure bookmark sync (Chromium extension, loaded unpacked)"
+2026-11-10T22:42:23Z,firefox-extension-xbrowsersync,1.5.2-1,0,"xBrowserSync: free, open-source, anonymous and secure bookmark sync (Firefox extension)"
+2026-11-10T22:43:33Z,spaceknife-bin,0.3.4-1,0,"A modern, cross-platform disk usage analyzer: a live treemap that shows what fills your drives.现代化的跨平台硬盘占用分析工具，实时树图"
+2026-11-10T23:05:07Z,bsv-desktop-bin,3.3.1-1,0,"A cross-platform desktop wallet application for the BSV Blockchain, built with Electron and Vite. BSV Desktop provides a complete wallet interface with support for both self-custody (local) and remote storage options."
+2026-11-10T23:13:22Z,swayprofile,0.1.1-1,0,"Switch sway power/performance profiles (refresh rate, power-profiles-daemon, LACT GPU, DND) manually, per window or on idle"
