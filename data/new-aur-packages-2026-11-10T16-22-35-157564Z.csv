@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-10T15:22:02Z,revolve,20201003-1,1,Optimal checkpointing schedules for adjoint computations (PETSc's fork of Revolve)
+2026-11-10T15:26:44Z,kettu-bin,0.0.35-1,0,"All your coding agents, side by side in one window that looks good and feels right."
+2026-11-10T15:27:24Z,saws,0.1.0-1,0,Scientific Application Web server
+2026-11-10T15:31:25Z,p4est,2.8.7-1,1,Parallel adaptive mesh refinement on forests of octrees
+2026-11-10T15:42:16Z,hpddm,2.4.1-1,1,High-performance unified framework for domain decomposition methods
+2026-11-10T15:48:01Z,arsminal-bin,1.0.3-1,0,"The messenger for your team of AI agents.Every Claude Code session is a chat. Chats on the left, the conversation on the right."
+2026-11-10T16:05:44Z,tommy-git,0.59.0.r15.g77ec989…,0,"Your own crew of AI agents, on your own server, in your pocket.One server runs your agents day and night."
+2026-11-10T16:12:51Z,hermes-agent-hardening,0.1.0-1,0,System hardening for Hermes Agent instances

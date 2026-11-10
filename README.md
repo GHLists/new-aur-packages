@@ -12,21 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 15:20 UTC
+## Latest list — 2026-11-10 16:22 UTC
 
-New packages created between 2026-11-10 14:21 UTC and 2026-11-10 15:20 UTC.
+New packages created between 2026-11-10 15:20 UTC and 2026-11-10 16:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T15-20-51-109887Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T16-22-35-157564Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 14:31:33 | [sift-reader-bin](https://aur.archlinux.org/packages/sift-reader-bin) | 0.1.1-1 | 0 | Read the web, aloud, with Kokoro (prebuilt) |
-| 2026-11-10 14:54:10 | [rufin](https://aur.archlinux.org/packages/rufin) | 0.9.0-1 | 0 | Native GTK4/libadwaita music client for Jellyfin, Subsonic, Navidrome and local… |
-| 2026-11-10 15:04:08 | [claude-cage-bin](https://aur.archlinux.org/packages/claude-cage-bin) | 0.1.7rc.1-1 | 0 | Isolated Claude development workspace with a local virtual machine |
-| 2026-11-10 15:06:57 | [silly-simple-git](https://aur.archlinux.org/packages/silly-simple-git) | 0.1.7.r5.g6e3315b-1 | 0 | Chat with AI characters on your own computer. No account, no terminal, nothing… |
-| 2026-11-10 15:10:19 | [tabdance-test-bin](https://aur.archlinux.org/packages/tabdance-test-bin) | 0.0.6-1 | 0 | Headless terminal testing |
-| 2026-11-10 15:12:25 | [recompia-bin](https://aur.archlinux.org/packages/recompia-bin) | 0.9.0-1 | 0 | Pokopia recompilation launcher with multiplayer support (requires game files) |
-| 2026-11-10 15:13:45 | [vleer-nightly-bin](https://aur.archlinux.org/packages/vleer-nightly-bin) | 0.1.0_nightly.20261… | 0 | Music, but without the subscription (nightly build) |
+| 2026-11-10 15:22:02 | [revolve](https://aur.archlinux.org/packages/revolve) | 20201003-1 | 1 | Optimal checkpointing schedules for adjoint computations (PETSc's fork of Revol… |
+| 2026-11-10 15:26:44 | [kettu-bin](https://aur.archlinux.org/packages/kettu-bin) | 0.0.35-1 | 0 | All your coding agents, side by side in one window that looks good and feels ri… |
+| 2026-11-10 15:27:24 | [saws](https://aur.archlinux.org/packages/saws) | 0.1.0-1 | 0 | Scientific Application Web server |
+| 2026-11-10 15:31:25 | [p4est](https://aur.archlinux.org/packages/p4est) | 2.8.7-1 | 1 | Parallel adaptive mesh refinement on forests of octrees |
+| 2026-11-10 15:42:16 | [hpddm](https://aur.archlinux.org/packages/hpddm) | 2.4.1-1 | 1 | High-performance unified framework for domain decomposition methods |
+| 2026-11-10 15:48:01 | [arsminal-bin](https://aur.archlinux.org/packages/arsminal-bin) | 1.0.3-1 | 0 | The messenger for your team of AI agents.Every Claude Code session is a chat. C… |
+| 2026-11-10 16:05:44 | [tommy-git](https://aur.archlinux.org/packages/tommy-git) | 0.59.0.r15.g77ec989… | 0 | Your own crew of AI agents, on your own server, in your pocket.One server runs… |
+| 2026-11-10 16:12:51 | [hermes-agent-hardening](https://aur.archlinux.org/packages/hermes-agent-hardening) | 0.1.0-1 | 0 | System hardening for Hermes Agent instances |
 
 ## Data source
 
