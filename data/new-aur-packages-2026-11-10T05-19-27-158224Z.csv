@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-10T04:54:10Z,wowtype-bin,0.3.6-1,0,"WeType-style pinyin input method for fcitx5, with the bundled dictionary and language model"
+2026-11-10T05:08:46Z,mob3-bin,1.3.0-1,1,"MOB³ is a compact, self-contained browser for the terminal"
+2026-11-10T05:13:54Z,entrance,3.0.0-1,1,An EFL based display manager
