@@ -12,22 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 16:22 UTC
+## Latest list — 2026-11-10 17:21 UTC
 
-New packages created between 2026-11-10 15:20 UTC and 2026-11-10 16:22 UTC.
+New packages created between 2026-11-10 16:22 UTC and 2026-11-10 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T16-22-35-157564Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T17-21-30-275453Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 15:22:02 | [revolve](https://aur.archlinux.org/packages/revolve) | 20201003-1 | 1 | Optimal checkpointing schedules for adjoint computations (PETSc's fork of Revol… |
-| 2026-11-10 15:26:44 | [kettu-bin](https://aur.archlinux.org/packages/kettu-bin) | 0.0.35-1 | 0 | All your coding agents, side by side in one window that looks good and feels ri… |
-| 2026-11-10 15:27:24 | [saws](https://aur.archlinux.org/packages/saws) | 0.1.0-1 | 0 | Scientific Application Web server |
-| 2026-11-10 15:31:25 | [p4est](https://aur.archlinux.org/packages/p4est) | 2.8.7-1 | 1 | Parallel adaptive mesh refinement on forests of octrees |
-| 2026-11-10 15:42:16 | [hpddm](https://aur.archlinux.org/packages/hpddm) | 2.4.1-1 | 1 | High-performance unified framework for domain decomposition methods |
-| 2026-11-10 15:48:01 | [arsminal-bin](https://aur.archlinux.org/packages/arsminal-bin) | 1.0.3-1 | 0 | The messenger for your team of AI agents.Every Claude Code session is a chat. C… |
-| 2026-11-10 16:05:44 | [tommy-git](https://aur.archlinux.org/packages/tommy-git) | 0.59.0.r15.g77ec989… | 0 | Your own crew of AI agents, on your own server, in your pocket.One server runs… |
-| 2026-11-10 16:12:51 | [hermes-agent-hardening](https://aur.archlinux.org/packages/hermes-agent-hardening) | 0.1.0-1 | 0 | System hardening for Hermes Agent instances |
+| 2026-11-10 16:45:15 | [mint-themes-libadwaita](https://aur.archlinux.org/packages/mint-themes-libadwaita) | 2.4.3-1 | 0 | libadwaita theme stylesheets for mint-themes |
+| 2026-11-10 16:53:27 | [exodusii](https://aur.archlinux.org/packages/exodusii) | 2026.08.11-1 | 0 | Exodus II finite element mesh and results database library (from SEACAS) |
+| 2026-11-10 17:20:09 | [parmmg](https://aur.archlinux.org/packages/parmmg) |  |  | Parallel remesher built on Mmg: distributed tetrahedral mesh adaptation |
 
 ## Data source
 
