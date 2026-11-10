@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 02:19 UTC
+## Latest list — 2026-11-10 03:21 UTC
 
-New packages created between 2026-11-10 01:19 UTC and 2026-11-10 02:19 UTC.
+New packages created between 2026-11-10 02:19 UTC and 2026-11-10 03:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T02-19-54-032361Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T03-21-34-064162Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 02:18:10 | [vardefm](https://aur.archlinux.org/packages/vardefm) |  |  | Open high-speed data modem for FM radios (VARA FM alternative) |
-| 2026-11-10 02:18:18 | [vardefm-bin](https://aur.archlinux.org/packages/vardefm-bin) |  |  | Open high-speed data modem for FM radios (VARA FM alternative) — binary release |
+| 2026-11-10 02:21:30 | [vardefm-git](https://aur.archlinux.org/packages/vardefm-git) | 0.3.1.r1.g0351268-1 | 0 | Open high-speed data modem for FM radios (VARA FM alternative) — latest git |
+| 2026-11-10 02:28:10 | [mister-download-manager-bin](https://aur.archlinux.org/packages/mister-download-manager-bin) | 0.5.2-1 | 0 | Open-source download manager with multi-connection downloads, browser integrati… |
+| 2026-11-10 03:03:29 | [ttt-aegix-git](https://aur.archlinux.org/packages/ttt-aegix-git) | r3.08ff984-1 | 0 | Aegix Linux's terminal Time Timer: a visual countdown dial for ADHD time blindn… |
 
 ## Data source
 
