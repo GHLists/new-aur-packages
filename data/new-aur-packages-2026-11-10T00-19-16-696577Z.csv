@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-09T23:34:44Z,nightjar-desktop-bin,4.12.1-1,0,Moonlight-protocol game-streaming client
+2026-11-09T23:46:00Z,mex,0.2.0-1,0,A terminal UI for browsing mDNS traffic
+2026-11-09T23:47:21Z,libfprint-elan-0c28-patch,1.94.100-3,0,"Library for fingerprint readers, patched for the ELAN 04f3:0c28 press sensor"
+2026-11-09T23:48:36Z,opensynapse,0.1.1-1,0,"Remap buttons, set DPI and lighting on Razer mice from Linux"
+2026-11-10T00:06:42Z,opensynapse-bin,0.1.1-1,0,"Remap buttons, set DPI and lighting on Razer mice from Linux (prebuilt)"
+2026-11-10T00:06:44Z,opensynapse-git,0.1.1-1,0,"Remap buttons, set DPI and lighting on Razer mice from Linux (latest main)"
