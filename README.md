@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 17:21 UTC
+## Latest list — 2026-11-10 18:20 UTC
 
-New packages created between 2026-11-10 16:22 UTC and 2026-11-10 17:21 UTC.
+New packages created between 2026-11-10 17:21 UTC and 2026-11-10 18:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T17-21-30-275453Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T18-20-08-267874Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 16:45:15 | [mint-themes-libadwaita](https://aur.archlinux.org/packages/mint-themes-libadwaita) | 2.4.3-1 | 0 | libadwaita theme stylesheets for mint-themes |
-| 2026-11-10 16:53:27 | [exodusii](https://aur.archlinux.org/packages/exodusii) | 2026.08.11-1 | 0 | Exodus II finite element mesh and results database library (from SEACAS) |
-| 2026-11-10 17:20:09 | [parmmg](https://aur.archlinux.org/packages/parmmg) |  |  | Parallel remesher built on Mmg: distributed tetrahedral mesh adaptation |
+| 2026-11-10 17:42:33 | [weq-bin](https://aur.archlinux.org/packages/weq-bin) | 2.6.0-1 | 0 | QQ NT 本地聊天记录解密、导出、查看与年度报告 |
+| 2026-11-10 18:13:02 | [pamgen](https://aur.archlinux.org/packages/pamgen) | 17.3.0-1 | 1 | Parallel inline mesh generator for hexahedral and quadrilateral meshes (from Tr… |
 
 ## Data source
 
