@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 18:20 UTC
+## Latest list — 2026-11-10 19:22 UTC
 
-New packages created between 2026-11-10 17:21 UTC and 2026-11-10 18:20 UTC.
+New packages created between 2026-11-10 18:20 UTC and 2026-11-10 19:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T18-20-08-267874Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T19-22-18-869959Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 17:42:33 | [weq-bin](https://aur.archlinux.org/packages/weq-bin) | 2.6.0-1 | 0 | QQ NT 本地聊天记录解密、导出、查看与年度报告 |
-| 2026-11-10 18:13:02 | [pamgen](https://aur.archlinux.org/packages/pamgen) | 17.3.0-1 | 1 | Parallel inline mesh generator for hexahedral and quadrilateral meshes (from Tr… |
+| 2026-11-10 18:22:54 | [qamp](https://aur.archlinux.org/packages/qamp) | 0.0.1-1 | 0 | Winamp-style audio player with vector and classic skins |
+| 2026-11-10 18:49:39 | [alol](https://aur.archlinux.org/packages/alol) | 1.0.1-2 | 0 | Arizona RP and Rodina RP for Linux with a Material 3 Expressive interface |
+| 2026-11-10 19:13:29 | [loaf-fm-nightly-bin](https://aur.archlinux.org/packages/loaf-fm-nightly-bin) | 0.3.0.nightly.20261… | 0 | Material 3 Expressive File Manager built with Qt6 Quick and Rust (nightly binar… |
 
 ## Data source
 

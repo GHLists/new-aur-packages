@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-10T18:22:54Z,qamp,0.0.1-1,0,Winamp-style audio player with vector and classic skins
+2026-11-10T18:49:39Z,alol,1.0.1-2,0,Arizona RP and Rodina RP for Linux with a Material 3 Expressive interface
+2026-11-10T19:13:29Z,loaf-fm-nightly-bin,0.3.0.nightly.20261…,0,Material 3 Expressive File Manager built with Qt6 Quick and Rust (nightly binary)
