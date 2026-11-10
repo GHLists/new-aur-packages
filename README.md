@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 19:22 UTC
+## Latest list — 2026-11-10 20:19 UTC
 
-New packages created between 2026-11-10 18:20 UTC and 2026-11-10 19:22 UTC.
+New packages created between 2026-11-10 19:22 UTC and 2026-11-10 20:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T19-22-18-869959Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T20-19-41-622968Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 18:22:54 | [qamp](https://aur.archlinux.org/packages/qamp) | 0.0.1-1 | 0 | Winamp-style audio player with vector and classic skins |
-| 2026-11-10 18:49:39 | [alol](https://aur.archlinux.org/packages/alol) | 1.0.1-2 | 0 | Arizona RP and Rodina RP for Linux with a Material 3 Expressive interface |
-| 2026-11-10 19:13:29 | [loaf-fm-nightly-bin](https://aur.archlinux.org/packages/loaf-fm-nightly-bin) | 0.3.0.nightly.20261… | 0 | Material 3 Expressive File Manager built with Qt6 Quick and Rust (nightly binar… |
+| 2026-11-10 19:55:33 | [vleer-bin](https://aur.archlinux.org/packages/vleer-bin) | 0.1.0-1 | 0 | Music, but without the subscription |
+| 2026-11-10 19:55:52 | [vleer](https://aur.archlinux.org/packages/vleer) | 0.1.0-1 | 0 | Music, but without the subscription |
+| 2026-11-10 19:57:52 | [update-notify](https://aur.archlinux.org/packages/update-notify) | 3.13-2 | 0 | Desktop notifications for pending repo and AUR updates |
 
 ## Data source
 
