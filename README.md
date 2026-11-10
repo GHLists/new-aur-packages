@@ -12,20 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 00:19 UTC
+## Latest list — 2026-11-10 01:19 UTC
 
-New packages created between 2026-11-09 23:20 UTC and 2026-11-10 00:19 UTC.
+New packages created between 2026-11-10 00:19 UTC and 2026-11-10 01:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T00-19-16-696577Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T01-19-57-266748Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 23:34:44 | [nightjar-desktop-bin](https://aur.archlinux.org/packages/nightjar-desktop-bin) | 4.12.1-1 | 0 | Moonlight-protocol game-streaming client |
-| 2026-11-09 23:46:00 | [mex](https://aur.archlinux.org/packages/mex) | 0.2.0-1 | 0 | A terminal UI for browsing mDNS traffic |
-| 2026-11-09 23:47:21 | [libfprint-elan-0c28-patch](https://aur.archlinux.org/packages/libfprint-elan-0c28-patch) | 1.94.100-3 | 0 | Library for fingerprint readers, patched for the ELAN 04f3:0c28 press sensor |
-| 2026-11-09 23:48:36 | [opensynapse](https://aur.archlinux.org/packages/opensynapse) | 0.1.1-1 | 0 | Remap buttons, set DPI and lighting on Razer mice from Linux |
-| 2026-11-10 00:06:42 | [opensynapse-bin](https://aur.archlinux.org/packages/opensynapse-bin) | 0.1.1-1 | 0 | Remap buttons, set DPI and lighting on Razer mice from Linux (prebuilt) |
-| 2026-11-10 00:06:44 | [opensynapse-git](https://aur.archlinux.org/packages/opensynapse-git) | 0.1.1-1 | 0 | Remap buttons, set DPI and lighting on Razer mice from Linux (latest main) |
+| 2026-11-10 00:41:48 | [beacon-cli-git](https://aur.archlinux.org/packages/beacon-cli-git) | 0.1.0.r31.g0aa9338-1 | 0 | Beacon status-page client with Waybar JSON output |
+| 2026-11-10 00:47:01 | [wowtype](https://aur.archlinux.org/packages/wowtype) | 0.3.6-1 | 0 | WeType 风格的拼音输入法：fcitx5 插件 + Rust 引擎（长句、半成品输入、纠错、学习） |
+| 2026-11-10 00:51:53 | [openxr-layer-quad-views-foveated-git](https://aur.archlinux.org/packages/openxr-layer-quad-views-foveated-git) | 1.1.3.r97.gcaf4d68-1 | 0 | OpenXR API layer to emulate quad views and foveated rendering support (OpenGL o… |
 
 ## Data source
 

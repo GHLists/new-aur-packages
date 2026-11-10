@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-10T00:41:48Z,beacon-cli-git,0.1.0.r31.g0aa9338-1,0,Beacon status-page client with Waybar JSON output
+2026-11-10T00:47:01Z,wowtype,0.3.6-1,0,WeType 风格的拼音输入法：fcitx5 插件 + Rust 引擎（长句、半成品输入、纠错、学习）
+2026-11-10T00:51:53Z,openxr-layer-quad-views-foveated-git,1.1.3.r97.gcaf4d68-1,0,OpenXR API layer to emulate quad views and foveated rendering support (OpenGL only)
