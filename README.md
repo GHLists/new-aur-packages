@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 11:20 UTC
+## Latest list — 2026-11-10 12:21 UTC
 
-New packages created between 2026-11-10 10:21 UTC and 2026-11-10 11:20 UTC.
+New packages created between 2026-11-10 11:20 UTC and 2026-11-10 12:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T11-20-11-771187Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T12-21-21-222611Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 11:02:28 | [jotty-bin](https://aur.archlinux.org/packages/jotty-bin) | 2.0.0-1 | 0 | An opinionated, Wayland-native terminal emulator that supports both CPU and GPU… |
-| 2026-11-10 11:04:19 | [zero-beat-bin](https://aur.archlinux.org/packages/zero-beat-bin) | 0.7.0-1 | 0 | Terminal music player for NetEase Cloud Music and Bilibili (prebuilt binary) |
-| 2026-11-10 11:08:06 | [jotty-git](https://aur.archlinux.org/packages/jotty-git) | 2.0.0.r5.gc55c274-1 | 0 | An opinionated, Wayland-native terminal emulator that supports both CPU and GPU… |
+| 2026-11-10 11:58:11 | [ae-code](https://aur.archlinux.org/packages/ae-code) | 2026.11.10.1-1 | 0 | Desktop GUI for coding agents (fork of T3 Code), release |
+| 2026-11-10 11:58:16 | [ae-code-bin](https://aur.archlinux.org/packages/ae-code-bin) | 2026.11.10.1-1 | 0 | Desktop GUI for coding agents (fork of T3 Code), prebuilt release |
+| 2026-11-10 11:58:22 | [ae-code-git](https://aur.archlinux.org/packages/ae-code-git) | 2026.11.10.1.r0.g3d… | 0 | Desktop GUI for coding agents (fork of T3 Code), latest commit |
 
 ## Data source
 
