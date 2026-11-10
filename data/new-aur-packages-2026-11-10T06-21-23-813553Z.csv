@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-10T05:37:29Z,islet,0.1.0-1,0,Dynamic Island / Floating Media HUD for wlroots and Smithay Wayland compositors
+2026-11-10T05:43:14Z,matlivre-bin,0.1.7-1,1,A fast live script editor and runtime for MATLAB code.
+2026-11-10T06:06:23Z,reason-network-bin,0.12.17-1,0,Team directory and message bus that lets coding agents on different machines message each other
+2026-11-10T06:17:42Z,ducter-bin,0.0.8-1,0,Personal AI that dispatches work to coding agents on your own machines and reports back

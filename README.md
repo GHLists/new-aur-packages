@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 05:19 UTC
+## Latest list — 2026-11-10 06:21 UTC
 
-New packages created between 2026-11-10 04:21 UTC and 2026-11-10 05:19 UTC.
+New packages created between 2026-11-10 05:19 UTC and 2026-11-10 06:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-10T05-19-27-158224Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-10T06-21-23-813553Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 04:54:10 | [wowtype-bin](https://aur.archlinux.org/packages/wowtype-bin) | 0.3.6-1 | 0 | WeType-style pinyin input method for fcitx5, with the bundled dictionary and la… |
-| 2026-11-10 05:08:46 | [mob3-bin](https://aur.archlinux.org/packages/mob3-bin) | 1.3.0-1 | 1 | MOB³ is a compact, self-contained browser for the terminal |
-| 2026-11-10 05:13:54 | [entrance](https://aur.archlinux.org/packages/entrance) | 3.0.0-1 | 1 | An EFL based display manager |
+| 2026-11-10 05:37:29 | [islet](https://aur.archlinux.org/packages/islet) | 0.1.0-1 | 0 | Dynamic Island / Floating Media HUD for wlroots and Smithay Wayland compositors |
+| 2026-11-10 05:43:14 | [matlivre-bin](https://aur.archlinux.org/packages/matlivre-bin) | 0.1.7-1 | 1 | A fast live script editor and runtime for MATLAB code. |
+| 2026-11-10 06:06:23 | [reason-network-bin](https://aur.archlinux.org/packages/reason-network-bin) | 0.12.17-1 | 0 | Team directory and message bus that lets coding agents on different machines me… |
+| 2026-11-10 06:17:42 | [ducter-bin](https://aur.archlinux.org/packages/ducter-bin) | 0.0.8-1 | 0 | Personal AI that dispatches work to coding agents on your own machines and repo… |
 
 ## Data source
 
