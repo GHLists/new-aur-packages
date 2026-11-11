@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-10T23:28:56Z,sunshine-store,0.2.0-1,0,"Microsoft-Store-style app shop for Arch: pacman, AUR, Flatpak, AppImage and Snap with instant search"
+2026-11-10T23:29:53Z,easyshot,0.1.0-1,0,"Screenshot, annotation and screen-recording app for Linux/Wayland"
+2026-11-10T23:30:04Z,easyshot-bin,0.1.0-1,0,"Screenshot, annotation and screen-recording app for Linux/Wayland (prebuilt)"
+2026-11-10T23:35:29Z,nodechem-studio-bin,0.5.1-1,0,"Software-agnostic desktop workbench for computational-chemistry workflows: graph canvas, local runner over Gaussian 16, ORCA, Psi4, PySCF and xTB, hashed provenance for every run"
+2026-11-11T00:14:54Z,reviewforge-git,2.1.2.r1.ge38989d-1,0,Local-first code review and feedback resolution with GitHub Copilot.
+2026-11-11T00:15:52Z,jerc,0.6.1-1,0,Keyboard-driven terminal email client written in Rust
