@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 05:20 UTC
+## Latest list — 2026-11-11 06:19 UTC
 
-New packages created between 2026-11-11 04:21 UTC and 2026-11-11 05:20 UTC.
+New packages created between 2026-11-11 05:20 UTC and 2026-11-11 06:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T05-20-49-822057Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T06-19-52-410926Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 04:29:31 | [yamldiff-bin](https://aur.archlinux.org/packages/yamldiff-bin) | 1.3-1 | 1 | A CLI tool to diff two YAML files |
-| 2026-11-11 04:34:51 | [astra-airlock-bin](https://aur.archlinux.org/packages/astra-airlock-bin) | 2.0.0-1 | 0 | A beautiful m3expressive greetd frontend based on Caelestia (prebuilt binary) |
-| 2026-11-11 05:15:01 | [rat-commander-bin](https://aur.archlinux.org/packages/rat-commander-bin) | 1.9.9-1 | 1 | A self-contained 2-panel terminal file manager with modern amenities like truec… |
+| 2026-11-11 05:22:03 | [adbtop-bin](https://aur.archlinux.org/packages/adbtop-bin) | 0.2.0-1 | 1 | Live performance for Android apps, in your terminal and your CI |
+| 2026-11-11 05:54:37 | [lurker](https://aur.archlinux.org/packages/lurker) | 0.1-1 | 0 | LUKS and VeraCrypt CLI/desktop with privileged and unprivileged Linux workflows |
 
 ## Data source
 
