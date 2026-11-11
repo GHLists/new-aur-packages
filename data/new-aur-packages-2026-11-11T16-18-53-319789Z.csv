@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-11T15:24:02Z,firecracker-guest-kernel,6.18.62.127.178-1,0,Linux guest kernel for Firecracker microVMs
+2026-11-11T15:32:56Z,deja-vu,0.24.1-1,0,"Shared local memory, cross-agent handoff and code recovery for coding agents"
+2026-11-11T15:33:02Z,deja-vu-bin,0.24.1-1,0,"Shared local memory, cross-agent handoff and code recovery for coding agents (prebuilt)"
