@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-11T22:21:25Z,c2patool,0.28.6-1,0,Tool for displaying and creating C2PA manifests
+2026-11-11T22:21:36Z,c2patool-bin,0.28.6-1,0,Tool for displaying and creating C2PA manifests (prebuilt)
+2026-11-11T22:23:27Z,ferrocrypt-bin,0.3.1-1,1,"A pure Rust CLI, and desktop application for encrypting and decrypting files and folders using password-based or key-pair-based encryption"
+2026-11-11T22:30:39Z,servio-bin,0.7.0-1,1,"HTTP server for static files, with live reload, built with axum"
+2026-11-11T23:13:31Z,fallow,3.42.0-1,0,Codebase intelligence for TypeScript and JavaScript
+2026-11-11T23:13:41Z,fallow-bin,3.42.0-1,0,Codebase intelligence for TypeScript and JavaScript (prebuilt)
+2026-11-11T23:16:39Z,stela-bin,,,General purpose Apple Silicon layer for x86-64 PCs: boots macOS on a PC from a USB stick
