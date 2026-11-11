@@ -12,17 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 19:21 UTC
+## Latest list — 2026-11-11 21:20 UTC
 
-New packages created between 2026-11-11 18:20 UTC and 2026-11-11 19:21 UTC.
+New packages created between 2026-11-11 19:21 UTC and 2026-11-11 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T19-21-33-985791Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T21-20-06-310589Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 18:32:09 | [mailcraft-bin](https://aur.archlinux.org/packages/mailcraft-bin) | 0.11.1-1 | 0 | Open-source native mail, calendar, contacts and tasks app, Outlook alternative… |
-| 2026-11-11 18:36:13 | [virsh-tui-lemon](https://aur.archlinux.org/packages/virsh-tui-lemon) | 0.1.0.r28.g225c9a0-1 | 0 | Keyboard-driven libvirt TUI with preserved lemonsh patches |
-| 2026-11-11 19:17:28 | [pulsemodel-git](https://aur.archlinux.org/packages/pulsemodel-git) | 0.25.1.r1.r49.g17cf… | 0 | a model compiler and decompiler for MDL v49, with support for HL2, TF2, L4D2, G… |
+| 2026-11-11 19:25:11 | [nimsync-bin](https://aur.archlinux.org/packages/nimsync-bin) | 0.2.1-1 | 0 | Sync the NVIDIA NIM catalog (build.nvidia.com) with the OpenCode model whitelist |
+| 2026-11-11 19:32:02 | [xidle-inhibit](https://aur.archlinux.org/packages/xidle-inhibit) | 0.4.2-1 | 1 | Honor org.freedesktop.ScreenSaver inhibit requests by blocking xautolock or xss… |
+| 2026-11-11 19:44:15 | [chatto-desktop-bin](https://aur.archlinux.org/packages/chatto-desktop-bin) | 0.5.0-1 | 0 | Team and group chat desktop application |
+| 2026-11-11 19:46:28 | [libgweather-4-precipitation](https://aur.archlinux.org/packages/libgweather-4-precipitation) | 4.6.0-1 | 0 | Location and timezone database and weather-lookup library |
+| 2026-11-11 19:46:28 | [libgweather-4-precipitation-docs](https://aur.archlinux.org/packages/libgweather-4-precipitation-docs) | 4.6.0-1 | 0 | Location and timezone database and weather-lookup library (documentation) |
+| 2026-11-11 19:49:52 | [gnome-weather-precipitation](https://aur.archlinux.org/packages/gnome-weather-precipitation) | 50.0-1 | 0 | Access current weather conditions and forecasts |
+| 2026-11-11 20:07:03 | [pantheon-geoclue2-agent](https://aur.archlinux.org/packages/pantheon-geoclue2-agent) | 1.0.6-2 | 0 | Pantheon Geoclue2 Agent |
+| 2026-11-11 20:13:08 | [discord-game-presence](https://aur.archlinux.org/packages/discord-game-presence) | 0.2-1 | 0 | Show running games in a sandboxed Discord as Rich Presence |
+| 2026-11-11 20:34:06 | [pantheon-print](https://aur.archlinux.org/packages/pantheon-print) | 0.1.3-3 | 0 | Simple shim for printing support via Contractor |
+| 2026-11-11 20:36:22 | [open-webui-tether-bin](https://aur.archlinux.org/packages/open-webui-tether-bin) | 0.1.13-4 | 0 | Desktop companion for Open WebUI |
+| 2026-11-11 21:12:39 | [rgx-search-git](https://aur.archlinux.org/packages/rgx-search-git) | 0.1.10.r4.gc75150f0… | 0 | Ripgrep-compatible search inside PDFs, Office documents, archives, 3D models, L… |
 
 ## Data source
 
