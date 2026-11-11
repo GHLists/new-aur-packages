@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-11T16:22:23Z,gator,3.23.1-1,0,Suite of authorship tools for Gatekeeper policies
+2026-11-11T16:22:29Z,gator-bin,3.23.1-1,0,Suite of authorship tools for Gatekeeper policies (prebuilt)
+2026-11-11T16:51:56Z,quiet-md-bin,0.1.10-1,0,本地优先的富文本笔记，GPUI 绘制，兼容飞书 DocxXML（官方 AppImage 解包）
+2026-11-11T17:10:40Z,portmaster-git,2.2.8.r2992.gbffef1…,0,Privacy Suite and Firewall - built from source
