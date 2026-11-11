@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-11T14:25:58Z,kiri-desktop-bin,0.2.0-1,0,"Tiny, fast container runtime speaking the Docker API (with GUI and bundled docker CLI, Compose, buildx)"
+2026-11-11T14:26:16Z,better-vault-bin,0.7.0-1,0,Open-source NotebookLM alternative: bring-your-own-model notebooks for your sources
+2026-11-11T14:28:21Z,terratag,0.8.3-1,0,"Automatically create and maintain tags across AWS, Azure and GCP resources in Terraform"
+2026-11-11T14:28:28Z,terratag-bin,0.8.3-1,0,"Automatically create and maintain tags across AWS, Azure and GCP resources in Terraform (prebuilt)"
+2026-11-11T14:32:24Z,pangene,1.1-1,0,Pangenome gene graph construction from protein-to-genome alignments
+2026-11-11T14:32:37Z,rasusa,5.1.0-1,0,Random subsampling of sequencing reads and alignments to a specified coverage
+2026-11-11T15:00:33Z,atomdrift-scan-bin,2.13.0-1,0,"0-day malware detection for binaries, source & scripts (that doesn't suck)"
+2026-11-11T15:04:52Z,all-smi,0.28.1-1,0,Command-line utility for monitoring GPU hardware
+2026-11-11T15:04:58Z,all-smi-bin,0.28.1-1,0,Command-line utility for monitoring GPU hardware (prebuilt)

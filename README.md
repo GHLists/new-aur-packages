@@ -12,20 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 14:20 UTC
+## Latest list — 2026-11-11 15:21 UTC
 
-New packages created between 2026-11-11 13:21 UTC and 2026-11-11 14:20 UTC.
+New packages created between 2026-11-11 14:20 UTC and 2026-11-11 15:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T14-20-12-181164Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T15-21-55-676796Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 13:56:08 | [miga-messenger](https://aur.archlinux.org/packages/miga-messenger) | 0.3.0-1 | 0 | End-to-end encrypted messenger with no account |
-| 2026-11-11 14:07:59 | [kubecm](https://aur.archlinux.org/packages/kubecm) | 0.36.0-1 | 0 | Manage your kubeconfig more easily |
-| 2026-11-11 14:08:05 | [kubecm-bin](https://aur.archlinux.org/packages/kubecm-bin) | 0.36.0-1 | 0 | Manage your kubeconfig more easily (prebuilt) |
-| 2026-11-11 14:08:11 | [keep-sorted](https://aur.archlinux.org/packages/keep-sorted) | 0.10.0-1 | 0 | Language-agnostic formatter that sorts lines between two markers in a larger fi… |
-| 2026-11-11 14:08:17 | [keep-sorted-bin](https://aur.archlinux.org/packages/keep-sorted-bin) | 0.10.0-1 | 0 | Language-agnostic formatter that sorts lines between two markers in a larger fi… |
-| 2026-11-11 14:17:42 | [bioinformatics-mcp](https://aur.archlinux.org/packages/bioinformatics-mcp) |  |  | Independent MCP servers for bioinformatics data services |
+| 2026-11-11 14:25:58 | [kiri-desktop-bin](https://aur.archlinux.org/packages/kiri-desktop-bin) | 0.2.0-1 | 0 | Tiny, fast container runtime speaking the Docker API (with GUI and bundled dock… |
+| 2026-11-11 14:26:16 | [better-vault-bin](https://aur.archlinux.org/packages/better-vault-bin) | 0.7.0-1 | 0 | Open-source NotebookLM alternative: bring-your-own-model notebooks for your sou… |
+| 2026-11-11 14:28:21 | [terratag](https://aur.archlinux.org/packages/terratag) | 0.8.3-1 | 0 | Automatically create and maintain tags across AWS, Azure and GCP resources in T… |
+| 2026-11-11 14:28:28 | [terratag-bin](https://aur.archlinux.org/packages/terratag-bin) | 0.8.3-1 | 0 | Automatically create and maintain tags across AWS, Azure and GCP resources in T… |
+| 2026-11-11 14:32:24 | [pangene](https://aur.archlinux.org/packages/pangene) | 1.1-1 | 0 | Pangenome gene graph construction from protein-to-genome alignments |
+| 2026-11-11 14:32:37 | [rasusa](https://aur.archlinux.org/packages/rasusa) | 5.1.0-1 | 0 | Random subsampling of sequencing reads and alignments to a specified coverage |
+| 2026-11-11 15:00:33 | [atomdrift-scan-bin](https://aur.archlinux.org/packages/atomdrift-scan-bin) | 2.13.0-1 | 0 | 0-day malware detection for binaries, source & scripts (that doesn't suck) |
+| 2026-11-11 15:04:52 | [all-smi](https://aur.archlinux.org/packages/all-smi) | 0.28.1-1 | 0 | Command-line utility for monitoring GPU hardware |
+| 2026-11-11 15:04:58 | [all-smi-bin](https://aur.archlinux.org/packages/all-smi-bin) | 0.28.1-1 | 0 | Command-line utility for monitoring GPU hardware (prebuilt) |
 
 ## Data source
 
