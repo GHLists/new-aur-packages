@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-11T07:45:42Z,finallyshell-git,0.4.1.preview.5.r2.…,0,"A source-available SSH client with a FinalShell-like layout, written in Go"
+2026-11-11T08:13:27Z,hitokoto,0.4.0-1,0,"A native, single-file hybrid Markdown editor"
+2026-11-11T08:13:37Z,slicenv-bin,0.1.1-1,0,Fast native 3D printing slicer front-end for OrcaSlicer and Bambu Studio engines
+2026-11-11T08:13:43Z,slicenv-git,0.1.1.r80.g7bf7230-1,0,Fast native 3D printing slicer front-end for OrcaSlicer and Bambu Studio engines (git)
