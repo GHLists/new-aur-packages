@@ -12,16 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 13:21 UTC
+## Latest list — 2026-11-11 14:20 UTC
 
-New packages created between 2026-11-11 12:22 UTC and 2026-11-11 13:21 UTC.
+New packages created between 2026-11-11 13:21 UTC and 2026-11-11 14:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T13-21-27-96673Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T14-20-12-181164Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 12:32:33 | [bili-space-bin](https://aur.archlinux.org/packages/bili-space-bin) | 0.1.63-1 | 0 | Bilibili desktop client with native GTK and isolated account profiles (official… |
-| 2026-11-11 12:53:34 | [leboiko-markdown-reader](https://aur.archlinux.org/packages/leboiko-markdown-reader) | 1.35.4-1 | 0 | Terminal Markdown reader with Mermaid and LaTeX rendering |
+| 2026-11-11 13:56:08 | [miga-messenger](https://aur.archlinux.org/packages/miga-messenger) | 0.3.0-1 | 0 | End-to-end encrypted messenger with no account |
+| 2026-11-11 14:07:59 | [kubecm](https://aur.archlinux.org/packages/kubecm) | 0.36.0-1 | 0 | Manage your kubeconfig more easily |
+| 2026-11-11 14:08:05 | [kubecm-bin](https://aur.archlinux.org/packages/kubecm-bin) | 0.36.0-1 | 0 | Manage your kubeconfig more easily (prebuilt) |
+| 2026-11-11 14:08:11 | [keep-sorted](https://aur.archlinux.org/packages/keep-sorted) | 0.10.0-1 | 0 | Language-agnostic formatter that sorts lines between two markers in a larger fi… |
+| 2026-11-11 14:08:17 | [keep-sorted-bin](https://aur.archlinux.org/packages/keep-sorted-bin) | 0.10.0-1 | 0 | Language-agnostic formatter that sorts lines between two markers in a larger fi… |
+| 2026-11-11 14:17:42 | [bioinformatics-mcp](https://aur.archlinux.org/packages/bioinformatics-mcp) |  |  | Independent MCP servers for bioinformatics data services |
 
 ## Data source
 
