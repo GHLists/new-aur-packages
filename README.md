@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 04:21 UTC
+## Latest list — 2026-11-11 05:20 UTC
 
-New packages created between 2026-11-11 03:20 UTC and 2026-11-11 04:21 UTC.
+New packages created between 2026-11-11 04:21 UTC and 2026-11-11 05:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T04-21-51-075152Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T05-20-49-822057Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 03:32:54 | [release-tag-bin](https://aur.archlinux.org/packages/release-tag-bin) | 0.6.1-1 | 1 | Automatically create semantic version git tags |
-| 2026-11-11 03:37:41 | [evernote2md](https://aur.archlinux.org/packages/evernote2md) | 0.23.0-1 | 0 | Convert Evernote .enex export files to Markdown |
-| 2026-11-11 03:37:51 | [evernote2md-bin](https://aur.archlinux.org/packages/evernote2md-bin) | 0.23.0-1 | 0 | Convert Evernote .enex export files to Markdown (prebuilt) |
-| 2026-11-11 04:00:08 | [libbsc-cuda](https://aur.archlinux.org/packages/libbsc-cuda) | 3.4.0-1 | 1 | High-performance block-sorting data compressor with CUDA |
+| 2026-11-11 04:29:31 | [yamldiff-bin](https://aur.archlinux.org/packages/yamldiff-bin) | 1.3-1 | 1 | A CLI tool to diff two YAML files |
+| 2026-11-11 04:34:51 | [astra-airlock-bin](https://aur.archlinux.org/packages/astra-airlock-bin) | 2.0.0-1 | 0 | A beautiful m3expressive greetd frontend based on Caelestia (prebuilt binary) |
+| 2026-11-11 05:15:01 | [rat-commander-bin](https://aur.archlinux.org/packages/rat-commander-bin) | 1.9.9-1 | 1 | A self-contained 2-panel terminal file manager with modern amenities like truec… |
 
 ## Data source
 

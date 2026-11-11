@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-11T04:29:31Z,yamldiff-bin,1.3-1,1,A CLI tool to diff two YAML files
+2026-11-11T04:34:51Z,astra-airlock-bin,2.0.0-1,0,A beautiful m3expressive greetd frontend based on Caelestia (prebuilt binary)
+2026-11-11T05:15:01Z,rat-commander-bin,1.9.9-1,1,"A self-contained 2-panel terminal file manager with modern amenities like truecolor support and many built-in system tools for viewing images, managing disks, networks and synchronizing and editing files"
