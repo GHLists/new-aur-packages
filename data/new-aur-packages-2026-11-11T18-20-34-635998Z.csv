@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-11T17:42:43Z,seacas,2026.08.11-1,0,"Sandia Engineering Analysis Code Access System: Exodus II, IOSS and mesh tools"
+2026-11-11T18:13:59Z,zigfetch-bin,0.31.0-1,0,Zigfetch is a minimal neofetch/fastfetch like system information tool.
+2026-11-11T18:15:00Z,linux-cachyos-eac,,,The Linux EEVDF + LTO Cachy Sauce Kernel by CachyOS configured for Easy Anti-Cheat Linux v2 kernel and modules
+2026-11-11T18:15:00Z,linux-cachyos-eac-headers,,,Headers and scripts for building modules for the Linux EEVDF + LTO Cachy Sauce Kernel by CachyOS configured for Easy Anti-Cheat Linux v2 kernel
+2026-11-11T18:15:00Z,linux-cachyos-eac-zfs,,,zfs module for the Linux EEVDF + LTO Cachy Sauce Kernel by CachyOS configured for Easy Anti-Cheat Linux v2 kernel
+2026-11-11T18:15:00Z,linux-cachyos-eac-nvidia-open,,,nvidia open modules of 620.70.06 driver for the linux-cachyos-eac kernel
+2026-11-11T18:15:00Z,linux-cachyos-eac-nvidia-580xx,,,nvidia module of 580.196.07 driver for the linux-cachyos-eac kernel
+2026-11-11T18:15:00Z,linux-cachyos-eac-r8125,,,r8125 modules for the linux-cachyos-eac kernel

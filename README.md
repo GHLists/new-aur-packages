@@ -12,18 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 17:19 UTC
+## Latest list — 2026-11-11 18:20 UTC
 
-New packages created between 2026-11-11 16:18 UTC and 2026-11-11 17:19 UTC.
+New packages created between 2026-11-11 17:19 UTC and 2026-11-11 18:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T17-19-23-241791Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T18-20-34-635998Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 16:22:23 | [gator](https://aur.archlinux.org/packages/gator) | 3.23.1-1 | 0 | Suite of authorship tools for Gatekeeper policies |
-| 2026-11-11 16:22:29 | [gator-bin](https://aur.archlinux.org/packages/gator-bin) | 3.23.1-1 | 0 | Suite of authorship tools for Gatekeeper policies (prebuilt) |
-| 2026-11-11 16:51:56 | [quiet-md-bin](https://aur.archlinux.org/packages/quiet-md-bin) | 0.1.10-1 | 0 | 本地优先的富文本笔记，GPUI 绘制，兼容飞书 DocxXML（官方 AppImage 解包） |
-| 2026-11-11 17:10:40 | [portmaster-git](https://aur.archlinux.org/packages/portmaster-git) | 2.2.8.r2992.gbffef1… | 0 | Privacy Suite and Firewall - built from source |
+| 2026-11-11 17:42:43 | [seacas](https://aur.archlinux.org/packages/seacas) | 2026.08.11-1 | 0 | Sandia Engineering Analysis Code Access System: Exodus II, IOSS and mesh tools |
+| 2026-11-11 18:13:59 | [zigfetch-bin](https://aur.archlinux.org/packages/zigfetch-bin) | 0.31.0-1 | 0 | Zigfetch is a minimal neofetch/fastfetch like system information tool. |
+| 2026-11-11 18:15:00 | [linux-cachyos-eac](https://aur.archlinux.org/packages/linux-cachyos-eac) |  |  | The Linux EEVDF + LTO Cachy Sauce Kernel by CachyOS configured for Easy Anti-Ch… |
+| 2026-11-11 18:15:00 | [linux-cachyos-eac-headers](https://aur.archlinux.org/packages/linux-cachyos-eac-headers) |  |  | Headers and scripts for building modules for the Linux EEVDF + LTO Cachy Sauce… |
+| 2026-11-11 18:15:00 | [linux-cachyos-eac-zfs](https://aur.archlinux.org/packages/linux-cachyos-eac-zfs) |  |  | zfs module for the Linux EEVDF + LTO Cachy Sauce Kernel by CachyOS configured f… |
+| 2026-11-11 18:15:00 | [linux-cachyos-eac-nvidia-open](https://aur.archlinux.org/packages/linux-cachyos-eac-nvidia-open) |  |  | nvidia open modules of 620.70.06 driver for the linux-cachyos-eac kernel |
+| 2026-11-11 18:15:00 | [linux-cachyos-eac-nvidia-580xx](https://aur.archlinux.org/packages/linux-cachyos-eac-nvidia-580xx) |  |  | nvidia module of 580.196.07 driver for the linux-cachyos-eac kernel |
+| 2026-11-11 18:15:00 | [linux-cachyos-eac-r8125](https://aur.archlinux.org/packages/linux-cachyos-eac-r8125) |  |  | r8125 modules for the linux-cachyos-eac kernel |
 
 ## Data source
 
