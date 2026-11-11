@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-11T21:49:56Z,anicraft-bin,0.2.0-1,0,"Open-source native 2D animation studio, Adobe Animate alternative (binary release)"
+2026-11-11T21:57:52Z,somad,0.19.1-1,0,A client for streaming SomaFM radio channels
+2026-11-11T22:08:39Z,clavirio-bin,0.4.5-1,1,A terminal typing tutor built with Rust and Ratatui

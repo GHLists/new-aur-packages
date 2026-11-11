@@ -12,25 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 21:20 UTC
+## Latest list — 2026-11-11 22:19 UTC
 
-New packages created between 2026-11-11 19:21 UTC and 2026-11-11 21:20 UTC.
+New packages created between 2026-11-11 21:20 UTC and 2026-11-11 22:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T21-20-06-310589Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T22-19-42-142218Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 19:25:11 | [nimsync-bin](https://aur.archlinux.org/packages/nimsync-bin) | 0.2.1-1 | 0 | Sync the NVIDIA NIM catalog (build.nvidia.com) with the OpenCode model whitelist |
-| 2026-11-11 19:32:02 | [xidle-inhibit](https://aur.archlinux.org/packages/xidle-inhibit) | 0.4.2-1 | 1 | Honor org.freedesktop.ScreenSaver inhibit requests by blocking xautolock or xss… |
-| 2026-11-11 19:44:15 | [chatto-desktop-bin](https://aur.archlinux.org/packages/chatto-desktop-bin) | 0.5.0-1 | 0 | Team and group chat desktop application |
-| 2026-11-11 19:46:28 | [libgweather-4-precipitation](https://aur.archlinux.org/packages/libgweather-4-precipitation) | 4.6.0-1 | 0 | Location and timezone database and weather-lookup library |
-| 2026-11-11 19:46:28 | [libgweather-4-precipitation-docs](https://aur.archlinux.org/packages/libgweather-4-precipitation-docs) | 4.6.0-1 | 0 | Location and timezone database and weather-lookup library (documentation) |
-| 2026-11-11 19:49:52 | [gnome-weather-precipitation](https://aur.archlinux.org/packages/gnome-weather-precipitation) | 50.0-1 | 0 | Access current weather conditions and forecasts |
-| 2026-11-11 20:07:03 | [pantheon-geoclue2-agent](https://aur.archlinux.org/packages/pantheon-geoclue2-agent) | 1.0.6-2 | 0 | Pantheon Geoclue2 Agent |
-| 2026-11-11 20:13:08 | [discord-game-presence](https://aur.archlinux.org/packages/discord-game-presence) | 0.2-1 | 0 | Show running games in a sandboxed Discord as Rich Presence |
-| 2026-11-11 20:34:06 | [pantheon-print](https://aur.archlinux.org/packages/pantheon-print) | 0.1.3-3 | 0 | Simple shim for printing support via Contractor |
-| 2026-11-11 20:36:22 | [open-webui-tether-bin](https://aur.archlinux.org/packages/open-webui-tether-bin) | 0.1.13-4 | 0 | Desktop companion for Open WebUI |
-| 2026-11-11 21:12:39 | [rgx-search-git](https://aur.archlinux.org/packages/rgx-search-git) | 0.1.10.r4.gc75150f0… | 0 | Ripgrep-compatible search inside PDFs, Office documents, archives, 3D models, L… |
+| 2026-11-11 21:49:56 | [anicraft-bin](https://aur.archlinux.org/packages/anicraft-bin) | 0.2.0-1 | 0 | Open-source native 2D animation studio, Adobe Animate alternative (binary relea… |
+| 2026-11-11 21:57:52 | [somad](https://aur.archlinux.org/packages/somad) | 0.19.1-1 | 0 | A client for streaming SomaFM radio channels |
+| 2026-11-11 22:08:39 | [clavirio-bin](https://aur.archlinux.org/packages/clavirio-bin) | 0.4.5-1 | 1 | A terminal typing tutor built with Rust and Ratatui |
 
 ## Data source
 
