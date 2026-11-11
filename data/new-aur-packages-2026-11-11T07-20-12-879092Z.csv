@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-11T06:39:06Z,rhwp_bin,0.9.0-1,0,"HWP/HWPX viewer and editor CLI (Rust/WASM, prebuilt binary)"
+2026-11-11T06:43:11Z,faodel,1.2306.1-1,1,"Flexible, Asynchronous, Object Data-Exchange Libraries for HPC data management"
+2026-11-11T06:54:40Z,kokkos-cuda,5.2.2-1,1,C++ performance portability programming ecosystem (with CUDA)
+2026-11-11T07:06:43Z,tcb,1.2-1,0,Alternative password shadowing scheme
+2026-11-11T07:06:55Z,tcb-git,1.2.r65.gf7afc3c-1,0,Alternative password shadowing scheme

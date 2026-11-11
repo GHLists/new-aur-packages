@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 06:19 UTC
+## Latest list — 2026-11-11 07:20 UTC
 
-New packages created between 2026-11-11 05:20 UTC and 2026-11-11 06:19 UTC.
+New packages created between 2026-11-11 06:19 UTC and 2026-11-11 07:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T06-19-52-410926Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T07-20-12-879092Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 05:22:03 | [adbtop-bin](https://aur.archlinux.org/packages/adbtop-bin) | 0.2.0-1 | 1 | Live performance for Android apps, in your terminal and your CI |
-| 2026-11-11 05:54:37 | [lurker](https://aur.archlinux.org/packages/lurker) | 0.1-1 | 0 | LUKS and VeraCrypt CLI/desktop with privileged and unprivileged Linux workflows |
+| 2026-11-11 06:39:06 | [rhwp_bin](https://aur.archlinux.org/packages/rhwp_bin) | 0.9.0-1 | 0 | HWP/HWPX viewer and editor CLI (Rust/WASM, prebuilt binary) |
+| 2026-11-11 06:43:11 | [faodel](https://aur.archlinux.org/packages/faodel) | 1.2306.1-1 | 1 | Flexible, Asynchronous, Object Data-Exchange Libraries for HPC data management |
+| 2026-11-11 06:54:40 | [kokkos-cuda](https://aur.archlinux.org/packages/kokkos-cuda) | 5.2.2-1 | 1 | C++ performance portability programming ecosystem (with CUDA) |
+| 2026-11-11 07:06:43 | [tcb](https://aur.archlinux.org/packages/tcb) | 1.2-1 | 0 | Alternative password shadowing scheme |
+| 2026-11-11 07:06:55 | [tcb-git](https://aur.archlinux.org/packages/tcb-git) | 1.2.r65.gf7afc3c-1 | 0 | Alternative password shadowing scheme |
 
 ## Data source
 
