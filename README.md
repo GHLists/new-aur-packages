@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 08:20 UTC
+## Latest list — 2026-11-11 09:20 UTC
 
-New packages created between 2026-11-11 07:20 UTC and 2026-11-11 08:20 UTC.
+New packages created between 2026-11-11 08:20 UTC and 2026-11-11 09:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T08-20-31-521033Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T09-20-24-966905Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 07:45:42 | [finallyshell-git](https://aur.archlinux.org/packages/finallyshell-git) | 0.4.1.preview.5.r2.… | 0 | A source-available SSH client with a FinalShell-like layout, written in Go |
-| 2026-11-11 08:13:27 | [hitokoto](https://aur.archlinux.org/packages/hitokoto) | 0.4.0-1 | 0 | A native, single-file hybrid Markdown editor |
-| 2026-11-11 08:13:37 | [slicenv-bin](https://aur.archlinux.org/packages/slicenv-bin) | 0.1.1-1 | 0 | Fast native 3D printing slicer front-end for OrcaSlicer and Bambu Studio engines |
-| 2026-11-11 08:13:43 | [slicenv-git](https://aur.archlinux.org/packages/slicenv-git) | 0.1.1.r80.g7bf7230-1 | 0 | Fast native 3D printing slicer front-end for OrcaSlicer and Bambu Studio engine… |
+| 2026-11-11 08:39:50 | [localflow-bin](https://aur.archlinux.org/packages/localflow-bin) | 0.5.0-1 | 0 | Private, native dictation with local speech recognition and text cleanup (prebu… |
+| 2026-11-11 09:10:08 | [git-ad-git](https://aur.archlinux.org/packages/git-ad-git) | r3.d721f62-1 | 0 | Displays one of three fictional advertisements for git add typos. |
 
 ## Data source
 
