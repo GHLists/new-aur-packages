@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-11T00:22:48Z,udon,1:0.04-1,0,Minimalistic CLI based End to End Encrypted (E2EE) message passing tool/service.
+2026-11-11T00:35:16Z,jeancode-bin,1.1.0-1,0,"Open-source AI coding agent for your desktop: edits code, runs commands, checks its own errors and can operate your PC. Bring any model: Ollama, llama.cpp, LM Studio, OpenRouter, NVIDIA NIM, Groq and 28 OpenAI-compatible providers, or your own free API."
+2026-11-11T00:45:19Z,vanta,1.3.0-1,0,"Linux game launcher with Wine, Proton and OnlineFix support"
+2026-11-11T00:53:37Z,imsg,1.0.0-1,0,"Native Linux Qt6/QML desktop & CLI client for iMessage, RCS, and SMS backed by BlueBubbles"
+2026-11-11T01:02:54Z,claude-loom-bin,0.5.9-1,0,"Graphical shell for Claude Code CLI, Electron."
