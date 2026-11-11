@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-11T18:32:09Z,mailcraft-bin,0.11.1-1,0,"Open-source native mail, calendar, contacts and tasks app, Outlook alternative (binary release)"
+2026-11-11T18:36:13Z,virsh-tui-lemon,0.1.0.r28.g225c9a0-1,0,Keyboard-driven libvirt TUI with preserved lemonsh patches
+2026-11-11T19:17:28Z,pulsemodel-git,0.25.1.r1.r49.g17cf…,0,"a model compiler and decompiler for MDL v49, with support for HL2, TF2, L4D2, GMod, CS:S, and SFM. git version."

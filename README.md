@@ -12,22 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 18:20 UTC
+## Latest list — 2026-11-11 19:21 UTC
 
-New packages created between 2026-11-11 17:19 UTC and 2026-11-11 18:20 UTC.
+New packages created between 2026-11-11 18:20 UTC and 2026-11-11 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T18-20-34-635998Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T19-21-33-985791Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 17:42:43 | [seacas](https://aur.archlinux.org/packages/seacas) | 2026.08.11-1 | 0 | Sandia Engineering Analysis Code Access System: Exodus II, IOSS and mesh tools |
-| 2026-11-11 18:13:59 | [zigfetch-bin](https://aur.archlinux.org/packages/zigfetch-bin) | 0.31.0-1 | 0 | Zigfetch is a minimal neofetch/fastfetch like system information tool. |
-| 2026-11-11 18:15:00 | [linux-cachyos-eac](https://aur.archlinux.org/packages/linux-cachyos-eac) |  |  | The Linux EEVDF + LTO Cachy Sauce Kernel by CachyOS configured for Easy Anti-Ch… |
-| 2026-11-11 18:15:00 | [linux-cachyos-eac-headers](https://aur.archlinux.org/packages/linux-cachyos-eac-headers) |  |  | Headers and scripts for building modules for the Linux EEVDF + LTO Cachy Sauce… |
-| 2026-11-11 18:15:00 | [linux-cachyos-eac-zfs](https://aur.archlinux.org/packages/linux-cachyos-eac-zfs) |  |  | zfs module for the Linux EEVDF + LTO Cachy Sauce Kernel by CachyOS configured f… |
-| 2026-11-11 18:15:00 | [linux-cachyos-eac-nvidia-open](https://aur.archlinux.org/packages/linux-cachyos-eac-nvidia-open) |  |  | nvidia open modules of 620.70.06 driver for the linux-cachyos-eac kernel |
-| 2026-11-11 18:15:00 | [linux-cachyos-eac-nvidia-580xx](https://aur.archlinux.org/packages/linux-cachyos-eac-nvidia-580xx) |  |  | nvidia module of 580.196.07 driver for the linux-cachyos-eac kernel |
-| 2026-11-11 18:15:00 | [linux-cachyos-eac-r8125](https://aur.archlinux.org/packages/linux-cachyos-eac-r8125) |  |  | r8125 modules for the linux-cachyos-eac kernel |
+| 2026-11-11 18:32:09 | [mailcraft-bin](https://aur.archlinux.org/packages/mailcraft-bin) | 0.11.1-1 | 0 | Open-source native mail, calendar, contacts and tasks app, Outlook alternative… |
+| 2026-11-11 18:36:13 | [virsh-tui-lemon](https://aur.archlinux.org/packages/virsh-tui-lemon) | 0.1.0.r28.g225c9a0-1 | 0 | Keyboard-driven libvirt TUI with preserved lemonsh patches |
+| 2026-11-11 19:17:28 | [pulsemodel-git](https://aur.archlinux.org/packages/pulsemodel-git) | 0.25.1.r1.r49.g17cf… | 0 | a model compiler and decompiler for MDL v49, with support for HL2, TF2, L4D2, G… |
 
 ## Data source
 
