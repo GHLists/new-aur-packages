@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 10:21 UTC
+## Latest list — 2026-11-11 11:20 UTC
 
-New packages created between 2026-11-11 09:20 UTC and 2026-11-11 10:21 UTC.
+New packages created between 2026-11-11 10:21 UTC and 2026-11-11 11:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T10-21-17-785425Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T11-20-39-593939Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 09:39:59 | [opalx](https://aur.archlinux.org/packages/opalx) | 2024.1.0-1 | 0 | Object Oriented Parallel Accelerator Library (OPAL X): charged particle beam dy… |
-| 2026-11-11 09:52:27 | [minimax-code-desktop](https://aur.archlinux.org/packages/minimax-code-desktop) | 3.1.14-1 | 0 | MiniMax Code desktop app repackaged from the official macOS release |
+| 2026-11-11 10:22:04 | [hivemind](https://aur.archlinux.org/packages/hivemind) | 1.0.0-1 | 0 | Kanban board for running AI coding agents (Claude Code, OpenCode) across projec… |
+| 2026-11-11 10:27:21 | [soundhive](https://aur.archlinux.org/packages/soundhive) | 1.0.0-1 | 0 | Fast browser for large sound effect libraries: search, audition, tag and drag s… |
+| 2026-11-11 10:38:39 | [hivemind-git](https://aur.archlinux.org/packages/hivemind-git) | 1.0.0.r0.g1b9d797-1 | 0 | Kanban board for running AI coding agents (Claude Code, OpenCode) across projec… |
+| 2026-11-11 10:43:19 | [soundhive-git](https://aur.archlinux.org/packages/soundhive-git) | 1.0.0.r0.g8381b61-1 | 0 | Fast browser for large sound effect libraries: search, audition, tag and drag s… |
 
 ## Data source
 
