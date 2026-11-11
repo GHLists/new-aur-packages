@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 09:20 UTC
+## Latest list — 2026-11-11 10:21 UTC
 
-New packages created between 2026-11-11 08:20 UTC and 2026-11-11 09:20 UTC.
+New packages created between 2026-11-11 09:20 UTC and 2026-11-11 10:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T09-20-24-966905Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T10-21-17-785425Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 08:39:50 | [localflow-bin](https://aur.archlinux.org/packages/localflow-bin) | 0.5.0-1 | 0 | Private, native dictation with local speech recognition and text cleanup (prebu… |
-| 2026-11-11 09:10:08 | [git-ad-git](https://aur.archlinux.org/packages/git-ad-git) | r3.d721f62-1 | 0 | Displays one of three fictional advertisements for git add typos. |
+| 2026-11-11 09:39:59 | [opalx](https://aur.archlinux.org/packages/opalx) | 2024.1.0-1 | 0 | Object Oriented Parallel Accelerator Library (OPAL X): charged particle beam dy… |
+| 2026-11-11 09:52:27 | [minimax-code-desktop](https://aur.archlinux.org/packages/minimax-code-desktop) | 3.1.14-1 | 0 | MiniMax Code desktop app repackaged from the official macOS release |
 
 ## Data source
 
