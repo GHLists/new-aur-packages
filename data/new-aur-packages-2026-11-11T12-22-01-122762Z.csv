@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-11T11:30:41Z,lanlink,0.2.0-1,0,A small KDE Connect alternative: daemon and TUI in one Rust binary
+2026-11-11T11:58:37Z,solitaire-rs,0.2.1-1,0,Windows 95 style Klondike solitaire for Wayland
+2026-11-11T12:18:58Z,wowtype-core,0.3.10-1,0,"WeChat-style pinyin input method for fcitx5, with bundled dictionaries and language model"

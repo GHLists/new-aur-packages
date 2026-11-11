@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 11:20 UTC
+## Latest list — 2026-11-11 12:22 UTC
 
-New packages created between 2026-11-11 10:21 UTC and 2026-11-11 11:20 UTC.
+New packages created between 2026-11-11 11:20 UTC and 2026-11-11 12:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T11-20-39-593939Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-11T12-22-01-122762Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 10:22:04 | [hivemind](https://aur.archlinux.org/packages/hivemind) | 1.0.0-1 | 0 | Kanban board for running AI coding agents (Claude Code, OpenCode) across projec… |
-| 2026-11-11 10:27:21 | [soundhive](https://aur.archlinux.org/packages/soundhive) | 1.0.0-1 | 0 | Fast browser for large sound effect libraries: search, audition, tag and drag s… |
-| 2026-11-11 10:38:39 | [hivemind-git](https://aur.archlinux.org/packages/hivemind-git) | 1.0.0.r0.g1b9d797-1 | 0 | Kanban board for running AI coding agents (Claude Code, OpenCode) across projec… |
-| 2026-11-11 10:43:19 | [soundhive-git](https://aur.archlinux.org/packages/soundhive-git) | 1.0.0.r0.g8381b61-1 | 0 | Fast browser for large sound effect libraries: search, audition, tag and drag s… |
+| 2026-11-11 11:30:41 | [lanlink](https://aur.archlinux.org/packages/lanlink) | 0.2.0-1 | 0 | A small KDE Connect alternative: daemon and TUI in one Rust binary |
+| 2026-11-11 11:58:37 | [solitaire-rs](https://aur.archlinux.org/packages/solitaire-rs) | 0.2.1-1 | 0 | Windows 95 style Klondike solitaire for Wayland |
+| 2026-11-11 12:18:58 | [wowtype-core](https://aur.archlinux.org/packages/wowtype-core) | 0.3.10-1 | 0 | WeChat-style pinyin input method for fcitx5, with bundled dictionaries and lang… |
 
 ## Data source
 
