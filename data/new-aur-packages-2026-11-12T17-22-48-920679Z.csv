@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-12T16:29:47Z,orgamnesia,1.5.0-1,0,Lightweight Obsidian: second brain and personal wiki in Rust. Markdown and/or Emacs Org-mode notes.
+2026-11-12T16:35:20Z,meld-qt,1.0.0-1,1,Visual diff and merge tool
+2026-11-12T16:41:30Z,gputaskman,0.4.0-1,0,"A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA)."
+2026-11-12T16:41:32Z,bootvine-git,0.1.3.ga7e33b4-1,0,A boot animation showing stages of systemd as a tree
+2026-11-12T16:53:13Z,updfparser,0.1-1,0,Very simple PDF parser
+2026-11-12T17:13:42Z,nyora-desktop-appimage,3.1.12-1,0,"A free, independent, open-source manga reader"
+2026-11-12T17:16:38Z,linaudit-git,r16.ecf16d1-1,0,A read-only security audit tool for Linux systems with a score from 1 to 10
