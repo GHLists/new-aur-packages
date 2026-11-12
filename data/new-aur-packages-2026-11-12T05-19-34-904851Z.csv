@@ -1,0 +1,28 @@
+created_at,package,version,votes,description
+2026-11-12T04:22:17Z,fan2go-tui,0.5.0-1,0,Terminal UI for fan2go.
+2026-11-12T04:24:16Z,zfs-file-history,2.10.0-1,0,Terminal UI for inspecting and restoring file history on ZFS snapshots.
+2026-11-12T04:27:57Z,phpantom_lsp-bin,0.11.1-1,0,Fast PHP language server with deep type intelligence (prebuilt)
+2026-11-12T04:30:47Z,cadcraft-private-bin,0.20.1-1,0,自用维护：开源 clean-room 版 AutoCAD 替代（CAD 制图），上游 storytold/cadcraft
+2026-11-12T04:30:57Z,deckcraft-private-bin,0.18.1-1,0,自用维护：开源 clean-room 版 PowerPoint 替代（演示文稿），上游 storytold/deckcraft
+2026-11-12T04:31:07Z,designcraft-private-bin,0.20.1-1,0,自用维护：开源 clean-room 版 Adobe InDesign 替代（排版出版），上游 storytold/designcraft
+2026-11-12T04:31:17Z,effectcraft-private-bin,0.24.1-1,0,自用维护：开源 clean-room 版 Adobe After Effects 替代（动效合成），上游 storytold/effectcraft
+2026-11-12T04:31:27Z,figcraft-private-bin,0.18.1-1,0,自用维护：开源 clean-room 版 Figma 替代（界面设计），上游 storytold/figcraft
+2026-11-12T04:31:37Z,filmcraft-private-bin,0.20.1-1,0,自用维护：开源 clean-room 版 Adobe Premiere Pro 替代（视频编辑），上游 storytold/filmcraft
+2026-11-12T04:32:01Z,gridcraft-private-bin,0.19.1-1,0,自用维护：开源 clean-room 版 Microsoft Excel 替代（电子表格），上游 storytold/gridcraft
+2026-11-12T04:32:18Z,lightcraft-private-bin,0.21.0-1,0,自用维护：开源 clean-room 版 Adobe Lightroom 替代（照片管理与 raw），上游 storytold/lightcraft
+2026-11-12T04:32:35Z,pdfcraft-private-bin,0.21.1-1,0,自用维护：开源 clean-room 版 Adobe Acrobat 替代（PDF 阅读整理保护），上游 storytold/pdfcraft
+2026-11-12T04:32:44Z,photocraft-private-bin,0.23.0-1,0,自用维护：开源 clean-room 版 Adobe Photoshop 替代（图像编辑），上游 storytold/photocraft
+2026-11-12T04:32:54Z,soundcraft-private-bin,0.20.1-1,0,自用维护：开源 clean-room 版 Pro Tools 替代（DAW 音频），上游 storytold/soundcraft
+2026-11-12T04:33:04Z,texturecraft-private-bin,0.6.1-1,0,自用维护：开源 clean-room 版 Adobe Substance Painter 替代（PBR 3D 纹理），上游 storytold/texturecraft
+2026-11-12T04:33:14Z,vectorcraft-private-bin,0.24.0-1,0,自用维护：开源 clean-room 版 Adobe Illustrator 替代（矢量插画），上游 storytold/vectorcraft
+2026-11-12T04:33:24Z,wordcraft-private-bin,0.18.1-1,0,自用维护：开源 clean-room 版 Microsoft Word 替代（纯 Rust 字处理器），上游 storytold/wordcraft
+2026-11-12T04:43:13Z,elp-bin,2026.10.14-1,0,LSP server and CLI for Erlang (prebuilt)
+2026-11-12T04:44:10Z,bentwire,0.1.1-1,0,Desktop characters (Microsoft Agent and Office Assistant formats) for Wayland
+2026-11-12T04:44:16Z,bentwire-bin,0.1.1-1,0,Desktop characters (Microsoft Agent and Office Assistant formats) for Wayland (release binaries)
+2026-11-12T04:44:23Z,bentwire-git,0.1.1.r0.g36f75a8-1,0,Desktop characters (Microsoft Agent and Office Assistant formats) for Wayland (development version)
+2026-11-12T04:56:30Z,openapi,1.26.3-1,0,"CLI for working with OpenAPI, Swagger, Arazzo and Overlay documents"
+2026-11-12T04:56:34Z,phonesim-git,2.1.r0.g5f12802-1,1,Phone Simulator for modem testing
+2026-11-12T04:56:40Z,openapi-bin,1.26.3-1,0,"CLI for working with OpenAPI, Swagger, Arazzo and Overlay documents (prebuilt)"
+2026-11-12T05:05:33Z,kubernetes-mcp-server,0.1.2-1,0,Model Context Protocol (MCP) server for Kubernetes and OpenShift
+2026-11-12T05:05:43Z,kubernetes-mcp-server-bin,0.1.2-1,0,Model Context Protocol (MCP) server for Kubernetes and OpenShift (prebuilt)
+2026-11-12T05:06:29Z,clipsync-bin,0.1.0-1,0,Clipboard sync between trusted Mac and Linux computers
