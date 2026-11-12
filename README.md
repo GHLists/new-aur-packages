@@ -12,18 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 22:22 UTC
+## Latest list — 2026-11-12 23:19 UTC
 
-New packages created between 2026-11-12 21:21 UTC and 2026-11-12 22:22 UTC.
+New packages created between 2026-11-12 22:22 UTC and 2026-11-12 23:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-12T22-22-32-065645Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-12T23-19-23-012545Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 22:01:25 | [omnidotdev-harmony-cli](https://aur.archlinux.org/packages/omnidotdev-harmony-cli) | 0.1.0-1 | 0 | Templating and syncing engine for project files |
-| 2026-11-12 22:01:39 | [omnidotdev-harmony-cli-bin](https://aur.archlinux.org/packages/omnidotdev-harmony-cli-bin) | 0.1.0-1 | 0 | Templating and syncing engine for project files (pre-built) |
-| 2026-11-12 22:08:28 | [mcumgrctl](https://aur.archlinux.org/packages/mcumgrctl) | 0.20.0-1 | 0 | Rust CLI for Zephyr MCUmgr (built from source) |
-| 2026-11-12 22:12:45 | [mcumgrctl-bin](https://aur.archlinux.org/packages/mcumgrctl-bin) | 0.20.0-2 | 0 | Rust CLI for Zephyr MCUmgr (prebuilt binary) |
+| 2026-11-12 22:37:52 | [ente-auth-bin-jetm](https://aur.archlinux.org/packages/ente-auth-bin-jetm) | 4.4.26-2 | 0 | Ente two-factor authenticator |
+| 2026-11-12 22:46:44 | [igv-beta](https://aur.archlinux.org/packages/igv-beta) | 3.0.0_beta.8-1 | 0 | High-performance visualization tool for interactive exploration of large, integ… |
+| 2026-11-12 22:57:02 | [cecilia](https://aur.archlinux.org/packages/cecilia) | 5.4.1-1 | 0 | Audio signal processing environment aimed at sound designers |
+| 2026-11-12 23:01:34 | [blaze-engine-git](https://aur.archlinux.org/packages/blaze-engine-git) | 0.20261109.1.r1103.… | 0 | Incremental rust builds up to 92x faster than cargo/rustc |
+| 2026-11-12 23:03:11 | [cecilia-bin](https://aur.archlinux.org/packages/cecilia-bin) | 0.45.1-1 | 0 | Keyboard-first editor and player for guitar tab, standard notation and Gregoria… |
+| 2026-11-12 23:05:04 | [remder-bin](https://aur.archlinux.org/packages/remder-bin) | 1.0.1-1 | 0 | Render your markdown in the terminal with lots of bells and whistles |
+| 2026-11-12 23:07:46 | [blaze-engine](https://aur.archlinux.org/packages/blaze-engine) | 0.20261027.0-1 | 0 | Incremental rust builds up to 92x faster than cargo/rustc |
 
 ## Data source
 

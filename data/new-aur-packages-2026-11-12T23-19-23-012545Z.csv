@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-12T22:37:52Z,ente-auth-bin-jetm,4.4.26-2,0,Ente two-factor authenticator
+2026-11-12T22:46:44Z,igv-beta,3.0.0_beta.8-1,0,"High-performance visualization tool for interactive exploration of large, integrated genomic datasets. From Broad Institute. (3.0 beta release)"
+2026-11-12T22:57:02Z,cecilia,5.4.1-1,0,Audio signal processing environment aimed at sound designers
+2026-11-12T23:01:34Z,blaze-engine-git,0.20261109.1.r1103.…,0,Incremental rust builds up to 92x faster than cargo/rustc
+2026-11-12T23:03:11Z,cecilia-bin,0.45.1-1,0,"Keyboard-first editor and player for guitar tab, standard notation and Gregorian chant (prebuilt binary)"
+2026-11-12T23:05:04Z,remder-bin,1.0.1-1,0,Render your markdown in the terminal with lots of bells and whistles
+2026-11-12T23:07:46Z,blaze-engine,0.20261027.0-1,0,Incremental rust builds up to 92x faster than cargo/rustc
