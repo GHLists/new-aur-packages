@@ -1,0 +1,12 @@
+created_at,package,version,votes,description
+2026-11-12T03:31:42Z,ttf-comic-caret,2.7-1,1,"A hand-drawn monospaced font for code and terminals, derived from Comic Shanns Mono (TTF)"
+2026-11-12T03:31:42Z,ttf-comic-caret-nerd,2.7-1,1,"A hand-drawn monospaced font for code and terminals, derived from Comic Shanns Mono (TTF) (Nerd)"
+2026-11-12T03:31:42Z,otf-comic-caret,2.7-1,1,"A hand-drawn monospaced font for code and terminals, derived from Comic Shanns Mono (OTF)"
+2026-11-12T03:31:42Z,otf-comic-caret-nerd,2.7-1,1,"A hand-drawn monospaced font for code and terminals, derived from Comic Shanns Mono (OTF) (Nerd)"
+2026-11-12T03:33:57Z,rgy-search-git,r0.1.10.4.35a94d7-1,0,"Whole-filesystem name search and content search in one stack (built from source, SIMD detected)"
+2026-11-12T03:39:44Z,pixtuoid,0.22.0-1,0,Terminal pixel-art office for AI coding agents
+2026-11-12T03:39:54Z,pixtuoid-bin,0.22.0-1,0,Terminal pixel-art office for AI coding agents (prebuilt)
+2026-11-12T03:41:53Z,refconnect-git,0.14.0.r0.g0000000-1,0,D-STAR reflector client (REF/XRF/XLX/DCS) — git version
+2026-11-12T03:42:01Z,refconnect-bin,0.14.0-1,0,D-STAR reflector client (REF/XRF/XLX/DCS)
+2026-11-12T03:51:47Z,ltext,0.2.0-1,0,Text-file templating utility that treats files as higher-order functions
+2026-11-12T03:51:53Z,ltext-bin,0.2.0-1,0,Text-file templating utility that treats files as higher-order functions (static binary)
