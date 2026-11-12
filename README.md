@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 14:21 UTC
+## Latest list — 2026-11-12 15:21 UTC
 
-New packages created between 2026-11-12 13:21 UTC and 2026-11-12 14:21 UTC.
+New packages created between 2026-11-12 14:21 UTC and 2026-11-12 15:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-12T14-21-57-319971Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-12T15-21-18-629612Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 13:33:18 | [aws-emulator-bin](https://aur.archlinux.org/packages/aws-emulator-bin) | 1.0.322-1 | 0 | Local emulator for AWS services, for testing against the AWS CLI and SDKs (preb… |
-| 2026-11-12 13:41:46 | [texlive-mermaid](https://aur.archlinux.org/packages/texlive-mermaid) | 1.1-1 | 0 | LaTeX packages for embedding Mermaid diagrams with pdfLaTeX, XeLaTeX, upLaTeX a… |
+| 2026-11-12 14:36:04 | [rustmusic](https://aur.archlinux.org/packages/rustmusic) | 0.7.2-1 | 1 | A high-performance music player built with Rust and Tauri |
+| 2026-11-12 14:36:07 | [orca-ide](https://aur.archlinux.org/packages/orca-ide) | 1.4.257-1 | 1 | Next-gen IDE for parallel agentic development |
+| 2026-11-12 15:02:38 | [gnome-voice-server](https://aur.archlinux.org/packages/gnome-voice-server) | 1.0.0-1 | 0 | Stores voicegrams and serves them for listening. Includes gnome-voice-send. Nee… |
 
 ## Data source
 

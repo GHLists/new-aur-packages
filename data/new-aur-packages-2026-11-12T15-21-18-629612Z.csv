@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-12T14:36:04Z,rustmusic,0.7.2-1,1,A high-performance music player built with Rust and Tauri
+2026-11-12T14:36:07Z,orca-ide,1.4.257-1,1,Next-gen IDE for parallel agentic development
+2026-11-12T15:02:38Z,gnome-voice-server,1.0.0-1,0,Stores voicegrams and serves them for listening. Includes gnome-voice-send. Needs GLib 2.66 or newer.
