@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-12T18:24:06Z,rsusage-bin,0.1.r9-1,0,Blazing fast usage reports for coding agents - a Rust rewrite of ccusage (binary release)
+2026-11-12T18:40:33Z,obs-avip,0.1.0-1,0,"NDI® source and output for OBS in Rust, a drop-in for DistroAV"
+2026-11-12T18:55:31Z,rsusage,0.1.r9-1,0,Blazing fast usage reports for coding agents - a Rust rewrite of ccusage
+2026-11-12T19:10:10Z,parsec-rocm,4.0.2411-1,1,Generic framework for architecture aware scheduling and management of micro-tasks on distributed many-core heterogeneous architectures (with ROCm)
