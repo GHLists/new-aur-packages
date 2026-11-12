@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 07:20 UTC
+## Latest list — 2026-11-12 08:19 UTC
 
-New packages created between 2026-11-12 06:20 UTC and 2026-11-12 07:20 UTC.
+New packages created between 2026-11-12 07:20 UTC and 2026-11-12 08:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-12T07-20-20-63998Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-12T08-19-51-276085Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 06:53:53 | [xerabora](https://aur.archlinux.org/packages/xerabora) | 1.1.0-2 | 0 | Desktop RetroAchievements client with live tracking for a real PlayStation 2 th… |
-| 2026-11-12 07:15:16 | [sz3](https://aur.archlinux.org/packages/sz3) | 3.4.0-1 | 1 | Modular error-bounded lossy compression framework for scientific data |
-| 2026-11-12 07:15:16 | [paraview-sz3-plugin](https://aur.archlinux.org/packages/paraview-sz3-plugin) | 3.4.0-1 | 1 | ParaView reader plugin for SZ3-compressed data |
+| 2026-11-12 07:25:50 | [tildaz-bin](https://aur.archlinux.org/packages/tildaz-bin) | 0.10.10-1 | 0 | Quake-style drop-down terminal for Wayland, built on libghostty-vt |
 
 ## Data source
 
