@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-12T13:33:18Z,aws-emulator-bin,1.0.322-1,0,"Local emulator for AWS services, for testing against the AWS CLI and SDKs (prebuilt)"
+2026-11-12T13:41:46Z,texlive-mermaid,1.1-1,0,"LaTeX packages for embedding Mermaid diagrams with pdfLaTeX, XeLaTeX, upLaTeX and LuaLaTeX"
