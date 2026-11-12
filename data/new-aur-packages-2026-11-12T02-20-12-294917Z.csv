@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-12T01:22:05Z,opencrabs,0.5.15-1,0,"Autonomous, self-improving AI agent in a single Rust binary"
+2026-11-12T01:22:15Z,opencrabs-bin,0.5.15-1,0,"Autonomous, self-improving AI agent in a single Rust binary (prebuilt)"
+2026-11-12T01:37:02Z,fan2go,0.16.0-1,0,A simple daemon providing dynamic fan speed control based on temperature sensors
+2026-11-12T01:38:25Z,hume,0.20.1-1,1,"A selection-first modal text editor for the terminal, scriptable in Scheme"
+2026-11-12T01:43:32Z,chainloop-cli,1.135.1-1,0,"CLI for signed, policy-checked records of AI coding agents and CI/CD pipelines"
+2026-11-12T01:43:42Z,chainloop-cli-bin,1.135.1-1,0,"CLI for signed, policy-checked records of AI coding agents and CI/CD pipelines (prebuilt)"
+2026-11-12T02:09:48Z,iwdtray,0.1.0-1,0,Tray icon and GUI front-end for iwd

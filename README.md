@@ -12,16 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 01:21 UTC
+## Latest list — 2026-11-12 02:20 UTC
 
-New packages created between 2026-11-12 00:19 UTC and 2026-11-12 01:21 UTC.
+New packages created between 2026-11-12 01:21 UTC and 2026-11-12 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-12T01-21-52-604232Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-12T02-20-12-294917Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 01:15:08 | [openmac-bin](https://aur.archlinux.org/packages/openmac-bin) | 0.0.3-1 | 0 | Macintosh emulator written from scratch: Macintosh Classic, Macintosh IIfx and… |
-| 2026-11-12 01:20:04 | [ampl-bin](https://aur.archlinux.org/packages/ampl-bin) | 20261109-1 | 0 | A Mathematical Programming Language |
+| 2026-11-12 01:22:05 | [opencrabs](https://aur.archlinux.org/packages/opencrabs) | 0.5.15-1 | 0 | Autonomous, self-improving AI agent in a single Rust binary |
+| 2026-11-12 01:22:15 | [opencrabs-bin](https://aur.archlinux.org/packages/opencrabs-bin) | 0.5.15-1 | 0 | Autonomous, self-improving AI agent in a single Rust binary (prebuilt) |
+| 2026-11-12 01:37:02 | [fan2go](https://aur.archlinux.org/packages/fan2go) | 0.16.0-1 | 0 | A simple daemon providing dynamic fan speed control based on temperature sensors |
+| 2026-11-12 01:38:25 | [hume](https://aur.archlinux.org/packages/hume) | 0.20.1-1 | 1 | A selection-first modal text editor for the terminal, scriptable in Scheme |
+| 2026-11-12 01:43:32 | [chainloop-cli](https://aur.archlinux.org/packages/chainloop-cli) | 1.135.1-1 | 0 | CLI for signed, policy-checked records of AI coding agents and CI/CD pipelines |
+| 2026-11-12 01:43:42 | [chainloop-cli-bin](https://aur.archlinux.org/packages/chainloop-cli-bin) | 1.135.1-1 | 0 | CLI for signed, policy-checked records of AI coding agents and CI/CD pipelines… |
+| 2026-11-12 02:09:48 | [iwdtray](https://aur.archlinux.org/packages/iwdtray) | 0.1.0-1 | 0 | Tray icon and GUI front-end for iwd |
 
 ## Data source
 
