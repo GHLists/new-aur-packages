@@ -12,21 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 17:22 UTC
+## Latest list — 2026-11-12 18:22 UTC
 
-New packages created between 2026-11-12 16:19 UTC and 2026-11-12 17:22 UTC.
+New packages created between 2026-11-12 17:22 UTC and 2026-11-12 18:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-12T17-22-48-920679Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-12T18-22-09-336652Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 16:29:47 | [orgamnesia](https://aur.archlinux.org/packages/orgamnesia) | 1.5.0-1 | 0 | Lightweight Obsidian: second brain and personal wiki in Rust. Markdown and/or E… |
-| 2026-11-12 16:35:20 | [meld-qt](https://aur.archlinux.org/packages/meld-qt) | 1.0.0-1 | 1 | Visual diff and merge tool |
-| 2026-11-12 16:41:30 | [gputaskman](https://aur.archlinux.org/packages/gputaskman) | 0.4.0-1 | 0 | A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity,… |
-| 2026-11-12 16:41:32 | [bootvine-git](https://aur.archlinux.org/packages/bootvine-git) | 0.1.3.ga7e33b4-1 | 0 | A boot animation showing stages of systemd as a tree |
-| 2026-11-12 16:53:13 | [updfparser](https://aur.archlinux.org/packages/updfparser) | 0.1-1 | 0 | Very simple PDF parser |
-| 2026-11-12 17:13:42 | [nyora-desktop-appimage](https://aur.archlinux.org/packages/nyora-desktop-appimage) | 3.1.12-1 | 0 | A free, independent, open-source manga reader |
-| 2026-11-12 17:16:38 | [linaudit-git](https://aur.archlinux.org/packages/linaudit-git) | r16.ecf16d1-1 | 0 | A read-only security audit tool for Linux systems with a score from 1 to 10 |
+| 2026-11-12 17:39:51 | [anibeam-bin](https://aur.archlinux.org/packages/anibeam-bin) | 2.4.0-1 | 0 | Browse, play and track a local anime library (Qt 6 and libmpv), prebuilt |
+| 2026-11-12 17:40:11 | [slit-scan-git](https://aur.archlinux.org/packages/slit-scan-git) | 0.1.0.r87.gea07ec1-1 | 0 | Streaming slit-scan animations from images, videos and a camera (git version) |
+| 2026-11-12 18:08:55 | [android-auto-maker-git](https://aur.archlinux.org/packages/android-auto-maker-git) | 1.1.15.r5.ga43dc7d-1 | 0 | Turn an APK or XAPK into a package Android Auto offers as a parked game (local… |
+| 2026-11-12 18:15:34 | [slit-scan](https://aur.archlinux.org/packages/slit-scan) | 0.1.0-1 | 0 | Streaming slit-scan animations from images, videos and a camera |
 
 ## Data source
 

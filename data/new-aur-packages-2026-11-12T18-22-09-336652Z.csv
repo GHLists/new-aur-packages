@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-12T17:39:51Z,anibeam-bin,2.4.0-1,0,"Browse, play and track a local anime library (Qt 6 and libmpv), prebuilt"
+2026-11-12T17:40:11Z,slit-scan-git,0.1.0.r87.gea07ec1-1,0,"Streaming slit-scan animations from images, videos and a camera (git version)"
+2026-11-12T18:08:55Z,android-auto-maker-git,1.1.15.r5.ga43dc7d-1,0,Turn an APK or XAPK into a package Android Auto offers as a parked game (local web converter)
+2026-11-12T18:15:34Z,slit-scan,0.1.0-1,0,"Streaming slit-scan animations from images, videos and a camera"
