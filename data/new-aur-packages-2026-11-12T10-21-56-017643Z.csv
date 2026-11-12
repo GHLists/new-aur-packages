@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-12T09:32:41Z,porta-bin,1.0.0-1,0,Open-source SSH client with an encrypted local vault and zero-trust sync (terminal UI)
+2026-11-12T09:33:16Z,porta-gui-bin,1.0.0-1,0,Open-source SSH client with an encrypted local vault and zero-trust sync (desktop GUI)
+2026-11-12T09:39:08Z,syn-iptv,2.0.8-1,0,"GTK4 IPTV player with XMLTV EPG, FFmpeg DVR and Chromecast support"
+2026-11-12T09:58:13Z,c6-git,r359.8ffdb1f-1,0,c6 — TinyCC with language extensions
+2026-11-12T10:17:31Z,xombe,0.1.0-1,0,C99 library implementing AMBE 2400 and AMBE+2 used by D-STAR and DMR
+2026-11-12T10:17:41Z,xombe-git,0.1.0.r0.g2f0a8e7-1,0,C99 library implementing AMBE 2400 and AMBE+2 used by D-STAR and DMR (git)
