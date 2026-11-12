@@ -12,20 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 10:21 UTC
+## Latest list — 2026-11-12 11:20 UTC
 
-New packages created between 2026-11-12 09:21 UTC and 2026-11-12 10:21 UTC.
+New packages created between 2026-11-12 10:21 UTC and 2026-11-12 11:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-12T10-21-56-017643Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-12T11-20-29-776143Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 09:32:41 | [porta-bin](https://aur.archlinux.org/packages/porta-bin) | 1.0.0-1 | 0 | Open-source SSH client with an encrypted local vault and zero-trust sync (termi… |
-| 2026-11-12 09:33:16 | [porta-gui-bin](https://aur.archlinux.org/packages/porta-gui-bin) | 1.0.0-1 | 0 | Open-source SSH client with an encrypted local vault and zero-trust sync (deskt… |
-| 2026-11-12 09:39:08 | [syn-iptv](https://aur.archlinux.org/packages/syn-iptv) | 2.0.8-1 | 0 | GTK4 IPTV player with XMLTV EPG, FFmpeg DVR and Chromecast support |
-| 2026-11-12 09:58:13 | [c6-git](https://aur.archlinux.org/packages/c6-git) | r359.8ffdb1f-1 | 0 | c6 — TinyCC with language extensions |
-| 2026-11-12 10:17:31 | [xombe](https://aur.archlinux.org/packages/xombe) | 0.1.0-1 | 0 | C99 library implementing AMBE 2400 and AMBE+2 used by D-STAR and DMR |
-| 2026-11-12 10:17:41 | [xombe-git](https://aur.archlinux.org/packages/xombe-git) | 0.1.0.r0.g2f0a8e7-1 | 0 | C99 library implementing AMBE 2400 and AMBE+2 used by D-STAR and DMR (git) |
+| 2026-11-12 10:29:14 | [texlive-emo-full](https://aur.archlinux.org/packages/texlive-emo-full) | 1.0-1 | 0 | Emoji support for all LaTeX engines (including all emo-graphics) |
+| 2026-11-12 10:30:50 | [limusic-bin-prerelease](https://aur.archlinux.org/packages/limusic-bin-prerelease) | 1.4.0rc.6-2 | 0 | Feature rich, native desktop, YouTube Music client (prerelease channel). Tauri… |
+| 2026-11-12 10:38:02 | [dotnet-host-10.0-bin](https://aur.archlinux.org/packages/dotnet-host-10.0-bin) | 10.0.0.sdk100-3 | 0 | A generic driver for the .NET Core Command Line Interface (binary) - .NET 10.0… |
+| 2026-11-12 10:38:02 | [aspnet-runtime-10.0-bin](https://aur.archlinux.org/packages/aspnet-runtime-10.0-bin) | 10.0.0.sdk100-3 | 0 | The ASP.NET Core runtime (binary) - .NET 10.0 LTS |
+| 2026-11-12 10:38:02 | [dotnet-runtime-10.0-bin](https://aur.archlinux.org/packages/dotnet-runtime-10.0-bin) | 10.0.0.sdk100-3 | 0 | The .NET Core runtime (binary) - .NET 10.0 LTS |
+| 2026-11-12 10:38:02 | [dotnet-sdk-10.0-bin](https://aur.archlinux.org/packages/dotnet-sdk-10.0-bin) | 10.0.0.sdk100-3 | 0 | The .NET Core SDK (binary) - .NET 10.0 LTS |
+| 2026-11-12 10:38:02 | [dotnet-targeting-pack-10.0-bin](https://aur.archlinux.org/packages/dotnet-targeting-pack-10.0-bin) | 10.0.0.sdk100-3 | 0 | The .NET Core targeting pack (binary) - .NET 10.0 LTS |
+| 2026-11-12 10:38:02 | [aspnet-targeting-pack-10.0-bin](https://aur.archlinux.org/packages/aspnet-targeting-pack-10.0-bin) | 10.0.0.sdk100-3 | 0 | The ASP.NET Core targeting pack (binary) - .NET 10.0 LTS |
+| 2026-11-12 10:38:23 | [greycard-bin](https://aur.archlinux.org/packages/greycard-bin) | 0.11.0-1 | 0 | A raw photo editor with a scene-referred, color-managed pipeline |
 
 ## Data source
 

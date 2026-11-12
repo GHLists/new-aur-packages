@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-12T10:29:14Z,texlive-emo-full,1.0-1,0,Emoji support for all LaTeX engines (including all emo-graphics)
+2026-11-12T10:30:50Z,limusic-bin-prerelease,1.4.0rc.6-2,0,"Feature rich, native desktop, YouTube Music client (prerelease channel). Tauri + Rust + SvelteKit, ad-free playback through libmpv, Last.fm scrobbling and Discord Rich Presence, no Electron."
+2026-11-12T10:38:02Z,dotnet-host-10.0-bin,10.0.0.sdk100-3,0,A generic driver for the .NET Core Command Line Interface (binary) - .NET 10.0 LTS
+2026-11-12T10:38:02Z,aspnet-runtime-10.0-bin,10.0.0.sdk100-3,0,The ASP.NET Core runtime (binary) - .NET 10.0 LTS
+2026-11-12T10:38:02Z,dotnet-runtime-10.0-bin,10.0.0.sdk100-3,0,The .NET Core runtime (binary) - .NET 10.0 LTS
+2026-11-12T10:38:02Z,dotnet-sdk-10.0-bin,10.0.0.sdk100-3,0,The .NET Core SDK (binary) - .NET 10.0 LTS
+2026-11-12T10:38:02Z,dotnet-targeting-pack-10.0-bin,10.0.0.sdk100-3,0,The .NET Core targeting pack (binary) - .NET 10.0 LTS
+2026-11-12T10:38:02Z,aspnet-targeting-pack-10.0-bin,10.0.0.sdk100-3,0,The ASP.NET Core targeting pack (binary) - .NET 10.0 LTS
+2026-11-12T10:38:23Z,greycard-bin,0.11.0-1,0,"A raw photo editor with a scene-referred, color-managed pipeline"
