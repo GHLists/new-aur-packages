@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-12T22:01:25Z,omnidotdev-harmony-cli,0.1.0-1,0,Templating and syncing engine for project files
+2026-11-12T22:01:39Z,omnidotdev-harmony-cli-bin,0.1.0-1,0,Templating and syncing engine for project files (pre-built)
+2026-11-12T22:08:28Z,mcumgrctl,0.20.0-1,0,Rust CLI for Zephyr MCUmgr (built from source)
+2026-11-12T22:12:45Z,mcumgrctl-bin,0.20.0-2,0,Rust CLI for Zephyr MCUmgr (prebuilt binary)

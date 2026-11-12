@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 20:19 UTC
+## Latest list — 2026-11-12 22:22 UTC
 
-New packages created between 2026-11-12 19:19 UTC and 2026-11-12 20:19 UTC.
+New packages created between 2026-11-12 21:21 UTC and 2026-11-12 22:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-12T20-19-53-9594Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-12T22-22-32-065645Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 19:24:38 | [parsec](https://aur.archlinux.org/packages/parsec) | 1.3.1-1 | 0 |  |
-| 2026-11-12 19:25:17 | [pi-bolt-bin](https://aur.archlinux.org/packages/pi-bolt-bin) | 1.2.1-1 | 0 | Pi coding agent compiled ahead of time to native code (prebuilt binary, x86-64… |
-| 2026-11-12 19:47:59 | [uzumaki](https://aur.archlinux.org/packages/uzumaki) | 0.1.0-1 | 0 | Native desktop client for Apple Music, GPU-rendered in Rust (needs a subscripti… |
-| 2026-11-12 19:48:04 | [uzumaki-bin](https://aur.archlinux.org/packages/uzumaki-bin) | 0.1.0-1 | 0 | Native desktop client for Apple Music, GPU-rendered in Rust (needs a subscripti… |
+| 2026-11-12 22:01:25 | [omnidotdev-harmony-cli](https://aur.archlinux.org/packages/omnidotdev-harmony-cli) | 0.1.0-1 | 0 | Templating and syncing engine for project files |
+| 2026-11-12 22:01:39 | [omnidotdev-harmony-cli-bin](https://aur.archlinux.org/packages/omnidotdev-harmony-cli-bin) | 0.1.0-1 | 0 | Templating and syncing engine for project files (pre-built) |
+| 2026-11-12 22:08:28 | [mcumgrctl](https://aur.archlinux.org/packages/mcumgrctl) | 0.20.0-1 | 0 | Rust CLI for Zephyr MCUmgr (built from source) |
+| 2026-11-12 22:12:45 | [mcumgrctl-bin](https://aur.archlinux.org/packages/mcumgrctl-bin) | 0.20.0-2 | 0 | Rust CLI for Zephyr MCUmgr (prebuilt binary) |
 
 ## Data source
 
