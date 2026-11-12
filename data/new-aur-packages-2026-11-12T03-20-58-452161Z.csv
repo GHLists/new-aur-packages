@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-12T02:26:49Z,zero,0.13.0-1,0,"Fast, multi-provider terminal coding agent"
+2026-11-12T02:26:58Z,zero-bin,0.13.0-1,0,"Fast, multi-provider terminal coding agent (prebuilt)"
+2026-11-12T02:34:24Z,pitwall-bin,0.2.9-1,1,"A desktop terminal for running several coding agents at once, with a sidebar that shows what each one is doing right now"
+2026-11-12T02:47:39Z,helix-db,3.7.0-1,0,CLI for an OLTP graph database with vector and full-text search
+2026-11-12T02:47:48Z,helix-db-bin,3.7.0-1,0,CLI for an OLTP graph database with vector and full-text search (prebuilt)
+2026-11-12T02:50:30Z,geetree-bin,0.5.6-1,0,GPU-rendered Git client built for very large repositories
+2026-11-12T03:09:48Z,packslip-bin,1.11.4-1,1,A signed release manifest for vendor binaries
+2026-11-12T03:11:45Z,roughenough,2.2.0-1,0,Roughtime (RFC 10049) server and client
+2026-11-12T03:11:54Z,roughenough-bin,2.2.0-1,0,Roughtime (RFC 10049) server and client (prebuilt)
