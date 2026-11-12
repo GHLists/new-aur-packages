@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-12T12:20:55Z,texlive-minted-git,3.8.0.r355.g7cf9042…,0,Git version of minted with conditional local Python selection
+2026-11-12T12:26:20Z,neoko-terminal-desktop-bin,0.4.1-1,0,Native neoko-terminal client: local and remote terminal with Relay pairing (GTK 4)
+2026-11-12T12:49:38Z,kopuz-nightly,0.68.0_nightly.2026…,0,"A modern music player, built nightly from the latest development code"
+2026-11-12T12:51:50Z,oplus-connect-private-bin,1.0.0.r19.gfd752ee-1,0,Linux client for OPPO and OnePlus device connectivity（自用维护，CI 自编译重打包版）
