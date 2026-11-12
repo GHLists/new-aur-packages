@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-12T19:24:38Z,parsec,1.3.1-1,0,
+2026-11-12T19:25:17Z,pi-bolt-bin,1.2.1-1,0,"Pi coding agent compiled ahead of time to native code (prebuilt binary, x86-64 baseline and ARM64)"
+2026-11-12T19:47:59Z,uzumaki,0.1.0-1,0,"Native desktop client for Apple Music, GPU-rendered in Rust (needs a subscription)"
+2026-11-12T19:48:04Z,uzumaki-bin,0.1.0-1,0,"Native desktop client for Apple Music, GPU-rendered in Rust (needs a subscription; prebuilt)"

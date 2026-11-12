@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 19:19 UTC
+## Latest list — 2026-11-12 20:19 UTC
 
-New packages created between 2026-11-12 18:22 UTC and 2026-11-12 19:19 UTC.
+New packages created between 2026-11-12 19:19 UTC and 2026-11-12 20:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-12T19-19-22-666779Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-12T20-19-53-9594Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 18:24:06 | [rsusage-bin](https://aur.archlinux.org/packages/rsusage-bin) | 0.1.r9-1 | 0 | Blazing fast usage reports for coding agents - a Rust rewrite of ccusage (binar… |
-| 2026-11-12 18:40:33 | [obs-avip](https://aur.archlinux.org/packages/obs-avip) | 0.1.0-1 | 0 | NDI® source and output for OBS in Rust, a drop-in for DistroAV |
-| 2026-11-12 18:55:31 | [rsusage](https://aur.archlinux.org/packages/rsusage) | 0.1.r9-1 | 0 | Blazing fast usage reports for coding agents - a Rust rewrite of ccusage |
-| 2026-11-12 19:10:10 | [parsec-rocm](https://aur.archlinux.org/packages/parsec-rocm) | 4.0.2411-1 | 1 | Generic framework for architecture aware scheduling and management of micro-tas… |
+| 2026-11-12 19:24:38 | [parsec](https://aur.archlinux.org/packages/parsec) | 1.3.1-1 | 0 |  |
+| 2026-11-12 19:25:17 | [pi-bolt-bin](https://aur.archlinux.org/packages/pi-bolt-bin) | 1.2.1-1 | 0 | Pi coding agent compiled ahead of time to native code (prebuilt binary, x86-64… |
+| 2026-11-12 19:47:59 | [uzumaki](https://aur.archlinux.org/packages/uzumaki) | 0.1.0-1 | 0 | Native desktop client for Apple Music, GPU-rendered in Rust (needs a subscripti… |
+| 2026-11-12 19:48:04 | [uzumaki-bin](https://aur.archlinux.org/packages/uzumaki-bin) | 0.1.0-1 | 0 | Native desktop client for Apple Music, GPU-rendered in Rust (needs a subscripti… |
 
 ## Data source
 
