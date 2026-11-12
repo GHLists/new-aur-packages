@@ -12,21 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 23:20 UTC
+## Latest list — 2026-11-12 00:19 UTC
 
-New packages created between 2026-11-11 22:19 UTC and 2026-11-11 23:20 UTC.
+New packages created between 2026-11-11 23:20 UTC and 2026-11-12 00:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-11T23-20-51-22238Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-12T00-19-37-243789Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 22:21:25 | [c2patool](https://aur.archlinux.org/packages/c2patool) | 0.28.6-1 | 0 | Tool for displaying and creating C2PA manifests |
-| 2026-11-11 22:21:36 | [c2patool-bin](https://aur.archlinux.org/packages/c2patool-bin) | 0.28.6-1 | 0 | Tool for displaying and creating C2PA manifests (prebuilt) |
-| 2026-11-11 22:23:27 | [ferrocrypt-bin](https://aur.archlinux.org/packages/ferrocrypt-bin) | 0.3.1-1 | 1 | A pure Rust CLI, and desktop application for encrypting and decrypting files an… |
-| 2026-11-11 22:30:39 | [servio-bin](https://aur.archlinux.org/packages/servio-bin) | 0.7.0-1 | 1 | HTTP server for static files, with live reload, built with axum |
-| 2026-11-11 23:13:31 | [fallow](https://aur.archlinux.org/packages/fallow) | 3.42.0-1 | 0 | Codebase intelligence for TypeScript and JavaScript |
-| 2026-11-11 23:13:41 | [fallow-bin](https://aur.archlinux.org/packages/fallow-bin) | 3.42.0-1 | 0 | Codebase intelligence for TypeScript and JavaScript (prebuilt) |
-| 2026-11-11 23:16:39 | [stela-bin](https://aur.archlinux.org/packages/stela-bin) |  |  | General purpose Apple Silicon layer for x86-64 PCs: boots macOS on a PC from a… |
+| 2026-11-11 23:30:43 | [b4-git](https://aur.archlinux.org/packages/b4-git) | 0.16.0.r168.gce4c11… | 0 | Helper utility to work with patches made available via a public-inbox archive l… |
+| 2026-11-11 23:49:46 | [gpui-greeter](https://aur.archlinux.org/packages/gpui-greeter) | 1.0.0-1 | 0 | A greeter for greetd on X11, drawn with GPUI |
 
 ## Data source
 
