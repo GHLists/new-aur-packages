@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 00:19 UTC
+## Latest list — 2026-11-12 01:21 UTC
 
-New packages created between 2026-11-11 23:20 UTC and 2026-11-12 00:19 UTC.
+New packages created between 2026-11-12 00:19 UTC and 2026-11-12 01:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-12T00-19-37-243789Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-12T01-21-52-604232Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 23:30:43 | [b4-git](https://aur.archlinux.org/packages/b4-git) | 0.16.0.r168.gce4c11… | 0 | Helper utility to work with patches made available via a public-inbox archive l… |
-| 2026-11-11 23:49:46 | [gpui-greeter](https://aur.archlinux.org/packages/gpui-greeter) | 1.0.0-1 | 0 | A greeter for greetd on X11, drawn with GPUI |
+| 2026-11-12 01:15:08 | [openmac-bin](https://aur.archlinux.org/packages/openmac-bin) | 0.0.3-1 | 0 | Macintosh emulator written from scratch: Macintosh Classic, Macintosh IIfx and… |
+| 2026-11-12 01:20:04 | [ampl-bin](https://aur.archlinux.org/packages/ampl-bin) | 20261109-1 | 0 | A Mathematical Programming Language |
 
 ## Data source
 
