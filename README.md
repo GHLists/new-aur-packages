@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 17:21 UTC
+## Latest list — 2026-11-13 18:19 UTC
 
-New packages created between 2026-11-13 16:19 UTC and 2026-11-13 17:21 UTC.
+New packages created between 2026-11-13 17:21 UTC and 2026-11-13 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-13T17-21-00-06777Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-13T18-19-53-198024Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 16:35:23 | [python-pan-scm-sdk](https://aur.archlinux.org/packages/python-pan-scm-sdk) | 0.15.1-1 | 0 | Python SDK for Palo Alto Networks Strata Cloud Manager (SCM) |
-| 2026-11-13 16:44:27 | [python-scm-python](https://aur.archlinux.org/packages/python-scm-python) | 0.0.1b3-1 | 0 | Official Palo Alto Networks Strata Cloud Manager (SCM) Python SDK (beta) |
-| 2026-11-13 16:49:35 | [dhictl-bin](https://aur.archlinux.org/packages/dhictl-bin) | 0.0.13-1 | 0 | CLI for managing Docker Hardened Images (DHI) |
-| 2026-11-13 17:03:07 | [pgsty-silo](https://aur.archlinux.org/packages/pgsty-silo) | 2026.11.12-1 | 0 | Object storage server compatible with Amazon S3 |
-| 2026-11-13 17:12:31 | [pgsty-silo-client](https://aur.archlinux.org/packages/pgsty-silo-client) | 2026.11.12-1 | 0 | Replacement for ls, cp, mkdir, diff and rsync commands for filesystems and obje… |
+| 2026-11-13 17:32:09 | [librewolf-with-dane](https://aur.archlinux.org/packages/librewolf-with-dane) | 160.0.0_1-1 | 0 | Community-maintained fork of Firefox, focused on privacy, security and freedom |
+| 2026-11-13 17:40:49 | [psd2live-bin](https://aur.archlinux.org/packages/psd2live-bin) | 3.6.7-1 | 0 | Turn layered PSD files into editable Live2D models (prebuilt binary release) |
 
 ## Data source
 
