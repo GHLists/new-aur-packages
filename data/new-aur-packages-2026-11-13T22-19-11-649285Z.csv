@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-13T21:22:59Z,outpace-bin,1.0.1-2,0,Open-source streaming engine for public Acestream content
+2026-11-13T21:33:03Z,outpace-git,1.0.1-2,0,Open-source streaming engine for public Acestream content (latest stable Git tag)
+2026-11-13T21:42:44Z,crosspoint-sync,0.2.0-1,0,Lightweight KoSync Server for Syncing Crosspoint/CrossInk stats & progress
+2026-11-13T21:47:12Z,homelab-remote,0.2.1-1,0,"Wake, shut down and work on your home PC from a laptop and phone over Tailscale (TUI setup wizard)"
+2026-11-13T21:49:25Z,python-indra-ocr,1.1.2-1,0,Fast CPU OCR for PDFs and images using ONNX Runtime
+2026-11-13T22:03:03Z,pi-ext-goal,0.55.3-1,0,Autonomous goal loop for the Pi coding agent: keeps working until the goal is verified complete
+2026-11-13T22:03:10Z,pi-ext-workspace-history,0.5.2-1,0,Undo and redo for the Pi coding agent: rewinds files and conversation together
+2026-11-13T22:12:30Z,nkit-git,3-1,0,Command line disc image tools. Convert/extract/verify/fix (nkit). Dedupe/mount (nkds).
+2026-11-13T22:17:29Z,waybar-module-sysmon-git,,,"Waybar CFFI module showing CPU, RAM, GPU, network and disk usage as scrolling bar graphs"
