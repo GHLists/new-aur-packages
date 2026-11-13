@@ -12,17 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 00:21 UTC
+## Latest list — 2026-11-13 01:21 UTC
 
-New packages created between 2026-11-12 23:19 UTC and 2026-11-13 00:21 UTC.
+New packages created between 2026-11-13 00:21 UTC and 2026-11-13 01:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-13T00-21-01-815014Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-13T01-21-17-818699Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 23:37:19 | [china-operator-ip-git](https://aur.archlinux.org/packages/china-operator-ip-git) | 0.3468.d16fd0bf-1 | 1 | IPv4 and IPv6 address lists for Chinese network operators |
-| 2026-11-12 23:45:41 | [openp2s-bin](https://aur.archlinux.org/packages/openp2s-bin) | 0.3.0-1 | 0 | Native Linux client for Azure Point-to-Site VPNs using Microsoft Entra ID authe… |
-| 2026-11-13 00:06:09 | [kakemono-bin](https://aur.archlinux.org/packages/kakemono-bin) | 0.3.1-1 | 0 | Wallpaper manager with a tray app, a picker and many image sources |
+| 2026-11-13 00:21:21 | [dsh-superagent-prototype-bin](https://aur.archlinux.org/packages/dsh-superagent-prototype-bin) | 0.1.3-1 | 0 | DSH Superagent prototype — proactive GitHub/Feishu agent bundle for DeepSeek Ha… |
+| 2026-11-13 00:23:19 | [gnome-shell-extension-ai-usagebar](https://aur.archlinux.org/packages/gnome-shell-extension-ai-usagebar) | 1.6.0-1 | 0 | Show AI plan usage (Claude, Codex, OpenRouter and more) in the GNOME Shell top… |
+| 2026-11-13 00:40:23 | [dadroit-json-viewer](https://aur.archlinux.org/packages/dadroit-json-viewer) | 3.3.0.604-1 | 0 | Viewer for very large JSON and JSON Lines files (free for non-commercial use) |
+| 2026-11-13 00:52:05 | [dorker](https://aur.archlinux.org/packages/dorker) | 0.1.7-1 | 1 | Docker for headless Android emulator environments |
+| 2026-11-13 00:52:48 | [nsc-bin](https://aur.archlinux.org/packages/nsc-bin) | 2.15.0-1 | 0 | Tool for creating NATS operator, account and user access configurations (prebui… |
+| 2026-11-13 01:02:49 | [luna-modeler](https://aur.archlinux.org/packages/luna-modeler) | 15.0.0-1 | 0 | Database design tool for relational databases (commercial, 14-day trial) |
 
 ## Data source
 

@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-13T00:21:21Z,dsh-superagent-prototype-bin,0.1.3-1,0,DSH Superagent prototype — proactive GitHub/Feishu agent bundle for DeepSeek Harness
+2026-11-13T00:23:19Z,gnome-shell-extension-ai-usagebar,1.6.0-1,0,"Show AI plan usage (Claude, Codex, OpenRouter and more) in the GNOME Shell top panel"
+2026-11-13T00:40:23Z,dadroit-json-viewer,3.3.0.604-1,0,Viewer for very large JSON and JSON Lines files (free for non-commercial use)
+2026-11-13T00:52:05Z,dorker,0.1.7-1,1,Docker for headless Android emulator environments
+2026-11-13T00:52:48Z,nsc-bin,2.15.0-1,0,"Tool for creating NATS operator, account and user access configurations (prebuilt binary)"
+2026-11-13T01:02:49Z,luna-modeler,15.0.0-1,0,"Database design tool for relational databases (commercial, 14-day trial)"
