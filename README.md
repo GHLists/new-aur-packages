@@ -12,16 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 08:19 UTC
+## Latest list — 2026-11-13 10:20 UTC
 
-New packages created between 2026-11-13 07:21 UTC and 2026-11-13 08:19 UTC.
+New packages created between 2026-11-13 09:22 UTC and 2026-11-13 10:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-13T08-19-28-895197Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-13T10-20-47-477617Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 07:43:40 | [link-editor](https://aur.archlinux.org/packages/link-editor) | 0.8.0-0 | 0 | Editor of symbolic links |
-| 2026-11-13 07:45:38 | [lody-desktop-bin](https://aur.archlinux.org/packages/lody-desktop-bin) | 0.112.0-1 | 0 | Team workspace for the coding agents you already run |
+| 2026-11-13 09:34:00 | [md-padding](https://aur.archlinux.org/packages/md-padding) | 1.10.0-1 | 0 | Tool for formatting Markdown content with padding |
+| 2026-11-13 09:38:42 | [sirinvpn](https://aur.archlinux.org/packages/sirinvpn) | 1.0.0rc1-1 | 0 | Self-hosted WireGuard VPN: set up your own VPS and connect your devices |
+| 2026-11-13 09:38:49 | [sirinvpn-bin](https://aur.archlinux.org/packages/sirinvpn-bin) | 1.0.0rc1-1 | 0 | Self-hosted WireGuard VPN: set up your own VPS and connect your devices (prebui… |
+| 2026-11-13 09:38:56 | [sirinvpn-git](https://aur.archlinux.org/packages/sirinvpn-git) | 1.0.0rc1.r2.g7ade32… | 0 | Self-hosted WireGuard VPN: set up your own VPS and connect your devices (develo… |
+| 2026-11-13 09:41:26 | [yank-bin](https://aur.archlinux.org/packages/yank-bin) | 0.2.0-1 | 0 | Native clipboard history with self-hosted sync (GTK4 client and sync server) |
+| 2026-11-13 09:45:37 | [pi-bolt-avx2-bin](https://aur.archlinux.org/packages/pi-bolt-avx2-bin) | 1.2.1-1 | 0 | Pi coding agent compiled ahead of time to native code (prebuilt binary, x86-64… |
+| 2026-11-13 10:06:58 | [obs-avip-git](https://aur.archlinux.org/packages/obs-avip-git) | 0.1.0.r4.g1c42ac1-2 | 0 | NDI® source and output for OBS in Rust, a drop-in for DistroAV |
+| 2026-11-13 10:10:36 | [simpleems](https://aur.archlinux.org/packages/simpleems) | 0.4.0-1 | 0 | Framework on top of openEMS for designing and simulating antennas, filters, cou… |
+| 2026-11-13 10:12:47 | [yubild](https://aur.archlinux.org/packages/yubild) | 0.1.0-1 | 0 | C++ build system with Python configuration and a CMake backend |
 
 ## Data source
 

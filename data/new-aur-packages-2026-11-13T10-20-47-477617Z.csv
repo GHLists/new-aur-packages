@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-13T09:34:00Z,md-padding,1.10.0-1,0,Tool for formatting Markdown content with padding
+2026-11-13T09:38:42Z,sirinvpn,1.0.0rc1-1,0,Self-hosted WireGuard VPN: set up your own VPS and connect your devices
+2026-11-13T09:38:49Z,sirinvpn-bin,1.0.0rc1-1,0,Self-hosted WireGuard VPN: set up your own VPS and connect your devices (prebuilt)
+2026-11-13T09:38:56Z,sirinvpn-git,1.0.0rc1.r2.g7ade32…,0,Self-hosted WireGuard VPN: set up your own VPS and connect your devices (development version)
+2026-11-13T09:41:26Z,yank-bin,0.2.0-1,0,Native clipboard history with self-hosted sync (GTK4 client and sync server)
+2026-11-13T09:45:37Z,pi-bolt-avx2-bin,1.2.1-1,0,"Pi coding agent compiled ahead of time to native code (prebuilt binary, x86-64 with AVX2)"
+2026-11-13T10:06:58Z,obs-avip-git,0.1.0.r4.g1c42ac1-2,0,"NDI® source and output for OBS in Rust, a drop-in for DistroAV"
+2026-11-13T10:10:36Z,simpleems,0.4.0-1,0,"Framework on top of openEMS for designing and simulating antennas, filters, couplers and other RF/microwave structures"
+2026-11-13T10:12:47Z,yubild,0.1.0-1,0,C++ build system with Python configuration and a CMake backend
