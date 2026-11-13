@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-13T03:37:10Z,hare-sql-git,r4.aece218-1,0,High-level SQL interface for Hare
+2026-11-13T03:47:01Z,dotnet-build-deps,10.0.14.sdk114-1,0,Build dependencies of the .NET packages from the current source-built .NET of Arch Linux (meta package)
+2026-11-13T04:12:27Z,amplide-bin,4.1.0.202412231704-1,1,Legacy IDE for A Mathematical Programming Language

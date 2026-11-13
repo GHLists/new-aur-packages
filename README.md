@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 03:19 UTC
+## Latest list — 2026-11-13 04:21 UTC
 
-New packages created between 2026-11-13 02:19 UTC and 2026-11-13 03:19 UTC.
+New packages created between 2026-11-13 03:19 UTC and 2026-11-13 04:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-13T03-19-01-382652Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-13T04-21-53-012327Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 02:20:33 | [tsuki-bin](https://aur.archlinux.org/packages/tsuki-bin) | 0.0.1-1 | 0 | Native Linux game launcher for Wine, Proton, and native titles (prebuilt binary) |
-| 2026-11-13 02:27:42 | [futureboard-studio-bin](https://aur.archlinux.org/packages/futureboard-studio-bin) | 2026.11.1_beta2.0.0… | 0 | Futureboard Studio — native Digital Audio Workstation |
+| 2026-11-13 03:37:10 | [hare-sql-git](https://aur.archlinux.org/packages/hare-sql-git) | r4.aece218-1 | 0 | High-level SQL interface for Hare |
+| 2026-11-13 03:47:01 | [dotnet-build-deps](https://aur.archlinux.org/packages/dotnet-build-deps) | 10.0.14.sdk114-1 | 0 | Build dependencies of the .NET packages from the current source-built .NET of A… |
+| 2026-11-13 04:12:27 | [amplide-bin](https://aur.archlinux.org/packages/amplide-bin) | 4.1.0.202412231704-1 | 1 | Legacy IDE for A Mathematical Programming Language |
 
 ## Data source
 
