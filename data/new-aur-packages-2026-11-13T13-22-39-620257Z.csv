@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-13T12:34:37Z,python316,3.16.0a2-1,1,The Python programming language (version 3.16)
+2026-11-13T12:45:34Z,neomarker-bin,2026.11.15-1,0,"Markdown editor with Mermaid 12, batch PDF export, dark mode and security fixes (prebuilt binary)"
+2026-11-13T12:46:09Z,neomarker-git,2026.11.15-1,0,"Markdown editor with Mermaid 12, batch PDF export, dark mode and security fixes"
+2026-11-13T12:47:43Z,whydown,0.12.3-1,0,"Evidence-based read-only Linux diagnostics (CLI, TUI, Qt6 GUI)"
+2026-11-13T12:47:51Z,whydown-bin,0.12.3-1,0,"Prebuilt static read-only Linux diagnostics (CLI, TUI, Qt6 GUI)"
