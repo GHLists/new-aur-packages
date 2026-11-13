@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 02:19 UTC
+## Latest list — 2026-11-13 03:19 UTC
 
-New packages created between 2026-11-13 01:21 UTC and 2026-11-13 02:19 UTC.
+New packages created between 2026-11-13 02:19 UTC and 2026-11-13 03:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-13T02-19-49-309346Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-13T03-19-01-382652Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 01:56:13 | [chordist](https://aur.archlinux.org/packages/chordist) | 2.0.1-1 | 0 | Guitar companion for KDE Plasma: live chords, tabs, lyrics and fingerings for w… |
-| 2026-11-13 02:17:39 | [tsuki-git](https://aur.archlinux.org/packages/tsuki-git) |  |  | Native Linux game launcher for Wine, Proton, and native titles (git version) |
+| 2026-11-13 02:20:33 | [tsuki-bin](https://aur.archlinux.org/packages/tsuki-bin) | 0.0.1-1 | 0 | Native Linux game launcher for Wine, Proton, and native titles (prebuilt binary) |
+| 2026-11-13 02:27:42 | [futureboard-studio-bin](https://aur.archlinux.org/packages/futureboard-studio-bin) | 2026.11.1_beta2.0.0… | 0 | Futureboard Studio — native Digital Audio Workstation |
 
 ## Data source
 
