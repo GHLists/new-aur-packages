@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-13T10:26:05Z,winedirectalsa-bin,1.0.0_beta.3-1,0,Ultra-low-latency ASIO driver for Wine/Proton
+2026-11-13T10:36:50Z,yati,0.3.0-1,0,用 HTML/CSS/JS 写桌面应用，内核是 CEF（Chromium）
+2026-11-13T10:49:12Z,dsh-next-bin,2.0.22_next-1,0,DSH Desktop NEXT - desktop client for DeepSeek Harness
+2026-11-13T11:09:35Z,dnsometer,0.1.0-1,0,DNS latency testing with a terminal interface and JSON output
