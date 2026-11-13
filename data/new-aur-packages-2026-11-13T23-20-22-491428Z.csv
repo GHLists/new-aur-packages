@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-13T22:31:30Z,aula-f75-rs-bin,0.1.29-1,0,GUI and CLI configuration tool for the AULA F75 keyboard (prebuilt binary)
+2026-11-13T23:19:11Z,framework-fingerprint-led-blink,,,Blink the Framework Laptop power-button LED while the fingerprint reader waits for a finger
