@@ -12,16 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 14:21 UTC
+## Latest list — 2026-11-13 15:18 UTC
 
-New packages created between 2026-11-13 13:22 UTC and 2026-11-13 14:21 UTC.
+New packages created between 2026-11-13 14:21 UTC and 2026-11-13 15:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-13T14-21-04-619789Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-13T15-18-48-965344Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 13:23:02 | [workbuddy-switch-bin](https://aur.archlinux.org/packages/workbuddy-switch-bin) | 0.1.62-1 | 0 | WorkBuddy / CodeBuddy account switcher with credit expiry monitoring, credit an… |
-| 2026-11-13 13:37:23 | [evtrill](https://aur.archlinux.org/packages/evtrill) | 0.1.0-1 | 0 | SOCD cleaner for rhythm games: a two-key trill daemon for any Linux keyboard, w… |
+| 2026-11-13 14:23:16 | [youtube-subtitle-extractor](https://aur.archlinux.org/packages/youtube-subtitle-extractor) | 0.1.0-1 | 0 | Download YouTube subtitles (json3) and print them as plaintext. |
+| 2026-11-13 14:23:48 | [listen-moe-desktop](https://aur.archlinux.org/packages/listen-moe-desktop) | 1.0.0-1 | 1 | Official LISTEN.moe Desktop Client |
+| 2026-11-13 14:42:10 | [remya-screen-capture](https://aur.archlinux.org/packages/remya-screen-capture) | 0.1.0-1 | 0 | Screen capture, recording and editing for Hyprland |
+| 2026-11-13 14:42:13 | [remya-settings-git](https://aur.archlinux.org/packages/remya-settings-git) | 0.1.0_dev.20261113.… | 0 | A Material Design 3 Expressive system settings application for Hyprland on Linu… |
+| 2026-11-13 14:42:14 | [remya-screen-capture-bin](https://aur.archlinux.org/packages/remya-screen-capture-bin) | 0.1.0-1 | 0 | Screen capture, recording and editing for Hyprland |
+| 2026-11-13 15:11:55 | [anycode-bin](https://aur.archlinux.org/packages/anycode-bin) | 0.0.101-1 | 0 | Desktop workspace for AI coding agents (Claude Code, Codex and native) |
 
 ## Data source
 

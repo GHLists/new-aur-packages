@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-13T14:23:16Z,youtube-subtitle-extractor,0.1.0-1,0,Download YouTube subtitles (json3) and print them as plaintext.
+2026-11-13T14:23:48Z,listen-moe-desktop,1.0.0-1,1,Official LISTEN.moe Desktop Client
+2026-11-13T14:42:10Z,remya-screen-capture,0.1.0-1,0,"Screen capture, recording and editing for Hyprland"
+2026-11-13T14:42:13Z,remya-settings-git,0.1.0_dev.20261113.…,0,A Material Design 3 Expressive system settings application for Hyprland on Linux (git)
+2026-11-13T14:42:14Z,remya-screen-capture-bin,0.1.0-1,0,"Screen capture, recording and editing for Hyprland"
+2026-11-13T15:11:55Z,anycode-bin,0.0.101-1,0,"Desktop workspace for AI coding agents (Claude Code, Codex and native)"
