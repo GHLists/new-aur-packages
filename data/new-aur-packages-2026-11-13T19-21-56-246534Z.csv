@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-13T18:23:07Z,kestrel-nvr-bin,0.3.0-1,0,"Your cameras, recordings and events in one place, with a server for every device (prebuilt)"
+2026-11-13T18:27:55Z,tdu-aegix-git,r9.fd46423-1,0,Aegix Linux's terminal disk usage: an instant device overview with chunky gruvbox bars and a one-level drill-down
+2026-11-13T18:53:19Z,python-smithy-aws-checksums,0.1.1-1,1,"Checksum algorithms for Smithy tooling, with native acceleration."
+2026-11-13T19:17:16Z,dsh-superagent-prototype-git,0.1.0.r1.g8c32a9d-1,0,DSH Superagent prototype — proactive GitHub/Feishu agent bundle for DeepSeek Harness (git)
+2026-11-13T19:19:21Z,hcl-tools,,,"Tools for parsing and formatting HCL based files (hcldec, hclfmt, hclspecsuite)"

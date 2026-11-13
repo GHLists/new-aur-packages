@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 18:19 UTC
+## Latest list — 2026-11-13 19:21 UTC
 
-New packages created between 2026-11-13 17:21 UTC and 2026-11-13 18:19 UTC.
+New packages created between 2026-11-13 18:19 UTC and 2026-11-13 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-13T18-19-53-198024Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-13T19-21-56-246534Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 17:32:09 | [librewolf-with-dane](https://aur.archlinux.org/packages/librewolf-with-dane) | 160.0.0_1-1 | 0 | Community-maintained fork of Firefox, focused on privacy, security and freedom |
-| 2026-11-13 17:40:49 | [psd2live-bin](https://aur.archlinux.org/packages/psd2live-bin) | 3.6.7-1 | 0 | Turn layered PSD files into editable Live2D models (prebuilt binary release) |
+| 2026-11-13 18:23:07 | [kestrel-nvr-bin](https://aur.archlinux.org/packages/kestrel-nvr-bin) | 0.3.0-1 | 0 | Your cameras, recordings and events in one place, with a server for every devic… |
+| 2026-11-13 18:27:55 | [tdu-aegix-git](https://aur.archlinux.org/packages/tdu-aegix-git) | r9.fd46423-1 | 0 | Aegix Linux's terminal disk usage: an instant device overview with chunky gruvb… |
+| 2026-11-13 18:53:19 | [python-smithy-aws-checksums](https://aur.archlinux.org/packages/python-smithy-aws-checksums) | 0.1.1-1 | 1 | Checksum algorithms for Smithy tooling, with native acceleration. |
+| 2026-11-13 19:17:16 | [dsh-superagent-prototype-git](https://aur.archlinux.org/packages/dsh-superagent-prototype-git) | 0.1.0.r1.g8c32a9d-1 | 0 | DSH Superagent prototype — proactive GitHub/Feishu agent bundle for DeepSeek Ha… |
+| 2026-11-13 19:19:21 | [hcl-tools](https://aur.archlinux.org/packages/hcl-tools) |  |  | Tools for parsing and formatting HCL based files (hcldec, hclfmt, hclspecsuite) |
 
 ## Data source
 
