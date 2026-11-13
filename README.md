@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 06:21 UTC
+## Latest list — 2026-11-13 08:19 UTC
 
-New packages created between 2026-11-13 05:22 UTC and 2026-11-13 06:21 UTC.
+New packages created between 2026-11-13 07:21 UTC and 2026-11-13 08:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-13T06-21-27-290472Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-13T08-19-28-895197Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 06:10:06 | [gitmun](https://aur.archlinux.org/packages/gitmun) | 0.14.3-1 | 0 | A cross-platform Git GUI built with Tauri |
-| 2026-11-13 06:12:23 | [copydisk](https://aur.archlinux.org/packages/copydisk) | 0.1.0-1 | 0 | Make a small sparse image of a GPT disk: same GUIDs/UUIDs, shrunken ext4/LVM ro… |
+| 2026-11-13 07:43:40 | [link-editor](https://aur.archlinux.org/packages/link-editor) | 0.8.0-0 | 0 | Editor of symbolic links |
+| 2026-11-13 07:45:38 | [lody-desktop-bin](https://aur.archlinux.org/packages/lody-desktop-bin) | 0.112.0-1 | 0 | Team workspace for the coding agents you already run |
 
 ## Data source
 
