@@ -12,21 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 23:19 UTC
+## Latest list — 2026-11-13 00:21 UTC
 
-New packages created between 2026-11-12 22:22 UTC and 2026-11-12 23:19 UTC.
+New packages created between 2026-11-12 23:19 UTC and 2026-11-13 00:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-12T23-19-23-012545Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-13T00-21-01-815014Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 22:37:52 | [ente-auth-bin-jetm](https://aur.archlinux.org/packages/ente-auth-bin-jetm) | 4.4.26-2 | 0 | Ente two-factor authenticator |
-| 2026-11-12 22:46:44 | [igv-beta](https://aur.archlinux.org/packages/igv-beta) | 3.0.0_beta.8-1 | 0 | High-performance visualization tool for interactive exploration of large, integ… |
-| 2026-11-12 22:57:02 | [cecilia](https://aur.archlinux.org/packages/cecilia) | 5.4.1-1 | 0 | Audio signal processing environment aimed at sound designers |
-| 2026-11-12 23:01:34 | [blaze-engine-git](https://aur.archlinux.org/packages/blaze-engine-git) | 0.20261109.1.r1103.… | 0 | Incremental rust builds up to 92x faster than cargo/rustc |
-| 2026-11-12 23:03:11 | [cecilia-bin](https://aur.archlinux.org/packages/cecilia-bin) | 0.45.1-1 | 0 | Keyboard-first editor and player for guitar tab, standard notation and Gregoria… |
-| 2026-11-12 23:05:04 | [remder-bin](https://aur.archlinux.org/packages/remder-bin) | 1.0.1-1 | 0 | Render your markdown in the terminal with lots of bells and whistles |
-| 2026-11-12 23:07:46 | [blaze-engine](https://aur.archlinux.org/packages/blaze-engine) | 0.20261027.0-1 | 0 | Incremental rust builds up to 92x faster than cargo/rustc |
+| 2026-11-12 23:37:19 | [china-operator-ip-git](https://aur.archlinux.org/packages/china-operator-ip-git) | 0.3468.d16fd0bf-1 | 1 | IPv4 and IPv6 address lists for Chinese network operators |
+| 2026-11-12 23:45:41 | [openp2s-bin](https://aur.archlinux.org/packages/openp2s-bin) | 0.3.0-1 | 0 | Native Linux client for Azure Point-to-Site VPNs using Microsoft Entra ID authe… |
+| 2026-11-13 00:06:09 | [kakemono-bin](https://aur.archlinux.org/packages/kakemono-bin) | 0.3.1-1 | 0 | Wallpaper manager with a tray app, a picker and many image sources |
 
 ## Data source
 
