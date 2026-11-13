@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-13T04:45:51Z,libdxfrw,2.2.0-1,0,C++ library to read/write DXF files in binary and ASCII form and to read DWG files from r14 to v2015
+2026-11-13T05:09:23Z,otfx-bin,0.0.1-1,1,Odin port of ttfx
+2026-11-13T05:11:57Z,dumate-bin,1.0.92-1,0,Baidu DuMate desktop AI client
+2026-11-13T05:19:00Z,mark-shot-arch-bin,,,Qt 6 Wayland screenshot selection and annotation tool (built against Arch/ALARM)

@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 04:21 UTC
+## Latest list — 2026-11-13 05:22 UTC
 
-New packages created between 2026-11-13 03:19 UTC and 2026-11-13 04:21 UTC.
+New packages created between 2026-11-13 04:21 UTC and 2026-11-13 05:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-13T04-21-53-012327Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-13T05-22-11-846109Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 03:37:10 | [hare-sql-git](https://aur.archlinux.org/packages/hare-sql-git) | r4.aece218-1 | 0 | High-level SQL interface for Hare |
-| 2026-11-13 03:47:01 | [dotnet-build-deps](https://aur.archlinux.org/packages/dotnet-build-deps) | 10.0.14.sdk114-1 | 0 | Build dependencies of the .NET packages from the current source-built .NET of A… |
-| 2026-11-13 04:12:27 | [amplide-bin](https://aur.archlinux.org/packages/amplide-bin) | 4.1.0.202412231704-1 | 1 | Legacy IDE for A Mathematical Programming Language |
+| 2026-11-13 04:45:51 | [libdxfrw](https://aur.archlinux.org/packages/libdxfrw) | 2.2.0-1 | 0 | C++ library to read/write DXF files in binary and ASCII form and to read DWG fi… |
+| 2026-11-13 05:09:23 | [otfx-bin](https://aur.archlinux.org/packages/otfx-bin) | 0.0.1-1 | 1 | Odin port of ttfx |
+| 2026-11-13 05:11:57 | [dumate-bin](https://aur.archlinux.org/packages/dumate-bin) | 1.0.92-1 | 0 | Baidu DuMate desktop AI client |
+| 2026-11-13 05:19:00 | [mark-shot-arch-bin](https://aur.archlinux.org/packages/mark-shot-arch-bin) |  |  | Qt 6 Wayland screenshot selection and annotation tool (built against Arch/ALARM) |
 
 ## Data source
 
