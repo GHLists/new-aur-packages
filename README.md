@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 05:22 UTC
+## Latest list — 2026-11-13 06:21 UTC
 
-New packages created between 2026-11-13 04:21 UTC and 2026-11-13 05:22 UTC.
+New packages created between 2026-11-13 05:22 UTC and 2026-11-13 06:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-13T05-22-11-846109Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-13T06-21-27-290472Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 04:45:51 | [libdxfrw](https://aur.archlinux.org/packages/libdxfrw) | 2.2.0-1 | 0 | C++ library to read/write DXF files in binary and ASCII form and to read DWG fi… |
-| 2026-11-13 05:09:23 | [otfx-bin](https://aur.archlinux.org/packages/otfx-bin) | 0.0.1-1 | 1 | Odin port of ttfx |
-| 2026-11-13 05:11:57 | [dumate-bin](https://aur.archlinux.org/packages/dumate-bin) | 1.0.92-1 | 0 | Baidu DuMate desktop AI client |
-| 2026-11-13 05:19:00 | [mark-shot-arch-bin](https://aur.archlinux.org/packages/mark-shot-arch-bin) |  |  | Qt 6 Wayland screenshot selection and annotation tool (built against Arch/ALARM) |
+| 2026-11-13 06:10:06 | [gitmun](https://aur.archlinux.org/packages/gitmun) | 0.14.3-1 | 0 | A cross-platform Git GUI built with Tauri |
+| 2026-11-13 06:12:23 | [copydisk](https://aur.archlinux.org/packages/copydisk) | 0.1.0-1 | 0 | Make a small sparse image of a GPT disk: same GUIDs/UUIDs, shrunken ext4/LVM ro… |
 
 ## Data source
 
