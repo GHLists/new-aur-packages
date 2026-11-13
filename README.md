@@ -12,19 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 19:21 UTC
+## Latest list — 2026-11-13 20:20 UTC
 
-New packages created between 2026-11-13 18:19 UTC and 2026-11-13 19:21 UTC.
+New packages created between 2026-11-13 19:21 UTC and 2026-11-13 20:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-13T19-21-56-246534Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-13T20-20-06-694445Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 18:23:07 | [kestrel-nvr-bin](https://aur.archlinux.org/packages/kestrel-nvr-bin) | 0.3.0-1 | 0 | Your cameras, recordings and events in one place, with a server for every devic… |
-| 2026-11-13 18:27:55 | [tdu-aegix-git](https://aur.archlinux.org/packages/tdu-aegix-git) | r9.fd46423-1 | 0 | Aegix Linux's terminal disk usage: an instant device overview with chunky gruvb… |
-| 2026-11-13 18:53:19 | [python-smithy-aws-checksums](https://aur.archlinux.org/packages/python-smithy-aws-checksums) | 0.1.1-1 | 1 | Checksum algorithms for Smithy tooling, with native acceleration. |
-| 2026-11-13 19:17:16 | [dsh-superagent-prototype-git](https://aur.archlinux.org/packages/dsh-superagent-prototype-git) | 0.1.0.r1.g8c32a9d-1 | 0 | DSH Superagent prototype — proactive GitHub/Feishu agent bundle for DeepSeek Ha… |
-| 2026-11-13 19:19:21 | [hcl-tools](https://aur.archlinux.org/packages/hcl-tools) |  |  | Tools for parsing and formatting HCL based files (hcldec, hclfmt, hclspecsuite) |
+| 2026-11-13 20:00:17 | [kinoklip-bin](https://aur.archlinux.org/packages/kinoklip-bin) | 1.7.0-1 | 0 | Kinoklip — video editor: cut, arrange, add effects and export |
+| 2026-11-13 20:08:48 | [appimage-integrator](https://aur.archlinux.org/packages/appimage-integrator) | 0.1.0-1 | 1 | Integrate AppImages into the desktop |
+| 2026-11-13 20:12:08 | [pi-ext-background](https://aur.archlinux.org/packages/pi-ext-background) | 0.4.2-1 | 0 | Run long commands in the background and wake the Pi coding agent when they fini… |
+| 2026-11-13 20:12:14 | [pi-ext-claude-bridge](https://aur.archlinux.org/packages/pi-ext-claude-bridge) | 0.12.0-1 | 0 | Claude Pro/Max subscription provider for the Pi coding agent, routed through th… |
+| 2026-11-13 20:12:19 | [pi-ext-commandcode](https://aur.archlinux.org/packages/pi-ext-commandcode) | 0.8.3-1 | 0 | Command Code provider for the Pi coding agent (unofficial community integration) |
+| 2026-11-13 20:12:25 | [pi-ext-lens](https://aur.archlinux.org/packages/pi-ext-lens) | 4.4.12-1 | 0 | Real-time code feedback for the Pi coding agent: language servers, linters, for… |
+| 2026-11-13 20:12:31 | [pi-ext-rpiv-ask-user-question](https://aur.archlinux.org/packages/pi-ext-rpiv-ask-user-question) | 2.15.0-1 | 0 | Structured multiple-choice questions the model can put to the user, for the Pi… |
+| 2026-11-13 20:12:36 | [pi-ext-rpiv-todo](https://aur.archlinux.org/packages/pi-ext-rpiv-todo) | 2.15.0-1 | 0 | Model-facing todo list rendered as a live overlay, for the Pi coding agent |
 
 ## Data source
 

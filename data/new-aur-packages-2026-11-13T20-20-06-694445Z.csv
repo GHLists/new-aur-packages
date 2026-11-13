@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-13T20:00:17Z,kinoklip-bin,1.7.0-1,0,"Kinoklip — video editor: cut, arrange, add effects and export"
+2026-11-13T20:08:48Z,appimage-integrator,0.1.0-1,1,Integrate AppImages into the desktop
+2026-11-13T20:12:08Z,pi-ext-background,0.4.2-1,0,Run long commands in the background and wake the Pi coding agent when they finish
+2026-11-13T20:12:14Z,pi-ext-claude-bridge,0.12.0-1,0,"Claude Pro/Max subscription provider for the Pi coding agent, routed through the official Claude Code CLI"
+2026-11-13T20:12:19Z,pi-ext-commandcode,0.8.3-1,0,Command Code provider for the Pi coding agent (unofficial community integration)
+2026-11-13T20:12:25Z,pi-ext-lens,4.4.12-1,0,"Real-time code feedback for the Pi coding agent: language servers, linters, formatters"
+2026-11-13T20:12:31Z,pi-ext-rpiv-ask-user-question,2.15.0-1,0,"Structured multiple-choice questions the model can put to the user, for the Pi coding agent"
+2026-11-13T20:12:36Z,pi-ext-rpiv-todo,2.15.0-1,0,"Model-facing todo list rendered as a live overlay, for the Pi coding agent"
