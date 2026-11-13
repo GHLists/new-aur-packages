@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-13T20:22:14Z,shelltrace-git,0.3.2.r52.g331faf9-1,0,Linux command impact inspector (Rust CLI and Qt6 GUI)
+2026-11-13T20:59:06Z,virsh-tui-bin,0.2.0-1,0,Keyboard-driven terminal UI for libvirt/virsh with vim keys and live graphs (static binary)
+2026-11-13T20:59:11Z,virsh-tui,0.2.0-1,0,Keyboard-driven terminal UI for libvirt/virsh with vim keys and live graphs
+2026-11-13T21:01:36Z,extest,1.0.3-1,1,X11 XTEST reimplementation primarily for Steam Controller on Wayland (for 64-bit Steam client)
+2026-11-13T21:09:52Z,flux9s,1.5.2-1,0,A K9s-inspired terminal UI for monitoring Flux resources in real-time
+2026-11-13T21:14:42Z,g3mtool,,,Command-line tool for modding GameMaker games
