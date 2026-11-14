@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 15:18 UTC
+## Latest list — 2026-11-14 16:19 UTC
 
-New packages created between 2026-11-14 14:20 UTC and 2026-11-14 15:18 UTC.
+New packages created between 2026-11-14 15:18 UTC and 2026-11-14 16:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T15-18-38-986981Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T16-19-01-108879Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 14:52:03 | [lib32-reshade-linux-bin](https://aur.archlinux.org/packages/lib32-reshade-linux-bin) | 6.8.0.1-1 | 0 | crosire's ReShade post-processing injector as a native Vulkan layer (32-bit) (p… |
-| 2026-11-14 14:52:28 | [lib32-reshade-linux-git](https://aur.archlinux.org/packages/lib32-reshade-linux-git) | 6.8.0.1_r5_gea4b56e… | 0 | crosire's ReShade post-processing injector as a native Vulkan layer (32-bit) (g… |
-| 2026-11-14 14:52:40 | [reshade-linux-bin](https://aur.archlinux.org/packages/reshade-linux-bin) | 6.8.0.1-1 | 0 | crosire's ReShade post-processing injector as a native Vulkan layer, enabled wi… |
-| 2026-11-14 14:52:53 | [reshade-linux-git](https://aur.archlinux.org/packages/reshade-linux-git) | 6.8.0.1_r5_gea4b56e… | 0 | crosire's ReShade post-processing injector as a native Vulkan layer, enabled wi… |
+| 2026-11-14 15:19:41 | [tune-bridge](https://aur.archlinux.org/packages/tune-bridge) | 0.2.8-1 | 0 | Open Advanced Audio Transport. A bit-perfect, multi-room audio streaming protoc… |
+| 2026-11-14 15:31:43 | [trueflasher-git](https://aur.archlinux.org/packages/trueflasher-git) | 1.0.0.r1.g1e95726-1 | 0 | Find the real capacity of fake USB flash drives |
+| 2026-11-14 15:34:06 | [outline-client-bin](https://aur.archlinux.org/packages/outline-client-bin) | 1.22.0-1 | 0 | The Outline clients use the popular Shadowsocks protocol, and lean on the Cordo… |
+| 2026-11-14 16:12:32 | [pashly-bin](https://aur.archlinux.org/packages/pashly-bin) | 0.1.1-1 | 0 | Password generation, hashing, and verification CLI for IAM/CIAM migrations. |
 
 ## Data source
 
