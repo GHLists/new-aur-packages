@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 05:18 UTC
+## Latest list — 2026-11-14 06:21 UTC
 
-New packages created between 2026-11-14 04:20 UTC and 2026-11-14 05:18 UTC.
+New packages created between 2026-11-14 05:18 UTC and 2026-11-14 06:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T05-18-32-02322Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T06-21-44-184351Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 04:31:48 | [borg-commander-bin](https://aur.archlinux.org/packages/borg-commander-bin) | 0.11.0-1 | 0 | Midnight Commander + Yazi + Terminal multiplexer |
-| 2026-11-14 04:31:48 | [borg-commander-relay-bin](https://aur.archlinux.org/packages/borg-commander-relay-bin) | 0.11.0-1 | 0 | Midnight Commander + Yazi + Terminal multiplexer |
-| 2026-11-14 04:38:48 | [pi-ui-git](https://aur.archlinux.org/packages/pi-ui-git) | 0.65.2.r0.g533cc4f-1 | 0 | Keyboard-first minimal GUI for pi |
+| 2026-11-14 05:34:23 | [libcupsfilters2.1](https://aur.archlinux.org/packages/libcupsfilters2.1) | 2.1.2-1 | 0 | OpenPrinting CUPS Filters 2.1.X branch - contains all the code of the filters o… |
+| 2026-11-14 05:57:39 | [studyplan-git](https://aur.archlinux.org/packages/studyplan-git) | 0.1.0.r4.g542d960-1 | 0 | Turn YouTube course playlists into a daily study to-do list, with a terminal UI |
+| 2026-11-14 06:00:23 | [aerial-lock](https://aur.archlinux.org/packages/aerial-lock) | 0.1.1-1 | 0 | Wayland session lock with video backgrounds and an idle/session companion |
+| 2026-11-14 06:06:37 | [yksresults-git](https://aur.archlinux.org/packages/yksresults-git) | 0.1.0.r5.g5769e09-1 | 0 | Native cross-platform TUI for tracking YKS TYT and AYT study results |
 
 ## Data source
 

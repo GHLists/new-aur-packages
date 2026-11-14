@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-14T05:34:23Z,libcupsfilters2.1,2.1.2-1,0,OpenPrinting CUPS Filters 2.1.X branch - contains all the code of the filters of the former cups-filters package as library functions
+2026-11-14T05:57:39Z,studyplan-git,0.1.0.r4.g542d960-1,0,"Turn YouTube course playlists into a daily study to-do list, with a terminal UI"
+2026-11-14T06:00:23Z,aerial-lock,0.1.1-1,0,Wayland session lock with video backgrounds and an idle/session companion
+2026-11-14T06:06:37Z,yksresults-git,0.1.0.r5.g5769e09-1,0,Native cross-platform TUI for tracking YKS TYT and AYT study results
