@@ -12,18 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 06:21 UTC
+## Latest list — 2026-11-14 07:20 UTC
 
-New packages created between 2026-11-14 05:18 UTC and 2026-11-14 06:21 UTC.
+New packages created between 2026-11-14 06:21 UTC and 2026-11-14 07:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T06-21-44-184351Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T07-20-34-251597Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 05:34:23 | [libcupsfilters2.1](https://aur.archlinux.org/packages/libcupsfilters2.1) | 2.1.2-1 | 0 | OpenPrinting CUPS Filters 2.1.X branch - contains all the code of the filters o… |
-| 2026-11-14 05:57:39 | [studyplan-git](https://aur.archlinux.org/packages/studyplan-git) | 0.1.0.r4.g542d960-1 | 0 | Turn YouTube course playlists into a daily study to-do list, with a terminal UI |
-| 2026-11-14 06:00:23 | [aerial-lock](https://aur.archlinux.org/packages/aerial-lock) | 0.1.1-1 | 0 | Wayland session lock with video backgrounds and an idle/session companion |
-| 2026-11-14 06:06:37 | [yksresults-git](https://aur.archlinux.org/packages/yksresults-git) | 0.1.0.r5.g5769e09-1 | 0 | Native cross-platform TUI for tracking YKS TYT and AYT study results |
+| 2026-11-14 06:28:06 | [youtube-video-downloader](https://aur.archlinux.org/packages/youtube-video-downloader) | 2.0.2-1 | 0 | Fast desktop front-end for yt-dlp with a download queue (Tauri) |
+| 2026-11-14 06:28:13 | [youtube-video-downloader-bin](https://aur.archlinux.org/packages/youtube-video-downloader-bin) | 2.0.2-1 | 0 | Fast desktop front-end for yt-dlp with a download queue (prebuilt) |
+| 2026-11-14 06:28:21 | [youtube-video-downloader-git](https://aur.archlinux.org/packages/youtube-video-downloader-git) | 2.0.0.r0.g0000000-1 | 0 | Fast desktop front-end for yt-dlp with a download queue (Tauri, git) |
+| 2026-11-14 06:50:35 | [kenning](https://aur.archlinux.org/packages/kenning) | 0.8.1-1 | 0 | Kenning: face unlock for KDE Plasma |
+| 2026-11-14 06:50:35 | [plasma-login-manager-kenning](https://aur.archlinux.org/packages/plasma-login-manager-kenning) | 0.8.1-1 | 0 | Plasma Login Manager that starts face unlock as soon as it appears |
+| 2026-11-14 07:00:36 | [remya-core](https://aur.archlinux.org/packages/remya-core) | 0.1.0-1 | 0 | Shared Remya daemon, updater and CLI |
+| 2026-11-14 07:00:48 | [remya-core-bin](https://aur.archlinux.org/packages/remya-core-bin) | 0.1.0-1 | 0 | Shared Remya daemon, updater and CLI |
+| 2026-11-14 07:02:48 | [remya-bar](https://aur.archlinux.org/packages/remya-bar) | 0.1.0-1 | 0 | A Material Design 3 Expressive desktop bar for Hyprland on Linux |
 
 ## Data source
 

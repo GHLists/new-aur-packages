@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-14T06:28:06Z,youtube-video-downloader,2.0.2-1,0,Fast desktop front-end for yt-dlp with a download queue (Tauri)
+2026-11-14T06:28:13Z,youtube-video-downloader-bin,2.0.2-1,0,Fast desktop front-end for yt-dlp with a download queue (prebuilt)
+2026-11-14T06:28:21Z,youtube-video-downloader-git,2.0.0.r0.g0000000-1,0,"Fast desktop front-end for yt-dlp with a download queue (Tauri, git)"
+2026-11-14T06:50:35Z,kenning,0.8.1-1,0,Kenning: face unlock for KDE Plasma
+2026-11-14T06:50:35Z,plasma-login-manager-kenning,0.8.1-1,0,Plasma Login Manager that starts face unlock as soon as it appears
+2026-11-14T07:00:36Z,remya-core,0.1.0-1,0,"Shared Remya daemon, updater and CLI"
+2026-11-14T07:00:48Z,remya-core-bin,0.1.0-1,0,"Shared Remya daemon, updater and CLI"
+2026-11-14T07:02:48Z,remya-bar,0.1.0-1,0,A Material Design 3 Expressive desktop bar for Hyprland on Linux
