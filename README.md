@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 08:20 UTC
+## Latest list — 2026-11-14 09:19 UTC
 
-New packages created between 2026-11-14 07:20 UTC and 2026-11-14 08:20 UTC.
+New packages created between 2026-11-14 08:20 UTC and 2026-11-14 09:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T08-20-52-92253Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T09-19-39-390853Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 07:21:57 | [mp3-browser](https://aur.archlinux.org/packages/mp3-browser) | 1.0.0-1 | 0 | A Browser of MP3. A Linux-GJS replica on an MP3-Explorer from early 2000-s. |
-| 2026-11-14 07:56:24 | [file-finder-bin](https://aur.archlinux.org/packages/file-finder-bin) | 0.2.0-1 | 1 | Fast TUI file finder built in Rust — global & local search, open in editor, cop… |
+| 2026-11-14 08:26:29 | [otf-zakon](https://aur.archlinux.org/packages/otf-zakon) | 1.000-1 | 0 | Zakon Text, the national typeface of Ukraine for official documents (Cyrillic a… |
+| 2026-11-14 08:28:34 | [lolka-x-bin](https://aur.archlinux.org/packages/lolka-x-bin) | 2.0.0-1 | 0 | Lolka X - chat, voice and screen sharing desktop client |
+| 2026-11-14 08:28:40 | [plamo-trans](https://aur.archlinux.org/packages/plamo-trans) | 0.1.1-1 | 0 | Local translation as a Unix filter: PLaMo 3 Translate on llama.cpp, no server |
 
 ## Data source
 
