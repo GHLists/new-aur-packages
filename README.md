@@ -12,16 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 17:21 UTC
+## Latest list — 2026-11-14 18:19 UTC
 
-New packages created between 2026-11-14 16:19 UTC and 2026-11-14 17:21 UTC.
+New packages created between 2026-11-14 17:21 UTC and 2026-11-14 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T17-21-28-165562Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T18-19-38-649554Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 16:22:50 | [quickshell-dusk-git](https://aur.archlinux.org/packages/quickshell-dusk-git) | 0.3.2.r16.gd4bb6a3-1 | 0 | Quickshell with faster startup through QML scanning and disk-cache optimizations |
-| 2026-11-14 16:50:50 | [orca-slicer-latest-bin](https://aur.archlinux.org/packages/orca-slicer-latest-bin) | 2.5.1-1 | 0 | G-code generator for 3D printers (all published versions - alpha/beta/release c… |
+| 2026-11-14 17:40:10 | [wrep](https://aur.archlinux.org/packages/wrep) | 0.1.0-1 | 0 | List and switch Hyprland windows via dmenu-compatible launchers (fuzzel, rofi,… |
+| 2026-11-14 18:06:40 | [hyprtab](https://aur.archlinux.org/packages/hyprtab) | 0.1.0-1 | 0 | Alt-Tab style window switcher for Hyprland (Qt6/QML overlay) |
+| 2026-11-14 18:14:53 | [python-torch-einops-utils](https://aur.archlinux.org/packages/python-torch-einops-utils) |  |  | PyTorch and einops tensor utilities used by lucidrains' model libraries |
+| 2026-11-14 18:15:19 | [python-pytest-rng](https://aur.archlinux.org/packages/python-pytest-rng) |  |  | Pytest fixtures for seeding tests and making randomness reproducible |
+| 2026-11-14 18:15:45 | [python-diastatic-malt](https://aur.archlinux.org/packages/python-diastatic-malt) |  |  | Python source transformation and operator overloading library (AutoGraph fork) |
+| 2026-11-14 18:16:24 | [omnidotdev-fractal-cli-bin](https://aur.archlinux.org/packages/omnidotdev-fractal-cli-bin) |  |  | CLI for Fractal, the Omni deployment platform (pre-built) |
 
 ## Data source
 

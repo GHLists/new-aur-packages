@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-14T17:40:10Z,wrep,0.1.0-1,0,"List and switch Hyprland windows via dmenu-compatible launchers (fuzzel, rofi, wofi, dmenu)"
+2026-11-14T18:06:40Z,hyprtab,0.1.0-1,0,Alt-Tab style window switcher for Hyprland (Qt6/QML overlay)
+2026-11-14T18:14:53Z,python-torch-einops-utils,,,PyTorch and einops tensor utilities used by lucidrains' model libraries
+2026-11-14T18:15:19Z,python-pytest-rng,,,Pytest fixtures for seeding tests and making randomness reproducible
+2026-11-14T18:15:45Z,python-diastatic-malt,,,Python source transformation and operator overloading library (AutoGraph fork)
+2026-11-14T18:16:24Z,omnidotdev-fractal-cli-bin,,,"CLI for Fractal, the Omni deployment platform (pre-built)"
