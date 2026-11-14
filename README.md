@@ -12,27 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 00:22 UTC
+## Latest list — 2026-11-14 01:18 UTC
 
-New packages created between 2026-11-13 23:20 UTC and 2026-11-14 00:22 UTC.
+New packages created between 2026-11-14 00:22 UTC and 2026-11-14 01:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T00-22-00-705739Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T01-18-58-950974Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 23:36:25 | [chromecast-sink-git](https://aur.archlinux.org/packages/chromecast-sink-git) | 0.0.1.r2.g0d1fdae-1 | 0 | Use Google Chromecast and Nest devices as a PipeWire audio output |
-| 2026-11-13 23:38:10 | [python-flask-smorest](https://aur.archlinux.org/packages/python-flask-smorest) | 0.47.0-1 | 0 | Flask/Marshmallow-based REST API framework |
-| 2026-11-13 23:38:16 | [sogo6-server](https://aur.archlinux.org/packages/sogo6-server) | 6.0.0alpha2-2 | 0 | API server of SOGo 6, the groupware for mail, calendars and contacts (alpha, no… |
-| 2026-11-13 23:38:22 | [sogo6-ui](https://aur.archlinux.org/packages/sogo6-ui) | 6.0.0alpha2-1 | 0 | Web interface of SOGo 6, the groupware for mail, calendars and contacts (alpha,… |
-| 2026-11-14 00:07:11 | [libcute_c2-git](https://aur.archlinux.org/packages/libcute_c2-git) | r996.476d688-1 | 1 | Collection of cross-platform one-file C/C++ libraries with no dependencies, pri… |
-| 2026-11-14 00:07:11 | [libcute_net-git](https://aur.archlinux.org/packages/libcute_net-git) | r996.476d688-1 | 1 | Collection of cross-platform one-file C/C++ libraries with no dependencies, pri… |
-| 2026-11-14 00:07:11 | [libcute_tiled-git](https://aur.archlinux.org/packages/libcute_tiled-git) | r996.476d688-1 | 1 | Collection of cross-platform one-file C/C++ libraries with no dependencies, pri… |
-| 2026-11-14 00:07:11 | [libcute_aseprite-git](https://aur.archlinux.org/packages/libcute_aseprite-git) | r996.476d688-1 | 1 | Collection of cross-platform one-file C/C++ libraries with no dependencies, pri… |
-| 2026-11-14 00:07:11 | [libcute_sound-git](https://aur.archlinux.org/packages/libcute_sound-git) | r996.476d688-1 | 1 | Collection of cross-platform one-file C/C++ libraries with no dependencies, pri… |
-| 2026-11-14 00:07:11 | [libcute_png-git](https://aur.archlinux.org/packages/libcute_png-git) | r996.476d688-1 | 1 | Collection of cross-platform one-file C/C++ libraries with no dependencies, pri… |
-| 2026-11-14 00:07:11 | [libcute_spritebatch-git](https://aur.archlinux.org/packages/libcute_spritebatch-git) | r996.476d688-1 | 1 | Collection of cross-platform one-file C/C++ libraries with no dependencies, pri… |
-| 2026-11-14 00:07:11 | [libcute_sync-git](https://aur.archlinux.org/packages/libcute_sync-git) | r996.476d688-1 | 1 | Collection of cross-platform one-file C/C++ libraries with no dependencies, pri… |
-| 2026-11-14 00:07:11 | [libcute_tls-git](https://aur.archlinux.org/packages/libcute_tls-git) | r996.476d688-1 | 1 | Collection of cross-platform one-file C/C++ libraries with no dependencies, pri… |
+| 2026-11-14 00:23:08 | [python-mytimer](https://aur.archlinux.org/packages/python-mytimer) | 2.4-1 | 0 | A Geeky Timer for Terminal Enthusiasts |
 
 ## Data source
 
