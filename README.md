@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 09:19 UTC
+## Latest list — 2026-11-14 10:18 UTC
 
-New packages created between 2026-11-14 08:20 UTC and 2026-11-14 09:19 UTC.
+New packages created between 2026-11-14 09:19 UTC and 2026-11-14 10:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T09-19-39-390853Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T10-18-41-633193Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 08:26:29 | [otf-zakon](https://aur.archlinux.org/packages/otf-zakon) | 1.000-1 | 0 | Zakon Text, the national typeface of Ukraine for official documents (Cyrillic a… |
-| 2026-11-14 08:28:34 | [lolka-x-bin](https://aur.archlinux.org/packages/lolka-x-bin) | 2.0.0-1 | 0 | Lolka X - chat, voice and screen sharing desktop client |
-| 2026-11-14 08:28:40 | [plamo-trans](https://aur.archlinux.org/packages/plamo-trans) | 0.1.1-1 | 0 | Local translation as a Unix filter: PLaMo 3 Translate on llama.cpp, no server |
+| 2026-11-14 09:25:44 | [ed-up-installer-bin](https://aur.archlinux.org/packages/ed-up-installer-bin) | 0.22.0-3 | 0 | ED Unofficial Patch (ED-UP, formerly EDVR): unofficial fixes and DLSS/FSR/XeSS… |
+| 2026-11-14 09:51:43 | [soundhive-bin](https://aur.archlinux.org/packages/soundhive-bin) | 1.3.1-1 | 0 | Fast browser for large sound effect libraries: search, audition, tag and drag s… |
+| 2026-11-14 10:07:57 | [hivemind-ai-git](https://aur.archlinux.org/packages/hivemind-ai-git) | 1.0.0.r0.g0000000-1 | 0 | Kanban board for running AI coding agents (Claude Code, OpenCode) across projec… |
+| 2026-11-14 10:12:42 | [hivemind-ai-bin](https://aur.archlinux.org/packages/hivemind-ai-bin) | 1.0.2-1 | 0 | Kanban board for running AI coding agents (Claude Code, OpenCode) across projec… |
+| 2026-11-14 10:13:05 | [gopodder](https://aur.archlinux.org/packages/gopodder) | 1.4.3-1 | 0 | gPodder-compatible podcast synchronization server |
 
 ## Data source
 

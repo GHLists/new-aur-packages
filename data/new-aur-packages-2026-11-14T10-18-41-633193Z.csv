@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-14T09:25:44Z,ed-up-installer-bin,0.22.0-3,0,"ED Unofficial Patch (ED-UP, formerly EDVR): unofficial fixes and DLSS/FSR/XeSS upscaling for Elite Dangerous in VR and flat"
+2026-11-14T09:51:43Z,soundhive-bin,1.3.1-1,0,"Fast browser for large sound effect libraries: search, audition, tag and drag sounds (prebuilt binary)"
+2026-11-14T10:07:57Z,hivemind-ai-git,1.0.0.r0.g0000000-1,0,"Kanban board for running AI coding agents (Claude Code, OpenCode) across projects (development version)"
+2026-11-14T10:12:42Z,hivemind-ai-bin,1.0.2-1,0,"Kanban board for running AI coding agents (Claude Code, OpenCode) across projects (prebuilt binary)"
+2026-11-14T10:13:05Z,gopodder,1.4.3-1,0,gPodder-compatible podcast synchronization server
