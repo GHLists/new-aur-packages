@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-14T12:31:18Z,workbuddy2api-panel,2026.11.12.1729-1,0,把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）
+2026-11-14T13:09:38Z,metrolist-desktop-bin,14.0.0-1,0,YouTube Music client for desktop
+2026-11-14T13:09:50Z,crw-bin,0.44.0-1,0,"Fast, lightweight Firecrawl/Tavily alternative in Rust — web scraper, crawler & search API with MCP server"

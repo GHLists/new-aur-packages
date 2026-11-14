@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 12:21 UTC
+## Latest list — 2026-11-14 13:18 UTC
 
-New packages created between 2026-11-14 11:19 UTC and 2026-11-14 12:21 UTC.
+New packages created between 2026-11-14 12:21 UTC and 2026-11-14 13:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T12-21-21-033302Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T13-18-41-900597Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 11:49:56 | [locale-gen](https://aur.archlinux.org/packages/locale-gen) | 3.10-1 | 0 | Generate locales based upon the config file /etc/locale.gen |
+| 2026-11-14 12:31:18 | [workbuddy2api-panel](https://aur.archlinux.org/packages/workbuddy2api-panel) | 2026.11.12.1729-1 | 0 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 /… |
+| 2026-11-14 13:09:38 | [metrolist-desktop-bin](https://aur.archlinux.org/packages/metrolist-desktop-bin) | 14.0.0-1 | 0 | YouTube Music client for desktop |
+| 2026-11-14 13:09:50 | [crw-bin](https://aur.archlinux.org/packages/crw-bin) | 0.44.0-1 | 0 | Fast, lightweight Firecrawl/Tavily alternative in Rust — web scraper, crawler &… |
 
 ## Data source
 
