@@ -12,19 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 03:20 UTC
+## Latest list — 2026-11-14 04:20 UTC
 
-New packages created between 2026-11-14 02:20 UTC and 2026-11-14 03:20 UTC.
+New packages created between 2026-11-14 03:20 UTC and 2026-11-14 04:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T03-20-38-527345Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T04-20-45-742303Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 02:21:28 | [rift-home](https://aur.archlinux.org/packages/rift-home) | 0.1.0-1 | 0 | A VR desktop for the Oculus Rift CV1 on RiftLinux: your apps as windows in a ro… |
-| 2026-11-14 02:27:43 | [himalaya-tui-git](https://aur.archlinux.org/packages/himalaya-tui-git) | 0.1.0.r71.g4c2af0f-1 | 0 | TUI to manage emails, from the Pimalaya project |
-| 2026-11-14 02:28:44 | [misterdownloadmanager-private-bin](https://aur.archlinux.org/packages/misterdownloadmanager-private-bin) | 0.5.2-1 | 0 | 自用维护：多线程/断点续传/浏览器接管/BT 下载管理器，上游 anefzaoui/misterdownloadmanager |
-| 2026-11-14 02:42:03 | [python-sbom](https://aur.archlinux.org/packages/python-sbom) | 0.3.1-1 | 1 | SBOMs for Python distributions: write PEP 770 CycloneDX SBOMs into wheels |
-| 2026-11-14 03:04:37 | [meo-settings-beta](https://aur.archlinux.org/packages/meo-settings-beta) | 0.2.0beta5-6 | 0 | Meo Settings application for MeoArch (Beta channel) |
+| 2026-11-14 03:22:32 | [localfly-linux-git](https://aur.archlinux.org/packages/localfly-linux-git) | 0.1.0.r0.g0000000-1 | 0 | Your localhost, on the internet — bore tunnels with an Adwaita window + tray |
+| 2026-11-14 03:22:39 | [jfsh-git](https://aur.archlinux.org/packages/jfsh-git) | 0.2.1-1 | 0 | Terminal client for Jellyfin, plays videos through mpv |
+| 2026-11-14 03:22:44 | [localfly-linux-bin](https://aur.archlinux.org/packages/localfly-linux-bin) | 0.1.0-1 | 0 | Your localhost, on the internet — bore tunnels with an Adwaita window + tray (p… |
+| 2026-11-14 03:24:56 | [jellyfin-tui-git](https://aur.archlinux.org/packages/jellyfin-tui-git) | 1.6.0-1 | 0 | Music streaming TUI client for Jellyfin |
+| 2026-11-14 03:32:38 | [straitbible-git](https://aur.archlinux.org/packages/straitbible-git) | 6.2.r0.g0000000-1 | 0 | Free multilingual Bible reader (based on Unbound Bible) |
+| 2026-11-14 03:35:30 | [straitbible](https://aur.archlinux.org/packages/straitbible) | 6.2-1 | 0 | Free multilingual Bible reader (based on Unbound Bible) |
+| 2026-11-14 03:43:33 | [libcute_sound-sdl2](https://aur.archlinux.org/packages/libcute_sound-sdl2) | r987.004c7a7-1 | 1 | Load/play/loop (with plugin)/pan WAV + OGG (stb_vorbis wrapper for OGG) in mono… |
+| 2026-11-14 03:56:07 | [speshell-git](https://aur.archlinux.org/packages/speshell-git) | r21.g6b88cf8-1 | 0 | A desktop shell built with Quickshell: a bar and its panels, a launcher, and an… |
+| 2026-11-14 03:59:23 | [omapdf-bin](https://aur.archlinux.org/packages/omapdf-bin) | 0.0.1alpha-1 | 0 | Native Wayland PDF and EPUB reader built with GPUI and MuPDF (portable binary) |
+| 2026-11-14 03:59:39 | [minecraft-c-git](https://aur.archlinux.org/packages/minecraft-c-git) | v1.2.r4.5f6cb39-2 | 1 | Minecraft Classic 0.0.30a reimplemented in C (bleeding-edge version). |
+| 2026-11-14 04:12:20 | [orbbec-openni2](https://aur.archlinux.org/packages/orbbec-openni2) | 2.3.0.86-1 | 0 | Orbbec OpenNI2 SDK, drivers and samples for Orbbec depth cameras |
 
 ## Data source
 

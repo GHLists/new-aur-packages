@@ -1,0 +1,12 @@
+created_at,package,version,votes,description
+2026-11-14T03:22:32Z,localfly-linux-git,0.1.0.r0.g0000000-1,0,"Your localhost, on the internet — bore tunnels with an Adwaita window + tray"
+2026-11-14T03:22:39Z,jfsh-git,0.2.1-1,0,"Terminal client for Jellyfin, plays videos through mpv"
+2026-11-14T03:22:44Z,localfly-linux-bin,0.1.0-1,0,"Your localhost, on the internet — bore tunnels with an Adwaita window + tray (prebuilt)"
+2026-11-14T03:24:56Z,jellyfin-tui-git,1.6.0-1,0,Music streaming TUI client for Jellyfin
+2026-11-14T03:32:38Z,straitbible-git,6.2.r0.g0000000-1,0,Free multilingual Bible reader (based on Unbound Bible)
+2026-11-14T03:35:30Z,straitbible,6.2-1,0,Free multilingual Bible reader (based on Unbound Bible)
+2026-11-14T03:43:33Z,libcute_sound-sdl2,r987.004c7a7-1,1,"Load/play/loop (with plugin)/pan WAV + OGG (stb_vorbis wrapper for OGG) in mono/stereo, high performance custom mixer, music + crossfade support (SDL2 version)"
+2026-11-14T03:56:07Z,speshell-git,r21.g6b88cf8-1,0,"A desktop shell built with Quickshell: a bar and its panels, a launcher, and animated themes"
+2026-11-14T03:59:23Z,omapdf-bin,0.0.1alpha-1,0,Native Wayland PDF and EPUB reader built with GPUI and MuPDF (portable binary)
+2026-11-14T03:59:39Z,minecraft-c-git,v1.2.r4.5f6cb39-2,1,Minecraft Classic 0.0.30a reimplemented in C (bleeding-edge version).
+2026-11-14T04:12:20Z,orbbec-openni2,2.3.0.86-1,0,"Orbbec OpenNI2 SDK, drivers and samples for Orbbec depth cameras"
