@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-14T14:52:03Z,lib32-reshade-linux-bin,6.8.0.1-1,0,crosire's ReShade post-processing injector as a native Vulkan layer (32-bit) (prebuilt)
+2026-11-14T14:52:28Z,lib32-reshade-linux-git,6.8.0.1_r5_gea4b56e…,0,crosire's ReShade post-processing injector as a native Vulkan layer (32-bit) (git version)
+2026-11-14T14:52:40Z,reshade-linux-bin,6.8.0.1-1,0,"crosire's ReShade post-processing injector as a native Vulkan layer, enabled with RESHADE=1 (works with Proton via DXVK/VKD3D) (prebuilt)"
+2026-11-14T14:52:53Z,reshade-linux-git,6.8.0.1_r5_gea4b56e…,0,"crosire's ReShade post-processing injector as a native Vulkan layer, enabled with RESHADE=1 (works with Proton via DXVK/VKD3D) (git version)"

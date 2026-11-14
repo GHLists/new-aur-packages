@@ -12,21 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 14:20 UTC
+## Latest list — 2026-11-14 15:18 UTC
 
-New packages created between 2026-11-14 13:18 UTC and 2026-11-14 14:20 UTC.
+New packages created between 2026-11-14 14:20 UTC and 2026-11-14 15:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T14-20-57-055604Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T15-18-38-986981Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 13:34:29 | [karere-bin](https://aur.archlinux.org/packages/karere-bin) | 4.4.1-1 | 0 | Native GTK4/libadwaita WhatsApp client (prebuilt from upstream releases) |
-| 2026-11-14 13:38:39 | [neonctl](https://aur.archlinux.org/packages/neonctl) | 9.5.0-1 | 0 | Neon CLI: manage Neon serverless Postgres from the terminal (provides neon and… |
-| 2026-11-14 13:51:16 | [llama.cpp-rocm-stable-bin](https://aur.archlinux.org/packages/llama.cpp-rocm-stable-bin) | 1.0.0-1 | 0 | llama.cpp official stable release prebuilt binaries with the ROCm backend |
-| 2026-11-14 13:51:23 | [llama.cpp-vulkan-stable-bin](https://aur.archlinux.org/packages/llama.cpp-vulkan-stable-bin) | 1.0.0-1 | 0 | llama.cpp official stable release prebuilt binaries with the Vulkan backend |
-| 2026-11-14 14:06:30 | [llama.cpp-openvino-stable-bin](https://aur.archlinux.org/packages/llama.cpp-openvino-stable-bin) | 1.0.0-1 | 0 | llama.cpp official stable release prebuilt binaries with the OpenVINO backend |
-| 2026-11-14 14:16:29 | [llama.cpp-sycl-stable-bin](https://aur.archlinux.org/packages/llama.cpp-sycl-stable-bin) | 1.0.0-1 | 0 | llama.cpp official stable release prebuilt binaries with the SYCL backend (bund… |
-| 2026-11-14 14:19:00 | [llama.cpp-cuda-bin](https://aur.archlinux.org/packages/llama.cpp-cuda-bin) | b12380-1 | 0 | llama.cpp upstream prebuilt binaries with the CUDA backend |
+| 2026-11-14 14:52:03 | [lib32-reshade-linux-bin](https://aur.archlinux.org/packages/lib32-reshade-linux-bin) | 6.8.0.1-1 | 0 | crosire's ReShade post-processing injector as a native Vulkan layer (32-bit) (p… |
+| 2026-11-14 14:52:28 | [lib32-reshade-linux-git](https://aur.archlinux.org/packages/lib32-reshade-linux-git) | 6.8.0.1_r5_gea4b56e… | 0 | crosire's ReShade post-processing injector as a native Vulkan layer (32-bit) (g… |
+| 2026-11-14 14:52:40 | [reshade-linux-bin](https://aur.archlinux.org/packages/reshade-linux-bin) | 6.8.0.1-1 | 0 | crosire's ReShade post-processing injector as a native Vulkan layer, enabled wi… |
+| 2026-11-14 14:52:53 | [reshade-linux-git](https://aur.archlinux.org/packages/reshade-linux-git) | 6.8.0.1_r5_gea4b56e… | 0 | crosire's ReShade post-processing injector as a native Vulkan layer, enabled wi… |
 
 ## Data source
 
