@@ -1,0 +1,14 @@
+created_at,package,version,votes,description
+2026-11-13T23:36:25Z,chromecast-sink-git,0.0.1.r2.g0d1fdae-1,0,Use Google Chromecast and Nest devices as a PipeWire audio output
+2026-11-13T23:38:10Z,python-flask-smorest,0.47.0-1,0,Flask/Marshmallow-based REST API framework
+2026-11-13T23:38:16Z,sogo6-server,6.0.0alpha2-2,0,"API server of SOGo 6, the groupware for mail, calendars and contacts (alpha, not for production)"
+2026-11-13T23:38:22Z,sogo6-ui,6.0.0alpha2-1,0,"Web interface of SOGo 6, the groupware for mail, calendars and contacts (alpha, not for production)"
+2026-11-14T00:07:11Z,libcute_c2-git,r996.476d688-1,1,"Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games (bleeding edge)"
+2026-11-14T00:07:11Z,libcute_net-git,r996.476d688-1,1,"Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games (bleeding edge)"
+2026-11-14T00:07:11Z,libcute_tiled-git,r996.476d688-1,1,"Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games (bleeding edge)"
+2026-11-14T00:07:11Z,libcute_aseprite-git,r996.476d688-1,1,"Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games (bleeding edge)"
+2026-11-14T00:07:11Z,libcute_sound-git,r996.476d688-1,1,"Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games (bleeding edge)"
+2026-11-14T00:07:11Z,libcute_png-git,r996.476d688-1,1,"Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games (bleeding edge)"
+2026-11-14T00:07:11Z,libcute_spritebatch-git,r996.476d688-1,1,"Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games (bleeding edge)"
+2026-11-14T00:07:11Z,libcute_sync-git,r996.476d688-1,1,"Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games (bleeding edge)"
+2026-11-14T00:07:11Z,libcute_tls-git,r996.476d688-1,1,"Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games (bleeding edge)"
