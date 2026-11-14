@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 10:18 UTC
+## Latest list — 2026-11-14 11:19 UTC
 
-New packages created between 2026-11-14 09:19 UTC and 2026-11-14 10:18 UTC.
+New packages created between 2026-11-14 10:18 UTC and 2026-11-14 11:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T10-18-41-633193Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T11-19-02-526489Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 09:25:44 | [ed-up-installer-bin](https://aur.archlinux.org/packages/ed-up-installer-bin) | 0.22.0-3 | 0 | ED Unofficial Patch (ED-UP, formerly EDVR): unofficial fixes and DLSS/FSR/XeSS… |
-| 2026-11-14 09:51:43 | [soundhive-bin](https://aur.archlinux.org/packages/soundhive-bin) | 1.3.1-1 | 0 | Fast browser for large sound effect libraries: search, audition, tag and drag s… |
-| 2026-11-14 10:07:57 | [hivemind-ai-git](https://aur.archlinux.org/packages/hivemind-ai-git) | 1.0.0.r0.g0000000-1 | 0 | Kanban board for running AI coding agents (Claude Code, OpenCode) across projec… |
-| 2026-11-14 10:12:42 | [hivemind-ai-bin](https://aur.archlinux.org/packages/hivemind-ai-bin) | 1.0.2-1 | 0 | Kanban board for running AI coding agents (Claude Code, OpenCode) across projec… |
-| 2026-11-14 10:13:05 | [gopodder](https://aur.archlinux.org/packages/gopodder) | 1.4.3-1 | 0 | gPodder-compatible podcast synchronization server |
+| 2026-11-14 10:20:30 | [hivemind-ai](https://aur.archlinux.org/packages/hivemind-ai) | 1.0.2-1 | 0 | Kanban board for running AI coding agents (Claude Code, OpenCode) across projec… |
+| 2026-11-14 10:39:15 | [microcontrol-git](https://aur.archlinux.org/packages/microcontrol-git) | r3.g7eae6a5-1 | 1 | A small GTK control panel for Wayland window managers |
+| 2026-11-14 10:52:00 | [dsh-gtk](https://aur.archlinux.org/packages/dsh-gtk) | 0.1.0-1 | 0 | Native GTK3 + WebKitGTK window for the dsh web UI with StatusNotifierItem tray… |
 
 ## Data source
 

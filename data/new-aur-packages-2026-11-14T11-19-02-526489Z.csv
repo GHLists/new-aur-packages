@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-14T10:20:30Z,hivemind-ai,1.0.2-1,0,"Kanban board for running AI coding agents (Claude Code, OpenCode) across projects"
+2026-11-14T10:39:15Z,microcontrol-git,r3.g7eae6a5-1,1,A small GTK control panel for Wayland window managers
+2026-11-14T10:52:00Z,dsh-gtk,0.1.0-1,0,Native GTK3 + WebKitGTK window for the dsh web UI with StatusNotifierItem tray residency
