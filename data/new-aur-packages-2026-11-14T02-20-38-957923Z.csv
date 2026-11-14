@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-14T01:26:52Z,mca-selector-rs-git,0.1.0.r0.g0000000-1,0,A faithful Rust + GPUI port of MCA Selector (latest git)
+2026-11-14T01:45:48Z,c6,0.1.0-1,0,c6 — TinyCC with language extensions
+2026-11-14T01:57:08Z,dux-mail,0.5.0-1,0,"Mail notifier, triage controller, and MCP server for Linux — Go daemon + Quickshell UI (Dux Shell aesthetic)"
+2026-11-14T01:57:16Z,dux-mail-git,r126.edb1e01-1,0,"Mail notifier, triage controller, and MCP server for Linux — Go daemon + Quickshell UI (git version)"
+2026-11-14T01:57:25Z,dms-shell-plugin-dux-mail,0.5.0-1,0,Dux Mail Unread companion for Dux Shell / DankMaterialShell (unread counts and mail triage)
+2026-11-14T02:02:40Z,dumate-app-bin,1.0.92-1,0,Baidu DuMate desktop AI client (official Linux build)
+2026-11-14T02:15:34Z,mca-selector-rs-bin,0.1.0.r122.g7293528…,0,A faithful Rust + GPUI port of MCA Selector (prebuilt binary)
