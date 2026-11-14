@@ -12,22 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 07:20 UTC
+## Latest list — 2026-11-14 08:20 UTC
 
-New packages created between 2026-11-14 06:21 UTC and 2026-11-14 07:20 UTC.
+New packages created between 2026-11-14 07:20 UTC and 2026-11-14 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T07-20-34-251597Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T08-20-52-92253Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 06:28:06 | [youtube-video-downloader](https://aur.archlinux.org/packages/youtube-video-downloader) | 2.0.2-1 | 0 | Fast desktop front-end for yt-dlp with a download queue (Tauri) |
-| 2026-11-14 06:28:13 | [youtube-video-downloader-bin](https://aur.archlinux.org/packages/youtube-video-downloader-bin) | 2.0.2-1 | 0 | Fast desktop front-end for yt-dlp with a download queue (prebuilt) |
-| 2026-11-14 06:28:21 | [youtube-video-downloader-git](https://aur.archlinux.org/packages/youtube-video-downloader-git) | 2.0.0.r0.g0000000-1 | 0 | Fast desktop front-end for yt-dlp with a download queue (Tauri, git) |
-| 2026-11-14 06:50:35 | [kenning](https://aur.archlinux.org/packages/kenning) | 0.8.1-1 | 0 | Kenning: face unlock for KDE Plasma |
-| 2026-11-14 06:50:35 | [plasma-login-manager-kenning](https://aur.archlinux.org/packages/plasma-login-manager-kenning) | 0.8.1-1 | 0 | Plasma Login Manager that starts face unlock as soon as it appears |
-| 2026-11-14 07:00:36 | [remya-core](https://aur.archlinux.org/packages/remya-core) | 0.1.0-1 | 0 | Shared Remya daemon, updater and CLI |
-| 2026-11-14 07:00:48 | [remya-core-bin](https://aur.archlinux.org/packages/remya-core-bin) | 0.1.0-1 | 0 | Shared Remya daemon, updater and CLI |
-| 2026-11-14 07:02:48 | [remya-bar](https://aur.archlinux.org/packages/remya-bar) | 0.1.0-1 | 0 | A Material Design 3 Expressive desktop bar for Hyprland on Linux |
+| 2026-11-14 07:21:57 | [mp3-browser](https://aur.archlinux.org/packages/mp3-browser) | 1.0.0-1 | 0 | A Browser of MP3. A Linux-GJS replica on an MP3-Explorer from early 2000-s. |
+| 2026-11-14 07:56:24 | [file-finder-bin](https://aur.archlinux.org/packages/file-finder-bin) | 0.2.0-1 | 1 | Fast TUI file finder built in Rust — global & local search, open in editor, cop… |
 
 ## Data source
 

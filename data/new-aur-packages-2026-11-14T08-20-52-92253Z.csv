@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-14T07:21:57Z,mp3-browser,1.0.0-1,0,A Browser of MP3. A Linux-GJS replica on an MP3-Explorer from early 2000-s.
+2026-11-14T07:56:24Z,file-finder-bin,0.2.0-1,1,"Fast TUI file finder built in Rust — global & local search, open in editor, copy paths, and more"
