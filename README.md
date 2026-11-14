@@ -12,25 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 04:20 UTC
+## Latest list — 2026-11-14 05:18 UTC
 
-New packages created between 2026-11-14 03:20 UTC and 2026-11-14 04:20 UTC.
+New packages created between 2026-11-14 04:20 UTC and 2026-11-14 05:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T04-20-45-742303Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T05-18-32-02322Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 03:22:32 | [localfly-linux-git](https://aur.archlinux.org/packages/localfly-linux-git) | 0.1.0.r0.g0000000-1 | 0 | Your localhost, on the internet — bore tunnels with an Adwaita window + tray |
-| 2026-11-14 03:22:39 | [jfsh-git](https://aur.archlinux.org/packages/jfsh-git) | 0.2.1-1 | 0 | Terminal client for Jellyfin, plays videos through mpv |
-| 2026-11-14 03:22:44 | [localfly-linux-bin](https://aur.archlinux.org/packages/localfly-linux-bin) | 0.1.0-1 | 0 | Your localhost, on the internet — bore tunnels with an Adwaita window + tray (p… |
-| 2026-11-14 03:24:56 | [jellyfin-tui-git](https://aur.archlinux.org/packages/jellyfin-tui-git) | 1.6.0-1 | 0 | Music streaming TUI client for Jellyfin |
-| 2026-11-14 03:32:38 | [straitbible-git](https://aur.archlinux.org/packages/straitbible-git) | 6.2.r0.g0000000-1 | 0 | Free multilingual Bible reader (based on Unbound Bible) |
-| 2026-11-14 03:35:30 | [straitbible](https://aur.archlinux.org/packages/straitbible) | 6.2-1 | 0 | Free multilingual Bible reader (based on Unbound Bible) |
-| 2026-11-14 03:43:33 | [libcute_sound-sdl2](https://aur.archlinux.org/packages/libcute_sound-sdl2) | r987.004c7a7-1 | 1 | Load/play/loop (with plugin)/pan WAV + OGG (stb_vorbis wrapper for OGG) in mono… |
-| 2026-11-14 03:56:07 | [speshell-git](https://aur.archlinux.org/packages/speshell-git) | r21.g6b88cf8-1 | 0 | A desktop shell built with Quickshell: a bar and its panels, a launcher, and an… |
-| 2026-11-14 03:59:23 | [omapdf-bin](https://aur.archlinux.org/packages/omapdf-bin) | 0.0.1alpha-1 | 0 | Native Wayland PDF and EPUB reader built with GPUI and MuPDF (portable binary) |
-| 2026-11-14 03:59:39 | [minecraft-c-git](https://aur.archlinux.org/packages/minecraft-c-git) | v1.2.r4.5f6cb39-2 | 1 | Minecraft Classic 0.0.30a reimplemented in C (bleeding-edge version). |
-| 2026-11-14 04:12:20 | [orbbec-openni2](https://aur.archlinux.org/packages/orbbec-openni2) | 2.3.0.86-1 | 0 | Orbbec OpenNI2 SDK, drivers and samples for Orbbec depth cameras |
+| 2026-11-14 04:31:48 | [borg-commander-bin](https://aur.archlinux.org/packages/borg-commander-bin) | 0.11.0-1 | 0 | Midnight Commander + Yazi + Terminal multiplexer |
+| 2026-11-14 04:31:48 | [borg-commander-relay-bin](https://aur.archlinux.org/packages/borg-commander-relay-bin) | 0.11.0-1 | 0 | Midnight Commander + Yazi + Terminal multiplexer |
+| 2026-11-14 04:38:48 | [pi-ui-git](https://aur.archlinux.org/packages/pi-ui-git) | 0.65.2.r0.g533cc4f-1 | 0 | Keyboard-first minimal GUI for pi |
 
 ## Data source
 
