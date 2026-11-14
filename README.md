@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 16:19 UTC
+## Latest list — 2026-11-14 17:21 UTC
 
-New packages created between 2026-11-14 15:18 UTC and 2026-11-14 16:19 UTC.
+New packages created between 2026-11-14 16:19 UTC and 2026-11-14 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T16-19-01-108879Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T17-21-28-165562Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 15:19:41 | [tune-bridge](https://aur.archlinux.org/packages/tune-bridge) | 0.2.8-1 | 0 | Open Advanced Audio Transport. A bit-perfect, multi-room audio streaming protoc… |
-| 2026-11-14 15:31:43 | [trueflasher-git](https://aur.archlinux.org/packages/trueflasher-git) | 1.0.0.r1.g1e95726-1 | 0 | Find the real capacity of fake USB flash drives |
-| 2026-11-14 15:34:06 | [outline-client-bin](https://aur.archlinux.org/packages/outline-client-bin) | 1.22.0-1 | 0 | The Outline clients use the popular Shadowsocks protocol, and lean on the Cordo… |
-| 2026-11-14 16:12:32 | [pashly-bin](https://aur.archlinux.org/packages/pashly-bin) | 0.1.1-1 | 0 | Password generation, hashing, and verification CLI for IAM/CIAM migrations. |
+| 2026-11-14 16:22:50 | [quickshell-dusk-git](https://aur.archlinux.org/packages/quickshell-dusk-git) | 0.3.2.r16.gd4bb6a3-1 | 0 | Quickshell with faster startup through QML scanning and disk-cache optimizations |
+| 2026-11-14 16:50:50 | [orca-slicer-latest-bin](https://aur.archlinux.org/packages/orca-slicer-latest-bin) | 2.5.1-1 | 0 | G-code generator for 3D printers (all published versions - alpha/beta/release c… |
 
 ## Data source
 

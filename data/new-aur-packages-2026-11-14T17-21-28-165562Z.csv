@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-14T16:22:50Z,quickshell-dusk-git,0.3.2.r16.gd4bb6a3-1,0,Quickshell with faster startup through QML scanning and disk-cache optimizations
+2026-11-14T16:50:50Z,orca-slicer-latest-bin,2.5.1-1,0,G-code generator for 3D printers (all published versions - alpha/beta/release candidates and stable)
