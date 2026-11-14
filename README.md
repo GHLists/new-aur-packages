@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 22:19 UTC
+## Latest list — 2026-11-14 23:21 UTC
 
-New packages created between 2026-11-14 21:21 UTC and 2026-11-14 22:19 UTC.
+New packages created between 2026-11-14 22:19 UTC and 2026-11-14 23:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T22-19-47-539814Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T23-21-05-701959Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 21:32:39 | [qdre-viewer-git](https://aur.archlinux.org/packages/qdre-viewer-git) | 0.0.0.r74.g0fa5c11-1 | 0 | Lightweight Qt image viewer |
+| 2026-11-14 22:33:48 | [duckscript-bin](https://aur.archlinux.org/packages/duckscript-bin) | 0.11.1-1 | 1 | Simple, extendable and embeddable scripting language. |
 
 ## Data source
 
