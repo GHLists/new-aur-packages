@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 11:19 UTC
+## Latest list — 2026-11-14 12:21 UTC
 
-New packages created between 2026-11-14 10:18 UTC and 2026-11-14 11:19 UTC.
+New packages created between 2026-11-14 11:19 UTC and 2026-11-14 12:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T11-19-02-526489Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T12-21-21-033302Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 10:20:30 | [hivemind-ai](https://aur.archlinux.org/packages/hivemind-ai) | 1.0.2-1 | 0 | Kanban board for running AI coding agents (Claude Code, OpenCode) across projec… |
-| 2026-11-14 10:39:15 | [microcontrol-git](https://aur.archlinux.org/packages/microcontrol-git) | r3.g7eae6a5-1 | 1 | A small GTK control panel for Wayland window managers |
-| 2026-11-14 10:52:00 | [dsh-gtk](https://aur.archlinux.org/packages/dsh-gtk) | 0.1.0-1 | 0 | Native GTK3 + WebKitGTK window for the dsh web UI with StatusNotifierItem tray… |
+| 2026-11-14 11:49:56 | [locale-gen](https://aur.archlinux.org/packages/locale-gen) | 3.10-1 | 0 | Generate locales based upon the config file /etc/locale.gen |
 
 ## Data source
 

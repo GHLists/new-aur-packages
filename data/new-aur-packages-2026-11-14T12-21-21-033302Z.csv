@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-11-14T11:49:56Z,locale-gen,3.10-1,0,Generate locales based upon the config file /etc/locale.gen
