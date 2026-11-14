@@ -12,21 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 02:20 UTC
+## Latest list — 2026-11-14 03:20 UTC
 
-New packages created between 2026-11-14 01:18 UTC and 2026-11-14 02:20 UTC.
+New packages created between 2026-11-14 02:20 UTC and 2026-11-14 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T02-20-38-957923Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T03-20-38-527345Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 01:26:52 | [mca-selector-rs-git](https://aur.archlinux.org/packages/mca-selector-rs-git) | 0.1.0.r0.g0000000-1 | 0 | A faithful Rust + GPUI port of MCA Selector (latest git) |
-| 2026-11-14 01:45:48 | [c6](https://aur.archlinux.org/packages/c6) | 0.1.0-1 | 0 | c6 — TinyCC with language extensions |
-| 2026-11-14 01:57:08 | [dux-mail](https://aur.archlinux.org/packages/dux-mail) | 0.5.0-1 | 0 | Mail notifier, triage controller, and MCP server for Linux — Go daemon + Quicks… |
-| 2026-11-14 01:57:16 | [dux-mail-git](https://aur.archlinux.org/packages/dux-mail-git) | r126.edb1e01-1 | 0 | Mail notifier, triage controller, and MCP server for Linux — Go daemon + Quicks… |
-| 2026-11-14 01:57:25 | [dms-shell-plugin-dux-mail](https://aur.archlinux.org/packages/dms-shell-plugin-dux-mail) | 0.5.0-1 | 0 | Dux Mail Unread companion for Dux Shell / DankMaterialShell (unread counts and… |
-| 2026-11-14 02:02:40 | [dumate-app-bin](https://aur.archlinux.org/packages/dumate-app-bin) | 1.0.92-1 | 0 | Baidu DuMate desktop AI client (official Linux build) |
-| 2026-11-14 02:15:34 | [mca-selector-rs-bin](https://aur.archlinux.org/packages/mca-selector-rs-bin) | 0.1.0.r122.g7293528… | 0 | A faithful Rust + GPUI port of MCA Selector (prebuilt binary) |
+| 2026-11-14 02:21:28 | [rift-home](https://aur.archlinux.org/packages/rift-home) | 0.1.0-1 | 0 | A VR desktop for the Oculus Rift CV1 on RiftLinux: your apps as windows in a ro… |
+| 2026-11-14 02:27:43 | [himalaya-tui-git](https://aur.archlinux.org/packages/himalaya-tui-git) | 0.1.0.r71.g4c2af0f-1 | 0 | TUI to manage emails, from the Pimalaya project |
+| 2026-11-14 02:28:44 | [misterdownloadmanager-private-bin](https://aur.archlinux.org/packages/misterdownloadmanager-private-bin) | 0.5.2-1 | 0 | 自用维护：多线程/断点续传/浏览器接管/BT 下载管理器，上游 anefzaoui/misterdownloadmanager |
+| 2026-11-14 02:42:03 | [python-sbom](https://aur.archlinux.org/packages/python-sbom) | 0.3.1-1 | 1 | SBOMs for Python distributions: write PEP 770 CycloneDX SBOMs into wheels |
+| 2026-11-14 03:04:37 | [meo-settings-beta](https://aur.archlinux.org/packages/meo-settings-beta) | 0.2.0beta5-6 | 0 | Meo Settings application for MeoArch (Beta channel) |
 
 ## Data source
 

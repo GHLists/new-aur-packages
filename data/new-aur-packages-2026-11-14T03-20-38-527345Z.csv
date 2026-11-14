@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-14T02:21:28Z,rift-home,0.1.0-1,0,A VR desktop for the Oculus Rift CV1 on RiftLinux: your apps as windows in a room around you
+2026-11-14T02:27:43Z,himalaya-tui-git,0.1.0.r71.g4c2af0f-1,0,"TUI to manage emails, from the Pimalaya project"
+2026-11-14T02:28:44Z,misterdownloadmanager-private-bin,0.5.2-1,0,自用维护：多线程/断点续传/浏览器接管/BT 下载管理器，上游 anefzaoui/misterdownloadmanager
+2026-11-14T02:42:03Z,python-sbom,0.3.1-1,1,SBOMs for Python distributions: write PEP 770 CycloneDX SBOMs into wheels
+2026-11-14T03:04:37Z,meo-settings-beta,0.2.0beta5-6,0,Meo Settings application for MeoArch (Beta channel)
