@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-14T19:30:40Z,bgmonad,0.1.0-1,0,"Living wallpaper for Wayland, written and configured in Haskell"
+2026-11-14T19:30:45Z,shotlet,0.1.0-1,0,"Screenshot and screen recording toolbar for Wayland, modelled on the one of macOS"
+2026-11-14T19:37:02Z,arkha,1.0.1-1,0,A fast graphical file manager
+2026-11-14T19:38:19Z,arkha-git,1.0.0dev.r146.ged11…,0,A fast graphical file manager (development version from master)
+2026-11-14T19:39:00Z,arkha-bin,1.0.1-1,0,A fast graphical file manager (prebuilt binary)
+2026-11-14T19:42:26Z,mercury-browser-bin,999-1,0,CVE-2024-9680 - switch to extra/firefox
+2026-11-14T19:44:57Z,hasklets,0.1.0.0-1,0,"Desktop widgets for Wayland (weather, system, media, disks, processes, calendar) in Haskell"
+2026-11-14T19:53:56Z,solomd-arch-bin,5.1.0-1,0,Lightweight Markdown and plain text editor (Tauri 2; upstream .deb repackaged for Arch and Arch Linux ARM)

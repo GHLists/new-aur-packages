@@ -12,20 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 18:19 UTC
+## Latest list — 2026-11-14 20:21 UTC
 
-New packages created between 2026-11-14 17:21 UTC and 2026-11-14 18:19 UTC.
+New packages created between 2026-11-14 19:19 UTC and 2026-11-14 20:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-14T18-19-38-649554Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-14T20-21-33-446359Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 17:40:10 | [wrep](https://aur.archlinux.org/packages/wrep) | 0.1.0-1 | 0 | List and switch Hyprland windows via dmenu-compatible launchers (fuzzel, rofi,… |
-| 2026-11-14 18:06:40 | [hyprtab](https://aur.archlinux.org/packages/hyprtab) | 0.1.0-1 | 0 | Alt-Tab style window switcher for Hyprland (Qt6/QML overlay) |
-| 2026-11-14 18:14:53 | [python-torch-einops-utils](https://aur.archlinux.org/packages/python-torch-einops-utils) |  |  | PyTorch and einops tensor utilities used by lucidrains' model libraries |
-| 2026-11-14 18:15:19 | [python-pytest-rng](https://aur.archlinux.org/packages/python-pytest-rng) |  |  | Pytest fixtures for seeding tests and making randomness reproducible |
-| 2026-11-14 18:15:45 | [python-diastatic-malt](https://aur.archlinux.org/packages/python-diastatic-malt) |  |  | Python source transformation and operator overloading library (AutoGraph fork) |
-| 2026-11-14 18:16:24 | [omnidotdev-fractal-cli-bin](https://aur.archlinux.org/packages/omnidotdev-fractal-cli-bin) |  |  | CLI for Fractal, the Omni deployment platform (pre-built) |
+| 2026-11-14 19:30:40 | [bgmonad](https://aur.archlinux.org/packages/bgmonad) | 0.1.0-1 | 0 | Living wallpaper for Wayland, written and configured in Haskell |
+| 2026-11-14 19:30:45 | [shotlet](https://aur.archlinux.org/packages/shotlet) | 0.1.0-1 | 0 | Screenshot and screen recording toolbar for Wayland, modelled on the one of mac… |
+| 2026-11-14 19:37:02 | [arkha](https://aur.archlinux.org/packages/arkha) | 1.0.1-1 | 0 | A fast graphical file manager |
+| 2026-11-14 19:38:19 | [arkha-git](https://aur.archlinux.org/packages/arkha-git) | 1.0.0dev.r146.ged11… | 0 | A fast graphical file manager (development version from master) |
+| 2026-11-14 19:39:00 | [arkha-bin](https://aur.archlinux.org/packages/arkha-bin) | 1.0.1-1 | 0 | A fast graphical file manager (prebuilt binary) |
+| 2026-11-14 19:42:26 | [mercury-browser-bin](https://aur.archlinux.org/packages/mercury-browser-bin) | 999-1 | 0 | CVE-2024-9680 - switch to extra/firefox |
+| 2026-11-14 19:44:57 | [hasklets](https://aur.archlinux.org/packages/hasklets) | 0.1.0.0-1 | 0 | Desktop widgets for Wayland (weather, system, media, disks, processes, calendar… |
+| 2026-11-14 19:53:56 | [solomd-arch-bin](https://aur.archlinux.org/packages/solomd-arch-bin) | 5.1.0-1 | 0 | Lightweight Markdown and plain text editor (Tauri 2; upstream .deb repackaged f… |
 
 ## Data source
 
