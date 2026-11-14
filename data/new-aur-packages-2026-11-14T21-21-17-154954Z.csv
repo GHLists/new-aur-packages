@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-14T20:23:59Z,ie-bin,0.9.2-1,1,"Simple, fast terminal editor with sintax highlight to edit a single file without without opening a full TUI editor over the terminal"
+2026-11-14T20:31:47Z,grp-bin,0.16.0-1,1,"A command line tool that helps you manage your git repositories in the cloud, for difrent platforms"
+2026-11-14T20:50:01Z,notekpr-desktop-bin,0.17.0-1,0,"notekpr, the desktop app for end-to-end encrypted Markdown notes"
+2026-11-14T20:50:08Z,lamax-instakid-printer-git,r4.dae8429-1,0,CUPS driver and CLI for the thermal printer of the LAMAX InstaKid2 Plus camera (Bluetooth LE)
+2026-11-14T21:04:45Z,alasraa-bin,0.1.1-1,0,"Fast, OpenGL terminal emulator for Linux (prebuilt binary)"
+2026-11-14T21:16:51Z,kensaku-search-bin,1.0.17-1,0,"Fast local search for files, contents, documents and OCR'd images, with an MCP/CLI backend for AI agents (prebuilt)"
