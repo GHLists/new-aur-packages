@@ -12,20 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 03:21 UTC
+## Latest list — 2026-11-15 04:21 UTC
 
-New packages created between 2026-11-15 02:20 UTC and 2026-11-15 03:21 UTC.
+New packages created between 2026-11-15 03:21 UTC and 2026-11-15 04:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-15T03-21-23-203386Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-15T04-21-31-438798Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 02:23:19 | [blimp-bin](https://aur.archlinux.org/packages/blimp-bin) | 0.13.35-1 | 0 | CLI for Kelda's Blimp (Docker Compose for the Cloud) |
-| 2026-11-15 02:39:08 | [libretro-parallel-dc-git](https://aur.archlinux.org/packages/libretro-parallel-dc-git) | r7.rc1.r4338.gcc3fe… | 0 | Sega Dreamcast, NAOMI, NAOMI 2, Atomiswave and System SP core (Derived from Fly… |
-| 2026-11-15 02:52:07 | [waypointer](https://aur.archlinux.org/packages/waypointer) | 0.1.0-1 | 0 | A tiny hand on a stick that points at things on your screen |
-| 2026-11-15 02:53:44 | [jiralike](https://aur.archlinux.org/packages/jiralike) | 0.1.0-1 | 0 | Jira-like project management FastCGI backend written in C++23 with automatic SQ… |
-| 2026-11-15 02:53:44 | [jiralike-config-nginx](https://aur.archlinux.org/packages/jiralike-config-nginx) | 0.1.0-1 | 0 | Nginx configuration for jiralike Angular SPA and FastCGI backend |
-| 2026-11-15 02:53:44 | [jiralike-fe](https://aur.archlinux.org/packages/jiralike-fe) | 0.1.0-1 | 0 | JiraLike Angular Single-Page Application frontend |
+| 2026-11-15 03:38:09 | [stroke-bin](https://aur.archlinux.org/packages/stroke-bin) | 2.3.0-1 | 0 | Native database client for PostgreSQL, MySQL, SQLite, MongoDB, Redis and more,… |
+| 2026-11-15 03:39:19 | [yt-music-gpui-bin](https://aur.archlinux.org/packages/yt-music-gpui-bin) | 0.2.2-1 | 0 | Native YouTube Music client built with GPUI (release binary) |
+| 2026-11-15 03:47:23 | [waypointer-bin](https://aur.archlinux.org/packages/waypointer-bin) | 0.1.1-1 | 0 | A tiny hand on a stick that points at things on your screen (upstream binary) |
 
 ## Data source
 

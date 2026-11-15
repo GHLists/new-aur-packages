@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-15T03:38:09Z,stroke-bin,2.3.0-1,0,"Native database client for PostgreSQL, MySQL, SQLite, MongoDB, Redis and more, with an AI agent and an MCP server"
+2026-11-15T03:39:19Z,yt-music-gpui-bin,0.2.2-1,0,Native YouTube Music client built with GPUI (release binary)
+2026-11-15T03:47:23Z,waypointer-bin,0.1.1-1,0,A tiny hand on a stick that points at things on your screen (upstream binary)
