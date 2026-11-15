@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-15T02:23:19Z,blimp-bin,0.13.35-1,0,CLI for Kelda's Blimp (Docker Compose for the Cloud)
+2026-11-15T02:39:08Z,libretro-parallel-dc-git,r7.rc1.r4338.gcc3fe…,0,"Sega Dreamcast, NAOMI, NAOMI 2, Atomiswave and System SP core (Derived from Flycast by flyinghead)"
+2026-11-15T02:52:07Z,waypointer,0.1.0-1,0,A tiny hand on a stick that points at things on your screen
+2026-11-15T02:53:44Z,jiralike,0.1.0-1,0,Jira-like project management FastCGI backend written in C++23 with automatic SQLite migrations
+2026-11-15T02:53:44Z,jiralike-config-nginx,0.1.0-1,0,Nginx configuration for jiralike Angular SPA and FastCGI backend
+2026-11-15T02:53:44Z,jiralike-fe,0.1.0-1,0,JiraLike Angular Single-Page Application frontend
