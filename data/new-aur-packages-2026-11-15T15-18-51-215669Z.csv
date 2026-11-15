@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-15T14:20:43Z,cadence-tracker,0.1.0-1,1,Track composition sessions and ideas between teaching days
+2026-11-15T14:41:15Z,dsh-bin,0.2.2_rc.3-1,1,DeepSeek Harness: Everything is a Plugin
+2026-11-15T14:53:14Z,neje,0.1.0-1,0,"Free software for the NEJE DK-8-KZ laser engraver: pictures, text and G-code, print modes, CLI and GUI"
+2026-11-15T14:59:19Z,neje-bin,0.1.0-1,0,"Free software for the NEJE DK-8-KZ laser engraver: pictures, text and G-code, print modes, CLI and GUI (prebuilt)"
+2026-11-15T15:14:19Z,sandbox-runtime,0.0.83-1,0,Tool for enforcing filesystem and network restrictions on arbitrary processes
+2026-11-15T15:15:13Z,flashrom-minproi,1.8.0-1,0,"Utility for reading, writing, erasing and verifying flash ROM chips, with Mini-Pro-I (MinproI, 1fc8:300b) programmer support"
