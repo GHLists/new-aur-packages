@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-15T09:19:04Z,youtrack-bin,0.8.2-1,0,A command-line interface for JetBrains YouTrack
+2026-11-15T09:19:14Z,youtrack-git,0.8.2.r0.g0c54ef2-1,0,A command-line interface for JetBrains YouTrack
+2026-11-15T09:37:56Z,whatsatui-bin,0.2.0-1,0,Personal WhatsApp terminal client with a cyan Ratatui interface (prebuilt binary)

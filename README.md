@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 09:18 UTC
+## Latest list — 2026-11-15 10:22 UTC
 
-New packages created between 2026-11-15 08:21 UTC and 2026-11-15 09:18 UTC.
+New packages created between 2026-11-15 09:18 UTC and 2026-11-15 10:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-15T09-18-51-907935Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-15T10-22-07-165381Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 09:03:19 | [whatsatui](https://aur.archlinux.org/packages/whatsatui) | 0.2.0-1 | 0 | Personal WhatsApp terminal client with a cyan Ratatui interface |
-| 2026-11-15 09:15:15 | [foremkacad-bin](https://aur.archlinux.org/packages/foremkacad-bin) | 0.3.67-1 | 0 | Foremka CAD - 3D parametric CAD/CAM application |
+| 2026-11-15 09:19:04 | [youtrack-bin](https://aur.archlinux.org/packages/youtrack-bin) | 0.8.2-1 | 0 | A command-line interface for JetBrains YouTrack |
+| 2026-11-15 09:19:14 | [youtrack-git](https://aur.archlinux.org/packages/youtrack-git) | 0.8.2.r0.g0c54ef2-1 | 0 | A command-line interface for JetBrains YouTrack |
+| 2026-11-15 09:37:56 | [whatsatui-bin](https://aur.archlinux.org/packages/whatsatui-bin) | 0.2.0-1 | 0 | Personal WhatsApp terminal client with a cyan Ratatui interface (prebuilt binar… |
 
 ## Data source
 
