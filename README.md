@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 17:21 UTC
+## Latest list — 2026-11-15 18:22 UTC
 
-New packages created between 2026-11-15 16:19 UTC and 2026-11-15 17:21 UTC.
+New packages created between 2026-11-15 17:21 UTC and 2026-11-15 18:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-15T17-21-00-821892Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-15T18-22-05-586565Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 16:31:54 | [kwin-type](https://aur.archlinux.org/packages/kwin-type) | 0.2-1 | 1 | Autotype text from stdin on KDE's KWin Wayland compositor |
-| 2026-11-15 16:54:54 | [goatty-bin](https://aur.archlinux.org/packages/goatty-bin) | 0.1.0-1 | 0 | GPU-rendered terminal with persistent sessions |
-| 2026-11-15 17:09:06 | [ssmcp-git](https://aur.archlinux.org/packages/ssmcp-git) | 0.1.0.r3.g3d5e2d3-1 | 0 | Expose a local terminal as MCP through an SSH public-key connection |
-| 2026-11-15 17:14:24 | [genoffice-arch-bin](https://aur.archlinux.org/packages/genoffice-arch-bin) | 0.13.18-1 | 0 | Free, open-source AI office suite: docs, sheets, slides, PDF and markdown edito… |
-| 2026-11-15 17:16:12 | [calibre-zen](https://aur.archlinux.org/packages/calibre-zen) |  |  | Modernized Calibre ebook library manager |
+| 2026-11-15 17:22:10 | [calibre-zen-bin](https://aur.archlinux.org/packages/calibre-zen-bin) | 0.5.0-1 | 0 | Modernized Calibre ebook library manager |
+| 2026-11-15 17:23:49 | [nivterm-bin](https://aur.archlinux.org/packages/nivterm-bin) | 0.1.0beta1-1 | 0 | SSH and SFTP client with an encrypted vault and optional self-hosted sync |
+| 2026-11-15 18:06:32 | [shuck-git](https://aur.archlinux.org/packages/shuck-git) | 0.2.9.r0.g8611d2df-1 | 0 | A lightning fast shell linter/formatter/LSP server with zsh support |
 
 ## Data source
 

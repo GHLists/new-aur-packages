@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-15T17:22:10Z,calibre-zen-bin,0.5.0-1,0,Modernized Calibre ebook library manager
+2026-11-15T17:23:49Z,nivterm-bin,0.1.0beta1-1,0,SSH and SFTP client with an encrypted vault and optional self-hosted sync
+2026-11-15T18:06:32Z,shuck-git,0.2.9.r0.g8611d2df-1,0,A lightning fast shell linter/formatter/LSP server with zsh support
