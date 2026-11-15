@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 07:19 UTC
+## Latest list — 2026-11-15 08:21 UTC
 
-New packages created between 2026-11-15 06:21 UTC and 2026-11-15 07:19 UTC.
+New packages created between 2026-11-15 07:19 UTC and 2026-11-15 08:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-15T07-19-38-838876Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-15T08-21-39-644105Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 06:37:34 | [paseo-bun-bin](https://aur.archlinux.org/packages/paseo-bun-bin) | 0.16.0beta2-3 | 0 | Paseo native Bun AOT desktop and daemon with Elysia, Tauri v2 and UI performanc… |
-| 2026-11-15 07:16:29 | [venture-bin](https://aur.archlinux.org/packages/venture-bin) |  |  | Meta Quest emulator for PC VR (prebuilt release) |
-| 2026-11-15 07:16:36 | [venture](https://aur.archlinux.org/packages/venture) |  |  | Meta Quest emulator for PC VR |
-| 2026-11-15 07:16:43 | [venture-git](https://aur.archlinux.org/packages/venture-git) |  |  | Meta Quest emulator for PC VR (git main) |
+| 2026-11-15 08:18:13 | [dektec-dtepc](https://aur.archlinux.org/packages/dektec-dtepc) | 2.13.1-1 | 0 | DekTec firmware update tool (DtEpc) |
+| 2026-11-15 08:19:01 | [dektec-dtinfocl](https://aur.archlinux.org/packages/dektec-dtinfocl) | 1.7.1-1 | 0 | DekTec command-line hardware information tool (DtInfoCL) |
+| 2026-11-15 08:19:42 | [dektec-dtplay](https://aur.archlinux.org/packages/dektec-dtplay) | 4.19.2-1 | 0 | DekTec command-line transport stream player and generator (DtPlay) |
+| 2026-11-15 08:19:49 | [dektec-dtrecord](https://aur.archlinux.org/packages/dektec-dtrecord) | 4.16.3-1 | 0 | DekTec command-line transport stream recorder (DtRecord) |
 
 ## Data source
 

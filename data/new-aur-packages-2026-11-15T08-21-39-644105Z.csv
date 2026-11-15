@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-15T08:18:13Z,dektec-dtepc,2.13.1-1,0,DekTec firmware update tool (DtEpc)
+2026-11-15T08:19:01Z,dektec-dtinfocl,1.7.1-1,0,DekTec command-line hardware information tool (DtInfoCL)
+2026-11-15T08:19:42Z,dektec-dtplay,4.19.2-1,0,DekTec command-line transport stream player and generator (DtPlay)
+2026-11-15T08:19:49Z,dektec-dtrecord,4.16.3-1,0,DekTec command-line transport stream recorder (DtRecord)
