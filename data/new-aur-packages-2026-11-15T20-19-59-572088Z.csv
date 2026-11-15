@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-15T19:20:39Z,raea-bin,0.1.4-1,0,"Render Anything Engine: videos, motion graphics, 3D and games as React and TypeScript, rendered on your GPU"
+2026-11-15T19:28:20Z,vorchestrator,1.0.0-1,0,Token-efficient multi-agent task orchestrator & self-scaling coordinator for Antigravity (AGY)
+2026-11-15T19:33:25Z,kitty-nightly-bin,0.50.0.r20261115064…,0,"A modern, hackable, featureful, OpenGL-based terminal emulator (official nightly build)"
+2026-11-15T20:17:15Z,forge-ide-git,,,"PHPStorm-style IDE for PHP, web and Lua (built from the latest source)"
