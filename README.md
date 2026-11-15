@@ -12,26 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 16:19 UTC
+## Latest list — 2026-11-15 17:21 UTC
 
-New packages created between 2026-11-15 15:18 UTC and 2026-11-15 16:19 UTC.
+New packages created between 2026-11-15 16:19 UTC and 2026-11-15 17:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-15T16-19-09-724452Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-15T17-21-00-821892Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 15:46:25 | [koma-bin](https://aur.archlinux.org/packages/koma-bin) | 0.0.1-1 | 0 | Wayland tiling compositor with explicit desktop automation interfaces (prebuilt… |
-| 2026-11-15 16:00:45 | [onnxruntime-core](https://aur.archlinux.org/packages/onnxruntime-core) | 1.29.0-5 | 0 | Cross-platform inference engine for ONNX models: the C and C++ library with the… |
-| 2026-11-15 16:00:45 | [onnxruntime-provider-cuda13-rtx](https://aur.archlinux.org/packages/onnxruntime-provider-cuda13-rtx) | 1.29.0-5 | 0 | The CUDA execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA GPUs) |
-| 2026-11-15 16:00:45 | [onnxruntime-provider-tensorrt-cuda13](https://aur.archlinux.org/packages/onnxruntime-provider-tensorrt-cuda13) | 1.29.0-5 | 0 | The TensorRT execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA G… |
-| 2026-11-15 16:00:45 | [onnxruntime-provider-openvino](https://aur.archlinux.org/packages/onnxruntime-provider-openvino) | 1.29.0-5 | 0 | The OpenVINO execution provider of ONNX Runtime, for onnxruntime-core (Intel CP… |
-| 2026-11-15 16:00:45 | [python-onnxruntime-core](https://aur.archlinux.org/packages/python-onnxruntime-core) | 1.29.0-5 | 0 | The Python module of ONNX Runtime, the cross-platform inference engine for ONNX… |
-| 2026-11-15 16:00:52 | [onnxruntime-core-bin](https://aur.archlinux.org/packages/onnxruntime-core-bin) | 1.29.0-5 | 0 | Cross-platform inference engine for ONNX models: the C and C++ library with the… |
-| 2026-11-15 16:00:52 | [onnxruntime-provider-cuda13-all-bin](https://aur.archlinux.org/packages/onnxruntime-provider-cuda13-all-bin) | 1.29.0-5 | 0 | The CUDA execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA GPUs)… |
-| 2026-11-15 16:00:52 | [onnxruntime-provider-cuda13-rtx-bin](https://aur.archlinux.org/packages/onnxruntime-provider-cuda13-rtx-bin) | 1.29.0-5 | 0 | The CUDA execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA GPUs)… |
-| 2026-11-15 16:00:52 | [onnxruntime-provider-openvino-bin](https://aur.archlinux.org/packages/onnxruntime-provider-openvino-bin) | 1.29.0-5 | 0 | The OpenVINO execution provider of ONNX Runtime, for onnxruntime-core (Intel CP… |
-| 2026-11-15 16:00:52 | [onnxruntime-provider-tensorrt-cuda13-bin](https://aur.archlinux.org/packages/onnxruntime-provider-tensorrt-cuda13-bin) | 1.29.0-5 | 0 | The TensorRT execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA G… |
-| 2026-11-15 16:00:52 | [python-onnxruntime-core-bin](https://aur.archlinux.org/packages/python-onnxruntime-core-bin) | 1.29.0-5 | 0 | The Python module of ONNX Runtime, the cross-platform inference engine for ONNX… |
+| 2026-11-15 16:31:54 | [kwin-type](https://aur.archlinux.org/packages/kwin-type) | 0.2-1 | 1 | Autotype text from stdin on KDE's KWin Wayland compositor |
+| 2026-11-15 16:54:54 | [goatty-bin](https://aur.archlinux.org/packages/goatty-bin) | 0.1.0-1 | 0 | GPU-rendered terminal with persistent sessions |
+| 2026-11-15 17:09:06 | [ssmcp-git](https://aur.archlinux.org/packages/ssmcp-git) | 0.1.0.r3.g3d5e2d3-1 | 0 | Expose a local terminal as MCP through an SSH public-key connection |
+| 2026-11-15 17:14:24 | [genoffice-arch-bin](https://aur.archlinux.org/packages/genoffice-arch-bin) | 0.13.18-1 | 0 | Free, open-source AI office suite: docs, sheets, slides, PDF and markdown edito… |
+| 2026-11-15 17:16:12 | [calibre-zen](https://aur.archlinux.org/packages/calibre-zen) |  |  | Modernized Calibre ebook library manager |
 
 ## Data source
 

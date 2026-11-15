@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-15T16:31:54Z,kwin-type,0.2-1,1,Autotype text from stdin on KDE's KWin Wayland compositor
+2026-11-15T16:54:54Z,goatty-bin,0.1.0-1,0,GPU-rendered terminal with persistent sessions
+2026-11-15T17:09:06Z,ssmcp-git,0.1.0.r3.g3d5e2d3-1,0,Expose a local terminal as MCP through an SSH public-key connection
+2026-11-15T17:14:24Z,genoffice-arch-bin,0.13.18-1,0,"Free, open-source AI office suite: docs, sheets, slides, PDF and markdown editors (official .deb repackaged)"
+2026-11-15T17:16:12Z,calibre-zen,,,Modernized Calibre ebook library manager
