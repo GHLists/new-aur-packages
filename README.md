@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 20:19 UTC
+## Latest list — 2026-11-15 21:20 UTC
 
-New packages created between 2026-11-15 19:20 UTC and 2026-11-15 20:19 UTC.
+New packages created between 2026-11-15 20:19 UTC and 2026-11-15 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-15T20-19-59-572088Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-15T21-20-39-196339Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 19:20:39 | [raea-bin](https://aur.archlinux.org/packages/raea-bin) | 0.1.4-1 | 0 | Render Anything Engine: videos, motion graphics, 3D and games as React and Type… |
-| 2026-11-15 19:28:20 | [vorchestrator](https://aur.archlinux.org/packages/vorchestrator) | 1.0.0-1 | 0 | Token-efficient multi-agent task orchestrator & self-scaling coordinator for An… |
-| 2026-11-15 19:33:25 | [kitty-nightly-bin](https://aur.archlinux.org/packages/kitty-nightly-bin) | 0.50.0.r20261115064… | 0 | A modern, hackable, featureful, OpenGL-based terminal emulator (official nightl… |
-| 2026-11-15 20:17:15 | [forge-ide-git](https://aur.archlinux.org/packages/forge-ide-git) |  |  | PHPStorm-style IDE for PHP, web and Lua (built from the latest source) |
+| 2026-11-15 20:40:09 | [ascii-chat-bin](https://aur.archlinux.org/packages/ascii-chat-bin) | 0.16.30-1 | 0 | Video chat in your terminal (prebuilt release) |
+| 2026-11-15 20:40:11 | [arbinel-bin](https://aur.archlinux.org/packages/arbinel-bin) | 1.0.0-1 | 0 | Arbinel, a soft fork of the Forgejo software forge (release binary) |
+| 2026-11-15 20:40:16 | [libasciichat-bin](https://aur.archlinux.org/packages/libasciichat-bin) | 0.16.30-1 | 0 | Development libraries and documentation for ascii-chat (prebuilt release) |
+| 2026-11-15 20:45:38 | [openpowermac-bin](https://aur.archlinux.org/packages/openpowermac-bin) | 0.0.3-1 | 0 | Power Macintosh G4 emulator written from scratch: runs Mac OS 9, with 2D and 3D… |
 
 ## Data source
 
