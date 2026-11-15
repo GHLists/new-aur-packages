@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 06:21 UTC
+## Latest list — 2026-11-15 07:19 UTC
 
-New packages created between 2026-11-15 05:21 UTC and 2026-11-15 06:21 UTC.
+New packages created between 2026-11-15 06:21 UTC and 2026-11-15 07:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-15T06-21-42-319474Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-15T07-19-38-838876Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 05:27:50 | [workdaddy-bin](https://aur.archlinux.org/packages/workdaddy-bin) | 1.2.22-2 | 1 | WorkBuddy desktop enhancement assistant (WorkDaddy, official Linux DEB repack) |
-| 2026-11-15 05:34:36 | [metrolist-desktop-nightly-bin](https://aur.archlinux.org/packages/metrolist-desktop-nightly-bin) | 14.0.0+54715a5-1 | 0 | YouTube Music client for desktop (nightly) |
+| 2026-11-15 06:37:34 | [paseo-bun-bin](https://aur.archlinux.org/packages/paseo-bun-bin) | 0.16.0beta2-3 | 0 | Paseo native Bun AOT desktop and daemon with Elysia, Tauri v2 and UI performanc… |
+| 2026-11-15 07:16:29 | [venture-bin](https://aur.archlinux.org/packages/venture-bin) |  |  | Meta Quest emulator for PC VR (prebuilt release) |
+| 2026-11-15 07:16:36 | [venture](https://aur.archlinux.org/packages/venture) |  |  | Meta Quest emulator for PC VR |
+| 2026-11-15 07:16:43 | [venture-git](https://aur.archlinux.org/packages/venture-git) |  |  | Meta Quest emulator for PC VR (git main) |
 
 ## Data source
 
