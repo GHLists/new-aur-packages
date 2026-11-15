@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-15T14:00:32Z,bluegit-backup,20261115135704-1,0,"Backup server for a BlueGit instance: incremental copy, archives, rollback"
+2026-11-15T14:00:34Z,ratclone,0.1.0-1,0,A keyboard-driven terminal UI for rclone
+2026-11-15T14:01:00Z,rauthy,0.37.2-1,0,"Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, and PAM"
+2026-11-15T14:14:10Z,selfwork-bin,0.0.1-1,0,Selfwork desktop app
+2026-11-15T14:17:36Z,sweetlock-bin,,,Screen locker for Wayland
+2026-11-15T14:18:41Z,sweetlock-git,,,Screen locker for Wayland (git)
