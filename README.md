@@ -12,16 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 12:20 UTC
+## Latest list — 2026-11-15 13:21 UTC
 
-New packages created between 2026-11-15 11:21 UTC and 2026-11-15 12:20 UTC.
+New packages created between 2026-11-15 12:20 UTC and 2026-11-15 13:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-15T12-20-29-432764Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-15T13-21-30-122203Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 11:26:19 | [openchamber-bin](https://aur.archlinux.org/packages/openchamber-bin) | 2.7.0-4 | 0 | OpenChamber desktop application (official prebuilt Linux binary) |
-| 2026-11-15 12:13:32 | [leaf-reader-bin](https://aur.archlinux.org/packages/leaf-reader-bin) | 0.16.1-1 | 0 | Read PDFs, markdown files and web articles in the terminal |
+| 2026-11-15 12:26:19 | [truenas-mcp](https://aur.archlinux.org/packages/truenas-mcp) | 1.0.0-1 | 0 | Model Context Protocol (MCP) server for TrueNAS |
+| 2026-11-15 12:43:56 | [gapgpt-bin](https://aur.archlinux.org/packages/gapgpt-bin) | 0.164.3-1 | 0 | GapCode, the GapGPT AI coding agent for the terminal (unofficial package) |
+| 2026-11-15 12:44:03 | [gapgpt-desktop-bin](https://aur.archlinux.org/packages/gapgpt-desktop-bin) | 1.3.22-1 | 0 | GapGPT desktop AI workspace with a local GapCode agent server (unofficial packa… |
+| 2026-11-15 12:47:28 | [gapcode-bin](https://aur.archlinux.org/packages/gapcode-bin) | 0.164.3-2 | 0 | GapGPT AI coding agent for the terminal (unofficial package) |
+| 2026-11-15 12:51:30 | [bluet](https://aur.archlinux.org/packages/bluet) | 1.1.0-1 | 0 | Native Bluetooth device manager using the system BlueZ service |
+| 2026-11-15 13:08:53 | [tuigram](https://aur.archlinux.org/packages/tuigram) | 1.4.1-1 | 0 | Terminal UI client for Telegram |
+| 2026-11-15 13:12:26 | [ovr](https://aur.archlinux.org/packages/ovr) | 0.7-1 | 0 | Pipe any input through a chain of text transformations, with a CLI and a GUI fr… |
 
 ## Data source
 

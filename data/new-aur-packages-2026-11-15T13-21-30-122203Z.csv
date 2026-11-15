@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-15T12:26:19Z,truenas-mcp,1.0.0-1,0,Model Context Protocol (MCP) server for TrueNAS
+2026-11-15T12:43:56Z,gapgpt-bin,0.164.3-1,0,"GapCode, the GapGPT AI coding agent for the terminal (unofficial package)"
+2026-11-15T12:44:03Z,gapgpt-desktop-bin,1.3.22-1,0,GapGPT desktop AI workspace with a local GapCode agent server (unofficial package)
+2026-11-15T12:47:28Z,gapcode-bin,0.164.3-2,0,GapGPT AI coding agent for the terminal (unofficial package)
+2026-11-15T12:51:30Z,bluet,1.1.0-1,0,Native Bluetooth device manager using the system BlueZ service
+2026-11-15T13:08:53Z,tuigram,1.4.1-1,0,Terminal UI client for Telegram
+2026-11-15T13:12:26Z,ovr,0.7-1,0,"Pipe any input through a chain of text transformations, with a CLI and a GUI front end"
