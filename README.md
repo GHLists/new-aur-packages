@@ -12,20 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 15:18 UTC
+## Latest list — 2026-11-15 16:19 UTC
 
-New packages created between 2026-11-15 14:20 UTC and 2026-11-15 15:18 UTC.
+New packages created between 2026-11-15 15:18 UTC and 2026-11-15 16:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-15T15-18-51-215669Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-15T16-19-09-724452Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 14:20:43 | [cadence-tracker](https://aur.archlinux.org/packages/cadence-tracker) | 0.1.0-1 | 1 | Track composition sessions and ideas between teaching days |
-| 2026-11-15 14:41:15 | [dsh-bin](https://aur.archlinux.org/packages/dsh-bin) | 0.2.2_rc.3-1 | 1 | DeepSeek Harness: Everything is a Plugin |
-| 2026-11-15 14:53:14 | [neje](https://aur.archlinux.org/packages/neje) | 0.1.0-1 | 0 | Free software for the NEJE DK-8-KZ laser engraver: pictures, text and G-code, p… |
-| 2026-11-15 14:59:19 | [neje-bin](https://aur.archlinux.org/packages/neje-bin) | 0.1.0-1 | 0 | Free software for the NEJE DK-8-KZ laser engraver: pictures, text and G-code, p… |
-| 2026-11-15 15:14:19 | [sandbox-runtime](https://aur.archlinux.org/packages/sandbox-runtime) | 0.0.83-1 | 0 | Tool for enforcing filesystem and network restrictions on arbitrary processes |
-| 2026-11-15 15:15:13 | [flashrom-minproi](https://aur.archlinux.org/packages/flashrom-minproi) | 1.8.0-1 | 0 | Utility for reading, writing, erasing and verifying flash ROM chips, with Mini-… |
+| 2026-11-15 15:46:25 | [koma-bin](https://aur.archlinux.org/packages/koma-bin) | 0.0.1-1 | 0 | Wayland tiling compositor with explicit desktop automation interfaces (prebuilt… |
+| 2026-11-15 16:00:45 | [onnxruntime-core](https://aur.archlinux.org/packages/onnxruntime-core) | 1.29.0-5 | 0 | Cross-platform inference engine for ONNX models: the C and C++ library with the… |
+| 2026-11-15 16:00:45 | [onnxruntime-provider-cuda13-rtx](https://aur.archlinux.org/packages/onnxruntime-provider-cuda13-rtx) | 1.29.0-5 | 0 | The CUDA execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA GPUs) |
+| 2026-11-15 16:00:45 | [onnxruntime-provider-tensorrt-cuda13](https://aur.archlinux.org/packages/onnxruntime-provider-tensorrt-cuda13) | 1.29.0-5 | 0 | The TensorRT execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA G… |
+| 2026-11-15 16:00:45 | [onnxruntime-provider-openvino](https://aur.archlinux.org/packages/onnxruntime-provider-openvino) | 1.29.0-5 | 0 | The OpenVINO execution provider of ONNX Runtime, for onnxruntime-core (Intel CP… |
+| 2026-11-15 16:00:45 | [python-onnxruntime-core](https://aur.archlinux.org/packages/python-onnxruntime-core) | 1.29.0-5 | 0 | The Python module of ONNX Runtime, the cross-platform inference engine for ONNX… |
+| 2026-11-15 16:00:52 | [onnxruntime-core-bin](https://aur.archlinux.org/packages/onnxruntime-core-bin) | 1.29.0-5 | 0 | Cross-platform inference engine for ONNX models: the C and C++ library with the… |
+| 2026-11-15 16:00:52 | [onnxruntime-provider-cuda13-all-bin](https://aur.archlinux.org/packages/onnxruntime-provider-cuda13-all-bin) | 1.29.0-5 | 0 | The CUDA execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA GPUs)… |
+| 2026-11-15 16:00:52 | [onnxruntime-provider-cuda13-rtx-bin](https://aur.archlinux.org/packages/onnxruntime-provider-cuda13-rtx-bin) | 1.29.0-5 | 0 | The CUDA execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA GPUs)… |
+| 2026-11-15 16:00:52 | [onnxruntime-provider-openvino-bin](https://aur.archlinux.org/packages/onnxruntime-provider-openvino-bin) | 1.29.0-5 | 0 | The OpenVINO execution provider of ONNX Runtime, for onnxruntime-core (Intel CP… |
+| 2026-11-15 16:00:52 | [onnxruntime-provider-tensorrt-cuda13-bin](https://aur.archlinux.org/packages/onnxruntime-provider-tensorrt-cuda13-bin) | 1.29.0-5 | 0 | The TensorRT execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA G… |
+| 2026-11-15 16:00:52 | [python-onnxruntime-core-bin](https://aur.archlinux.org/packages/python-onnxruntime-core-bin) | 1.29.0-5 | 0 | The Python module of ONNX Runtime, the cross-platform inference engine for ONNX… |
 
 ## Data source
 

@@ -1,0 +1,13 @@
+created_at,package,version,votes,description
+2026-11-15T15:46:25Z,koma-bin,0.0.1-1,0,Wayland tiling compositor with explicit desktop automation interfaces (prebuilt release binaries)
+2026-11-15T16:00:45Z,onnxruntime-core,1.29.0-5,0,Cross-platform inference engine for ONNX models: the C and C++ library with the CPU execution provider
+2026-11-15T16:00:45Z,onnxruntime-provider-cuda13-rtx,1.29.0-5,0,"The CUDA execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA GPUs)"
+2026-11-15T16:00:45Z,onnxruntime-provider-tensorrt-cuda13,1.29.0-5,0,"The TensorRT execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA GPUs)"
+2026-11-15T16:00:45Z,onnxruntime-provider-openvino,1.29.0-5,0,"The OpenVINO execution provider of ONNX Runtime, for onnxruntime-core (Intel CPU, GPU and NPU)"
+2026-11-15T16:00:45Z,python-onnxruntime-core,1.29.0-5,0,"The Python module of ONNX Runtime, the cross-platform inference engine for ONNX models (onnxruntime-core)"
+2026-11-15T16:00:52Z,onnxruntime-core-bin,1.29.0-5,0,Cross-platform inference engine for ONNX models: the C and C++ library with the CPU execution provider (prebuilt)
+2026-11-15T16:00:52Z,onnxruntime-provider-cuda13-all-bin,1.29.0-5,0,"The CUDA execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA GPUs) (prebuilt)"
+2026-11-15T16:00:52Z,onnxruntime-provider-cuda13-rtx-bin,1.29.0-5,0,"The CUDA execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA GPUs) (prebuilt)"
+2026-11-15T16:00:52Z,onnxruntime-provider-openvino-bin,1.29.0-5,0,"The OpenVINO execution provider of ONNX Runtime, for onnxruntime-core (Intel CPU, GPU and NPU) (prebuilt)"
+2026-11-15T16:00:52Z,onnxruntime-provider-tensorrt-cuda13-bin,1.29.0-5,0,"The TensorRT execution provider of ONNX Runtime, for onnxruntime-core (NVIDIA GPUs) (prebuilt)"
+2026-11-15T16:00:52Z,python-onnxruntime-core-bin,1.29.0-5,0,"The Python module of ONNX Runtime, the cross-platform inference engine for ONNX models (onnxruntime-core) (prebuilt)"
