@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-15T18:29:02Z,openchamber-arch-bin,2.7.2-1,0,OpenChamber desktop application (official prebuilt Linux binary)
+2026-11-15T18:29:36Z,toon-mcp,1.0.0-1,0,Pure Python FastMCP Server and PTY paste wrapper for Token-Optimized Object Notation (TOON) payload compression
+2026-11-15T18:34:29Z,ratclone-bin,0.1.1-1,1,A keyboard-driven terminal UI for rclone (static binary)
+2026-11-15T18:45:36Z,vlfstatus-git,0.1.0-1,0,"Lightweight, feature-packed bash status bar generator for i3bar and swaybar with live AI agent quota tracking"
+2026-11-15T18:46:28Z,tmog-noroot-config,1.0.0-1,0,add groups and config according to https://tmog.org/linux.html
+2026-11-15T18:59:45Z,hyprmasq-plugin-bin,0.3.0-1,0,"Hyprland plugin of hyprmasq: per-window screenshots and input, prebuilt for the Hyprland of Arch and Omarchy"
+2026-11-15T19:00:01Z,hyprmasq,0.3.0-1,0,Computer use for Hyprland: an MCP server and tools for per-window screenshots and input
+2026-11-15T19:00:16Z,hyprmasq-bin,0.3.0-1,0,"Computer use for Hyprland: an MCP server and tools for per-window screenshots and input, prebuilt"
