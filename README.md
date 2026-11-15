@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 05:21 UTC
+## Latest list — 2026-11-15 06:21 UTC
 
-New packages created between 2026-11-15 04:21 UTC and 2026-11-15 05:21 UTC.
+New packages created between 2026-11-15 05:21 UTC and 2026-11-15 06:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-15T05-21-46-41188Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-15T06-21-42-319474Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 04:27:37 | [paseo-bun](https://aur.archlinux.org/packages/paseo-bun) | 0.16.0beta2-3 | 0 | Paseo desktop and daemon with native Bun AOT, Elysia, Tauri v2 and UI performan… |
-| 2026-11-15 04:28:03 | [crain-bin](https://aur.archlinux.org/packages/crain-bin) | 0.1.0-2 | 0 | the worst storm this side of the silicon (terminal-based rain) |
-| 2026-11-15 05:10:52 | [studio-one-8](https://aur.archlinux.org/packages/studio-one-8) | 8.2.1.115414-1 | 0 | Fender Studio Pro 8 digital audio workstation (formerly PreSonus Studio One) |
-| 2026-11-15 05:11:30 | [glinet-cli](https://aur.archlinux.org/packages/glinet-cli) | 0.3.1-1 | 0 | CLI tool to manage GL.iNet router |
+| 2026-11-15 05:27:50 | [workdaddy-bin](https://aur.archlinux.org/packages/workdaddy-bin) | 1.2.22-2 | 1 | WorkBuddy desktop enhancement assistant (WorkDaddy, official Linux DEB repack) |
+| 2026-11-15 05:34:36 | [metrolist-desktop-nightly-bin](https://aur.archlinux.org/packages/metrolist-desktop-nightly-bin) | 14.0.0+54715a5-1 | 0 | YouTube Music client for desktop (nightly) |
 
 ## Data source
 
