@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 06:20 UTC
+## Latest list — 2026-11-16 07:20 UTC
 
-New packages created between 2026-11-16 05:21 UTC and 2026-11-16 06:20 UTC.
+New packages created between 2026-11-16 06:20 UTC and 2026-11-16 07:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-16T06-20-03-247946Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-16T07-20-28-251421Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 05:29:53 | [nsky-gdrive-sync](https://aur.archlinux.org/packages/nsky-gdrive-sync) | 0.1.0-1 | 0 | Bidirectional Google Drive sync with real-time local file watching |
-| 2026-11-16 05:44:18 | [sona-bin](https://aur.archlinux.org/packages/sona-bin) | 0.6.0-1 | 0 | Native Apple Music client |
-| 2026-11-16 06:08:15 | [workbuddy-cn-bin](https://aur.archlinux.org/packages/workbuddy-cn-bin) | 5.11.3.43806934_eca… | 0 | Tencent WorkBuddy China edition (unofficial macOS-to-Linux port) |
+| 2026-11-16 07:00:17 | [xknx-editor-bin](https://aur.archlinux.org/packages/xknx-editor-bin) | 0.14.1-1 | 0 | KNX project editor and device commissioning tool, prebuilt AppImage |
 
 ## Data source
 
