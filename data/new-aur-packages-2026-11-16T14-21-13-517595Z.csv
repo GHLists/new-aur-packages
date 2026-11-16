@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-16T14:00:14Z,libdigidocpp-git,4.6.0.r868.g974bf38…,0,"Library for creating, signing and verification of digitally signed documents, according to XAdES and XML-DSIG standards (git master)"
+2026-11-16T14:01:21Z,qdigidoc4-git,4.12.0.r1418.g5c97e…,0,DigiDoc4 Client for digitally signing and encrypting documents and managing the Estonian ID-card (git master)
+2026-11-16T14:06:06Z,dsh-hyprland,0.1.0.r4.g0dab232-1,0,"Hyprland/NVIDIA launcher for DeepSeek Harness: Rust orchestration, Electron WebView"
+2026-11-16T14:09:21Z,database-lab,4.2.2-1,0,"Database branching and thin cloning for any Postgres database, client tools"
+2026-11-16T14:10:23Z,database-lab-git,r1957.5511f3f-1,0,"Database branching and thin cloning for any Postgres database, client tools (git version)"
+2026-11-16T14:13:55Z,voidlink-bin,1.1.0-1,0,Keyboard-first Bluetooth manager for the terminal (TUI for BlueZ) - prebuilt binary

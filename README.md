@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 13:20 UTC
+## Latest list — 2026-11-16 14:21 UTC
 
-New packages created between 2026-11-16 12:20 UTC and 2026-11-16 13:20 UTC.
+New packages created between 2026-11-16 13:20 UTC and 2026-11-16 14:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-16T13-20-20-583315Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-16T14-21-13-517595Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 12:38:22 | [bigbluefish-bin](https://aur.archlinux.org/packages/bigbluefish-bin) | 1.1.3-1 | 0 | 蓝色大肥鱼 —— 基于 Avalonia + 内置 llama.cpp 的本地大模型 AI 桌宠 |
-| 2026-11-16 12:46:24 | [ancient](https://aur.archlinux.org/packages/ancient) | 2.3.0-1 | 0 | Modern decompressor for old data (archive) compression formats |
-| 2026-11-16 12:59:19 | [strength-coach-for-garmin](https://aur.archlinux.org/packages/strength-coach-for-garmin) | 5.0.0-1 | 0 | Sync your devices and track your strength training |
-| 2026-11-16 13:02:28 | [shadowrecomp-bin](https://aur.archlinux.org/packages/shadowrecomp-bin) | 1.0.0-1 | 0 | An unofficial PC port of the Xbox version of Shadow the Hedgehog, created throu… |
+| 2026-11-16 14:00:14 | [libdigidocpp-git](https://aur.archlinux.org/packages/libdigidocpp-git) | 4.6.0.r868.g974bf38… | 0 | Library for creating, signing and verification of digitally signed documents, a… |
+| 2026-11-16 14:01:21 | [qdigidoc4-git](https://aur.archlinux.org/packages/qdigidoc4-git) | 4.12.0.r1418.g5c97e… | 0 | DigiDoc4 Client for digitally signing and encrypting documents and managing the… |
+| 2026-11-16 14:06:06 | [dsh-hyprland](https://aur.archlinux.org/packages/dsh-hyprland) | 0.1.0.r4.g0dab232-1 | 0 | Hyprland/NVIDIA launcher for DeepSeek Harness: Rust orchestration, Electron Web… |
+| 2026-11-16 14:09:21 | [database-lab](https://aur.archlinux.org/packages/database-lab) | 4.2.2-1 | 0 | Database branching and thin cloning for any Postgres database, client tools |
+| 2026-11-16 14:10:23 | [database-lab-git](https://aur.archlinux.org/packages/database-lab-git) | r1957.5511f3f-1 | 0 | Database branching and thin cloning for any Postgres database, client tools (gi… |
+| 2026-11-16 14:13:55 | [voidlink-bin](https://aur.archlinux.org/packages/voidlink-bin) | 1.1.0-1 | 0 | Keyboard-first Bluetooth manager for the terminal (TUI for BlueZ) - prebuilt bi… |
 
 ## Data source
 
