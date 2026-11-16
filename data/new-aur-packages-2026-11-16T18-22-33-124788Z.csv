@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-16T17:52:04Z,kotora,0.1.1-1,0,Anime tracker for MyAnimeList: recognises the episode in your player and asks before it records it
+2026-11-16T18:01:41Z,openkermit-git,r795.99174cf-1,0,Portable network and serial communication and automation software (git version)
+2026-11-16T18:05:36Z,jadens-printer-driver,3.3.5.497-1,0,CUPS support for JADENS thermal printing devices

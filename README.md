@@ -12,22 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 17:19 UTC
+## Latest list — 2026-11-16 18:22 UTC
 
-New packages created between 2026-11-16 16:20 UTC and 2026-11-16 17:19 UTC.
+New packages created between 2026-11-16 17:19 UTC and 2026-11-16 18:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-16T17-19-20-661744Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-16T18-22-33-124788Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 16:44:18 | [npq](https://aur.archlinux.org/packages/npq) | 3.27.4-1 | 0 | Safely install npm packages by auditing them before the install stage |
-| 2026-11-16 16:46:40 | [kgamma](https://aur.archlinux.org/packages/kgamma) | 6.7.5-2 | 0 | Adjust your monitor gamma settings |
-| 2026-11-16 16:48:51 | [wacomtablet](https://aur.archlinux.org/packages/wacomtablet) | 6.7.5-2 | 0 | GUI for Wacom Linux drivers that supports different button/pen layout profiles |
-| 2026-11-16 16:53:27 | [kwin-x11](https://aur.archlinux.org/packages/kwin-x11) | 6.7.5-4 | 0 | An easy to use, but flexible, X Window Manager |
-| 2026-11-16 16:55:11 | [attractplus-git](https://aur.archlinux.org/packages/attractplus-git) | 3.2.3.r46.gd13b6d3-1 | 0 | Graphical frontend for MAME and other command-line emulators |
-| 2026-11-16 17:07:04 | [colord-kde](https://aur.archlinux.org/packages/colord-kde) | 0.3.0-2 | 0 | Interfaces and session daemon to colord for KDE |
-| 2026-11-16 17:11:50 | [kde-development-environment-meta](https://aur.archlinux.org/packages/kde-development-environment-meta) | 20241108-2 | 0 | Metapackage to install a full KDE development environment |
-| 2026-11-16 17:13:48 | [openkermit](https://aur.archlinux.org/packages/openkermit) | 11.1.518-1 | 0 | Portable network and serial communication and automation software |
+| 2026-11-16 17:52:04 | [kotora](https://aur.archlinux.org/packages/kotora) | 0.1.1-1 | 0 | Anime tracker for MyAnimeList: recognises the episode in your player and asks b… |
+| 2026-11-16 18:01:41 | [openkermit-git](https://aur.archlinux.org/packages/openkermit-git) | r795.99174cf-1 | 0 | Portable network and serial communication and automation software (git version) |
+| 2026-11-16 18:05:36 | [jadens-printer-driver](https://aur.archlinux.org/packages/jadens-printer-driver) | 3.3.5.497-1 | 0 | CUPS support for JADENS thermal printing devices |
 
 ## Data source
 
