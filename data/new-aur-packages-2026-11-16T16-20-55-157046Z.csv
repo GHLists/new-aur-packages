@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-16T16:17:34Z,onnxruntime-provider-cuda12-legacy,,,"The CUDA execution provider of ONNX Runtime, CUDA 12 build for Pascal, Volta and newer NVIDIA GPUs, for onnxruntime-core"
+2026-11-16T16:18:04Z,onnxruntime-provider-cuda12-legacy-bin,,,"The CUDA execution provider of ONNX Runtime, CUDA 12 build for Pascal, Volta and newer NVIDIA GPUs, for onnxruntime-core (prebuilt)"
