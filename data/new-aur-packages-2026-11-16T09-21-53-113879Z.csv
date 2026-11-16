@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-16T08:38:40Z,oynix-bin,5.2.4-1,0,"Fast, private web browser (Rust + QML, Qt 6.12) with Chrome/Firefox extension support (prebuilt)"
+2026-11-16T08:45:46Z,sudostamp-desktop,1.6.0-1,0,"SudoStamp on the desktop: tray status, sudo notifications, pause, pairing and health"
+2026-11-16T09:01:20Z,jiku-bin,0.0.1-1,0,"Desktop orchestration daemon, CLI/MCP controller, and SQLite FTS5 memory companion for Koma (prebuilt release binaries)"
+2026-11-16T09:14:10Z,vulcanium-bin,157.0.8103.78-1,0,Chromium with native Wayland Vulkan rendering and Vulkan Video decoding (prebuilt)
+2026-11-16T09:14:18Z,vulcanium,157.0.8103.78-1,0,Chromium with native Wayland Vulkan rendering and Vulkan Video decoding
+2026-11-16T09:16:32Z,libreget-bin,0.16.6-1,0,"Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites."
