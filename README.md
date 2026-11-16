@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 02:18 UTC
+## Latest list — 2026-11-16 03:19 UTC
 
-New packages created between 2026-11-16 01:19 UTC and 2026-11-16 02:18 UTC.
+New packages created between 2026-11-16 02:18 UTC and 2026-11-16 03:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-16T02-18-51-179451Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-16T03-19-36-554085Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 01:20:03 | [penates-bin](https://aur.archlinux.org/packages/penates-bin) | 0.1.1-1 | 0 | Turn websites into desktop apps with their own window, icon and login |
-| 2026-11-16 01:20:11 | [penates](https://aur.archlinux.org/packages/penates) | 0.1.1-1 | 0 | Turn websites into desktop apps with their own window, icon and login |
-| 2026-11-16 01:45:05 | [python-ansilogs](https://aur.archlinux.org/packages/python-ansilogs) | 1.2.0-1 | 0 | Colored, single-line log output for command-line tools: a dependency-free color… |
+| 2026-11-16 02:29:23 | [tgradish-bin](https://aur.archlinux.org/packages/tgradish-bin) | 2.0.0-1 | 0 | Telegram stickers and emoji from videos, images or pixel art |
+| 2026-11-16 02:37:07 | [tgradish-static-bin](https://aur.archlinux.org/packages/tgradish-static-bin) | 2.0.0-1 | 0 | Telegram stickers and emoji from videos, images or pixel art (ffmpeg built-in) |
+| 2026-11-16 02:38:41 | [tgradish](https://aur.archlinux.org/packages/tgradish) | 2.0.0-1 | 0 | Telegram stickers and emoji from videos, images or pixel art |
+| 2026-11-16 03:17:23 | [lumen-journal-bin](https://aur.archlinux.org/packages/lumen-journal-bin) |  |  | Private, encrypted Markdown journal (prebuilt binary) |
 
 ## Data source
 
