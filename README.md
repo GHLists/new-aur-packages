@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 18:22 UTC
+## Latest list — 2026-11-16 19:21 UTC
 
-New packages created between 2026-11-16 17:19 UTC and 2026-11-16 18:22 UTC.
+New packages created between 2026-11-16 18:22 UTC and 2026-11-16 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-16T18-22-33-124788Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-16T19-21-21-664576Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 17:52:04 | [kotora](https://aur.archlinux.org/packages/kotora) | 0.1.1-1 | 0 | Anime tracker for MyAnimeList: recognises the episode in your player and asks b… |
-| 2026-11-16 18:01:41 | [openkermit-git](https://aur.archlinux.org/packages/openkermit-git) | r795.99174cf-1 | 0 | Portable network and serial communication and automation software (git version) |
-| 2026-11-16 18:05:36 | [jadens-printer-driver](https://aur.archlinux.org/packages/jadens-printer-driver) | 3.3.5.497-1 | 0 | CUPS support for JADENS thermal printing devices |
+| 2026-11-16 18:24:23 | [seuil-git](https://aur.archlinux.org/packages/seuil-git) | 1.0.1.r0.g338e197-1 | 1 | Pass Galaxy Buds audio between a Samsung phone and Linux over Samsung Continuity |
+| 2026-11-16 18:52:48 | [lexicon](https://aur.archlinux.org/packages/lexicon) | 0.1.0-1 | 0 | Simple terminal AI chat for quick lookups (not an agent harness) |
+| 2026-11-16 18:57:16 | [kyko](https://aur.archlinux.org/packages/kyko) | 0.1.0-1 | 0 | Drop-down terminal for uQ and other Wayland desktops |
+| 2026-11-16 19:15:12 | [juhradial-mx](https://aur.archlinux.org/packages/juhradial-mx) | 0.4.4-1 | 0 | Beautiful radial menu for Logitech MX Master mice on Linux |
 
 ## Data source
 

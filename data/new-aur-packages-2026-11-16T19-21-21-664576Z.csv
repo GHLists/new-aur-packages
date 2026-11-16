@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-16T18:24:23Z,seuil-git,1.0.1.r0.g338e197-1,1,Pass Galaxy Buds audio between a Samsung phone and Linux over Samsung Continuity
+2026-11-16T18:52:48Z,lexicon,0.1.0-1,0,Simple terminal AI chat for quick lookups (not an agent harness)
+2026-11-16T18:57:16Z,kyko,0.1.0-1,0,Drop-down terminal for uQ and other Wayland desktops
+2026-11-16T19:15:12Z,juhradial-mx,0.4.4-1,0,Beautiful radial menu for Logitech MX Master mice on Linux
