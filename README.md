@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 23:19 UTC
+## Latest list — 2026-11-16 00:21 UTC
 
-New packages created between 2026-11-15 22:21 UTC and 2026-11-15 23:19 UTC.
+New packages created between 2026-11-15 23:19 UTC and 2026-11-16 00:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-15T23-19-41-3605Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-16T00-21-50-75802Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 22:25:17 | [purple-pen](https://aur.archlinux.org/packages/purple-pen) | 4.0.0.beta2-1 | 0 | Course setting program for orienteering races (4.0.0 beta 2) |
-| 2026-11-15 22:38:58 | [anything-llm-appimage](https://aur.archlinux.org/packages/anything-llm-appimage) | 1.19.0-1 | 0 | All-in-one AI desktop app: local or cloud LLMs, RAG and AI agents over your doc… |
-| 2026-11-15 22:44:46 | [waifu2x-ncnn-vulkan-bin](https://aur.archlinux.org/packages/waifu2x-ncnn-vulkan-bin) | 20220419-1 | 0 | waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulk… |
-| 2026-11-15 22:45:00 | [dusk-audio-plugins-git](https://aur.archlinux.org/packages/dusk-audio-plugins-git) | r1448.2c5dd2c-1 | 0 | Dusk Audio plugins: EQ, compressors, tape, delay, reverb, synth, chord analyzer… |
-| 2026-11-15 22:46:09 | [attractplus](https://aur.archlinux.org/packages/attractplus) | 3.2.3-1 | 0 | Graphical frontend for MAME and other command-line emulators |
+| 2026-11-15 23:28:43 | [upcloud-cli-community-bin](https://aur.archlinux.org/packages/upcloud-cli-community-bin) | 3.37.1.community-1 | 0 | Community fork of upctl, the UpCloud command line client |
+| 2026-11-16 00:11:45 | [antigravity-acp-bin](https://aur.archlinux.org/packages/antigravity-acp-bin) | 1.5.0-1 | 0 | Official standalone Google Antigravity Agent Client Protocol (ACP) server |
+| 2026-11-16 00:13:07 | [keshiki-git](https://aur.archlinux.org/packages/keshiki-git) | 1.3_c45a1e7e-1 | 1 | Animated wallpaper manager for X11 |
+| 2026-11-16 00:16:24 | [epub-byter-bin](https://aur.archlinux.org/packages/epub-byter-bin) |  |  | Cross-platform eReader: multi-book EPUB library, terminal reader and SDL2 GUI (… |
 
 ## Data source
 

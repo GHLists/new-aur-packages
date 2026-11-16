@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-15T23:28:43Z,upcloud-cli-community-bin,3.37.1.community-1,0,"Community fork of upctl, the UpCloud command line client"
+2026-11-16T00:11:45Z,antigravity-acp-bin,1.5.0-1,0,Official standalone Google Antigravity Agent Client Protocol (ACP) server
+2026-11-16T00:13:07Z,keshiki-git,1.3_c45a1e7e-1,1,Animated wallpaper manager for X11
+2026-11-16T00:16:24Z,epub-byter-bin,,,"Cross-platform eReader: multi-book EPUB library, terminal reader and SDL2 GUI (prebuilt)"
