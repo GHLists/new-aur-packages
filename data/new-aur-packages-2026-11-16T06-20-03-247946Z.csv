@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-16T05:29:53Z,nsky-gdrive-sync,0.1.0-1,0,Bidirectional Google Drive sync with real-time local file watching
+2026-11-16T05:44:18Z,sona-bin,0.6.0-1,0,Native Apple Music client
+2026-11-16T06:08:15Z,workbuddy-cn-bin,5.11.3.43806934_eca…,0,Tencent WorkBuddy China edition (unofficial macOS-to-Linux port)

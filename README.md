@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 04:22 UTC
+## Latest list — 2026-11-16 06:20 UTC
 
-New packages created between 2026-11-16 03:19 UTC and 2026-11-16 04:22 UTC.
+New packages created between 2026-11-16 05:21 UTC and 2026-11-16 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-16T04-22-09-981276Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-16T06-20-03-247946Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 03:24:06 | [openidea-appimage](https://aur.archlinux.org/packages/openidea-appimage) | 0.1.45-1 | 0 | Open-source IntelliJ IDEA-style IDE rebuilt in Rust (AppImage) |
-| 2026-11-16 03:25:57 | [bettersoundcloud-bin](https://aur.archlinux.org/packages/bettersoundcloud-bin) | 0.9.0-1 | 0 | A PC client of SoundCloud with improvement made using electronjs. |
+| 2026-11-16 05:29:53 | [nsky-gdrive-sync](https://aur.archlinux.org/packages/nsky-gdrive-sync) | 0.1.0-1 | 0 | Bidirectional Google Drive sync with real-time local file watching |
+| 2026-11-16 05:44:18 | [sona-bin](https://aur.archlinux.org/packages/sona-bin) | 0.6.0-1 | 0 | Native Apple Music client |
+| 2026-11-16 06:08:15 | [workbuddy-cn-bin](https://aur.archlinux.org/packages/workbuddy-cn-bin) | 5.11.3.43806934_eca… | 0 | Tencent WorkBuddy China edition (unofficial macOS-to-Linux port) |
 
 ## Data source
 
