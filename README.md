@@ -12,20 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 12:20 UTC
+## Latest list — 2026-11-16 13:20 UTC
 
-New packages created between 2026-11-16 11:20 UTC and 2026-11-16 12:20 UTC.
+New packages created between 2026-11-16 12:20 UTC and 2026-11-16 13:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-16T12-20-00-392863Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-16T13-20-20-583315Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 11:23:00 | [zenkai](https://aur.archlinux.org/packages/zenkai) | 1.6-1 | 0 | Fast application launcher with plugins, themes and window switching |
-| 2026-11-16 11:30:05 | [python-pyghidra](https://aur.archlinux.org/packages/python-pyghidra) | 3.2.0-1 | 0 | Native CPython for Ghidra, from the ghidra package |
-| 2026-11-16 11:30:15 | [python-ghidra-stubs](https://aur.archlinux.org/packages/python-ghidra-stubs) | 12.2-1 | 0 | PEP 561 type stubs of the Ghidra API, from the ghidra package |
-| 2026-11-16 11:33:36 | [tascs](https://aur.archlinux.org/packages/tascs) | 0.8.0-1 | 0 | Personal sticky-note canvas: an infinite board of notes, local-first |
-| 2026-11-16 11:53:42 | [epsxe-appimage](https://aur.archlinux.org/packages/epsxe-appimage) | 2.0.5-1 | 0 | ePSXe PS1 emulator for 64-bit Linux (AppImage) |
-| 2026-11-16 12:09:38 | [tippkraft-bin](https://aur.archlinux.org/packages/tippkraft-bin) | 0.1.22-1 | 0 | Text expander for Linux on Wayland and X11 (desktop client, snippets sync throu… |
+| 2026-11-16 12:38:22 | [bigbluefish-bin](https://aur.archlinux.org/packages/bigbluefish-bin) | 1.1.3-1 | 0 | 蓝色大肥鱼 —— 基于 Avalonia + 内置 llama.cpp 的本地大模型 AI 桌宠 |
+| 2026-11-16 12:46:24 | [ancient](https://aur.archlinux.org/packages/ancient) | 2.3.0-1 | 0 | Modern decompressor for old data (archive) compression formats |
+| 2026-11-16 12:59:19 | [strength-coach-for-garmin](https://aur.archlinux.org/packages/strength-coach-for-garmin) | 5.0.0-1 | 0 | Sync your devices and track your strength training |
+| 2026-11-16 13:02:28 | [shadowrecomp-bin](https://aur.archlinux.org/packages/shadowrecomp-bin) | 1.0.0-1 | 0 | An unofficial PC port of the Xbox version of Shadow the Hedgehog, created throu… |
 
 ## Data source
 
