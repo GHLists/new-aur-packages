@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-16T11:23:00Z,zenkai,1.6-1,0,"Fast application launcher with plugins, themes and window switching"
+2026-11-16T11:30:05Z,python-pyghidra,3.2.0-1,0,"Native CPython for Ghidra, from the ghidra package"
+2026-11-16T11:30:15Z,python-ghidra-stubs,12.2-1,0,"PEP 561 type stubs of the Ghidra API, from the ghidra package"
+2026-11-16T11:33:36Z,tascs,0.8.0-1,0,"Personal sticky-note canvas: an infinite board of notes, local-first"
+2026-11-16T11:53:42Z,epsxe-appimage,2.0.5-1,0,ePSXe PS1 emulator for 64-bit Linux (AppImage)
+2026-11-16T12:09:38Z,tippkraft-bin,0.1.22-1,0,"Text expander for Linux on Wayland and X11 (desktop client, snippets sync through a tippkraft account)"
