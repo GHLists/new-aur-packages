@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-16T01:20:03Z,penates-bin,0.1.1-1,0,"Turn websites into desktop apps with their own window, icon and login"
+2026-11-16T01:20:11Z,penates,0.1.1-1,0,"Turn websites into desktop apps with their own window, icon and login"
+2026-11-16T01:45:05Z,python-ansilogs,1.2.0-1,0,"Colored, single-line log output for command-line tools: a dependency-free coloredlogs.install() replacement"
