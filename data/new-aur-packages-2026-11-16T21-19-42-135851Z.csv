@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-16T20:43:26Z,bindaru,0.1.0-1,0,"pacman and AUR package store for uQ, with a visible AUR review gate"
+2026-11-16T21:00:31Z,luciole,0.9.3-2,0,Stop-motion software
+2026-11-16T21:04:55Z,romforge,0.17.0-1,0,"Identify, tidy and play your ROM collection"
+2026-11-16T21:05:03Z,romforge-bin,0.17.0-1,0,"Identify, tidy and play your ROM collection"
+2026-11-16T21:13:51Z,bw-ssh-agent-git,r10.g914c1e2-1,0,SSH Agent for Bitwarden CLI with Polkit support
