@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-16T00:31:29Z,zuse-bin,0.26.1-1,0,Desktop and browser control plane for coding agents
+2026-11-16T00:52:56Z,wap-bin,0.0.50-2,0,Wap - Chromium-based browser with a local AI agent daemon and CLI (prebuilt)
