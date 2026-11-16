@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 07:20 UTC
+## Latest list — 2026-11-16 08:21 UTC
 
-New packages created between 2026-11-16 06:20 UTC and 2026-11-16 07:20 UTC.
+New packages created between 2026-11-16 07:20 UTC and 2026-11-16 08:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-16T07-20-28-251421Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-16T08-21-03-909159Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 07:00:17 | [xknx-editor-bin](https://aur.archlinux.org/packages/xknx-editor-bin) | 0.14.1-1 | 0 | KNX project editor and device commissioning tool, prebuilt AppImage |
+| 2026-11-16 07:27:27 | [liquid-glass-icons-git](https://aur.archlinux.org/packages/liquid-glass-icons-git) | r5.da884fb-1 | 0 | macOS Liquid Glass dark icon theme with Tahoe folders and dark status panel |
+| 2026-11-16 07:38:19 | [lig-bin](https://aur.archlinux.org/packages/lig-bin) | 1.3.0-1 | 0 | Fig-style IDE autocomplete for your terminal: subcommands, options, branches an… |
+| 2026-11-16 08:08:15 | [zigzag-bin](https://aur.archlinux.org/packages/zigzag-bin) | 0.1.5-1 | 0 | Embroidery editor: turn SVG artwork into machine embroidery files (PES, DST, JE… |
+| 2026-11-16 08:09:36 | [eckly-git](https://aur.archlinux.org/packages/eckly-git) | r19.448efcf-1 | 0 | TUI client for Readeck |
 
 ## Data source
 

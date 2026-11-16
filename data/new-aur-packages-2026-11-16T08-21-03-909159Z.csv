@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-16T07:27:27Z,liquid-glass-icons-git,r5.da884fb-1,0,macOS Liquid Glass dark icon theme with Tahoe folders and dark status panel
+2026-11-16T07:38:19Z,lig-bin,1.3.0-1,0,"Fig-style IDE autocomplete for your terminal: subcommands, options, branches and paths in a popup (zsh, bash, fish)"
+2026-11-16T08:08:15Z,zigzag-bin,0.1.5-1,0,"Embroidery editor: turn SVG artwork into machine embroidery files (PES, DST, JEF, VP3 and more), adjust the stitches visually, and drive a Brother Skitch over Bluetooth"
+2026-11-16T08:09:36Z,eckly-git,r19.448efcf-1,0,TUI client for Readeck
