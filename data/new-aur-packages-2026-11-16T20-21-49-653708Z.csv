@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-16T19:24:33Z,pi-ext-opencode-zen,0.5.1-1,0,OpenCode Zen provider for the Pi coding agent: fetches the live model catalog and serves OpenCode free models
+2026-11-16T19:27:10Z,kotora-bin,0.1.3-1,0,Anime tracker for MyAnimeList: recognises the episode in your player and asks before it records it (prebuilt)
+2026-11-16T19:30:37Z,luciole-git,0.1.0.r0.g000000000…,0,"A smooth, native Wayland file manager with fast previews, tabs, split view and Miller columns"
+2026-11-16T19:49:11Z,rettui-desktop-bin,2.0.0-1,0,"Reticulum client in a window of its own (rettui's web UI): LXMF messaging, NomadNet browsing and hosting, and RRC chat"
+2026-11-16T20:08:54Z,shortwave-electron,2026.11.1-2,0,"AI-native email for teams (Shortwave desktop app, using system Electron)"
