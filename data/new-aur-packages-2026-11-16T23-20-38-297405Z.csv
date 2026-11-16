@@ -1,0 +1,28 @@
+created_at,package,version,votes,description
+2026-11-16T22:27:53Z,noaidarling-git,r4405.ff77380e7-1,0,Translation layer for running macOS software on Linux. Clean room: without AI contamination
+2026-11-16T22:27:53Z,noaidarling-extra-git,r4405.ff77380e7-1,0,"Extra components for NoAiDarling that are not part of a typical (""stock"") installation"
+2026-11-16T22:27:53Z,noaidarling-core-git,r4405.ff77380e7-1,0,Core components of NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-system-git,r4405.ff77380e7-1,0,System components of NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-cli-git,r4405.ff77380e7-1,0,CLI components of NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-ffi-git,r4405.ff77380e7-1,0,libffi built for use within NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-cli-devenv-git,r4405.ff77380e7-1,0,A NoAiDarling environment for CLI-only programs for building and developing using the command line developer tools
+2026-11-16T22:27:53Z,noaidarling-cli-gui-common-git,r4405.ff77380e7-1,0,Components of NoAiDarling that are shared between the CLI and GUI components
+2026-11-16T22:27:53Z,noaidarling-iokitd-git,r4405.ff77380e7-1,0,IOKit daemon for NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-cli-devenv-gui-common-git,r4405.ff77380e7-1,0,Components of NoAiDarling that are shared between the developer environment and the GUI components
+2026-11-16T22:27:53Z,noaidarling-cli-extra-git,r4405.ff77380e7-1,0,Non-standard CLI components of NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-gui-git,r4405.ff77380e7-1,0,GUI components of NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-python2-git,r4405.ff77380e7-1,0,Python 2 (and associated programs) built for use within NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-cli-python2-common-git,r4405.ff77380e7-1,0,Components of NoAiDarling that are shared between the CLI and Python 2 components
+2026-11-16T22:27:53Z,noaidarling-pyobjc-git,r4405.ff77380e7-1,0,PyObjC built for use within NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-ruby-git,r4405.ff77380e7-1,0,Ruby built for use within NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-perl-git,r4405.ff77380e7-1,0,Perl built for use within NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-jsc-webkit-common-git,r4405.ff77380e7-1,0,Components of NoAiDarling that are shared between JavaScriptCore and WebKit
+2026-11-16T22:27:53Z,noaidarling-jsc-git,r4405.ff77380e7-1,0,JavaScriptCore built for use within NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-iosurface-git,r4405.ff77380e7-1,0,IOSurface framework built for use within NoAiDarling
+2026-11-16T22:27:53Z,noaidarling-cli-devenv-gui-stubs-common-git,r4405.ff77380e7-1,0,Components of NoAiDarling that are shared between the developer environment and GUI stub components
+2026-11-16T22:27:53Z,noaidarling-gui-stubs-git,r4405.ff77380e7-1,0,GUI stub components of NoAiDarling
+2026-11-16T22:34:53Z,python-stream-unzip,0.0.101-1,0,Python function to stream unzip all the files in a ZIP archive on the fly
+2026-11-16T22:42:58Z,python-vulners,4.5.0-1,0,Official Python SDK for the Vulners vulnerability-intelligence API
+2026-11-16T22:46:44Z,xdg-desktop-portal-gtk4-printfix,1.6.6-1,0,GTK4 backend for xdg-desktop-portal with Print portal fixes (temporary until upstream)
+2026-11-16T23:02:15Z,obiplayer-git,r0.0000000-1,0,"MPD client for people who care about editions, pressings and sound quality (GTK4/libadwaita)"
+2026-11-16T23:03:45Z,python-ntc-templates,9.3.0-1,0,TextFSM templates for parsing show commands of network devices
