@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-16T09:24:52Z,panic-button-bin,0.1.0-1,0,Staff panic alarm: call colleagues for help from this computer (desktop app)
+2026-11-16T09:41:28Z,retoswap-bin,1.13.0-1,0,"Decentralised P2P exchange built on Monero and Tor, unofficial Reto network (upstream binary)"
+2026-11-16T10:06:22Z,hyprlume,0.1.1-1,0,"Glass command shell and local English voice companion for Hyprland, powered by HyprPilot"
+2026-11-16T10:14:56Z,zenkai-bin,1.5-1,0,"Fast application launcher with plugins, themes and window switching"
+2026-11-16T10:15:01Z,kwinctl,0.1.0-1,0,List and control KDE Plasma 6 windows from the command line
