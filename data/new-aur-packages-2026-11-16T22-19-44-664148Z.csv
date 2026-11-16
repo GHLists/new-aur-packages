@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-16T21:55:11Z,rustingstrata-bin,1.2.3-1,0,Pure-Rust inference engine for Qwen GGUF models. Precompiled binaries
+2026-11-16T22:02:06Z,ollama-aie2,0.2.0-1,0,Native GGML AIE2 backend for AMD XDNA1 NPU via XRT in Ollama

@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 21:19 UTC
+## Latest list — 2026-11-16 22:19 UTC
 
-New packages created between 2026-11-16 20:21 UTC and 2026-11-16 21:19 UTC.
+New packages created between 2026-11-16 21:19 UTC and 2026-11-16 22:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-16T21-19-42-135851Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-16T22-19-44-664148Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 20:43:26 | [bindaru](https://aur.archlinux.org/packages/bindaru) | 0.1.0-1 | 0 | pacman and AUR package store for uQ, with a visible AUR review gate |
-| 2026-11-16 21:00:31 | [luciole](https://aur.archlinux.org/packages/luciole) | 0.9.3-2 | 0 | Stop-motion software |
-| 2026-11-16 21:04:55 | [romforge](https://aur.archlinux.org/packages/romforge) | 0.17.0-1 | 0 | Identify, tidy and play your ROM collection |
-| 2026-11-16 21:05:03 | [romforge-bin](https://aur.archlinux.org/packages/romforge-bin) | 0.17.0-1 | 0 | Identify, tidy and play your ROM collection |
-| 2026-11-16 21:13:51 | [bw-ssh-agent-git](https://aur.archlinux.org/packages/bw-ssh-agent-git) | r10.g914c1e2-1 | 0 | SSH Agent for Bitwarden CLI with Polkit support |
+| 2026-11-16 21:55:11 | [rustingstrata-bin](https://aur.archlinux.org/packages/rustingstrata-bin) | 1.2.3-1 | 0 | Pure-Rust inference engine for Qwen GGUF models. Precompiled binaries |
+| 2026-11-16 22:02:06 | [ollama-aie2](https://aur.archlinux.org/packages/ollama-aie2) | 0.2.0-1 | 0 | Native GGML AIE2 backend for AMD XDNA1 NPU via XRT in Ollama |
 
 ## Data source
 
