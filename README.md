@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 02:20 UTC
+## Latest list — 2026-11-17 03:18 UTC
 
-New packages created between 2026-11-17 01:20 UTC and 2026-11-17 02:20 UTC.
+New packages created between 2026-11-17 02:20 UTC and 2026-11-17 03:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T02-20-07-506706Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T03-18-54-989158Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 01:25:17 | [mime-guardian-nightly](https://aur.archlinux.org/packages/mime-guardian-nightly) | 0.2.0.nightly.2-1 | 0 | Keeps your default applications the way you set them (nightly) |
-| 2026-11-17 01:48:05 | [dsh-tauri-desktop-appimage](https://aur.archlinux.org/packages/dsh-tauri-desktop-appimage) | 0.31.5-2 | 0 | Native desktop application for DeepSeek Harness (official AppImage repack) |
-| 2026-11-17 02:02:47 | [diode-bin](https://aur.archlinux.org/packages/diode-bin) | 0.16.3-1 | 1 | A terminal text editor |
-| 2026-11-17 02:07:03 | [ttf-yunzhuanduren](https://aur.archlinux.org/packages/ttf-yunzhuanduren) | 1.0.0-1 | 0 | 云篆度人经开源字体：4616 个云篆字形 |
-| 2026-11-17 02:10:02 | [python-pyiosbackup](https://aur.archlinux.org/packages/python-pyiosbackup) | 0.2.3-1 | 0 | A python parser for iOS backups |
+| 2026-11-17 02:34:59 | [gossamer-bin](https://aur.archlinux.org/packages/gossamer-bin) | 0.80.0-1 | 1 | The Gossamer programming language and tooling |
+| 2026-11-17 02:41:16 | [lexic](https://aur.archlinux.org/packages/lexic) | 1.1.2-1 | 0 | Offline-first dictionary + SM-2 flashcard desktop app for humanities study |
+| 2026-11-17 02:53:53 | [process-watch-bin](https://aur.archlinux.org/packages/process-watch-bin) | 0.4.0-1 | 1 | Local process monitor to get peak CPU/RAM over time |
 
 ## Data source
 
