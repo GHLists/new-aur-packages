@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-17T07:31:50Z,yuque-bin,4.2.1.1333-1,0,Sparrow provides excellent documentation and knowledge base tools for everyone.Third-party Linux client for YuQue.第三方语雀 Linux 客户端
+2026-11-17T07:36:49Z,kage-bin,3.0.0-1,0,VPN and proxy client powered by Xray (binary release)
+2026-11-17T07:41:13Z,iqiyi-bin,14.10.0.10320-1,0,Third-party Linux client for iQiYi.第三方爱奇艺 Linux 客户端
+2026-11-17T07:50:17Z,python-bytestruct,0.2.0-1,0,"Declarative binary records and composable codecs, using only the standard library"
+2026-11-17T08:11:48Z,qwen-bin,1.0.3-1,0,"Qwen client International Edition for Linux supports login, file upload and download, and can also be linked with GitHub to manage your open-source projects.Third-party Linux client for QWen.第三方千问国际版 Linux 客户端"

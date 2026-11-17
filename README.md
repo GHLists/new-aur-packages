@@ -12,19 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 07:21 UTC
+## Latest list — 2026-11-17 08:18 UTC
 
-New packages created between 2026-11-17 06:20 UTC and 2026-11-17 07:21 UTC.
+New packages created between 2026-11-17 07:21 UTC and 2026-11-17 08:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T07-21-44-713976Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T08-18-59-147541Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 06:38:54 | [mirasim](https://aur.archlinux.org/packages/mirasim) | 0.0.818-1 | 0 | Terminal, agent, model and tool orchestrator for shared team spaces |
-| 2026-11-17 06:45:01 | [texlive-dirtreex](https://aur.archlinux.org/packages/texlive-dirtreex) | 1.2-1 | 0 | LaTeX directory-tree rendering package built on TikZ and zref |
-| 2026-11-17 06:49:14 | [circuitsimplusplus-bin](https://aur.archlinux.org/packages/circuitsimplusplus-bin) | 0.4.2-1 | 0 | Rewrite of the classic CircuitSim logic simulator used in Georgia Tech's CS 211… |
-| 2026-11-17 07:11:36 | [python-typer-injector](https://aur.archlinux.org/packages/python-typer-injector) | 0.2.2-1 | 0 | Dependency injection for typer |
-| 2026-11-17 07:12:55 | [pacoflexo](https://aur.archlinux.org/packages/pacoflexo) | 0.1.2-1 | 0 | Verifying caching proxy for Arch Linux package repositories (flexo + pacoloco i… |
+| 2026-11-17 07:31:50 | [yuque-bin](https://aur.archlinux.org/packages/yuque-bin) | 4.2.1.1333-1 | 0 | Sparrow provides excellent documentation and knowledge base tools for everyone.… |
+| 2026-11-17 07:36:49 | [kage-bin](https://aur.archlinux.org/packages/kage-bin) | 3.0.0-1 | 0 | VPN and proxy client powered by Xray (binary release) |
+| 2026-11-17 07:41:13 | [iqiyi-bin](https://aur.archlinux.org/packages/iqiyi-bin) | 14.10.0.10320-1 | 0 | Third-party Linux client for iQiYi.第三方爱奇艺 Linux 客户端 |
+| 2026-11-17 07:50:17 | [python-bytestruct](https://aur.archlinux.org/packages/python-bytestruct) | 0.2.0-1 | 0 | Declarative binary records and composable codecs, using only the standard libra… |
+| 2026-11-17 08:11:48 | [qwen-bin](https://aur.archlinux.org/packages/qwen-bin) | 1.0.3-1 | 0 | Qwen client International Edition for Linux supports login, file upload and dow… |
 
 ## Data source
 
