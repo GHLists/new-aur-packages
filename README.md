@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 11:22 UTC
+## Latest list — 2026-11-17 12:18 UTC
 
-New packages created between 2026-11-17 10:21 UTC and 2026-11-17 11:22 UTC.
+New packages created between 2026-11-17 11:22 UTC and 2026-11-17 12:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T11-22-13-622696Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T12-18-37-522461Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 10:57:04 | [appimage-manager-plasma-git](https://aur.archlinux.org/packages/appimage-manager-plasma-git) | r0.000000-1 | 0 | A lightweight KDE Plasma utility for installing, managing, and removing AppImag… |
+| 2026-11-17 11:52:30 | [datacraft-bin](https://aur.archlinux.org/packages/datacraft-bin) | 0.15.0-2 | 0 | Lightweight desktop client for SQL databases (precompiled release) |
 
 ## Data source
 
