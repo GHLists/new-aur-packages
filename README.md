@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 21:20 UTC
+## Latest list — 2026-11-17 22:22 UTC
 
-New packages created between 2026-11-17 20:20 UTC and 2026-11-17 21:20 UTC.
+New packages created between 2026-11-17 21:20 UTC and 2026-11-17 22:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T21-20-01-629985Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T22-22-09-76745Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 20:44:32 | [maple-saturation-plasma-git](https://aur.archlinux.org/packages/maple-saturation-plasma-git) | 1.0.0.r5.ga7e4aa0-1 | 0 | Screen saturation and gamma control for KDE Plasma 6 Wayland via ICC profiles |
-| 2026-11-17 21:03:25 | [claude-mem-sync-git](https://aur.archlinux.org/packages/claude-mem-sync-git) | 1.1.9.r131.g7038652… | 0 | Team memory sharing for claude-mem - H3mul fork with SSH remote support (builds… |
+| 2026-11-17 22:03:25 | [openrsat-qt6](https://aur.archlinux.org/packages/openrsat-qt6) | 0.4.519-1 | 0 | Open source RSAT alternative to manage Active Directory and Samba AD (Qt6) |
 
 ## Data source
 
