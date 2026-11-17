@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-17T09:30:41Z,ahk,0.5.0-1,0,"An AutoHotkey interpreter written in Rust, with a desktop backend for driving a Linux machine"
+2026-11-17T09:32:23Z,openwren-bin,0.1.11-1,0,"Privacy-first mail app for Gmail and any IMAP account: mail stays in an encrypted database on your own computer, trackers are stripped and suspicious messages are flagged"
+2026-11-17T09:38:09Z,ahk-git,0.5.0.r0.ga0c3b01a-1,0,"An AutoHotkey interpreter written in Rust (from source, git head, target-cpu=native)"
+2026-11-17T10:04:57Z,walrgb,0.1.0-1,0,"Sync motherboard, RAM, AIO, fan and GPU lighting to pywal colors through OpenRGB"
