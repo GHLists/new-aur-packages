@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-17T18:26:16Z,ggml-aie,0.3.1-2,0,Tensor library for machine learning (with AMD XDNA/AIE2 NPU backend)
+2026-11-17T18:46:07Z,baler-bin,0.1.1-1,0,A Cargo-style package manager for {box} modules
+2026-11-17T18:47:52Z,baler,0.1.1-1,0,A Cargo-style package manager for {box} modules
+2026-11-17T18:51:27Z,lumo-desktop-bin,0.5.9-1,0,Lumo desktop client for Proton's privacy-first AI assistant (official binaries)
+2026-11-17T19:00:12Z,claude-mem-sync,1.2.0-1,0,Team memory sharing for claude-mem - sync AI memories across developers (wraps @lopadova/claude-mem-sync)
+2026-11-17T19:03:53Z,ztty,0.1.1-1,0,Lightweight no_std Rust terminal emulator for X11 and XWayland
+2026-11-17T19:16:02Z,sparkcli,0.0.9-1,0,"C library to build CLI tools with colors, tables, trees, progress bars and more"

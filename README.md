@@ -12,18 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 18:20 UTC
+## Latest list — 2026-11-17 19:21 UTC
 
-New packages created between 2026-11-17 17:20 UTC and 2026-11-17 18:20 UTC.
+New packages created between 2026-11-17 18:20 UTC and 2026-11-17 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T18-20-42-012067Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T19-21-58-061381Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 17:21:49 | [openworld-bin](https://aur.archlinux.org/packages/openworld-bin) | 9-1 | 0 | Voxel sandbox game on a whole round planet (updater, downloads the game) |
-| 2026-11-17 17:37:08 | [dj-usb-tkit-bin](https://aur.archlinux.org/packages/dj-usb-tkit-bin) | 0.6.2-1 | 0 | Local-first DJ library manager: export playlists to USB for Pioneer CDJ/XDJ, re… |
-| 2026-11-17 17:40:23 | [libgbm](https://aur.archlinux.org/packages/libgbm) | 1.1.0-1 | 0 | libgbm is the Generic Buffer Management backend loader, which various packages… |
-| 2026-11-17 18:12:23 | [x-link-collector](https://aur.archlinux.org/packages/x-link-collector) | 1.4.1-1 | 0 | Middle-click a tweet to save its link and close the tab; a local panel download… |
+| 2026-11-17 18:26:16 | [ggml-aie](https://aur.archlinux.org/packages/ggml-aie) | 0.3.1-2 | 0 | Tensor library for machine learning (with AMD XDNA/AIE2 NPU backend) |
+| 2026-11-17 18:46:07 | [baler-bin](https://aur.archlinux.org/packages/baler-bin) | 0.1.1-1 | 0 | A Cargo-style package manager for {box} modules |
+| 2026-11-17 18:47:52 | [baler](https://aur.archlinux.org/packages/baler) | 0.1.1-1 | 0 | A Cargo-style package manager for {box} modules |
+| 2026-11-17 18:51:27 | [lumo-desktop-bin](https://aur.archlinux.org/packages/lumo-desktop-bin) | 0.5.9-1 | 0 | Lumo desktop client for Proton's privacy-first AI assistant (official binaries) |
+| 2026-11-17 19:00:12 | [claude-mem-sync](https://aur.archlinux.org/packages/claude-mem-sync) | 1.2.0-1 | 0 | Team memory sharing for claude-mem - sync AI memories across developers (wraps… |
+| 2026-11-17 19:03:53 | [ztty](https://aur.archlinux.org/packages/ztty) | 0.1.1-1 | 0 | Lightweight no_std Rust terminal emulator for X11 and XWayland |
+| 2026-11-17 19:16:02 | [sparkcli](https://aur.archlinux.org/packages/sparkcli) | 0.0.9-1 | 0 | C library to build CLI tools with colors, tables, trees, progress bars and more |
 
 ## Data source
 
