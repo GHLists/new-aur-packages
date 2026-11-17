@@ -12,18 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 15:18 UTC
+## Latest list — 2026-11-17 16:20 UTC
 
-New packages created between 2026-11-17 14:20 UTC and 2026-11-17 15:18 UTC.
+New packages created between 2026-11-17 15:18 UTC and 2026-11-17 16:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T15-18-42-540476Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T16-20-31-658716Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 14:43:04 | [clubin-bin](https://aur.archlinux.org/packages/clubin-bin) | 0.2.28-1 | 0 | Voice, video and screen sharing chat for groups (beta, invite only) |
-| 2026-11-17 14:51:40 | [monad](https://aur.archlinux.org/packages/monad) | 1.0.0-1 | 0 | Minimalist Monero miner (GTK4/libadwaita, XMRig engine; 2% developer fee) |
-| 2026-11-17 15:08:31 | [helcanium](https://aur.archlinux.org/packages/helcanium) | 157.0.8103.78-1 | 0 | Helium Browser with native Wayland Vulkan rendering and Vulkan Video decoding/e… |
-| 2026-11-17 15:08:41 | [helcanium-bin](https://aur.archlinux.org/packages/helcanium-bin) | 157.0.8103.78-1 | 0 | Helium Browser with native Wayland Vulkan rendering and Vulkan Video decoding/e… |
+| 2026-11-17 15:18:48 | [lumo-bin](https://aur.archlinux.org/packages/lumo-bin) | 0.5.9-1 | 1 | Official desktop client for Lumo, Proton's privacy-first AI assistant |
+| 2026-11-17 15:27:21 | [terminactory-git](https://aur.archlinux.org/packages/terminactory-git) | r216.6d76220-1 | 0 | idle factory game that runs in your terminal, meant to be played alongside your… |
+| 2026-11-17 15:30:45 | [artex-bin](https://aur.archlinux.org/packages/artex-bin) | 0.6.0-1 | 0 | AI autonomous penetration testing system with a web UI (server, skills and brow… |
+| 2026-11-17 15:51:27 | [xperience-bin](https://aur.archlinux.org/packages/xperience-bin) | 0.0.2-1 | 0 | Settings and HID-BPF driver for the XPPen Artist 16 3rd pen display: keys, dial… |
+| 2026-11-17 15:57:36 | [dream-llmchatbox](https://aur.archlinux.org/packages/dream-llmchatbox) | 0.1.0-1 | 0 | Chat with local AI models (Ollama) - tools, folders, memory, groups, speech, Ge… |
+| 2026-11-17 16:06:03 | [infernix](https://aur.archlinux.org/packages/infernix) | 2026.11.07-1 | 0 | C++/CUDA inference engine serving Qwen models on RTX 50-series GPUs: CLI, serve… |
+| 2026-11-17 16:06:09 | [infernix-git](https://aur.archlinux.org/packages/infernix-git) | 2026.11.07.297.gfca… | 0 | C++/CUDA inference engine serving Qwen models on RTX 50-series GPUs: CLI, serve… |
+| 2026-11-17 16:10:43 | [ast-grep-mcp-git](https://aur.archlinux.org/packages/ast-grep-mcp-git) | r82.51d5a23-1 | 0 | Model Context Protocol server for ast-grep structural code search |
+| 2026-11-17 16:12:39 | [zero-breach-toolkit-bin](https://aur.archlinux.org/packages/zero-breach-toolkit-bin) | 3.0.2-1 | 0 | Offline checks for known mercenary spyware and other signs of compromise (upstr… |
 
 ## Data source
 

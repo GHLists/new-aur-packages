@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-17T15:18:48Z,lumo-bin,0.5.9-1,1,"Official desktop client for Lumo, Proton's privacy-first AI assistant"
+2026-11-17T15:27:21Z,terminactory-git,r216.6d76220-1,0,"idle factory game that runs in your terminal, meant to be played alongside your agents"
+2026-11-17T15:30:45Z,artex-bin,0.6.0-1,0,"AI autonomous penetration testing system with a web UI (server, skills and browser capture extension)"
+2026-11-17T15:51:27Z,xperience-bin,0.0.2-1,0,"Settings and HID-BPF driver for the XPPen Artist 16 3rd pen display: keys, dials, pen, work area"
+2026-11-17T15:57:36Z,dream-llmchatbox,0.1.0-1,0,"Chat with local AI models (Ollama) - tools, folders, memory, groups, speech, German/English"
+2026-11-17T16:06:03Z,infernix,2026.11.07-1,0,"C++/CUDA inference engine serving Qwen models on RTX 50-series GPUs: CLI, server and launcher"
+2026-11-17T16:06:09Z,infernix-git,2026.11.07.297.gfca…,0,"C++/CUDA inference engine serving Qwen models on RTX 50-series GPUs: CLI, server and launcher (git)"
+2026-11-17T16:10:43Z,ast-grep-mcp-git,r82.51d5a23-1,0,Model Context Protocol server for ast-grep structural code search
+2026-11-17T16:12:39Z,zero-breach-toolkit-bin,3.0.2-1,0,Offline checks for known mercenary spyware and other signs of compromise (upstream program build)
