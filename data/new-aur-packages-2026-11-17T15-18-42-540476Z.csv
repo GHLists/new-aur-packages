@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-17T14:43:04Z,clubin-bin,0.2.28-1,0,"Voice, video and screen sharing chat for groups (beta, invite only)"
+2026-11-17T14:51:40Z,monad,1.0.0-1,0,"Minimalist Monero miner (GTK4/libadwaita, XMRig engine; 2% developer fee)"
+2026-11-17T15:08:31Z,helcanium,157.0.8103.78-1,0,Helium Browser with native Wayland Vulkan rendering and Vulkan Video decoding/encoding
+2026-11-17T15:08:41Z,helcanium-bin,157.0.8103.78-1,0,Helium Browser with native Wayland Vulkan rendering and Vulkan Video decoding/encoding (prebuilt)
