@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 20:20 UTC
+## Latest list — 2026-11-17 21:20 UTC
 
-New packages created between 2026-11-17 19:21 UTC and 2026-11-17 20:20 UTC.
+New packages created between 2026-11-17 20:20 UTC and 2026-11-17 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T20-20-16-65506Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T21-20-01-629985Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 20:00:20 | [cargo-bay-2000](https://aur.archlinux.org/packages/cargo-bay-2000) | 0.1-4 | 0 | Gravity-based puzzle game: Move boxes, push buttons, change gravity and open th… |
-| 2026-11-17 20:04:11 | [scry-bin](https://aur.archlinux.org/packages/scry-bin) | 0.1.0-1 | 0 | A terminal email client with a browser viewer |
-| 2026-11-17 20:12:06 | [python-pyopen-wakeword](https://aur.archlinux.org/packages/python-pyopen-wakeword) | 1.1.0-1 | 0 | Python library for openWakeWord wake word detection using TensorFlow Lite |
+| 2026-11-17 20:44:32 | [maple-saturation-plasma-git](https://aur.archlinux.org/packages/maple-saturation-plasma-git) | 1.0.0.r5.ga7e4aa0-1 | 0 | Screen saturation and gamma control for KDE Plasma 6 Wayland via ICC profiles |
+| 2026-11-17 21:03:25 | [claude-mem-sync-git](https://aur.archlinux.org/packages/claude-mem-sync-git) | 1.1.9.r131.g7038652… | 0 | Team memory sharing for claude-mem - H3mul fork with SSH remote support (builds… |
 
 ## Data source
 
