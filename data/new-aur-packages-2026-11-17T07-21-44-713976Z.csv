@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-17T06:38:54Z,mirasim,0.0.818-1,0,"Terminal, agent, model and tool orchestrator for shared team spaces"
+2026-11-17T06:45:01Z,texlive-dirtreex,1.2-1,0,LaTeX directory-tree rendering package built on TikZ and zref
+2026-11-17T06:49:14Z,circuitsimplusplus-bin,0.4.2-1,0,Rewrite of the classic CircuitSim logic simulator used in Georgia Tech's CS 2110/2200
+2026-11-17T07:11:36Z,python-typer-injector,0.2.2-1,0,Dependency injection for typer
+2026-11-17T07:12:55Z,pacoflexo,0.1.2-1,0,Verifying caching proxy for Arch Linux package repositories (flexo + pacoloco in one)

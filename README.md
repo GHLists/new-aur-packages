@@ -12,19 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 06:20 UTC
+## Latest list — 2026-11-17 07:21 UTC
 
-New packages created between 2026-11-17 05:18 UTC and 2026-11-17 06:20 UTC.
+New packages created between 2026-11-17 06:20 UTC and 2026-11-17 07:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T06-20-03-536131Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T07-21-44-713976Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 05:35:25 | [wechat-kages-bin](https://aur.archlinux.org/packages/wechat-kages-bin) | 4.0-1 | 0 | This software supports WeChat multi-opening under the Linux system, which can b… |
-| 2026-11-17 05:36:54 | [nkit-ui](https://aur.archlinux.org/packages/nkit-ui) | 3.2.2-1 | 0 | Graphical disc image tools. Convert/extract/verify/fix (NKit). Dedupe/mount (NK… |
-| 2026-11-17 05:39:03 | [hc-tui-bin](https://aur.archlinux.org/packages/hc-tui-bin) | 0.1.11-1 | 0 | Terminal UI for herdr-core (hc): sidebar with live agent status, tabs, splits,… |
-| 2026-11-17 05:44:23 | [nkit-ui-git](https://aur.archlinux.org/packages/nkit-ui-git) | 3-1 | 0 | Graphical disc image tools. Convert/extract/verify/fix (NKit). Dedupe/mount (NK… |
-| 2026-11-17 06:01:57 | [caveman-bin](https://aur.archlinux.org/packages/caveman-bin) | 4.1.0-1 | 0 | Make AI coding agents talk like a caveman, plus local context compression and m… |
+| 2026-11-17 06:38:54 | [mirasim](https://aur.archlinux.org/packages/mirasim) | 0.0.818-1 | 0 | Terminal, agent, model and tool orchestrator for shared team spaces |
+| 2026-11-17 06:45:01 | [texlive-dirtreex](https://aur.archlinux.org/packages/texlive-dirtreex) | 1.2-1 | 0 | LaTeX directory-tree rendering package built on TikZ and zref |
+| 2026-11-17 06:49:14 | [circuitsimplusplus-bin](https://aur.archlinux.org/packages/circuitsimplusplus-bin) | 0.4.2-1 | 0 | Rewrite of the classic CircuitSim logic simulator used in Georgia Tech's CS 211… |
+| 2026-11-17 07:11:36 | [python-typer-injector](https://aur.archlinux.org/packages/python-typer-injector) | 0.2.2-1 | 0 | Dependency injection for typer |
+| 2026-11-17 07:12:55 | [pacoflexo](https://aur.archlinux.org/packages/pacoflexo) | 0.1.2-1 | 0 | Verifying caching proxy for Arch Linux package repositories (flexo + pacoloco i… |
 
 ## Data source
 
