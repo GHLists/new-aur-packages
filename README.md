@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 04:20 UTC
+## Latest list — 2026-11-17 05:18 UTC
 
-New packages created between 2026-11-17 03:18 UTC and 2026-11-17 04:20 UTC.
+New packages created between 2026-11-17 04:20 UTC and 2026-11-17 05:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T04-20-52-871585Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T05-18-31-492305Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 03:38:50 | [zource](https://aur.archlinux.org/packages/zource) | 0.1.3-1 | 0 | 2D radial tree and 3D rotating bubble repository visualizer for Kitty, Ghostty,… |
-| 2026-11-17 03:51:09 | [wyrd-deck-bin](https://aur.archlinux.org/packages/wyrd-deck-bin) | 0.1.2-1 | 0 | Discord conversations for agents through a secret-holding service |
-| 2026-11-17 03:53:34 | [lightspeed-bin](https://aur.archlinux.org/packages/lightspeed-bin) | 1.11.0-1 | 0 | Zero-cost global network optimizer for multiplayer games - prebuilt LightSpeed… |
-| 2026-11-17 04:03:30 | [lite-anvil-bin](https://aur.archlinux.org/packages/lite-anvil-bin) | 2.17.0-1 | 1 | Fast, Powerful, Lightweight Editor |
-| 2026-11-17 04:13:20 | [waftty-bin](https://aur.archlinux.org/packages/waftty-bin) | 0.8.3-1 | 1 | A light terminal emulator |
+| 2026-11-17 04:49:12 | [bosun-bin](https://aur.archlinux.org/packages/bosun-bin) | 2.2.13-1 | 1 | Tmux-native orchestrator for AI agent sessions |
+| 2026-11-17 04:53:54 | [omofun-bin](https://aur.archlinux.org/packages/omofun-bin) | 2.0.1-1 | 0 | Third-party Linux client for Animation Republic.第三方动漫共和国 Linux 客户端 |
+| 2026-11-17 04:54:57 | [reeve-bin](https://aur.archlinux.org/packages/reeve-bin) | 1.1.4-1 | 1 | A TUI based local web development stack |
 
 ## Data source
 
