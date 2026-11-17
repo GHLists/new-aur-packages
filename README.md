@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 13:20 UTC
+## Latest list — 2026-11-17 14:20 UTC
 
-New packages created between 2026-11-17 12:18 UTC and 2026-11-17 13:20 UTC.
+New packages created between 2026-11-17 13:20 UTC and 2026-11-17 14:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T13-20-59-118648Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T14-20-12-091072Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 12:31:44 | [orbbec-viewer](https://aur.archlinux.org/packages/orbbec-viewer) | 1.10.37-1 | 0 | Viewer for Orbbec depth cameras (prebuilt release) |
-| 2026-11-17 13:11:07 | [kate-bin](https://aur.archlinux.org/packages/kate-bin) | 26.12.12935-1 | 0 | Advanced text editor (KDE CI AppImage binary release) |
+| 2026-11-17 13:28:38 | [fastbrowse](https://aur.archlinux.org/packages/fastbrowse) | 0.11.1-1 | 0 | Browser automation with cited answers, structured output and code-controlled cr… |
+| 2026-11-17 14:11:41 | [ruby-qt6-rice](https://aur.archlinux.org/packages/ruby-qt6-rice) | 6.3.0-1 | 0 | Extend the Rice library with support for the Qt framework. |
 
 ## Data source
 
