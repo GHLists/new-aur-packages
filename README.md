@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 17:20 UTC
+## Latest list — 2026-11-17 18:20 UTC
 
-New packages created between 2026-11-17 16:20 UTC and 2026-11-17 17:20 UTC.
+New packages created between 2026-11-17 17:20 UTC and 2026-11-17 18:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T17-20-52-133316Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T18-20-42-012067Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 16:30:41 | [nvbeam-bin](https://aur.archlinux.org/packages/nvbeam-bin) | 0.2.10-1 | 0 | Fast, native Neovim GUI client built with Qt6 and C++ (prebuilt) |
-| 2026-11-17 16:30:47 | [nvbeam-git](https://aur.archlinux.org/packages/nvbeam-git) | 0.2.10.r21.g7c2c129… | 0 | Fast, native Neovim GUI client built with Qt6 and C++ (git) |
-| 2026-11-17 16:52:20 | [apw-cli](https://aur.archlinux.org/packages/apw-cli) | 0.1.5-2 | 0 | Read Apple Passwords on Linux |
+| 2026-11-17 17:21:49 | [openworld-bin](https://aur.archlinux.org/packages/openworld-bin) | 9-1 | 0 | Voxel sandbox game on a whole round planet (updater, downloads the game) |
+| 2026-11-17 17:37:08 | [dj-usb-tkit-bin](https://aur.archlinux.org/packages/dj-usb-tkit-bin) | 0.6.2-1 | 0 | Local-first DJ library manager: export playlists to USB for Pioneer CDJ/XDJ, re… |
+| 2026-11-17 17:40:23 | [libgbm](https://aur.archlinux.org/packages/libgbm) | 1.1.0-1 | 0 | libgbm is the Generic Buffer Management backend loader, which various packages… |
+| 2026-11-17 18:12:23 | [x-link-collector](https://aur.archlinux.org/packages/x-link-collector) | 1.4.1-1 | 0 | Middle-click a tweet to save its link and close the tab; a local panel download… |
 
 ## Data source
 
