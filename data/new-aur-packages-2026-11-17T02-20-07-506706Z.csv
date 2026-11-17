@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-17T01:25:17Z,mime-guardian-nightly,0.2.0.nightly.2-1,0,Keeps your default applications the way you set them (nightly)
+2026-11-17T01:48:05Z,dsh-tauri-desktop-appimage,0.31.5-2,0,Native desktop application for DeepSeek Harness (official AppImage repack)
+2026-11-17T02:02:47Z,diode-bin,0.16.3-1,1,A terminal text editor
+2026-11-17T02:07:03Z,ttf-yunzhuanduren,1.0.0-1,0,云篆度人经开源字体：4616 个云篆字形
+2026-11-17T02:10:02Z,python-pyiosbackup,0.2.3-1,0,A python parser for iOS backups
