@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 10:21 UTC
+## Latest list — 2026-11-17 11:22 UTC
 
-New packages created between 2026-11-17 09:18 UTC and 2026-11-17 10:21 UTC.
+New packages created between 2026-11-17 10:21 UTC and 2026-11-17 11:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T10-21-44-740862Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T11-22-13-622696Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 09:30:41 | [ahk](https://aur.archlinux.org/packages/ahk) | 0.5.0-1 | 0 | An AutoHotkey interpreter written in Rust, with a desktop backend for driving a… |
-| 2026-11-17 09:32:23 | [openwren-bin](https://aur.archlinux.org/packages/openwren-bin) | 0.1.11-1 | 0 | Privacy-first mail app for Gmail and any IMAP account: mail stays in an encrypt… |
-| 2026-11-17 09:38:09 | [ahk-git](https://aur.archlinux.org/packages/ahk-git) | 0.5.0.r0.ga0c3b01a-1 | 0 | An AutoHotkey interpreter written in Rust (from source, git head, target-cpu=na… |
-| 2026-11-17 10:04:57 | [walrgb](https://aur.archlinux.org/packages/walrgb) | 0.1.0-1 | 0 | Sync motherboard, RAM, AIO, fan and GPU lighting to pywal colors through OpenRGB |
+| 2026-11-17 10:57:04 | [appimage-manager-plasma-git](https://aur.archlinux.org/packages/appimage-manager-plasma-git) | r0.000000-1 | 0 | A lightweight KDE Plasma utility for installing, managing, and removing AppImag… |
 
 ## Data source
 
