@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-17T05:35:25Z,wechat-kages-bin,4.0-1,0,"This software supports WeChat multi-opening under the Linux system, which can be opened indefinitely."
+2026-11-17T05:36:54Z,nkit-ui,3.2.2-1,0,Graphical disc image tools. Convert/extract/verify/fix (NKit). Dedupe/mount (NKDS).
+2026-11-17T05:39:03Z,hc-tui-bin,0.1.11-1,0,"Terminal UI for herdr-core (hc): sidebar with live agent status, tabs, splits, local or over SSH (unofficial)"
+2026-11-17T05:44:23Z,nkit-ui-git,3-1,0,Graphical disc image tools. Convert/extract/verify/fix (NKit). Dedupe/mount (NKDS).
+2026-11-17T06:01:57Z,caveman-bin,4.1.0-1,0,"Make AI coding agents talk like a caveman, plus local context compression and metering (CLI + runtime binaries)"

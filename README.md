@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 05:18 UTC
+## Latest list — 2026-11-17 06:20 UTC
 
-New packages created between 2026-11-17 04:20 UTC and 2026-11-17 05:18 UTC.
+New packages created between 2026-11-17 05:18 UTC and 2026-11-17 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T05-18-31-492305Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T06-20-03-536131Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 04:49:12 | [bosun-bin](https://aur.archlinux.org/packages/bosun-bin) | 2.2.13-1 | 1 | Tmux-native orchestrator for AI agent sessions |
-| 2026-11-17 04:53:54 | [omofun-bin](https://aur.archlinux.org/packages/omofun-bin) | 2.0.1-1 | 0 | Third-party Linux client for Animation Republic.第三方动漫共和国 Linux 客户端 |
-| 2026-11-17 04:54:57 | [reeve-bin](https://aur.archlinux.org/packages/reeve-bin) | 1.1.4-1 | 1 | A TUI based local web development stack |
+| 2026-11-17 05:35:25 | [wechat-kages-bin](https://aur.archlinux.org/packages/wechat-kages-bin) | 4.0-1 | 0 | This software supports WeChat multi-opening under the Linux system, which can b… |
+| 2026-11-17 05:36:54 | [nkit-ui](https://aur.archlinux.org/packages/nkit-ui) | 3.2.2-1 | 0 | Graphical disc image tools. Convert/extract/verify/fix (NKit). Dedupe/mount (NK… |
+| 2026-11-17 05:39:03 | [hc-tui-bin](https://aur.archlinux.org/packages/hc-tui-bin) | 0.1.11-1 | 0 | Terminal UI for herdr-core (hc): sidebar with live agent status, tabs, splits,… |
+| 2026-11-17 05:44:23 | [nkit-ui-git](https://aur.archlinux.org/packages/nkit-ui-git) | 3-1 | 0 | Graphical disc image tools. Convert/extract/verify/fix (NKit). Dedupe/mount (NK… |
+| 2026-11-17 06:01:57 | [caveman-bin](https://aur.archlinux.org/packages/caveman-bin) | 4.1.0-1 | 0 | Make AI coding agents talk like a caveman, plus local context compression and m… |
 
 ## Data source
 
