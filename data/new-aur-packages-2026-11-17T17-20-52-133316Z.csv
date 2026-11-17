@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-17T16:30:41Z,nvbeam-bin,0.2.10-1,0,"Fast, native Neovim GUI client built with Qt6 and C++ (prebuilt)"
+2026-11-17T16:30:47Z,nvbeam-git,0.2.10.r21.g7c2c129…,0,"Fast, native Neovim GUI client built with Qt6 and C++ (git)"
+2026-11-17T16:52:20Z,apw-cli,0.1.5-2,0,Read Apple Passwords on Linux
