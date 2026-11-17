@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-17T20:00:20Z,cargo-bay-2000,0.1-4,0,"Gravity-based puzzle game: Move boxes, push buttons, change gravity and open that damn door!"
+2026-11-17T20:04:11Z,scry-bin,0.1.0-1,0,A terminal email client with a browser viewer
+2026-11-17T20:12:06Z,python-pyopen-wakeword,1.1.0-1,0,Python library for openWakeWord wake word detection using TensorFlow Lite
