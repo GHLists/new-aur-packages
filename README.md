@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 22:22 UTC
+## Latest list — 2026-11-17 23:20 UTC
 
-New packages created between 2026-11-17 21:20 UTC and 2026-11-17 22:22 UTC.
+New packages created between 2026-11-17 22:22 UTC and 2026-11-17 23:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T22-22-09-76745Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-17T23-20-07-18253Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 22:03:25 | [openrsat-qt6](https://aur.archlinux.org/packages/openrsat-qt6) | 0.4.519-1 | 0 | Open source RSAT alternative to manage Active Directory and Samba AD (Qt6) |
+| 2026-11-17 22:34:46 | [openexpress-git](https://aur.archlinux.org/packages/openexpress-git) | 0.10.6.r71.g4b51aec… | 0 | Unofficial Linux app for Garmin watches and bike computers |
+| 2026-11-17 22:34:56 | [visicasts-bin](https://aur.archlinux.org/packages/visicasts-bin) | 0.1.0-1 | 0 | Native podcast player with a local library and offline listening |
+| 2026-11-17 23:11:40 | [bankperfect](https://aur.archlinux.org/packages/bankperfect) | 9.11.2-1 | 0 | Personal bank account manager: transactions, reconciliation, budgets and reports |
 
 ## Data source
 
