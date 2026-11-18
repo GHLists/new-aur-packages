@@ -12,16 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 18:22 UTC
+## Latest list — 2026-11-18 19:20 UTC
 
-New packages created between 2026-11-18 17:21 UTC and 2026-11-18 18:22 UTC.
+New packages created between 2026-11-18 18:22 UTC and 2026-11-18 19:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-18T18-22-59-77675Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-18T19-20-55-30762Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 17:39:37 | [chronytop](https://aur.archlinux.org/packages/chronytop) | 0.2.0-1 | 0 | TUI for chrony NTP time server monitoring |
-| 2026-11-18 17:45:29 | [ffind-rs-bin](https://aur.archlinux.org/packages/ffind-rs-bin) | 0.3.0-1 | 0 | High-performance, multi-threaded file finder for Linux with gitignore support a… |
+| 2026-11-18 18:32:58 | [realtek-rtl8821ce-dkms-git](https://aur.archlinux.org/packages/realtek-rtl8821ce-dkms-git) | r193.g884b755-3 | 0 | rtl8821CE driver with support for linux kernel 7.x+ |
+| 2026-11-18 18:44:40 | [polo](https://aur.archlinux.org/packages/polo) | 18.8.3-2 | 0 | A modern, light-weight GTK file manager for Linux, currently in beta |
+| 2026-11-18 18:49:10 | [polo-git](https://aur.archlinux.org/packages/polo-git) | 18.8.beta.r36.ga86c… | 0 | A modern, light-weight GTK file manager for Linux, currently in beta |
+| 2026-11-18 18:58:51 | [ghostty-tray](https://aur.archlinux.org/packages/ghostty-tray) | 0.1.1-1 | 0 | KDE Plasma system tray launcher for Ghostty with profiles and quick terminal to… |
+| 2026-11-18 19:01:31 | [mate-settings-daemon-git](https://aur.archlinux.org/packages/mate-settings-daemon-git) | 1.29.1.r2.g927e9dc-1 | 0 | The MATE Settings daemon |
+| 2026-11-18 19:02:41 | [mate-session-manager-git](https://aur.archlinux.org/packages/mate-session-manager-git) | 1.29.0.r2.g419f2ce-1 | 0 | The MATE Session Handler |
+| 2026-11-18 19:03:31 | [mate-desktop-git](https://aur.archlinux.org/packages/mate-desktop-git) | 1.29.1.r0.gf1a64ea-1 | 0 | Library with common API for various MATE modules |
+| 2026-11-18 19:04:06 | [mate-control-center-git](https://aur.archlinux.org/packages/mate-control-center-git) | 1.29.1.r20.g6779122… | 0 | The Control Center for MATE |
+| 2026-11-18 19:04:38 | [caja-git](https://aur.archlinux.org/packages/caja-git) | 1.29.1.r35.g4de76eb… | 0 | File manager for the MATE desktop |
+| 2026-11-18 19:11:44 | [dummypkg-git](https://aur.archlinux.org/packages/dummypkg-git) | r18.g85eb59b-1 | 0 | A utility to generate and install dummy packages in pacman |
+| 2026-11-18 19:14:16 | [dh-to-do](https://aur.archlinux.org/packages/dh-to-do) | 3.3.2-1 | 0 | A to-do app with a floating reminder of the task you are on, simple lists, and… |
+| 2026-11-18 19:16:19 | [ssl12-ctl-git](https://aur.archlinux.org/packages/ssl12-ctl-git) | r5-1 | 0 | Control the Solid State Logic SSL 12 audio interface. |
 
 ## Data source
 
