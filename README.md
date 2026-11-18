@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 12:20 UTC
+## Latest list — 2026-11-18 13:19 UTC
 
-New packages created between 2026-11-18 11:21 UTC and 2026-11-18 12:20 UTC.
+New packages created between 2026-11-18 12:20 UTC and 2026-11-18 13:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-18T12-20-07-175552Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-18T13-19-52-604796Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 11:42:12 | [opencode-browse-bin](https://aur.archlinux.org/packages/opencode-browse-bin) | 0.1.5-1 | 0 | MCP server and relay that let AI agents drive your own Chromium-family browser |
-| 2026-11-18 11:42:43 | [deepseek-harness-bin-autotrack](https://aur.archlinux.org/packages/deepseek-harness-bin-autotrack) | 0.2.2~rc.4-4 | 0 | DeepSeek Harness CLI and agent harness (auto-tracked npm releases) |
+| 2026-11-18 12:20:34 | [wirecat-tg-cli](https://aur.archlinux.org/packages/wirecat-tg-cli) | 0.133.0-1 | 0 | Personal-account Telegram CLI and MCP server for agents |
+| 2026-11-18 12:47:28 | [yopass-cli-bin](https://aur.archlinux.org/packages/yopass-cli-bin) | 16.2.0-2 | 0 | Yopass CLI for secure sharing of secrets, passwords and files (prebuilt binary) |
+| 2026-11-18 13:07:07 | [sysc-compositor](https://aur.archlinux.org/packages/sysc-compositor) | 0.1.0-1 | 0 | A scrollable-tiling Wayland compositor built in Go |
+| 2026-11-18 13:07:51 | [sysc-compositor-git](https://aur.archlinux.org/packages/sysc-compositor-git) | 0.1.0.r0.g8fb0ee8-1 | 0 | A scrollable-tiling Wayland compositor built in Go (development version) |
 
 ## Data source
 

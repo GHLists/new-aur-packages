@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-18T12:20:34Z,wirecat-tg-cli,0.133.0-1,0,Personal-account Telegram CLI and MCP server for agents
+2026-11-18T12:47:28Z,yopass-cli-bin,16.2.0-2,0,"Yopass CLI for secure sharing of secrets, passwords and files (prebuilt binary)"
+2026-11-18T13:07:07Z,sysc-compositor,0.1.0-1,0,A scrollable-tiling Wayland compositor built in Go
+2026-11-18T13:07:51Z,sysc-compositor-git,0.1.0.r0.g8fb0ee8-1,0,A scrollable-tiling Wayland compositor built in Go (development version)
