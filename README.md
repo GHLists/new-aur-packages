@@ -12,21 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 20:20 UTC
+## Latest list — 2026-11-18 21:20 UTC
 
-New packages created between 2026-11-18 19:20 UTC and 2026-11-18 20:20 UTC.
+New packages created between 2026-11-18 20:20 UTC and 2026-11-18 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-18T20-20-36-115865Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-18T21-20-37-232409Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 19:26:14 | [digikam-btrfrk](https://aur.archlinux.org/packages/digikam-btrfrk) | 9.2.0.r70048.3e46fb… | 0 | An advanced digital photo management application - quickfilter fork (git build) |
-| 2026-11-18 19:30:15 | [geelark-bin](https://aur.archlinux.org/packages/geelark-bin) | 4.5.5-1 | 0 | Desktop client for GeeLark cloud phones and antidetect browser profiles |
-| 2026-11-18 19:42:00 | [lumen-icue](https://aur.archlinux.org/packages/lumen-icue) | 0.2.0-1 | 0 | Lighting, fan and AIO LCD screen control for Corsair iCUE LINK hardware |
-| 2026-11-18 19:43:55 | [uptime-miku-git](https://aur.archlinux.org/packages/uptime-miku-git) | 0.1.1.r65ace05-1 | 1 | uptime monitoring with hatsune miku - development version |
-| 2026-11-18 19:54:41 | [epixnet](https://aur.archlinux.org/packages/epixnet) | 0.6.8-1 | 0 | Decentralized peer-to-peer web platform (node, browser launcher, and EVX worker) |
-| 2026-11-18 20:12:31 | [xtouch-daemon-bin](https://aur.archlinux.org/packages/xtouch-daemon-bin) | 0.1.0-1 | 0 | Use a Behringer X-Touch Extender as a hardware mixer for PipeWire: motor faders… |
-| 2026-11-18 20:12:40 | [xtouch-daemon-gui-bin](https://aur.archlinux.org/packages/xtouch-daemon-gui-bin) | 0.1.0-1 | 0 | The GUI of xtouch-daemon: edit the configuration of the X-Touch Extender, with… |
+| 2026-11-18 20:50:06 | [qsampleman](https://aur.archlinux.org/packages/qsampleman) | 0.1.0-1 | 0 | Browse, inspect and audition audio samples (WAV): format, loops, root key, wave… |
+| 2026-11-18 21:02:39 | [yogurt](https://aur.archlinux.org/packages/yogurt) | 0.3.46-1 | 0 | AI meeting notes that stay on your computer |
+| 2026-11-18 21:06:25 | [blitzview-git](https://aur.archlinux.org/packages/blitzview-git) | 0.0.0.r3.g37a28d3-1 | 1 | Fast Qt6 media browser for images and videos with grid/table view, thumbnails a… |
+| 2026-11-18 21:08:12 | [mewline-qs-git](https://aur.archlinux.org/packages/mewline-qs-git) | r2.3.0-1 | 0 | Quickshell shell for Hyprland and bspwm — bar, widgets and menus (successor of… |
+| 2026-11-18 21:14:21 | [mewline-qs](https://aur.archlinux.org/packages/mewline-qs) | 1.0.0-1 | 0 | Quickshell shell for Hyprland and bspwm — bar, widgets and menus (successor of… |
 
 ## Data source
 

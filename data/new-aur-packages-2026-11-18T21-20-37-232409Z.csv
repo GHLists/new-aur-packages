@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-18T20:50:06Z,qsampleman,0.1.0-1,0,"Browse, inspect and audition audio samples (WAV): format, loops, root key, waveform"
+2026-11-18T21:02:39Z,yogurt,0.3.46-1,0,AI meeting notes that stay on your computer
+2026-11-18T21:06:25Z,blitzview-git,0.0.0.r3.g37a28d3-1,1,"Fast Qt6 media browser for images and videos with grid/table view, thumbnails and metadata tags"
+2026-11-18T21:08:12Z,mewline-qs-git,r2.3.0-1,0,"Quickshell shell for Hyprland and bspwm — bar, widgets and menus (successor of mewline)"
+2026-11-18T21:14:21Z,mewline-qs,1.0.0-1,0,"Quickshell shell for Hyprland and bspwm — bar, widgets and menus (successor of mewline)"
