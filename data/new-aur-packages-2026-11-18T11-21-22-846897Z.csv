@@ -1,0 +1,14 @@
+created_at,package,version,votes,description
+2026-11-18T10:33:11Z,thinkmeta-concurrenttasks-core,0.5.1-1,0,Scheduler runtime required by the ThinkMeta concurrent-task encoders
+2026-11-18T10:33:26Z,ctdeflate-bin,0.5.1-1,0,"Parallel deflate compressor, bit-identical to libdeflate 1.26 gzip"
+2026-11-18T10:33:26Z,ctlame-bin,0.5.1-1,0,"Parallel MP3 encoder, bit-identical to LAME 4.0"
+2026-11-18T10:33:26Z,ctopus-bin,0.5.1-1,0,"Parallel Opus encoder, bit-identical to opusenc"
+2026-11-18T10:33:26Z,ctjpeg-bin,0.5.1-1,0,"Parallel JPEG encoder, bit-identical to cjpegli"
+2026-11-18T10:34:38Z,pareto-ai-desktop,0.1.2-1,0,Pareto AI: local AI model router with a spend and quality console (desktop app with system tray and gateway)
+2026-11-18T10:34:48Z,pareto-ai-desktop-bin,0.1.2-1,0,"Pareto AI: local AI model router with a spend and quality console (desktop app with system tray and gateway, prebuilt)"
+2026-11-18T10:39:04Z,agentcore-cli-bin,1.0.3-1,0,"Create, develop and deploy agents to Amazon Bedrock AgentCore from the terminal"
+2026-11-18T10:39:32Z,func-e,1.6.0-1,0,Download and run Envoy proxy versions
+2026-11-18T10:40:10Z,paccor-bin,2.0r18-1,0,"Platform Attribute Certificate Creator: gather components, create, sign and validate TCG Platform Certificates"
+2026-11-18T10:40:33Z,taskcat,0.9.58-1,0,Test AWS CloudFormation templates by deploying them in multiple regions
+2026-11-18T10:52:21Z,ollama-antigravity,0.2.0-1,0,Zero-dependency Go Ollama & OpenAI /v1/ HTTP bridge backed by agy acp
+2026-11-18T11:14:47Z,0rwx-icons-git,r50.12085dc-1,0,"A simplified model of AI usage categories, inspired by unix permissions."
