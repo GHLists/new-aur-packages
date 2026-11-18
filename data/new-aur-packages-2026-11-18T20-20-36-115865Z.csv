@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-18T19:26:14Z,digikam-btrfrk,9.2.0.r70048.3e46fb…,0,An advanced digital photo management application - quickfilter fork (git build)
+2026-11-18T19:30:15Z,geelark-bin,4.5.5-1,0,Desktop client for GeeLark cloud phones and antidetect browser profiles
+2026-11-18T19:42:00Z,lumen-icue,0.2.0-1,0,"Lighting, fan and AIO LCD screen control for Corsair iCUE LINK hardware"
+2026-11-18T19:43:55Z,uptime-miku-git,0.1.1.r65ace05-1,1,uptime monitoring with hatsune miku - development version
+2026-11-18T19:54:41Z,epixnet,0.6.8-1,0,"Decentralized peer-to-peer web platform (node, browser launcher, and EVX worker)"
+2026-11-18T20:12:31Z,xtouch-daemon-bin,0.1.0-1,0,"Use a Behringer X-Touch Extender as a hardware mixer for PipeWire: motor faders, meters, scribble strips"
+2026-11-18T20:12:40Z,xtouch-daemon-gui-bin,0.1.0-1,0,"The GUI of xtouch-daemon: edit the configuration of the X-Touch Extender, with a live view of the device"
