@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 01:21 UTC
+## Latest list — 2026-11-18 02:19 UTC
 
-New packages created between 2026-11-18 00:21 UTC and 2026-11-18 01:21 UTC.
+New packages created between 2026-11-18 01:21 UTC and 2026-11-18 02:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-18T01-21-07-596817Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-18T02-19-21-064786Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 00:35:52 | [epixnet-bin](https://aur.archlinux.org/packages/epixnet-bin) | 0.6.8-1 | 0 | Decentralized peer-to-peer web platform (official binary AppImage release) |
-| 2026-11-18 00:41:47 | [nfc-foundry](https://aur.archlinux.org/packages/nfc-foundry) | 0.3.0-1 | 0 | NFC reader workbench for MIFARE Classic and NFC Forum Type 2/NDEF cards |
-| 2026-11-18 01:05:08 | [rutorrent-theme-dracula](https://aur.archlinux.org/packages/rutorrent-theme-dracula) | 0.3.4-1 | 0 | Dracula dark theme for ruTorrent |
-| 2026-11-18 01:12:55 | [bootchain-rpi](https://aur.archlinux.org/packages/bootchain-rpi) | 1-1 | 0 | kernel-install based boot chain for Raspberry Pi devices |
+| 2026-11-18 02:04:59 | [dffy-render-markdown-bin](https://aur.archlinux.org/packages/dffy-render-markdown-bin) | 0.2.1-1 | 0 | dffy renderer plugin that draws Markdown as rendered text for the diff view: he… |
+| 2026-11-18 02:04:59 | [dffy-render-mermaid-bin](https://aur.archlinux.org/packages/dffy-render-mermaid-bin) | 0.2.1-1 | 0 | dffy renderer plugin that draws Mermaid flowcharts and sequence diagrams with b… |
+| 2026-11-18 02:05:05 | [dffy-bin](https://aur.archlinux.org/packages/dffy-bin) | 0.2.1-1 | 0 | Fast terminal diff viewer for git, built for large repositories: file tree and… |
 
 ## Data source
 

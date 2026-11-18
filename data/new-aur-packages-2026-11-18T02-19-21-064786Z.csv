@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-18T02:04:59Z,dffy-render-markdown-bin,0.2.1-1,0,"dffy renderer plugin that draws Markdown as rendered text for the diff view: headings, lists, quotes, tables and links, with Mermaid fences drawn as diagrams"
+2026-11-18T02:04:59Z,dffy-render-mermaid-bin,0.2.1-1,0,"dffy renderer plugin that draws Mermaid flowcharts and sequence diagrams with box characters, so their changes read as a diagram in the diff view"
+2026-11-18T02:05:05Z,dffy-bin,0.2.1-1,0,"Fast terminal diff viewer for git, built for large repositories: file tree and split or unified view, syntax-aware diff, watch mode, JSON output and an MCP server for coding agents"
