@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 03:20 UTC
+## Latest list — 2026-11-18 04:22 UTC
 
-New packages created between 2026-11-18 02:19 UTC and 2026-11-18 03:20 UTC.
+New packages created between 2026-11-18 03:20 UTC and 2026-11-18 04:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-18T03-20-37-05084Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-18T04-22-07-563859Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 02:40:31 | [xpflasher](https://aur.archlinux.org/packages/xpflasher) | 0.1.0-1 | 0 | A command-line tool for flashing Sony Xperia devices using firmware files downl… |
+| 2026-11-18 03:38:00 | [llm-visuals-bin](https://aur.archlinux.org/packages/llm-visuals-bin) | 0.14.0-1 | 1 | Live truecolor terminal dashboard for a locally running LLMs |
+| 2026-11-18 03:41:30 | [gpu-mcp-server](https://aur.archlinux.org/packages/gpu-mcp-server) | 0.2.0-1 | 0 | MCP server exposing NVIDIA GPU utilization, memory, temperature and power metri… |
+| 2026-11-18 04:07:25 | [prime-agent-bin](https://aur.archlinux.org/packages/prime-agent-bin) | 0.10.4-1 | 0 | Self-improving RLM agent for coding workflows and long-running autonomous tasks |
 
 ## Data source
 
