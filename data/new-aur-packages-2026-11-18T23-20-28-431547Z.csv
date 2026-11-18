@@ -1,0 +1,14 @@
+created_at,package,version,votes,description
+2026-11-18T22:27:03Z,yogurt-bin,0.3.46-1,0,Private AI meeting notes that stay on your computer.
+2026-11-18T22:28:03Z,linux-multikernel,7.0.mk5-1,0,The Linux with Multikernel support kernel and modules
+2026-11-18T22:28:03Z,linux-multikernel-headers,7.0.mk5-1,0,Headers and scripts for building modules for the Linux with Multikernel support kernel
+2026-11-18T22:28:09Z,kerf,0.5.0-1,0,Orchestrate and manage multiple kernel instances on a single host (Multikernel Linux)
+2026-11-18T22:28:13Z,daxfs-dkms,0.1.0-1,0,DAX-based filesystem for multikernel and multi-host shared memory (DKMS kernel module)
+2026-11-18T22:28:13Z,daxfs-utils,0.1.0-1,0,DAX-based filesystem for multikernel and multi-host shared memory (mkdaxfs and daxfs-inspect)
+2026-11-18T22:37:13Z,ez-azfw-manager-bin,1.6.0-1,0,"Desktop app for managing Azure Firewalls, policies, rules and IP groups with a draft, review and commit workflow."
+2026-11-18T22:45:13Z,blanc-bin,1.50.0-1,0,"Open-source desktop browser with a minimal Island interface, built-in ad and tracker blocking, private tabs."
+2026-11-18T23:00:56Z,oblyx,0.1.0.r70-1,0,"Convert GoodNotes notebooks to SVG, PDF, PNG, and Notability .ntb (CLI)"
+2026-11-18T23:01:11Z,oblyx-bin,0.1.0.r70-1,0,"Convert GoodNotes notebooks to SVG, PDF, PNG, and Notability .ntb (CLI, prebuilt binary)"
+2026-11-18T23:01:25Z,oblyx-gui,0.1.0.r70-1,0,"Convert GoodNotes notebooks to SVG, PDF, PNG, and Notability .ntb (GUI)"
+2026-11-18T23:01:39Z,oblyx-gui-bin,0.1.0.r70-1,0,"Convert GoodNotes notebooks to SVG, PDF, PNG, and Notability .ntb (GUI, prebuilt binary)"
+2026-11-18T23:12:37Z,ptah-bin,0.1.70-1,0,"An Electron desktop for Claude, Codex, and the coding CLIs already on your machine."
