@@ -12,26 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 14:22 UTC
+## Latest list — 2026-11-18 15:19 UTC
 
-New packages created between 2026-11-18 13:19 UTC and 2026-11-18 14:22 UTC.
+New packages created between 2026-11-18 14:22 UTC and 2026-11-18 15:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-18T14-22-28-065316Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-18T15-19-58-375398Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 13:27:36 | [pit-bin](https://aur.archlinux.org/packages/pit-bin) | 2.10.0-1 | 0 | Work with a directory tree of several git repositories as if it were one |
-| 2026-11-18 13:28:07 | [pit](https://aur.archlinux.org/packages/pit) | 2.10.0-1 | 0 | Work with a directory tree of several git repositories as if it were one |
-| 2026-11-18 13:38:14 | [zcode-intl-bin](https://aur.archlinux.org/packages/zcode-intl-bin) | 3.18.2_10443-1 | 0 | ZCode — agentic development environment for GLM (official Linux build, Z.ai def… |
-| 2026-11-18 13:38:27 | [zcode-cn-bin](https://aur.archlinux.org/packages/zcode-cn-bin) | 3.18.2_10443-2 | 0 | ZCode — agentic development environment for GLM (official Linux build, BigModel… |
-| 2026-11-18 13:38:52 | [mimo-desktop-intl-bin](https://aur.archlinux.org/packages/mimo-desktop-intl-bin) | 26.1116.161705-1 | 0 | Xiaomi MiMo AI desktop client with built-in AI assistant (official overseas Lin… |
-| 2026-11-18 13:39:05 | [apifox-appimage-bin](https://aur.archlinux.org/packages/apifox-appimage-bin) | 2.8.55-1 | 0 | Apifox = Postman + Swagger + Mock + JMeter. API design, debugging, mocking and… |
-| 2026-11-18 13:39:06 | [remya-launcher-git](https://aur.archlinux.org/packages/remya-launcher-git) | 0.1.0_dev.20261118.… | 0 | Application launcher and clipboard history for Hyprland (git) |
-| 2026-11-18 13:55:26 | [demongrep](https://aur.archlinux.org/packages/demongrep) | 0.1.0-1 | 0 | Fast, local semantic code search powered by Rust |
-| 2026-11-18 14:01:24 | [gtk4-polkit-agent-bin](https://aur.archlinux.org/packages/gtk4-polkit-agent-bin) | 0.1.0-1 | 0 | Minimal GTK4 polkit authentication agent for Wayland (prebuilt) |
-| 2026-11-18 14:16:06 | [seendiff-git](https://aur.archlinux.org/packages/seendiff-git) | 0.1.0.r39.g20b4dc0-1 | 0 | Local code diff viewer for large diffs that tracks which blocks you have review… |
-| 2026-11-18 14:17:27 | [jrp](https://aur.archlinux.org/packages/jrp) | 1.2.0-1 | 0 | JSON formatter that lays out a document by the shape of the data |
-| 2026-11-18 14:17:56 | [jrp-bin](https://aur.archlinux.org/packages/jrp-bin) | 1.2.0-1 | 0 | JSON formatter that lays out a document by the shape of the data |
+| 2026-11-18 14:43:15 | [thronectl-bin](https://aur.archlinux.org/packages/thronectl-bin) | 0.4.0-1 | 0 | Command-line tool and web UI for the Throne API (control Throne from scripts) (… |
+| 2026-11-18 14:46:27 | [bond](https://aur.archlinux.org/packages/bond) | 2.2.0-1 | 0 | Encrypted, quantum-safe and repairable backups for storage you have no reason t… |
+| 2026-11-18 14:46:46 | [bond-bin](https://aur.archlinux.org/packages/bond-bin) | 2.2.0-1 | 0 | Encrypted, quantum-safe and repairable backups for storage you have no reason t… |
+| 2026-11-18 14:49:12 | [kanbanana](https://aur.archlinux.org/packages/kanbanana) | 0.1.1-1 | 0 | Kanban board for your Linear issues, with Claude Code built in |
+| 2026-11-18 15:01:58 | [chronytop-bin](https://aur.archlinux.org/packages/chronytop-bin) | 0.2.0-1 | 0 | TUI for chrony NTP time server monitoring |
+| 2026-11-18 15:02:41 | [fcitx5-qingjian-bin](https://aur.archlinux.org/packages/fcitx5-qingjian-bin) | 0.3.4-1 | 0 | 青简输入法 Linux/Fcitx5 官方支持版（Rust Server + Fcitx5 插件 + 离线数据模型） |
+| 2026-11-18 15:05:41 | [runnersh-bin](https://aur.archlinux.org/packages/runnersh-bin) | 0.20.1-1 | 0 | Local desktop cockpit for CLI coding agents |
+| 2026-11-18 15:12:22 | [kanbanana-bin](https://aur.archlinux.org/packages/kanbanana-bin) | 0.1.1-1 | 0 | Kanban board for your Linear issues, with Claude Code built in (prebuilt binary) |
 
 ## Data source
 

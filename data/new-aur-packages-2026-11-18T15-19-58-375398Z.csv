@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-18T14:43:15Z,thronectl-bin,0.4.0-1,0,Command-line tool and web UI for the Throne API (control Throne from scripts) (prebuilt)
+2026-11-18T14:46:27Z,bond,2.2.0-1,0,"Encrypted, quantum-safe and repairable backups for storage you have no reason to trust"
+2026-11-18T14:46:46Z,bond-bin,2.2.0-1,0,"Encrypted, quantum-safe and repairable backups for storage you have no reason to trust"
+2026-11-18T14:49:12Z,kanbanana,0.1.1-1,0,"Kanban board for your Linear issues, with Claude Code built in"
+2026-11-18T15:01:58Z,chronytop-bin,0.2.0-1,0,TUI for chrony NTP time server monitoring
+2026-11-18T15:02:41Z,fcitx5-qingjian-bin,0.3.4-1,0,青简输入法 Linux/Fcitx5 官方支持版（Rust Server + Fcitx5 插件 + 离线数据模型）
+2026-11-18T15:05:41Z,runnersh-bin,0.20.1-1,0,Local desktop cockpit for CLI coding agents
+2026-11-18T15:12:22Z,kanbanana-bin,0.1.1-1,0,"Kanban board for your Linear issues, with Claude Code built in (prebuilt binary)"
