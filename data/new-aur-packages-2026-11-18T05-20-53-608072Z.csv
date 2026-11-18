@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-18T04:29:28Z,kicad-routing-tools,0.24.1-1,0,Rust-accelerated autorouter and routing tools for KiCad (pcbnew plugin and CLI)
+2026-11-18T04:49:21Z,wps-office-2019-freetype,11.1.0.11723-1,0,WPS Office 2019 English edition with a private FreeType compatibility fix
+2026-11-18T05:07:42Z,github-dorks-git,0.1.r78.g16dc173-1,0,Find leaked secrets with GitHub code search
