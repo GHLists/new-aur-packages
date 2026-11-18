@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-18T15:38:05Z,cliphist-git,0.7.0.r14.gf968c4f-1,0,"wayland clipboard manager (git version, configurable -max-store-size)"
+2026-11-18T15:46:06Z,my-sway,0.0.26-1,0,A lightweight desktop environment based on Sway
+2026-11-18T15:50:20Z,sbxkb-minimal,0.8.0-4,0,X11 keyboard layout tray indicator rewritten by Codex (Xlib/libpng)
+2026-11-18T15:51:18Z,justaiagent,0.1.0-3,0,Linux-native local AI agent with embedded web interface
+2026-11-18T15:51:30Z,poptato-bin,0.1.0-1,0,"Keyboard-driven app launcher, command runner, and fuzzy menu for Linux"
+2026-11-18T16:13:22Z,qsfexplorer,0.1.0-1,0,"Browse, compare and audition SoundFont (SF2, SF3) files"
+2026-11-18T16:15:55Z,deadoxide,0.1.0-1,0,"Runtime that reads an installed copy of Project Zomboid: maps, tiles, the game's Lua and saves"

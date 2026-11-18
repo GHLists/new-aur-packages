@@ -12,22 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 15:19 UTC
+## Latest list — 2026-11-18 16:22 UTC
 
-New packages created between 2026-11-18 14:22 UTC and 2026-11-18 15:19 UTC.
+New packages created between 2026-11-18 15:19 UTC and 2026-11-18 16:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-18T15-19-58-375398Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-18T16-22-46-532903Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 14:43:15 | [thronectl-bin](https://aur.archlinux.org/packages/thronectl-bin) | 0.4.0-1 | 0 | Command-line tool and web UI for the Throne API (control Throne from scripts) (… |
-| 2026-11-18 14:46:27 | [bond](https://aur.archlinux.org/packages/bond) | 2.2.0-1 | 0 | Encrypted, quantum-safe and repairable backups for storage you have no reason t… |
-| 2026-11-18 14:46:46 | [bond-bin](https://aur.archlinux.org/packages/bond-bin) | 2.2.0-1 | 0 | Encrypted, quantum-safe and repairable backups for storage you have no reason t… |
-| 2026-11-18 14:49:12 | [kanbanana](https://aur.archlinux.org/packages/kanbanana) | 0.1.1-1 | 0 | Kanban board for your Linear issues, with Claude Code built in |
-| 2026-11-18 15:01:58 | [chronytop-bin](https://aur.archlinux.org/packages/chronytop-bin) | 0.2.0-1 | 0 | TUI for chrony NTP time server monitoring |
-| 2026-11-18 15:02:41 | [fcitx5-qingjian-bin](https://aur.archlinux.org/packages/fcitx5-qingjian-bin) | 0.3.4-1 | 0 | 青简输入法 Linux/Fcitx5 官方支持版（Rust Server + Fcitx5 插件 + 离线数据模型） |
-| 2026-11-18 15:05:41 | [runnersh-bin](https://aur.archlinux.org/packages/runnersh-bin) | 0.20.1-1 | 0 | Local desktop cockpit for CLI coding agents |
-| 2026-11-18 15:12:22 | [kanbanana-bin](https://aur.archlinux.org/packages/kanbanana-bin) | 0.1.1-1 | 0 | Kanban board for your Linear issues, with Claude Code built in (prebuilt binary) |
+| 2026-11-18 15:38:05 | [cliphist-git](https://aur.archlinux.org/packages/cliphist-git) | 0.7.0.r14.gf968c4f-1 | 0 | wayland clipboard manager (git version, configurable -max-store-size) |
+| 2026-11-18 15:46:06 | [my-sway](https://aur.archlinux.org/packages/my-sway) | 0.0.26-1 | 0 | A lightweight desktop environment based on Sway |
+| 2026-11-18 15:50:20 | [sbxkb-minimal](https://aur.archlinux.org/packages/sbxkb-minimal) | 0.8.0-4 | 0 | X11 keyboard layout tray indicator rewritten by Codex (Xlib/libpng) |
+| 2026-11-18 15:51:18 | [justaiagent](https://aur.archlinux.org/packages/justaiagent) | 0.1.0-3 | 0 | Linux-native local AI agent with embedded web interface |
+| 2026-11-18 15:51:30 | [poptato-bin](https://aur.archlinux.org/packages/poptato-bin) | 0.1.0-1 | 0 | Keyboard-driven app launcher, command runner, and fuzzy menu for Linux |
+| 2026-11-18 16:13:22 | [qsfexplorer](https://aur.archlinux.org/packages/qsfexplorer) | 0.1.0-1 | 0 | Browse, compare and audition SoundFont (SF2, SF3) files |
+| 2026-11-18 16:15:55 | [deadoxide](https://aur.archlinux.org/packages/deadoxide) | 0.1.0-1 | 0 | Runtime that reads an installed copy of Project Zomboid: maps, tiles, the game'… |
 
 ## Data source
 
