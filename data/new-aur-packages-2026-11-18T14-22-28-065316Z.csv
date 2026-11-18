@@ -1,0 +1,13 @@
+created_at,package,version,votes,description
+2026-11-18T13:27:36Z,pit-bin,2.10.0-1,0,Work with a directory tree of several git repositories as if it were one
+2026-11-18T13:28:07Z,pit,2.10.0-1,0,Work with a directory tree of several git repositories as if it were one
+2026-11-18T13:38:14Z,zcode-intl-bin,3.18.2_10443-1,0,"ZCode — agentic development environment for GLM (official Linux build, Z.ai defaults)"
+2026-11-18T13:38:27Z,zcode-cn-bin,3.18.2_10443-2,0,"ZCode — agentic development environment for GLM (official Linux build, BigModel defaults)"
+2026-11-18T13:38:52Z,mimo-desktop-intl-bin,26.1116.161705-1,0,Xiaomi MiMo AI desktop client with built-in AI assistant (official overseas Linux build)
+2026-11-18T13:39:05Z,apifox-appimage-bin,2.8.55-1,0,"Apifox = Postman + Swagger + Mock + JMeter. API design, debugging, mocking and testing client (official Linux build)"
+2026-11-18T13:39:06Z,remya-launcher-git,0.1.0_dev.20261118.…,0,Application launcher and clipboard history for Hyprland (git)
+2026-11-18T13:55:26Z,demongrep,0.1.0-1,0,"Fast, local semantic code search powered by Rust"
+2026-11-18T14:01:24Z,gtk4-polkit-agent-bin,0.1.0-1,0,Minimal GTK4 polkit authentication agent for Wayland (prebuilt)
+2026-11-18T14:16:06Z,seendiff-git,0.1.0.r39.g20b4dc0-1,0,Local code diff viewer for large diffs that tracks which blocks you have reviewed
+2026-11-18T14:17:27Z,jrp,1.2.0-1,0,JSON formatter that lays out a document by the shape of the data
+2026-11-18T14:17:56Z,jrp-bin,1.2.0-1,0,JSON formatter that lays out a document by the shape of the data
