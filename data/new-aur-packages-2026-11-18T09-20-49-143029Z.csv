@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-18T08:31:07Z,yay-ai-review-git,r1.eaafa2f-1,0,yay hook: AI review of AUR build file changes before each build
+2026-11-18T09:14:59Z,pareto-gateway,0.1.0-1,0,Pareto AI gateway: local AI model router with a spend and quality console (headless server)
+2026-11-18T09:15:00Z,pareto-ai,0.1.0-1,0,Pareto AI: local AI model router with a spend and quality console (desktop app with system tray and gateway)
+2026-11-18T09:15:10Z,pareto-ai-bin,0.1.0-1,0,"Pareto AI: local AI model router with a spend and quality console (desktop app with system tray and gateway, prebuilt)"
+2026-11-18T09:15:17Z,pareto-gateway-bin,0.1.0-1,0,"Pareto AI gateway: local AI model router with a spend and quality console (headless server, prebuilt)"
