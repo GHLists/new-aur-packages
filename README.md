@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 09:20 UTC
+## Latest list — 2026-11-18 10:22 UTC
 
-New packages created between 2026-11-18 08:22 UTC and 2026-11-18 09:20 UTC.
+New packages created between 2026-11-18 09:20 UTC and 2026-11-18 10:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-18T09-20-49-143029Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-18T10-22-06-511387Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 08:31:07 | [yay-ai-review-git](https://aur.archlinux.org/packages/yay-ai-review-git) | r1.eaafa2f-1 | 0 | yay hook: AI review of AUR build file changes before each build |
-| 2026-11-18 09:14:59 | [pareto-gateway](https://aur.archlinux.org/packages/pareto-gateway) | 0.1.0-1 | 0 | Pareto AI gateway: local AI model router with a spend and quality console (head… |
-| 2026-11-18 09:15:00 | [pareto-ai](https://aur.archlinux.org/packages/pareto-ai) | 0.1.0-1 | 0 | Pareto AI: local AI model router with a spend and quality console (desktop app… |
-| 2026-11-18 09:15:10 | [pareto-ai-bin](https://aur.archlinux.org/packages/pareto-ai-bin) | 0.1.0-1 | 0 | Pareto AI: local AI model router with a spend and quality console (desktop app… |
-| 2026-11-18 09:15:17 | [pareto-gateway-bin](https://aur.archlinux.org/packages/pareto-gateway-bin) | 0.1.0-1 | 0 | Pareto AI gateway: local AI model router with a spend and quality console (head… |
+| 2026-11-18 09:47:13 | [vox](https://aur.archlinux.org/packages/vox) | 0.3.0-1 | 0 | Make your microphone sound better in every app, with switchable voice profiles |
+| 2026-11-18 10:18:05 | [por-cli](https://aur.archlinux.org/packages/por-cli) | 0.2.0-1 | 0 | A cli to browse and watch porn. |
 
 ## Data source
 
