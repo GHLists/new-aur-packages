@@ -12,17 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 05:20 UTC
+## Latest list — 2026-11-18 06:20 UTC
 
-New packages created between 2026-11-18 04:22 UTC and 2026-11-18 05:20 UTC.
+New packages created between 2026-11-18 05:20 UTC and 2026-11-18 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-18T05-20-53-608072Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-18T06-20-39-533479Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 04:29:28 | [kicad-routing-tools](https://aur.archlinux.org/packages/kicad-routing-tools) | 0.24.1-1 | 0 | Rust-accelerated autorouter and routing tools for KiCad (pcbnew plugin and CLI) |
-| 2026-11-18 04:49:21 | [wps-office-2019-freetype](https://aur.archlinux.org/packages/wps-office-2019-freetype) | 11.1.0.11723-1 | 0 | WPS Office 2019 English edition with a private FreeType compatibility fix |
-| 2026-11-18 05:07:42 | [github-dorks-git](https://aur.archlinux.org/packages/github-dorks-git) | 0.1.r78.g16dc173-1 | 0 | Find leaked secrets with GitHub code search |
+| 2026-11-18 05:27:01 | [dux-edit-git](https://aur.archlinux.org/packages/dux-edit-git) | 0.1.0.r0.g67ad782-1 | 0 | Text and document editor for Wayland from Dux Labs (git) |
+| 2026-11-18 05:27:07 | [dux-edit-bin](https://aur.archlinux.org/packages/dux-edit-bin) | 0.1.0-1 | 0 | Text and document editor for Wayland from Dux Labs (prebuilt binary) |
+| 2026-11-18 05:32:59 | [obsidian-anysocket-sync-server](https://aur.archlinux.org/packages/obsidian-anysocket-sync-server) | 1.6.1-1 | 0 | Self-hosted server that securely syncs Obsidian vaults with the AnySocket Sync… |
+| 2026-11-18 05:41:14 | [fcitx5-ngosen](https://aur.archlinux.org/packages/fcitx5-ngosen) | 1:1.12.2-1 | 0 | Ngó Sen, a Vietnamese input method for fcitx5 |
+| 2026-11-18 05:45:16 | [ibus-ngosen](https://aur.archlinux.org/packages/ibus-ngosen) | 1.4.0-1 | 0 | Ngó Sen for GNOME, a Vietnamese input method for IBus |
+| 2026-11-18 06:06:18 | [terrascope-bin](https://aur.archlinux.org/packages/terrascope-bin) | 1.0.0-1 | 0 | Braille-rendered terminal world map with live weather and aircraft (prebuilt bi… |
 
 ## Data source
 

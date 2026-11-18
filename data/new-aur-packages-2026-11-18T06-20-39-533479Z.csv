@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-18T05:27:01Z,dux-edit-git,0.1.0.r0.g67ad782-1,0,Text and document editor for Wayland from Dux Labs (git)
+2026-11-18T05:27:07Z,dux-edit-bin,0.1.0-1,0,Text and document editor for Wayland from Dux Labs (prebuilt binary)
+2026-11-18T05:32:59Z,obsidian-anysocket-sync-server,1.6.1-1,0,Self-hosted server that securely syncs Obsidian vaults with the AnySocket Sync plugin
+2026-11-18T05:41:14Z,fcitx5-ngosen,1:1.12.2-1,0,"Ngó Sen, a Vietnamese input method for fcitx5"
+2026-11-18T05:45:16Z,ibus-ngosen,1.4.0-1,0,"Ngó Sen for GNOME, a Vietnamese input method for IBus"
+2026-11-18T06:06:18Z,terrascope-bin,1.0.0-1,0,Braille-rendered terminal world map with live weather and aircraft (prebuilt binary)
