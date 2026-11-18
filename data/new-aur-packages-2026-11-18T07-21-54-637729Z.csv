@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-18T07:02:45Z,pinky-bin,2026.1118.5-1,0,"Let AI agents use an Android phone or iPhone, with you approving the risky steps: drives the phone over MCP, records every run, and brings its own adb"
+2026-11-18T07:03:40Z,i2pchat-ng-git,1.6.1.r0.g0000000-1,0,P2P (peer-to-peer) chat client over I2P network (GUI version)
+2026-11-18T07:03:46Z,i2pchat-ng-tui-git,1.6.1.r0.g0000000-1,0,P2P (peer-to-peer) chat client over I2P network (TUI version)
