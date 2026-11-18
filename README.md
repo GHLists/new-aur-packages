@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 02:19 UTC
+## Latest list — 2026-11-18 03:20 UTC
 
-New packages created between 2026-11-18 01:21 UTC and 2026-11-18 02:19 UTC.
+New packages created between 2026-11-18 02:19 UTC and 2026-11-18 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-18T02-19-21-064786Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-18T03-20-37-05084Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 02:04:59 | [dffy-render-markdown-bin](https://aur.archlinux.org/packages/dffy-render-markdown-bin) | 0.2.1-1 | 0 | dffy renderer plugin that draws Markdown as rendered text for the diff view: he… |
-| 2026-11-18 02:04:59 | [dffy-render-mermaid-bin](https://aur.archlinux.org/packages/dffy-render-mermaid-bin) | 0.2.1-1 | 0 | dffy renderer plugin that draws Mermaid flowcharts and sequence diagrams with b… |
-| 2026-11-18 02:05:05 | [dffy-bin](https://aur.archlinux.org/packages/dffy-bin) | 0.2.1-1 | 0 | Fast terminal diff viewer for git, built for large repositories: file tree and… |
+| 2026-11-18 02:40:31 | [xpflasher](https://aur.archlinux.org/packages/xpflasher) | 0.1.0-1 | 0 | A command-line tool for flashing Sony Xperia devices using firmware files downl… |
 
 ## Data source
 
