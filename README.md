@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 21:20 UTC
+## Latest list — 2026-11-18 22:19 UTC
 
-New packages created between 2026-11-18 20:20 UTC and 2026-11-18 21:20 UTC.
+New packages created between 2026-11-18 21:20 UTC and 2026-11-18 22:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-18T21-20-37-232409Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-18T22-19-51-297663Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 20:50:06 | [qsampleman](https://aur.archlinux.org/packages/qsampleman) | 0.1.0-1 | 0 | Browse, inspect and audition audio samples (WAV): format, loops, root key, wave… |
-| 2026-11-18 21:02:39 | [yogurt](https://aur.archlinux.org/packages/yogurt) | 0.3.46-1 | 0 | AI meeting notes that stay on your computer |
-| 2026-11-18 21:06:25 | [blitzview-git](https://aur.archlinux.org/packages/blitzview-git) | 0.0.0.r3.g37a28d3-1 | 1 | Fast Qt6 media browser for images and videos with grid/table view, thumbnails a… |
-| 2026-11-18 21:08:12 | [mewline-qs-git](https://aur.archlinux.org/packages/mewline-qs-git) | r2.3.0-1 | 0 | Quickshell shell for Hyprland and bspwm — bar, widgets and menus (successor of… |
-| 2026-11-18 21:14:21 | [mewline-qs](https://aur.archlinux.org/packages/mewline-qs) | 1.0.0-1 | 0 | Quickshell shell for Hyprland and bspwm — bar, widgets and menus (successor of… |
+| 2026-11-18 21:24:34 | [fla2anim](https://aur.archlinux.org/packages/fla2anim) | 0.1.0-1 | 0 | Convert XFL-based Flash projects to Pencil2D, Synfig, SWF and image sequences |
+| 2026-11-18 22:05:10 | [tessera-deck](https://aur.archlinux.org/packages/tessera-deck) | 1.2.2-1 | 0 | Host application (tray, USB host and editor) for the Tessera deck panel |
+| 2026-11-18 22:12:38 | [modelharbor-bin](https://aur.archlinux.org/packages/modelharbor-bin) | 1.4.5-1 | 0 | Lokale KI-Chatmodelle mit einem Klick: Hardware-Erkennung, llama.cpp-Backends (… |
 
 ## Data source
 

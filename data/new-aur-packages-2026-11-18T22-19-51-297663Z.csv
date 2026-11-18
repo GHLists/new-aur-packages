@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-18T21:24:34Z,fla2anim,0.1.0-1,0,"Convert XFL-based Flash projects to Pencil2D, Synfig, SWF and image sequences"
+2026-11-18T22:05:10Z,tessera-deck,1.2.2-1,0,"Host application (tray, USB host and editor) for the Tessera deck panel"
+2026-11-18T22:12:38Z,modelharbor-bin,1.4.5-1,0,"Lokale KI-Chatmodelle mit einem Klick: Hardware-Erkennung, llama.cpp-Backends (CUDA/ROCm/Vulkan/Metal/SYCL/CPU), HuggingFace-Downloads, vier Presets."
