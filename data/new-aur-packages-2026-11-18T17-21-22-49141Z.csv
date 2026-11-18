@@ -1,0 +1,16 @@
+created_at,package,version,votes,description
+2026-11-18T16:42:06Z,bettbox-lite,1.19.8-1,0,"A cross-platform network traffic routing and DNS debugging tool, deeply built on the powerful Mihomo core. (Lite build: no EasyTier/Tailscale/ZeroTier/fake-TCP/gVisor)"
+2026-11-18T16:42:19Z,bettbox-lite-bin,1.19.8-1,0,"A cross-platform network traffic routing and DNS debugging tool, deeply built on the powerful Mihomo core. (Lite build: no EasyTier/Tailscale/ZeroTier/fake-TCP/gVisor)"
+2026-11-18T16:42:32Z,bettbox-lite-compatible,1.19.8-1,0,"A cross-platform network traffic routing and DNS debugging tool, deeply built on the powerful Mihomo core. (Lite build: no EasyTier/Tailscale/ZeroTier/fake-TCP/gVisor; Build with GOAMD64=v1)"
+2026-11-18T16:42:44Z,bettbox-lite-compatible-bin,1.19.8-1,0,"A cross-platform network traffic routing and DNS debugging tool, deeply built on the powerful Mihomo core. (Lite build: no EasyTier/Tailscale/ZeroTier/fake-TCP/gVisor; Build with GOAMD64=v1)"
+2026-11-18T16:42:55Z,bettbox-lite-compatible-pre,1.19.8-1,0,"A cross-platform network traffic routing and DNS debugging tool, deeply built on the powerful Mihomo core. (Lite build: no EasyTier/Tailscale/ZeroTier/fake-TCP/gVisor; Build with GOAMD64=v1)"
+2026-11-18T16:43:07Z,bettbox-lite-compatible-pre-bin,1.19.8-1,0,"A cross-platform network traffic routing and DNS debugging tool, deeply built on the powerful Mihomo core. (Lite build: no EasyTier/Tailscale/ZeroTier/fake-TCP/gVisor; Build with GOAMD64=v1)"
+2026-11-18T16:43:20Z,bettbox-lite-pre,1.19.8-1,0,"A cross-platform network traffic routing and DNS debugging tool, deeply built on the powerful Mihomo core. (Lite build: no EasyTier/Tailscale/ZeroTier/fake-TCP/gVisor)"
+2026-11-18T16:43:32Z,bettbox-lite-pre-bin,1.19.8-1,0,"A cross-platform network traffic routing and DNS debugging tool, deeply built on the powerful Mihomo core. (Lite build: no EasyTier/Tailscale/ZeroTier/fake-TCP/gVisor)"
+2026-11-18T16:46:42Z,orgamnesia-bin,1.7.0-1,0,Lightweight Obsidian: second brain and personal wiki in Rust. Markdown and/or Emacs Org-mode notes. (prebuilt)
+2026-11-18T17:02:58Z,delta-backup,0.1.0-1,0,"Time travel for your files in GNOME, with BorgBackup"
+2026-11-18T17:03:49Z,hunspell-pt_pt-git,r19.20251023-1,0,"Portuguese (European, post-orthographic agreement) hunspell dictionaries"
+2026-11-18T17:05:34Z,hyphen-pt_pt-git,r1.20121016-1,0,Portuguese (European) hyphenation rules
+2026-11-18T17:05:42Z,mythes-pt_pt-git,r1.20201029-1,0,Portuguese (European) thesaurus
+2026-11-18T17:08:58Z,presenton-bin,0.9.12_beta-1,0,Open-source AI presentation generator
+2026-11-18T17:10:01Z,t3-code-cli-bin,0.1.10-2,0,Self-contained T3 Code server and command-line interface
