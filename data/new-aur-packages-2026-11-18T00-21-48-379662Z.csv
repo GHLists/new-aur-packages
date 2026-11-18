@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-17T23:24:51Z,b580-watt-freq,1.1-2,1,"Sets Intel Arc B580 power limit and frequency without LACT, with frequency step detection and no daemon"
+2026-11-18T00:18:37Z,epixnet-git,0.6.8.r6.gd238137-1,0,"Decentralized peer-to-peer web platform (node, browser launcher, and EVX worker)"

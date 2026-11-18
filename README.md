@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 23:20 UTC
+## Latest list — 2026-11-18 00:21 UTC
 
-New packages created between 2026-11-17 22:22 UTC and 2026-11-17 23:20 UTC.
+New packages created between 2026-11-17 23:20 UTC and 2026-11-18 00:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-17T23-20-07-18253Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-18T00-21-48-379662Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 22:34:46 | [openexpress-git](https://aur.archlinux.org/packages/openexpress-git) | 0.10.6.r71.g4b51aec… | 0 | Unofficial Linux app for Garmin watches and bike computers |
-| 2026-11-17 22:34:56 | [visicasts-bin](https://aur.archlinux.org/packages/visicasts-bin) | 0.1.0-1 | 0 | Native podcast player with a local library and offline listening |
-| 2026-11-17 23:11:40 | [bankperfect](https://aur.archlinux.org/packages/bankperfect) | 9.11.2-1 | 0 | Personal bank account manager: transactions, reconciliation, budgets and reports |
+| 2026-11-17 23:24:51 | [b580-watt-freq](https://aur.archlinux.org/packages/b580-watt-freq) | 1.1-2 | 1 | Sets Intel Arc B580 power limit and frequency without LACT, with frequency step… |
+| 2026-11-18 00:18:37 | [epixnet-git](https://aur.archlinux.org/packages/epixnet-git) | 0.6.8.r6.gd238137-1 | 0 | Decentralized peer-to-peer web platform (node, browser launcher, and EVX worker) |
 
 ## Data source
 
