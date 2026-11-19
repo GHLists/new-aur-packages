@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-19T08:00:53Z,python-pytcp,3.0.8-1,0,The TCP/IP stack written in Python
+2026-11-19T08:00:53Z,python-pmd-net-addr,3.0.8-1,0,"An alternative to Python's standard-library ipaddress module — originally built for the PyTCP stack, fully usable on its own"
+2026-11-19T08:00:53Z,python-pmd-net-proto,3.0.8-1,0,The network-protocol packet parse/assemble layer of the PyTCP stack — Ethernet through TCP/UDP — fully usable on its own
+2026-11-19T08:00:53Z,python-pmd-pytcp,3.0.8-1,0,"Pure-Python, zero-dependency TCP/IP stack — Ethernet through RFC 9293 TCP — running in user space on a TAP/TUN interface as a daemon (the supported mode), with a Berkeley-sockets API and a 1:1 stdlib-socket drop-in"

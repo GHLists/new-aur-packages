@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 07:21 UTC
+## Latest list — 2026-11-19 08:19 UTC
 
-New packages created between 2026-11-19 06:18 UTC and 2026-11-19 07:21 UTC.
+New packages created between 2026-11-19 07:21 UTC and 2026-11-19 08:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T07-21-59-488183Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T08-19-26-728343Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 06:36:31 | [siar-bin](https://aur.archlinux.org/packages/siar-bin) | 0.1.0_alpha.1-2 | 0 | Survivable Identity & Autonomous Routing: decentralized, offline-first messagin… |
-| 2026-11-19 06:37:02 | [siar-git](https://aur.archlinux.org/packages/siar-git) | 0.1.0.r2639.g6353eb… | 0 | Survivable Identity & Autonomous Routing: decentralized, offline-first messagin… |
-| 2026-11-19 07:05:08 | [rustzip-bin](https://aur.archlinux.org/packages/rustzip-bin) | 0.1.7-1 | 0 | Fast, cross-platform archive manager written in Rust (prebuilt x86_64 build for… |
+| 2026-11-19 08:00:53 | [python-pytcp](https://aur.archlinux.org/packages/python-pytcp) | 3.0.8-1 | 0 | The TCP/IP stack written in Python |
+| 2026-11-19 08:00:53 | [python-pmd-net-addr](https://aur.archlinux.org/packages/python-pmd-net-addr) | 3.0.8-1 | 0 | An alternative to Python's standard-library ipaddress module — originally built… |
+| 2026-11-19 08:00:53 | [python-pmd-net-proto](https://aur.archlinux.org/packages/python-pmd-net-proto) | 3.0.8-1 | 0 | The network-protocol packet parse/assemble layer of the PyTCP stack — Ethernet… |
+| 2026-11-19 08:00:53 | [python-pmd-pytcp](https://aur.archlinux.org/packages/python-pmd-pytcp) | 3.0.8-1 | 0 | Pure-Python, zero-dependency TCP/IP stack — Ethernet through RFC 9293 TCP — run… |
 
 ## Data source
 
