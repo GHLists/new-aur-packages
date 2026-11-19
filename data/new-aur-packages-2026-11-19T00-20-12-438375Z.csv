@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-18T23:26:17Z,360-media-viewer-bin,3.9.0-1,0,"Interactive 360° photo and video viewer for Linux, built with Electron and React."
+2026-11-18T23:49:08Z,videoduplicatefinder,4.1.1-1,0,Video Duplicate Finder is a cross-platform software to find duplicated video (and image) files on hard disk based on similiarity
+2026-11-18T23:49:08Z,videoduplicatefinder-cli,4.1.1-1,0,Video Duplicate Finder is a cross-platform software to find duplicated video (and image) files on hard disk based on similiarity (CLI)
+2026-11-18T23:49:08Z,videoduplicatefinder-webui,4.1.1-1,0,Video Duplicate Finder is a cross-platform software to find duplicated video (and image) files on hard disk based on similiarity (WebUI)
+2026-11-19T00:03:05Z,xdg-desktop-portal-gtk4-bin,1.6.6-1,0,GTK4 backend for xdg-desktop-portal (prebuilt release binary)
+2026-11-19T00:06:07Z,horcom-git,0.89.r0.gde999ad-1,0,Complete desktop astrology program and chart calculator (C++ rewrite of Robert Rettig's HORCOM)
+2026-11-19T00:16:42Z,xdg-desktop-portal-gtk4-printfix-bin,,,GTK4 backend for xdg-desktop-portal with Print portal fixes (prebuilt)
