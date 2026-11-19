@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-19T21:30:11Z,treg-bin,1.2.4-1,1,Find the tool you installed and what it does
+2026-11-19T21:31:51Z,synergy4-dragon-beta-bin,4.0.0-1,0,Synergy 4 Dragon Beta shares one keyboard and mouse across computers.
+2026-11-19T21:36:28Z,mcp-searxng,2.4.0-1,0,MCP server that gives AI assistants web search and page reading through a SearXNG instance
+2026-11-19T21:39:41Z,whiplash,0.3.0-1,0,Xmonad-style Wayland compositor with a Haskell brain and a TOML config
+2026-11-19T21:45:16Z,llama-websearch,0.1.0-1,0,Local llama.cpp chat that searches the web through your own SearXNG (llama-server web UI + MCP)
+2026-11-19T21:47:01Z,testsweeper,2025.05.28-1,0,C++ testing framework for parameter sweeps
+2026-11-19T22:06:42Z,termoso,0.12.1-1,0,"Free, open-source, zero-knowledge SSH/SFTP client & sync server."
+2026-11-19T22:13:03Z,zcalld-compat,0.1.0-1,0,Optional privacy worker and community plugin compatibility for zcalld
+2026-11-19T22:17:37Z,blaspp,,,C++ API for the Basic Linear Algebra Subroutines
