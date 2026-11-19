@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-19T13:46:34Z,ntsync-iocp-dkms-git,r272.g58b5ef5-1,0,Salkim ntsync kernel module with IOCP support (DKMS)
+2026-11-19T13:49:18Z,nogon-bin,0.22.0-1,1,"Web history on steroids - blazing fast, content-based search for visited websites"
+2026-11-19T13:58:01Z,ruby-qt6-qtcore,6.3.1-1,0,Ruby Bindings for Qt Core.
+2026-11-19T14:00:24Z,u3logicanalyzer-git,0.2.0.0.r2.g41b2564…,0,Sigrok/PulseView based acquisition software for the WeAct Studio CH32H417 logic analyzer
+2026-11-19T14:06:05Z,ruby-qt6-qtgui,6.3.1-1,0,Ruby Bindings for Qt Gui.
+2026-11-19T14:12:57Z,ruby-qt6-qtwidgets,6.3.0-1,0,Ruby Bindings for Qt Widgets.
