@@ -1,0 +1,11 @@
+created_at,package,version,votes,description
+2026-11-19T16:22:39Z,ruby-qt6-qtuitools,6.3.0-1,0,Ruby Bindings for Qt UI Tools.
+2026-11-19T16:25:36Z,ruby-qt6-qtwebview,6.3.0-1,0,Ruby Bindings for Qt WebView.
+2026-11-19T16:34:50Z,ruby-pass-qt,2.1.2-1,0,A simple GUI for pass on Linux.
+2026-11-19T16:39:32Z,stm32cubemx2-electron,1.2.0-2,0,STM32CubeMX2 - new flavor of STM32CubeMX tool. Run with system electron
+2026-11-19T16:42:36Z,ruby-clash-systray,2.0.0-1,0,A simple system tray for Clash on Linux.
+2026-11-19T16:53:11Z,deepbump,8-1,0,"Generate normal, height and curvature maps from single pictures with ML (DeepBump CLI)"
+2026-11-19T16:53:13Z,hakoniwa-bin,1.8.1-3,0,"Process isolation for Linux using namespaces, resource limits, cgroups, landlock and seccomp."
+2026-11-19T16:55:36Z,aether-rescue-git,1.0.0.r17.gb5a046d-1,0,"Initramfs rescue shell toolbox: PID 1 init flow + BusyBox-style rescue applets (pure C, static nolibc)"
+2026-11-19T16:55:50Z,aether-rescue-bin,1.0.0-1,0,Initramfs rescue shell toolbox: PID 1 init flow + BusyBox-style rescue applets (prebuilt static nolibc binary)
+2026-11-19T17:15:53Z,strom,,,Visual GStreamer pipeline editor and media pipeline engine

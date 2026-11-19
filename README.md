@@ -12,26 +12,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 16:22 UTC
+## Latest list — 2026-11-19 17:19 UTC
 
-New packages created between 2026-11-19 15:21 UTC and 2026-11-19 16:22 UTC.
+New packages created between 2026-11-19 16:22 UTC and 2026-11-19 17:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T16-22-03-974479Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T17-19-05-728003Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 15:24:15 | [livewdf-git](https://aur.archlinux.org/packages/livewdf-git) | r51.g708b507-1 | 0 | Real-time analog audio circuit simulator with a schematic editor and VST3 plugin |
-| 2026-11-19 15:47:41 | [ruby-qt6-qtdbus](https://aur.archlinux.org/packages/ruby-qt6-qtdbus) | 6.3.0-1 | 0 | Ruby Bindings for Qt D-Bus. |
-| 2026-11-19 15:48:40 | [git-credential-manager-linux](https://aur.archlinux.org/packages/git-credential-manager-linux) | 3.0.2-1 | 0 | Git Credential Manager rewritten in C++/Qt for Linux (no .NET runtime needed) |
-| 2026-11-19 15:51:18 | [ruby-qt6-qtmultimedia](https://aur.archlinux.org/packages/ruby-qt6-qtmultimedia) | 6.3.0-1 | 0 | Ruby Bindings for Qt Multimedia. |
-| 2026-11-19 15:56:34 | [ruby-qt6-qtmultimediawidgets](https://aur.archlinux.org/packages/ruby-qt6-qtmultimediawidgets) | 6.3.0-1 | 0 | Ruby Bindings for Qt Multimedia Widgets. |
-| 2026-11-19 15:59:55 | [ruby-qt6-qtprintsupport](https://aur.archlinux.org/packages/ruby-qt6-qtprintsupport) | 6.3.0-1 | 0 | Ruby Bindings for Qt Print Support. |
-| 2026-11-19 16:02:39 | [cerastilo](https://aur.archlinux.org/packages/cerastilo) | 0.1.0-1 | 0 | Scheduler for the Life and Ministry meeting: assignments, letters, export (PySi… |
-| 2026-11-19 16:07:39 | [ruby-qt6-qtqml](https://aur.archlinux.org/packages/ruby-qt6-qtqml) | 6.3.0-1 | 0 | Ruby Bindings for Qt Qml. |
-| 2026-11-19 16:10:09 | [ruby-qt6-qtquick](https://aur.archlinux.org/packages/ruby-qt6-qtquick) | 6.3.0-1 | 0 | Ruby Bindings for Qt Quick. |
-| 2026-11-19 16:12:33 | [ruby-qt6-qtquickcontrols2](https://aur.archlinux.org/packages/ruby-qt6-qtquickcontrols2) | 6.3.0-1 | 0 | Ruby Bindings for Qt Quick Controls. |
-| 2026-11-19 16:15:15 | [ruby-qt6-qtquickwidgets](https://aur.archlinux.org/packages/ruby-qt6-qtquickwidgets) | 6.3.0-1 | 0 | Ruby Bindings for Qt Quick Widgets. |
-| 2026-11-19 16:19:07 | [ruby-qt6-qttest](https://aur.archlinux.org/packages/ruby-qt6-qttest) | 6.3.0-1 | 0 | Ruby Bindings for Qt Test. |
+| 2026-11-19 16:22:39 | [ruby-qt6-qtuitools](https://aur.archlinux.org/packages/ruby-qt6-qtuitools) | 6.3.0-1 | 0 | Ruby Bindings for Qt UI Tools. |
+| 2026-11-19 16:25:36 | [ruby-qt6-qtwebview](https://aur.archlinux.org/packages/ruby-qt6-qtwebview) | 6.3.0-1 | 0 | Ruby Bindings for Qt WebView. |
+| 2026-11-19 16:34:50 | [ruby-pass-qt](https://aur.archlinux.org/packages/ruby-pass-qt) | 2.1.2-1 | 0 | A simple GUI for pass on Linux. |
+| 2026-11-19 16:39:32 | [stm32cubemx2-electron](https://aur.archlinux.org/packages/stm32cubemx2-electron) | 1.2.0-2 | 0 | STM32CubeMX2 - new flavor of STM32CubeMX tool. Run with system electron |
+| 2026-11-19 16:42:36 | [ruby-clash-systray](https://aur.archlinux.org/packages/ruby-clash-systray) | 2.0.0-1 | 0 | A simple system tray for Clash on Linux. |
+| 2026-11-19 16:53:11 | [deepbump](https://aur.archlinux.org/packages/deepbump) | 8-1 | 0 | Generate normal, height and curvature maps from single pictures with ML (DeepBu… |
+| 2026-11-19 16:53:13 | [hakoniwa-bin](https://aur.archlinux.org/packages/hakoniwa-bin) | 1.8.1-3 | 0 | Process isolation for Linux using namespaces, resource limits, cgroups, landloc… |
+| 2026-11-19 16:55:36 | [aether-rescue-git](https://aur.archlinux.org/packages/aether-rescue-git) | 1.0.0.r17.gb5a046d-1 | 0 | Initramfs rescue shell toolbox: PID 1 init flow + BusyBox-style rescue applets… |
+| 2026-11-19 16:55:50 | [aether-rescue-bin](https://aur.archlinux.org/packages/aether-rescue-bin) | 1.0.0-1 | 0 | Initramfs rescue shell toolbox: PID 1 init flow + BusyBox-style rescue applets… |
+| 2026-11-19 17:15:53 | [strom](https://aur.archlinux.org/packages/strom) |  |  | Visual GStreamer pipeline editor and media pipeline engine |
 
 ## Data source
 
