@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 01:20 UTC
+## Latest list — 2026-11-19 02:19 UTC
 
-New packages created between 2026-11-19 00:20 UTC and 2026-11-19 01:20 UTC.
+New packages created between 2026-11-19 01:20 UTC and 2026-11-19 02:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T01-20-25-35702Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T02-19-33-287101Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 00:39:53 | [windfall](https://aur.archlinux.org/packages/windfall) | 0.2.0-1 | 0 | Weather overlay for Hyprland: snow, leaves, petals and rain fall and pile up, f… |
-| 2026-11-19 00:57:28 | [zonvie-bin](https://aur.archlinux.org/packages/zonvie-bin) | 0.4.4-1 | 1 | 🧟 Zonvie is a Fast, feature-rich Neovim GUI |
-| 2026-11-19 01:06:13 | [venti-bin](https://aur.archlinux.org/packages/venti-bin) | 0.1.0-1 | 1 | Fast, quiet terminal multiplexer for linux |
+| 2026-11-19 01:30:10 | [ryzen_smu_vermeer_phoenix-git](https://aur.archlinux.org/packages/ryzen_smu_vermeer_phoenix-git) | 0.2.1.r215.g6e05994… | 0 | AMD Ryzen SMU driver (DKMS) with a PM table monitor for Vermeer and Phoenix |
+| 2026-11-19 01:46:40 | [omnistore-bin-beta](https://aur.archlinux.org/packages/omnistore-bin-beta) | 0.1.5beta2-1 | 0 | OmniStore software manager for MeoArch (Beta channel) |
 
 ## Data source
 
