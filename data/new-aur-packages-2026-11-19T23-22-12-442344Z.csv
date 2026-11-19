@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-19T22:35:54Z,hum-bin,0.1.0-1,0,Terminal Spotify client
+2026-11-19T23:00:18Z,zfetch-project-z,0.1.0-1,0,"A tiny native Linux system summary from Project Z, without runtime dependencies"
+2026-11-19T23:00:31Z,zfetch-project-z-bin,0.1.0-1,0,A tiny native Linux system summary from Project Z (official static binary)
