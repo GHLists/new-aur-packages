@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 09:21 UTC
+## Latest list — 2026-11-19 10:22 UTC
 
-New packages created between 2026-11-19 08:19 UTC and 2026-11-19 09:21 UTC.
+New packages created between 2026-11-19 09:21 UTC and 2026-11-19 10:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T09-21-27-039531Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T10-22-11-450192Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 08:21:16 | [amiwm-git](https://aur.archlinux.org/packages/amiwm-git) | 0.22pl2+github-1 | 0 | Actively updated fork of amiwm |
-| 2026-11-19 08:21:28 | [godwit-bin](https://aur.archlinux.org/packages/godwit-bin) | 1.39.3-1 | 0 | AI-native desktop email client with local privacy masking (prebuilt binary) |
-| 2026-11-19 08:29:25 | [pebrel-bin](https://aur.archlinux.org/packages/pebrel-bin) | 2.5.9-1 | 0 | GPU-accelerated terminal emulator with SSH and AI CLI integration (Linux Previe… |
+| 2026-11-19 09:27:50 | [multilogin-bin](https://aur.archlinux.org/packages/multilogin-bin) | 12.18.0-1 | 0 | Desktop app for the Multilogin antidetect browser |
+| 2026-11-19 09:55:29 | [newshow-git](https://aur.archlinux.org/packages/newshow-git) | 0.1.0.r5.g626cccc-1 | 0 | High-performance terminal video player in Rust (pure ANSI/Unicode output) |
+| 2026-11-19 10:02:47 | [mriya-wm](https://aur.archlinux.org/packages/mriya-wm) | 0.1.0-1 | 0 | Stacking Wayland window manager with xfwm4 window decorations |
+| 2026-11-19 10:03:57 | [mihomo-party-ghproxy-git](https://aur.archlinux.org/packages/mihomo-party-ghproxy-git) | 2.0.4.r32.ge837463-1 | 0 | Clash Party (formerly Mihomo Party), built from Git with automatic GitHub downl… |
 
 ## Data source
 
