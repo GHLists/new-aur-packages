@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-19T12:21:25Z,rust-anything,2.0.0-1,0,Incrementally port applications to Rust and verify them against recorded behavior
+2026-11-19T12:22:16Z,baidupcs-rust-bin,2.4.1-1,0,Modern Baidu Netdisk client with a Rust backend and Vue 3 web UI (prebuilt)
+2026-11-19T12:42:53Z,rarc,0.1.0-1,1,"Lightweight, modern GTK4 archive manager"

@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 12:21 UTC
+## Latest list — 2026-11-19 13:21 UTC
 
-New packages created between 2026-11-19 11:19 UTC and 2026-11-19 12:21 UTC.
+New packages created between 2026-11-19 12:21 UTC and 2026-11-19 13:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T12-21-13-693373Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T13-21-18-417363Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 11:42:40 | [rust-anything-bin](https://aur.archlinux.org/packages/rust-anything-bin) | 2.0.0-1 | 0 | Incrementally port applications to Rust and verify them against recorded behavi… |
-| 2026-11-19 12:07:28 | [binger-bin](https://aur.archlinux.org/packages/binger-bin) | 0.1.0-1 | 0 | Keyboard-driven pointer selection for wlroots Wayland compositors |
-| 2026-11-19 12:14:43 | [label-studio](https://aur.archlinux.org/packages/label-studio) | 1.23.2-1 | 0 | Multi-type data labeling and annotation tool (installed from PyPI into a privat… |
+| 2026-11-19 12:21:25 | [rust-anything](https://aur.archlinux.org/packages/rust-anything) | 2.0.0-1 | 0 | Incrementally port applications to Rust and verify them against recorded behavi… |
+| 2026-11-19 12:22:16 | [baidupcs-rust-bin](https://aur.archlinux.org/packages/baidupcs-rust-bin) | 2.4.1-1 | 0 | Modern Baidu Netdisk client with a Rust backend and Vue 3 web UI (prebuilt) |
+| 2026-11-19 12:42:53 | [rarc](https://aur.archlinux.org/packages/rarc) | 0.1.0-1 | 1 | Lightweight, modern GTK4 archive manager |
 
 ## Data source
 
