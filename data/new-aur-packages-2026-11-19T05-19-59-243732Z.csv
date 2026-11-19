@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-19T04:33:36Z,darkubectl,0.15.0-1,0,kubectl-like access to the Hamravesh Darkube platform
+2026-11-19T04:33:43Z,darkubectl-git,0.15.0.r1.gce3c4cc-1,0,kubectl-like access to the Hamravesh Darkube platform (development version)
+2026-11-19T04:41:51Z,linger-bin,0.1.3-1,0,"Personal AI agent that runs a local model on your own machine, turning mail, chats and meetings into shared memory"
+2026-11-19T04:49:03Z,alphabat-git,r17.9a9559f-1,0,Battery status for HyperX Cloud Alpha Wireless headsets
+2026-11-19T05:04:47Z,finch-bin,1.8.1-1,0,"Finch: desktop client for the Finch agent platform, with cross-session memory, skills and mini tools"
+2026-11-19T05:16:23Z,universal-android-debloater-ng-bin,,,Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices

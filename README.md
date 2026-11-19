@@ -12,17 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 04:18 UTC
+## Latest list — 2026-11-19 05:19 UTC
 
-New packages created between 2026-11-19 03:20 UTC and 2026-11-19 04:18 UTC.
+New packages created between 2026-11-19 04:18 UTC and 2026-11-19 05:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T04-18-56-976543Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T05-19-59-243732Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 03:27:42 | [zeppbridge-git](https://aur.archlinux.org/packages/zeppbridge-git) | 3.2.0.r596.g6bf7b7f… | 0 | Local-first desktop companion for Amazfit and Zepp health data |
-| 2026-11-19 03:48:56 | [linux-rpi](https://aur.archlinux.org/packages/linux-rpi) | 1:4.1.17-4 | 0 |  |
-| 2026-11-19 03:48:56 | [linux-rpi-headers](https://aur.archlinux.org/packages/linux-rpi-headers) | 1:4.1.17-4 | 0 |  |
+| 2026-11-19 04:33:36 | [darkubectl](https://aur.archlinux.org/packages/darkubectl) | 0.15.0-1 | 0 | kubectl-like access to the Hamravesh Darkube platform |
+| 2026-11-19 04:33:43 | [darkubectl-git](https://aur.archlinux.org/packages/darkubectl-git) | 0.15.0.r1.gce3c4cc-1 | 0 | kubectl-like access to the Hamravesh Darkube platform (development version) |
+| 2026-11-19 04:41:51 | [linger-bin](https://aur.archlinux.org/packages/linger-bin) | 0.1.3-1 | 0 | Personal AI agent that runs a local model on your own machine, turning mail, ch… |
+| 2026-11-19 04:49:03 | [alphabat-git](https://aur.archlinux.org/packages/alphabat-git) | r17.9a9559f-1 | 0 | Battery status for HyperX Cloud Alpha Wireless headsets |
+| 2026-11-19 05:04:47 | [finch-bin](https://aur.archlinux.org/packages/finch-bin) | 1.8.1-1 | 0 | Finch: desktop client for the Finch agent platform, with cross-session memory,… |
+| 2026-11-19 05:16:23 | [universal-android-debloater-ng-bin](https://aur.archlinux.org/packages/universal-android-debloater-ng-bin) |  |  | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devi… |
 
 ## Data source
 
