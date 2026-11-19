@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-19T00:39:53Z,windfall,0.2.0-1,0,"Weather overlay for Hyprland: snow, leaves, petals and rain fall and pile up, flowers grow where they land (tray icon, GTK4 controller, pixel-art mode)"
+2026-11-19T00:57:28Z,zonvie-bin,0.4.4-1,1,"🧟 Zonvie is a Fast, feature-rich Neovim GUI"
+2026-11-19T01:06:13Z,venti-bin,0.1.0-1,1,"Fast, quiet terminal multiplexer for linux"

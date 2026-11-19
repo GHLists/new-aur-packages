@@ -12,21 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 00:20 UTC
+## Latest list — 2026-11-19 01:20 UTC
 
-New packages created between 2026-11-18 23:20 UTC and 2026-11-19 00:20 UTC.
+New packages created between 2026-11-19 00:20 UTC and 2026-11-19 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T00-20-12-438375Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T01-20-25-35702Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 23:26:17 | [360-media-viewer-bin](https://aur.archlinux.org/packages/360-media-viewer-bin) | 3.9.0-1 | 0 | Interactive 360° photo and video viewer for Linux, built with Electron and Reac… |
-| 2026-11-18 23:49:08 | [videoduplicatefinder](https://aur.archlinux.org/packages/videoduplicatefinder) | 4.1.1-1 | 0 | Video Duplicate Finder is a cross-platform software to find duplicated video (a… |
-| 2026-11-18 23:49:08 | [videoduplicatefinder-cli](https://aur.archlinux.org/packages/videoduplicatefinder-cli) | 4.1.1-1 | 0 | Video Duplicate Finder is a cross-platform software to find duplicated video (a… |
-| 2026-11-18 23:49:08 | [videoduplicatefinder-webui](https://aur.archlinux.org/packages/videoduplicatefinder-webui) | 4.1.1-1 | 0 | Video Duplicate Finder is a cross-platform software to find duplicated video (a… |
-| 2026-11-19 00:03:05 | [xdg-desktop-portal-gtk4-bin](https://aur.archlinux.org/packages/xdg-desktop-portal-gtk4-bin) | 1.6.6-1 | 0 | GTK4 backend for xdg-desktop-portal (prebuilt release binary) |
-| 2026-11-19 00:06:07 | [horcom-git](https://aur.archlinux.org/packages/horcom-git) | 0.89.r0.gde999ad-1 | 0 | Complete desktop astrology program and chart calculator (C++ rewrite of Robert… |
-| 2026-11-19 00:16:42 | [xdg-desktop-portal-gtk4-printfix-bin](https://aur.archlinux.org/packages/xdg-desktop-portal-gtk4-printfix-bin) |  |  | GTK4 backend for xdg-desktop-portal with Print portal fixes (prebuilt) |
+| 2026-11-19 00:39:53 | [windfall](https://aur.archlinux.org/packages/windfall) | 0.2.0-1 | 0 | Weather overlay for Hyprland: snow, leaves, petals and rain fall and pile up, f… |
+| 2026-11-19 00:57:28 | [zonvie-bin](https://aur.archlinux.org/packages/zonvie-bin) | 0.4.4-1 | 1 | 🧟 Zonvie is a Fast, feature-rich Neovim GUI |
+| 2026-11-19 01:06:13 | [venti-bin](https://aur.archlinux.org/packages/venti-bin) | 0.1.0-1 | 1 | Fast, quiet terminal multiplexer for linux |
 
 ## Data source
 
