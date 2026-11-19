@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 08:19 UTC
+## Latest list — 2026-11-19 09:21 UTC
 
-New packages created between 2026-11-19 07:21 UTC and 2026-11-19 08:19 UTC.
+New packages created between 2026-11-19 08:19 UTC and 2026-11-19 09:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T08-19-26-728343Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T09-21-27-039531Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 08:00:53 | [python-pytcp](https://aur.archlinux.org/packages/python-pytcp) | 3.0.8-1 | 0 | The TCP/IP stack written in Python |
-| 2026-11-19 08:00:53 | [python-pmd-net-addr](https://aur.archlinux.org/packages/python-pmd-net-addr) | 3.0.8-1 | 0 | An alternative to Python's standard-library ipaddress module — originally built… |
-| 2026-11-19 08:00:53 | [python-pmd-net-proto](https://aur.archlinux.org/packages/python-pmd-net-proto) | 3.0.8-1 | 0 | The network-protocol packet parse/assemble layer of the PyTCP stack — Ethernet… |
-| 2026-11-19 08:00:53 | [python-pmd-pytcp](https://aur.archlinux.org/packages/python-pmd-pytcp) | 3.0.8-1 | 0 | Pure-Python, zero-dependency TCP/IP stack — Ethernet through RFC 9293 TCP — run… |
+| 2026-11-19 08:21:16 | [amiwm-git](https://aur.archlinux.org/packages/amiwm-git) | 0.22pl2+github-1 | 0 | Actively updated fork of amiwm |
+| 2026-11-19 08:21:28 | [godwit-bin](https://aur.archlinux.org/packages/godwit-bin) | 1.39.3-1 | 0 | AI-native desktop email client with local privacy masking (prebuilt binary) |
+| 2026-11-19 08:29:25 | [pebrel-bin](https://aur.archlinux.org/packages/pebrel-bin) | 2.5.9-1 | 0 | GPU-accelerated terminal emulator with SSH and AI CLI integration (Linux Previe… |
 
 ## Data source
 
