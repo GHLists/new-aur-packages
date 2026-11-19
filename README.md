@@ -12,18 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 10:22 UTC
+## Latest list — 2026-11-19 11:19 UTC
 
-New packages created between 2026-11-19 09:21 UTC and 2026-11-19 10:22 UTC.
+New packages created between 2026-11-19 10:22 UTC and 2026-11-19 11:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T10-22-11-450192Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T11-19-16-604391Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 09:27:50 | [multilogin-bin](https://aur.archlinux.org/packages/multilogin-bin) | 12.18.0-1 | 0 | Desktop app for the Multilogin antidetect browser |
-| 2026-11-19 09:55:29 | [newshow-git](https://aur.archlinux.org/packages/newshow-git) | 0.1.0.r5.g626cccc-1 | 0 | High-performance terminal video player in Rust (pure ANSI/Unicode output) |
-| 2026-11-19 10:02:47 | [mriya-wm](https://aur.archlinux.org/packages/mriya-wm) | 0.1.0-1 | 0 | Stacking Wayland window manager with xfwm4 window decorations |
-| 2026-11-19 10:03:57 | [mihomo-party-ghproxy-git](https://aur.archlinux.org/packages/mihomo-party-ghproxy-git) | 2.0.4.r32.ge837463-1 | 0 | Clash Party (formerly Mihomo Party), built from Git with automatic GitHub downl… |
+| 2026-11-19 10:37:24 | [capture-view-git](https://aur.archlinux.org/packages/capture-view-git) | 0.2.1.r5.g05368a3-1 | 0 | Native low-latency HDMI USB capture-card viewer for Linux |
+| 2026-11-19 10:54:30 | [dexsql-bin](https://aur.archlinux.org/packages/dexsql-bin) | 0.1.1-2 | 0 | SQL for Android apk and dex files |
+| 2026-11-19 11:02:42 | [puramai-bin](https://aur.archlinux.org/packages/puramai-bin) | 1.0.1-1 | 0 | Puramai desktop app (repackaged from the official .deb) |
+| 2026-11-19 11:13:13 | [pegsofur](https://aur.archlinux.org/packages/pegsofur) | 0.1.1-1 | 0 | Ancient city-states dice and wooden pegboard strategy game for 1-4 Human/AI pla… |
+| 2026-11-19 11:18:03 | [kilo-desktop-bin](https://aur.archlinux.org/packages/kilo-desktop-bin) |  |  | Kilo Desktop by Anaconda, an AI coding agent with local notebooks and plugins |
 
 ## Data source
 
