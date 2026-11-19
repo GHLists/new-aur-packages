@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-19T20:25:55Z,xpdf-qtify,3.04.git20260802-1,0,"xpdf 3 (the Motif PDF viewer, poppler based) built on Qt with Motif on Qt"
+2026-11-19T20:28:01Z,sylpheed-qtify,3.7.0-1,0,"Sylpheed, the GTK 2 mail client, built on Qt with GTK made Qt"
+2026-11-19T20:41:36Z,butterflypack,5.0.0-1,0,Mathematical software for rapidly solving large-scale dense linear systems with butterfly and low-rank compression
