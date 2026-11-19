@@ -1,0 +1,12 @@
+created_at,package,version,votes,description
+2026-11-19T14:26:45Z,ruby-qt6-qtnetwork,6.3.0-1,0,Ruby Bindings for Qt Network.
+2026-11-19T14:36:28Z,ruby-qt6-qtwebenginecore,6.3.0-1,0,Ruby Bindings for Qt WebEngine Core.
+2026-11-19T14:45:07Z,nefervox-bin,0.1.0-1,0,"Push-to-talk dictation for Wayland: speak, then the transcript is typed into the focused window"
+2026-11-19T14:45:23Z,nefervox-git,0.1.0.r0.g893bcd8-1,0,"Push-to-talk dictation for Wayland: speak, then the transcript is typed into the focused window (git version)"
+2026-11-19T14:46:03Z,ruby-qt6-qtwebenginewidgets,6.3.0-1,0,Ruby Bindings for Qt WebEngine Widgets.
+2026-11-19T14:46:14Z,pamac-fix,0.1.0-1,0,"Pamac-Fix development preview: integrated libpamac, CLI, GTK manager and tray"
+2026-11-19T14:53:19Z,nullspace,1.0.1-1,0,"Tasks, notes, screen captures and voice notes from one key, with Squelch dictation"
+2026-11-19T14:53:29Z,screen-relay,0.1.2-1,0,"Stream a desktop to a browser, and drive it from a CLI, an HTTP API, or a Node SDK"
+2026-11-19T14:59:26Z,amp-player,0.1-1,0,A Music Player
+2026-11-19T15:03:53Z,clang-format-all,23.1.5-1,0,All clang-format versions (3.9 to 23) installed side by side as clang-format-N
+2026-11-19T15:10:11Z,netpop,0.2.0-1,0,"GTK4 NetworkManager popup, connection editor and secret agent (replaces nm-applet / nm-connection-editor)"

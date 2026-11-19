@@ -12,20 +12,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 14:20 UTC
+## Latest list — 2026-11-19 15:21 UTC
 
-New packages created between 2026-11-19 13:21 UTC and 2026-11-19 14:20 UTC.
+New packages created between 2026-11-19 14:20 UTC and 2026-11-19 15:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T14-20-54-636313Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T15-21-15-613047Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 13:46:34 | [ntsync-iocp-dkms-git](https://aur.archlinux.org/packages/ntsync-iocp-dkms-git) | r272.g58b5ef5-1 | 0 | Salkim ntsync kernel module with IOCP support (DKMS) |
-| 2026-11-19 13:49:18 | [nogon-bin](https://aur.archlinux.org/packages/nogon-bin) | 0.22.0-1 | 1 | Web history on steroids - blazing fast, content-based search for visited websit… |
-| 2026-11-19 13:58:01 | [ruby-qt6-qtcore](https://aur.archlinux.org/packages/ruby-qt6-qtcore) | 6.3.1-1 | 0 | Ruby Bindings for Qt Core. |
-| 2026-11-19 14:00:24 | [u3logicanalyzer-git](https://aur.archlinux.org/packages/u3logicanalyzer-git) | 0.2.0.0.r2.g41b2564… | 0 | Sigrok/PulseView based acquisition software for the WeAct Studio CH32H417 logic… |
-| 2026-11-19 14:06:05 | [ruby-qt6-qtgui](https://aur.archlinux.org/packages/ruby-qt6-qtgui) | 6.3.1-1 | 0 | Ruby Bindings for Qt Gui. |
-| 2026-11-19 14:12:57 | [ruby-qt6-qtwidgets](https://aur.archlinux.org/packages/ruby-qt6-qtwidgets) | 6.3.0-1 | 0 | Ruby Bindings for Qt Widgets. |
+| 2026-11-19 14:26:45 | [ruby-qt6-qtnetwork](https://aur.archlinux.org/packages/ruby-qt6-qtnetwork) | 6.3.0-1 | 0 | Ruby Bindings for Qt Network. |
+| 2026-11-19 14:36:28 | [ruby-qt6-qtwebenginecore](https://aur.archlinux.org/packages/ruby-qt6-qtwebenginecore) | 6.3.0-1 | 0 | Ruby Bindings for Qt WebEngine Core. |
+| 2026-11-19 14:45:07 | [nefervox-bin](https://aur.archlinux.org/packages/nefervox-bin) | 0.1.0-1 | 0 | Push-to-talk dictation for Wayland: speak, then the transcript is typed into th… |
+| 2026-11-19 14:45:23 | [nefervox-git](https://aur.archlinux.org/packages/nefervox-git) | 0.1.0.r0.g893bcd8-1 | 0 | Push-to-talk dictation for Wayland: speak, then the transcript is typed into th… |
+| 2026-11-19 14:46:03 | [ruby-qt6-qtwebenginewidgets](https://aur.archlinux.org/packages/ruby-qt6-qtwebenginewidgets) | 6.3.0-1 | 0 | Ruby Bindings for Qt WebEngine Widgets. |
+| 2026-11-19 14:46:14 | [pamac-fix](https://aur.archlinux.org/packages/pamac-fix) | 0.1.0-1 | 0 | Pamac-Fix development preview: integrated libpamac, CLI, GTK manager and tray |
+| 2026-11-19 14:53:19 | [nullspace](https://aur.archlinux.org/packages/nullspace) | 1.0.1-1 | 0 | Tasks, notes, screen captures and voice notes from one key, with Squelch dictat… |
+| 2026-11-19 14:53:29 | [screen-relay](https://aur.archlinux.org/packages/screen-relay) | 0.1.2-1 | 0 | Stream a desktop to a browser, and drive it from a CLI, an HTTP API, or a Node… |
+| 2026-11-19 14:59:26 | [amp-player](https://aur.archlinux.org/packages/amp-player) | 0.1-1 | 0 | A Music Player |
+| 2026-11-19 15:03:53 | [clang-format-all](https://aur.archlinux.org/packages/clang-format-all) | 23.1.5-1 | 0 | All clang-format versions (3.9 to 23) installed side by side as clang-format-N |
+| 2026-11-19 15:10:11 | [netpop](https://aur.archlinux.org/packages/netpop) | 0.2.0-1 | 0 | GTK4 NetworkManager popup, connection editor and secret agent (replaces nm-appl… |
 
 ## Data source
 
