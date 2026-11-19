@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 06:18 UTC
+## Latest list — 2026-11-19 07:21 UTC
 
-New packages created between 2026-11-19 05:19 UTC and 2026-11-19 06:18 UTC.
+New packages created between 2026-11-19 06:18 UTC and 2026-11-19 07:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T06-18-58-210745Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T07-21-59-488183Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 05:33:34 | [gitea-cli-bin](https://aur.archlinux.org/packages/gitea-cli-bin) | 2.0.0-1 | 0 | The official CLI for Gitea: manage repositories, issues, pull requests, release… |
-| 2026-11-19 05:38:15 | [kander-bin](https://aur.archlinux.org/packages/kander-bin) | 1.4.5-1 | 0 | Kanban board for coordinating multiple AI coding agents, with isolated git work… |
-| 2026-11-19 05:54:34 | [ngit](https://aur.archlinux.org/packages/ngit) | 3.1.0-1 | 0 | cli and git plugin for code collaboration over nostr |
+| 2026-11-19 06:36:31 | [siar-bin](https://aur.archlinux.org/packages/siar-bin) | 0.1.0_alpha.1-2 | 0 | Survivable Identity & Autonomous Routing: decentralized, offline-first messagin… |
+| 2026-11-19 06:37:02 | [siar-git](https://aur.archlinux.org/packages/siar-git) | 0.1.0.r2639.g6353eb… | 0 | Survivable Identity & Autonomous Routing: decentralized, offline-first messagin… |
+| 2026-11-19 07:05:08 | [rustzip-bin](https://aur.archlinux.org/packages/rustzip-bin) | 0.1.7-1 | 0 | Fast, cross-platform archive manager written in Rust (prebuilt x86_64 build for… |
 
 ## Data source
 
