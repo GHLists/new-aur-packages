@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-19T02:23:29Z,parula-bin,0.9.42-1,0,"New full-featured desktop email, chat and video conference client."
+2026-11-19T02:30:52Z,parula,0.9.42-1,0,"New full-featured desktop email, chat and video conference client."
+2026-11-19T02:35:30Z,parula-git,0.9.42.r1.g234bdff-1,0,"New full-featured desktop email, chat and video conference client."
+2026-11-19T02:52:16Z,quosparr-bin,1.12.2-1,0,"Native desktop tray monitor for AI quotas, session usage and costs"
+2026-11-19T02:52:16Z,quosparr-git,1.12.2.r0.g9edda7b-1,0,"Native desktop tray monitor for AI quotas, session usage and costs"
+2026-11-19T02:57:23Z,creabim-bin,1.1.1-1,0,"Free, open-source BIM modeller: one model for 3D, plans, sections, elevations, sheets, schedules, quantities and IFC"
+2026-11-19T03:11:20Z,agent-access-bin,0.11.0-1,0,"Bitwarden Agent Access: give a remote agent or script credentials from your vault over an end-to-end encrypted tunnel, without exposing the rest of it"

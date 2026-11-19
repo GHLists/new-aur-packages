@@ -12,16 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 02:19 UTC
+## Latest list — 2026-11-19 03:20 UTC
 
-New packages created between 2026-11-19 01:20 UTC and 2026-11-19 02:19 UTC.
+New packages created between 2026-11-19 02:19 UTC and 2026-11-19 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T02-19-33-287101Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T03-20-57-361138Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 01:30:10 | [ryzen_smu_vermeer_phoenix-git](https://aur.archlinux.org/packages/ryzen_smu_vermeer_phoenix-git) | 0.2.1.r215.g6e05994… | 0 | AMD Ryzen SMU driver (DKMS) with a PM table monitor for Vermeer and Phoenix |
-| 2026-11-19 01:46:40 | [omnistore-bin-beta](https://aur.archlinux.org/packages/omnistore-bin-beta) | 0.1.5beta2-1 | 0 | OmniStore software manager for MeoArch (Beta channel) |
+| 2026-11-19 02:23:29 | [parula-bin](https://aur.archlinux.org/packages/parula-bin) | 0.9.42-1 | 0 | New full-featured desktop email, chat and video conference client. |
+| 2026-11-19 02:30:52 | [parula](https://aur.archlinux.org/packages/parula) | 0.9.42-1 | 0 | New full-featured desktop email, chat and video conference client. |
+| 2026-11-19 02:35:30 | [parula-git](https://aur.archlinux.org/packages/parula-git) | 0.9.42.r1.g234bdff-1 | 0 | New full-featured desktop email, chat and video conference client. |
+| 2026-11-19 02:52:16 | [quosparr-bin](https://aur.archlinux.org/packages/quosparr-bin) | 1.12.2-1 | 0 | Native desktop tray monitor for AI quotas, session usage and costs |
+| 2026-11-19 02:52:16 | [quosparr-git](https://aur.archlinux.org/packages/quosparr-git) | 1.12.2.r0.g9edda7b-1 | 0 | Native desktop tray monitor for AI quotas, session usage and costs |
+| 2026-11-19 02:57:23 | [creabim-bin](https://aur.archlinux.org/packages/creabim-bin) | 1.1.1-1 | 0 | Free, open-source BIM modeller: one model for 3D, plans, sections, elevations,… |
+| 2026-11-19 03:11:20 | [agent-access-bin](https://aur.archlinux.org/packages/agent-access-bin) | 0.11.0-1 | 0 | Bitwarden Agent Access: give a remote agent or script credentials from your vau… |
 
 ## Data source
 
