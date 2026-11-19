@@ -1,0 +1,13 @@
+created_at,package,version,votes,description
+2026-11-19T15:24:15Z,livewdf-git,r51.g708b507-1,0,Real-time analog audio circuit simulator with a schematic editor and VST3 plugin
+2026-11-19T15:47:41Z,ruby-qt6-qtdbus,6.3.0-1,0,Ruby Bindings for Qt D-Bus.
+2026-11-19T15:48:40Z,git-credential-manager-linux,3.0.2-1,0,Git Credential Manager rewritten in C++/Qt for Linux (no .NET runtime needed)
+2026-11-19T15:51:18Z,ruby-qt6-qtmultimedia,6.3.0-1,0,Ruby Bindings for Qt Multimedia.
+2026-11-19T15:56:34Z,ruby-qt6-qtmultimediawidgets,6.3.0-1,0,Ruby Bindings for Qt Multimedia Widgets.
+2026-11-19T15:59:55Z,ruby-qt6-qtprintsupport,6.3.0-1,0,Ruby Bindings for Qt Print Support.
+2026-11-19T16:02:39Z,cerastilo,0.1.0-1,0,"Scheduler for the Life and Ministry meeting: assignments, letters, export (PySide6)"
+2026-11-19T16:07:39Z,ruby-qt6-qtqml,6.3.0-1,0,Ruby Bindings for Qt Qml.
+2026-11-19T16:10:09Z,ruby-qt6-qtquick,6.3.0-1,0,Ruby Bindings for Qt Quick.
+2026-11-19T16:12:33Z,ruby-qt6-qtquickcontrols2,6.3.0-1,0,Ruby Bindings for Qt Quick Controls.
+2026-11-19T16:15:15Z,ruby-qt6-qtquickwidgets,6.3.0-1,0,Ruby Bindings for Qt Quick Widgets.
+2026-11-19T16:19:07Z,ruby-qt6-qttest,6.3.0-1,0,Ruby Bindings for Qt Test.

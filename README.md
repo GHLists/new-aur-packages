@@ -12,25 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 15:21 UTC
+## Latest list — 2026-11-19 16:22 UTC
 
-New packages created between 2026-11-19 14:20 UTC and 2026-11-19 15:21 UTC.
+New packages created between 2026-11-19 15:21 UTC and 2026-11-19 16:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T15-21-15-613047Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T16-22-03-974479Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 14:26:45 | [ruby-qt6-qtnetwork](https://aur.archlinux.org/packages/ruby-qt6-qtnetwork) | 6.3.0-1 | 0 | Ruby Bindings for Qt Network. |
-| 2026-11-19 14:36:28 | [ruby-qt6-qtwebenginecore](https://aur.archlinux.org/packages/ruby-qt6-qtwebenginecore) | 6.3.0-1 | 0 | Ruby Bindings for Qt WebEngine Core. |
-| 2026-11-19 14:45:07 | [nefervox-bin](https://aur.archlinux.org/packages/nefervox-bin) | 0.1.0-1 | 0 | Push-to-talk dictation for Wayland: speak, then the transcript is typed into th… |
-| 2026-11-19 14:45:23 | [nefervox-git](https://aur.archlinux.org/packages/nefervox-git) | 0.1.0.r0.g893bcd8-1 | 0 | Push-to-talk dictation for Wayland: speak, then the transcript is typed into th… |
-| 2026-11-19 14:46:03 | [ruby-qt6-qtwebenginewidgets](https://aur.archlinux.org/packages/ruby-qt6-qtwebenginewidgets) | 6.3.0-1 | 0 | Ruby Bindings for Qt WebEngine Widgets. |
-| 2026-11-19 14:46:14 | [pamac-fix](https://aur.archlinux.org/packages/pamac-fix) | 0.1.0-1 | 0 | Pamac-Fix development preview: integrated libpamac, CLI, GTK manager and tray |
-| 2026-11-19 14:53:19 | [nullspace](https://aur.archlinux.org/packages/nullspace) | 1.0.1-1 | 0 | Tasks, notes, screen captures and voice notes from one key, with Squelch dictat… |
-| 2026-11-19 14:53:29 | [screen-relay](https://aur.archlinux.org/packages/screen-relay) | 0.1.2-1 | 0 | Stream a desktop to a browser, and drive it from a CLI, an HTTP API, or a Node… |
-| 2026-11-19 14:59:26 | [amp-player](https://aur.archlinux.org/packages/amp-player) | 0.1-1 | 0 | A Music Player |
-| 2026-11-19 15:03:53 | [clang-format-all](https://aur.archlinux.org/packages/clang-format-all) | 23.1.5-1 | 0 | All clang-format versions (3.9 to 23) installed side by side as clang-format-N |
-| 2026-11-19 15:10:11 | [netpop](https://aur.archlinux.org/packages/netpop) | 0.2.0-1 | 0 | GTK4 NetworkManager popup, connection editor and secret agent (replaces nm-appl… |
+| 2026-11-19 15:24:15 | [livewdf-git](https://aur.archlinux.org/packages/livewdf-git) | r51.g708b507-1 | 0 | Real-time analog audio circuit simulator with a schematic editor and VST3 plugin |
+| 2026-11-19 15:47:41 | [ruby-qt6-qtdbus](https://aur.archlinux.org/packages/ruby-qt6-qtdbus) | 6.3.0-1 | 0 | Ruby Bindings for Qt D-Bus. |
+| 2026-11-19 15:48:40 | [git-credential-manager-linux](https://aur.archlinux.org/packages/git-credential-manager-linux) | 3.0.2-1 | 0 | Git Credential Manager rewritten in C++/Qt for Linux (no .NET runtime needed) |
+| 2026-11-19 15:51:18 | [ruby-qt6-qtmultimedia](https://aur.archlinux.org/packages/ruby-qt6-qtmultimedia) | 6.3.0-1 | 0 | Ruby Bindings for Qt Multimedia. |
+| 2026-11-19 15:56:34 | [ruby-qt6-qtmultimediawidgets](https://aur.archlinux.org/packages/ruby-qt6-qtmultimediawidgets) | 6.3.0-1 | 0 | Ruby Bindings for Qt Multimedia Widgets. |
+| 2026-11-19 15:59:55 | [ruby-qt6-qtprintsupport](https://aur.archlinux.org/packages/ruby-qt6-qtprintsupport) | 6.3.0-1 | 0 | Ruby Bindings for Qt Print Support. |
+| 2026-11-19 16:02:39 | [cerastilo](https://aur.archlinux.org/packages/cerastilo) | 0.1.0-1 | 0 | Scheduler for the Life and Ministry meeting: assignments, letters, export (PySi… |
+| 2026-11-19 16:07:39 | [ruby-qt6-qtqml](https://aur.archlinux.org/packages/ruby-qt6-qtqml) | 6.3.0-1 | 0 | Ruby Bindings for Qt Qml. |
+| 2026-11-19 16:10:09 | [ruby-qt6-qtquick](https://aur.archlinux.org/packages/ruby-qt6-qtquick) | 6.3.0-1 | 0 | Ruby Bindings for Qt Quick. |
+| 2026-11-19 16:12:33 | [ruby-qt6-qtquickcontrols2](https://aur.archlinux.org/packages/ruby-qt6-qtquickcontrols2) | 6.3.0-1 | 0 | Ruby Bindings for Qt Quick Controls. |
+| 2026-11-19 16:15:15 | [ruby-qt6-qtquickwidgets](https://aur.archlinux.org/packages/ruby-qt6-qtquickwidgets) | 6.3.0-1 | 0 | Ruby Bindings for Qt Quick Widgets. |
+| 2026-11-19 16:19:07 | [ruby-qt6-qttest](https://aur.archlinux.org/packages/ruby-qt6-qttest) | 6.3.0-1 | 0 | Ruby Bindings for Qt Test. |
 
 ## Data source
 
