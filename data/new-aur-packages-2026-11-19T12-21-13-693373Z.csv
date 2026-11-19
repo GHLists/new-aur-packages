@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-19T11:42:40Z,rust-anything-bin,2.0.0-1,0,Incrementally port applications to Rust and verify them against recorded behavior
+2026-11-19T12:07:28Z,binger-bin,0.1.0-1,0,Keyboard-driven pointer selection for wlroots Wayland compositors
+2026-11-19T12:14:43Z,label-studio,1.23.2-1,0,Multi-type data labeling and annotation tool (installed from PyPI into a private virtual environment)
