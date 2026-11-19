@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-19T05:33:34Z,gitea-cli-bin,2.0.0-1,0,"The official CLI for Gitea: manage repositories, issues, pull requests, releases and Actions from the command line"
+2026-11-19T05:38:15Z,kander-bin,1.4.5-1,0,"Kanban board for coordinating multiple AI coding agents, with isolated git worktrees and independent reviewer agents"
+2026-11-19T05:54:34Z,ngit,3.1.0-1,0,cli and git plugin for code collaboration over nostr
