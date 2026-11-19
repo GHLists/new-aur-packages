@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-19T18:24:10Z,butterflypack-rocm,5.0.0-1,1,Mathematical software for rapidly solving large-scale dense linear systems with butterfly and low-rank compression (with ROCm)
+2026-11-19T18:40:17Z,agy-switch-cli-bin,1.2.0-1,0,"Headless multi-account manager, quota inspector, and credential switcher for Antigravity CLI (agy)"
+2026-11-19T18:46:47Z,tea-dash,0.3.9-1,0,"Terminal dashboard for Gitea/Forgejo, in the spirit of gh-dash"
+2026-11-19T18:55:49Z,gvisor,20261116.0-1,0,Application kernel and OCI runtime (runsc) for sandboxed containers
+2026-11-19T19:16:44Z,go-cafe-app,1.2.18-1,0,Native Go client for Fox Weiqi

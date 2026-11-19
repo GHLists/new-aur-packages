@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 18:19 UTC
+## Latest list — 2026-11-19 19:22 UTC
 
-New packages created between 2026-11-19 17:19 UTC and 2026-11-19 18:19 UTC.
+New packages created between 2026-11-19 18:19 UTC and 2026-11-19 19:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T18-19-29-102229Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T19-22-35-911951Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 17:20:03 | [appzones](https://aur.archlinux.org/packages/appzones) | 0.8.1-1 | 0 | Long-lived sandboxes for desktop apps, dev tools and AI agents (bubblewrap, pas… |
-| 2026-11-19 17:33:35 | [tvpipe](https://aur.archlinux.org/packages/tvpipe) | 0.2.0-2 | 0 | Low-latency video and audio mirroring to AirPlay, Google Cast and browsers |
-| 2026-11-19 18:11:43 | [auren](https://aur.archlinux.org/packages/auren) | 0.1.6-1 | 0 | Voice assistant for Omarchy: say what you want, and it uses your desktop |
+| 2026-11-19 18:24:10 | [butterflypack-rocm](https://aur.archlinux.org/packages/butterflypack-rocm) | 5.0.0-1 | 1 | Mathematical software for rapidly solving large-scale dense linear systems with… |
+| 2026-11-19 18:40:17 | [agy-switch-cli-bin](https://aur.archlinux.org/packages/agy-switch-cli-bin) | 1.2.0-1 | 0 | Headless multi-account manager, quota inspector, and credential switcher for An… |
+| 2026-11-19 18:46:47 | [tea-dash](https://aur.archlinux.org/packages/tea-dash) | 0.3.9-1 | 0 | Terminal dashboard for Gitea/Forgejo, in the spirit of gh-dash |
+| 2026-11-19 18:55:49 | [gvisor](https://aur.archlinux.org/packages/gvisor) | 20261116.0-1 | 0 | Application kernel and OCI runtime (runsc) for sandboxed containers |
+| 2026-11-19 19:16:44 | [go-cafe-app](https://aur.archlinux.org/packages/go-cafe-app) | 1.2.18-1 | 0 | Native Go client for Fox Weiqi |
 
 ## Data source
 
