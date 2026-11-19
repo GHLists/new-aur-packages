@@ -12,19 +12,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 19:22 UTC
+## Latest list — 2026-11-19 20:22 UTC
 
-New packages created between 2026-11-19 18:19 UTC and 2026-11-19 19:22 UTC.
+New packages created between 2026-11-19 19:22 UTC and 2026-11-19 20:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T19-22-35-911951Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-19T20-22-22-61678Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 18:24:10 | [butterflypack-rocm](https://aur.archlinux.org/packages/butterflypack-rocm) | 5.0.0-1 | 1 | Mathematical software for rapidly solving large-scale dense linear systems with… |
-| 2026-11-19 18:40:17 | [agy-switch-cli-bin](https://aur.archlinux.org/packages/agy-switch-cli-bin) | 1.2.0-1 | 0 | Headless multi-account manager, quota inspector, and credential switcher for An… |
-| 2026-11-19 18:46:47 | [tea-dash](https://aur.archlinux.org/packages/tea-dash) | 0.3.9-1 | 0 | Terminal dashboard for Gitea/Forgejo, in the spirit of gh-dash |
-| 2026-11-19 18:55:49 | [gvisor](https://aur.archlinux.org/packages/gvisor) | 20261116.0-1 | 0 | Application kernel and OCI runtime (runsc) for sandboxed containers |
-| 2026-11-19 19:16:44 | [go-cafe-app](https://aur.archlinux.org/packages/go-cafe-app) | 1.2.18-1 | 0 | Native Go client for Fox Weiqi |
+| 2026-11-19 19:24:46 | [kraken-cli-bin](https://aur.archlinux.org/packages/kraken-cli-bin) | 0.5.1-1 | 0 | Kraken exchange CLI, interactive shell, and MCP server (upstream binaries) |
+| 2026-11-19 19:41:28 | [zcalld](https://aur.archlinux.org/packages/zcalld) | 0.1.1-1 | 0 | Compact Linux AI gateway built on zcall with native zplugin extensions |
+| 2026-11-19 19:41:36 | [zcalld-bin](https://aur.archlinux.org/packages/zcalld-bin) | 0.1.1-2 | 0 | Compact Linux AI gateway built on zcall with native zplugin extensions (binary) |
+| 2026-11-19 19:43:27 | [lua-cipher](https://aur.archlinux.org/packages/lua-cipher) | 0.0.1-1 | 0 | AES, RC4, ChaCha20 and DES ciphers for Lua strings and carrays (cipher.aes, cip… |
+| 2026-11-19 19:44:09 | [triforce-oot](https://aur.archlinux.org/packages/triforce-oot) | 0.5.2-1 | 0 | Triforce build tools |
+| 2026-11-19 19:44:50 | [lua-compress](https://aur.archlinux.org/packages/lua-compress) | 0.0.1-1 | 0 | zlib, brotli, lzma and bzip2 compression for Lua strings and carrays (compress.… |
+| 2026-11-19 19:46:38 | [lua-lpcre](https://aur.archlinux.org/packages/lua-lpcre) | 0.0.1-1 | 0 | PCRE2 regular expressions for Lua strings and carrays |
+| 2026-11-19 19:47:50 | [lua-carray](https://aur.archlinux.org/packages/lua-carray) | 0.0.5-1 | 0 | Arrays for primitive numeric C data types in Lua, shareable between C modules |
+| 2026-11-19 19:49:12 | [lua-digest](https://aur.archlinux.org/packages/lua-digest) | 0.0.1-1 | 0 | MD5, SHA-256/384/512 and HMAC for Lua (one-shot and streaming) |
+| 2026-11-19 19:51:25 | [kraken-cli](https://aur.archlinux.org/packages/kraken-cli) | 0.5.1-1 | 0 | Kraken exchange CLI, interactive shell, and MCP server |
+| 2026-11-19 20:04:29 | [llm-visuals-git](https://aur.archlinux.org/packages/llm-visuals-git) | 0.14.0.r12.gc8596a2… | 0 | Live truecolor terminal dashboard for a locally running LLM |
+| 2026-11-19 20:06:06 | [lexiftool-git](https://aur.archlinux.org/packages/lexiftool-git) | 0.r1.g0ae7802-1 | 0 | Lua port of ExifTool: read and write image metadata, command-line tool and C API |
+| 2026-11-19 20:09:51 | [llm-visuals](https://aur.archlinux.org/packages/llm-visuals) | 0.14.0-1 | 0 | Live truecolor terminal dashboard for a locally running LLM |
+| 2026-11-19 20:09:56 | [klaviature-git](https://aur.archlinux.org/packages/klaviature-git) | r24.ff04c7f-1 | 1 | A very customizable virtual keyboard for KDE Plasma Desktop and Mobile. |
+| 2026-11-19 20:14:25 | [gtk-made-qt-git](https://aur.archlinux.org/packages/gtk-made-qt-git) | r1-1 | 0 | The GTK 1.2/2/3/4 C API on Qt 6: build GTK programs that run without GTK |
+| 2026-11-19 20:14:42 | [ferron-bin](https://aur.archlinux.org/packages/ferron-bin) | 3.0.0rc11-1 | 0 | A fast, modern web server written in Rust (prebuilt binaries) |
+| 2026-11-19 20:14:58 | [motif-on-qt-git](https://aur.archlinux.org/packages/motif-on-qt-git) | r1-1 | 0 | The Motif, Athena, Xt and Xlib APIs on Qt 6: build Motif and Xaw programs witho… |
+| 2026-11-19 20:15:32 | [asunder-qtify](https://aur.archlinux.org/packages/asunder-qtify) | 3.0.1-1 | 0 | Asunder, the GTK 2 CD ripper and encoder, built on Qt with GTK made Qt |
+| 2026-11-19 20:15:58 | [ddd-qtify](https://aur.archlinux.org/packages/ddd-qtify) | 3.4.1-1 | 0 | DDD, the GNU Data Display Debugger (Motif and Athena), built on Qt with Motif o… |
+| 2026-11-19 20:16:28 | [galculator-qtify](https://aur.archlinux.org/packages/galculator-qtify) | 2.1.4-1 | 0 | Galculator, the GTK scientific calculator, built on Qt with GTK made Qt |
+| 2026-11-19 20:16:58 | [leafpad-qtify](https://aur.archlinux.org/packages/leafpad-qtify) | 0.8.19-1 | 0 | Leafpad (the GTK 2 text editor) built on Qt with GTK made Qt |
 
 ## Data source
 
