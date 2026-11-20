@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 13:21 UTC
+## Latest list — 2026-11-20 14:19 UTC
 
-New packages created between 2026-11-20 12:21 UTC and 2026-11-20 13:21 UTC.
+New packages created between 2026-11-20 13:21 UTC and 2026-11-20 14:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T13-21-52-068276Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T14-19-15-668301Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 12:49:08 | [seacas-cuda](https://aur.archlinux.org/packages/seacas-cuda) | 2026.08.11-1 | 0 | Sandia Engineering Analysis Code Access System: Exodus II, IOSS and mesh tools… |
-| 2026-11-20 12:53:47 | [gosplugin-bin](https://aur.archlinux.org/packages/gosplugin-bin) | 1.3.19.0-1 | 0 | Госплагин - локальный модуль для работы с электронной подписью на портале Госус… |
-| 2026-11-20 13:08:12 | [diaphora](https://aur.archlinux.org/packages/diaphora) | 3.5.0-1 | 0 | Program diffing tool for IDA Pro |
-| 2026-11-20 13:20:40 | [cyclonedx-cli](https://aur.archlinux.org/packages/cyclonedx-cli) |  |  | CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions |
+| 2026-11-20 13:52:16 | [miacode](https://aur.archlinux.org/packages/miacode) | 2.0.1-1 | 0 | A Simai editor built for professional chart creators |
+| 2026-11-20 14:01:15 | [multilogin-agent-bin](https://aur.archlinux.org/packages/multilogin-agent-bin) | 1.44.0-1 | 0 | Tray agent that lets the Multilogin X web app start antidetect browser profiles |
 
 ## Data source
 
