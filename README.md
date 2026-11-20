@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 21:20 UTC
+## Latest list — 2026-11-20 22:19 UTC
 
-New packages created between 2026-11-20 20:20 UTC and 2026-11-20 21:20 UTC.
+New packages created between 2026-11-20 21:20 UTC and 2026-11-20 22:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T21-20-02-397303Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T22-19-20-06025Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 20:42:47 | [windowrun-bin](https://aur.archlinux.org/packages/windowrun-bin) | 1.0.0-1 | 1 | A fzf-based app launcher |
-| 2026-11-20 20:43:04 | [setdown](https://aur.archlinux.org/packages/setdown) | 1.0.0-2 | 0 | Convert Markdown to typographically high-quality PDFs with an embedded Typst |
-| 2026-11-20 20:43:20 | [setdown-bin](https://aur.archlinux.org/packages/setdown-bin) | 1.0.0-1 | 0 | Convert Markdown to typographically high-quality PDFs with an embedded Typst |
-| 2026-11-20 20:46:02 | [stoat-for-web](https://aur.archlinux.org/packages/stoat-for-web) | 0.17.0-5 | 0 | Official Stoat web client for self-hosted instances (static assets) |
+| 2026-11-20 21:22:04 | [reelo](https://aur.archlinux.org/packages/reelo) | 0.1.0-1 | 0 | uQ's media player: mpv's engine in a Qt Quick window that follows the uQ theme,… |
+| 2026-11-20 21:27:28 | [piik-bin](https://aur.archlinux.org/packages/piik-bin) | 2.7.0-1 | 1 | a free, open-source screen sharing tool |
+| 2026-11-20 21:31:37 | [uqview](https://aur.archlinux.org/packages/uqview) | 0.1.1-1 | 0 | Fast image viewer for uQ: view, mark up and set as wallpaper |
+| 2026-11-20 21:54:34 | [syscall-git](https://aur.archlinux.org/packages/syscall-git) | r7.c8e64f0-2 | 0 | Look up Linux syscalls from your terminal |
 
 ## Data source
 
