@@ -12,17 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 04:21 UTC
+## Latest list — 2026-11-20 05:19 UTC
 
-New packages created between 2026-11-20 03:19 UTC and 2026-11-20 04:21 UTC.
+New packages created between 2026-11-20 04:21 UTC and 2026-11-20 05:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T04-21-23-173258Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T05-19-31-86953Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 03:21:26 | [perefil-bin](https://aur.archlinux.org/packages/perefil-bin) | 0.687-2 | 0 | Peregrine Fil-C: memory-safe C/C++ compiler and runtime (prebuilt, emits APEs) |
-| 2026-11-20 03:24:07 | [project-midas-bin](https://aur.archlinux.org/packages/project-midas-bin) | 1.0.2b-1 | 0 | PC port of GoldenEye 007 built from the N64 decompilation (prebuilt release, ne… |
-| 2026-11-20 04:00:37 | [kreuzer](https://aur.archlinux.org/packages/kreuzer) | 0.1.0-1 | 0 | Full-screen terminal tracker for income, expenses and budgets |
+| 2026-11-20 04:27:05 | [marmota-daily](https://aur.archlinux.org/packages/marmota-daily) | 1.0.0-1 | 1 | Daily note templating system |
+| 2026-11-20 04:30:20 | [red-two-bin](https://aur.archlinux.org/packages/red-two-bin) | 1.2-1 | 0 | Static recompilation of Star Wars: Rogue Squadron II - Rogue Leader (GameCube)… |
+| 2026-11-20 04:33:58 | [blaspp-cuda](https://aur.archlinux.org/packages/blaspp-cuda) | 2025.05.28-1 | 0 | C++ API for the Basic Linear Algebra Subroutines (with CUDA) |
+| 2026-11-20 04:47:22 | [argc-bin](https://aur.archlinux.org/packages/argc-bin) | 1.24.0-1 | 1 | An elegant command-line argument parser |
+| 2026-11-20 04:49:07 | [marmota-daily-git](https://aur.archlinux.org/packages/marmota-daily-git) | 1.0.0.r135.g2c8bb00… | 0 | Daily note templating system |
+| 2026-11-20 05:11:59 | [blaspp-rocm](https://aur.archlinux.org/packages/blaspp-rocm) | 2025.05.28-1 | 0 | C++ API for the Basic Linear Algebra Subroutines (with ROCm) |
 
 ## Data source
 

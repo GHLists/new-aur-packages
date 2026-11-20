@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-20T04:27:05Z,marmota-daily,1.0.0-1,1,Daily note templating system
+2026-11-20T04:30:20Z,red-two-bin,1.2-1,0,"Static recompilation of Star Wars: Rogue Squadron II - Rogue Leader (GameCube) for PC (prebuilt, needs your own USA disc image)"
+2026-11-20T04:33:58Z,blaspp-cuda,2025.05.28-1,0,C++ API for the Basic Linear Algebra Subroutines (with CUDA)
+2026-11-20T04:47:22Z,argc-bin,1.24.0-1,1,An elegant command-line argument parser
+2026-11-20T04:49:07Z,marmota-daily-git,1.0.0.r135.g2c8bb00…,0,Daily note templating system
+2026-11-20T05:11:59Z,blaspp-rocm,2025.05.28-1,0,C++ API for the Basic Linear Algebra Subroutines (with ROCm)
