@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 19:19 UTC
+## Latest list — 2026-11-20 20:20 UTC
 
-New packages created between 2026-11-20 18:22 UTC and 2026-11-20 19:19 UTC.
+New packages created between 2026-11-20 19:19 UTC and 2026-11-20 20:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T19-19-33-313391Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T20-20-28-844935Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 18:28:56 | [python-accelerated-scan](https://aur.archlinux.org/packages/python-accelerated-scan) | 0.3.1-1 | 0 | Parallel associative scan with PyTorch, Triton and CUDA implementations |
-| 2026-11-20 18:39:05 | [python-zensical-ui](https://aur.archlinux.org/packages/python-zensical-ui) | 0.0.43-1 | 0 | Templates and browser assets for Zensical |
+| 2026-11-20 19:43:54 | [tdrive](https://aur.archlinux.org/packages/tdrive) | 0.1.0-1 | 0 | TDrive-compatible Telegram-backed cloud drive client — Rust + GPUI desktop app |
+| 2026-11-20 19:43:59 | [tdrive-bin](https://aur.archlinux.org/packages/tdrive-bin) | 0.1.0-1 | 0 | TDrive-compatible Telegram-backed cloud drive client — prebuilt binary |
+| 2026-11-20 20:11:30 | [stoat-server](https://aur.archlinux.org/packages/stoat-server) | 0.16.2-1 | 0 | Stoat chat server |
+| 2026-11-20 20:16:52 | [plink1.9](https://aur.archlinux.org/packages/plink1.9) | 1.9.1-1 | 0 | whole-genome association analysis toolset, version 1.9 |
+| 2026-11-20 20:17:06 | [plink2](https://aur.archlinux.org/packages/plink2) | 2.0.0b.1.4-1 | 0 | whole-genome association analysis toolset, version 2.0 |
 
 ## Data source
 
