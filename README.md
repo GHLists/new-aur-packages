@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 23:22 UTC
+## Latest list — 2026-11-20 00:19 UTC
 
-New packages created between 2026-11-19 22:21 UTC and 2026-11-19 23:22 UTC.
+New packages created between 2026-11-19 23:22 UTC and 2026-11-20 00:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-19T23-22-12-442344Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T00-19-48-607714Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 22:35:54 | [hum-bin](https://aur.archlinux.org/packages/hum-bin) | 0.1.0-1 | 0 | Terminal Spotify client |
-| 2026-11-19 23:00:18 | [zfetch-project-z](https://aur.archlinux.org/packages/zfetch-project-z) | 0.1.0-1 | 0 | A tiny native Linux system summary from Project Z, without runtime dependencies |
-| 2026-11-19 23:00:31 | [zfetch-project-z-bin](https://aur.archlinux.org/packages/zfetch-project-z-bin) | 0.1.0-1 | 0 | A tiny native Linux system summary from Project Z (official static binary) |
+| 2026-11-19 23:57:34 | [maak](https://aur.archlinux.org/packages/maak) | 1.0.0-1 | 1 | Command runner à la Make using Guile Scheme |
 
 ## Data source
 
