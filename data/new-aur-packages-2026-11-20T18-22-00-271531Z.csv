@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-20T17:25:01Z,ghidra-extension-binexport,261027_12.2-1,0,Export Ghidra disassemblies into Protocol Buffers for BinDiff
+2026-11-20T17:35:36Z,bladebro,4.8.2-1,0,Agentic browser driver for AI: five MCP tools over a real Chromium session
+2026-11-20T17:35:42Z,bladebro-bin,4.8.2-1,0,Agentic browser driver for AI: five MCP tools over a real Chromium session
+2026-11-20T17:55:39Z,convex-self-hosted-bin,20261116.g80befbc-1,0,Self-hosted Convex backend and dashboard (prebuilt binaries)
+2026-11-20T18:05:32Z,momw-tools-pack-bin,1.59-1,0,All the tools needed to automatically install and configure Modding-OpenMW.com mod lists
