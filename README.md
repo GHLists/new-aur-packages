@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 12:21 UTC
+## Latest list — 2026-11-20 13:21 UTC
 
-New packages created between 2026-11-20 11:20 UTC and 2026-11-20 12:21 UTC.
+New packages created between 2026-11-20 12:21 UTC and 2026-11-20 13:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T12-21-24-971695Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T13-21-52-068276Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 11:38:38 | [unsloth-studio-rocm-gfx90a-updater](https://aur.archlinux.org/packages/unsloth-studio-rocm-gfx90a-updater) | 1.0.0-5 | 0 | nvchecker-based scheduled updater for Unsloth Studio on ROCm gfx90a (PyTorch st… |
-| 2026-11-20 11:50:43 | [aareco-bin](https://aur.archlinux.org/packages/aareco-bin) | 0.1.2-1 | 0 | Voice recorder with a topic tree, marks and plugin effects |
+| 2026-11-20 12:49:08 | [seacas-cuda](https://aur.archlinux.org/packages/seacas-cuda) | 2026.08.11-1 | 0 | Sandia Engineering Analysis Code Access System: Exodus II, IOSS and mesh tools… |
+| 2026-11-20 12:53:47 | [gosplugin-bin](https://aur.archlinux.org/packages/gosplugin-bin) | 1.3.19.0-1 | 0 | Госплагин - локальный модуль для работы с электронной подписью на портале Госус… |
+| 2026-11-20 13:08:12 | [diaphora](https://aur.archlinux.org/packages/diaphora) | 3.5.0-1 | 0 | Program diffing tool for IDA Pro |
+| 2026-11-20 13:20:40 | [cyclonedx-cli](https://aur.archlinux.org/packages/cyclonedx-cli) |  |  | CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions |
 
 ## Data source
 
