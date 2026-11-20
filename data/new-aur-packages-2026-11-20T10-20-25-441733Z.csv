@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-20T09:33:51Z,ch34xpar-git,r15.2ccc018-1,0,"This driver and application support the USB bus interface chips from WCH (Qinheng Microelectronics): CH341, CH346, CH347, CH339, CH9341, CH9346, as well as the WCH USB-to-serial series chips."
+2026-11-20T09:33:51Z,ch34xpar-dkms-git,r15.2ccc018-1,0,"This driver and application support the USB bus interface chips from WCH (Qinheng Microelectronics): CH341, CH346, CH347, CH339, CH9341, CH9346, as well as the WCH USB-to-serial series chips. (DKMS)"
+2026-11-20T09:33:51Z,libch34xpar-git,r15.2ccc018-1,0,"This driver and application support the USB bus interface chips from WCH (Qinheng Microelectronics): CH341, CH346, CH347, CH339, CH9341, CH9346, as well as the WCH USB-to-serial series chips. (dynamic lib)"
+2026-11-20T09:39:21Z,dux-icons,0.1.3-1,0,Icon theme generator that follows your Material colors
+2026-11-20T09:54:39Z,spill-git,0.7.5.r0.g40e95c4-1,0,BitTorrent client and daemon with a web interface (development version)
+2026-11-20T09:58:49Z,spill-bin,0.7.5-1,0,BitTorrent client and daemon with a web interface (prebuilt binary)
+2026-11-20T09:58:56Z,spill,0.7.5-1,1,BitTorrent client and daemon with a web interface
+2026-11-20T10:04:34Z,tabdock-bin,0.15.0-2,0,"Autohiding side panel for Firefox-family browsers on X11 and Wayland, signed extension"
