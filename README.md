@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 03:19 UTC
+## Latest list — 2026-11-20 04:21 UTC
 
-New packages created between 2026-11-20 02:21 UTC and 2026-11-20 03:19 UTC.
+New packages created between 2026-11-20 03:19 UTC and 2026-11-20 04:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T03-19-19-302265Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T04-21-23-173258Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 02:22:27 | [ufatfs](https://aur.archlinux.org/packages/ufatfs) | 0.1.0-1 | 0 | Unix overlay file system for VFAT/exFAT |
-| 2026-11-20 02:50:26 | [freetoken-desktop-bin](https://aur.archlinux.org/packages/freetoken-desktop-bin) | 0.2.0_beta.27-1 | 0 | FreeToken brings datacenter-scale model serving to your desktop. Run massive mo… |
+| 2026-11-20 03:21:26 | [perefil-bin](https://aur.archlinux.org/packages/perefil-bin) | 0.687-2 | 0 | Peregrine Fil-C: memory-safe C/C++ compiler and runtime (prebuilt, emits APEs) |
+| 2026-11-20 03:24:07 | [project-midas-bin](https://aur.archlinux.org/packages/project-midas-bin) | 1.0.2b-1 | 0 | PC port of GoldenEye 007 built from the N64 decompilation (prebuilt release, ne… |
+| 2026-11-20 04:00:37 | [kreuzer](https://aur.archlinux.org/packages/kreuzer) | 0.1.0-1 | 0 | Full-screen terminal tracker for income, expenses and budgets |
 
 ## Data source
 
