@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 20:20 UTC
+## Latest list — 2026-11-20 21:20 UTC
 
-New packages created between 2026-11-20 19:19 UTC and 2026-11-20 20:20 UTC.
+New packages created between 2026-11-20 20:20 UTC and 2026-11-20 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T20-20-28-844935Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T21-20-02-397303Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 19:43:54 | [tdrive](https://aur.archlinux.org/packages/tdrive) | 0.1.0-1 | 0 | TDrive-compatible Telegram-backed cloud drive client — Rust + GPUI desktop app |
-| 2026-11-20 19:43:59 | [tdrive-bin](https://aur.archlinux.org/packages/tdrive-bin) | 0.1.0-1 | 0 | TDrive-compatible Telegram-backed cloud drive client — prebuilt binary |
-| 2026-11-20 20:11:30 | [stoat-server](https://aur.archlinux.org/packages/stoat-server) | 0.16.2-1 | 0 | Stoat chat server |
-| 2026-11-20 20:16:52 | [plink1.9](https://aur.archlinux.org/packages/plink1.9) | 1.9.1-1 | 0 | whole-genome association analysis toolset, version 1.9 |
-| 2026-11-20 20:17:06 | [plink2](https://aur.archlinux.org/packages/plink2) | 2.0.0b.1.4-1 | 0 | whole-genome association analysis toolset, version 2.0 |
+| 2026-11-20 20:42:47 | [windowrun-bin](https://aur.archlinux.org/packages/windowrun-bin) | 1.0.0-1 | 1 | A fzf-based app launcher |
+| 2026-11-20 20:43:04 | [setdown](https://aur.archlinux.org/packages/setdown) | 1.0.0-2 | 0 | Convert Markdown to typographically high-quality PDFs with an embedded Typst |
+| 2026-11-20 20:43:20 | [setdown-bin](https://aur.archlinux.org/packages/setdown-bin) | 1.0.0-1 | 0 | Convert Markdown to typographically high-quality PDFs with an embedded Typst |
+| 2026-11-20 20:46:02 | [stoat-for-web](https://aur.archlinux.org/packages/stoat-for-web) | 0.17.0-5 | 0 | Official Stoat web client for self-hosted instances (static assets) |
 
 ## Data source
 
