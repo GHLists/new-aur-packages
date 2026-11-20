@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-20T08:27:34Z,chyron-bin,0.1.2-1,0,"A CLI text scroller/split-flap for Linux, written in OCaml"
+2026-11-20T08:27:46Z,lua-lusc_luv,4.0.0-1,0,Structured Async/Concurrency for Lua using Luv
+2026-11-20T08:27:46Z,lua51-lusc_luv,4.0.0-1,0,Structured Async/Concurrency for Lua using Luv
+2026-11-20T08:27:46Z,lua52-lusc_luv,4.0.0-1,0,Structured Async/Concurrency for Lua using Luv
+2026-11-20T08:27:46Z,lua53-lusc_luv,4.0.0-1,0,Structured Async/Concurrency for Lua using Luv
+2026-11-20T08:27:46Z,lua54-lusc_luv,4.0.0-1,0,Structured Async/Concurrency for Lua using Luv
+2026-11-20T08:36:35Z,mercury-browser-v3-bin,160.0.1-1,0,Privacy-focused Firefox fork with compiler optimizations (binary release; requires AVX2 / x86-64-v3)
