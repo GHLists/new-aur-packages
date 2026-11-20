@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-20T18:28:56Z,python-accelerated-scan,0.3.1-1,0,"Parallel associative scan with PyTorch, Triton and CUDA implementations"
+2026-11-20T18:39:05Z,python-zensical-ui,0.0.43-1,0,Templates and browser assets for Zensical

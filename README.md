@@ -12,19 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 18:22 UTC
+## Latest list — 2026-11-20 19:19 UTC
 
-New packages created between 2026-11-20 17:22 UTC and 2026-11-20 18:22 UTC.
+New packages created between 2026-11-20 18:22 UTC and 2026-11-20 19:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T18-22-00-271531Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T19-19-33-313391Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 17:25:01 | [ghidra-extension-binexport](https://aur.archlinux.org/packages/ghidra-extension-binexport) | 261027_12.2-1 | 0 | Export Ghidra disassemblies into Protocol Buffers for BinDiff |
-| 2026-11-20 17:35:36 | [bladebro](https://aur.archlinux.org/packages/bladebro) | 4.8.2-1 | 0 | Agentic browser driver for AI: five MCP tools over a real Chromium session |
-| 2026-11-20 17:35:42 | [bladebro-bin](https://aur.archlinux.org/packages/bladebro-bin) | 4.8.2-1 | 0 | Agentic browser driver for AI: five MCP tools over a real Chromium session |
-| 2026-11-20 17:55:39 | [convex-self-hosted-bin](https://aur.archlinux.org/packages/convex-self-hosted-bin) | 20261116.g80befbc-1 | 0 | Self-hosted Convex backend and dashboard (prebuilt binaries) |
-| 2026-11-20 18:05:32 | [momw-tools-pack-bin](https://aur.archlinux.org/packages/momw-tools-pack-bin) | 1.59-1 | 0 | All the tools needed to automatically install and configure Modding-OpenMW.com… |
+| 2026-11-20 18:28:56 | [python-accelerated-scan](https://aur.archlinux.org/packages/python-accelerated-scan) | 0.3.1-1 | 0 | Parallel associative scan with PyTorch, Triton and CUDA implementations |
+| 2026-11-20 18:39:05 | [python-zensical-ui](https://aur.archlinux.org/packages/python-zensical-ui) | 0.0.43-1 | 0 | Templates and browser assets for Zensical |
 
 ## Data source
 
