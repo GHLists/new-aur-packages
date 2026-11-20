@@ -12,21 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 11:20 UTC
+## Latest list — 2026-11-20 12:21 UTC
 
-New packages created between 2026-11-20 10:20 UTC and 2026-11-20 11:20 UTC.
+New packages created between 2026-11-20 11:20 UTC and 2026-11-20 12:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T11-20-59-826239Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T12-21-24-971695Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 10:43:01 | [python-dahuffman](https://aur.archlinux.org/packages/python-dahuffman) | 0.4.2-1 | 0 | Pure Python Huffman encoder and decoder |
-| 2026-11-20 10:45:15 | [yamusic-rs-bin](https://aur.archlinux.org/packages/yamusic-rs-bin) | 1.1.3-1 | 0 | Unofficial Yandex Music client written in Rust and Slint (no Electron) |
-| 2026-11-20 11:01:55 | [bindle](https://aur.archlinux.org/packages/bindle) | 0.1.26-1 | 0 | Fresh-install setup wizard and system updater (bindleUP) for Arch Linux |
-| 2026-11-20 11:02:01 | [emobie](https://aur.archlinux.org/packages/emobie) | 0.9.2-1 | 0 | Compact emoji palette with macros and optional text expansion |
-| 2026-11-20 11:02:08 | [appofholding](https://aur.archlinux.org/packages/appofholding) | 0.12.2-1 | 0 | AppImage manager: menu integration, updates, launch options and sandboxing |
-| 2026-11-20 11:02:14 | [hauler](https://aur.archlinux.org/packages/hauler) | 0.2.2-1 | 0 | Fast, resumable download manager: segmented engine, systemd daemon and Kirigami… |
-| 2026-11-20 11:02:21 | [av-morning-star](https://aur.archlinux.org/packages/av-morning-star) | 0.4.3-1 | 0 | Video and audio downloader for YouTube, Odysee and 1000+ sites (a yt-dlp front… |
+| 2026-11-20 11:38:38 | [unsloth-studio-rocm-gfx90a-updater](https://aur.archlinux.org/packages/unsloth-studio-rocm-gfx90a-updater) | 1.0.0-5 | 0 | nvchecker-based scheduled updater for Unsloth Studio on ROCm gfx90a (PyTorch st… |
+| 2026-11-20 11:50:43 | [aareco-bin](https://aur.archlinux.org/packages/aareco-bin) | 0.1.2-1 | 0 | Voice recorder with a topic tree, marks and plugin effects |
 
 ## Data source
 
