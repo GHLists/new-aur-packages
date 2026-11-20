@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-20T06:50:12Z,lapackpp,2025.05.28-1,0,C++ API for the Linear Algebra PACKage
+2026-11-20T06:57:37Z,lambo-subtitle-edit,1.0.0-1,0,SRT subtitle editor with dual video preview
+2026-11-20T07:00:19Z,libjxl-0.12,0.12.0-1,0,JPEG XL image format reference implementation - 0.12 release
+2026-11-20T07:00:19Z,libjxl-0.12-doc,0.12.0-1,0,JPEG XL image format reference implementation - 0.12 release (documentation)
+2026-11-20T07:06:52Z,oleafly-bin,0.4.12-1,0,"Local-first AI research workspace for LaTeX, Typst, and Markdown (prebuilt)"
+2026-11-20T07:08:57Z,lapackpp-cuda,2025.05.28-1,0,C++ API for the Linear Algebra PACKage (with CUDA)

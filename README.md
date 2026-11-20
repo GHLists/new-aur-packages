@@ -12,17 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 06:20 UTC
+## Latest list — 2026-11-20 07:20 UTC
 
-New packages created between 2026-11-20 05:19 UTC and 2026-11-20 06:20 UTC.
+New packages created between 2026-11-20 06:20 UTC and 2026-11-20 07:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T06-20-23-940156Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T07-20-10-074428Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 05:37:49 | [blaspp-sycl](https://aur.archlinux.org/packages/blaspp-sycl) | 2025.05.28-1 | 0 | C++ API for the Basic Linear Algebra Subroutines (with SYCL and oneMKL) |
-| 2026-11-20 05:44:14 | [zmcl-bin](https://aur.archlinux.org/packages/zmcl-bin) | 0.1.0-1 | 0 | A small native Minecraft launcher built on Project Z (development preview) |
-| 2026-11-20 06:06:25 | [oh-my-ztty-bin](https://aur.archlinux.org/packages/oh-my-ztty-bin) | 0.2.3-1 | 0 | Lean Project Z terminal workspace with zsh presets and explicit AI tools |
+| 2026-11-20 06:50:12 | [lapackpp](https://aur.archlinux.org/packages/lapackpp) | 2025.05.28-1 | 0 | C++ API for the Linear Algebra PACKage |
+| 2026-11-20 06:57:37 | [lambo-subtitle-edit](https://aur.archlinux.org/packages/lambo-subtitle-edit) | 1.0.0-1 | 0 | SRT subtitle editor with dual video preview |
+| 2026-11-20 07:00:19 | [libjxl-0.12](https://aur.archlinux.org/packages/libjxl-0.12) | 0.12.0-1 | 0 | JPEG XL image format reference implementation - 0.12 release |
+| 2026-11-20 07:00:19 | [libjxl-0.12-doc](https://aur.archlinux.org/packages/libjxl-0.12-doc) | 0.12.0-1 | 0 | JPEG XL image format reference implementation - 0.12 release (documentation) |
+| 2026-11-20 07:06:52 | [oleafly-bin](https://aur.archlinux.org/packages/oleafly-bin) | 0.4.12-1 | 0 | Local-first AI research workspace for LaTeX, Typst, and Markdown (prebuilt) |
+| 2026-11-20 07:08:57 | [lapackpp-cuda](https://aur.archlinux.org/packages/lapackpp-cuda) | 2025.05.28-1 | 0 | C++ API for the Linear Algebra PACKage (with CUDA) |
 
 ## Data source
 
