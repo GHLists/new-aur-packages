@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-20T05:37:49Z,blaspp-sycl,2025.05.28-1,0,C++ API for the Basic Linear Algebra Subroutines (with SYCL and oneMKL)
+2026-11-20T05:44:14Z,zmcl-bin,0.1.0-1,0,A small native Minecraft launcher built on Project Z (development preview)
+2026-11-20T06:06:25Z,oh-my-ztty-bin,0.2.3-1,0,Lean Project Z terminal workspace with zsh presets and explicit AI tools
