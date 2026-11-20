@@ -12,15 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 00:19 UTC
+## Latest list — 2026-11-20 01:20 UTC
 
-New packages created between 2026-11-19 23:22 UTC and 2026-11-20 00:19 UTC.
+New packages created between 2026-11-20 00:19 UTC and 2026-11-20 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T00-19-48-607714Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T01-20-05-571774Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 23:57:34 | [maak](https://aur.archlinux.org/packages/maak) | 1.0.0-1 | 1 | Command runner à la Make using Guile Scheme |
+| 2026-11-20 00:27:48 | [zcall-omarchy](https://aur.archlinux.org/packages/zcall-omarchy) | 0.1.2-1 | 0 | Native Omarchy menu and bar controls for the zcalld AI gateway |
+| 2026-11-20 00:32:15 | [bluerig](https://aur.archlinux.org/packages/bluerig) | 1.0.2-1 | 1 | A terminal IDE grown out of mcedit |
+| 2026-11-20 00:32:15 | [bluerig-lua](https://aur.archlinux.org/packages/bluerig-lua) | 1.0.2-1 | 1 | Lua runtime and scripts for bluerig |
+| 2026-11-20 00:32:20 | [bluerig-bin](https://aur.archlinux.org/packages/bluerig-bin) | 1.0.2-1 | 1 | A terminal IDE grown out of mcedit |
+| 2026-11-20 00:32:20 | [bluerig-lua-bin](https://aur.archlinux.org/packages/bluerig-lua-bin) | 1.0.2-1 | 1 | Lua runtime and scripts for bluerig-bin |
+| 2026-11-20 00:54:50 | [flexbv5-free-bin](https://aur.archlinux.org/packages/flexbv5-free-bin) | 5.3175-1 | 0 | Free version of the FlexBV5 LTS boardview software |
+| 2026-11-20 01:06:02 | [flexbv5-bin](https://aur.archlinux.org/packages/flexbv5-bin) | 5.3175-1 | 0 | Paid version of the FlexBV5 LTS boardview software |
 
 ## Data source
 
