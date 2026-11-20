@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 14:19 UTC
+## Latest list — 2026-11-20 15:19 UTC
 
-New packages created between 2026-11-20 13:21 UTC and 2026-11-20 14:19 UTC.
+New packages created between 2026-11-20 14:19 UTC and 2026-11-20 15:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T14-19-15-668301Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-20T15-19-51-645674Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 13:52:16 | [miacode](https://aur.archlinux.org/packages/miacode) | 2.0.1-1 | 0 | A Simai editor built for professional chart creators |
-| 2026-11-20 14:01:15 | [multilogin-agent-bin](https://aur.archlinux.org/packages/multilogin-agent-bin) | 1.44.0-1 | 0 | Tray agent that lets the Multilogin X web app start antidetect browser profiles |
+| 2026-11-20 14:40:34 | [namida-beta-bin](https://aur.archlinux.org/packages/namida-beta-bin) | 8.6.7-1 | 0 | A Beautiful and Feature-rich Music Player, With YouTube & Video Support Built i… |
 
 ## Data source
 
