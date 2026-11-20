@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-20T07:26:47Z,axon-cli,1.0.0-1,0,"Runs named requests from a .http file, authenticating via .netrc, and prints the responses curl-style, or as JSON"
+2026-11-20T07:30:12Z,lapackpp-rocm,2025.05.28-1,1,C++ API for the Linear Algebra PACKage (with ROCm)
+2026-11-20T07:35:31Z,unifyterm-bin,0.2.3-1,0,"One terminal for Windows, macOS and Linux: the same Unix commands everywhere, a command history you can search as you type, pictures and markdown in the terminal"
+2026-11-20T07:49:45Z,mingle-bin,0.4.5-1,0,"Bring your agent companion into the chat apps you already use: it runs on your machine, no server needed"
+2026-11-20T08:13:12Z,lapackpp-sycl,2025.05.28-1,1,C++ API for the Linear Algebra PACKage (with SYCL and oneMKL)
+2026-11-20T08:15:21Z,anytls-go-bin,0.0.13-1,0,A reference implementation of proxy protocol to mitigate the issue of TLS in TLS.
