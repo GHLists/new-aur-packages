@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 22:19 UTC
+## Latest list — 2026-11-21 00:21 UTC
 
-New packages created between 2026-11-20 21:20 UTC and 2026-11-20 22:19 UTC.
+New packages created between 2026-11-20 23:21 UTC and 2026-11-21 00:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-20T22-19-20-06025Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-21T00-21-48-370061Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 21:22:04 | [reelo](https://aur.archlinux.org/packages/reelo) | 0.1.0-1 | 0 | uQ's media player: mpv's engine in a Qt Quick window that follows the uQ theme,… |
-| 2026-11-20 21:27:28 | [piik-bin](https://aur.archlinux.org/packages/piik-bin) | 2.7.0-1 | 1 | a free, open-source screen sharing tool |
-| 2026-11-20 21:31:37 | [uqview](https://aur.archlinux.org/packages/uqview) | 0.1.1-1 | 0 | Fast image viewer for uQ: view, mark up and set as wallpaper |
-| 2026-11-20 21:54:34 | [syscall-git](https://aur.archlinux.org/packages/syscall-git) | r7.c8e64f0-2 | 0 | Look up Linux syscalls from your terminal |
+| 2026-11-20 23:30:44 | [frost-d77](https://aur.archlinux.org/packages/frost-d77) | 0.1.0-1 | 0 | Wayland desktop shell and session locker written in Rust |
+| 2026-11-20 23:51:16 | [rsds-x](https://aur.archlinux.org/packages/rsds-x) | 0.1.0-1 | 0 | Reasonably Sane Display Settings: monitor layout manager and TUI for X11 |
+| 2026-11-20 23:53:40 | [limo-js-bin](https://aur.archlinux.org/packages/limo-js-bin) | 0.1.2-1 | 1 | Run JavaScript with browser Web APIs, right from your terminal |
+| 2026-11-20 23:59:41 | [rsds-w](https://aur.archlinux.org/packages/rsds-w) | 0.1.0-1 | 0 | Reasonably Sane Display Settings: monitor layout manager and TUI for Wayland co… |
 
 ## Data source
 
