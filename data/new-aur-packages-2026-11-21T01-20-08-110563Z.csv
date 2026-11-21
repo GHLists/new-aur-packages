@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-21T00:27:23Z,trimd,0.4.0-1,1,"A terminal TUI that renders markdown — primarily Obsidian notes — as clean, styled text with zero visible markdown syntax"
+2026-11-21T01:05:17Z,orion-32-control-panel,0.5.0-1,1,"A fast, modern, cross-platform rewrite of the Orion 32 control panel"
+2026-11-21T01:08:32Z,btpop,0.1.0-1,0,GTK4 Bluetooth popup and pairing agent for BlueZ (replaces blueman)
