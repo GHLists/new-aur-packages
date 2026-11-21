@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 17:20 UTC
+## Latest list — 2026-11-21 18:21 UTC
 
-New packages created between 2026-11-21 16:18 UTC and 2026-11-21 17:20 UTC.
+New packages created between 2026-11-21 17:20 UTC and 2026-11-21 18:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-21T17-20-37-897238Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-21T18-21-31-599002Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 16:59:23 | [luxtide-git](https://aur.archlinux.org/packages/luxtide-git) | 2.0.0.r18.gb319302-1 | 0 | Automatic screen brightness that follows the sun, for DDC/CI monitors and lapto… |
+| 2026-11-21 17:26:52 | [wpatui-git](https://aur.archlinux.org/packages/wpatui-git) | 0.1.0.r1.gd782f8f-1 | 0 | Terminal front end for wpa_supplicant (development version) |
+| 2026-11-21 17:31:40 | [shisa](https://aur.archlinux.org/packages/shisa) | 0.1.2-1 | 0 | Application lock for Linux desktops, enforced at exec time through fanotify |
+| 2026-11-21 17:34:03 | [termmark](https://aur.archlinux.org/packages/termmark) | 1.0.0-14 | 0 | Minimal C++ Markdown viewer for the terminal (with leaf-style table rendering) |
+| 2026-11-21 17:43:39 | [nearcast-git](https://aur.archlinux.org/packages/nearcast-git) | 0.1.0.r0.gf4247e9-1 | 0 | Quick Share (Nearby Share) for Linux: share files and text with Android phones |
 
 ## Data source
 

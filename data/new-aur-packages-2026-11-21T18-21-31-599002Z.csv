@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-21T17:26:52Z,wpatui-git,0.1.0.r1.gd782f8f-1,0,Terminal front end for wpa_supplicant (development version)
+2026-11-21T17:31:40Z,shisa,0.1.2-1,0,"Application lock for Linux desktops, enforced at exec time through fanotify"
+2026-11-21T17:34:03Z,termmark,1.0.0-14,0,Minimal C++ Markdown viewer for the terminal (with leaf-style table rendering)
+2026-11-21T17:43:39Z,nearcast-git,0.1.0.r0.gf4247e9-1,0,Quick Share (Nearby Share) for Linux: share files and text with Android phones
