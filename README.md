@@ -12,16 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 11:21 UTC
+## Latest list — 2026-11-21 12:19 UTC
 
-New packages created between 2026-11-21 10:19 UTC and 2026-11-21 11:21 UTC.
+New packages created between 2026-11-21 11:21 UTC and 2026-11-21 12:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-21T11-21-02-589344Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-21T12-19-17-912459Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 10:52:12 | [hyprfetch-git](https://aur.archlinux.org/packages/hyprfetch-git) | 0.3.1.r0.g0000000-1 | 0 | Hyprland-native fetch utility for system, session, and rice state |
-| 2026-11-21 11:07:28 | [xdg-desktop-portal-gtk4-bin](https://aur.archlinux.org/packages/xdg-desktop-portal-gtk4-bin) | 1.6.6-1 | 0 | GTK4 backend for xdg-desktop-portal (prebuilt release binary) |
+| 2026-11-21 11:30:27 | [omarchy-broadcast-bin](https://aur.archlinux.org/packages/omarchy-broadcast-bin) | 0.57.3-1 | 0 | GPU virtual camera daemon for v4l2loopback, with a D-Bus API and a CLI (prebuil… |
+| 2026-11-21 11:30:27 | [omarchy-broadcast-maxine-vfx-bin](https://aur.archlinux.org/packages/omarchy-broadcast-maxine-vfx-bin) | 0.57.3-1 | 0 | NVIDIA Maxine video effects module for omarchy-broadcast: background blur and r… |
+| 2026-11-21 11:30:27 | [omarchy-broadcast-maxine-ar-bin](https://aur.archlinux.org/packages/omarchy-broadcast-maxine-ar-bin) | 0.57.3-1 | 0 | NVIDIA Maxine AR effects module for omarchy-broadcast: eye contact (prebuilt) |
+| 2026-11-21 11:30:27 | [omarchy-broadcast-maxine-afx-bin](https://aur.archlinux.org/packages/omarchy-broadcast-maxine-afx-bin) | 0.57.3-1 | 0 | NVIDIA Maxine audio effects module for the omarchy-broadcast microphone: noise… |
+| 2026-11-21 11:30:27 | [omarchy-broadcast-onnx-bin](https://aur.archlinux.org/packages/omarchy-broadcast-onnx-bin) | 0.57.3-1 | 0 | Open-model cut-out (ONNX Runtime) module for omarchy-broadcast: background blur… |
+| 2026-11-21 11:53:50 | [ubackup](https://aur.archlinux.org/packages/ubackup) | 0.1.0-1 | 0 | Systemd timers for incremental tar backups and remote backup collection |
+| 2026-11-21 12:04:19 | [poe-waytrade](https://aur.archlinux.org/packages/poe-waytrade) | 1.0.0-1 | 0 | In-game Vulkan price-check overlay for Path of Exile on Wayland |
+| 2026-11-21 12:15:36 | [gsword](https://aur.archlinux.org/packages/gsword) | 0.3.0-1 | 0 | GTK4/libadwaita Bible study application with a SWORD module library |
 
 ## Data source
 

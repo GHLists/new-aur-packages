@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-21T11:30:27Z,omarchy-broadcast-bin,0.57.3-1,0,"GPU virtual camera daemon for v4l2loopback, with a D-Bus API and a CLI (prebuilt)"
+2026-11-21T11:30:27Z,omarchy-broadcast-maxine-vfx-bin,0.57.3-1,0,"NVIDIA Maxine video effects module for omarchy-broadcast: background blur and replacement, video noise removal (prebuilt)"
+2026-11-21T11:30:27Z,omarchy-broadcast-maxine-ar-bin,0.57.3-1,0,NVIDIA Maxine AR effects module for omarchy-broadcast: eye contact (prebuilt)
+2026-11-21T11:30:27Z,omarchy-broadcast-maxine-afx-bin,0.57.3-1,0,"NVIDIA Maxine audio effects module for the omarchy-broadcast microphone: noise and room echo removal, studio voice (prebuilt)"
+2026-11-21T11:30:27Z,omarchy-broadcast-onnx-bin,0.57.3-1,0,Open-model cut-out (ONNX Runtime) module for omarchy-broadcast: background blur and replacement (prebuilt)
+2026-11-21T11:53:50Z,ubackup,0.1.0-1,0,Systemd timers for incremental tar backups and remote backup collection
+2026-11-21T12:04:19Z,poe-waytrade,1.0.0-1,0,In-game Vulkan price-check overlay for Path of Exile on Wayland
+2026-11-21T12:15:36Z,gsword,0.3.0-1,0,GTK4/libadwaita Bible study application with a SWORD module library
