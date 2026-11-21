@@ -12,19 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 02:20 UTC
+## Latest list — 2026-11-21 03:20 UTC
 
-New packages created between 2026-11-21 01:20 UTC and 2026-11-21 02:20 UTC.
+New packages created between 2026-11-21 02:20 UTC and 2026-11-21 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-21T02-20-49-9552Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-21T03-20-14-830739Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 01:28:46 | [python-assoc-scan](https://aur.archlinux.org/packages/python-assoc-scan) | 0.0.6-1 | 0 | Associative scan in PyTorch with optional GPU acceleration |
-| 2026-11-21 01:31:23 | [onnxruntime-provider-migraphx](https://aur.archlinux.org/packages/onnxruntime-provider-migraphx) | 1.29.0-1 | 0 | The MIGraphX execution provider of ONNX Runtime, for onnxruntime-core (AMD GPUs… |
-| 2026-11-21 01:31:23 | [python-onnxruntime-provider-migraphx](https://aur.archlinux.org/packages/python-onnxruntime-provider-migraphx) | 1.29.0-1 | 0 | The MIGraphX execution provider of ONNX Runtime in its Python module, python-on… |
-| 2026-11-21 02:00:26 | [corsa](https://aur.archlinux.org/packages/corsa) | 2.6.72-1 | 0 | Decentralized end-to-end encrypted messenger built on the Gazeta protocol |
-| 2026-11-21 02:14:11 | [line-linux-bin](https://aur.archlinux.org/packages/line-linux-bin) | 0.1.git33.76bba8a-1 | 0 | Unofficial native LINE desktop client, repackaged from the Ubuntu DEB |
+| 2026-11-21 02:24:44 | [readwebform](https://aur.archlinux.org/packages/readwebform) | 0.4.1-1 | 1 | CLI tool that spawns a one-shot web server to collect user input through an HTM… |
+| 2026-11-21 02:34:48 | [klyv](https://aur.archlinux.org/packages/klyv) | 0.5.0-1 | 1 | Redis-compatible embedded key-value store backed by SQLite |
+| 2026-11-21 02:48:28 | [rats-search](https://aur.archlinux.org/packages/rats-search) | 2.3.6-1 | 0 | BitTorrent P2P search engine with an integrated torrent client |
+| 2026-11-21 03:12:57 | [python-pybioclip](https://aur.archlinux.org/packages/python-pybioclip) | 2.1.6-1 | 0 | Python package that simplifies using the BioCLIP foundation model |
+| 2026-11-21 03:13:04 | [birdid-git](https://aur.archlinux.org/packages/birdid-git) | r54.134d583-1 | 0 | Offline bird-photo identification with BioCLIP 2 (eBird/Clements taxonomy, XMP… |
+| 2026-11-21 03:16:59 | [trigonum](https://aur.archlinux.org/packages/trigonum) | 0.1.1-1 | 0 | Lightweight viewer for STL 3D models |
 
 ## Data source
 

@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-21T02:24:44Z,readwebform,0.4.1-1,1,CLI tool that spawns a one-shot web server to collect user input through an HTML form instead of the terminal
+2026-11-21T02:34:48Z,klyv,0.5.0-1,1,Redis-compatible embedded key-value store backed by SQLite
+2026-11-21T02:48:28Z,rats-search,2.3.6-1,0,BitTorrent P2P search engine with an integrated torrent client
+2026-11-21T03:12:57Z,python-pybioclip,2.1.6-1,0,Python package that simplifies using the BioCLIP foundation model
+2026-11-21T03:13:04Z,birdid-git,r54.134d583-1,0,"Offline bird-photo identification with BioCLIP 2 (eBird/Clements taxonomy, XMP sidecars)"
+2026-11-21T03:16:59Z,trigonum,0.1.1-1,0,Lightweight viewer for STL 3D models
