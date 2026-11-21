@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-21T18:39:39Z,cero,0.1.0-2,0,"Native Music Assistant player (GTK4, Sendspin, MPRIS2)"
+2026-11-21T18:46:02Z,xfwm-wayland,0.7.41-1,0,A very fast and efficient Wayland compositor for Xfce built on wlroots that behaves like xfwm4
+2026-11-21T18:50:14Z,python-hatch-native,0.1.0-2,0,Shared native-build helpers for hatch plugins
+2026-11-21T18:56:04Z,proxybridge,4.1.0-1,1,Proxifier Alternative to redirect any TCP and UDP traffic to HTTP/Socks5 proxy (Unofficial PKGBUILD)
+2026-11-21T18:59:10Z,spirv-reflect,1.4.363.0-1,0,lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications
+2026-11-21T19:13:27Z,ico-pc-bin,0.11.13-1,0,"PC port of ICO (PS2), built from the nathanialf/ico decompilation; needs your own disc image (prebuilt release)"
