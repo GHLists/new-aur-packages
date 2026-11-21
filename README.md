@@ -12,25 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 15:19 UTC
+## Latest list — 2026-11-21 16:18 UTC
 
-New packages created between 2026-11-21 14:19 UTC and 2026-11-21 15:19 UTC.
+New packages created between 2026-11-21 15:19 UTC and 2026-11-21 16:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-21T15-19-39-946431Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-21T16-18-51-719788Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 14:37:40 | [bilibilive-git](https://aur.archlinux.org/packages/bilibilive-git) | 0.1.1.r0.g0f97b0e-1 | 0 | Native Bilibili streaming studio following the latest Project Z sources |
-| 2026-11-21 14:37:40 | [bilibilive-obs-plugin-git](https://aur.archlinux.org/packages/bilibilive-obs-plugin-git) | 0.1.1.r0.g0f97b0e-1 | 0 | Native OBS PK audio/video capture for bilibilive (Git) |
-| 2026-11-21 14:43:58 | [mandara-bin](https://aur.archlinux.org/packages/mandara-bin) | 0.36.0-1 | 0 | GPU-accelerated, design-first Wayland desktop shell for MangoWM, Niri and Hyprl… |
-| 2026-11-21 15:01:46 | [ui-craft-bin](https://aur.archlinux.org/packages/ui-craft-bin) | 1.0.21-1 | 0 | Installer CLI for the UI Craft design system for AI coding agents |
-| 2026-11-21 15:02:00 | [gputaskman-bin](https://aur.archlinux.org/packages/gputaskman-bin) | 0.4.4-1 | 0 | An htop for what is inside your GPU: per-process VRAM, engines and LLM buffer b… |
-| 2026-11-21 15:02:02 | [mutter-native-xwayland](https://aur.archlinux.org/packages/mutter-native-xwayland) | 51.1-2 | 0 | Window manager and compositor for GNOME (with opt-in native Xwayland scaling) |
-| 2026-11-21 15:02:02 | [mutter-native-xwayland-devkit](https://aur.archlinux.org/packages/mutter-native-xwayland-devkit) | 51.1-2 | 0 | GNOME Mutter Development Kit (native Xwayland scaling build) |
-| 2026-11-21 15:02:02 | [mutter-native-xwayland-docs](https://aur.archlinux.org/packages/mutter-native-xwayland-docs) | 51.1-2 | 0 | Window manager and compositor for GNOME (with opt-in native Xwayland scaling) (… |
-| 2026-11-21 15:10:14 | [anirust](https://aur.archlinux.org/packages/anirust) | 1.1.1-1 | 0 | Desktop client for Anixart with a player of its own |
-| 2026-11-21 15:10:22 | [anirust-bin](https://aur.archlinux.org/packages/anirust-bin) | 1.1.1-1 | 0 | Desktop client for Anixart with an mpv player (prebuilt) |
-| 2026-11-21 15:16:39 | [python-tokenizers-bin](https://aur.archlinux.org/packages/python-tokenizers-bin) | 0.23.2-2 | 0 | Fast state-of-the-art tokenizers optimized for research and production (officia… |
+| 2026-11-21 15:23:33 | [sqlite3pp](https://aur.archlinux.org/packages/sqlite3pp) | 1.0.10-1 | 0 | SQLite3++ - C++ wrapper of SQLite3 API |
+| 2026-11-21 15:23:49 | [aurora-viewer-bin](https://aur.archlinux.org/packages/aurora-viewer-bin) | 0.9.12-1 | 0 | Free, open source Second Life viewer built in Rust with a Vulkan renderer (preb… |
+| 2026-11-21 15:30:46 | [wiso-steuer-2027](https://aur.archlinux.org/packages/wiso-steuer-2027) | 34.0.1600-1 | 0 | File your German tax return for the tax year 2026 |
+| 2026-11-21 15:54:20 | [wpatui](https://aur.archlinux.org/packages/wpatui) | 0.1.0-1 | 0 | Terminal front end for wpa_supplicant |
+| 2026-11-21 16:04:30 | [python-vercel-drives](https://aur.archlinux.org/packages/python-vercel-drives) | 0.1.0-1 | 1 | Python SDK for Vercel Drives. |
 
 ## Data source
 
