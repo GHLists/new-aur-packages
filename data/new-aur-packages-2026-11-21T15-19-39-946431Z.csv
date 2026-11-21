@@ -1,0 +1,12 @@
+created_at,package,version,votes,description
+2026-11-21T14:37:40Z,bilibilive-git,0.1.1.r0.g0f97b0e-1,0,Native Bilibili streaming studio following the latest Project Z sources
+2026-11-21T14:37:40Z,bilibilive-obs-plugin-git,0.1.1.r0.g0f97b0e-1,0,Native OBS PK audio/video capture for bilibilive (Git)
+2026-11-21T14:43:58Z,mandara-bin,0.36.0-1,0,"GPU-accelerated, design-first Wayland desktop shell for MangoWM, Niri and Hyprland (binary release)"
+2026-11-21T15:01:46Z,ui-craft-bin,1.0.21-1,0,Installer CLI for the UI Craft design system for AI coding agents
+2026-11-21T15:02:00Z,gputaskman-bin,0.4.4-1,0,"An htop for what is inside your GPU: per-process VRAM, engines and LLM buffer breakdown"
+2026-11-21T15:02:02Z,mutter-native-xwayland,51.1-2,0,Window manager and compositor for GNOME (with opt-in native Xwayland scaling)
+2026-11-21T15:02:02Z,mutter-native-xwayland-devkit,51.1-2,0,GNOME Mutter Development Kit (native Xwayland scaling build)
+2026-11-21T15:02:02Z,mutter-native-xwayland-docs,51.1-2,0,Window manager and compositor for GNOME (with opt-in native Xwayland scaling) (documentation)
+2026-11-21T15:10:14Z,anirust,1.1.1-1,0,Desktop client for Anixart with a player of its own
+2026-11-21T15:10:22Z,anirust-bin,1.1.1-1,0,Desktop client for Anixart with an mpv player (prebuilt)
+2026-11-21T15:16:39Z,python-tokenizers-bin,0.23.2-2,0,Fast state-of-the-art tokenizers optimized for research and production (official wheel)
