@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-21T01:28:46Z,python-assoc-scan,0.0.6-1,0,Associative scan in PyTorch with optional GPU acceleration
+2026-11-21T01:31:23Z,onnxruntime-provider-migraphx,1.29.0-1,0,"The MIGraphX execution provider of ONNX Runtime, for onnxruntime-core (AMD GPUs; untested on AMD hardware)"
+2026-11-21T01:31:23Z,python-onnxruntime-provider-migraphx,1.29.0-1,0,"The MIGraphX execution provider of ONNX Runtime in its Python module, python-onnxruntime-core (AMD GPUs; untested on AMD hardware)"
+2026-11-21T02:00:26Z,corsa,2.6.72-1,0,Decentralized end-to-end encrypted messenger built on the Gazeta protocol
+2026-11-21T02:14:11Z,line-linux-bin,0.1.git33.76bba8a-1,0,"Unofficial native LINE desktop client, repackaged from the Ubuntu DEB"

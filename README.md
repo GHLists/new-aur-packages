@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 01:20 UTC
+## Latest list — 2026-11-21 02:20 UTC
 
-New packages created between 2026-11-21 00:21 UTC and 2026-11-21 01:20 UTC.
+New packages created between 2026-11-21 01:20 UTC and 2026-11-21 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-21T01-20-08-110563Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-21T02-20-49-9552Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 00:27:23 | [trimd](https://aur.archlinux.org/packages/trimd) | 0.4.0-1 | 1 | A terminal TUI that renders markdown — primarily Obsidian notes — as clean, sty… |
-| 2026-11-21 01:05:17 | [orion-32-control-panel](https://aur.archlinux.org/packages/orion-32-control-panel) | 0.5.0-1 | 1 | A fast, modern, cross-platform rewrite of the Orion 32 control panel |
-| 2026-11-21 01:08:32 | [btpop](https://aur.archlinux.org/packages/btpop) | 0.1.0-1 | 0 | GTK4 Bluetooth popup and pairing agent for BlueZ (replaces blueman) |
+| 2026-11-21 01:28:46 | [python-assoc-scan](https://aur.archlinux.org/packages/python-assoc-scan) | 0.0.6-1 | 0 | Associative scan in PyTorch with optional GPU acceleration |
+| 2026-11-21 01:31:23 | [onnxruntime-provider-migraphx](https://aur.archlinux.org/packages/onnxruntime-provider-migraphx) | 1.29.0-1 | 0 | The MIGraphX execution provider of ONNX Runtime, for onnxruntime-core (AMD GPUs… |
+| 2026-11-21 01:31:23 | [python-onnxruntime-provider-migraphx](https://aur.archlinux.org/packages/python-onnxruntime-provider-migraphx) | 1.29.0-1 | 0 | The MIGraphX execution provider of ONNX Runtime in its Python module, python-on… |
+| 2026-11-21 02:00:26 | [corsa](https://aur.archlinux.org/packages/corsa) | 2.6.72-1 | 0 | Decentralized end-to-end encrypted messenger built on the Gazeta protocol |
+| 2026-11-21 02:14:11 | [line-linux-bin](https://aur.archlinux.org/packages/line-linux-bin) | 0.1.git33.76bba8a-1 | 0 | Unofficial native LINE desktop client, repackaged from the Ubuntu DEB |
 
 ## Data source
 
