@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-21T03:31:11Z,ps-vulkanplay-bin,0.0.3-1,0,"Remote Play client for PS5 and PS4 consoles, with its own Vulkan renderer"
+2026-11-21T03:51:11Z,uu-remote-official-bin,4.48.3.33459-1,0,UU远程官方 Linux 客户端
+2026-11-21T04:02:03Z,msi-gpu-mux-switch,0.2.0-1,0,Inspect and switch the GPU MUX mode on the MSI Vector 16 HX AI A2XWIG
+2026-11-21T04:02:10Z,msi-gpu-mux-switch-bin,0.2.0-1,0,Inspect and switch the GPU MUX mode on the MSI Vector 16 HX AI A2XWIG (prebuilt upstream release)
+2026-11-21T04:10:21Z,qy-printer-bin,2.1.0.3-2,0,QY thermal/label printer CUPS PPDs and proprietary raster filters
