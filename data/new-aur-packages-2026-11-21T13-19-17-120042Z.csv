@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-21T12:32:01Z,anker-c200,0.1.1-1,0,"Live preview and settings (FOV, mic pickup, mirror, anti-flicker) for the Anker PowerConf C200 webcam"
+2026-11-21T12:41:50Z,spiceforge,0.0.1-1,0,Real-time audio circuit simulator and schematic editor based on LiveSPICE
+2026-11-21T12:49:25Z,niri-settings-app,0.1.0-1,0,Safe graphical settings app for the niri compositor
+2026-11-21T13:04:04Z,agentic-hive-git,0.1.0.r62.g4840de9-2,0,"Persistent Unix habitat for Claude Code, Codex, OpenCode and Antigravity agents sharing projects"
+2026-11-21T13:09:35Z,rmx,0.9.0-1,0,"A faster rm written in Rust: parallel unlink, rm-compatible flags, never follows symlinks"
+2026-11-21T13:09:43Z,rmx-fast-bin,0.9.0-1,0,"A faster rm written in Rust: parallel unlink, rm-compatible flags, never follows symlinks (prebuilt static binary)"
