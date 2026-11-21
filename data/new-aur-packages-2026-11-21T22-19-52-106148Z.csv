@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-21T21:38:46Z,guildmaster,0.1-1,0,FIFO-like GNU make jobserver node via CUSE
+2026-11-21T21:55:41Z,steve,1.5.2-2,0,"GNU make-compatible system-wide jobserver with token accounting, implemented via CUSE"
+2026-11-21T22:12:46Z,apkscope-bin,0.11.0-1,0,"Android APK decompiler, xrefs, API recon and MCP server, with native viewer"
