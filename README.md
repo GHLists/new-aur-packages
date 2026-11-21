@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 06:21 UTC
+## Latest list — 2026-11-21 07:21 UTC
 
-New packages created between 2026-11-21 05:19 UTC and 2026-11-21 06:21 UTC.
+New packages created between 2026-11-21 06:21 UTC and 2026-11-21 07:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-21T06-21-07-613627Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-21T07-21-08-868182Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 05:25:47 | [fcitx5-commit](https://aur.archlinux.org/packages/fcitx5-commit) | 0.1.0-1 | 0 | fcitx5 addon that lets other programs insert text into the focused input field… |
-| 2026-11-21 05:32:16 | [chupathingyce-bin](https://aur.archlinux.org/packages/chupathingyce-bin) | 0.9.1a-1 | 0 | Halo: Combat Evolved native port for modern systems (prebuilt Linux release) |
-| 2026-11-21 05:47:12 | [aethersdr-bin](https://aur.archlinux.org/packages/aethersdr-bin) | 26.11.3-2 | 0 | Native amateur-radio workstation for FlexRadio transceivers |
-| 2026-11-21 06:02:27 | [port-ex-machina-bin](https://aur.archlinux.org/packages/port-ex-machina-bin) | 2026.11.20.0b062125… | 0 | Deus Ex source port with DXLauncher and DXEngine (prebuilt Linux release) |
+| 2026-11-21 06:32:57 | [sodam-bin](https://aur.archlinux.org/packages/sodam-bin) | 0.4.0-1 | 0 | Native Qishui Music desktop client built with GPUI (prebuilt binary) |
+| 2026-11-21 06:37:42 | [twintaillauncher-cn](https://aur.archlinux.org/packages/twintaillauncher-cn) | 2.5.3.cn.2-1 | 0 | TwintailLauncher fork with working third-party game repositories |
+| 2026-11-21 06:46:36 | [caelestia-lib](https://aur.archlinux.org/packages/caelestia-lib) | 0.0.2-1 | 0 | Shared C++ library for Caelestia |
+| 2026-11-21 06:51:48 | [ferron](https://aur.archlinux.org/packages/ferron) | 2.8.1-1 | 0 | A fast, modern web server written in Rust |
+| 2026-11-21 06:52:02 | [ferron-git](https://aur.archlinux.org/packages/ferron-git) | 3.0.0rc11.r0.g00000… | 0 | A fast, modern web server written in Rust (git) |
+| 2026-11-21 06:52:16 | [ferron-rc](https://aur.archlinux.org/packages/ferron-rc) | 3.0.0rc.11-1 | 0 | A fast, modern web server written in Rust (release candidate) |
 
 ## Data source
 
