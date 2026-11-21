@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 22:19 UTC
+## Latest list — 2026-11-21 23:20 UTC
 
-New packages created between 2026-11-21 21:20 UTC and 2026-11-21 22:19 UTC.
+New packages created between 2026-11-21 22:19 UTC and 2026-11-21 23:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-21T22-19-52-106148Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-21T23-20-08-280525Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 21:38:46 | [guildmaster](https://aur.archlinux.org/packages/guildmaster) | 0.1-1 | 0 | FIFO-like GNU make jobserver node via CUSE |
-| 2026-11-21 21:55:41 | [steve](https://aur.archlinux.org/packages/steve) | 1.5.2-2 | 0 | GNU make-compatible system-wide jobserver with token accounting, implemented vi… |
-| 2026-11-21 22:12:46 | [apkscope-bin](https://aur.archlinux.org/packages/apkscope-bin) | 0.11.0-1 | 0 | Android APK decompiler, xrefs, API recon and MCP server, with native viewer |
+| 2026-11-21 22:22:07 | [openaula](https://aur.archlinux.org/packages/openaula) | 0.1.5-1 | 0 | TUI, CLI y API para configurar el teclado AULA/Epomaker F108 Pro en Linux |
+| 2026-11-21 22:32:27 | [libgda-git](https://aur.archlinux.org/packages/libgda-git) | 6.0.0.r183.71ad957f… | 1 | Database access library |
+| 2026-11-21 22:32:27 | [libgda-mysql-git](https://aur.archlinux.org/packages/libgda-mysql-git) | 6.0.0.r183.71ad957f… | 1 | libgda provider for MySQL |
+| 2026-11-21 22:32:27 | [libgda-postgres-git](https://aur.archlinux.org/packages/libgda-postgres-git) | 6.0.0.r183.71ad957f… | 1 | libgda provider for PostgreSQL |
+| 2026-11-21 23:08:23 | [uqbit](https://aur.archlinux.org/packages/uqbit) | 0.1.0-1 | 0 | uQ's torrent app: a Qt Quick front-end for qBittorrent-nox that follows the uQ… |
 
 ## Data source
 
