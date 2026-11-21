@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-21T07:28:40Z,python-entropack,0.1.8-1,0,CUDA tensor compression library for PyTorch
+2026-11-21T07:45:47Z,avernella-bin,0.1+git4.4deff75-1,0,"Native Linux client for LINE, packaged from the Avernella Ubuntu release"
+2026-11-21T08:09:01Z,propsandproofs,0.1.0-1,0,"Propositional and Modal Logic (K/T/S4/S5) tabletop dice, Fitch proof, and Kripke worlds game"
