@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 10:19 UTC
+## Latest list — 2026-11-21 11:21 UTC
 
-New packages created between 2026-11-21 09:19 UTC and 2026-11-21 10:19 UTC.
+New packages created between 2026-11-21 10:19 UTC and 2026-11-21 11:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-21T10-19-23-823075Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-21T11-21-02-589344Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 09:33:19 | [ante-bin](https://aur.archlinux.org/packages/ante-bin) | 0.3.7-2 | 0 | Ante CLI (prebuilt static binary from the official release) |
-| 2026-11-21 09:36:10 | [sdat-bin](https://aur.archlinux.org/packages/sdat-bin) | 2.3.0-1 | 0 | Unofficial native GTK4 / Adwaita music streaming client for TIDAL |
-| 2026-11-21 09:40:19 | [openmolcas](https://aur.archlinux.org/packages/openmolcas) | 26.10-1 | 0 | Multiconfigurational quantum chemistry package |
+| 2026-11-21 10:52:12 | [hyprfetch-git](https://aur.archlinux.org/packages/hyprfetch-git) | 0.3.1.r0.g0000000-1 | 0 | Hyprland-native fetch utility for system, session, and rice state |
+| 2026-11-21 11:07:28 | [xdg-desktop-portal-gtk4-bin](https://aur.archlinux.org/packages/xdg-desktop-portal-gtk4-bin) | 1.6.6-1 | 0 | GTK4 backend for xdg-desktop-portal (prebuilt release binary) |
 
 ## Data source
 
