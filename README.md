@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 08:21 UTC
+## Latest list — 2026-11-21 10:19 UTC
 
-New packages created between 2026-11-21 07:21 UTC and 2026-11-21 08:21 UTC.
+New packages created between 2026-11-21 09:19 UTC and 2026-11-21 10:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-21T08-21-26-926289Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-21T10-19-23-823075Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 07:28:40 | [python-entropack](https://aur.archlinux.org/packages/python-entropack) | 0.1.8-1 | 0 | CUDA tensor compression library for PyTorch |
-| 2026-11-21 07:45:47 | [avernella-bin](https://aur.archlinux.org/packages/avernella-bin) | 0.1+git4.4deff75-1 | 0 | Native Linux client for LINE, packaged from the Avernella Ubuntu release |
-| 2026-11-21 08:09:01 | [propsandproofs](https://aur.archlinux.org/packages/propsandproofs) | 0.1.0-1 | 0 | Propositional and Modal Logic (K/T/S4/S5) tabletop dice, Fitch proof, and Kripk… |
+| 2026-11-21 09:33:19 | [ante-bin](https://aur.archlinux.org/packages/ante-bin) | 0.3.7-2 | 0 | Ante CLI (prebuilt static binary from the official release) |
+| 2026-11-21 09:36:10 | [sdat-bin](https://aur.archlinux.org/packages/sdat-bin) | 2.3.0-1 | 0 | Unofficial native GTK4 / Adwaita music streaming client for TIDAL |
+| 2026-11-21 09:40:19 | [openmolcas](https://aur.archlinux.org/packages/openmolcas) | 26.10-1 | 0 | Multiconfigurational quantum chemistry package |
 
 ## Data source
 
