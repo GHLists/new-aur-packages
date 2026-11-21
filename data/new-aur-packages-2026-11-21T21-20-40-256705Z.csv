@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-21T20:26:21Z,openbot,0.76.0-1,0,"Local-first desktop workspace for persistent AI teammates. Run AI with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration."
+2026-11-21T20:50:03Z,goatak-setup-archbased-git,r9.d3caaac-1,0,Interactive GoATAK setup and HTTPS enrollment helper for Arch-based Linux
+2026-11-21T21:02:14Z,circle-bin,240-1,0,Circle C++ compiler with novel language features (prebuilt binaries)
+2026-11-21T21:06:47Z,rdiskinfo-bin,0.1.0-1,0,Cross-protocol Linux S.M.A.R.T. and disk diagnostics viewer

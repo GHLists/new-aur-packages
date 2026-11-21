@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 20:20 UTC
+## Latest list — 2026-11-21 21:20 UTC
 
-New packages created between 2026-11-21 19:20 UTC and 2026-11-21 20:20 UTC.
+New packages created between 2026-11-21 20:20 UTC and 2026-11-21 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-21T20-20-11-883552Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-21T21-20-40-256705Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 19:28:58 | [dx-rust-bin](https://aur.archlinux.org/packages/dx-rust-bin) | 0.12.0-1 | 0 | Deus Ex rebuilt from scratch in Rust on the Bevy engine (prebuilt release, need… |
-| 2026-11-21 19:37:40 | [krust-bin](https://aur.archlinux.org/packages/krust-bin) | 0.19.0-1 | 0 | Latency-first Kubernetes terminal navigator for multi-cluster operators |
+| 2026-11-21 20:26:21 | [openbot](https://aur.archlinux.org/packages/openbot) | 0.76.0-1 | 0 | Local-first desktop workspace for persistent AI teammates. Run AI with dedicate… |
+| 2026-11-21 20:50:03 | [goatak-setup-archbased-git](https://aur.archlinux.org/packages/goatak-setup-archbased-git) | r9.d3caaac-1 | 0 | Interactive GoATAK setup and HTTPS enrollment helper for Arch-based Linux |
+| 2026-11-21 21:02:14 | [circle-bin](https://aur.archlinux.org/packages/circle-bin) | 240-1 | 0 | Circle C++ compiler with novel language features (prebuilt binaries) |
+| 2026-11-21 21:06:47 | [rdiskinfo-bin](https://aur.archlinux.org/packages/rdiskinfo-bin) | 0.1.0-1 | 0 | Cross-protocol Linux S.M.A.R.T. and disk diagnostics viewer |
 
 ## Data source
 
