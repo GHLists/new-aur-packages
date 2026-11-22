@@ -1,0 +1,13 @@
+created_at,package,version,votes,description
+2026-11-22T13:25:06Z,orangtask-git,0.1.0.r56.g036b22c-1,0,"Native desktop client for OrangTask: tray popup, quick add, reminders and KRunner search"
+2026-11-22T13:31:44Z,orangtask-bin,2-1,0,Native desktop client for OrangTask (prebuilt binary)
+2026-11-22T13:35:10Z,yapfast-bin,0.4.1-2,0,Native Discord client that stays light on memory (prebuilt binary)
+2026-11-22T13:47:31Z,ttf-asap-sharp-variable,3.002-1,1,Contemporary sans-serif typeface family from Omnibus-Type.
+2026-11-22T13:51:05Z,blood-bin,0.1.3-1,1,Performant and expressive shell
+2026-11-22T14:00:28Z,yapfast-nightly-bin,0.5.0nightly.202611…,0,Native Discord client that stays light on memory (nightly prebuilt binary)
+2026-11-22T14:04:57Z,wibo-bin,1.2.0-1,0,"A minimal, low-fuss wrapper that can run simple command-line 32-bit Windows binaries on Linux and macOS."
+2026-11-22T14:06:43Z,asus-vs229h-edid-firmware,1.3-1,0,"Fixed EDID for the ASUS VS229H monitor (its EEPROM checksum byte is corrupt, so drivers reject the real EDID and offer only 1024x768)"
+2026-11-22T14:07:20Z,ed-up-launcher-bin,0.23.0-1,0,"Launcher for ED-UP (formerly EDVR), the unofficial patch for Elite Dangerous, running in its Proton/Wine prefix"
+2026-11-22T14:10:31Z,ttf-chivo-variable,2.002-1,0,Grotesque sans-serif typeface family from Omnibus-Type.
+2026-11-22T14:16:08Z,wrtag,,,Fast automated music tagging and organisation based on MusicBrainz
+2026-11-22T14:16:26Z,ttf-chivo-mono-variable,,,Grotesque sans-serif typeface family from Omnibus-Type.
