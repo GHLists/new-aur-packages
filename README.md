@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 11:21 UTC
+## Latest list — 2026-11-22 12:20 UTC
 
-New packages created between 2026-11-22 10:20 UTC and 2026-11-22 11:21 UTC.
+New packages created between 2026-11-22 11:21 UTC and 2026-11-22 12:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-22T11-21-09-737326Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-22T12-20-51-862295Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-22 10:33:16 | [revo-panel-bin](https://aur.archlinux.org/packages/revo-panel-bin) | 0.1.0-1 | 0 | Linux hardware control panel for MECHREVO laptops |
-| 2026-11-22 10:52:24 | [shiyi-translator-bin](https://aur.archlinux.org/packages/shiyi-translator-bin) | 0.3.7-11 | 0 | Desktop translator with configurable translation services |
-| 2026-11-22 11:12:43 | [deveco-cli](https://aur.archlinux.org/packages/deveco-cli) | 1.3.12-2 | 0 | HarmonyOS application development command line tool (DevEco CLI) |
-| 2026-11-22 11:12:51 | [deveco-devicetool](https://aur.archlinux.org/packages/deveco-devicetool) | 4.0.0.400-1 | 0 | HUAWEI DevEco Device Tool for OpenHarmony device development (VS Code toolchain… |
+| 2026-11-22 11:53:48 | [radio-tui](https://aur.archlinux.org/packages/radio-tui) | 1.0.0-2 | 0 | Lightweight curses internet radio player |
+| 2026-11-22 12:00:44 | [deveco-commandline-tools](https://aur.archlinux.org/packages/deveco-commandline-tools) | 6.1.1.460-3 | 0 | HUAWEI Command Line Tools for HarmonyOS: hvigorw, ohpm, hstack, codelinter, SDK… |
+| 2026-11-22 12:06:12 | [liney-bin](https://aur.archlinux.org/packages/liney-bin) | 0.1.36-1 | 0 | Unofficial LINE desktop client for Linux, packaged from the upstream Liney rele… |
+| 2026-11-22 12:14:12 | [lixun](https://aur.archlinux.org/packages/lixun) | 0.7.10-1 | 0 | Spotlight-like launcher for Linux (core: daemon, gui, cli, preview) |
+| 2026-11-22 12:14:24 | [lixun-semantic](https://aur.archlinux.org/packages/lixun-semantic) | 0.7.10-1 | 0 | Lixun semantic sidecar worker: dense-vector hybrid retrieval via fastembed + La… |
+| 2026-11-22 12:14:35 | [lixun-ocr](https://aur.archlinux.org/packages/lixun-ocr) | 0.7.10-1 | 0 | Lixun OCR metapackage: pulls in tesseract + English language data |
 
 ## Data source
 
