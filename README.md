@@ -12,18 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 01:20 UTC
+## Latest list — 2026-11-22 02:20 UTC
 
-New packages created between 2026-11-22 00:19 UTC and 2026-11-22 01:20 UTC.
+New packages created between 2026-11-22 01:20 UTC and 2026-11-22 02:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-22T01-20-18-365662Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-22T02-20-30-954937Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-22 00:33:23 | [fcitx5-zaphodheads-git](https://aur.archlinux.org/packages/fcitx5-zaphodheads-git) | 5.1.23.r53.g81e3986… | 0 | Next generation of fcitx with X11 ZaphodHeads multi-screen support |
-| 2026-11-22 00:58:04 | [proxybridge-bin](https://aur.archlinux.org/packages/proxybridge-bin) | 4.1.0-1 | 0 | Universal proxy client that routes any Linux application's TCP and UDP traffic… |
-| 2026-11-22 00:59:13 | [openaula-bin](https://aur.archlinux.org/packages/openaula-bin) | 0.1.9-1 | 0 | TUI, CLI y API para configurar el teclado AULA/Epomaker F108 Pro (binario estát… |
-| 2026-11-22 01:15:53 | [mithka-bin](https://aur.archlinux.org/packages/mithka-bin) | 1.12.8-1 | 0 | A fast, compact Telegram client built with Flutter and TDLib |
+| 2026-11-22 01:22:33 | [orca-ade-bin](https://aur.archlinux.org/packages/orca-ade-bin) | 1.4.269-2 | 0 | Next-gen IDE for parallel agentic development |
+| 2026-11-22 01:25:15 | [owl-dictionary-bin](https://aur.archlinux.org/packages/owl-dictionary-bin) | 0.2.0-1 | 0 | Owl: a web dictionary app supporting MDX/MDD dictionary files |
 
 ## Data source
 
