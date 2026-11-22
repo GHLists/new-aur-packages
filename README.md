@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 21:19 UTC
+## Latest list — 2026-11-22 22:19 UTC
 
-New packages created between 2026-11-22 20:21 UTC and 2026-11-22 21:19 UTC.
+New packages created between 2026-11-22 21:19 UTC and 2026-11-22 22:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-22T21-19-27-886024Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-22T22-19-04-997864Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-22 20:37:56 | [fast-text-editor-bin](https://aur.archlinux.org/packages/fast-text-editor-bin) | 0.7.1-1 | 1 | A fast customised text editor in rust |
-| 2026-11-22 20:44:40 | [mintme-wallet-bin](https://aur.archlinux.org/packages/mintme-wallet-bin) | 1.2.0-1 | 0 | MintMe Coin desktop wallet (prebuilt Electron 33 binary) |
-| 2026-11-22 20:45:39 | [git-cow-worktree-git](https://aur.archlinux.org/packages/git-cow-worktree-git) | r4.0f6852c-1 | 0 | Drop-in replacement for git worktree add using copy-on-write reflinks |
+| 2026-11-22 21:19:51 | [barwatch-git](https://aur.archlinux.org/packages/barwatch-git) | 0.4.0.r65.g54cf06d-1 | 0 | Watch Beyond All Reason replays together in rooms on a barwatch server |
+| 2026-11-22 21:24:38 | [lightdeck](https://aur.archlinux.org/packages/lightdeck) | 0.3.0-1 | 0 | Desktop remote for Hue lights: rooms, scenes and colors |
+| 2026-11-22 21:34:30 | [terratactician-expandoria-bin](https://aur.archlinux.org/packages/terratactician-expandoria-bin) | 0.4.2-1 | 0 | Open-source strategy puzzle video game, inspired by games like Dorfromantik. Bi… |
+| 2026-11-22 21:39:39 | [tola](https://aur.archlinux.org/packages/tola) | 0.8.2-1 | 0 | Typst-based static site generator: your whole site is one Typst program |
+| 2026-11-22 21:52:50 | [tola-bin](https://aur.archlinux.org/packages/tola-bin) | 0.8.2-1 | 0 | Typst-based static site generator (prebuilt binary) |
 
 ## Data source
 
