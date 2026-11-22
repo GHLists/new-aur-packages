@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-22T12:52:53Z,druglord2,1.0-1,0,Native Linux port of Drug Lord 2 by Fred Bulback (Geek Hideout)
+2026-11-22T13:09:48Z,lixun-bin,0.7.10-1,0,"Spotlight-like launcher for Linux (core: daemon, gui, cli, preview)"
+2026-11-22T13:09:59Z,lixun-semantic-bin,0.7.10-1,0,Lixun semantic sidecar worker: dense-vector hybrid retrieval via fastembed + LanceDB
+2026-11-22T13:13:17Z,grubmgr-git,r2.19fe9a7-1,0,Grub2 Config manager (themes and config)

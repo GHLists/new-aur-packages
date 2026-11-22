@@ -12,20 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 12:20 UTC
+## Latest list — 2026-11-22 13:19 UTC
 
-New packages created between 2026-11-22 11:21 UTC and 2026-11-22 12:20 UTC.
+New packages created between 2026-11-22 12:20 UTC and 2026-11-22 13:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-22T12-20-51-862295Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-22T13-19-39-672817Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-22 11:53:48 | [radio-tui](https://aur.archlinux.org/packages/radio-tui) | 1.0.0-2 | 0 | Lightweight curses internet radio player |
-| 2026-11-22 12:00:44 | [deveco-commandline-tools](https://aur.archlinux.org/packages/deveco-commandline-tools) | 6.1.1.460-3 | 0 | HUAWEI Command Line Tools for HarmonyOS: hvigorw, ohpm, hstack, codelinter, SDK… |
-| 2026-11-22 12:06:12 | [liney-bin](https://aur.archlinux.org/packages/liney-bin) | 0.1.36-1 | 0 | Unofficial LINE desktop client for Linux, packaged from the upstream Liney rele… |
-| 2026-11-22 12:14:12 | [lixun](https://aur.archlinux.org/packages/lixun) | 0.7.10-1 | 0 | Spotlight-like launcher for Linux (core: daemon, gui, cli, preview) |
-| 2026-11-22 12:14:24 | [lixun-semantic](https://aur.archlinux.org/packages/lixun-semantic) | 0.7.10-1 | 0 | Lixun semantic sidecar worker: dense-vector hybrid retrieval via fastembed + La… |
-| 2026-11-22 12:14:35 | [lixun-ocr](https://aur.archlinux.org/packages/lixun-ocr) | 0.7.10-1 | 0 | Lixun OCR metapackage: pulls in tesseract + English language data |
+| 2026-11-22 12:52:53 | [druglord2](https://aur.archlinux.org/packages/druglord2) | 1.0-1 | 0 | Native Linux port of Drug Lord 2 by Fred Bulback (Geek Hideout) |
+| 2026-11-22 13:09:48 | [lixun-bin](https://aur.archlinux.org/packages/lixun-bin) | 0.7.10-1 | 0 | Spotlight-like launcher for Linux (core: daemon, gui, cli, preview) |
+| 2026-11-22 13:09:59 | [lixun-semantic-bin](https://aur.archlinux.org/packages/lixun-semantic-bin) | 0.7.10-1 | 0 | Lixun semantic sidecar worker: dense-vector hybrid retrieval via fastembed + La… |
+| 2026-11-22 13:13:17 | [grubmgr-git](https://aur.archlinux.org/packages/grubmgr-git) | r2.19fe9a7-1 | 0 | Grub2 Config manager (themes and config) |
 
 ## Data source
 
