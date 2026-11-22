@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-22T17:25:49Z,zepp-life,0.1.0-1,0,Store your Zepp Life data locally and inspect it
+2026-11-22T17:26:14Z,clamaurscan-git,r1.0f5b135-8,0,Automatically scan AUR packages with ClamAV before building them with Paru or Yay.
+2026-11-22T17:50:24Z,sppy,0.3.1-1,0,Watch videos in sync with friends: a Syncplay alternative (mpv or VLC)
+2026-11-22T17:56:37Z,text_expander,0.2.0-1,0,Minimal Wayland text expander compatible with espanso config format
+2026-11-22T17:59:25Z,locklet,0.1.0-1,0,"Lock screen for river and rivermonad (ext-session-lock-v1), with the blurred wallpaper of bgmonad"
+2026-11-22T18:00:51Z,evince-rs,0.1.0-1,0,Lightweight GTK3 document viewer written in Rust (port of Evince)
+2026-11-22T18:02:00Z,hearts-rs,0.1.0-1,0,Windows 95 style Hearts for Wayland
