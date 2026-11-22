@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 05:20 UTC
+## Latest list — 2026-11-22 06:18 UTC
 
-New packages created between 2026-11-22 04:18 UTC and 2026-11-22 05:20 UTC.
+New packages created between 2026-11-22 05:20 UTC and 2026-11-22 06:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-22T05-20-41-746568Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-22T06-18-34-244479Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-22 04:24:49 | [hyprshare-git](https://aur.archlinux.org/packages/hyprshare-git) | 0.1.0.r0.g0000000-1 | 0 | Linux-native sharing platform for Hyprland and Wayland (CLI, TUI, desktop GUI a… |
-| 2026-11-22 04:50:56 | [r-watcher](https://aur.archlinux.org/packages/r-watcher) | 0.2.2-1 | 0 | Watch the File System for Changes |
+| 2026-11-22 05:29:17 | [tuimessenger-bin](https://aur.archlinux.org/packages/tuimessenger-bin) | 0.1.6-1 | 2 | WhatsApp, Telegram, Slack and Instagram in one terminal app |
+| 2026-11-22 05:31:16 | [musica-bin](https://aur.archlinux.org/packages/musica-bin) | 0.1.0-1 | 1 | Terminal music player with folder browser, queue, playlists, live spectrum, cov… |
+| 2026-11-22 06:02:56 | [vrcs-bin](https://aur.archlinux.org/packages/vrcs-bin) | 0.3.12-1 | 0 | Real-time caption, translation, learning and AI tool for VRChat |
 
 ## Data source
 
