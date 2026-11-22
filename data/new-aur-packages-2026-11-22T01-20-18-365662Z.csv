@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-22T00:33:23Z,fcitx5-zaphodheads-git,5.1.23.r53.g81e3986…,0,Next generation of fcitx with X11 ZaphodHeads multi-screen support
+2026-11-22T00:58:04Z,proxybridge-bin,4.1.0-1,0,Universal proxy client that routes any Linux application's TCP and UDP traffic through an HTTP/SOCKS5 proxy
+2026-11-22T00:59:13Z,openaula-bin,0.1.9-1,0,"TUI, CLI y API para configurar el teclado AULA/Epomaker F108 Pro (binario estático)"
+2026-11-22T01:15:53Z,mithka-bin,1.12.8-1,0,"A fast, compact Telegram client built with Flutter and TDLib"
