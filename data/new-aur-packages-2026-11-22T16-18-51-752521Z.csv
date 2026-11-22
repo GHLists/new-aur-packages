@@ -1,0 +1,12 @@
+created_at,package,version,votes,description
+2026-11-22T15:22:37Z,langis-gui,0.1.0-1,0,"A native Signal desktop client for Linux on the langis library, drawn with egui (unofficial)"
+2026-11-22T15:57:42Z,lexington,1.26.2-1,0,"Screenplay converter: Fountain, Final Draft, PDF, HTML, LaTeX, DOCX/ODT and more"
+2026-11-22T15:57:47Z,accolade,0.6.0-1,0,"Screenplay editor for Fountain, with PDF/HTML/FDX export"
+2026-11-22T15:57:52Z,ttf-courier-badi,1.101-1,0,"Courier Badi, a monospace typewriter font based on Courier Prime, extended for Bahá'í usage"
+2026-11-22T15:57:57Z,puzzle-pits,0.1.0-1,0,"The Puzzle Pits, Abe Pralle's 1995 DOS puzzle game, on SDL2"
+2026-11-22T15:58:02Z,rocksndiamonds-pits-git,4.4.2.4.r50.f5c7e31…,0,Rocks'n'Diamonds with a game engine and level set for The Puzzle Pits
+2026-11-22T15:58:08Z,gameviber-git,r218.11f8e67-1,0,"A GameMaker-style 2D game engine and editor in Go, made for people and coding agents alike"
+2026-11-22T15:58:13Z,digwire,0.5.0-1,0,Hybrid BitTorrent swarm and multi-source web download manager with a Libadwaita look
+2026-11-22T15:58:18Z,goloco-git,r1191.669c40a-1,0,"Reimplementation of Chris Sawyer's Locomotion in Go, ported from OpenLoco (needs the original game data)"
+2026-11-22T16:07:33Z,aquilum-bin,0.3.28-1,0,"Fast local-first Markdown knowledge base with live preview, search, graph, Dataview, book reader, and MCP"
+2026-11-22T16:10:20Z,ztd,0.3.0-1,0,Local task system for humans and agents
