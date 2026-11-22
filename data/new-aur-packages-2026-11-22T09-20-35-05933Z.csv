@@ -1,0 +1,101 @@
+created_at,package,version,votes,description
+2026-11-22T08:42:13Z,coven-bin,0.5.0-1,0,"Local-first runtime and TUI for running Codex, Claude Code"
+2026-11-22T08:42:21Z,crmux-bin,0.20.3-1,0,A TUI viewer for monitoring and managing multiple Claude Code sessions
+2026-11-22T08:42:29Z,crossfyre-toolchain-bin,0.1.44-1,0,"Recon and vulnerability scanning engines with live dashboards for finding subdomains, open ports"
+2026-11-22T08:42:37Z,crossword-git,r58.8307c24-1,0,Terminal-based crossword puzzle player
+2026-11-22T08:42:45Z,deadline,1.0.0-1,0,A haunted late-90s BBS text adventure for your terminal
+2026-11-22T08:42:54Z,declutter-diff-bin,0.2.0-1,0,"A diff viewer for reviewing AI-written code that hides comments, tests, imports, logging"
+2026-11-22T08:43:02Z,degra02-nordvpn-tui-git,r21.60231f4-1,0,A TUI
+2026-11-22T08:43:10Z,depot-rs,0.1.1-1,0,A TUI for managing crates
+2026-11-22T08:43:18Z,deputui,0.3.0-1,0,Review and install JavaScript package updates from npm
+2026-11-22T08:43:26Z,dfdisk-bin,0.2.1-1,0,"Modern forensic disk imaging, damaged media rescue and evidence management"
+2026-11-22T08:43:34Z,discovery-rs,0.1.3-1,0,A TUI for discovering services on your local network
+2026-11-22T08:43:42Z,dsnitch-bin,0.1.0-1,0,Real-time network and DNS egress inspector TUI for Docker containers powered by eBPF
+2026-11-22T08:43:50Z,enimtui,0.2.0-1,0,Terminal-based minesweeper knockoff
+2026-11-22T08:43:59Z,erldash-bin,0.4.0-1,0,"A simple, terminal-based Erlang dashboard"
+2026-11-22T08:44:07Z,every-other-token-bin,5.0.2-1,0,Streams an LLM response and colours each token by the model's confidence from logprobs
+2026-11-22T08:44:15Z,fastcards-bin,2.0.3-1,0,A CLI spaced-repetition flashcard study tool
+2026-11-22T08:44:24Z,fileview-bin,3.1.2-1,0,"A terminal file browser with image previews, Git status, search, and an MCP server"
+2026-11-22T08:44:33Z,fishtanks-bin,1.6.2-1,0,An ASCII aquarium for the terminal
+2026-11-22T08:44:42Z,flip7-git,r11.a6a0bea-1,0,Terminal-based Flip7 game
+2026-11-22T08:44:51Z,flowlens-bin,0.7.3-1,0,"A cross-platform network traffic analyzer with process, IP, and outbound-domain attribution"
+2026-11-22T08:45:00Z,forgetop-bin,1.12.0-1,0,"Pull requests, work items, and CI pipelines from GitHub, GitLab, Azure DevOps, Bitbucket, Linear"
+2026-11-22T08:45:10Z,gentooplz,0.3.1-1,0,A live terminal dashboard for Gentoo package builds
+2026-11-22T08:45:18Z,git-time-machine-tui,0.4.0-1,0,Visual Git reflog TUI for undoing Git mistakes
+2026-11-22T08:45:26Z,gitty-tui-bin,0.2.0-1,0,"A terminal Git client with the GitHub Desktop experience: history, line staging, fetch, pull"
+2026-11-22T08:45:34Z,gmsg-bin,0.1.7-1,0,"Generate, edit, and commit AI-powered Git commit messages from a single TUI"
+2026-11-22T08:45:44Z,graph-tui-bin,0.19.0-1,0,"A terminal graph editor with an infinite canvas, orthogonal edge routing and vim-like keys"
+2026-11-22T08:45:52Z,gtm-tui-git,r874.ced137c-1,0,Feature rich audio player built for terminal enthusiasts
+2026-11-22T08:46:01Z,hedos-bin,1.6.1-1,0,A terminal shelf for the local AI models already on your machine
+2026-11-22T08:46:11Z,herdfold-bin,0.6.0-1,0,"A book reader that lays long text out as facing pages, with notes, vertical Japanese"
+2026-11-22T08:46:19Z,herdr-reviewr-bin,0.52.2-1,0,A code-review pane for coding agents
+2026-11-22T08:46:28Z,hncli,0.4.0-1,0,Hacker News read-only TUI
+2026-11-22T08:46:36Z,hnr-git,r66.6092641-1,0,"A terminal UI for Hacker News: browse feeds, read threaded comments, vote, reply, search"
+2026-11-22T08:46:45Z,holly-hacker-td-git,r103.4a11a72-1,0,A graph-based TUI to-do app
+2026-11-22T08:46:53Z,hostkeep-bin,0.2.1-1,0,"A TUI for editing /etc/hosts: toggle entries, organize them into groups, save with a diff preview"
+2026-11-22T08:47:01Z,hotpath,0.32.1-1,0,"A Rust profiler for CPU, memory, async, SQL, I/O, and lock contention with a live TUI dashboard"
+2026-11-22T08:47:10Z,hustle-tracker-bin,0.4.20-1,0,A privacy-first TUI to track what apps you use and how long you spend on them
+2026-11-22T08:47:18Z,ilmari-bin,0.11.0-1,0,A tmux popup dashboard for monitoring AI coding agents
+2026-11-22T08:47:26Z,inertia-bin,0.1.0-1,0,A 3D physics simulator in your terminal
+2026-11-22T08:47:34Z,invocra-bin,0.3.0-1,0,"A terminal dashboard for GitLab CI across projects and servers, with per-project branch selection"
+2026-11-22T08:47:42Z,invoicepilot-bin,0.1.24-1,0,A TUI for automating invoice and bank statement fetching from Gmail to Google Drive
+2026-11-22T08:47:50Z,iris-tui-bin,0.2.0-1,0,"Live supervisor for every active Claude Code session - status, tokens, estimated cost"
+2026-11-22T08:47:58Z,jdtui-bin,1.9.2-1,0,"A TUI for JDownloader 2 over the My.JDownloader API: downloads, link grabber, accounts"
+2026-11-22T08:48:06Z,judo-git,r145.3b2cd74-1,0,A multi-database TUI for ToDo lists
+2026-11-22T08:48:14Z,kdwarn-pgtui,0.17.0-1,0,A PostgreSQL TUI client that uses your terminal editor for inserts and updates
+2026-11-22T08:48:22Z,keybr-tui-bin,0.3.2-1,0,Adaptive touch-typing practice that finds the keys slowing you down and drills them
+2026-11-22T08:48:30Z,kimun-bin,0.25.3-1,0,A terminal-based Markdown note taking app that combines an interactive TUI with a scriptable CLI
+2026-11-22T08:48:39Z,kktypr-bin,0.1.1-1,0,Terminal touch typing academy and developer code syntax trainer in pure Rust
+2026-11-22T08:48:47Z,kubectl-watch-bin,0.2.4-1,0,A kubectl plugin to provide a pretty delta change view of being watched Kubernetes resources
+2026-11-22T08:48:56Z,lazy-etherscan,1.0.0-1,0,A Simple Terminal UI for the Ethereum Blockchain Explorer
+2026-11-22T08:49:04Z,lazymqtt-bin,0.1.5-1,0,A keyboard-driven terminal client
+2026-11-22T08:49:13Z,lazyslurm-bin,0.5.1-1,0,A lazygit-style terminal UI
+2026-11-22T08:49:21Z,limitdeck-bin,0.1.13-1,0,"A compact, privacy-safe terminal dashboard for AI coding subscription limits"
+2026-11-22T08:49:29Z,linear-tui,0.0.1-1,0,A Linear client that gets all its data from linearctl's JSON interface
+2026-11-22T08:49:37Z,llm-cost-dashboard-bin,1.4.2-1,0,"Prices every LLM API call from OpenAI, Anthropic and Claude Code logs, with a budget"
+2026-11-22T08:49:46Z,llmtrim-bin,0.13.8-1,0,A local proxy that compresses large-language-model API requests to reduce token costs
+2026-11-22T08:49:54Z,maelstrom-tui-bin,0.14.0-1,0,A fast test runner that runs every test in its own container locally or distributed
+2026-11-22T08:50:02Z,martty-bin,0.3.3-1,0,An extensible Rust/ratatui terminal client for DeepSeek Harness and ACP-compatible coding agents
+2026-11-22T08:50:11Z,material,0.1.1-1,0,A material design color palette for the terminal
+2026-11-22T08:50:19Z,meteo-tui-git,r8.bc9bea8-1,0,French weather app in the command line
+2026-11-22T08:50:27Z,miditui-git,r4.95829a6-1,0,A terminal MIDI player and multi-track piano roll visualizer with SoundFont synthesis
+2026-11-22T08:50:36Z,mindfork-rs-bin,0.28.1-1,0,"A terminal AI chat with a memory and a self-model, on local models through llama.cpp or Ollama"
+2026-11-22T08:50:44Z,miniam-bin,0.1.2-1,0,Apple Music in the terminal with true-color album art
+2026-11-22T08:50:52Z,mlbt-bin,0.6.0-1,0,A tui for the MLB Statcast API
+2026-11-22T08:51:00Z,mobicat-bin,0.4.0-1,0,"View one app's Android and iOS simulator logs with the same keys and filters, with crashes grouped"
+2026-11-22T08:51:09Z,modder-rs-git,r31.4424186-1,0,A practical TUI to manage and install mods for Minecraft
+2026-11-22T08:51:18Z,mtui-bin,1.10.0-1,0,A terminal client for Modbus industrial devices
+2026-11-22T08:51:26Z,mxr-bin,0.6.248-1,0,"Local-first email client with Vim-style navigation, multi-account sync, and full-text search"
+2026-11-22T08:51:34Z,nereid-bin,0.9.0-1,0,Create and explore Mermaid diagrams with AI agents through a terminal UI
+2026-11-22T08:51:42Z,noble-bin,1.15.0-1,0,"A HUD terminal workspace with tabs and splits, git projects, system sensors and AI coding quota"
+2026-11-22T08:51:51Z,noctavox-bin,0.3.5-1,0,"A lightweight, customizable TUI music player for local files"
+2026-11-22T08:51:59Z,norte,0.3.0alpha.16-1,0,"Two-pane file manager on one Rust core: terminal, native window, CLI and MCP server for AI agents"
+2026-11-22T08:52:08Z,nviwatch,0.2.4-1,0,"Interactive TUI for monitoring NVIDIA GPU metrics, processes, and power"
+2026-11-22T08:52:16Z,oak-keyring-bin,0.8.0preview.3-1,0,"A local-first, keyboard-driven password manager"
+2026-11-22T08:52:24Z,oeis-tui-bin,1.0.0-1,0,A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal
+2026-11-22T08:52:33Z,opencode-stats-bin,1.4.2-1,0,A terminal dashboard for OpenCode usage statistics and cost breakdowns
+2026-11-22T08:52:41Z,orbit-cli-bin,0.2.0-1,0,An autonomous AI coding agent and Model Context Protocol (MCP) client powered by OpenRouter
+2026-11-22T08:52:49Z,partly-claudy,0.1.1-1,0,Terminal view of Claude status page (status.claude.com)
+2026-11-22T08:52:57Z,pgmon-bin,0.8.1-1,0,A TUI for monitoring PostgreSQL databases
+2026-11-22T08:53:06Z,pixtuoid-tui,0.23.0-1,0,Live pixel-art office for AI coding agents
+2026-11-22T08:53:16Z,private_poker,4.1.0-1,0,"A poker library, server, client"
+2026-11-22T08:53:24Z,procnetmon-git,r3.aece92d-1,0,A TUI for monitoring real-time network stats on Linux systems
+2026-11-22T08:53:32Z,proqi-bin,0.15.0-1,0,A terminal-native prompt composer for developers working with coding agents
+2026-11-22T08:53:40Z,proxy-scraper-checker-bin,4143-1,0,"Scrapes HTTP, SOCKS4 and SOCKS5 proxies from public sources and checks which ones work"
+2026-11-22T08:53:50Z,qmassa,0.3.0-1,0,Displays GPU devices usage stats on Linux
+2026-11-22T08:53:59Z,quick-note-git,r3.535b7e1-1,0,A simple note-taking tool
+2026-11-22T08:54:07Z,rada-fm-bin,0.6.1-1,0,"A terminal file manager that shows a plan before every operation, with a journal, undo"
+2026-11-22T08:54:16Z,raijin-git,r70.bca81a3-1,0,"A free, simple weather TUI that pulls data without the need for an API key, account, or subscription"
+2026-11-22T08:54:24Z,ratifact-bin,0.1.16-1,0,Track and manage build artifacts from multiple programming languages
+2026-11-22T08:54:32Z,ratslate-bin,0.4.0-1,0,An infinite-canvas whiteboard driven by the mouse
+2026-11-22T08:54:40Z,raygun-bin,1.0.5-1,0,A terminal-based receiver for Spatie's Ray debugger
+2026-11-22T08:54:49Z,raymon-bin,0.7.0-1,0,A terminal UI and Model Context Protocol (MCP) server
+2026-11-22T08:54:58Z,readio-bin,0.1.0-1,0,"A terminal ebook reader for EPUB, PDF, Markdown, and plain text with optional local text-to-speech"
+2026-11-22T08:55:07Z,red-table,0.9.2-1,0,"A keyboard-driven terminal image browser for inspecting, comparing, and selecting photos"
+2026-11-22T08:55:15Z,reeve-tui-bin,1.2.0-1,0,"A terminal cockpit for AI agents: watch a run live, score it, and step in when it goes sideways"
+2026-11-22T08:55:23Z,retiretui-bin,0.6.0-1,0,A local-first retirement planner for the terminal
+2026-11-22T08:55:32Z,revw-bin,0.2.9-1,0,A vim-like TUI for managing notes
+2026-11-22T08:55:40Z,rex-tui-bin,0.4.0-1,0,A TUI for managing Incomes
+2026-11-22T08:55:48Z,rigtop-bin,0.35.1-1,0,"System monitor for workstations, laptops and NAS with storage health, per-process GPU memory"
+2026-11-22T08:55:56Z,rootle-bin,0.13.1-1,0,A modal TUI for browsing GitHub and other source-control services with column views
+2026-11-22T08:56:05Z,rsfrac,1.1.2-1,0,"Terminal based fractal explorer, including Mandelbrot, Burning Ship"
