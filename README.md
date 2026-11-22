@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 20:21 UTC
+## Latest list — 2026-11-22 21:19 UTC
 
-New packages created between 2026-11-22 19:21 UTC and 2026-11-22 20:21 UTC.
+New packages created between 2026-11-22 20:21 UTC and 2026-11-22 21:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-22T20-21-59-819927Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-22T21-19-27-886024Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-22 19:22:40 | [wsmancer](https://aur.archlinux.org/packages/wsmancer) | 0.2.0-1 | 0 | PSRP-native WinRM shell |
-| 2026-11-22 19:52:15 | [bongo-bin](https://aur.archlinux.org/packages/bongo-bin) | 1.2.1-3 | 0 | Modern Bangla phonetic & Bijoy keyboard with native Fcitx5 and IBus support |
+| 2026-11-22 20:37:56 | [fast-text-editor-bin](https://aur.archlinux.org/packages/fast-text-editor-bin) | 0.7.1-1 | 1 | A fast customised text editor in rust |
+| 2026-11-22 20:44:40 | [mintme-wallet-bin](https://aur.archlinux.org/packages/mintme-wallet-bin) | 1.2.0-1 | 0 | MintMe Coin desktop wallet (prebuilt Electron 33 binary) |
+| 2026-11-22 20:45:39 | [git-cow-worktree-git](https://aur.archlinux.org/packages/git-cow-worktree-git) | r4.0f6852c-1 | 0 | Drop-in replacement for git worktree add using copy-on-write reflinks |
 
 ## Data source
 

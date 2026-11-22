@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-22T20:37:56Z,fast-text-editor-bin,0.7.1-1,1,A fast customised text editor in rust
+2026-11-22T20:44:40Z,mintme-wallet-bin,1.2.0-1,0,MintMe Coin desktop wallet (prebuilt Electron 33 binary)
+2026-11-22T20:45:39Z,git-cow-worktree-git,r4.0f6852c-1,0,Drop-in replacement for git worktree add using copy-on-write reflinks
