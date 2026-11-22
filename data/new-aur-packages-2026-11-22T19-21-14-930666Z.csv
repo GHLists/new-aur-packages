@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-22T18:21:19Z,g-view,0.1.0-3,0,Minimal image viewer (GTK3 port of qView)
+2026-11-22T18:50:34Z,llvm14-bin,14.0.6-1,0,LLVM 14 and Clang toolchain from upstream binaries
+2026-11-22T18:50:40Z,libosi-bin,0.1.12-1,0,Operating-system introspection library for PANDA
+2026-11-22T18:50:45Z,panda-re,1.8.85-1,0,Platform for Architecture-Neutral Dynamic Analysis
+2026-11-22T18:50:50Z,python-pandare,1.8.85-1,0,Python interface for PANDA dynamic analysis
+2026-11-22T18:55:00Z,clamaurscan,1.0.0-2,0,Automatically scan AUR packages with ClamAV before building them with Paru or Yay.
