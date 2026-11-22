@@ -12,20 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 19:21 UTC
+## Latest list — 2026-11-22 20:21 UTC
 
-New packages created between 2026-11-22 18:18 UTC and 2026-11-22 19:21 UTC.
+New packages created between 2026-11-22 19:21 UTC and 2026-11-22 20:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-22T19-21-14-930666Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-22T20-21-59-819927Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-22 18:21:19 | [g-view](https://aur.archlinux.org/packages/g-view) | 0.1.0-3 | 0 | Minimal image viewer (GTK3 port of qView) |
-| 2026-11-22 18:50:34 | [llvm14-bin](https://aur.archlinux.org/packages/llvm14-bin) | 14.0.6-1 | 0 | LLVM 14 and Clang toolchain from upstream binaries |
-| 2026-11-22 18:50:40 | [libosi-bin](https://aur.archlinux.org/packages/libosi-bin) | 0.1.12-1 | 0 | Operating-system introspection library for PANDA |
-| 2026-11-22 18:50:45 | [panda-re](https://aur.archlinux.org/packages/panda-re) | 1.8.85-1 | 0 | Platform for Architecture-Neutral Dynamic Analysis |
-| 2026-11-22 18:50:50 | [python-pandare](https://aur.archlinux.org/packages/python-pandare) | 1.8.85-1 | 0 | Python interface for PANDA dynamic analysis |
-| 2026-11-22 18:55:00 | [clamaurscan](https://aur.archlinux.org/packages/clamaurscan) | 1.0.0-2 | 0 | Automatically scan AUR packages with ClamAV before building them with Paru or Y… |
+| 2026-11-22 19:22:40 | [wsmancer](https://aur.archlinux.org/packages/wsmancer) | 0.2.0-1 | 0 | PSRP-native WinRM shell |
+| 2026-11-22 19:52:15 | [bongo-bin](https://aur.archlinux.org/packages/bongo-bin) | 1.2.1-3 | 0 | Modern Bangla phonetic & Bijoy keyboard with native Fcitx5 and IBus support |
 
 ## Data source
 
