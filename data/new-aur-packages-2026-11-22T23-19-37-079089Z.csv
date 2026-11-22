@@ -1,0 +1,13 @@
+created_at,package,version,votes,description
+2026-11-22T22:35:05Z,snipline,0.1.0-1,0,"Wayland screenshot, recording, QR and OCR selector"
+2026-11-22T22:35:07Z,tigervnc-runit,1.1.0-1,0,runit services for virtual and existing-X11 TigerVNC sessions on Artix
+2026-11-22T22:40:15Z,snipline-bin,0.1.0-1,0,"Wayland screenshot, recording, QR and OCR selector (prebuilt binary)"
+2026-11-22T23:04:15Z,lib32-nvidia-610xx-utils,610.57.04-1,0,NVIDIA drivers utilities (32-bit) (610xx)
+2026-11-22T23:04:15Z,lib32-opencl-nvidia-610xx,610.57.04-1,0,OpenCL implemention for NVIDIA (32-bit) (610xx)
+2026-11-22T23:04:26Z,nvidia-610xx-settings,610.57.04-1,0,Tool for configuring the NVIDIA graphics driver (610xx)
+2026-11-22T23:04:26Z,libxnvctrl-610xx,610.57.04-1,0,NVIDIA NV-CONTROL X extension (610xx)
+2026-11-22T23:04:35Z,nvidia-610xx-utils,610.57.04-1,0,NVIDIA drivers utilities (610xx)
+2026-11-22T23:04:35Z,opencl-nvidia-610xx,610.57.04-1,0,OpenCL implemention for NVIDIA (610xx)
+2026-11-22T23:04:35Z,nvidia-610xx-open-dkms,610.57.04-1,0,NVIDIA open kernel modules - module sources (610xx)
+2026-11-22T23:04:57Z,telescope-webcam-bin,5.1.4-1,0,Use your Android phone as a webcam on Linux
+2026-11-22T23:11:52Z,peep-tui-bin,0.2.0-1,0,"Terminal file explorer with media, Markdown and Mermaid previews"

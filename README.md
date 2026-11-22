@@ -12,19 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 22:19 UTC
+## Latest list — 2026-11-22 23:19 UTC
 
-New packages created between 2026-11-22 21:19 UTC and 2026-11-22 22:19 UTC.
+New packages created between 2026-11-22 22:19 UTC and 2026-11-22 23:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-22T22-19-04-997864Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-22T23-19-37-079089Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-22 21:19:51 | [barwatch-git](https://aur.archlinux.org/packages/barwatch-git) | 0.4.0.r65.g54cf06d-1 | 0 | Watch Beyond All Reason replays together in rooms on a barwatch server |
-| 2026-11-22 21:24:38 | [lightdeck](https://aur.archlinux.org/packages/lightdeck) | 0.3.0-1 | 0 | Desktop remote for Hue lights: rooms, scenes and colors |
-| 2026-11-22 21:34:30 | [terratactician-expandoria-bin](https://aur.archlinux.org/packages/terratactician-expandoria-bin) | 0.4.2-1 | 0 | Open-source strategy puzzle video game, inspired by games like Dorfromantik. Bi… |
-| 2026-11-22 21:39:39 | [tola](https://aur.archlinux.org/packages/tola) | 0.8.2-1 | 0 | Typst-based static site generator: your whole site is one Typst program |
-| 2026-11-22 21:52:50 | [tola-bin](https://aur.archlinux.org/packages/tola-bin) | 0.8.2-1 | 0 | Typst-based static site generator (prebuilt binary) |
+| 2026-11-22 22:35:05 | [snipline](https://aur.archlinux.org/packages/snipline) | 0.1.0-1 | 0 | Wayland screenshot, recording, QR and OCR selector |
+| 2026-11-22 22:35:07 | [tigervnc-runit](https://aur.archlinux.org/packages/tigervnc-runit) | 1.1.0-1 | 0 | runit services for virtual and existing-X11 TigerVNC sessions on Artix |
+| 2026-11-22 22:40:15 | [snipline-bin](https://aur.archlinux.org/packages/snipline-bin) | 0.1.0-1 | 0 | Wayland screenshot, recording, QR and OCR selector (prebuilt binary) |
+| 2026-11-22 23:04:15 | [lib32-nvidia-610xx-utils](https://aur.archlinux.org/packages/lib32-nvidia-610xx-utils) | 610.57.04-1 | 0 | NVIDIA drivers utilities (32-bit) (610xx) |
+| 2026-11-22 23:04:15 | [lib32-opencl-nvidia-610xx](https://aur.archlinux.org/packages/lib32-opencl-nvidia-610xx) | 610.57.04-1 | 0 | OpenCL implemention for NVIDIA (32-bit) (610xx) |
+| 2026-11-22 23:04:26 | [nvidia-610xx-settings](https://aur.archlinux.org/packages/nvidia-610xx-settings) | 610.57.04-1 | 0 | Tool for configuring the NVIDIA graphics driver (610xx) |
+| 2026-11-22 23:04:26 | [libxnvctrl-610xx](https://aur.archlinux.org/packages/libxnvctrl-610xx) | 610.57.04-1 | 0 | NVIDIA NV-CONTROL X extension (610xx) |
+| 2026-11-22 23:04:35 | [nvidia-610xx-utils](https://aur.archlinux.org/packages/nvidia-610xx-utils) | 610.57.04-1 | 0 | NVIDIA drivers utilities (610xx) |
+| 2026-11-22 23:04:35 | [opencl-nvidia-610xx](https://aur.archlinux.org/packages/opencl-nvidia-610xx) | 610.57.04-1 | 0 | OpenCL implemention for NVIDIA (610xx) |
+| 2026-11-22 23:04:35 | [nvidia-610xx-open-dkms](https://aur.archlinux.org/packages/nvidia-610xx-open-dkms) | 610.57.04-1 | 0 | NVIDIA open kernel modules - module sources (610xx) |
+| 2026-11-22 23:04:57 | [telescope-webcam-bin](https://aur.archlinux.org/packages/telescope-webcam-bin) | 5.1.4-1 | 0 | Use your Android phone as a webcam on Linux |
+| 2026-11-22 23:11:52 | [peep-tui-bin](https://aur.archlinux.org/packages/peep-tui-bin) | 0.2.0-1 | 0 | Terminal file explorer with media, Markdown and Mermaid previews |
 
 ## Data source
 
