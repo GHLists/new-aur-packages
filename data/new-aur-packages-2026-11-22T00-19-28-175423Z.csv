@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-21T23:27:30Z,kolir-git,r160.dbe9741-1,0,Material 3 desktop configuration for Hyprland and Quickshell
+2026-11-21T23:52:36Z,snappie-git,0.1.0.r9.g99b2060-1,0,"Screenshots, annotation, recording and sharing for KDE Plasma on Wayland (Git)"
+2026-11-21T23:52:36Z,snappie-purpose-git,0.1.0.r9.g99b2060-1,0,Snappie integration in KDE Share menus (Git)
+2026-11-21T23:57:12Z,safe-git-git,0.1.0.r1.g1694e3b-1,0,"Restricted SSH Git client for fetch, working-tree fast-forward, and push"
