@@ -12,26 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 23:19 UTC
+## Latest list — 2026-11-23 00:20 UTC
 
-New packages created between 2026-11-22 22:19 UTC and 2026-11-22 23:19 UTC.
+New packages created between 2026-11-22 23:19 UTC and 2026-11-23 00:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-22T23-19-37-079089Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T00-20-22-814261Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-22 22:35:05 | [snipline](https://aur.archlinux.org/packages/snipline) | 0.1.0-1 | 0 | Wayland screenshot, recording, QR and OCR selector |
-| 2026-11-22 22:35:07 | [tigervnc-runit](https://aur.archlinux.org/packages/tigervnc-runit) | 1.1.0-1 | 0 | runit services for virtual and existing-X11 TigerVNC sessions on Artix |
-| 2026-11-22 22:40:15 | [snipline-bin](https://aur.archlinux.org/packages/snipline-bin) | 0.1.0-1 | 0 | Wayland screenshot, recording, QR and OCR selector (prebuilt binary) |
-| 2026-11-22 23:04:15 | [lib32-nvidia-610xx-utils](https://aur.archlinux.org/packages/lib32-nvidia-610xx-utils) | 610.57.04-1 | 0 | NVIDIA drivers utilities (32-bit) (610xx) |
-| 2026-11-22 23:04:15 | [lib32-opencl-nvidia-610xx](https://aur.archlinux.org/packages/lib32-opencl-nvidia-610xx) | 610.57.04-1 | 0 | OpenCL implemention for NVIDIA (32-bit) (610xx) |
-| 2026-11-22 23:04:26 | [nvidia-610xx-settings](https://aur.archlinux.org/packages/nvidia-610xx-settings) | 610.57.04-1 | 0 | Tool for configuring the NVIDIA graphics driver (610xx) |
-| 2026-11-22 23:04:26 | [libxnvctrl-610xx](https://aur.archlinux.org/packages/libxnvctrl-610xx) | 610.57.04-1 | 0 | NVIDIA NV-CONTROL X extension (610xx) |
-| 2026-11-22 23:04:35 | [nvidia-610xx-utils](https://aur.archlinux.org/packages/nvidia-610xx-utils) | 610.57.04-1 | 0 | NVIDIA drivers utilities (610xx) |
-| 2026-11-22 23:04:35 | [opencl-nvidia-610xx](https://aur.archlinux.org/packages/opencl-nvidia-610xx) | 610.57.04-1 | 0 | OpenCL implemention for NVIDIA (610xx) |
-| 2026-11-22 23:04:35 | [nvidia-610xx-open-dkms](https://aur.archlinux.org/packages/nvidia-610xx-open-dkms) | 610.57.04-1 | 0 | NVIDIA open kernel modules - module sources (610xx) |
-| 2026-11-22 23:04:57 | [telescope-webcam-bin](https://aur.archlinux.org/packages/telescope-webcam-bin) | 5.1.4-1 | 0 | Use your Android phone as a webcam on Linux |
-| 2026-11-22 23:11:52 | [peep-tui-bin](https://aur.archlinux.org/packages/peep-tui-bin) | 0.2.0-1 | 0 | Terminal file explorer with media, Markdown and Mermaid previews |
+| 2026-11-22 23:27:03 | [tangramdotdev-bin](https://aur.archlinux.org/packages/tangramdotdev-bin) | 0.0.0-1 | 0 | Tangram build system and package manager |
+| 2026-11-22 23:38:03 | [proton-stream-git](https://aur.archlinux.org/packages/proton-stream-git) | 2.1.0.r28.ga84f988-1 | 0 | Unofficial media library for Proton Drive: browse and stream public links and y… |
+| 2026-11-22 23:58:59 | [proton-gallery-git](https://aur.archlinux.org/packages/proton-gallery-git) | 0.4.0.r2.g20da1b4-1 | 0 | Unofficial Proton Photos and Drive gallery with a native photo and video viewer… |
+| 2026-11-23 00:01:32 | [freedoom-bin](https://aur.archlinux.org/packages/freedoom-bin) | 0.13.0-1 | 0 | Battle monsters in two massive campaigns |
+| 2026-11-23 00:01:32 | [freedm-bin](https://aur.archlinux.org/packages/freedm-bin) | 0.13.0-1 | 0 | Fight friends and enemies in competitive deathmatch |
 
 ## Data source
 
