@@ -12,20 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 22:18 UTC
+## Latest list — 2026-11-23 23:18 UTC
 
-New packages created between 2026-11-23 21:20 UTC and 2026-11-23 22:18 UTC.
+New packages created between 2026-11-23 22:18 UTC and 2026-11-23 23:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T22-18-55-666218Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T23-18-50-101807Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 21:24:50 | [sonar](https://aur.archlinux.org/packages/sonar) | 0.1.0-1 | 0 | A file manager inspired by KDE Dolphin |
-| 2026-11-23 21:24:55 | [sonar-bin](https://aur.archlinux.org/packages/sonar-bin) | 0.1.0-1 | 0 | A file manager inspired by KDE Dolphin (prebuilt release) |
-| 2026-11-23 21:25:00 | [sonar-git](https://aur.archlinux.org/packages/sonar-git) | 0.1.0.r0.g9f896b3-1 | 0 | A file manager inspired by KDE Dolphin (latest development version) |
-| 2026-11-23 21:33:28 | [notes-src](https://aur.archlinux.org/packages/notes-src) | 1.0.0.r0.g0000000-1 | 0 | Self-hosted, end-to-end encrypted note taking (desktop app, built from the late… |
-| 2026-11-23 21:46:08 | [spacelet](https://aur.archlinux.org/packages/spacelet) | 0.1.0-1 | 0 | Overview of rivermonad's workspaces with live window thumbnails |
-| 2026-11-23 21:49:46 | [plasma-applet-claude-usage-git](https://aur.archlinux.org/packages/plasma-applet-claude-usage-git) | r37.781d6e5-1 | 0 | A KDE Plasma 6 system tray widget that displays AI coding assistant usage stati… |
+| 2026-11-23 22:53:35 | [zc](https://aur.archlinux.org/packages/zc) | 0.5.2.rc1.r107.g774… | 0 | Write like a high-level language, run like C; mysterious fork from the 5th dime… |
+| 2026-11-23 23:00:02 | [dcg](https://aur.archlinux.org/packages/dcg) | 0.17.1-1 | 0 | A hook that blocks destructive commands before AI coding agents run them |
+| 2026-11-23 23:00:36 | [nsh-cli-bin](https://aur.archlinux.org/packages/nsh-cli-bin) | 0.6.1-1 | 0 | Build and run nsh apps (prebuilt binary) |
 
 ## Data source
 

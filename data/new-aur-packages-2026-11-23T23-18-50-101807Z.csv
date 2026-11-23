@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-23T22:53:35Z,zc,0.5.2.rc1.r107.g774…,0,"Write like a high-level language, run like C; mysterious fork from the 5th dimension."
+2026-11-23T23:00:02Z,dcg,0.17.1-1,0,A hook that blocks destructive commands before AI coding agents run them
+2026-11-23T23:00:36Z,nsh-cli-bin,0.6.1-1,0,Build and run nsh apps (prebuilt binary)
