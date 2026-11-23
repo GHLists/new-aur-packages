@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-23T17:41:17Z,nyala-bin,0.2.1-1,0,A browser for the terminal.
+2026-11-23T18:02:24Z,uniwill-ec-hwmon-dkms,0.1.0-1,0,"Read-only hwmon driver for Uniwill/Tongfang ECs over ACPI-WMI (fan RPM, CPU/GPU temps, PWM)"
+2026-11-23T18:03:40Z,hopbox-bin,1.0.0-1,0,"Run heavy builds and tests on another machine over SSH, from your laptop or your coding agent"
+2026-11-23T18:16:16Z,notion-cli-bin,0.23.31-2,0,"Notion CLI (beta), using the official prebuilt binary"
