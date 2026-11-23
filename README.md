@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 15:20 UTC
+## Latest list — 2026-11-23 16:20 UTC
 
-New packages created between 2026-11-23 14:19 UTC and 2026-11-23 15:20 UTC.
+New packages created between 2026-11-23 15:20 UTC and 2026-11-23 16:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T15-20-34-567189Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T16-20-53-686047Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 14:23:40 | [easypaint](https://aur.archlinux.org/packages/easypaint) | 0.2.0-2 | 0 | A simple bitmap graphics editor (Cosmoe/Hokku-based, built from source) |
-| 2026-11-23 14:56:38 | [hue-jackman-bin](https://aur.archlinux.org/packages/hue-jackman-bin) | 0.1.0-1 | 0 | Control Chroma RGB lighting on the Razer Wolverine V2 Chroma from Linux. |
-| 2026-11-23 14:57:12 | [leandoc-bin](https://aur.archlinux.org/packages/leandoc-bin) | 0.3.3-1 | 0 | A focused, read-only offline viewer for Word documents |
+| 2026-11-23 15:29:51 | [chphp](https://aur.archlinux.org/packages/chphp) | 0.1.1-1 | 0 | Manage multiple PHP installations on Arch Linux and install via php.new |
+| 2026-11-23 15:42:01 | [gaki-git](https://aur.archlinux.org/packages/gaki-git) | r534.g9712da6-1 | 0 | Headless Steam launcher and library manager: CLI and TUI |
+| 2026-11-23 15:43:30 | [sruman-git](https://aur.archlinux.org/packages/sruman-git) | r69.gd256199-1 | 0 | Steam Linux Runtime manager and launcher for native games, without Steam |
+| 2026-11-23 16:12:00 | [ttf-cantrip](https://aur.archlinux.org/packages/ttf-cantrip) | 0.45-1 | 0 | A font family for Software Alchemists |
 
 ## Data source
 

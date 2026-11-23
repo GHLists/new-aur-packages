@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-23T15:29:51Z,chphp,0.1.1-1,0,Manage multiple PHP installations on Arch Linux and install via php.new
+2026-11-23T15:42:01Z,gaki-git,r534.g9712da6-1,0,Headless Steam launcher and library manager: CLI and TUI
+2026-11-23T15:43:30Z,sruman-git,r69.gd256199-1,0,"Steam Linux Runtime manager and launcher for native games, without Steam"
+2026-11-23T16:12:00Z,ttf-cantrip,0.45-1,0,A font family for Software Alchemists
