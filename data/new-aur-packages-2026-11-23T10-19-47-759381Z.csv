@@ -1,0 +1,11 @@
+created_at,package,version,votes,description
+2026-11-23T09:23:35Z,python-k3str,0.1.12-1,0,String operation utilities for encoding conversion
+2026-11-23T09:28:52Z,python-k3handy,0.1.16-1,0,Handy alias of mostly used functions
+2026-11-23T09:33:42Z,oldipmi-git,0.6.0.r1.gd3b5ba4-1,0,"Native KVM console for older server BMCs (AMI MegaRAC, Supermicro/ATEN, iDRAC, Cisco IMC), without Java"
+2026-11-23T09:33:56Z,python-k3git,0.2.1-1,0,wrapper of git command-line
+2026-11-23T09:39:16Z,kiri,0.2.2-1,0,"A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative"
+2026-11-23T09:47:38Z,python-md2zhihu,0.23-1,0,convert markdown to zhihu compatible format
+2026-11-23T09:56:23Z,anser-client-bin,0.5.1-1,0,"Native desktop client for Anser (雁字): the inbox, the sender and the delivery log of a self-hosted notification service"
+2026-11-23T09:58:52Z,shed-tui,0.3.0-1,0,"Terminal app for keeping your projects in order: workbench, shelf and attic"
+2026-11-23T10:06:23Z,crossdesk-private-bin,1.7.6.20261112-2,0,自用维护：跨平台远程桌面（支持 Wayland portal 采集），上游 kunkundi/crossdesk
+2026-11-23T10:12:42Z,thirtyfile-bin,1.1.0-1,0,Self-hosted file manager with a Windows File Explorer-style web interface
