@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-23T04:26:51Z,mcbtodo,0.1.0-1,0,Local-first task and workflow manager with a terminal interface
+2026-11-23T04:39:20Z,sodam-git,0.4.0.r11.gc7d0631-1,0,Native Qishui Music desktop client built with GPUI.
+2026-11-23T05:16:04Z,atlas-filemanager-bin,,,Modern file manager built with Rust and GPUI

@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 04:18 UTC
+## Latest list — 2026-11-23 05:21 UTC
 
-New packages created between 2026-11-23 03:20 UTC and 2026-11-23 04:18 UTC.
+New packages created between 2026-11-23 04:18 UTC and 2026-11-23 05:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T04-18-44-591149Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T05-21-01-154159Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 03:43:58 | [aurora-player-git](https://aur.archlinux.org/packages/aurora-player-git) | 0.9.25.r0.gb5ebb60-1 | 0 | A multi-source music client side, combining multiple platforms, such as NetEase… |
-| 2026-11-23 03:55:35 | [snipline-git](https://aur.archlinux.org/packages/snipline-git) | 0.1.0.r2.g62c4cb6-1 | 0 | Wayland screenshot, recording, QR and OCR selector (Git version) |
-| 2026-11-23 04:06:35 | [lanyue-git](https://aur.archlinux.org/packages/lanyue-git) | 1.1.6.r0.g5ef4749-1 | 0 | Multi-platform music download desktop application, supports NetEase Cloud Music… |
+| 2026-11-23 04:26:51 | [mcbtodo](https://aur.archlinux.org/packages/mcbtodo) | 0.1.0-1 | 0 | Local-first task and workflow manager with a terminal interface |
+| 2026-11-23 04:39:20 | [sodam-git](https://aur.archlinux.org/packages/sodam-git) | 0.4.0.r11.gc7d0631-1 | 0 | Native Qishui Music desktop client built with GPUI. |
+| 2026-11-23 05:16:04 | [atlas-filemanager-bin](https://aur.archlinux.org/packages/atlas-filemanager-bin) |  |  | Modern file manager built with Rust and GPUI |
 
 ## Data source
 
