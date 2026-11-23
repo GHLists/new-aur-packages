@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-23T02:41:51Z,agentero-desktop-bin,0.18.0-1,0,"Unified research workspace for humans and agents: PDF question answering with citations, a vault for research material and writing tools"
+2026-11-23T02:45:48Z,mkfont-bin,2.0.1-1,0,"A free (libre) tool to create & export fonts from existing assets. Component-based workflow, with advanced features to nit-pick & tweak metrics in a non-destructive way!"
+2026-11-23T02:49:56Z,astralparty-toys-linux,0.1.0-1,0,Native Linux build of AstralParty.Toys: launch Astral Party through Steam and manage CesiumLoader
+2026-11-23T03:01:18Z,pakku-bin,0.18-1,1,Pacman wrapper and AUR helper with a pacman-like user interface
+2026-11-23T03:19:07Z,filmcraft-auto-bin,,,Open-source non-linear video editor written in pure Rust (official binary release)

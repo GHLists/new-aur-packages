@@ -12,19 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 02:19 UTC
+## Latest list — 2026-11-23 03:20 UTC
 
-New packages created between 2026-11-23 01:21 UTC and 2026-11-23 02:19 UTC.
+New packages created between 2026-11-23 02:19 UTC and 2026-11-23 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T02-19-47-396781Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T03-20-44-01256Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 01:34:39 | [porter-app-bin](https://aur.archlinux.org/packages/porter-app-bin) | 0.8.1-1 | 1 | Port Monitor 📈 |
-| 2026-11-23 01:44:21 | [antigravity-bin](https://aur.archlinux.org/packages/antigravity-bin) | 1.13.3-1 | 0 | An agentic development platform from Google, evolving the IDE into the agent-fi… |
-| 2026-11-23 01:51:21 | [antigravity-latest-bin](https://aur.archlinux.org/packages/antigravity-latest-bin) | 2.34.0-1 | 0 | Google Antigravity 2.0 multi-agent orchestration platform (Prebuilt binary) |
-| 2026-11-23 02:02:18 | [bo_music-bin](https://aur.archlinux.org/packages/bo_music-bin) | 0.0.1-1 | 0 | A modern Fluent-style music player |
-| 2026-11-23 02:05:01 | [pmrp-ng-git](https://aur.archlinux.org/packages/pmrp-ng-git) | r8.3a9792a-1 | 1 | The next-generation successor of pmrp, allows for playing various internet radi… |
+| 2026-11-23 02:41:51 | [agentero-desktop-bin](https://aur.archlinux.org/packages/agentero-desktop-bin) | 0.18.0-1 | 0 | Unified research workspace for humans and agents: PDF question answering with c… |
+| 2026-11-23 02:45:48 | [mkfont-bin](https://aur.archlinux.org/packages/mkfont-bin) | 2.0.1-1 | 0 | A free (libre) tool to create & export fonts from existing assets. Component-ba… |
+| 2026-11-23 02:49:56 | [astralparty-toys-linux](https://aur.archlinux.org/packages/astralparty-toys-linux) | 0.1.0-1 | 0 | Native Linux build of AstralParty.Toys: launch Astral Party through Steam and m… |
+| 2026-11-23 03:01:18 | [pakku-bin](https://aur.archlinux.org/packages/pakku-bin) | 0.18-1 | 1 | Pacman wrapper and AUR helper with a pacman-like user interface |
+| 2026-11-23 03:19:07 | [filmcraft-auto-bin](https://aur.archlinux.org/packages/filmcraft-auto-bin) |  |  | Open-source non-linear video editor written in pure Rust (official binary relea… |
 
 ## Data source
 
