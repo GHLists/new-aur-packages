@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-23T06:14:19Z,mashhad-metro-bin,0.7.0-1,0,"Guide to the Mashhad Metro: stations, lines, facilities and route finding"
+2026-11-23T06:14:27Z,open-max-bin,2026.11.6-1,0,"Minimal Rust terminal harness for coding agents, small, fast and self-extensible"
+2026-11-23T06:14:35Z,exabind-git,r101.781be73-1,0,Animated TUI for viewing KDE shortcuts
+2026-11-23T06:14:43Z,markmarkoh-lt,0.0.12-1,0,An unofficial TUI client to view and interact with Linear.app issues
+2026-11-23T06:14:51Z,cargo-thesaurust,0.1.2-1,0,A terminal-based dictionary app
+2026-11-23T06:18:30Z,sprites-bin,,,Command-line client for managing Fly.io Sprites
