@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 21:20 UTC
+## Latest list — 2026-11-23 22:18 UTC
 
-New packages created between 2026-11-23 20:19 UTC and 2026-11-23 21:20 UTC.
+New packages created between 2026-11-23 21:20 UTC and 2026-11-23 22:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T21-20-53-314893Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T22-18-55-666218Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 20:39:19 | [digit-git](https://aur.archlinux.org/packages/digit-git) | r298.29b963c-1 | 0 | A calm GTK4 desktop for Hyprland and niri |
-| 2026-11-23 20:44:31 | [circagraph-desktop-bin](https://aur.archlinux.org/packages/circagraph-desktop-bin) | 0.31.0-1 | 0 | Exact timelines, shared on your terms: the Circagraph desktop app |
-| 2026-11-23 20:44:45 | [circagraph-server](https://aur.archlinux.org/packages/circagraph-server) | 0.31.0-1 | 0 | Exact timelines, shared on your terms: the Circagraph platform server |
-| 2026-11-23 21:09:51 | [ghpill-bin](https://aur.archlinux.org/packages/ghpill-bin) | 0.1.0-1 | 0 | GitHub pull requests, reviews and workflow runs as a Waybar pill with a fuzzel… |
+| 2026-11-23 21:24:50 | [sonar](https://aur.archlinux.org/packages/sonar) | 0.1.0-1 | 0 | A file manager inspired by KDE Dolphin |
+| 2026-11-23 21:24:55 | [sonar-bin](https://aur.archlinux.org/packages/sonar-bin) | 0.1.0-1 | 0 | A file manager inspired by KDE Dolphin (prebuilt release) |
+| 2026-11-23 21:25:00 | [sonar-git](https://aur.archlinux.org/packages/sonar-git) | 0.1.0.r0.g9f896b3-1 | 0 | A file manager inspired by KDE Dolphin (latest development version) |
+| 2026-11-23 21:33:28 | [notes-src](https://aur.archlinux.org/packages/notes-src) | 1.0.0.r0.g0000000-1 | 0 | Self-hosted, end-to-end encrypted note taking (desktop app, built from the late… |
+| 2026-11-23 21:46:08 | [spacelet](https://aur.archlinux.org/packages/spacelet) | 0.1.0-1 | 0 | Overview of rivermonad's workspaces with live window thumbnails |
+| 2026-11-23 21:49:46 | [plasma-applet-claude-usage-git](https://aur.archlinux.org/packages/plasma-applet-claude-usage-git) | r37.781d6e5-1 | 0 | A KDE Plasma 6 system tray widget that displays AI coding assistant usage stati… |
 
 ## Data source
 

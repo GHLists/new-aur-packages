@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-23T21:24:50Z,sonar,0.1.0-1,0,A file manager inspired by KDE Dolphin
+2026-11-23T21:24:55Z,sonar-bin,0.1.0-1,0,A file manager inspired by KDE Dolphin (prebuilt release)
+2026-11-23T21:25:00Z,sonar-git,0.1.0.r0.g9f896b3-1,0,A file manager inspired by KDE Dolphin (latest development version)
+2026-11-23T21:33:28Z,notes-src,1.0.0.r0.g0000000-1,0,"Self-hosted, end-to-end encrypted note taking (desktop app, built from the latest master)"
+2026-11-23T21:46:08Z,spacelet,0.1.0-1,0,Overview of rivermonad's workspaces with live window thumbnails
+2026-11-23T21:49:46Z,plasma-applet-claude-usage-git,r37.781d6e5-1,0,"A KDE Plasma 6 system tray widget that displays AI coding assistant usage statistics (Claude, GLM, Codex/OpenAI, Antigravity)"
