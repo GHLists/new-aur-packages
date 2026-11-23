@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 14:19 UTC
+## Latest list — 2026-11-23 15:20 UTC
 
-New packages created between 2026-11-23 13:19 UTC and 2026-11-23 14:19 UTC.
+New packages created between 2026-11-23 14:19 UTC and 2026-11-23 15:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T14-19-18-243188Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T15-20-34-567189Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 13:43:57 | [toppingctl-bin](https://aur.archlinux.org/packages/toppingctl-bin) | 0.1.2-1 | 0 | Control the TOPPING E2x2 USB audio interface over HID (prebuilt) |
-| 2026-11-23 13:44:10 | [toppingctl](https://aur.archlinux.org/packages/toppingctl) | 0.1.2-1 | 0 | Control the TOPPING E2x2 USB audio interface over HID |
-| 2026-11-23 13:46:37 | [localbell-bin](https://aur.archlinux.org/packages/localbell-bin) | 1.4.35-1 | 0 | Forward Android push notifications to your Linux desktop via D-Bus |
+| 2026-11-23 14:23:40 | [easypaint](https://aur.archlinux.org/packages/easypaint) | 0.2.0-2 | 0 | A simple bitmap graphics editor (Cosmoe/Hokku-based, built from source) |
+| 2026-11-23 14:56:38 | [hue-jackman-bin](https://aur.archlinux.org/packages/hue-jackman-bin) | 0.1.0-1 | 0 | Control Chroma RGB lighting on the Razer Wolverine V2 Chroma from Linux. |
+| 2026-11-23 14:57:12 | [leandoc-bin](https://aur.archlinux.org/packages/leandoc-bin) | 0.3.3-1 | 0 | A focused, read-only offline viewer for Word documents |
 
 ## Data source
 
