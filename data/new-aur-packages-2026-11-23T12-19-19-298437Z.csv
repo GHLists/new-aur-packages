@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-23T11:37:10Z,openzwork-electron-bin,3.18.2+openzwork.4-1,0,"AI coding workbench with a desktop app, browser UI and terminal agent"
+2026-11-23T11:41:56Z,kick-lite,0.2.0-1,0,A lightweight Kick.com livestream and replay player
+2026-11-23T11:56:41Z,cinnabar-git,0.2.1.r293.gce130a4…,0,"Unofficial client compatible with Minecraft: Bedrock Edition, written in Rust"
+2026-11-23T12:07:46Z,snippets-manager,2.0-1,0,"Simple manager for text and code snippets, with folders, tags, rich text and quick search"

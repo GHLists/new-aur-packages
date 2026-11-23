@@ -12,24 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 10:19 UTC
+## Latest list — 2026-11-23 12:19 UTC
 
-New packages created between 2026-11-23 09:18 UTC and 2026-11-23 10:19 UTC.
+New packages created between 2026-11-23 11:20 UTC and 2026-11-23 12:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T10-19-47-759381Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T12-19-19-298437Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 09:23:35 | [python-k3str](https://aur.archlinux.org/packages/python-k3str) | 0.1.12-1 | 0 | String operation utilities for encoding conversion |
-| 2026-11-23 09:28:52 | [python-k3handy](https://aur.archlinux.org/packages/python-k3handy) | 0.1.16-1 | 0 | Handy alias of mostly used functions |
-| 2026-11-23 09:33:42 | [oldipmi-git](https://aur.archlinux.org/packages/oldipmi-git) | 0.6.0.r1.gd3b5ba4-1 | 0 | Native KVM console for older server BMCs (AMI MegaRAC, Supermicro/ATEN, iDRAC,… |
-| 2026-11-23 09:33:56 | [python-k3git](https://aur.archlinux.org/packages/python-k3git) | 0.2.1-1 | 0 | wrapper of git command-line |
-| 2026-11-23 09:39:16 | [kiri](https://aur.archlinux.org/packages/kiri) | 0.2.2-1 | 0 | A small, fast container runtime for macOS, Windows and Linux with free Ngrok al… |
-| 2026-11-23 09:47:38 | [python-md2zhihu](https://aur.archlinux.org/packages/python-md2zhihu) | 0.23-1 | 0 | convert markdown to zhihu compatible format |
-| 2026-11-23 09:56:23 | [anser-client-bin](https://aur.archlinux.org/packages/anser-client-bin) | 0.5.1-1 | 0 | Native desktop client for Anser (雁字): the inbox, the sender and the delivery lo… |
-| 2026-11-23 09:58:52 | [shed-tui](https://aur.archlinux.org/packages/shed-tui) | 0.3.0-1 | 0 | Terminal app for keeping your projects in order: workbench, shelf and attic |
-| 2026-11-23 10:06:23 | [crossdesk-private-bin](https://aur.archlinux.org/packages/crossdesk-private-bin) | 1.7.6.20261112-2 | 0 | 自用维护：跨平台远程桌面（支持 Wayland portal 采集），上游 kunkundi/crossdesk |
-| 2026-11-23 10:12:42 | [thirtyfile-bin](https://aur.archlinux.org/packages/thirtyfile-bin) | 1.1.0-1 | 0 | Self-hosted file manager with a Windows File Explorer-style web interface |
+| 2026-11-23 11:37:10 | [openzwork-electron-bin](https://aur.archlinux.org/packages/openzwork-electron-bin) | 3.18.2+openzwork.4-1 | 0 | AI coding workbench with a desktop app, browser UI and terminal agent |
+| 2026-11-23 11:41:56 | [kick-lite](https://aur.archlinux.org/packages/kick-lite) | 0.2.0-1 | 0 | A lightweight Kick.com livestream and replay player |
+| 2026-11-23 11:56:41 | [cinnabar-git](https://aur.archlinux.org/packages/cinnabar-git) | 0.2.1.r293.gce130a4… | 0 | Unofficial client compatible with Minecraft: Bedrock Edition, written in Rust |
+| 2026-11-23 12:07:46 | [snippets-manager](https://aur.archlinux.org/packages/snippets-manager) | 2.0-1 | 0 | Simple manager for text and code snippets, with folders, tags, rich text and qu… |
 
 ## Data source
 
