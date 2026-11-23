@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-23T06:28:09Z,python-k3proc,0.2.20-1,0,"Utility to create subprocess with support for timeout, tty, and text mode"
+2026-11-23T06:28:31Z,bluepill-bin,1.2.11-1,0,"BluePill — Native Linux/Wayland Qt6/QML desktop & CLI client for iMessage, RCS, and SMS (prebuilt binary)"
+2026-11-23T06:37:34Z,kiri-lite,0.2.2-1,0,"A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative"
+2026-11-23T06:52:17Z,paexec-git,1.1.6.r1.eb4e1d4-1,1,"Parallel executor, distributes tasks over network or CPUs (bleeding-edge version)"
+2026-11-23T06:59:14Z,gta-vcs-recomp-bin,0.3.0-2,0,Native GTA: Vice City Stories recompilation launcher (prebuilt AppImage; requires your own PS2 USA ISO)
+2026-11-23T07:01:40Z,python-k3ut,0.1.22-1,0,Unittest utilities with debug logging and test helpers
+2026-11-23T07:08:25Z,plasma-notification-mirror,0.2.0-2,0,Mirror KDE Plasma notification popups to additional monitors on Wayland
+2026-11-23T07:15:01Z,python-k3down2,0.2.0-1,0,Convert markdown segments into images and other transferable media

@@ -12,20 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 06:20 UTC
+## Latest list — 2026-11-23 07:19 UTC
 
-New packages created between 2026-11-23 05:21 UTC and 2026-11-23 06:20 UTC.
+New packages created between 2026-11-23 06:20 UTC and 2026-11-23 07:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T06-20-24-316463Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T07-19-27-976352Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 06:14:19 | [mashhad-metro-bin](https://aur.archlinux.org/packages/mashhad-metro-bin) | 0.7.0-1 | 0 | Guide to the Mashhad Metro: stations, lines, facilities and route finding |
-| 2026-11-23 06:14:27 | [open-max-bin](https://aur.archlinux.org/packages/open-max-bin) | 2026.11.6-1 | 0 | Minimal Rust terminal harness for coding agents, small, fast and self-extensible |
-| 2026-11-23 06:14:35 | [exabind-git](https://aur.archlinux.org/packages/exabind-git) | r101.781be73-1 | 0 | Animated TUI for viewing KDE shortcuts |
-| 2026-11-23 06:14:43 | [markmarkoh-lt](https://aur.archlinux.org/packages/markmarkoh-lt) | 0.0.12-1 | 0 | An unofficial TUI client to view and interact with Linear.app issues |
-| 2026-11-23 06:14:51 | [cargo-thesaurust](https://aur.archlinux.org/packages/cargo-thesaurust) | 0.1.2-1 | 0 | A terminal-based dictionary app |
-| 2026-11-23 06:18:30 | [sprites-bin](https://aur.archlinux.org/packages/sprites-bin) |  |  | Command-line client for managing Fly.io Sprites |
+| 2026-11-23 06:28:09 | [python-k3proc](https://aur.archlinux.org/packages/python-k3proc) | 0.2.20-1 | 0 | Utility to create subprocess with support for timeout, tty, and text mode |
+| 2026-11-23 06:28:31 | [bluepill-bin](https://aur.archlinux.org/packages/bluepill-bin) | 1.2.11-1 | 0 | BluePill — Native Linux/Wayland Qt6/QML desktop & CLI client for iMessage, RCS,… |
+| 2026-11-23 06:37:34 | [kiri-lite](https://aur.archlinux.org/packages/kiri-lite) | 0.2.2-1 | 0 | A small, fast container runtime for macOS, Windows and Linux with free Ngrok al… |
+| 2026-11-23 06:52:17 | [paexec-git](https://aur.archlinux.org/packages/paexec-git) | 1.1.6.r1.eb4e1d4-1 | 1 | Parallel executor, distributes tasks over network or CPUs (bleeding-edge versio… |
+| 2026-11-23 06:59:14 | [gta-vcs-recomp-bin](https://aur.archlinux.org/packages/gta-vcs-recomp-bin) | 0.3.0-2 | 0 | Native GTA: Vice City Stories recompilation launcher (prebuilt AppImage; requir… |
+| 2026-11-23 07:01:40 | [python-k3ut](https://aur.archlinux.org/packages/python-k3ut) | 0.1.22-1 | 0 | Unittest utilities with debug logging and test helpers |
+| 2026-11-23 07:08:25 | [plasma-notification-mirror](https://aur.archlinux.org/packages/plasma-notification-mirror) | 0.2.0-2 | 0 | Mirror KDE Plasma notification popups to additional monitors on Wayland |
+| 2026-11-23 07:15:01 | [python-k3down2](https://aur.archlinux.org/packages/python-k3down2) | 0.2.0-1 | 0 | Convert markdown segments into images and other transferable media |
 
 ## Data source
 
