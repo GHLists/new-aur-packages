@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-23T19:54:10Z,r-scrapper,1.6.3-2,0,Bindings to C++ Libraries for Single-Cell Analysis
+2026-11-23T19:54:33Z,r-mosdef,1.8.0-2,0,MOSt frequently used and useful Differential Expression Functions
+2026-11-23T19:59:41Z,ds5bridge-git,0.1.0.r1.gaa3b148-1,0,Use a Bluetooth DualSense as a wired controller (native PlayStation support in Proton games)
+2026-11-23T20:02:42Z,lituus-bin,0.1.0-1,0,"Settings for Hyprland: network, Bluetooth, sound and displays (prebuilt binary)"
