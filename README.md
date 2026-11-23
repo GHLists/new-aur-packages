@@ -12,19 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 00:20 UTC
+## Latest list — 2026-11-23 01:21 UTC
 
-New packages created between 2026-11-22 23:19 UTC and 2026-11-23 00:20 UTC.
+New packages created between 2026-11-23 00:20 UTC and 2026-11-23 01:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T00-20-22-814261Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T01-21-01-138421Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-22 23:27:03 | [tangramdotdev-bin](https://aur.archlinux.org/packages/tangramdotdev-bin) | 0.0.0-1 | 0 | Tangram build system and package manager |
-| 2026-11-22 23:38:03 | [proton-stream-git](https://aur.archlinux.org/packages/proton-stream-git) | 2.1.0.r28.ga84f988-1 | 0 | Unofficial media library for Proton Drive: browse and stream public links and y… |
-| 2026-11-22 23:58:59 | [proton-gallery-git](https://aur.archlinux.org/packages/proton-gallery-git) | 0.4.0.r2.g20da1b4-1 | 0 | Unofficial Proton Photos and Drive gallery with a native photo and video viewer… |
-| 2026-11-23 00:01:32 | [freedoom-bin](https://aur.archlinux.org/packages/freedoom-bin) | 0.13.0-1 | 0 | Battle monsters in two massive campaigns |
-| 2026-11-23 00:01:32 | [freedm-bin](https://aur.archlinux.org/packages/freedm-bin) | 0.13.0-1 | 0 | Fight friends and enemies in competitive deathmatch |
+| 2026-11-23 00:44:39 | [proton-gallery](https://aur.archlinux.org/packages/proton-gallery) | 0.5.0-1 | 0 | Unofficial Proton Photos and Drive gallery with a native photo and video viewer |
+| 2026-11-23 00:45:07 | [proton-gallery-bin](https://aur.archlinux.org/packages/proton-gallery-bin) | 0.5.0-1 | 0 | Unofficial Proton Photos and Drive gallery with a native photo and video viewer… |
+| 2026-11-23 00:54:26 | [mornye-bin](https://aur.archlinux.org/packages/mornye-bin) | 5.4.0-1 | 0 | Desktop music player and library manager built with Flutter and Rust |
+| 2026-11-23 01:11:20 | [mornye-git](https://aur.archlinux.org/packages/mornye-git) | 5.4.0.r32.gc4a1c7b-1 | 0 | Desktop music player and library manager built with Flutter and Rust (git versi… |
+| 2026-11-23 01:16:00 | [proton-stream](https://aur.archlinux.org/packages/proton-stream) |  |  | Unofficial media library for Proton Drive: browse and stream public links and y… |
+| 2026-11-23 01:16:17 | [proton-stream-bin](https://aur.archlinux.org/packages/proton-stream-bin) |  |  | Unofficial media library for Proton Drive: browse and stream public links and y… |
 
 ## Data source
 
