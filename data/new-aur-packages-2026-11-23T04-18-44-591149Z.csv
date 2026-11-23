@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-23T03:43:58Z,aurora-player-git,0.9.25.r0.gb5ebb60-1,0,"A multi-source music client side, combining multiple platforms, such as NetEase Cloud, QQ Music, Kugou, and soda music into a music library, and the same song or album on different platforms only occupies one position"
+2026-11-23T03:55:35Z,snipline-git,0.1.0.r2.g62c4cb6-1,0,"Wayland screenshot, recording, QR and OCR selector (Git version)"
+2026-11-23T04:06:35Z,lanyue-git,1.1.6.r0.g5ef4749-1,0,"Multi-platform music download desktop application, supports NetEase Cloud Music, QQ Music, Bilibili, Kugou Music, Kuwo Music, Migu Music, Soda Music, 5sing, a total of 8 audio sources."
