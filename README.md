@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 12:19 UTC
+## Latest list — 2026-11-23 13:19 UTC
 
-New packages created between 2026-11-23 11:20 UTC and 2026-11-23 12:19 UTC.
+New packages created between 2026-11-23 12:19 UTC and 2026-11-23 13:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T12-19-19-298437Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T13-19-25-782118Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 11:37:10 | [openzwork-electron-bin](https://aur.archlinux.org/packages/openzwork-electron-bin) | 3.18.2+openzwork.4-1 | 0 | AI coding workbench with a desktop app, browser UI and terminal agent |
-| 2026-11-23 11:41:56 | [kick-lite](https://aur.archlinux.org/packages/kick-lite) | 0.2.0-1 | 0 | A lightweight Kick.com livestream and replay player |
-| 2026-11-23 11:56:41 | [cinnabar-git](https://aur.archlinux.org/packages/cinnabar-git) | 0.2.1.r293.gce130a4… | 0 | Unofficial client compatible with Minecraft: Bedrock Edition, written in Rust |
-| 2026-11-23 12:07:46 | [snippets-manager](https://aur.archlinux.org/packages/snippets-manager) | 2.0-1 | 0 | Simple manager for text and code snippets, with folders, tags, rich text and qu… |
+| 2026-11-23 13:05:30 | [cromma-code-bin](https://aur.archlinux.org/packages/cromma-code-bin) | 0.3.56-1 | 0 | The playful desktop terminal for Claude Code and Codex: watch agents work as a… |
 
 ## Data source
 
