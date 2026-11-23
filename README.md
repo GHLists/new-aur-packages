@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 13:19 UTC
+## Latest list — 2026-11-23 14:19 UTC
 
-New packages created between 2026-11-23 12:19 UTC and 2026-11-23 13:19 UTC.
+New packages created between 2026-11-23 13:19 UTC and 2026-11-23 14:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T13-19-25-782118Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T14-19-18-243188Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 13:05:30 | [cromma-code-bin](https://aur.archlinux.org/packages/cromma-code-bin) | 0.3.56-1 | 0 | The playful desktop terminal for Claude Code and Codex: watch agents work as a… |
+| 2026-11-23 13:43:57 | [toppingctl-bin](https://aur.archlinux.org/packages/toppingctl-bin) | 0.1.2-1 | 0 | Control the TOPPING E2x2 USB audio interface over HID (prebuilt) |
+| 2026-11-23 13:44:10 | [toppingctl](https://aur.archlinux.org/packages/toppingctl) | 0.1.2-1 | 0 | Control the TOPPING E2x2 USB audio interface over HID |
+| 2026-11-23 13:46:37 | [localbell-bin](https://aur.archlinux.org/packages/localbell-bin) | 1.4.35-1 | 0 | Forward Android push notifications to your Linux desktop via D-Bus |
 
 ## Data source
 
