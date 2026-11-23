@@ -12,18 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 16:20 UTC
+## Latest list — 2026-11-23 17:22 UTC
 
-New packages created between 2026-11-23 15:20 UTC and 2026-11-23 16:20 UTC.
+New packages created between 2026-11-23 16:20 UTC and 2026-11-23 17:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T16-20-53-686047Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T17-22-18-193793Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 15:29:51 | [chphp](https://aur.archlinux.org/packages/chphp) | 0.1.1-1 | 0 | Manage multiple PHP installations on Arch Linux and install via php.new |
-| 2026-11-23 15:42:01 | [gaki-git](https://aur.archlinux.org/packages/gaki-git) | r534.g9712da6-1 | 0 | Headless Steam launcher and library manager: CLI and TUI |
-| 2026-11-23 15:43:30 | [sruman-git](https://aur.archlinux.org/packages/sruman-git) | r69.gd256199-1 | 0 | Steam Linux Runtime manager and launcher for native games, without Steam |
-| 2026-11-23 16:12:00 | [ttf-cantrip](https://aur.archlinux.org/packages/ttf-cantrip) | 0.45-1 | 0 | A font family for Software Alchemists |
+| 2026-11-23 16:22:05 | [ladybird-bin](https://aur.archlinux.org/packages/ladybird-bin) | 2026.47.7-1 | 1 | Truly independent web browser (alpha release) |
+| 2026-11-23 16:33:17 | [radiopittray](https://aur.archlinux.org/packages/radiopittray) | 0.1.1-1 | 0 | System tray radio player for your RadioPit.fm library |
+| 2026-11-23 16:47:11 | [hrx-loom](https://aur.archlinux.org/packages/hrx-loom) | 0.3.0-1 | 0 |  |
+| 2026-11-23 16:47:34 | [t3code-git](https://aur.archlinux.org/packages/t3code-git) | 0.0.28.nightly.2026… | 0 | T3 Code desktop app (git version, built from source) |
+| 2026-11-23 16:59:34 | [python-pylgbst-git](https://aur.archlinux.org/packages/python-pylgbst-git) | 1.3.0.r7.g789a52e-1 | 0 | Python library to interact with LEGO PoweredUp devices (LEGO BOOST Move Hub etc… |
+| 2026-11-23 17:00:57 | [kymo](https://aur.archlinux.org/packages/kymo) | 0.1.0-1 | 0 | Viewer for large EEG and MEG recordings |
+| 2026-11-23 17:08:49 | [ib-clientportal-bin](https://aur.archlinux.org/packages/ib-clientportal-bin) | 20230424-1 | 0 | Interactive Brokers Client Portal Gateway for the Web API |
 
 ## Data source
 
