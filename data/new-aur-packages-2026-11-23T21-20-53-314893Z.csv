@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-23T20:39:19Z,digit-git,r298.29b963c-1,0,A calm GTK4 desktop for Hyprland and niri
+2026-11-23T20:44:31Z,circagraph-desktop-bin,0.31.0-1,0,"Exact timelines, shared on your terms: the Circagraph desktop app"
+2026-11-23T20:44:45Z,circagraph-server,0.31.0-1,0,"Exact timelines, shared on your terms: the Circagraph platform server"
+2026-11-23T21:09:51Z,ghpill-bin,0.1.0-1,0,"GitHub pull requests, reviews and workflow runs as a Waybar pill with a fuzzel picker"
