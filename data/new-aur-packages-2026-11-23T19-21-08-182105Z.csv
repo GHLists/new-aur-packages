@@ -1,0 +1,12 @@
+created_at,package,version,votes,description
+2026-11-23T18:22:13Z,arche-waybar-github,2.0.1-1,0,Unread GitHub pull requests and issues for Waybar
+2026-11-23T18:22:24Z,arche-waybar-status,2.0.1-1,0,"Conditional disk, VPN and GPU indicators for Waybar"
+2026-11-23T18:22:35Z,arche-rollback,2.0.1-1,0,Restore a previous package version from configured pacman caches
+2026-11-23T18:22:46Z,neovim-archevim,2.0.0-1,0,archelinux dark colorscheme for Neovim and matching lualine theme
+2026-11-23T18:39:50Z,dreamcoder,1.0.16-1,0,AI-powered coding assistant with semantic code search
+2026-11-23T18:53:18Z,rust-glancer,0.5.0-1,0,Lightweight Rust language server optimized for low memory usage
+2026-11-23T19:07:45Z,connected-rails-nightly-bin,0.1.0nightly2026112…,0,"Train simulator with editors for lines, vehicles and signal kits (nightly builds of main, untested)"
+2026-11-23T19:09:50Z,djdev64-git,0.5.r15.g0c9ec58-1,0,Libraries and headers implementing the DJ64 and DJ64STUB DPMI extensions for dj64 executables
+2026-11-23T19:10:40Z,pyscrlink,0.2.8-1,0,"Scratch Link for Linux: connects Scratch 3.0 to BLE devices (LEGO BOOST, WeDo, micro:bit, toio)"
+2026-11-23T19:12:18Z,termeric,0.1.0-1,0,GPU-accelerated terminal emulator themed around roots and rhizomes
+2026-11-23T19:12:26Z,termeric-git,0.1.0.r0.g0000000-1,0,GPU-accelerated terminal emulator themed around roots and rhizomes
