@@ -1,0 +1,17 @@
+created_at,package,version,votes,description
+2026-11-23T07:22:04Z,celoom,0.1.2-1,0,Celoom (细胞绽放) — Linux-native local AI agent with embedded web interface
+2026-11-23T07:40:41Z,omascan,0.1.1-1,0,"Keyboard-first document scanner for Omarchy, from SANE scanner to PDF"
+2026-11-23T07:41:18Z,python-k3confloader,0.1.8-1,0,Load configuration for pykit3 modules
+2026-11-23T07:43:00Z,linux-legion-bin,0.2.0-1,0,"Control center for Lenovo Legion laptops: power modes and profiles, fans, Spectrum RGB lighting, battery (Vantage for Linux)"
+2026-11-23T07:43:08Z,linux-legion-git,0.2.0.r0-1,0,"Control center for Lenovo Legion laptops: power modes and profiles, fans, Spectrum RGB lighting, battery (Vantage for Linux)"
+2026-11-23T07:49:20Z,noop,1.0.7-1,0,Your own AI team: Claude Code and Codex agents that run on your own machines and only ask when they really need you
+2026-11-23T07:50:16Z,runawk-git,1.7.0.r1.f2755d4-2,1,AWK wrapper that provides support for modules
+2026-11-23T07:50:19Z,noop-bin,1.0.7-1,0,Desktop client for Noop: your own team of Claude Code and Codex agents runs on your own machines and only asks when it really needs you
+2026-11-23T07:53:45Z,python-k3num,0.1.13-1,0,Human-readable number formatting and hex string utilities
+2026-11-23T07:57:52Z,python-k3thread,0.1.10-1,0,Thread utilities for daemon threads and exception sending
+2026-11-23T07:59:24Z,r-biocmake,1.4.0-2,0,CMake for Bioconductor
+2026-11-23T07:59:40Z,r-marginaleffects,1.0.0-1,0,"Predictions, Comparisons, Slopes, Marginal Means, and Hypothesis Tests"
+2026-11-23T07:59:57Z,r-dpq,0.6.2-2,0,"Density, Probability, Quantile ('DPQ') Computations"
+2026-11-23T08:00:12Z,r-gpgp,1.0.0-2,0,Fast Gaussian Process Computation Using Vecchia's Approximation
+2026-11-23T08:00:33Z,r-gpvecchia,0.1.8-2,0,Scalable Gaussian-Process Approximations
+2026-11-23T08:14:17Z,clove,0.1.1-1,0,Fast dithered-storage file manager

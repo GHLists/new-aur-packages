@@ -12,22 +12,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 07:19 UTC
+## Latest list — 2026-11-23 08:20 UTC
 
-New packages created between 2026-11-23 06:20 UTC and 2026-11-23 07:19 UTC.
+New packages created between 2026-11-23 07:19 UTC and 2026-11-23 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T07-19-27-976352Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-23T08-20-00-725776Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 06:28:09 | [python-k3proc](https://aur.archlinux.org/packages/python-k3proc) | 0.2.20-1 | 0 | Utility to create subprocess with support for timeout, tty, and text mode |
-| 2026-11-23 06:28:31 | [bluepill-bin](https://aur.archlinux.org/packages/bluepill-bin) | 1.2.11-1 | 0 | BluePill — Native Linux/Wayland Qt6/QML desktop & CLI client for iMessage, RCS,… |
-| 2026-11-23 06:37:34 | [kiri-lite](https://aur.archlinux.org/packages/kiri-lite) | 0.2.2-1 | 0 | A small, fast container runtime for macOS, Windows and Linux with free Ngrok al… |
-| 2026-11-23 06:52:17 | [paexec-git](https://aur.archlinux.org/packages/paexec-git) | 1.1.6.r1.eb4e1d4-1 | 1 | Parallel executor, distributes tasks over network or CPUs (bleeding-edge versio… |
-| 2026-11-23 06:59:14 | [gta-vcs-recomp-bin](https://aur.archlinux.org/packages/gta-vcs-recomp-bin) | 0.3.0-2 | 0 | Native GTA: Vice City Stories recompilation launcher (prebuilt AppImage; requir… |
-| 2026-11-23 07:01:40 | [python-k3ut](https://aur.archlinux.org/packages/python-k3ut) | 0.1.22-1 | 0 | Unittest utilities with debug logging and test helpers |
-| 2026-11-23 07:08:25 | [plasma-notification-mirror](https://aur.archlinux.org/packages/plasma-notification-mirror) | 0.2.0-2 | 0 | Mirror KDE Plasma notification popups to additional monitors on Wayland |
-| 2026-11-23 07:15:01 | [python-k3down2](https://aur.archlinux.org/packages/python-k3down2) | 0.2.0-1 | 0 | Convert markdown segments into images and other transferable media |
+| 2026-11-23 07:22:04 | [celoom](https://aur.archlinux.org/packages/celoom) | 0.1.2-1 | 0 | Celoom (细胞绽放) — Linux-native local AI agent with embedded web interface |
+| 2026-11-23 07:40:41 | [omascan](https://aur.archlinux.org/packages/omascan) | 0.1.1-1 | 0 | Keyboard-first document scanner for Omarchy, from SANE scanner to PDF |
+| 2026-11-23 07:41:18 | [python-k3confloader](https://aur.archlinux.org/packages/python-k3confloader) | 0.1.8-1 | 0 | Load configuration for pykit3 modules |
+| 2026-11-23 07:43:00 | [linux-legion-bin](https://aur.archlinux.org/packages/linux-legion-bin) | 0.2.0-1 | 0 | Control center for Lenovo Legion laptops: power modes and profiles, fans, Spect… |
+| 2026-11-23 07:43:08 | [linux-legion-git](https://aur.archlinux.org/packages/linux-legion-git) | 0.2.0.r0-1 | 0 | Control center for Lenovo Legion laptops: power modes and profiles, fans, Spect… |
+| 2026-11-23 07:49:20 | [noop](https://aur.archlinux.org/packages/noop) | 1.0.7-1 | 0 | Your own AI team: Claude Code and Codex agents that run on your own machines an… |
+| 2026-11-23 07:50:16 | [runawk-git](https://aur.archlinux.org/packages/runawk-git) | 1.7.0.r1.f2755d4-2 | 1 | AWK wrapper that provides support for modules |
+| 2026-11-23 07:50:19 | [noop-bin](https://aur.archlinux.org/packages/noop-bin) | 1.0.7-1 | 0 | Desktop client for Noop: your own team of Claude Code and Codex agents runs on… |
+| 2026-11-23 07:53:45 | [python-k3num](https://aur.archlinux.org/packages/python-k3num) | 0.1.13-1 | 0 | Human-readable number formatting and hex string utilities |
+| 2026-11-23 07:57:52 | [python-k3thread](https://aur.archlinux.org/packages/python-k3thread) | 0.1.10-1 | 0 | Thread utilities for daemon threads and exception sending |
+| 2026-11-23 07:59:24 | [r-biocmake](https://aur.archlinux.org/packages/r-biocmake) | 1.4.0-2 | 0 | CMake for Bioconductor |
+| 2026-11-23 07:59:40 | [r-marginaleffects](https://aur.archlinux.org/packages/r-marginaleffects) | 1.0.0-1 | 0 | Predictions, Comparisons, Slopes, Marginal Means, and Hypothesis Tests |
+| 2026-11-23 07:59:57 | [r-dpq](https://aur.archlinux.org/packages/r-dpq) | 0.6.2-2 | 0 | Density, Probability, Quantile ('DPQ') Computations |
+| 2026-11-23 08:00:12 | [r-gpgp](https://aur.archlinux.org/packages/r-gpgp) | 1.0.0-2 | 0 | Fast Gaussian Process Computation Using Vecchia's Approximation |
+| 2026-11-23 08:00:33 | [r-gpvecchia](https://aur.archlinux.org/packages/r-gpvecchia) | 0.1.8-2 | 0 | Scalable Gaussian-Process Approximations |
+| 2026-11-23 08:14:17 | [clove](https://aur.archlinux.org/packages/clove) | 0.1.1-1 | 0 | Fast dithered-storage file manager |
 
 ## Data source
 
