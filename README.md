@@ -12,17 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 20:19 UTC
+## Latest list — 2026-11-24 21:20 UTC
 
-New packages created between 2026-11-24 19:20 UTC and 2026-11-24 20:19 UTC.
+New packages created between 2026-11-24 20:19 UTC and 2026-11-24 21:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T20-19-57-243727Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T21-20-58-15809Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 19:52:14 | [ca-certificates-ssl-expert](https://aur.archlinux.org/packages/ca-certificates-ssl-expert) | 20261123-1 | 1 | root certificate for ssl-expert.de (40C3 community CA) |
-| 2026-11-24 19:54:18 | [nuvio-engine-bin](https://aur.archlinux.org/packages/nuvio-engine-bin) | 0.1.6-1 | 0 | Cross-platform torrent streaming engine built on libtorrent (prebuilt) |
-| 2026-11-24 19:56:19 | [chelsea](https://aur.archlinux.org/packages/chelsea) | 0.1.2-1 | 0 | Discover and watch movies and series from your Stremio addons (libadwaita, buil… |
+| 2026-11-24 20:22:40 | [rdappler](https://aur.archlinux.org/packages/rdappler) | 1.0-1 | 0 | Retrieve RDAP info and check domain registration status |
+| 2026-11-24 20:36:49 | [obs-studio-nvidia-browser](https://aur.archlinux.org/packages/obs-studio-nvidia-browser) | 33.0.1-1 | 0 | OBS Studio with GPU-rendered browser sources on the NVIDIA driver |
+| 2026-11-24 20:58:21 | [ro-cei-cert](https://aur.archlinux.org/packages/ro-cei-cert) | 1.0.0-1 | 0 | Romanian electronic identity card root and sub-CA certificates |
+| 2026-11-24 21:10:58 | [dictate](https://aur.archlinux.org/packages/dictate) | 0.1.0-1 | 0 | Local live dictation for niri on Wayland (whisper.cpp, CUDA) |
 
 ## Data source
 

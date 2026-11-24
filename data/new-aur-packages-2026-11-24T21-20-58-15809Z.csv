@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-24T20:22:40Z,rdappler,1.0-1,0,Retrieve RDAP info and check domain registration status
+2026-11-24T20:36:49Z,obs-studio-nvidia-browser,33.0.1-1,0,OBS Studio with GPU-rendered browser sources on the NVIDIA driver
+2026-11-24T20:58:21Z,ro-cei-cert,1.0.0-1,0,Romanian electronic identity card root and sub-CA certificates
+2026-11-24T21:10:58Z,dictate,0.1.0-1,0,"Local live dictation for niri on Wayland (whisper.cpp, CUDA)"
