@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 05:21 UTC
+## Latest list — 2026-11-24 06:18 UTC
 
-New packages created between 2026-11-24 04:20 UTC and 2026-11-24 05:21 UTC.
+New packages created between 2026-11-24 05:21 UTC and 2026-11-24 06:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T05-21-57-582323Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T06-18-41-837342Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 04:20:52 | [image-view](https://aur.archlinux.org/packages/image-view) | 0.2.0-1 | 0 | Minimal keyboard-driven image viewer (egui port of qView) |
-| 2026-11-24 05:04:20 | [qwen-work-cn-bin](https://aur.archlinux.org/packages/qwen-work-cn-bin) | 1.3.1-1 | 0 | 千问办公 (QwenWork) - Alibaba AI office desktop client |
-| 2026-11-24 05:09:43 | [mtp-mount](https://aur.archlinux.org/packages/mtp-mount) | 0.6.0-1 | 0 | Mount MTP devices as local filesystems via FUSE |
-| 2026-11-24 05:20:57 | [mtp-mount-git](https://aur.archlinux.org/packages/mtp-mount-git) |  |  | Mount MTP devices as local filesystems via FUSE (git version) |
+| 2026-11-24 05:42:34 | [namiwork-desktop-bin](https://aur.archlinux.org/packages/namiwork-desktop-bin) | 2.4.14-1 | 0 | Produced by 360 · Safe and reliable AI office platform.360出品·安全可靠 AI 办公平台 |
 
 ## Data source
 
