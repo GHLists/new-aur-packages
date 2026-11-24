@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-24T01:47:38Z,sharpselecta-bin,1.1.0-1,0,Cross-platform music player written in .NET
+2026-11-24T01:47:48Z,shaya,0.1.0-1,0,"Native AI assistant for Linux, built with Rust and GTK4"
+2026-11-24T01:54:58Z,ic-sync,0.1.0-1,0,Native iCloud Drive sync client with a system tray GUI
+2026-11-24T01:55:03Z,ic-sync-bin,0.1.0-1,0,Native iCloud Drive sync client with a system tray GUI (binary release)
+2026-11-24T02:09:21Z,lynx-imager-bin,0.1+rc4-1,0,YNX Imager is open-source desktop software designed for flashing system images onto development boards
+2026-11-24T02:10:16Z,safe-chain,1.5.29-1,0,"Protect against malicious code installed via npm, yarn, pnpm, pip, uv and poetry"
+2026-11-24T02:10:48Z,safe-chain-bin,1.5.29-1,0,"Protect against malicious code installed via npm, yarn, pnpm, pip, uv and poetry (prebuilt)"
+2026-11-24T02:11:22Z,safe-chain-git,r1613.bcd0336-1,0,"Protect against malicious code installed via npm, yarn, pnpm, pip, uv and poetry (git version)"
