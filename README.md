@@ -12,18 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 21:20 UTC
+## Latest list — 2026-11-24 22:22 UTC
 
-New packages created between 2026-11-24 20:19 UTC and 2026-11-24 21:20 UTC.
+New packages created between 2026-11-24 21:20 UTC and 2026-11-24 22:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T21-20-58-15809Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T22-22-13-972563Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 20:22:40 | [rdappler](https://aur.archlinux.org/packages/rdappler) | 1.0-1 | 0 | Retrieve RDAP info and check domain registration status |
-| 2026-11-24 20:36:49 | [obs-studio-nvidia-browser](https://aur.archlinux.org/packages/obs-studio-nvidia-browser) | 33.0.1-1 | 0 | OBS Studio with GPU-rendered browser sources on the NVIDIA driver |
-| 2026-11-24 20:58:21 | [ro-cei-cert](https://aur.archlinux.org/packages/ro-cei-cert) | 1.0.0-1 | 0 | Romanian electronic identity card root and sub-CA certificates |
-| 2026-11-24 21:10:58 | [dictate](https://aur.archlinux.org/packages/dictate) | 0.1.0-1 | 0 | Local live dictation for niri on Wayland (whisper.cpp, CUDA) |
+| 2026-11-24 21:45:15 | [xerabora-bin](https://aur.archlinux.org/packages/xerabora-bin) | 2.2.0-1 | 0 | Desktop RetroAchievements client with live tracking for a real PlayStation 2 th… |
+| 2026-11-24 22:19:17 | [hydra64-bin](https://aur.archlinux.org/packages/hydra64-bin) |  |  | Chess databases, engine analysis, play against an engine and engine tournaments |
+| 2026-11-24 22:19:24 | [hydra64](https://aur.archlinux.org/packages/hydra64) |  |  | Chess databases, engine analysis, play against an engine and engine tournaments |
 
 ## Data source
 
