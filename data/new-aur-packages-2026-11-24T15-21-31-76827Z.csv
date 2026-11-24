@@ -1,0 +1,91 @@
+created_at,package,version,votes,description
+2026-11-24T14:22:14Z,neosh-bin,0.7.0-1,0,TUI agent orchestrator
+2026-11-24T14:22:24Z,python-k3log,0.1.12-1,0,A collection of log utilities for Python logging
+2026-11-24T14:22:26Z,noodle-rest-bin,1.0.0-1,0,REST client where the repository is the workspace
+2026-11-24T14:22:36Z,observer_ward-bin,2026.11.3-1,0,Web application and service fingerprinting tool
+2026-11-24T14:22:46Z,oji,3.2.3-1,0,Text emoticon maker
+2026-11-24T14:22:54Z,oneiromancer,0.9.2-1,0,Reverse engineering assistant using a locally running LLM
+2026-11-24T14:23:04Z,openseek,0.0.11-1,0,Terminal coding agent with multiple model providers
+2026-11-24T14:23:12Z,optimizt,13.0.0-1,0,CLI image optimization tool
+2026-11-24T14:23:21Z,orca-agent-bin,0.5.23-1,0,Terminal coding agent for DeepSeek
+2026-11-24T14:23:30Z,ota-bin,1.6.28-1,0,Execution governance for AI agents
+2026-11-24T14:23:39Z,pdfjuicer,1.0.0-1,0,Convert PDF pages to images with custom sizing and scaling
+2026-11-24T14:23:50Z,phi-bin,0.30.1-1,0,Fast coding agent with sub-agents and MCP support
+2026-11-24T14:23:58Z,pi-go-bin,0.4.4-1,0,Go implementation of the pi coding agent
+2026-11-24T14:24:06Z,pikpaktui-bin,0.0.65-1,0,TUI and CLI client for PikPak cloud storage
+2026-11-24T14:24:14Z,pingtop-py,0.5.1-1,0,Ping multiple servers and show results in a top-like TUI
+2026-11-24T14:24:22Z,pitago-bin,0.12.5-1,0,TUI for the pi coding agent
+2026-11-24T14:24:31Z,polyterm,0.11.6-1,0,Polymarket prediction markets in the terminal
+2026-11-24T14:24:41Z,portview-bin,2.1.0-1,0,List listening ports and their processes
+2026-11-24T14:24:49Z,postbear,1.0.1-1,0,Lightweight terminal API client
+2026-11-24T14:24:59Z,procfd-bin,1.3.0-1,0,"List open file descriptors of processes, an lsof replacement"
+2026-11-24T14:25:09Z,proteinview,0.3.0-1,0,Terminal protein structure viewer with interactive 3D visualization
+2026-11-24T14:25:17Z,provenant-bin,1.0.18-1,0,"Scan for licenses, copyrights, package metadata and SBOM data"
+2026-11-24T14:25:25Z,proxxx-bin,0.19.0-1,0,TUI and CLI for Proxmox VE and Proxmox Backup Server
+2026-11-24T14:25:36Z,purr-adb,2.0.4-1,0,Browse and search Android logcat output with fzf
+2026-11-24T14:25:46Z,python-striprtf,0.0.35-1,0,Convert RTF to plain text
+2026-11-24T14:25:57Z,qrypad-bin,1.9.1-1,0,SQL scratchpad for the terminal
+2026-11-24T14:26:07Z,quote-cli,1.2.0-1,0,Random quote or quote of the day in the terminal
+2026-11-24T14:26:20Z,red-editor-bin,0.12.0-1,0,Vim-like modal text editor
+2026-11-24T14:26:29Z,relic-secrets-bin,0.11.1-1,0,End-to-end encrypted secrets for developers and AI agents
+2026-11-24T14:26:37Z,resumx,0.2.0-1,0,Render resumes from Markdown
+2026-11-24T14:26:49Z,rimz-bin,0.4.3-1,0,Real-time dashboard for agentic coding on tmux
+2026-11-24T14:27:07Z,runwisp-bin,1.10.0-1,0,Cron job manager and process supervisor in one binary
+2026-11-24T14:27:16Z,rustune-bin,0.3.8-1,0,Terminal music player with YouTube search and local playback
+2026-11-24T14:27:24Z,rusty-amp-bin,0.2.14-1,0,Guitar amp and effects rig in the terminal
+2026-11-24T14:27:35Z,san-bin,1.25.5-1,0,Terminal agent runtime
+2026-11-24T14:27:46Z,scythe-bin,0.20.2-1,0,"SQL formatting, linting and security auditing"
+2026-11-24T14:27:54Z,searxngr,0.9.0-1,0,"SearXNG search from the command line, inspired by ddgr and googler"
+2026-11-24T14:28:07Z,sharing,1.4.0-1,0,Share directories and files to phones over the local network with a QR code
+2026-11-24T14:28:17Z,sherlock-rs-bin,5.0.8-1,0,Find social media accounts by username
+2026-11-24T14:28:26Z,sidecar-bin,1.17.1-1,0,"Diffs, file trees, history and tasks next to your CLI coding agent"
+2026-11-24T14:28:36Z,snoop-ebpf-bin,0.1.0-1,0,Syscall tracer built on eBPF
+2026-11-24T14:28:48Z,spritefusion-pixel-snapper,1.0.0-1,0,Snap pixel art to a clean grid
+2026-11-24T14:28:58Z,statui-bin,0.3.0-1,0,API health check TUI dashboard
+2026-11-24T14:29:09Z,streamdown-py,0.36.9-1,0,Streaming Markdown renderer for the terminal
+2026-11-24T14:29:20Z,svm-rs-bin,0.5.32-1,0,Solidity compiler version manager
+2026-11-24T14:29:29Z,sysknife-bin,0.30.4-1,0,Approval-gated AI administration for Linux
+2026-11-24T14:29:38Z,talos-pilot-bin,0.1.11-1,0,"TUI for Talos Linux node monitoring, logs and etcd health"
+2026-11-24T14:29:47Z,taskline-js,1.6.0-1,0,"Tasks, boards and notes for the command line"
+2026-11-24T14:30:02Z,telert,0.2.9-1,0,"Alerts when commands finish, code runs or system events happen"
+2026-11-24T14:30:10Z,tele-tui-bin,2.1.3-1,0,Keyboard-first Telegram client for the terminal
+2026-11-24T14:30:21Z,terraphim-ai-bin,1.21.3-1,0,Deterministic AI assistant
+2026-11-24T14:30:26Z,python-k3logcollector,0.1.8-1,0,Log collector for scanning and aggregating log files
+2026-11-24T14:30:32Z,threat-finder-bin,0.4.2-1,0,Find CVEs in services running on a host
+2026-11-24T14:30:45Z,tmuxwatch-bin,0.10.3-1,0,TUI to watch tmux sessions
+2026-11-24T14:30:53Z,tobaru-bin,0.9.6-1,0,Port forwarding with IP and TLS SNI/ALPN rules
+2026-11-24T14:31:02Z,token-tracker,0.5.9-1,0,Local token usage tracker for Claude Code and Codex with a status line and cost analysis
+2026-11-24T14:31:11Z,toktrack-bin,2.18.0-1,0,Fast token and cost tracker for LLM coding tools
+2026-11-24T14:31:26Z,trophy-tui-bin,1.4.1-1,0,3D model viewer for the terminal
+2026-11-24T14:31:34Z,trust-bin,0.1.1-1,0,Turbo Pascal-style Rust IDE for the terminal
+2026-11-24T14:31:42Z,trx-pkg-bin,0.1.13-1,0,TUI package manager
+2026-11-24T14:31:52Z,tsk-bin,0.14.1-1,0,Terminal task board for you and your agents
+2026-11-24T14:32:00Z,tstrip-bin,0.5.1-1,0,Scrollable-tiling terminal multiplexer inspired by niri
+2026-11-24T14:32:10Z,tttui,2.0.2-1,0,Typing test for the terminal
+2026-11-24T14:32:19Z,tuiboard,0.16.0-1,0,Kanban board in the terminal on plain Markdown files
+2026-11-24T14:32:29Z,tui-test-bin,0.1.1-1,0,"Control, record and test TUI apps in real terminals"
+2026-11-24T14:32:37Z,tunnelmole-client,2.4.3-1,0,Expose local servers to the internet through Tunnelmole
+2026-11-24T14:32:46Z,turm-bin,0.17.0-1,0,TUI for the Slurm workload manager
+2026-11-24T14:32:55Z,typeinc,1.0.3-1,0,Ncurses typing speed test with difficulty levels
+2026-11-24T14:33:03Z,uncomment-bin,3.12.1-1,0,Remove comments from code in 300+ languages
+2026-11-24T14:33:12Z,undercut-f1-bin,4.0.105-1,0,F1 live timing TUI with delay to sync with your TV
+2026-11-24T14:33:21Z,updates,20.0.2-1,0,"Update npm, uv, cargo, go, docker and Actions dependencies"
+2026-11-24T14:33:29Z,valvefm-bin,0.1.8-1,0,Vintage FM radio TUI for radio-browser.info stations
+2026-11-24T14:33:38Z,vercel-serve,14.2.8-1,0,Static file serving and directory listing
+2026-11-24T14:33:40Z,python-k3math,0.1.9-1,0,"A toy math implementation with Vector, Matrix, and Polynomial"
+2026-11-24T14:33:46Z,vibe-log-cli,0.8.14-1,0,Log and analyze Claude Code and Cursor sessions
+2026-11-24T14:33:55Z,vic-bin,0.8.3-1,0,Trim videos in the terminal
+2026-11-24T14:34:03Z,violet-tui-bin,0.3.0-1,0,TUI frontend for Vagrant
+2026-11-24T14:34:15Z,waha-tui,1.7.5-1,0,Terminal UI for WhatsApp through a WAHA server
+2026-11-24T14:34:24Z,wallfacer-bin,1.2.3-1,0,Terminal session manager for Claude Code
+2026-11-24T14:34:32Z,ward,0.4.2-1,0,Security scanner for Laravel applications
+2026-11-24T14:34:43Z,wifui,0.6.0-1,0,Keyboard-driven TUI for managing Wi-Fi connections
+2026-11-24T14:34:52Z,wisdom-tree,0.0.20-1,0,TUI concentration app with pomodoro timer and lo-fi radio
+2026-11-24T14:35:02Z,woxi-bin,0.4.0-1,0,Wolfram Language interpreter written in Rust
+2026-11-24T14:35:10Z,wptui-bin,0.4.0-1,0,Keyboard-driven WhatsApp client for the terminal
+2026-11-24T14:35:28Z,zoetrope-bin,0.2.0-1,0,Watch a Claude Code or Codex session as a live flow graph
+2026-11-24T14:35:37Z,zot-agent-bin,0.4.88-1,0,Lightweight coding agent harness
+2026-11-24T14:44:09Z,python-k3modutil,0.1.8-1,0,Utilities for loading and inspecting Python submodules
+2026-11-24T14:52:01Z,python-k3pattern,0.1.8-1,0,"Find common prefix of strings, tuples, and nested structures"
+2026-11-24T14:57:29Z,python-k3priorityqueue,0.1.10-1,0,Priority queue with weighted producer support
+2026-11-24T15:17:34Z,oled-care,2026.11.24-1,0,HDMI-safe OLED blanker for KDE/Wayland — black screens without killing your AVR
