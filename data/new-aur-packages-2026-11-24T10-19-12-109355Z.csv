@@ -1,0 +1,38 @@
+created_at,package,version,votes,description
+2026-11-24T09:23:44Z,instantmenu-bin,5.2.3-1,0,A dynamic menu for X11 and Wayland (prebuilt binary)
+2026-11-24T09:23:52Z,instantwm-bin,0.8.2-1,0,A tiling window manager for X11 and Wayland (prebuilt binary)
+2026-11-24T09:26:17Z,ytm-rs-bin,2.0.2-1,0,Native YouTube Music client
+2026-11-24T09:27:49Z,python-k3utdocker,0.1.8-1,0,Docker client utilities for unit testing
+2026-11-24T09:28:38Z,scenefx-sysc,0.5.sysc1-1,0,"SceneFX 0.5 with faster blur effect buffers, for sysc-compositor"
+2026-11-24T09:31:41Z,python-k3txutil,0.1.8-1,0,Compare-and-swap (CAS) loop utilities for transactional operations
+2026-11-24T09:36:34Z,python-k3time,0.1.14-1,0,Time conversion utilities for parsing and formatting timestamps
+2026-11-24T09:57:15Z,python-k3dict,0.1.15-1,0,"Dict operation utilities including iteration, getter/setter makers, and attribute access"
+2026-11-24T10:00:51Z,python-k3shell,0.1.9-1,0,Shell command dispatcher with nested subcommand support
+2026-11-24T10:02:03Z,notes-bin,1.0.2-1,0,"Self-hosted, end-to-end encrypted note taking (desktop app, prebuilt release binary)"
+2026-11-24T10:12:48Z,amtui-bin,0.1.6-1,0,Terminal UI for Prometheus Alertmanager
+2026-11-24T10:13:02Z,artui,1.1.2-1,0,Read and track recent arXiv papers in a TUI
+2026-11-24T10:13:20Z,braindrop,1.1.1-1,0,Terminal client for raindrop.io
+2026-11-24T10:13:36Z,chiko-bin,0.3.0-1,0,gRPC client for the terminal
+2026-11-24T10:13:47Z,claude-file-recovery,0.2.0-1,0,Recover files created and modified by Claude Code from its session logs
+2026-11-24T10:14:13Z,dotenvhub,0.6.1-1,0,Centrally manage .env files from a TUI
+2026-11-24T10:14:24Z,elevenlabs-cli-bin,1.12.2-1,0,Command line interface for ElevenLabs voice agents
+2026-11-24T10:14:37Z,fen-bin,1.7.28-1,0,Terminal file manager
+2026-11-24T10:14:54Z,gex-terminal,0.6.0-1,0,Terminal UI for intraday gamma exposure and market structure
+2026-11-24T10:15:02Z,ghostcfg,0.1.4-1,0,Interactive TUI for editing Ghostty configuration
+2026-11-24T10:15:11Z,git-contrib-calendar,1.3.0-1,0,Git contributions calendar for the terminal
+2026-11-24T10:15:23Z,gorest-bin,0.1.0-1,0,Terminal REST client like Postman and Insomnia
+2026-11-24T10:15:31Z,gormt-bin,2.1.gorm-1,0,"Generate Go structs for GORM from a database schema, with a terminal UI"
+2026-11-24T10:15:42Z,g-systemctl-bin,2.6.0-1,0,Terminal UI to manage systemd services and Docker containers
+2026-11-24T10:15:55Z,hermes-hud,0.5.0-1,0,TUI monitor for the Hermes AI agent
+2026-11-24T10:16:05Z,holdspeak,0.4.0-1,0,Local push-to-talk voice typing and meeting transcription
+2026-11-24T10:16:18Z,imza-bin,0.7.6-1,0,Model-agnostic terminal coding agent
+2026-11-24T10:16:32Z,kanban-tui,0.22.0-1,0,Kanban task manager with a TUI that agents can use
+2026-11-24T10:16:42Z,killpy,1.3.1-1,0,Find and delete unused Python virtual environments
+2026-11-24T10:16:55Z,lazyclaude,0.12.15-1,0,lazygit-style TUI for Claude Code customizations
+2026-11-24T10:17:10Z,logmerger,0.13.0-1,0,View multiple log files on one merged timeline
+2026-11-24T10:17:26Z,mini-swe-agent,,,Minimal AI agent that solves GitHub issues and helps in the command line
+2026-11-24T10:17:39Z,neovate-code,,,Terminal coding agent
+2026-11-24T10:17:54Z,oddshub,,,Terminal UI for analyzing sports betting odds
+2026-11-24T10:18:05Z,oshit,,,Hacker News reader for the terminal
+2026-11-24T10:18:18Z,prismriver-lyrics,,,"Search song lyrics across multiple sources, with a TUI that follows the playing track over MPRIS"
+2026-11-24T10:18:31Z,pythonlings,,,Rustlings-style Python exercises in a terminal UI
