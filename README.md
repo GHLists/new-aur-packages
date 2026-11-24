@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 22:22 UTC
+## Latest list — 2026-11-24 23:21 UTC
 
-New packages created between 2026-11-24 21:20 UTC and 2026-11-24 22:22 UTC.
+New packages created between 2026-11-24 22:22 UTC and 2026-11-24 23:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T22-22-13-972563Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T23-21-13-79854Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 21:45:15 | [xerabora-bin](https://aur.archlinux.org/packages/xerabora-bin) | 2.2.0-1 | 0 | Desktop RetroAchievements client with live tracking for a real PlayStation 2 th… |
-| 2026-11-24 22:19:17 | [hydra64-bin](https://aur.archlinux.org/packages/hydra64-bin) |  |  | Chess databases, engine analysis, play against an engine and engine tournaments |
-| 2026-11-24 22:19:24 | [hydra64](https://aur.archlinux.org/packages/hydra64) |  |  | Chess databases, engine analysis, play against an engine and engine tournaments |
+| 2026-11-24 22:24:30 | [docklet](https://aur.archlinux.org/packages/docklet) | 0.1.0-1 | 0 | Dock for river and rivermonad: running and pinned applications in a pill that h… |
+| 2026-11-24 22:59:27 | [t3code-libre-bin](https://aur.archlinux.org/packages/t3code-libre-bin) | 0.1.11-1 | 0 | Desktop control surface for local coding agents (no telemetry, accounts, or clo… |
+| 2026-11-24 23:00:18 | [t3-code-libre-bin](https://aur.archlinux.org/packages/t3-code-libre-bin) | 0.1.11-1 | 0 | Desktop control surface for local coding agents (no telemetry, accounts, or clo… |
 
 ## Data source
 
