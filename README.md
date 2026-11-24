@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 23:18 UTC
+## Latest list — 2026-11-24 00:20 UTC
 
-New packages created between 2026-11-23 22:18 UTC and 2026-11-23 23:18 UTC.
+New packages created between 2026-11-23 23:18 UTC and 2026-11-24 00:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-23T23-18-50-101807Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T00-20-44-28335Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 22:53:35 | [zc](https://aur.archlinux.org/packages/zc) | 0.5.2.rc1.r107.g774… | 0 | Write like a high-level language, run like C; mysterious fork from the 5th dime… |
-| 2026-11-23 23:00:02 | [dcg](https://aur.archlinux.org/packages/dcg) | 0.17.1-1 | 0 | A hook that blocks destructive commands before AI coding agents run them |
-| 2026-11-23 23:00:36 | [nsh-cli-bin](https://aur.archlinux.org/packages/nsh-cli-bin) | 0.6.1-1 | 0 | Build and run nsh apps (prebuilt binary) |
+| 2026-11-23 23:30:35 | [anville](https://aur.archlinux.org/packages/anville) | v0.2.1+tojiko-1 | 0 | Slop-free HTTP server |
+| 2026-11-24 00:03:56 | [linphone-desktop-gh-git](https://aur.archlinux.org/packages/linphone-desktop-gh-git) | 6.2.4-1 | 0 | A free VoIP and video softphone based on the SIP protocol (GitHub releases) |
 
 ## Data source
 
