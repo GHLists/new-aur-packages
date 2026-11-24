@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-24T07:31:43Z,deveco-sdk,26.0.0.865-1,0,HarmonyOS SDK for DevEco Studio / Command Line Tools (cut from the CLT archive)
+2026-11-24T07:35:24Z,long-multiplication-bin,2.3.1-1,0,"Long multiplication step by step, as taught in school: carries, column sums and subtotals (pre-built binary)"
+2026-11-24T07:35:46Z,atlassian-tui-bin,0.8.1-1,0,"Jira and Confluence in the terminal with a TUI, CLI, HTTP API and read-only MCP mode"
+2026-11-24T07:44:27Z,deveco-clt-url,0.2.0-1,0,Mint signed download URLs for HUAWEI DevEco Command Line Tools / Device Tool
+2026-11-24T07:54:10Z,deveco-studio,26.0.0.865-1,0,Huawei DevEco Studio repackaged for Arch Linux
+2026-11-24T08:03:14Z,mapstick,0.1.0-1,0,"Unofficial navigation map updater for Hyundai, Kia and Genesis: downloads the firmware onto a USB drive"
+2026-11-24T08:03:19Z,mapstick-bin,0.1.0-1,0,"Unofficial navigation map updater for Hyundai, Kia and Genesis: downloads the firmware onto a USB drive (precompiled binary)"
+2026-11-24T08:06:32Z,rsadsb-radar-bin,2025.05.03-1,0,TUI radar display of ADS-B aircraft data from a demodulator
+2026-11-24T08:13:07Z,python-k3mime,0.1.9-1,0,MIME type detection by filename

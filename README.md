@@ -12,18 +12,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 07:19 UTC
+## Latest list — 2026-11-24 08:20 UTC
 
-New packages created between 2026-11-24 06:18 UTC and 2026-11-24 07:19 UTC.
+New packages created between 2026-11-24 07:19 UTC and 2026-11-24 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T07-19-43-233614Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T08-20-13-137354Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 06:27:55 | [lovable-oj-bin](https://aur.archlinux.org/packages/lovable-oj-bin) | 0.4.21-1 | 0 | Experimental next generation frontend tooling (prebuilt) |
-| 2026-11-24 06:39:03 | [r-msstatsbionet](https://aur.archlinux.org/packages/r-msstatsbionet) | 1.4.1-3 | 0 | Network Analysis for MS-based Proteomics Experiments |
-| 2026-11-24 07:09:41 | [pgterm-bin](https://aur.archlinux.org/packages/pgterm-bin) | 0.4.0-1 | 0 | Modern Postgres terminal |
-| 2026-11-24 07:12:20 | [iottack](https://aur.archlinux.org/packages/iottack) | 0.4.0-1 | 0 | IoT protocol testing framework |
+| 2026-11-24 07:31:43 | [deveco-sdk](https://aur.archlinux.org/packages/deveco-sdk) | 26.0.0.865-1 | 0 | HarmonyOS SDK for DevEco Studio / Command Line Tools (cut from the CLT archive) |
+| 2026-11-24 07:35:24 | [long-multiplication-bin](https://aur.archlinux.org/packages/long-multiplication-bin) | 2.3.1-1 | 0 | Long multiplication step by step, as taught in school: carries, column sums and… |
+| 2026-11-24 07:35:46 | [atlassian-tui-bin](https://aur.archlinux.org/packages/atlassian-tui-bin) | 0.8.1-1 | 0 | Jira and Confluence in the terminal with a TUI, CLI, HTTP API and read-only MCP… |
+| 2026-11-24 07:44:27 | [deveco-clt-url](https://aur.archlinux.org/packages/deveco-clt-url) | 0.2.0-1 | 0 | Mint signed download URLs for HUAWEI DevEco Command Line Tools / Device Tool |
+| 2026-11-24 07:54:10 | [deveco-studio](https://aur.archlinux.org/packages/deveco-studio) | 26.0.0.865-1 | 0 | Huawei DevEco Studio repackaged for Arch Linux |
+| 2026-11-24 08:03:14 | [mapstick](https://aur.archlinux.org/packages/mapstick) | 0.1.0-1 | 0 | Unofficial navigation map updater for Hyundai, Kia and Genesis: downloads the f… |
+| 2026-11-24 08:03:19 | [mapstick-bin](https://aur.archlinux.org/packages/mapstick-bin) | 0.1.0-1 | 0 | Unofficial navigation map updater for Hyundai, Kia and Genesis: downloads the f… |
+| 2026-11-24 08:06:32 | [rsadsb-radar-bin](https://aur.archlinux.org/packages/rsadsb-radar-bin) | 2025.05.03-1 | 0 | TUI radar display of ADS-B aircraft data from a demodulator |
+| 2026-11-24 08:13:07 | [python-k3mime](https://aur.archlinux.org/packages/python-k3mime) | 0.1.9-1 | 0 | MIME type detection by filename |
 
 ## Data source
 
