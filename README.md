@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 00:20 UTC
+## Latest list — 2026-11-24 01:21 UTC
 
-New packages created between 2026-11-23 23:18 UTC and 2026-11-24 00:20 UTC.
+New packages created between 2026-11-24 00:20 UTC and 2026-11-24 01:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T00-20-44-28335Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T01-21-37-511201Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 23:30:35 | [anville](https://aur.archlinux.org/packages/anville) | v0.2.1+tojiko-1 | 0 | Slop-free HTTP server |
-| 2026-11-24 00:03:56 | [linphone-desktop-gh-git](https://aur.archlinux.org/packages/linphone-desktop-gh-git) | 6.2.4-1 | 0 | A free VoIP and video softphone based on the SIP protocol (GitHub releases) |
+| 2026-11-24 00:40:41 | [arcane-cli](https://aur.archlinux.org/packages/arcane-cli) | 3.1.1-1 | 0 | Official command line interface for Arcane, modern Docker management |
+| 2026-11-24 00:47:48 | [arcane-cli-bin](https://aur.archlinux.org/packages/arcane-cli-bin) | 3.1.1-1 | 0 | Official command line interface for Arcane, modern Docker management (prebuilt) |
 
 ## Data source
 
