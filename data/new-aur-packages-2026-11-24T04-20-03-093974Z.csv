@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-24T03:34:14Z,doubao-cli,2.37.2-1,0,"Doubao CLI: terminal AI agent for Doubao, usable from scripts and automation workflows"
+2026-11-24T03:36:14Z,mddog-bin,1.4.0-1,1,"Real Markdown, right in your terminal"
+2026-11-24T03:38:07Z,bo_music,0.0.3-1,0,A modern Fluent-style music player
+2026-11-24T03:47:30Z,mediafire_rs,0.2.3-1,0,Downloads files and folders from MediaFire
+2026-11-24T03:49:25Z,mediafire_rs-bin,0.2.3-1,0,Downloads files and folders from MediaFire (prebuilt)
+2026-11-24T04:01:19Z,python-resolve_march_native-git,r779.0680f8786ca6b7…,0,Small cli to resolve -march=native into explicit GCC or Clang flags
+2026-11-24T04:16:44Z,rp2350sim,0.1.0-1,0,RP2350 emulator with a headless runner and a Shirei desktop UI

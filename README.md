@@ -12,17 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 03:20 UTC
+## Latest list — 2026-11-24 04:20 UTC
 
-New packages created between 2026-11-24 02:21 UTC and 2026-11-24 03:20 UTC.
+New packages created between 2026-11-24 03:20 UTC and 2026-11-24 04:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T03-20-30-239823Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T04-20-03-093974Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 02:22:24 | [matui-classic](https://aur.archlinux.org/packages/matui-classic) | 1.1.0-1 | 0 | An opinionated Matrix TUI client, for homeservers without sliding sync. |
-| 2026-11-24 02:57:35 | [transparent-tor-proxy](https://aur.archlinux.org/packages/transparent-tor-proxy) | 0.5.1-1 | 1 | A Linux CLI tool that transparently routes all system traffic through the Tor n… |
-| 2026-11-24 03:10:58 | [termeric-bin](https://aur.archlinux.org/packages/termeric-bin) | 0.1.0-1 | 0 | GPU-accelerated terminal emulator themed around roots and rhizomes (prebuilt) |
+| 2026-11-24 03:34:14 | [doubao-cli](https://aur.archlinux.org/packages/doubao-cli) | 2.37.2-1 | 0 | Doubao CLI: terminal AI agent for Doubao, usable from scripts and automation wo… |
+| 2026-11-24 03:36:14 | [mddog-bin](https://aur.archlinux.org/packages/mddog-bin) | 1.4.0-1 | 1 | Real Markdown, right in your terminal |
+| 2026-11-24 03:38:07 | [bo_music](https://aur.archlinux.org/packages/bo_music) | 0.0.3-1 | 0 | A modern Fluent-style music player |
+| 2026-11-24 03:47:30 | [mediafire_rs](https://aur.archlinux.org/packages/mediafire_rs) | 0.2.3-1 | 0 | Downloads files and folders from MediaFire |
+| 2026-11-24 03:49:25 | [mediafire_rs-bin](https://aur.archlinux.org/packages/mediafire_rs-bin) | 0.2.3-1 | 0 | Downloads files and folders from MediaFire (prebuilt) |
+| 2026-11-24 04:01:19 | [python-resolve_march_native-git](https://aur.archlinux.org/packages/python-resolve_march_native-git) | r779.0680f8786ca6b7… | 0 | Small cli to resolve -march=native into explicit GCC or Clang flags |
+| 2026-11-24 04:16:44 | [rp2350sim](https://aur.archlinux.org/packages/rp2350sim) | 0.1.0-1 | 0 | RP2350 emulator with a headless runner and a Shirei desktop UI |
 
 ## Data source
 
