@@ -1,0 +1,19 @@
+created_at,package,version,votes,description
+2026-11-24T10:19:34Z,run-cli-bin,0.31.0-1,0,Interactive terminal UI for Google Cloud Run
+2026-11-24T10:19:47Z,sea-trader,3.2.0-1,0,Terminal trading game inspired by Taipan!
+2026-11-24T10:19:58Z,servonaut,2.34.0-1,0,"Manage AWS, Hetzner, OVH and custom servers from one TUI"
+2026-11-24T10:20:19Z,sudoku-in-terminal,1.2.2-1,0,Sudoku game in the terminal
+2026-11-24T10:20:32Z,tblogs-bin,1.1.1-1,0,Terminal reader for developer blogs
+2026-11-24T10:21:08Z,tweakcc,4.4.0-1,0,"Customize Claude Code system prompts, toolsets, themes and input behaviour"
+2026-11-24T10:21:17Z,usolitaire,1.1.0-1,0,Solitaire in the terminal
+2026-11-24T10:21:26Z,vllmops,0.5.0-1,0,Manage self-hosted vLLM models and profiles with YAML and a TUI
+2026-11-24T10:21:36Z,walle,1.0.5-1,0,Terminal EVM wallet with WalletConnect v2 and ERC-20 transfers
+2026-11-24T10:21:49Z,x360tm-bin,3.0.0-1,0,"Browse and install Xbox 360 mods, trainers, saves and homebrew to a console over FTP"
+2026-11-24T10:29:03Z,python-k3redisutil,0.1.8-1,0,Redis utilities for easier client management and proxy support
+2026-11-24T10:32:29Z,python-k3rangeset,0.1.7-1,0,Segmented range represented as sorted interleaving intervals
+2026-11-24T10:39:04Z,python-k3portlock,0.1.10-1,0,Cross-process lock using socket binding
+2026-11-24T10:43:01Z,bay-browser-bin,1.0.0-1,0,"A fast browser with your tabs in a sidebar, on Chromium"
+2026-11-24T10:45:54Z,python-k3cat,0.1.7-1,0,"Like nix command cat or tail, continuously scan a file line by line"
+2026-11-24T11:02:10Z,reliabilitty,0.1.21-1,0,"A small, fast, reliable X11 terminal emulator"
+2026-11-24T11:03:34Z,git-branch-status-git,r14.7608705-1,0,Git command to give you an overview of your branches
+2026-11-24T11:09:08Z,scratch-link-gtk,0.1.0-1,0,Bluetooth bridge for Scratch 3 hardware extensions
