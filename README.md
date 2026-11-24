@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 17:19 UTC
+## Latest list — 2026-11-24 18:21 UTC
 
-New packages created between 2026-11-24 16:22 UTC and 2026-11-24 17:19 UTC.
+New packages created between 2026-11-24 17:19 UTC and 2026-11-24 18:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T17-19-31-203004Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T18-21-21-482596Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 16:22:58 | [neostation-bin](https://aur.archlinux.org/packages/neostation-bin) | 1.0.0rc2.3002-1 | 0 | Controller-friendly emulation frontend with artwork and RetroAchievements integ… |
-| 2026-11-24 17:07:22 | [neostation](https://aur.archlinux.org/packages/neostation) | 1.0.0rc2.3002-1 | 0 | Controller-friendly emulation frontend with artwork and RetroAchievements integ… |
+| 2026-11-24 17:35:23 | [muxflow-teejer-git](https://aur.archlinux.org/packages/muxflow-teejer-git) | 0.1.39.r2221.gba075… | 0 | Graphical IDE for local and remote tmux sessions (Teejer fork, source build) |
 
 ## Data source
 
