@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 19:20 UTC
+## Latest list — 2026-11-24 20:19 UTC
 
-New packages created between 2026-11-24 18:21 UTC and 2026-11-24 19:20 UTC.
+New packages created between 2026-11-24 19:20 UTC and 2026-11-24 20:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T19-20-34-027201Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T20-19-57-243727Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 18:35:30 | [peter](https://aur.archlinux.org/packages/peter) | 0.0.2-1 | 0 | A USB based keys manager which integrates with PAM and SSH. |
-| 2026-11-24 18:37:13 | [laccy](https://aur.archlinux.org/packages/laccy) | 0.1.5-1 | 0 | Lightweight, keyboard-first clipboard manager for Wayland |
-| 2026-11-24 18:39:31 | [m913ctl](https://aur.archlinux.org/packages/m913ctl) | 0.0.1-1 | 0 | Configure the Redragon M913 (Impact Elite) mouse: buttons, macros, DPI, lightin… |
-| 2026-11-24 18:42:58 | [fontconfig-typical-git](https://aur.archlinux.org/packages/fontconfig-typical-git) | 2.18.4.r28.gd5020de… | 0 | fontconfig with matching by the fonts' own OpenType data: per-language CJK, CSS… |
-| 2026-11-24 18:47:23 | [obby](https://aur.archlinux.org/packages/obby) | 0.4.2-1 | 0 | Modern IRC client for the web, desktop and mobile |
+| 2026-11-24 19:52:14 | [ca-certificates-ssl-expert](https://aur.archlinux.org/packages/ca-certificates-ssl-expert) | 20261123-1 | 1 | root certificate for ssl-expert.de (40C3 community CA) |
+| 2026-11-24 19:54:18 | [nuvio-engine-bin](https://aur.archlinux.org/packages/nuvio-engine-bin) | 0.1.6-1 | 0 | Cross-platform torrent streaming engine built on libtorrent (prebuilt) |
+| 2026-11-24 19:56:19 | [chelsea](https://aur.archlinux.org/packages/chelsea) | 0.1.2-1 | 0 | Discover and watch movies and series from your Stremio addons (libadwaita, buil… |
 
 ## Data source
 

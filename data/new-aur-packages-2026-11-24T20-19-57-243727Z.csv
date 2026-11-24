@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-24T19:52:14Z,ca-certificates-ssl-expert,20261123-1,1,root certificate for ssl-expert.de (40C3 community CA)
+2026-11-24T19:54:18Z,nuvio-engine-bin,0.1.6-1,0,Cross-platform torrent streaming engine built on libtorrent (prebuilt)
+2026-11-24T19:56:19Z,chelsea,0.1.2-1,0,"Discover and watch movies and series from your Stremio addons (libadwaita, built-in mpv player)"
