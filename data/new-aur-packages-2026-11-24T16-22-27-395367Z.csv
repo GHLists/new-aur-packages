@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-24T15:23:11Z,zig0.16,0.16.0-1,0,Zig 0.16 compiler and toolchain
+2026-11-24T15:23:28Z,python-k3wsjobd,0.1.8-1,0,Gevent-based WebSocket server for async job processing
+2026-11-24T15:36:00Z,uuyc-bin,4.48.6.41668-1,0,网易UU远程官方 Linux 客户端 (NetEase UU Remote)
+2026-11-24T15:36:49Z,lossless,0.1.0-2,0,"Bit-perfect music daemon for ALSA, with a CLI and a terminal UI"
+2026-11-24T15:53:37Z,mdink,1.0.0-1,0,"Compact, browser-free Markdown-to-PDF CLI with six themes and custom colors"
+2026-11-24T16:11:01Z,r-maaslin3,1.4.0-2,0,"""Refining and extending generalized multivariate linear models for meta-omic association discovery"""
+2026-11-24T16:12:36Z,qslib,0.15.1-1,0,Library for communicating with and using the QuantStudio qPCR machine
+2026-11-24T16:17:22Z,passel,0.2.0-1,0,A pass-compatible password manager for GNOME
+2026-11-24T16:17:35Z,passel-bin,0.2.0-1,0,A pass-compatible password manager for GNOME (prebuilt binary)
