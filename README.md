@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 12:22 UTC
+## Latest list — 2026-11-24 13:20 UTC
 
-New packages created between 2026-11-24 11:21 UTC and 2026-11-24 12:22 UTC.
+New packages created between 2026-11-24 12:22 UTC and 2026-11-24 13:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T12-22-13-195162Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T13-20-00-081416Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 11:28:35 | [ssmcp-bin](https://aur.archlinux.org/packages/ssmcp-bin) | 0.10.31-1 | 0 | Authenticated native tools and terminal access over MCP (official prebuilt bina… |
-| 2026-11-24 12:02:26 | [bo-music](https://aur.archlinux.org/packages/bo-music) | 0.0.4-1 | 0 | A modern Fluent-style music player |
+| 2026-11-24 12:42:31 | [lituus](https://aur.archlinux.org/packages/lituus) | 0.3.0-1 | 0 | Settings for Hyprland: network, Bluetooth, sound and displays |
+| 2026-11-24 13:03:38 | [rtk-noavx-bin](https://aur.archlinux.org/packages/rtk-noavx-bin) | 1.2.1-1 | 0 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands (… |
+| 2026-11-24 13:14:36 | [python-k3net](https://aur.archlinux.org/packages/python-k3net) | 0.1.8-1 | 0 | Network utilities for IP address detection and classification |
 
 ## Data source
 
