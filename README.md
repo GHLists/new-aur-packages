@@ -12,22 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 02:21 UTC
+## Latest list — 2026-11-24 03:20 UTC
 
-New packages created between 2026-11-24 01:21 UTC and 2026-11-24 02:21 UTC.
+New packages created between 2026-11-24 02:21 UTC and 2026-11-24 03:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T02-21-45-608971Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T03-20-30-239823Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 01:47:38 | [sharpselecta-bin](https://aur.archlinux.org/packages/sharpselecta-bin) | 1.1.0-1 | 0 | Cross-platform music player written in .NET |
-| 2026-11-24 01:47:48 | [shaya](https://aur.archlinux.org/packages/shaya) | 0.1.0-1 | 0 | Native AI assistant for Linux, built with Rust and GTK4 |
-| 2026-11-24 01:54:58 | [ic-sync](https://aur.archlinux.org/packages/ic-sync) | 0.1.0-1 | 0 | Native iCloud Drive sync client with a system tray GUI |
-| 2026-11-24 01:55:03 | [ic-sync-bin](https://aur.archlinux.org/packages/ic-sync-bin) | 0.1.0-1 | 0 | Native iCloud Drive sync client with a system tray GUI (binary release) |
-| 2026-11-24 02:09:21 | [lynx-imager-bin](https://aur.archlinux.org/packages/lynx-imager-bin) | 0.1+rc4-1 | 0 | YNX Imager is open-source desktop software designed for flashing system images… |
-| 2026-11-24 02:10:16 | [safe-chain](https://aur.archlinux.org/packages/safe-chain) | 1.5.29-1 | 0 | Protect against malicious code installed via npm, yarn, pnpm, pip, uv and poetry |
-| 2026-11-24 02:10:48 | [safe-chain-bin](https://aur.archlinux.org/packages/safe-chain-bin) | 1.5.29-1 | 0 | Protect against malicious code installed via npm, yarn, pnpm, pip, uv and poetr… |
-| 2026-11-24 02:11:22 | [safe-chain-git](https://aur.archlinux.org/packages/safe-chain-git) | r1613.bcd0336-1 | 0 | Protect against malicious code installed via npm, yarn, pnpm, pip, uv and poetr… |
+| 2026-11-24 02:22:24 | [matui-classic](https://aur.archlinux.org/packages/matui-classic) | 1.1.0-1 | 0 | An opinionated Matrix TUI client, for homeservers without sliding sync. |
+| 2026-11-24 02:57:35 | [transparent-tor-proxy](https://aur.archlinux.org/packages/transparent-tor-proxy) | 0.5.1-1 | 1 | A Linux CLI tool that transparently routes all system traffic through the Tor n… |
+| 2026-11-24 03:10:58 | [termeric-bin](https://aur.archlinux.org/packages/termeric-bin) | 0.1.0-1 | 0 | GPU-accelerated terminal emulator themed around roots and rhizomes (prebuilt) |
 
 ## Data source
 

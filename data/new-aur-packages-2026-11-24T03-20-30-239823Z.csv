@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-24T02:22:24Z,matui-classic,1.1.0-1,0,"An opinionated Matrix TUI client, for homeservers without sliding sync."
+2026-11-24T02:57:35Z,transparent-tor-proxy,0.5.1-1,1,A Linux CLI tool that transparently routes all system traffic through the Tor network using nftables
+2026-11-24T03:10:58Z,termeric-bin,0.1.0-1,0,GPU-accelerated terminal emulator themed around roots and rhizomes (prebuilt)
