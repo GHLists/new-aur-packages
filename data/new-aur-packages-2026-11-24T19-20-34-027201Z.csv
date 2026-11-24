@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-24T18:35:30Z,peter,0.0.2-1,0,A USB based keys manager which integrates with PAM and SSH.
+2026-11-24T18:37:13Z,laccy,0.1.5-1,0,"Lightweight, keyboard-first clipboard manager for Wayland"
+2026-11-24T18:39:31Z,m913ctl,0.0.1-1,0,"Configure the Redragon M913 (Impact Elite) mouse: buttons, macros, DPI, lighting, polling rate"
+2026-11-24T18:42:58Z,fontconfig-typical-git,2.18.4.r28.gd5020de…,0,"fontconfig with matching by the fonts' own OpenType data: per-language CJK, CSS-ordered weight/width, family first, design languages, fc-match --explain (git)"
+2026-11-24T18:47:23Z,obby,0.4.2-1,0,"Modern IRC client for the web, desktop and mobile"
