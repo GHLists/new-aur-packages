@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-24T06:27:55Z,lovable-oj-bin,0.4.21-1,0,Experimental next generation frontend tooling (prebuilt)
+2026-11-24T06:39:03Z,r-msstatsbionet,1.4.1-3,0,Network Analysis for MS-based Proteomics Experiments
+2026-11-24T07:09:41Z,pgterm-bin,0.4.0-1,0,Modern Postgres terminal
+2026-11-24T07:12:20Z,iottack,0.4.0-1,0,IoT protocol testing framework

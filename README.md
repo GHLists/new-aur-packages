@@ -12,15 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 06:18 UTC
+## Latest list — 2026-11-24 07:19 UTC
 
-New packages created between 2026-11-24 05:21 UTC and 2026-11-24 06:18 UTC.
+New packages created between 2026-11-24 06:18 UTC and 2026-11-24 07:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T06-18-41-837342Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-24T07-19-43-233614Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 05:42:34 | [namiwork-desktop-bin](https://aur.archlinux.org/packages/namiwork-desktop-bin) | 2.4.14-1 | 0 | Produced by 360 · Safe and reliable AI office platform.360出品·安全可靠 AI 办公平台 |
+| 2026-11-24 06:27:55 | [lovable-oj-bin](https://aur.archlinux.org/packages/lovable-oj-bin) | 0.4.21-1 | 0 | Experimental next generation frontend tooling (prebuilt) |
+| 2026-11-24 06:39:03 | [r-msstatsbionet](https://aur.archlinux.org/packages/r-msstatsbionet) | 1.4.1-3 | 0 | Network Analysis for MS-based Proteomics Experiments |
+| 2026-11-24 07:09:41 | [pgterm-bin](https://aur.archlinux.org/packages/pgterm-bin) | 0.4.0-1 | 0 | Modern Postgres terminal |
+| 2026-11-24 07:12:20 | [iottack](https://aur.archlinux.org/packages/iottack) | 0.4.0-1 | 0 | IoT protocol testing framework |
 
 ## Data source
 
