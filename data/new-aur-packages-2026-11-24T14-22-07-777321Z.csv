@@ -1,0 +1,101 @@
+created_at,package,version,votes,description
+2026-11-24T13:32:42Z,python-k3daemonize,0.1.6-1,0,Create daemon processes with CLI for start/stop/restart
+2026-11-24T13:41:04Z,python-k3cgrouparch,0.1.6-1,0,Set up cgroup directory tree and add pid to cgroup
+2026-11-24T13:43:12Z,python-k3etcd,0.2.2-1,0,"Python client for the etcd v2 API, for etcd server 2.3.x to 3.5.x"
+2026-11-24T13:46:07Z,homemesh,0.2.0-1,0,Open the home folders of your other computers in any file manager; pair them with a code
+2026-11-24T13:47:30Z,python-k3fmt,0.1.8-1,0,Several string operation functions for formatting and manipulation
+2026-11-24T13:52:30Z,python-k3fnmatch,0.1.6-1,0,Enhanced fnmatch with grouping regex and path transformation
+2026-11-24T13:56:03Z,python-k3heap,0.1.13-1,0,Binary min heap implemented with reference
+2026-11-24T13:59:29Z,python-k3jobq,0.1.10-1,0,Concurrent job queue manager with multi-threading support
+2026-11-24T14:04:41Z,1667-bin,0.11.2-1,0,Full-screen terminal environment for writing fiction with language models
+2026-11-24T14:04:49Z,1history-bin,0.4.1-1,0,Merge your shell histories into one file
+2026-11-24T14:04:59Z,act3-bin,2.0.0-1,0,Glance at the last 3 runs of your GitHub Actions workflows
+2026-11-24T14:05:07Z,advai-cli,1.0.12-1,0,"Local-first CLI for agent skills, browser automation and knowledge bases"
+2026-11-24T14:05:15Z,agav-bin,0.2.8-1,0,Terminal AI coding assistant for real repositories
+2026-11-24T14:05:23Z,agent-bridge,0.1.31-1,0,Local bridge for collaboration between Claude Code and Codex
+2026-11-24T14:05:32Z,agentmanager-bin,1.5.0-1,0,"Detect, install, manage and update AI agent CLI tools"
+2026-11-24T14:05:40Z,agentpipe-bin,0.7.0-1,0,Orchestrate conversations between different AI CLI tools
+2026-11-24T14:05:48Z,agenttrace-bin,0.10.1-1,0,"Audit AI coding agent sessions: cost, tokens, latency and failures"
+2026-11-24T14:05:57Z,agf-bin,0.15.1-1,0,"Find, search and resume local AI coding agent sessions"
+2026-11-24T14:06:05Z,agtop-ts,0.6.1-1,0,top-style TUI for monitoring AI coding agent sessions
+2026-11-24T14:06:13Z,aisw-bin,0.3.11-1,0,"Switch between multiple Claude Code, Codex and Gemini accounts"
+2026-11-24T14:06:21Z,aizen-bin,0.7.4-1,0,AI coding agent for your PC or VPS that you can control from your phone
+2026-11-24T14:06:30Z,albatross-cli,2.5.0-1,0,Terminal-first AI coding agent
+2026-11-24T14:06:40Z,alter-zero-bin,0.20.0-1,0,Memory-efficient terminal agent harness for coding and automation
+2026-11-24T14:06:51Z,anymd-bin,8.5.16-1,0,"Convert PDF, Word, PowerPoint, Excel, EPUB and HTML to Markdown"
+2026-11-24T14:07:04Z,apexo-code-bin,1.3.0-1,0,General-purpose terminal coding agent
+2026-11-24T14:07:13Z,aptui-bin,0.8.2-1,0,TUI package manager for APT-based distributions
+2026-11-24T14:07:24Z,arp-scan-rs-bin,0.15.1-1,0,Minimal ARP scanner for fast local network scans
+2026-11-24T14:07:34Z,asciimol,1.2.7-1,0,Curses-based ASCII molecule viewer
+2026-11-24T14:07:43Z,autoshade-bin,1.18.5-1,0,AI-assisted RAW photo developer
+2026-11-24T14:07:53Z,aye-chat,0.57.0-1,0,AI-powered terminal workspace
+2026-11-24T14:08:03Z,bake-rs-bin,1.2.0-1,0,Simple script runner
+2026-11-24T14:08:13Z,bigtext-bin,0.13.0-1,0,Editor and log viewer for very large files
+2026-11-24T14:08:21Z,birda-bin,1.8.1-1,0,Bird species detection from audio with BirdNET and Perch models
+2026-11-24T14:08:33Z,browser-use-terminal-bin,0.1.8-1,0,Terminal UI for getting things done in the browser with browser-use
+2026-11-24T14:08:42Z,buffrs,0.13.3-1,0,Package manager for Protocol Buffers
+2026-11-24T14:08:51Z,capcut-cli,0.37.1-1,0,Unofficial CLI for editing CapCut and JianYing projects
+2026-11-24T14:08:59Z,carboncode,0.2.7-1,0,Terminal coding tool built on DeepSeek
+2026-11-24T14:09:08Z,cc9s-bin,0.2.3-1,0,k9s-style TUI for managing Claude Code sessions
+2026-11-24T14:09:17Z,cclog,0.7.4-1,0,"Convert Claude Code conversations to Markdown, with a TUI"
+2026-11-24T14:09:24Z,python-k3kroki,0.1.3-1,0,Convert diagrams to images via the kroki.io API — zero local dependencies
+2026-11-24T14:09:25Z,cctop-bin,0.9.1-1,0,Live top-style monitor for Claude Code sessions
+2026-11-24T14:09:37Z,checkpwn-rs,0.6.3-1,0,Check Have I Been Pwned for breached accounts and passwords
+2026-11-24T14:09:46Z,chief-bin,0.8.0-1,0,Break big projects into tasks and build them with Claude
+2026-11-24T14:09:56Z,cinema-bin,2.1.0-1,0,Command-line video multiviewer
+2026-11-24T14:10:05Z,claude-code-statusline-bin,1.2.0-1,0,"Status line for Claude Code showing model, git and usage details"
+2026-11-24T14:10:14Z,claude-esp-bin,0.15.0-1,0,"Stream Claude Code thinking, tool calls and subagents to a separate terminal"
+2026-11-24T14:10:23Z,claude-swap,1.2.0-1,0,Switch between Claude Code accounts with rate-limit rotation and a usage dashboard
+2026-11-24T14:10:32Z,cliproxy-rs-bin,0.4.5-1,0,"Local endpoint to use DeepSeek, GLM, Kimi and OpenRouter models in Codex CLI and Claude Code"
+2026-11-24T14:10:40Z,cli-wechat-bridge,1.5.0-1,0,Bridge WeChat and Telegram to local coding agents
+2026-11-24T14:10:49Z,coddy-agent-bin,1.4.45-1,0,General-purpose agent with a console TUI and an ACP server
+2026-11-24T14:10:57Z,codeleveler-bin,1.0.28-1,0,Local coding agent that leaves reviewable changes
+2026-11-24T14:11:06Z,code-on-incus-bin,0.16.0-1,0,Run each AI coding agent in its own Incus container
+2026-11-24T14:11:14Z,collidertracker-bin,4.5.3-1,0,Terminal music tracker using SuperCollider for synthesis
+2026-11-24T14:11:27Z,confluence-cli,2.31.3-1,0,Command-line interface for Atlassian Confluence
+2026-11-24T14:11:37Z,conveyor-bin,0.1.0-1,0,Local CI/CD pipelines with a real-time TUI
+2026-11-24T14:11:50Z,cy-bin,1.12.1-1,0,Terminal multiplexer that records and replays sessions
+2026-11-24T14:11:58Z,d4s-bin,0.49.114-1,0,"Keyboard-driven TUI for Docker containers, Compose stacks and Swarm"
+2026-11-24T14:12:07Z,datafusion-dft,0.2.3-1,0,CLI and TUI for querying data with Apache DataFusion
+2026-11-24T14:12:15Z,ddqa-bin,0.9.0-1,0,Datadog's QA manager for GitHub repository releases
+2026-11-24T14:12:27Z,desktop-tui,0.3.2-1,0,Desktop environment in the terminal
+2026-11-24T14:12:35Z,devskim,0.8.0-1,0,"Terminal feed reader for Hacker News, Reddit, Lobsters and GitHub Trending"
+2026-11-24T14:12:43Z,devtui-bin,0.35.0-1,0,Collection of developer tools in one TUI
+2026-11-24T14:12:53Z,diff-tour-bin,0.7.0-1,0,Read-through tour of a diff in the terminal
+2026-11-24T14:13:02Z,docker-dash-bin,0.1.4-1,0,TUI management tool for containers
+2026-11-24T14:13:12Z,dprs-bin,0.1.15-1,0,TUI for managing Docker containers and following their logs
+2026-11-24T14:13:26Z,etcd-walker-bin,0.7.0-1,0,TUI tool for browsing etcd
+2026-11-24T14:13:35Z,exosphere,3.0.4-1,0,Patch reporting for remote Unix systems with a CLI and TUI
+2026-11-24T14:13:43Z,faf-cli,8.12.0-1,0,Write and maintain context files for AI coding agents
+2026-11-24T14:13:52Z,feeling-bin,0.1.0-1,0,Terminal mood tracker
+2026-11-24T14:14:01Z,filecast-lan-bin,1.2.0-1,0,Fast LAN file transfer over UDP broadcast with packet loss recovery
+2026-11-24T14:14:11Z,flowrs-bin,0.16.7-1,0,TUI for Apache Airflow
+2026-11-24T14:14:21Z,future-os-bin,2.1.1-1,0,AI agent for the terminal and beyond
+2026-11-24T14:14:32Z,gcscope-bin,1.0.0-1,0,Go garbage collector visualizer TUI
+2026-11-24T14:14:42Z,gibr,0.10.2-1,0,Create Git branches from issue trackers
+2026-11-24T14:14:50Z,gifgrep-bin,0.4.6-1,0,Search for GIFs from the terminal
+2026-11-24T14:14:58Z,giga-grabber-bin,1.3.6-1,0,Fast Mega downloader
+2026-11-24T14:15:06Z,git-ai-bin,1.7.6-1,0,Git extension for tracking AI-generated code in your repositories
+2026-11-24T14:15:15Z,gitmoji-cli-bin,9.7.0-1,0,Interactive gitmoji commit tool
+2026-11-24T14:15:25Z,gloamy,0.1.9-1,0,Secure on-device personal agents
+2026-11-24T14:15:39Z,grofer,1.4.1-1,0,System and resource monitoring tool
+2026-11-24T14:15:48Z,groma-bin,0.7.8-1,0,Keep your architecture as Markdown in Git
+2026-11-24T14:15:56Z,groq-cli,0.5.0-1,0,Run GROQ queries from the command line
+2026-11-24T14:16:05Z,gruyere,0.1.1-1,0,View and kill processes listening on ports
+2026-11-24T14:16:14Z,hacksguard-bin,0.3-1,0,Multi-threaded TUI malware analysis tool
+2026-11-24T14:16:23Z,hcom-bin,0.7.31-1,0,"Let AI agents message, watch and spawn each other across terminals"
+2026-11-24T14:16:35Z,herdr-bar-bin,0.14.0-1,0,Fuzzy tab jumping and automatic tab titles for herdr
+2026-11-24T14:16:43Z,herdr-dagr-bin,0.3.1-1,0,Show a herdr agent swarm as a live orchestration graph
+2026-11-24T14:16:51Z,herdr-file-viewer-bin,1.18.0-1,0,Git-aware read-only file viewer for herdr
+2026-11-24T14:17:01Z,herdr-sidebar-bin,0.16.0-1,0,File explorer and git sidebar pane for herdr
+2026-11-24T14:17:10Z,hike,1.4.0-1,0,Markdown browser for the terminal
+2026-11-24T14:17:20Z,hnjobs-bin,0.3.2-1,0,Find matching jobs in Hacker News Who's Hiring threads
+2026-11-24T14:17:29Z,hns,1.1.0-1,0,Speech-to-text CLI that transcribes your microphone to the clipboard
+2026-11-24T14:17:37Z,hntui-bin,0.5.1-1,0,Hacker News reader for the terminal
+2026-11-24T14:17:47Z,holon-bin,,,Local workbench for always-on AI agents
+2026-11-24T14:17:57Z,httptap-py,,,"Break HTTP requests into DNS, connect, TLS, wait and transfer phases with waterfall timelines"
+2026-11-24T14:18:05Z,hud-tokio-bin,,,Find code blocking Tokio workers with eBPF
+2026-11-24T14:18:15Z,imgcat-go-bin,,,Display images and GIFs in the terminal
+2026-11-24T14:18:27Z,jimmy-bin,,,Convert notes from many note apps to Markdown
+2026-11-24T14:18:35Z,jjfx-bin,,,TUI for Jujutsu workspaces and the coding agents editing them
+2026-11-24T14:18:43Z,journalot,,,Minimal git-backed journaling CLI for developers
