@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-25T05:23:32Z,vaultdraw-bin,0.2.0-1,0,Offline vault for Excalidraw drawings: your drawings in a folder you own
+2026-11-25T05:55:25Z,srun-portal-bin,0.2.0-1,0,Prebuilt Rust client for Srun portal authentication and reconnect
+2026-11-25T06:03:11Z,zig-analyzer,0.5.0-1,0,Zig language server with compiler diagnostics and comptime-aware analysis

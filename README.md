@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 03:19 UTC
+## Latest list — 2026-11-25 06:20 UTC
 
-New packages created between 2026-11-25 02:21 UTC and 2026-11-25 03:19 UTC.
+New packages created between 2026-11-25 05:19 UTC and 2026-11-25 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-25T03-19-52-021751Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T06-20-41-38626Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-25 02:55:13 | [network-sandbox-engine](https://aur.archlinux.org/packages/network-sandbox-engine) | 2.5.1-1 | 1 | A Linux engine for deterministic nftables firewall testing inside isolated netw… |
-| 2026-11-25 03:01:09 | [nsky-protondrive-client-bin](https://aur.archlinux.org/packages/nsky-protondrive-client-bin) | 0.2.0-1 | 0 | Unofficial Proton Drive command-line client with bidirectional folder sync |
+| 2026-11-25 05:23:32 | [vaultdraw-bin](https://aur.archlinux.org/packages/vaultdraw-bin) | 0.2.0-1 | 0 | Offline vault for Excalidraw drawings: your drawings in a folder you own |
+| 2026-11-25 05:55:25 | [srun-portal-bin](https://aur.archlinux.org/packages/srun-portal-bin) | 0.2.0-1 | 0 | Prebuilt Rust client for Srun portal authentication and reconnect |
+| 2026-11-25 06:03:11 | [zig-analyzer](https://aur.archlinux.org/packages/zig-analyzer) | 0.5.0-1 | 0 | Zig language server with compiler diagnostics and comptime-aware analysis |
 
 ## Data source
 
