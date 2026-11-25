@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 13:21 UTC
+## Latest list — 2026-11-25 14:21 UTC
 
-New packages created between 2026-11-25 12:20 UTC and 2026-11-25 13:21 UTC.
+New packages created between 2026-11-25 13:21 UTC and 2026-11-25 14:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-25T13-21-59-075502Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T14-21-05-025749Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-25 12:22:07 | [kubesess-bin](https://aur.archlinux.org/packages/kubesess-bin) | 3.0.0-1 | 0 | Per-shell kubectl context and namespace switching |
-| 2026-11-25 12:22:35 | [kuizer](https://aur.archlinux.org/packages/kuizer) | 0.1.3-1 | 0 | Keyboard-driven disk cleanup for developers, with a terminal UI and a desktop a… |
-| 2026-11-25 12:31:20 | [phonebox-bin](https://aur.archlinux.org/packages/phonebox-bin) | 0.9.29-1 | 0 | Turn an old Android phone into a desk panel: PC stats, media and touch controls… |
+| 2026-11-25 13:36:25 | [gambiarra-infinite-bin](https://aur.archlinux.org/packages/gambiarra-infinite-bin) | 1.0.2-1 | 0 | GambiarraInfinite V4 - AI coding desktop app (LarpCode/OpenCode rebrand) |
+| 2026-11-25 13:42:15 | [transom](https://aur.archlinux.org/packages/transom) | 0.1.0-1 | 0 | Sharp remote desktops over RDP (GTK 4, HiDPI-correct) |
+| 2026-11-25 14:17:21 | [yogurt-appimage](https://aur.archlinux.org/packages/yogurt-appimage) | 0.3.76-1 | 0 | Private AI meeting notes that stay on your computer (AppImage) |
 
 ## Data source
 
