@@ -1,0 +1,13 @@
+created_at,package,version,votes,description
+2026-11-25T11:23:44Z,apex-gp-bin,0.12.5-1,0,Open-wheel racing game with steering wheel force feedback
+2026-11-25T11:23:52Z,kymo-bin,0.2.0-1,0,Viewer for large EEG and MEG recordings (prebuilt binary)
+2026-11-25T11:28:44Z,kuizer-bin,0.1.3-1,0,"Keyboard-driven disk cleanup for developers, with a terminal UI and a desktop app (release binaries)"
+2026-11-25T11:37:19Z,copilot-desktop-gtk-bin,0.1.22-2,0,"Unofficial Microsoft Copilot desktop app (GTK4/WebKitGTK, prebuilt binary)"
+2026-11-25T11:45:48Z,tidyrs-bin,2.0.0-2,0,"Fast, Prettier-style code formatter written in Rust"
+2026-11-25T11:56:25Z,simtrace2-git,0.9.1.r25.936009ed-2,0,Traces the communication between phones and SIM cards with second generation simtrace hardware.
+2026-11-25T11:57:45Z,quakedock-bin,1.3.0-1,0,"Desktop installer and launcher for Quake (vkQuake campaign, ezQuake + nQuake multiplayer)"
+2026-11-25T12:08:28Z,gutcheck-bin,0.29.0-1,0,"Check the health of every git repo in a folder: CI, PRs, branches, uncommitted work and more"
+2026-11-25T12:14:24Z,projetor-missa-bin,1.5.0-1,0,"Projects Catholic Mass slides (ODP/PPTX song files) from a .missa file, with a visual editor (Portuguese UI)"
+2026-11-25T12:14:29Z,zwin-protocols,0.1.1-1,0,Protocol definitions for the Zwin 3D windowing system on top of Wayland
+2026-11-25T12:15:51Z,zukou,0.1.2-1,0,Client library for Zwin
+2026-11-25T12:16:27Z,zen-object-viewer,0.1.0-1,0,STL object viewer for the Zen 3D compositor
