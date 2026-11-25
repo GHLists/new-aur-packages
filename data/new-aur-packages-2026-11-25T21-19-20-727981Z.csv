@@ -1,0 +1,15 @@
+created_at,package,version,votes,description
+2026-11-25T20:28:16Z,veasel-desktop-bin,0.103.3.next.0-1,0,Veasel Code Desktop application (Focus and World)
+2026-11-25T20:32:54Z,python-aiohttp-asyncmdnsresolver,0.2.0-1,0,Async mDNS resolver for aiohttp
+2026-11-25T20:33:26Z,esphome-device-builder,1.28.1-1,0,"Web dashboard for configuring, building and installing ESPHome firmware"
+2026-11-25T21:09:53Z,bestsub-bin,2.0.6-1,0,Self-hosted proxy subscription manager and node tester with a web UI
+2026-11-25T21:10:40Z,clickvisual-bin,1.1.2-1,0,Lightweight log analytics and data visualization platform built on ClickHouse
+2026-11-25T21:11:06Z,crlfuzz-bin,1.4.1-1,0,Fast CRLF injection vulnerability scanner
+2026-11-25T21:12:02Z,duckle-bin,0.9.1-1,0,Open-source ETL/ELT platform for your own servers or cloud
+2026-11-25T21:12:11Z,dynacat-bin,3.0.4-1,0,Dashboard focused on dynamic reloading and easy integration with external applications
+2026-11-25T21:12:34Z,fastctx-bin,0.2.6-1,0,"Fast, context-efficient repository tools for AI agents over MCP"
+2026-11-25T21:13:09Z,gobackup-bin,3.1.1-1,0,Scheduled backups of databases and files to cloud storage
+2026-11-25T21:13:29Z,grpc-health-probe-bin,0.4.63-1,0,Command-line tool to health-check gRPC applications
+2026-11-25T21:15:44Z,kumo-bin,,,Lightweight AWS service emulator
+2026-11-25T21:16:12Z,lerd-bin,,,Local PHP development environment
+2026-11-25T21:16:26Z,liqo-bin,,,"CLI for Liqo, dynamic and seamless Kubernetes multi-cluster topologies"
