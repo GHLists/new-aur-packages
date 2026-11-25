@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 23:21 UTC
+## Latest list — 2026-11-25 00:21 UTC
 
-New packages created between 2026-11-24 22:22 UTC and 2026-11-24 23:21 UTC.
+New packages created between 2026-11-24 23:21 UTC and 2026-11-25 00:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-24T23-21-13-79854Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T00-21-00-022737Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 22:24:30 | [docklet](https://aur.archlinux.org/packages/docklet) | 0.1.0-1 | 0 | Dock for river and rivermonad: running and pinned applications in a pill that h… |
-| 2026-11-24 22:59:27 | [t3code-libre-bin](https://aur.archlinux.org/packages/t3code-libre-bin) | 0.1.11-1 | 0 | Desktop control surface for local coding agents (no telemetry, accounts, or clo… |
-| 2026-11-24 23:00:18 | [t3-code-libre-bin](https://aur.archlinux.org/packages/t3-code-libre-bin) | 0.1.11-1 | 0 | Desktop control surface for local coding agents (no telemetry, accounts, or clo… |
+| 2026-11-24 23:53:01 | [lumen-kde-git](https://aur.archlinux.org/packages/lumen-kde-git) | 0.1.0.r0.g0000000-1 | 0 | Windows 11 style desktop for KDE Plasma 6: widget style, window decoration, Mic… |
+| 2026-11-25 00:02:42 | [syscall-bin](https://aur.archlinux.org/packages/syscall-bin) | 0.2.1-1 | 1 | Look up Linux syscalls from your terminal |
 
 ## Data source
 
