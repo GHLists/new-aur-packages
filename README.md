@@ -12,17 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 14:21 UTC
+## Latest list — 2026-11-25 15:20 UTC
 
-New packages created between 2026-11-25 13:21 UTC and 2026-11-25 14:21 UTC.
+New packages created between 2026-11-25 14:21 UTC and 2026-11-25 15:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-25T14-21-05-025749Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T15-20-43-868301Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-25 13:36:25 | [gambiarra-infinite-bin](https://aur.archlinux.org/packages/gambiarra-infinite-bin) | 1.0.2-1 | 0 | GambiarraInfinite V4 - AI coding desktop app (LarpCode/OpenCode rebrand) |
-| 2026-11-25 13:42:15 | [transom](https://aur.archlinux.org/packages/transom) | 0.1.0-1 | 0 | Sharp remote desktops over RDP (GTK 4, HiDPI-correct) |
-| 2026-11-25 14:17:21 | [yogurt-appimage](https://aur.archlinux.org/packages/yogurt-appimage) | 0.3.76-1 | 0 | Private AI meeting notes that stay on your computer (AppImage) |
+| 2026-11-25 14:34:18 | [vulkan-nouveau-aliveos](https://aur.archlinux.org/packages/vulkan-nouveau-aliveos) | 1:26.3.1-3 | 0 | Open-source Vulkan driver for NVIDIA GPUs (AliveOS NVK / Fermi research fork) |
+| 2026-11-25 14:40:57 | [clacks-bin](https://aur.archlinux.org/packages/clacks-bin) | 0.2.1-1 | 0 | Encrypted, self-hosted sync for AI coding sessions (prebuilt) |
+| 2026-11-25 14:40:58 | [clacks](https://aur.archlinux.org/packages/clacks) | 0.2.1-1 | 0 | Encrypted, self-hosted sync for AI coding sessions |
+| 2026-11-25 14:43:55 | [ladybird-nightly-bin](https://aur.archlinux.org/packages/ladybird-nightly-bin) | r72241.7fb65283c23-1 | 0 | Nightly release of the Ladybird web browser |
+| 2026-11-25 14:47:12 | [dusk-menu-bin](https://aur.archlinux.org/packages/dusk-menu-bin) | 0.1.4-1 | 0 | A sleek, customizable logout and power menu for Hyprland, Sway and Niri (prebui… |
+| 2026-11-25 14:47:13 | [dusk-menu](https://aur.archlinux.org/packages/dusk-menu) | 0.1.4-1 | 0 | A sleek, customizable logout and power menu for Hyprland, Sway and Niri |
+| 2026-11-25 15:18:42 | [gpk](https://aur.archlinux.org/packages/gpk) | 0.7.0-1 | 0 | See all your installed packages in one place. |
 
 ## Data source
 

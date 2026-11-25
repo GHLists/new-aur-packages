@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-25T14:34:18Z,vulkan-nouveau-aliveos,1:26.3.1-3,0,Open-source Vulkan driver for NVIDIA GPUs (AliveOS NVK / Fermi research fork)
+2026-11-25T14:40:57Z,clacks-bin,0.2.1-1,0,"Encrypted, self-hosted sync for AI coding sessions (prebuilt)"
+2026-11-25T14:40:58Z,clacks,0.2.1-1,0,"Encrypted, self-hosted sync for AI coding sessions"
+2026-11-25T14:43:55Z,ladybird-nightly-bin,r72241.7fb65283c23-1,0,Nightly release of the Ladybird web browser
+2026-11-25T14:47:12Z,dusk-menu-bin,0.1.4-1,0,"A sleek, customizable logout and power menu for Hyprland, Sway and Niri (prebuilt)"
+2026-11-25T14:47:13Z,dusk-menu,0.1.4-1,0,"A sleek, customizable logout and power menu for Hyprland, Sway and Niri"
+2026-11-25T15:18:42Z,gpk,0.7.0-1,0,See all your installed packages in one place.
