@@ -12,16 +12,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 10:20 UTC
+## Latest list — 2026-11-25 11:20 UTC
 
-New packages created between 2026-11-25 09:21 UTC and 2026-11-25 10:20 UTC.
+New packages created between 2026-11-25 10:20 UTC and 2026-11-25 11:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-25T10-20-41-161384Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T11-20-43-044062Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-25 09:56:22 | [opencoarrays-mpich](https://aur.archlinux.org/packages/opencoarrays-mpich) | 2.11.0-2 | 0 | A transport layer for coarray Fortran compilers, compiled with MPICH. |
-| 2026-11-25 09:56:52 | [sabrebat](https://aur.archlinux.org/packages/sabrebat) | 0.1.0-1 | 0 | Battery level of the Corsair Sabre v2 Pro wireless mouse: terminal, status bar… |
+| 2026-11-25 10:29:38 | [dotnet-runtime-9.0](https://aur.archlinux.org/packages/dotnet-runtime-9.0) | 9.0.22.sdk123-2 | 0 | The .NET Core runtime |
+| 2026-11-25 10:29:38 | [aspnet-runtime-9.0](https://aur.archlinux.org/packages/aspnet-runtime-9.0) | 9.0.22.sdk123-2 | 0 | The ASP.NET Core runtime |
+| 2026-11-25 10:29:38 | [dotnet-sdk-9.0](https://aur.archlinux.org/packages/dotnet-sdk-9.0) | 9.0.22.sdk123-2 | 0 | The .NET Core SDK |
+| 2026-11-25 10:29:38 | [dotnet-targeting-pack-9.0](https://aur.archlinux.org/packages/dotnet-targeting-pack-9.0) | 9.0.22.sdk123-2 | 0 | The .NET Core targeting pack |
+| 2026-11-25 10:29:38 | [aspnet-targeting-pack-9.0](https://aur.archlinux.org/packages/aspnet-targeting-pack-9.0) | 9.0.22.sdk123-2 | 0 | The ASP.NET Core targeting pack |
+| 2026-11-25 10:29:38 | [dotnet-source-built-artifacts-9.0](https://aur.archlinux.org/packages/dotnet-source-built-artifacts-9.0) | 9.0.22.sdk123-2 | 0 | Internal package for building the .NET Core SDK |
+| 2026-11-25 10:30:55 | [dotnet-runtime-6.0](https://aur.archlinux.org/packages/dotnet-runtime-6.0) | 6.0.36.sdk136-4 | 0 | The .NET Core runtime |
+| 2026-11-25 10:30:55 | [aspnet-runtime-6.0](https://aur.archlinux.org/packages/aspnet-runtime-6.0) | 6.0.36.sdk136-4 | 0 | The ASP.NET Core runtime |
+| 2026-11-25 10:30:55 | [dotnet-sdk-6.0](https://aur.archlinux.org/packages/dotnet-sdk-6.0) | 6.0.36.sdk136-4 | 0 | The .NET Core SDK |
+| 2026-11-25 10:30:55 | [dotnet-targeting-pack-6.0](https://aur.archlinux.org/packages/dotnet-targeting-pack-6.0) | 6.0.36.sdk136-4 | 0 | The .NET Core targeting pack |
+| 2026-11-25 10:30:55 | [aspnet-targeting-pack-6.0](https://aur.archlinux.org/packages/aspnet-targeting-pack-6.0) | 6.0.36.sdk136-4 | 0 | The ASP.NET Core targeting pack |
+| 2026-11-25 10:30:55 | [dotnet-source-built-artifacts-6.0](https://aur.archlinux.org/packages/dotnet-source-built-artifacts-6.0) | 6.0.36.sdk136-4 | 0 | Internal package for building the .NET Core SDK |
+| 2026-11-25 10:43:24 | [certbot-proxy](https://aur.archlinux.org/packages/certbot-proxy) | 3.0.1-1 | 0 | generic dockerized nginx proxy server with certbot |
+| 2026-11-25 10:56:56 | [ladybird-nightly-git](https://aur.archlinux.org/packages/ladybird-nightly-git) | r95509.02b3079323-1 | 0 | Truly independent web browser, built from the latest master |
 
 ## Data source
 

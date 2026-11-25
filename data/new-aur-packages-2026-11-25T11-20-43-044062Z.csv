@@ -1,0 +1,15 @@
+created_at,package,version,votes,description
+2026-11-25T10:29:38Z,dotnet-runtime-9.0,9.0.22.sdk123-2,0,The .NET Core runtime
+2026-11-25T10:29:38Z,aspnet-runtime-9.0,9.0.22.sdk123-2,0,The ASP.NET Core runtime
+2026-11-25T10:29:38Z,dotnet-sdk-9.0,9.0.22.sdk123-2,0,The .NET Core SDK
+2026-11-25T10:29:38Z,dotnet-targeting-pack-9.0,9.0.22.sdk123-2,0,The .NET Core targeting pack
+2026-11-25T10:29:38Z,aspnet-targeting-pack-9.0,9.0.22.sdk123-2,0,The ASP.NET Core targeting pack
+2026-11-25T10:29:38Z,dotnet-source-built-artifacts-9.0,9.0.22.sdk123-2,0,Internal package for building the .NET Core SDK
+2026-11-25T10:30:55Z,dotnet-runtime-6.0,6.0.36.sdk136-4,0,The .NET Core runtime
+2026-11-25T10:30:55Z,aspnet-runtime-6.0,6.0.36.sdk136-4,0,The ASP.NET Core runtime
+2026-11-25T10:30:55Z,dotnet-sdk-6.0,6.0.36.sdk136-4,0,The .NET Core SDK
+2026-11-25T10:30:55Z,dotnet-targeting-pack-6.0,6.0.36.sdk136-4,0,The .NET Core targeting pack
+2026-11-25T10:30:55Z,aspnet-targeting-pack-6.0,6.0.36.sdk136-4,0,The ASP.NET Core targeting pack
+2026-11-25T10:30:55Z,dotnet-source-built-artifacts-6.0,6.0.36.sdk136-4,0,Internal package for building the .NET Core SDK
+2026-11-25T10:43:24Z,certbot-proxy,3.0.1-1,0,generic dockerized nginx proxy server with certbot
+2026-11-25T10:56:56Z,ladybird-nightly-git,r95509.02b3079323-1,0,"Truly independent web browser, built from the latest master"
