@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-25T12:22:07Z,kubesess-bin,3.0.0-1,0,Per-shell kubectl context and namespace switching
+2026-11-25T12:22:35Z,kuizer,0.1.3-1,0,"Keyboard-driven disk cleanup for developers, with a terminal UI and a desktop app"
+2026-11-25T12:31:20Z,phonebox-bin,0.9.29-1,0,"Turn an old Android phone into a desk panel: PC stats, media and touch controls over USB or Wi-Fi (desktop agent)"
