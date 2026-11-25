@@ -12,22 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 09:21 UTC
+## Latest list — 2026-11-25 10:20 UTC
 
-New packages created between 2026-11-25 08:19 UTC and 2026-11-25 09:21 UTC.
+New packages created between 2026-11-25 09:21 UTC and 2026-11-25 10:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-25T09-21-51-630135Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T10-20-41-161384Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-25 08:27:11 | [cryptyrust-bin](https://aur.archlinux.org/packages/cryptyrust-bin) | 3.2.0-1 | 0 | Post-quantum file encryption: drag-and-drop GUI and command line (X25519 + ML-K… |
-| 2026-11-25 08:27:18 | [cryptyrust](https://aur.archlinux.org/packages/cryptyrust) | 3.2.0-1 | 0 | Post-quantum file encryption: drag-and-drop GUI and command line (X25519 + ML-K… |
-| 2026-11-25 08:42:37 | [mieru-bin](https://aur.archlinux.org/packages/mieru-bin) | 3.40.0-1 | 0 | Secure proxy client (SOCKS5, HTTP, HTTPS) of the Mieru proxy system |
-| 2026-11-25 09:08:52 | [brave-extension-adnauseam-dist](https://aur.archlinux.org/packages/brave-extension-adnauseam-dist) | 3.29.4-1 | 0 | AdNauseam browser extension for Brave (official release build, loaded unpacked) |
-| 2026-11-25 09:08:52 | [chromium-extension-adnauseam-dist](https://aur.archlinux.org/packages/chromium-extension-adnauseam-dist) | 3.29.4-1 | 0 | AdNauseam browser extension for Chromium (official release build, loaded unpack… |
-| 2026-11-25 09:08:52 | [edge-extension-adnauseam-dist](https://aur.archlinux.org/packages/edge-extension-adnauseam-dist) | 3.29.4-1 | 0 | AdNauseam browser extension for Microsoft Edge (official release build, loaded… |
-| 2026-11-25 09:08:52 | [opera-extension-adnauseam-dist](https://aur.archlinux.org/packages/opera-extension-adnauseam-dist) | 3.29.4-1 | 0 | AdNauseam browser extension for Opera (official release build, loaded unpacked) |
-| 2026-11-25 09:08:52 | [firefox-extension-adnauseam-dist](https://aur.archlinux.org/packages/firefox-extension-adnauseam-dist) | 3.29.4-1 | 0 | AdNauseam browser extension for Firefox, LibreWolf, Floorp and Firefox Nightly… |
+| 2026-11-25 09:56:22 | [opencoarrays-mpich](https://aur.archlinux.org/packages/opencoarrays-mpich) | 2.11.0-2 | 0 | A transport layer for coarray Fortran compilers, compiled with MPICH. |
+| 2026-11-25 09:56:52 | [sabrebat](https://aur.archlinux.org/packages/sabrebat) | 0.1.0-1 | 0 | Battery level of the Corsair Sabre v2 Pro wireless mouse: terminal, status bar… |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-25T09:56:22Z,opencoarrays-mpich,2.11.0-2,0,"A transport layer for coarray Fortran compilers, compiled with MPICH."
+2026-11-25T09:56:52Z,sabrebat,0.1.0-1,0,"Battery level of the Corsair Sabre v2 Pro wireless mouse: terminal, status bar or desktop notification"
