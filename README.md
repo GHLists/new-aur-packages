@@ -12,18 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 01:20 UTC
+## Latest list — 2026-11-25 02:21 UTC
 
-New packages created between 2026-11-25 00:21 UTC and 2026-11-25 01:20 UTC.
+New packages created between 2026-11-25 01:20 UTC and 2026-11-25 02:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-25T01-20-04-398764Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T02-21-46-008284Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-25 00:39:19 | [lumen-kde](https://aur.archlinux.org/packages/lumen-kde) | 1.0.0-1 | 0 | Windows 11 style desktop for KDE Plasma 6: widget style, window decoration, Mic… |
-| 2026-11-25 00:57:41 | [hornero-greeter-greetd](https://aur.archlinux.org/packages/hornero-greeter-greetd) | 0.1.1-1 | 0 | HorneroOS graphical greeter for greetd on Hornero Signal (Qt6/QML, cage) |
-| 2026-11-25 00:58:24 | [transom-bin](https://aur.archlinux.org/packages/transom-bin) | 0.1.0-1 | 0 | Sharp remote desktops over RDP (GTK 4, HiDPI-correct) (Pre-compiled Binary) |
-| 2026-11-25 00:58:32 | [transom-git](https://aur.archlinux.org/packages/transom-git) | 0.1.0.r156.g4ea2cbf… | 0 | Sharp remote desktops over RDP (GTK 4, HiDPI-correct) (Git version) |
+| 2026-11-25 01:27:53 | [bitter-browser](https://aur.archlinux.org/packages/bitter-browser) | 0.6.0-1 | 0 | Focused, native web browser for the Linux desktop |
+| 2026-11-25 01:28:08 | [bitter-browser-bin](https://aur.archlinux.org/packages/bitter-browser-bin) | 0.6.0-1 | 0 | Focused, native web browser for the Linux desktop (prebuilt binary) |
+| 2026-11-25 01:28:22 | [bitter-browser-git](https://aur.archlinux.org/packages/bitter-browser-git) | 0.6.0.r0.g5fa8ea5-1 | 0 | Focused, native web browser for the Linux desktop |
+| 2026-11-25 02:06:41 | [pysensor-qt](https://aur.archlinux.org/packages/pysensor-qt) | 0.12.0-1 | 0 | Compact Qt sensor monitor with short names, favorites and hardware sorting |
+| 2026-11-25 02:13:51 | [alma-desktop](https://aur.archlinux.org/packages/alma-desktop) | 0.4.1121-1 | 0 | Desktop AI agent harness and GUI client for herdr, repackaged from the official… |
 
 ## Data source
 

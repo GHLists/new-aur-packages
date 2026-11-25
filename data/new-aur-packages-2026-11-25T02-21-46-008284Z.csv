@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-25T01:27:53Z,bitter-browser,0.6.0-1,0,"Focused, native web browser for the Linux desktop"
+2026-11-25T01:28:08Z,bitter-browser-bin,0.6.0-1,0,"Focused, native web browser for the Linux desktop (prebuilt binary)"
+2026-11-25T01:28:22Z,bitter-browser-git,0.6.0.r0.g5fa8ea5-1,0,"Focused, native web browser for the Linux desktop"
+2026-11-25T02:06:41Z,pysensor-qt,0.12.0-1,0,"Compact Qt sensor monitor with short names, favorites and hardware sorting"
+2026-11-25T02:13:51Z,alma-desktop,0.4.1121-1,0,"Desktop AI agent harness and GUI client for herdr, repackaged from the official Linux release"
