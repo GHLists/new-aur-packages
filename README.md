@@ -12,19 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 18:19 UTC
+## Latest list — 2026-11-25 19:19 UTC
 
-New packages created between 2026-11-25 17:20 UTC and 2026-11-25 18:19 UTC.
+New packages created between 2026-11-25 18:19 UTC and 2026-11-25 19:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-25T18-19-22-435465Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T19-19-27-105951Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-25 17:24:01 | [klondikecli-bin](https://aur.archlinux.org/packages/klondikecli-bin) | 1.1.1-1 | 0 | Klondike solitaire in your terminal, written in plain C++17 |
-| 2026-11-25 17:47:32 | [wallcycle](https://aur.archlinux.org/packages/wallcycle) | 0.1.0-1 | 0 | Cross-platform wallpaper slideshow with real-time clock overlay and BT.709 lumi… |
-| 2026-11-25 18:15:32 | [stream-sprout](https://aur.archlinux.org/packages/stream-sprout) |  |  | Restream a video source to multiple destinations such as Twitch, YouTube, Ownca… |
-| 2026-11-25 18:18:15 | [skwird](https://aur.archlinux.org/packages/skwird) |  |  | An index of file names kept current, answered over a local socket |
-| 2026-11-25 18:18:30 | [prusa-connect-bin](https://aur.archlinux.org/packages/prusa-connect-bin) |  |  | Self-hosted Prusa 3D printer management server with web UI (upstream binary) |
+| 2026-11-25 18:36:19 | [timber](https://aur.archlinux.org/packages/timber) | 0.1.2-1 | 0 | Decode tree text output to files; also encode dirs to JSON |
+| 2026-11-25 18:46:51 | [rtl8852cu-9m2pju-dkms-git](https://aur.archlinux.org/packages/rtl8852cu-9m2pju-dkms-git) | 20261126-1 | 0 | Realtek RTL8832CU/RTL8852CU USB WiFi driver (DKMS, 9M2PJU fork with Linux 7.3+… |
+| 2026-11-25 18:58:01 | [standards-sync](https://aur.archlinux.org/packages/standards-sync) | 0.0.12-1 | 0 | Keep the code standards in sync without losing edits |
+| 2026-11-25 19:00:31 | [rtl8852cu-9m2pju-dkms](https://aur.archlinux.org/packages/rtl8852cu-9m2pju-dkms) | 2026.11.26-1 | 0 | Realtek RTL8832CU/RTL8852CU USB WiFi driver (DKMS, 9M2PJU tagged release with L… |
+| 2026-11-25 19:13:30 | [fuzzilli-git](https://aur.archlinux.org/packages/fuzzilli-git) | 0.9.3.r1453.g3f9024… | 0 | Coverage-guided fuzzer for dynamic language interpreters based on FuzzIL |
+| 2026-11-25 19:13:42 | [aircast-ap](https://aur.archlinux.org/packages/aircast-ap) | 1.0.1-1 | 0 | Modern GTK4 + Libadwaita Wi-Fi 6 Access Point & Hotspot Manager for Linux (with… |
+| 2026-11-25 19:13:57 | [aircast-ap-git](https://aur.archlinux.org/packages/aircast-ap-git) | 1.0.1.r0.g29b79e8-1 | 0 | Modern GTK4 + Libadwaita Wi-Fi 6 Access Point & Hotspot Manager for Linux (git… |
 
 ## Data source
 

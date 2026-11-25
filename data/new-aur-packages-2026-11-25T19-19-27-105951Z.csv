@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-25T18:36:19Z,timber,0.1.2-1,0,Decode tree text output to files; also encode dirs to JSON
+2026-11-25T18:46:51Z,rtl8852cu-9m2pju-dkms-git,20261126-1,0,"Realtek RTL8832CU/RTL8852CU USB WiFi driver (DKMS, 9M2PJU fork with Linux 7.3+ & Clang/LLVM support)"
+2026-11-25T18:58:01Z,standards-sync,0.0.12-1,0,Keep the code standards in sync without losing edits
+2026-11-25T19:00:31Z,rtl8852cu-9m2pju-dkms,2026.11.26-1,0,"Realtek RTL8832CU/RTL8852CU USB WiFi driver (DKMS, 9M2PJU tagged release with Linux 7.3+ & Clang/LLVM support)"
+2026-11-25T19:13:30Z,fuzzilli-git,0.9.3.r1453.g3f9024…,0,Coverage-guided fuzzer for dynamic language interpreters based on FuzzIL
+2026-11-25T19:13:42Z,aircast-ap,1.0.1-1,0,Modern GTK4 + Libadwaita Wi-Fi 6 Access Point & Hotspot Manager for Linux (with CLI & RTL8852CU support)
+2026-11-25T19:13:57Z,aircast-ap-git,1.0.1.r0.g29b79e8-1,0,Modern GTK4 + Libadwaita Wi-Fi 6 Access Point & Hotspot Manager for Linux (git version)
