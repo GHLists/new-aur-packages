@@ -1,0 +1,56 @@
+created_at,package,version,votes,description
+2026-11-25T21:20:55Z,rememory-bin,0.0.23-1,0,Digital safe with multiple keys held by people you trust
+2026-11-25T21:21:40Z,rtail-bin,2.0.0-1,0,Stream terminal output to the browser using UNIX pipes
+2026-11-25T21:22:06Z,self-host-bin,1.4.0-1,0,Self-hosted replacements for paid SaaS tools
+2026-11-25T21:22:20Z,sharkord-bin,0.0.32-1,0,"Lightweight self-hosted chat server with voice, video, text and screen sharing"
+2026-11-25T21:22:33Z,simple-one-api-bin,0.13.0-1,0,Single-binary adapter exposing many LLM provider APIs through an OpenAI-compatible interface
+2026-11-25T21:22:42Z,sine-bin,2.3.3-1,0,Theme manager for Firefox-based browsers
+2026-11-25T21:22:51Z,skill-up-bin,0.16.0-1,0,Evaluate AI agent skills and environments
+2026-11-25T21:23:00Z,smokescreen-bin,1.0.1-1,0,HTTP proxy that blocks requests to disallowed URLs
+2026-11-25T21:23:21Z,ymusic-bin,0.3.0-1,0,Нативный клиент Яндекс Музыки на Rust и Qt Quick
+2026-11-25T21:25:24Z,weclaw-bin,0.7.1-1,0,Connect AI agents to WeChat through ClawBot
+2026-11-25T21:25:49Z,xalgorix-bin,4.6.209-1,0,AI penetration testing agent that exploit-verifies every finding
+2026-11-25T21:35:51Z,pw-loudness-eq-git,r6.3c7b908-1,1,Windows Loudness Equalization (per app) and audio engine limiter (per device) for PipeWire
+2026-11-25T21:35:51Z,cast-helper-git,0.2.0.r2.ga739714-1,0,"Chromecast and AirPlay mirroring and media playback, shared by the Dux Shell Cast plugin and other apps (latest master)"
+2026-11-25T21:38:42Z,agentdock-bin,1.1.1-1,0,"Secure MCP runtime for AI agents to operate local machines, servers and containers"
+2026-11-25T21:38:57Z,agentrq-bin,0.19.4-1,0,Human-in-the-loop realtime task manager for AI agents
+2026-11-25T21:40:51Z,cam2ip-bin,1.8.0-1,0,Turn any webcam into an IP camera
+2026-11-25T21:41:08Z,chanify-bin,1.5.2-1,0,Simple and safe push notification service
+2026-11-25T21:41:35Z,codapi-bin,0.14.2-1,0,Sandbox server for interactive code examples
+2026-11-25T21:42:14Z,digler-bin,0.1.0-1,0,Forensic disk analysis and file recovery tool
+2026-11-25T21:42:32Z,dungbeetle-bin,2.1.0-1,0,Distributed job server for queuing and running heavy SQL read jobs asynchronously
+2026-11-25T21:42:44Z,ehco-bin,1.1.6-1,0,Network relay and tunnel tool
+2026-11-25T21:43:06Z,fast-note-sync-service-bin,3.6.1-1,0,Low-latency note synchronization service with a web UI and REST API
+2026-11-25T21:43:15Z,feishu-cli-bin,1.44.0-1,0,Command-line client for Feishu/Lark with Markdown document support
+2026-11-25T21:43:31Z,monocode-bin,0.16.0-1,0,Desktop interface for AI coding agents (prebuilt)
+2026-11-25T21:43:54Z,getspecstory-bin,2.17.0-1,0,Save and search AI coding agent conversations locally
+2026-11-25T21:44:35Z,gowrap-bin,1.5.0-1,0,Generate decorators for Go interfaces
+2026-11-25T21:45:46Z,horusec-bin,2.8.0-1,0,Security analysis tool that finds vulnerabilities in a project with one command
+2026-11-25T21:46:20Z,jazzer-bin,0.30.0-1,0,"Coverage-guided, in-process fuzzing for the JVM"
+2026-11-25T21:47:08Z,kanzo-bin,0.4.2-1,0,"Self-hosted, shareable kanban board for humans and AI agents"
+2026-11-25T21:47:28Z,kividb-bin,1.2.2-1,0,Multi-threaded Redis and Valkey compatible server with full-text and vector search
+2026-11-25T21:47:47Z,kusion-bin,0.15.0-1,0,Intent-driven platform orchestrator for internal developer platforms
+2026-11-25T21:47:56Z,larql-bin,0.3.0-1,0,"Run, serve, query and edit AI models in the inspectable VINDEX format"
+2026-11-25T21:48:35Z,lindb-bin,0.4.1-1,0,"Scalable, highly available distributed time series database"
+2026-11-25T21:51:06Z,moai-adk-bin,3.1.2-1,0,Spec-driven agentic development harness for Claude Code
+2026-11-25T21:51:27Z,mongodb_exporter-bin,0.54.0-1,0,Prometheus exporter for MongoDB
+2026-11-25T21:52:49Z,ninjabot-bin,0.6.0-1,0,Cryptocurrency trading bot framework and CLI
+2026-11-25T21:53:27Z,nullhub-bin,2026.5.29-1,0,"Management console to install, configure and monitor AI agents and workflows"
+2026-11-25T21:54:20Z,omniinfer-bin,0.3.31-1,0,Unified inference runtime for edge AI
+2026-11-25T21:55:04Z,openp2p-bin,3.25.11-1,0,Lightweight P2P networking and port forwarding tool
+2026-11-25T21:56:04Z,outpost-bin,1.11.1-1,0,Outbound webhooks and event destination infrastructure
+2026-11-25T21:57:30Z,pipelock-bin,3.8.0-1,0,Firewall for AI agents covering MCP security and network egress
+2026-11-25T21:57:42Z,pixivbiu-bin,3.1.6-1,0,Pixiv browsing and download client with a web UI
+2026-11-25T21:57:56Z,pogocache-bin,1.3.2-1,0,"Low-latency, CPU-efficient caching server"
+2026-11-25T21:58:03Z,polodb-bin,5.3.0-1,0,Embedded document database with a MongoDB-like API
+2026-11-25T21:58:40Z,pretender-bin,1.4.1-1,0,"MitM tool for relaying attacks using DHCPv6 DNS takeover and mDNS, LLMNR and NetBIOS-NS spoofing"
+2026-11-25T22:00:54Z,railpack-bin,0.43.1-1,0,Zero-config builder that turns application code into container images
+2026-11-25T22:04:22Z,safebucket-bin,0.8.1-1,0,Self-hosted file sharing service
+2026-11-25T22:07:40Z,sslip.io-bin,6.2.0-1,0,DNS server that resolves hostnames with embedded IP addresses to those addresses
+2026-11-25T22:08:33Z,suo5-bin,2.2.0-1,0,High-performance HTTP tunneling tool
+2026-11-25T22:10:13Z,thclaws-bin,0.157.0-1,0,"AI agent harness with GUI, CLI, headless and web modes in one binary"
+2026-11-25T22:11:22Z,tparse-bin,0.18.0-1,0,Summarize go test output
+2026-11-25T22:13:31Z,tutor-bin,22.0.4-1,0,Docker-based Open edX distribution
+2026-11-25T22:15:40Z,wakaru-bin,,,JavaScript decompiler for modern frontend bundles
+2026-11-25T22:16:01Z,watchvuln-bin,,,Collect high-value vulnerability alerts and push them to messaging services
+2026-11-25T22:17:34Z,ymir-bin,,,Sega Saturn emulator
