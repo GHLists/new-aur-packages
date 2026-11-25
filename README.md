@@ -12,17 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 06:20 UTC
+## Latest list — 2026-11-25 07:19 UTC
 
-New packages created between 2026-11-25 05:19 UTC and 2026-11-25 06:20 UTC.
+New packages created between 2026-11-25 06:20 UTC and 2026-11-25 07:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-25T06-20-41-38626Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T07-19-34-642939Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-25 05:23:32 | [vaultdraw-bin](https://aur.archlinux.org/packages/vaultdraw-bin) | 0.2.0-1 | 0 | Offline vault for Excalidraw drawings: your drawings in a folder you own |
-| 2026-11-25 05:55:25 | [srun-portal-bin](https://aur.archlinux.org/packages/srun-portal-bin) | 0.2.0-1 | 0 | Prebuilt Rust client for Srun portal authentication and reconnect |
-| 2026-11-25 06:03:11 | [zig-analyzer](https://aur.archlinux.org/packages/zig-analyzer) | 0.5.0-1 | 0 | Zig language server with compiler diagnostics and comptime-aware analysis |
+| 2026-11-25 07:16:04 | [koral-bin-nightly](https://aur.archlinux.org/packages/koral-bin-nightly) |  |  | A GPU-accelerated Rust terminal emulator (2.0 alpha / nightly pre-release) |
 
 ## Data source
 
