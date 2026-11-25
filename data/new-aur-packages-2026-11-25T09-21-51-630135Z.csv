@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-25T08:27:11Z,cryptyrust-bin,3.2.0-1,0,"Post-quantum file encryption: drag-and-drop GUI and command line (X25519 + ML-KEM, Argon2id)"
+2026-11-25T08:27:18Z,cryptyrust,3.2.0-1,0,"Post-quantum file encryption: drag-and-drop GUI and command line (X25519 + ML-KEM, Argon2id)"
+2026-11-25T08:42:37Z,mieru-bin,3.40.0-1,0,"Secure proxy client (SOCKS5, HTTP, HTTPS) of the Mieru proxy system"
+2026-11-25T09:08:52Z,brave-extension-adnauseam-dist,3.29.4-1,0,"AdNauseam browser extension for Brave (official release build, loaded unpacked)"
+2026-11-25T09:08:52Z,chromium-extension-adnauseam-dist,3.29.4-1,0,"AdNauseam browser extension for Chromium (official release build, loaded unpacked)"
+2026-11-25T09:08:52Z,edge-extension-adnauseam-dist,3.29.4-1,0,"AdNauseam browser extension for Microsoft Edge (official release build, loaded unpacked)"
+2026-11-25T09:08:52Z,opera-extension-adnauseam-dist,3.29.4-1,0,"AdNauseam browser extension for Opera (official release build, loaded unpacked)"
+2026-11-25T09:08:52Z,firefox-extension-adnauseam-dist,3.29.4-1,0,"AdNauseam browser extension for Firefox, LibreWolf, Floorp and Firefox Nightly (Mozilla-signed release)"

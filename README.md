@@ -12,17 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 08:19 UTC
+## Latest list — 2026-11-25 09:21 UTC
 
-New packages created between 2026-11-25 07:19 UTC and 2026-11-25 08:19 UTC.
+New packages created between 2026-11-25 08:19 UTC and 2026-11-25 09:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-25T08-19-14-775633Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T09-21-51-630135Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-25 07:47:36 | [ferron-bin](https://aur.archlinux.org/packages/ferron-bin) | 3.0.0rc11-1 | 0 | A fast, modern web server written in Rust (prebuilt binaries) |
-| 2026-11-25 07:56:09 | [cargo-tree-tui](https://aur.archlinux.org/packages/cargo-tree-tui) | 0.1.0-1 | 1 | Display an interactive tree visualization of your Rust dependency graph |
-| 2026-11-25 07:58:06 | [kilo-compress-git](https://aur.archlinux.org/packages/kilo-compress-git) | 3.3.1.r17.gbe38e45-1 | 0 | Fast, local-first batch image compression for desktop.极速本地批量图片压缩工具 |
+| 2026-11-25 08:27:11 | [cryptyrust-bin](https://aur.archlinux.org/packages/cryptyrust-bin) | 3.2.0-1 | 0 | Post-quantum file encryption: drag-and-drop GUI and command line (X25519 + ML-K… |
+| 2026-11-25 08:27:18 | [cryptyrust](https://aur.archlinux.org/packages/cryptyrust) | 3.2.0-1 | 0 | Post-quantum file encryption: drag-and-drop GUI and command line (X25519 + ML-K… |
+| 2026-11-25 08:42:37 | [mieru-bin](https://aur.archlinux.org/packages/mieru-bin) | 3.40.0-1 | 0 | Secure proxy client (SOCKS5, HTTP, HTTPS) of the Mieru proxy system |
+| 2026-11-25 09:08:52 | [brave-extension-adnauseam-dist](https://aur.archlinux.org/packages/brave-extension-adnauseam-dist) | 3.29.4-1 | 0 | AdNauseam browser extension for Brave (official release build, loaded unpacked) |
+| 2026-11-25 09:08:52 | [chromium-extension-adnauseam-dist](https://aur.archlinux.org/packages/chromium-extension-adnauseam-dist) | 3.29.4-1 | 0 | AdNauseam browser extension for Chromium (official release build, loaded unpack… |
+| 2026-11-25 09:08:52 | [edge-extension-adnauseam-dist](https://aur.archlinux.org/packages/edge-extension-adnauseam-dist) | 3.29.4-1 | 0 | AdNauseam browser extension for Microsoft Edge (official release build, loaded… |
+| 2026-11-25 09:08:52 | [opera-extension-adnauseam-dist](https://aur.archlinux.org/packages/opera-extension-adnauseam-dist) | 3.29.4-1 | 0 | AdNauseam browser extension for Opera (official release build, loaded unpacked) |
+| 2026-11-25 09:08:52 | [firefox-extension-adnauseam-dist](https://aur.archlinux.org/packages/firefox-extension-adnauseam-dist) | 3.29.4-1 | 0 | AdNauseam browser extension for Firefox, LibreWolf, Floorp and Firefox Nightly… |
 
 ## Data source
 
