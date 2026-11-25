@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-25T17:24:01Z,klondikecli-bin,1.1.1-1,0,"Klondike solitaire in your terminal, written in plain C++17"
+2026-11-25T17:47:32Z,wallcycle,0.1.0-1,0,Cross-platform wallpaper slideshow with real-time clock overlay and BT.709 luminance filter (Lazarus/FPC)
+2026-11-25T18:15:32Z,stream-sprout,,,"Restream a video source to multiple destinations such as Twitch, YouTube, Owncast, and PeerTube."
+2026-11-25T18:18:15Z,skwird,,,"An index of file names kept current, answered over a local socket"
+2026-11-25T18:18:30Z,prusa-connect-bin,,,Self-hosted Prusa 3D printer management server with web UI (upstream binary)

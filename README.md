@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 17:20 UTC
+## Latest list — 2026-11-25 18:19 UTC
 
-New packages created between 2026-11-25 16:19 UTC and 2026-11-25 17:20 UTC.
+New packages created between 2026-11-25 17:20 UTC and 2026-11-25 18:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-25T17-20-19-811143Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T18-19-22-435465Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-25 16:26:06 | [polymc-appimage](https://aur.archlinux.org/packages/polymc-appimage) | 8.1-1 | 0 | Minecraft launcher compatible with MultiMC (AppImage release) |
-| 2026-11-25 16:33:31 | [coderview-bin](https://aur.archlinux.org/packages/coderview-bin) | 1.0.0-1 | 0 | Desktop coding assistant with private screen capture and bring-your-own-key AI |
-| 2026-11-25 16:48:34 | [kaori](https://aur.archlinux.org/packages/kaori) | 1.0.0-1 | 0 | Discover, download and read comics. |
+| 2026-11-25 17:24:01 | [klondikecli-bin](https://aur.archlinux.org/packages/klondikecli-bin) | 1.1.1-1 | 0 | Klondike solitaire in your terminal, written in plain C++17 |
+| 2026-11-25 17:47:32 | [wallcycle](https://aur.archlinux.org/packages/wallcycle) | 0.1.0-1 | 0 | Cross-platform wallpaper slideshow with real-time clock overlay and BT.709 lumi… |
+| 2026-11-25 18:15:32 | [stream-sprout](https://aur.archlinux.org/packages/stream-sprout) |  |  | Restream a video source to multiple destinations such as Twitch, YouTube, Ownca… |
+| 2026-11-25 18:18:15 | [skwird](https://aur.archlinux.org/packages/skwird) |  |  | An index of file names kept current, answered over a local socket |
+| 2026-11-25 18:18:30 | [prusa-connect-bin](https://aur.archlinux.org/packages/prusa-connect-bin) |  |  | Self-hosted Prusa 3D printer management server with web UI (upstream binary) |
 
 ## Data source
 
