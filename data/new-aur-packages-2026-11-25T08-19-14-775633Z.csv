@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-25T07:47:36Z,ferron-bin,3.0.0rc11-1,0,"A fast, modern web server written in Rust (prebuilt binaries)"
+2026-11-25T07:56:09Z,cargo-tree-tui,0.1.0-1,1,Display an interactive tree visualization of your Rust dependency graph
+2026-11-25T07:58:06Z,kilo-compress-git,3.3.1.r17.gbe38e45-1,0,"Fast, local-first batch image compression for desktop.极速本地批量图片压缩工具"
