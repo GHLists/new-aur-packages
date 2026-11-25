@@ -12,21 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 15:20 UTC
+## Latest list — 2026-11-25 17:20 UTC
 
-New packages created between 2026-11-25 14:21 UTC and 2026-11-25 15:20 UTC.
+New packages created between 2026-11-25 16:19 UTC and 2026-11-25 17:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-25T15-20-43-868301Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T17-20-19-811143Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-25 14:34:18 | [vulkan-nouveau-aliveos](https://aur.archlinux.org/packages/vulkan-nouveau-aliveos) | 1:26.3.1-3 | 0 | Open-source Vulkan driver for NVIDIA GPUs (AliveOS NVK / Fermi research fork) |
-| 2026-11-25 14:40:57 | [clacks-bin](https://aur.archlinux.org/packages/clacks-bin) | 0.2.1-1 | 0 | Encrypted, self-hosted sync for AI coding sessions (prebuilt) |
-| 2026-11-25 14:40:58 | [clacks](https://aur.archlinux.org/packages/clacks) | 0.2.1-1 | 0 | Encrypted, self-hosted sync for AI coding sessions |
-| 2026-11-25 14:43:55 | [ladybird-nightly-bin](https://aur.archlinux.org/packages/ladybird-nightly-bin) | r72241.7fb65283c23-1 | 0 | Nightly release of the Ladybird web browser |
-| 2026-11-25 14:47:12 | [dusk-menu-bin](https://aur.archlinux.org/packages/dusk-menu-bin) | 0.1.4-1 | 0 | A sleek, customizable logout and power menu for Hyprland, Sway and Niri (prebui… |
-| 2026-11-25 14:47:13 | [dusk-menu](https://aur.archlinux.org/packages/dusk-menu) | 0.1.4-1 | 0 | A sleek, customizable logout and power menu for Hyprland, Sway and Niri |
-| 2026-11-25 15:18:42 | [gpk](https://aur.archlinux.org/packages/gpk) | 0.7.0-1 | 0 | See all your installed packages in one place. |
+| 2026-11-25 16:26:06 | [polymc-appimage](https://aur.archlinux.org/packages/polymc-appimage) | 8.1-1 | 0 | Minecraft launcher compatible with MultiMC (AppImage release) |
+| 2026-11-25 16:33:31 | [coderview-bin](https://aur.archlinux.org/packages/coderview-bin) | 1.0.0-1 | 0 | Desktop coding assistant with private screen capture and bring-your-own-key AI |
+| 2026-11-25 16:48:34 | [kaori](https://aur.archlinux.org/packages/kaori) | 1.0.0-1 | 0 | Discover, download and read comics. |
 
 ## Data source
 
