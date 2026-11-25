@@ -12,16 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 00:21 UTC
+## Latest list — 2026-11-25 01:20 UTC
 
-New packages created between 2026-11-24 23:21 UTC and 2026-11-25 00:21 UTC.
+New packages created between 2026-11-25 00:21 UTC and 2026-11-25 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-25T00-21-00-022737Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-25T01-20-04-398764Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 23:53:01 | [lumen-kde-git](https://aur.archlinux.org/packages/lumen-kde-git) | 0.1.0.r0.g0000000-1 | 0 | Windows 11 style desktop for KDE Plasma 6: widget style, window decoration, Mic… |
-| 2026-11-25 00:02:42 | [syscall-bin](https://aur.archlinux.org/packages/syscall-bin) | 0.2.1-1 | 1 | Look up Linux syscalls from your terminal |
+| 2026-11-25 00:39:19 | [lumen-kde](https://aur.archlinux.org/packages/lumen-kde) | 1.0.0-1 | 0 | Windows 11 style desktop for KDE Plasma 6: widget style, window decoration, Mic… |
+| 2026-11-25 00:57:41 | [hornero-greeter-greetd](https://aur.archlinux.org/packages/hornero-greeter-greetd) | 0.1.1-1 | 0 | HorneroOS graphical greeter for greetd on Hornero Signal (Qt6/QML, cage) |
+| 2026-11-25 00:58:24 | [transom-bin](https://aur.archlinux.org/packages/transom-bin) | 0.1.0-1 | 0 | Sharp remote desktops over RDP (GTK 4, HiDPI-correct) (Pre-compiled Binary) |
+| 2026-11-25 00:58:32 | [transom-git](https://aur.archlinux.org/packages/transom-git) | 0.1.0.r156.g4ea2cbf… | 0 | Sharp remote desktops over RDP (GTK 4, HiDPI-correct) (Git version) |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-25T00:39:19Z,lumen-kde,1.0.0-1,0,"Windows 11 style desktop for KDE Plasma 6: widget style, window decoration, Mica and Acrylic, taskbar, Start, Quick Settings, File Explorer"
+2026-11-25T00:57:41Z,hornero-greeter-greetd,0.1.1-1,0,"HorneroOS graphical greeter for greetd on Hornero Signal (Qt6/QML, cage)"
+2026-11-25T00:58:24Z,transom-bin,0.1.0-1,0,"Sharp remote desktops over RDP (GTK 4, HiDPI-correct) (Pre-compiled Binary)"
+2026-11-25T00:58:32Z,transom-git,0.1.0.r156.g4ea2cbf…,0,"Sharp remote desktops over RDP (GTK 4, HiDPI-correct) (Git version)"
