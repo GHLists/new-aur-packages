@@ -1,0 +1,101 @@
+created_at,package,version,votes,description
+2026-11-25T19:33:06Z,ezbookkeeping-bin,2.2.0-1,0,"ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use"
+2026-11-25T19:33:15Z,fabro-bin,0.254.0-1,0,The open source dark software factory for expert engineers
+2026-11-25T19:33:24Z,fast-anything-bin,0.8.7-1,0,Don't rewrite it in Rust
+2026-11-25T19:33:36Z,fireworq-bin,1.5.0-1,0,"Fireworq is a lightweight, high-performance, language-independent job queue system"
+2026-11-25T19:33:45Z,fisco-bcos-bin,3.16.4-1,0,"FISCO BCOS/fskl bi:kz/5000400FISCO BCOS (pronounced /fskl bi:kz/) is a stable, efficient, and secure permissioned blockchain platform that has been widely used in real-world industry applications"
+2026-11-25T19:34:05Z,frps-onekey-bin,0.72.0-1,0,Frp server one-click configuration script
+2026-11-25T19:34:18Z,gauge-bin,1.6.44-1,0,Light weight cross-platform test automation
+2026-11-25T19:34:34Z,gitlab-ci-pipelines-exporter-bin,0.6.0-1,0,Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
+2026-11-25T19:34:47Z,goalert-bin,0.35.0-1,0,"Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert"
+2026-11-25T19:34:57Z,gogg-bin,0.5.1-1,0,A multiplatform game file downloader for GOG
+2026-11-25T19:35:06Z,goldilocks-bin,4.16.5-1,0,Get your resource requests 'Just Right'
+2026-11-25T19:35:15Z,gopy-bin,0.6.0-1,0,gopy generates a CPython extension module from a go package
+2026-11-25T19:35:25Z,gorse-bin,0.5.11-1,0,AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+2026-11-25T19:35:34Z,gptme-bin,0.37.0-1,0,"Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web"
+2026-11-25T19:35:56Z,gymmane-bin,2.5.0-1,0,Offline gym log for Android
+2026-11-25T19:36:08Z,helm-dashboard-bin,2.1.4-1,0,The missing UI for Helm - visualize your releases
+2026-11-25T19:36:30Z,holyarrs-bin,1.3.1-1,0,"One self-hosted app for your shows, movies and music"
+2026-11-25T19:36:44Z,h-ui-bin,0.0.26-1,0,Just the panel for Hysteria2 / Hysteria2
+2026-11-25T19:36:54Z,immich-kiosk-bin,0.48.0-1,0,Highly configurable slideshows for displaying Immich assets on browsers and devices
+2026-11-25T19:37:04Z,inbucket-bin,3.2.0-1,0,"Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required"
+2026-11-25T19:37:13Z,instatic-bin,0.0.24-1,0,"The open-source alternative to Webflow, Framer and WordPress"
+2026-11-25T19:37:23Z,isolated-vm-bin,6.0.2-1,0,Secure & isolated JS environments for nodejs
+2026-11-25T19:37:36Z,jscpd-bin,5.4.3-1,0,Copy/paste detector for source code
+2026-11-25T19:37:47Z,kafka_exporter-bin,1.11.0-1,0,Kafka exporter for Prometheus
+2026-11-25T19:37:55Z,kagent-bin,1.0.1-1,0,Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+2026-11-25T19:38:06Z,karmada-bin,1.19.1-1,0,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration"
+2026-11-25T19:38:19Z,kimchi-bin,1.41.0-1,0,Terminal coding agent powered by Kimchi's multi-model orchestration
+2026-11-25T19:38:32Z,komari-bin,1.6.2-1,0,A simple server monitor tool
+2026-11-25T19:38:42Z,kubara-bin,0.18.0-1,0,"A CLI and package manager for building, distributing, and bootstrapping multi-cluster Kubernetes platforms via pure GitOps"
+2026-11-25T19:38:51Z,kubefirst-bin,2.10.5-1,0,The Kubefirst Open Source Platform
+2026-11-25T19:39:09Z,libredesk-bin,2.9.2-1,0,"Open-source, self-hosted customer support desk in a single binary"
+2026-11-25T19:39:20Z,litefs-bin,0.5.14-1,0,FUSE-based file system for replicating SQLite databases across a cluster of machines
+2026-11-25T19:39:29Z,llm-space-bin,4.20.0-1,0,"A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place"
+2026-11-25T19:39:51Z,macro-bin,2026.11.24.1-1,0,"Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM @-linked together with shared AI memory"
+2026-11-25T19:40:01Z,mark-bin,17.3.1-1,0,Sync your markdown files with Confluence pages
+2026-11-25T19:40:21Z,mchprs-bin,0.5.3-1,0,A multithreaded Minecraft server built for redstone
+2026-11-25T19:40:30Z,mcpjungle-bin,0.4.7-1,0,One place to manage & connect to all your MCP servers
+2026-11-25T19:40:38Z,mempalace-bin,3.12.0-1,0,The best-benchmarked open-source AI memory system
+2026-11-25T19:40:49Z,mindfs-bin,0.5.9-1,0,"Access your personal AI agents and workstation data anywhere, anytime through MindFS"
+2026-11-25T19:41:03Z,monitoror-bin,4.0.1-1,0,"Unified monitoring wallboard Light, ergonomic and reliable monitoring for anything"
+2026-11-25T19:41:11Z,monoscope-bin,0.6.32-1,0,"Monoscope lets you ingest and explore your logs, traces and metrics"
+2026-11-25T19:41:29Z,muxy-bin,2.5.0-1,0,Lightweight and Memory efficient terminal multiplexer
+2026-11-25T19:41:39Z,nakama-bin,3.42.0-1,0,"Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games"
+2026-11-25T19:41:51Z,net-merge-bin,0.3.7-1,0,"Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers"
+2026-11-25T19:42:00Z,nginx-build-bin,0.16.34-1,0,Seamless nginx builder
+2026-11-25T19:42:08Z,nginx-ignition-bin,2.51.1-1,0,"An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually"
+2026-11-25T19:42:25Z,ofelia-bin,0.3.23-1,0,A docker job scheduler (aka
+2026-11-25T19:42:34Z,olares-bin,1.12.8-1,0,Open-Source Personal Cloud OS for Always-On Agents
+2026-11-25T19:42:37Z,night-bin,0.1.0_preview-1,0,"A high-performance, minimalist, 100% Rust-native Wayland desktop environment powered by Pinnacle (prebuilt binaries)"
+2026-11-25T19:42:43Z,openagent-bin,2.89.2-1,0,"next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org"
+2026-11-25T19:42:54Z,openlore-bin,0.8.0-1,0,"A minimal, extensible, agent-native knowledge repository that keeps shared context current and inspectable"
+2026-11-25T19:43:04Z,openocta-bin,1.0.9-1,0,OpenOcta is an open-source AIOps Agent installed on Windows & macOS
+2026-11-25T19:43:12Z,open-oscar-server-bin,0.25.0-1,0,Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang
+2026-11-25T19:43:20Z,openscience-bin,2.0.153-1,0,The open-source AI workbench for scientific research
+2026-11-25T19:43:34Z,openserp-bin,0.8.22-1,0,"Self-hosted web search for AI agents and SEO. Google, Bing, Yandex, Baidu, DuckDuckGo & Ecosia, rendered in a real browser: ranked results and clean page Markdown"
+2026-11-25T19:43:43Z,opensrc-bin,0.7.3-1,0,Fetch source code for npm packages to give AI coding agents deeper context
+2026-11-25T19:43:55Z,oxicloud-bin,0.10.1-1,0,"Ultra-fast, secure & lightweight self-hosted cloud storage your files, photos, calendars & contacts, all in one place"
+2026-11-25T19:44:14Z,paca-bin,0.22.0-1,0,"Non-profit, community-owned and free forever: an AI-native, open-source alternative to Jira, Trello, ClickUp & Monday, where humans and AI agents work as equals on the same Scrum board"
+2026-11-25T19:44:25Z,pentest-swarm-ai-bin,0.3.7-1,0,Open-source autonomous AI pentester (the open-source XBOW alternative)
+2026-11-25T19:44:35Z,permify-bin,1.7.6-1,0,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application"
+2026-11-25T19:44:44Z,perses-bin,0.55.1-1,0,The CNCF sandbox for observability visualisation
+2026-11-25T19:44:53Z,pgroll-bin,0.16.3-1,0,PostgreSQL zero-downtime migrations made easy
+2026-11-25T19:45:17Z,portr-bin,2.1.0-1,0,"Expose local http, tcp or websocket connections to the public internet"
+2026-11-25T19:45:27Z,primo-bin,3.3.2-1,0,"Build client-editable sites with Claude, Codex, Cursor, or whatever comes next"
+2026-11-25T19:46:15Z,redisshake-bin,4.9.0-1,0,RedisShake is a Valkey/Redis data processing and migration tool
+2026-11-25T19:46:25Z,resin-bin,1.4.1-1,0,A high-performance proxy pool gateway
+2026-11-25T19:46:37Z,reylo-bin,0.9.0-1,0,Import .sql files into TypeScript with full type inference and zero codegen
+2026-11-25T19:46:47Z,rockstar-bin,2.0.38-1,0,Home of the Rockstar programming language
+2026-11-25T19:47:15Z,sablier-bin,1.21.1-1,0,"Start your containers on demand, shut them down automatically when there's no activity"
+2026-11-25T19:47:26Z,saveany-bot-bin,0.63.0-1,0,"Save Any Telegram File to Anywhere (Alist, Disk, Webdav, S3, Rclone...) . Support restrict saving content and files beyond telegram"
+2026-11-25T19:47:41Z,scriberr-bin,1.2.0-1,0,Self-hosted AI audio transcription
+2026-11-25T19:47:51Z,seekdb-bin,1.4.1-1,0,The AI-Native Search Database
+2026-11-25T19:48:10Z,snarkos-bin,4.13.1-1,0,A Decentralized Operating System for ZK Applications
+2026-11-25T19:48:21Z,solace-nisshi-bin,0.8.2-1,0,"Apache Kafka compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake"
+2026-11-25T19:48:32Z,spiceai-bin,2.4.3-1,0,Add a real-time analytics node to your operational database
+2026-11-25T19:48:42Z,spytify-bin,2.0.2-1,0,"Records an application's audio, splits it into tracks and tags them"
+2026-11-25T19:48:56Z,stratus-red-team-bin,2.38.2-1,0,"cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud"
+2026-11-25T19:49:07Z,sublinkpro-bin,1.3.1-1,0,| TG JS | Go+React UI Modern Proxy Subscription Manager | Smart Tags Speed Test Relays Monitor TG Bot JS Scripts
+2026-11-25T19:49:16Z,subwave-bin,1.34.0-1,0,Personal internet radio: Agentic AI DJ
+2026-11-25T19:49:26Z,supergateway-bin,4.3.0-1,0,"Run MCP stdio servers over HTTP streamable, SSE and SSE over stdio"
+2026-11-25T19:49:56Z,tengo-bin,3.0.0-1,0,A fast script language for Go
+2026-11-25T19:50:34Z,tokenrouter-bin,0.7.6-1,0,tokenrouter is the next generation llm gateway
+2026-11-25T19:50:49Z,furtherance-gtk,1.9.1-2,0,Track your time without being tracked (GTK fork)
+2026-11-25T19:50:53Z,toxiproxy-bin,2.13.0-1,0,alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+2026-11-25T19:51:02Z,tproxy-bin,0.9.2-1,0,A cli tool to proxy and analyze TCP connections
+2026-11-25T19:51:12Z,tradingagents-bin,1.0.1-1,0,TradingAgents: Towards Agentic Finance Research
+2026-11-25T19:51:40Z,typeid-bin,0.1.1-1,0,"Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs"
+2026-11-25T19:51:53Z,uptrace-bin,2.1.0-1,0,"Open source APM: OpenTelemetry traces, metrics, and logs"
+2026-11-25T19:52:06Z,vibium-bin,26.11.16-1,0,The verification layer for coding agents
+2026-11-25T19:52:37Z,vulcain-bin,1.4.5-1,0,Fast and idiomatic client-driven REST APIs
+2026-11-25T19:52:46Z,vuls-bin,0.43.0-1,0,"Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices"
+2026-11-25T19:52:58Z,webcodex-bin,0.5.1-1,0,Give cloud AI agents a real development environment on your own machines
+2026-11-25T19:53:07Z,webp_server_go-bin,0.16.2-1,0,Go version of WebP Server
+2026-11-25T19:53:32Z,yoyo-evolve-bin,0.5.0-1,0,"A coding agent that evolves its own source, in public 200 lines of Rust on day one, every commit since agent-written and tests-gated"
+2026-11-25T19:53:48Z,zerobyte-bin,0.44.2-1,0,Backup automation for self-hosters
+2026-11-25T19:53:57Z,zerolang-bin,0.3.4-1,0,The Programming Language for Agents
+2026-11-25T19:54:05Z,zerostack-bin,1.8.6-1,0,"Lightweight coding agent written in Rust, optimized for memory footprint and performance"
+2026-11-25T20:11:25Z,chromium-extension-xbrowsersync-dist,1.8.0beta.262-1,0,"xBrowserSync: free, open-source, anonymous and secure bookmark sync (Chromium extension, nightly build, loaded unpacked)"
+2026-11-25T20:11:25Z,firefox-extension-xbrowsersync-dist,1.8.0beta.262-1,0,"xBrowserSync: free, open-source, anonymous and secure bookmark sync (Firefox/LibreWolf/Floorp extension, nightly build)"
+2026-11-25T20:13:54Z,proxyjail-git,r3.f83727d-1,0,Proxychains alternative built with Rust and eBPF
