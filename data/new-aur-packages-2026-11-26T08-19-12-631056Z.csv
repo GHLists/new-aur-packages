@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-26T07:36:00Z,promptr,0.3.0-1,0,Native GTK4 chat frontend with independent provider plugins
+2026-11-26T07:45:58Z,minipg-bin,0.3-1,0,PostgreSQL as a single executable
+2026-11-26T08:00:40Z,kiri-screenshot-bin,1.6.43-1,0,"Screenshot, annotation, OCR and screen recording workspace"
+2026-11-26T08:03:52Z,cfluxdo-bin,1.3.4-1,0,Third-party linux.do client with ECH direct connection and node selection
+2026-11-26T08:03:56Z,openrockcli-git,1+r0+g039ed3a-1,0,A command-line and lightweight TUI firmware flashing tool for Rockchip SoCs
+2026-11-26T08:13:50Z,openrockcli,1-1,0,A command-line and lightweight TUI firmware flashing tool for Rockchip SoCs

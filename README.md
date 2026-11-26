@@ -12,18 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 07:21 UTC
+## Latest list — 2026-11-26 08:19 UTC
 
-New packages created between 2026-11-26 06:19 UTC and 2026-11-26 07:21 UTC.
+New packages created between 2026-11-26 07:21 UTC and 2026-11-26 08:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-26T07-21-54-056659Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-26T08-19-12-631056Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-26 06:26:11 | [dwproton-azur-patch](https://aur.archlinux.org/packages/dwproton-azur-patch) | 11.0_17-2 | 0 | Wine driver overlay for dwproton: lets Azur Promilia mj_sdk (Qt/CEF) windows re… |
-| 2026-11-26 06:29:20 | [dwproton-binfmt](https://aur.archlinux.org/packages/dwproton-binfmt) | 1-1 | 0 | 让内核把 PE 可执行文件交给 dwproton 启动（binfmt_misc 注册，重启后依然有效） |
-| 2026-11-26 07:11:08 | [pinshot-bin](https://aur.archlinux.org/packages/pinshot-bin) | 0.1.0-1 | 0 | Lightweight Wayland screenshot, screen-pinning, scrolling capture and GIF tool… |
-| 2026-11-26 07:16:39 | [pinshot](https://aur.archlinux.org/packages/pinshot) | 0.1.0-1 | 0 | Lightweight Wayland screenshot, screen-pinning, scrolling capture and GIF tool… |
+| 2026-11-26 07:36:00 | [promptr](https://aur.archlinux.org/packages/promptr) | 0.3.0-1 | 0 | Native GTK4 chat frontend with independent provider plugins |
+| 2026-11-26 07:45:58 | [minipg-bin](https://aur.archlinux.org/packages/minipg-bin) | 0.3-1 | 0 | PostgreSQL as a single executable |
+| 2026-11-26 08:00:40 | [kiri-screenshot-bin](https://aur.archlinux.org/packages/kiri-screenshot-bin) | 1.6.43-1 | 0 | Screenshot, annotation, OCR and screen recording workspace |
+| 2026-11-26 08:03:52 | [cfluxdo-bin](https://aur.archlinux.org/packages/cfluxdo-bin) | 1.3.4-1 | 0 | Third-party linux.do client with ECH direct connection and node selection |
+| 2026-11-26 08:03:56 | [openrockcli-git](https://aur.archlinux.org/packages/openrockcli-git) | 1+r0+g039ed3a-1 | 0 | A command-line and lightweight TUI firmware flashing tool for Rockchip SoCs |
+| 2026-11-26 08:13:50 | [openrockcli](https://aur.archlinux.org/packages/openrockcli) | 1-1 | 0 | A command-line and lightweight TUI firmware flashing tool for Rockchip SoCs |
 
 ## Data source
 
