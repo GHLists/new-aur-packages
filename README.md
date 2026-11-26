@@ -12,19 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 19:21 UTC
+## Latest list — 2026-11-26 20:20 UTC
 
-New packages created between 2026-11-26 18:20 UTC and 2026-11-26 19:21 UTC.
+New packages created between 2026-11-26 19:21 UTC and 2026-11-26 20:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-26T19-21-29-065779Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-26T20-20-54-062348Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-26 18:22:32 | [shelf-cli-bin](https://aur.archlinux.org/packages/shelf-cli-bin) | 0.1.0-1 | 0 | CLI for shelf, publish HTML pages and docs and get a link back |
-| 2026-11-26 18:30:58 | [elpaudio-mini-git](https://aur.archlinux.org/packages/elpaudio-mini-git) | 0.0.11.r0.gdbf5b80-1 | 0 | Simple audio player, written on GameBreaker (git version) |
-| 2026-11-26 18:40:02 | [llvm14](https://aur.archlinux.org/packages/llvm14) | 14.0.6-1 | 0 | LLVM and Clang 14 built from source with a shared libLLVM |
-| 2026-11-26 19:07:17 | [mochawaita-gtk-theme-git](https://aur.archlinux.org/packages/mochawaita-gtk-theme-git) | r8.e872c59-1 | 0 | Catppuccin Mocha in the shape of Adwaita: GTK3/GTK4 theme (recolored adw-gtk3)… |
-| 2026-11-26 19:09:12 | [lancommander-launcher-git](https://aur.archlinux.org/packages/lancommander-launcher-git) | 2.2.1.r2.gc5ff9ce-1 | 0 | Desktop launcher for LANCommander, a self-hosted game distribution platform (la… |
+| 2026-11-26 19:21:47 | [cosmic-applet-manager](https://aur.archlinux.org/packages/cosmic-applet-manager) | 0.2.0-1 | 0 | Browse, install, update and remove community COSMIC extensions |
+| 2026-11-26 19:21:57 | [cosmic-applet-manager-bin](https://aur.archlinux.org/packages/cosmic-applet-manager-bin) | 0.2.0-1 | 0 | Browse, install, update and remove community COSMIC extensions (prebuilt binary) |
+| 2026-11-26 19:22:06 | [cosmic-applet-manager-git](https://aur.archlinux.org/packages/cosmic-applet-manager-git) | 0.2.0-1 | 0 | Browse, install, update and remove community COSMIC extensions |
 
 ## Data source
 

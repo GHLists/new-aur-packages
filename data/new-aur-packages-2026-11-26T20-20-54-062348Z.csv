@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-26T19:21:47Z,cosmic-applet-manager,0.2.0-1,0,"Browse, install, update and remove community COSMIC extensions"
+2026-11-26T19:21:57Z,cosmic-applet-manager-bin,0.2.0-1,0,"Browse, install, update and remove community COSMIC extensions (prebuilt binary)"
+2026-11-26T19:22:06Z,cosmic-applet-manager-git,0.2.0-1,0,"Browse, install, update and remove community COSMIC extensions"
