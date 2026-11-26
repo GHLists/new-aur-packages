@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-26T03:21:50Z,bowel-bin,0.4.8-2,0,"Desktop client for the mihomo proxy core, for non-commercial use"
+2026-11-26T03:50:09Z,macos-sequoia-sound-theme,15.8.3-1,0,macOS Sequoia sound theme for KDE Plasma and other freedesktop desktops (sounds extracted from Apple at build time)
+2026-11-26T03:50:15Z,macos-sequoia-cursor-theme,15.8.3-1,0,macOS Sequoia cursor theme for KDE Plasma and other XCursor desktops (cursors extracted from Apple at build time)
