@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 02:21 UTC
+## Latest list — 2026-11-26 03:19 UTC
 
-New packages created between 2026-11-26 01:19 UTC and 2026-11-26 02:21 UTC.
+New packages created between 2026-11-26 02:21 UTC and 2026-11-26 03:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-26T02-21-29-984162Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-26T03-19-01-731821Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-26 01:27:36 | [okular-backend-libofd](https://aur.archlinux.org/packages/okular-backend-libofd) | 0.2.0-1 | 0 | Standalone Open Fixed-layout Document (OFD) reader plugin for Okular |
-| 2026-11-26 01:45:29 | [redragon-rgb-bin](https://aur.archlinux.org/packages/redragon-rgb-bin) | 0.3.0-1 | 0 | GTK4/libadwaita app and CLI to configure RGB lighting on Redragon M711 mice and… |
-| 2026-11-26 02:06:35 | [ordet-bin](https://aur.archlinux.org/packages/ordet-bin) | 0.1.1-1 | 1 | A local-first, distraction-free word processor for the terminal |
-| 2026-11-26 02:15:03 | [microsoft-authentication-cli-bin](https://aur.archlinux.org/packages/microsoft-authentication-cli-bin) | 0.9.8-1 | 0 | Command-line utility for Microsoft Entra authentication (AzureAuth) |
+| 2026-11-26 02:32:22 | [rvgit-bin](https://aur.archlinux.org/packages/rvgit-bin) | 0.1.0-1 | 1 | Rivet Git (rvgit) gives you a dashboard for multiple Git repositories |
+| 2026-11-26 02:38:25 | [dvb-firmware-siliconlabs](https://aur.archlinux.org/packages/dvb-firmware-siliconlabs) | 22.06-1 | 0 | Silicon Labs firmware for Geniatech MyGica (August, eyeTV T2, Evolveo Sigma T2,… |
+| 2026-11-26 03:00:04 | [chimera-tas](https://aur.archlinux.org/packages/chimera-tas) | 20261123-1 | 0 | Modular frontend for creating tool-assisted speedruns (TAS) |
+| 2026-11-26 03:02:11 | [kurocat-bin](https://aur.archlinux.org/packages/kurocat-bin) | 1.4.7-1 | 0 | Ultra-lightweight keyboard & mouse desktop cat pet, with full-state key capture… |
 
 ## Data source
 

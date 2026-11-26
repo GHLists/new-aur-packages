@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-26T02:32:22Z,rvgit-bin,0.1.0-1,1,Rivet Git (rvgit) gives you a dashboard for multiple Git repositories
+2026-11-26T02:38:25Z,dvb-firmware-siliconlabs,22.06-1,0,"Silicon Labs firmware for Geniatech MyGica (August, eyeTV T2, Evolveo Sigma T2, Openbox), GoTView MasterHD 3, Hauppauge WinTV, PCTV QuatroStick / tripleStick, DVBSky, Evromedia Full Hybrid Full HD, TechnoTrend, Terratec."
+2026-11-26T03:00:04Z,chimera-tas,20261123-1,0,Modular frontend for creating tool-assisted speedruns (TAS)
+2026-11-26T03:02:11Z,kurocat-bin,1.4.7-1,0,"Ultra-lightweight keyboard & mouse desktop cat pet, with full-state key capture and 2.5D head tracking"
