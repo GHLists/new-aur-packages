@@ -12,22 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 18:20 UTC
+## Latest list — 2026-11-26 19:21 UTC
 
-New packages created between 2026-11-26 17:22 UTC and 2026-11-26 18:20 UTC.
+New packages created between 2026-11-26 18:20 UTC and 2026-11-26 19:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-26T18-20-38-900168Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-26T19-21-29-065779Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-26 17:24:08 | [affine-beta](https://aur.archlinux.org/packages/affine-beta) | 0.27.5.beta.3-2 | 0 | A next-gen knowledge base that brings planning, sorting and creating all togeth… |
-| 2026-11-26 17:54:01 | [plasma6-applets-advanced-weather-widget](https://aur.archlinux.org/packages/plasma6-applets-advanced-weather-widget) | 1.9.0-1 | 0 | Modern weather widget for KDE Plasma 6 |
-| 2026-11-26 17:54:23 | [nhl-hitz-pro-bin](https://aur.archlinux.org/packages/nhl-hitz-pro-bin) | 1.1.1-1 | 1 | Native Linux recompilation of NHL Hitz Pro for the original Xbox |
-| 2026-11-26 18:10:57 | [aptivi-adt](https://aur.archlinux.org/packages/aptivi-adt) | 1.3.0.0-1 | 0 | Simulates our future-planned kernel |
-| 2026-11-26 18:11:06 | [aptivi-adt-git](https://aur.archlinux.org/packages/aptivi-adt-git) | v1.2.0.4.r27.52f17e… | 0 | Simulates our future-planned kernel |
-| 2026-11-26 18:11:22 | [myle-bin](https://aur.archlinux.org/packages/myle-bin) | 0.1.0-1 | 0 | Command-line tool for the Myle API |
-| 2026-11-26 18:13:13 | [shotori-clipboard-uri-list](https://aur.archlinux.org/packages/shotori-clipboard-uri-list) | 0.19.1-1 | 0 | Screenshot tool fork: the clipboard also offers text/uri-list and text/html so… |
-| 2026-11-26 18:17:09 | [privacynotes-appimage](https://aur.archlinux.org/packages/privacynotes-appimage) |  |  | End-to-end encrypted notes, tasks, files, passwords and journal (official AppIm… |
+| 2026-11-26 18:22:32 | [shelf-cli-bin](https://aur.archlinux.org/packages/shelf-cli-bin) | 0.1.0-1 | 0 | CLI for shelf, publish HTML pages and docs and get a link back |
+| 2026-11-26 18:30:58 | [elpaudio-mini-git](https://aur.archlinux.org/packages/elpaudio-mini-git) | 0.0.11.r0.gdbf5b80-1 | 0 | Simple audio player, written on GameBreaker (git version) |
+| 2026-11-26 18:40:02 | [llvm14](https://aur.archlinux.org/packages/llvm14) | 14.0.6-1 | 0 | LLVM and Clang 14 built from source with a shared libLLVM |
+| 2026-11-26 19:07:17 | [mochawaita-gtk-theme-git](https://aur.archlinux.org/packages/mochawaita-gtk-theme-git) | r8.e872c59-1 | 0 | Catppuccin Mocha in the shape of Adwaita: GTK3/GTK4 theme (recolored adw-gtk3)… |
+| 2026-11-26 19:09:12 | [lancommander-launcher-git](https://aur.archlinux.org/packages/lancommander-launcher-git) | 2.2.1.r2.gc5ff9ce-1 | 0 | Desktop launcher for LANCommander, a self-hosted game distribution platform (la… |
 
 ## Data source
 

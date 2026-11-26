@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-26T18:22:32Z,shelf-cli-bin,0.1.0-1,0,"CLI for shelf, publish HTML pages and docs and get a link back"
+2026-11-26T18:30:58Z,elpaudio-mini-git,0.0.11.r0.gdbf5b80-1,0,"Simple audio player, written on GameBreaker (git version)"
+2026-11-26T18:40:02Z,llvm14,14.0.6-1,0,LLVM and Clang 14 built from source with a shared libLLVM
+2026-11-26T19:07:17Z,mochawaita-gtk-theme-git,r8.e872c59-1,0,Catppuccin Mocha in the shape of Adwaita: GTK3/GTK4 theme (recolored adw-gtk3) and tinted icons
+2026-11-26T19:09:12Z,lancommander-launcher-git,2.2.1.r2.gc5ff9ce-1,0,"Desktop launcher for LANCommander, a self-hosted game distribution platform (latest git main)"
