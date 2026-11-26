@@ -1,0 +1,13 @@
+created_at,package,version,votes,description
+2026-11-26T09:50:48Z,nika-fonts,1.0.0-1,0,Persian/Arabic font for text and print
+2026-11-26T09:50:57Z,ganjnameh-fonts,0.0.4-1,0,Persian/Arabic display font
+2026-11-26T09:51:05Z,farbod-fonts,3.2.5-1,0,Persian/Arabic font for text and print
+2026-11-26T09:51:13Z,noon-fonts,0.9.0-1,0,Persian/Arabic font designed for Quran text
+2026-11-26T09:51:21Z,python-pycm,4.6-1,0,Multi-class confusion matrix library for Python
+2026-11-26T09:51:30Z,python-opem,1.4-1,0,Open-source PEM fuel cell simulation tool
+2026-11-26T09:51:38Z,dups-bin,0.2.1-1,0,"Find and remove duplicate files using multiple cores and MD5, SHA256 or xxHash"
+2026-11-26T09:52:29Z,kluis-bin,0.1.0-1,0,Kluis: wachtwoorden zoeken en kopiëren met je SSH-sleutel (tray-app en CLI)
+2026-11-26T09:55:14Z,miladazad-fonts,0.0.3-1,0,Persian/Arabic display font
+2026-11-26T09:55:22Z,vizhehazad-fonts,0.0.3-1,0,Persian/Arabic display font
+2026-11-26T10:08:09Z,aptx-adaptive-linux-git,0.1.0.r181.f21ecec-1,0,aptX Adaptive Bluetooth codec plugin for PipeWire (Low Latency and adaptive modes)
+2026-11-26T10:16:42Z,gh-proxy-manager-bin,,,"GUI manager for GitHub download acceleration in yay, makepkg, git clone and curl"

@@ -12,17 +12,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 09:21 UTC
+## Latest list — 2026-11-26 10:19 UTC
 
-New packages created between 2026-11-26 08:19 UTC and 2026-11-26 09:21 UTC.
+New packages created between 2026-11-26 09:21 UTC and 2026-11-26 10:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-26T09-21-06-463204Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-26T10-19-32-573092Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-26 08:24:43 | [conmuta-bin](https://aur.archlinux.org/packages/conmuta-bin) | 1.2.1-1 | 0 | Network profile switcher for IP, gateway and DNS with connectivity diagnostics |
-| 2026-11-26 08:26:47 | [minotari](https://aur.archlinux.org/packages/minotari) | 6.2.0-1 | 0 | Tari layer 1 mainnet node, wallet, mining, and utility applications |
-| 2026-11-26 09:02:37 | [deucessh-git](https://aur.archlinux.org/packages/deucessh-git) | 1.0.0.r532.79c3bc8-1 | 0 | SSH client and server library (development version) |
+| 2026-11-26 09:50:48 | [nika-fonts](https://aur.archlinux.org/packages/nika-fonts) | 1.0.0-1 | 0 | Persian/Arabic font for text and print |
+| 2026-11-26 09:50:57 | [ganjnameh-fonts](https://aur.archlinux.org/packages/ganjnameh-fonts) | 0.0.4-1 | 0 | Persian/Arabic display font |
+| 2026-11-26 09:51:05 | [farbod-fonts](https://aur.archlinux.org/packages/farbod-fonts) | 3.2.5-1 | 0 | Persian/Arabic font for text and print |
+| 2026-11-26 09:51:13 | [noon-fonts](https://aur.archlinux.org/packages/noon-fonts) | 0.9.0-1 | 0 | Persian/Arabic font designed for Quran text |
+| 2026-11-26 09:51:21 | [python-pycm](https://aur.archlinux.org/packages/python-pycm) | 4.6-1 | 0 | Multi-class confusion matrix library for Python |
+| 2026-11-26 09:51:30 | [python-opem](https://aur.archlinux.org/packages/python-opem) | 1.4-1 | 0 | Open-source PEM fuel cell simulation tool |
+| 2026-11-26 09:51:38 | [dups-bin](https://aur.archlinux.org/packages/dups-bin) | 0.2.1-1 | 0 | Find and remove duplicate files using multiple cores and MD5, SHA256 or xxHash |
+| 2026-11-26 09:52:29 | [kluis-bin](https://aur.archlinux.org/packages/kluis-bin) | 0.1.0-1 | 0 | Kluis: wachtwoorden zoeken en kopiëren met je SSH-sleutel (tray-app en CLI) |
+| 2026-11-26 09:55:14 | [miladazad-fonts](https://aur.archlinux.org/packages/miladazad-fonts) | 0.0.3-1 | 0 | Persian/Arabic display font |
+| 2026-11-26 09:55:22 | [vizhehazad-fonts](https://aur.archlinux.org/packages/vizhehazad-fonts) | 0.0.3-1 | 0 | Persian/Arabic display font |
+| 2026-11-26 10:08:09 | [aptx-adaptive-linux-git](https://aur.archlinux.org/packages/aptx-adaptive-linux-git) | 0.1.0.r181.f21ecec-1 | 0 | aptX Adaptive Bluetooth codec plugin for PipeWire (Low Latency and adaptive mod… |
+| 2026-11-26 10:16:42 | [gh-proxy-manager-bin](https://aur.archlinux.org/packages/gh-proxy-manager-bin) |  |  | GUI manager for GitHub download acceleration in yay, makepkg, git clone and curl |
 
 ## Data source
 
