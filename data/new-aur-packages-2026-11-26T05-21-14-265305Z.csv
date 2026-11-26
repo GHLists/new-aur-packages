@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-26T04:24:04Z,x3d-toggle,2.0.0-2,0,AMD Ryzen X3D V-Cache CCD priority optimizer daemon and CLI (POSIX C / eBPF)
+2026-11-26T04:24:04Z,x3d-toggle-gui,2.0.0-2,0,GTK4/libadwaita desktop dashboard for X3D Toggle
+2026-11-26T04:45:38Z,radiance-inference,2.2.0-1,0,C++20 LLM inference server for AMD GPUs (primarily gfx1201) with OpenAI-compatible HTTP API (release)
