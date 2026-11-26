@@ -1,0 +1,101 @@
+created_at,package,version,votes,description
+2026-11-26T05:59:59Z,sage-wiki-bin,0.2.13-1,0,Graph memory and knowledge base shared by AI agents and humans
+2026-11-26T06:00:07Z,show-me-the-story-bin,4.0.2-1,0,Self-hosted AI novel writer with a web UI
+2026-11-26T06:00:12Z,gobrew-bin,1.10.17-1,0,Go version manager
+2026-11-26T06:00:15Z,sql_exporter-bin,0.24.14-1,0,Database-agnostic SQL exporter for Prometheus
+2026-11-26T06:00:24Z,sshocker-bin,0.3.11-1,0,SSH with reverse sshfs and port forwarding in a Docker-like CLI
+2026-11-26T06:00:24Z,go-cve-dictionary-bin,0.16.2-1,0,Build a local copy of the CVE databases from NVD and JVN
+2026-11-26T06:00:32Z,tailpipe-bin,0.9.0-1,0,"Open-source SIEM for log analysis from the terminal, powered by DuckDB"
+2026-11-26T06:00:40Z,tailsnitch-bin,1.7-1,0,Security auditor for Tailscale configurations
+2026-11-26T06:00:48Z,terralist-bin,0.11.4-1,0,Private Terraform registry for modules and providers
+2026-11-26T06:00:56Z,thingspanel-backend-community-bin,1.4.0-1,0,Backend server for the ThingsPanel IoT platform
+2026-11-26T06:00:59Z,go-junit-report-bin,2.1.0-1,0,Convert Go test output to JUnit XML
+2026-11-26T06:01:04Z,thunderid-bin,1.1.1-1,0,"Open-source identity and access management for humans, AI agents and machines"
+2026-11-26T06:01:11Z,tmux-agent-sidebar-bin,0.13.0-1,0,tmux sidebar that monitors AI coding agents across sessions in real time
+2026-11-26T06:01:19Z,transok-bin,0.5.6-1,0,LAN file sharing tool
+2026-11-26T06:01:27Z,trousseau-bin,0.4.1-1,0,File-based encrypted key-value store
+2026-11-26T06:01:35Z,tyson-bin,0.1.1-1,0,TypeScript as a configuration language
+2026-11-26T06:01:43Z,xn-ptts-bin,0.7.1-1,0,Phonon text-to-speech inference using xn
+2026-11-26T06:01:46Z,grafana-kiosk-bin,1.0.13-1,0,Kiosk utility for Grafana
+2026-11-26T06:01:50Z,xray-checker-bin,1.3.1-1,0,Prometheus exporter for monitoring Xray proxies
+2026-11-26T06:02:02Z,graymatter-bin,0.21.0-1,0,Persistent memory for AI agents
+2026-11-26T06:02:48Z,iam-policy-autopilot-bin,0.4.0-1,0,Static code analysis tool that generates baseline AWS IAM policies
+2026-11-26T06:02:56Z,kern-bin,0.56.0-1,0,"Fast, rootless, daemonless container runtime and sandbox"
+2026-11-26T06:03:04Z,legitify-bin,1.0.11-1,0,Detect and fix misconfigurations and security risks in GitHub and GitLab assets
+2026-11-26T06:03:12Z,moria-bin,0.3.0-1,0,IoT firmware identification and extraction
+2026-11-26T06:03:19Z,netpulse-bin,2.54.0-1,0,Real-time dashboard for monitoring OpenWrt and GL.iNet home networks
+2026-11-26T06:03:27Z,nylon-bin,0.4.7-1,0,Self-healing WireGuard mesh
+2026-11-26T06:03:31Z,herdr-nvim-bin,1.3.1-1,0,Neovim integration for the herdr workspace
+2026-11-26T06:03:35Z,pg2b3dm-bin,2.28.0-1,0,Create 3D Tiles from PostGIS geometries
+2026-11-26T06:03:43Z,pkarr-bin,9.0.0-1,0,Relay for Public Key Addressable Resource Records
+2026-11-26T06:03:51Z,port-buddy-bin,1.0.18-1,0,Expose local ports to the internet
+2026-11-26T06:03:58Z,prevail-bin,0.2.6-1,0,eBPF verifier based on abstract interpretation
+2026-11-26T06:04:06Z,prometheus-msteams-bin,1.5.4-1,0,Forward Prometheus Alertmanager notifications to Microsoft Teams
+2026-11-26T06:04:14Z,prometheus-nats-exporter-bin,0.20.3-1,0,Prometheus exporter for NATS metrics
+2026-11-26T06:04:22Z,readflow-bin,1.2.0-1,0,Versatile and simple read-it-later news reader
+2026-11-26T06:04:29Z,reductstore-bin,1.21.8-1,0,Time-indexed object storage for robotics and industrial IoT
+2026-11-26T06:04:37Z,rfxgen-bin,5.0-1,0,Simple and easy-to-use sound effects generator
+2026-11-26T06:04:40Z,homebutler-bin,1.9.0-1,0,"Tells you what changed on your server, only what is worth telling"
+2026-11-26T06:04:45Z,rota-bin,2.3.0-1,0,Proxy rotation engine with IP management and health monitoring
+2026-11-26T06:04:48Z,hookdeck-cli-bin,3.2.0-1,0,Forward webhooks to localhost and manage Hookdeck Event Gateway resources
+2026-11-26T06:04:53Z,s3-proxy-bin,5.3.0-1,0,"S3 reverse proxy with GET, PUT and DELETE and OpenID Connect or Basic authentication"
+2026-11-26T06:05:01Z,salvanza_client-bin,2.0.0-1,0,Backup client for Proxmox Backup Server
+2026-11-26T06:05:08Z,samloader-rs-bin,2.2.0-1,0,Samsung firmware download and flash tool
+2026-11-26T06:05:17Z,sgpt-bin,2.21.3-1,0,"Query OpenAI models, generate shell commands and code from the terminal"
+2026-11-26T06:05:25Z,smfs-bin,0.0.5-1,0,"Filesystem for AI agents with retrieval, memory profiles and sync"
+2026-11-26T06:05:32Z,threatcl-bin,0.6.14-1,0,Document threat models with HCL
+2026-11-26T06:05:35Z,idpbuilder-bin,0.10.2-1,0,Spin up a complete internal developer platform with only Docker
+2026-11-26T06:05:40Z,vscli-bin,1.3.3-1,0,CLI and TUI for launching VS Code projects with a focus on dev containers
+2026-11-26T06:05:48Z,webhook-tester-bin,2.3.0-1,0,Test webhooks and HTTP requests
+2026-11-26T06:06:31Z,isaiah-bin,1.36.9-1,0,Self-hosted web clone of lazydocker
+2026-11-26T06:06:46Z,k8tz-bin,0.22.0-1,0,Inject timezones into Kubernetes Pods and CronJobs
+2026-11-26T06:06:54Z,kubectl-foreach-bin,0.3.0-1,0,Run kubectl commands across multiple contexts in parallel
+2026-11-26T06:07:02Z,labctl-bin,0.1.116-1,0,Start remote iximiuz Labs microVM playgrounds from the command line
+2026-11-26T06:07:03Z,jmal-cloud-server-bin,2.16.10-1,0,Self-hosted private cloud storage
+2026-11-26T06:07:10Z,liza-bin,0.10.0-1,0,Disciplined multi-agent coding system
+2026-11-26T06:07:13Z,jormungandr-bin,0.15.1-1,0,Cardano Jormungandr blockchain node
+2026-11-26T06:07:18Z,mcpstore-bin,2.3.2-1,0,Manage MCP services
+2026-11-26T06:07:31Z,mixin-bin,0.16.10-1,0,Reference implementation of the Mixin BFT-DAG network
+2026-11-26T06:07:38Z,jshunter-bin,0.8-1,0,Analyze JavaScript files and extract endpoints
+2026-11-26T06:07:38Z,noisia-bin,0.4.0-1,0,Harmful workload generator for PostgreSQL testing
+2026-11-26T06:07:45Z,json-repair-bin,0.0.19-1,0,Repair malformed JSON from LLMs
+2026-11-26T06:07:48Z,pear-bin,3.7.0-1,0,Peer-to-peer install and deploy CLI
+2026-11-26T06:07:57Z,prom2json-bin,1.5.0-1,0,Scrape a Prometheus client and dump the result as JSON
+2026-11-26T06:08:05Z,resend-cli-bin,2.30.0-1,0,Command-line interface for the Resend email API
+2026-11-26T06:08:13Z,rf-swift-bin,4.1.1-1,0,"RF toolbox that deploys radio, hardware and security tools in containers"
+2026-11-26T06:08:21Z,rimage-bin,0.14.0-1,0,Image optimization CLI inspired by Squoosh
+2026-11-26T06:08:29Z,script_exporter-bin,3.3.0-1,0,Prometheus exporter that runs scripts and collects metrics from their output
+2026-11-26T06:08:36Z,sherif-bin,1.13.0-1,0,"Opinionated, zero-config linter for TypeScript and JavaScript monorepos"
+2026-11-26T06:08:42Z,kcctl-bin,1.0.0.CR5-1,0,Command-line client for Kafka Connect
+2026-11-26T06:08:45Z,shield-bin,9.0.2-1,0,Backup and restore system for a wide variety of pluggable data systems
+2026-11-26T06:08:53Z,sipexer-bin,2.1.0-1,0,Flexible SIP and VoIP command-line tool
+2026-11-26T06:09:01Z,slashdocs-bin,0.5.0-1,0,Let AI agents publish reviewable HTML documents
+2026-11-26T06:09:09Z,sower-bin,1.8.0-1,0,Cross-platform transparent proxy
+2026-11-26T06:09:16Z,spray-bin,0.3.2-1,0,"Precise, user-friendly HTTP fuzzer"
+2026-11-26T06:09:24Z,the0-bin,1.25.0-1,0,Open-source algorithmic trading engine
+2026-11-26T06:09:32Z,kite-mcp-server-bin,0.3.2-1,0,MCP server for the Zerodha Kite trading API
+2026-11-26T06:10:00Z,komoplane-bin,0.2.1-1,0,Crossplane troubleshooting tool
+2026-11-26T06:10:08Z,koto-bin,0.16.1-1,0,"Simple, expressive, embeddable programming language"
+2026-11-26T06:10:40Z,kubectl-klock-bin,0.9.3-1,0,kubectl plugin that renders watch output more readably
+2026-11-26T06:10:48Z,mikochi-bin,1.14.1-1,0,Minimalist file manager with streaming
+2026-11-26T06:10:56Z,mithril-bin,0.4.0-1,0,"IoT static scanner for secrets, SBOMs and CVEs"
+2026-11-26T06:11:04Z,mycart-bin,0.2.11-1,0,Single-file shopping cart with card and cryptocurrency payments
+2026-11-26T06:11:12Z,network_exporter-bin,2.0.0-1,0,"Prometheus exporter for ICMP, MTR, TCP port and HTTP checks"
+2026-11-26T06:11:19Z,openapi-mock-bin,0.3.9-1,0,OpenAPI mock server with random data generation
+2026-11-26T06:11:27Z,open-browser-use-bin,1.1.0-1,0,Real Chrome automation for AI agents via CLI and SDKs
+2026-11-26T06:11:35Z,opendev-bin,0.1.9-1,0,Open-source coding agent for the terminal
+2026-11-26T06:11:43Z,oxia-bin,0.16.13-1,0,Metadata store and coordination system
+2026-11-26T06:11:50Z,oxish-bin,0.1.0-1,0,Memory-safe SSH server
+2026-11-26T06:11:58Z,pacaptr-bin,0.23.2-1,0,Pacman-like syntax wrapper for many package managers
+2026-11-26T06:12:06Z,parakeet-bin,0.12.0-1,0,Whisper-compatible speech recognition server using NVIDIA Parakeet
+2026-11-26T06:12:14Z,prom-label-proxy-bin,0.16.2-1,0,Proxy that enforces a label in PromQL queries
+2026-11-26T06:12:18Z,leptosfmt-bin,0.1.34-1,0,Formatter for the Leptos view! macro
+2026-11-26T06:12:22Z,ratchet-bin,0.12.0-1,0,Secure CI/CD workflows by pinning versions
+2026-11-26T06:12:30Z,rospo-bin,0.15.3-1,0,Persistent SSH tunnels with an embedded server
+2026-11-26T06:12:38Z,rundler-bin,0.11.0-1,0,ERC-4337 bundler in Rust
+2026-11-26T06:12:46Z,rushdb-bin,3.0.15-1,0,"Graph, vector and analytics database for AI agents"
+2026-11-26T06:12:53Z,scenarigo-bin,0.29.0-1,0,End-to-end scenario testing for HTTP and gRPC servers
+2026-11-26T06:13:01Z,socks5lb-bin,1.3.0-1,0,SOCKS5 proxy load balancer and transparent proxy
+2026-11-26T06:13:09Z,sqlvet-bin,1.2.0-1,0,Static analysis of raw SQL queries in Go code
+2026-11-26T06:13:17Z,tokless-bin,1.0.16-1,0,Set up coding agents with tools and unified instructions quickly
+2026-11-26T06:13:25Z,traefik-kop-bin,0.21.0-1,0,Docker to Redis to Traefik service discovery agent

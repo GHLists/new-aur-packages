@@ -1,10 +1,10 @@
 {
   "list": {
-    "count": 3,
-    "from": "2026-11-26T04:18:26.285996Z",
-    "path": "data/new-aur-packages-2026-11-26T05-21-14-265305Z.csv",
-    "to": "2026-11-26T05:21:14.265305Z"
+    "count": 100,
+    "from": "2026-11-26T05:21:14.265305Z",
+    "path": "data/new-aur-packages-2026-11-26T06-19-06-595674Z.csv",
+    "to": "2026-11-26T06:19:06.595674Z"
   },
-  "source_truncated": false,
-  "window": "2026-11-26T05:21:14.265305Z"
+  "source_truncated": true,
+  "window": "2026-11-26T06:19:06.595674Z"
 }
