@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-26T22:29:34Z,qt6-imvqml,0.1.3-1,0,Qt Quick image pipeline with an isolated decoder
+2026-11-26T22:48:52Z,skwird-bin,0.3.0-1,0,"An index of file names kept current, answered over a local socket (its release's build)"
+2026-11-26T22:52:02Z,tubeglass-bin,0.3.0-1,0,"YouTube, YouTube Music and podcast desktop client, no account or API key needed"
+2026-11-26T22:54:31Z,narcolepsyd,0.1.0-2,0,An idle power optimizer for Linux laptops with Intel hybrid CPUs
+2026-11-26T22:56:05Z,fileconverter,1.4.1-1,0,Right-click file conversion for your Linux file manager (ffmpeg / ImageMagick / LibreOffice)
+2026-11-26T23:08:34Z,fileconverter-git,1.4.1.r40.g98f37af-1,0,Right-click file conversion for your Linux file manager (ffmpeg / ImageMagick / LibreOffice) — git build
