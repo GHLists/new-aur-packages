@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-26T06:26:11Z,dwproton-azur-patch,11.0_17-2,0,Wine driver overlay for dwproton: lets Azur Promilia mj_sdk (Qt/CEF) windows render and take input under Wine
+2026-11-26T06:29:20Z,dwproton-binfmt,1-1,0,让内核把 PE 可执行文件交给 dwproton 启动（binfmt_misc 注册，重启后依然有效）
+2026-11-26T07:11:08Z,pinshot-bin,0.1.0-1,0,"Lightweight Wayland screenshot, screen-pinning, scrolling capture and GIF tool for GNOME Shell (prebuilt binary)"
+2026-11-26T07:16:39Z,pinshot,0.1.0-1,0,"Lightweight Wayland screenshot, screen-pinning, scrolling capture and GIF tool for GNOME Shell"
