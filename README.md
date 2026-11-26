@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 14:21 UTC
+## Latest list — 2026-11-26 15:21 UTC
 
-New packages created between 2026-11-26 13:21 UTC and 2026-11-26 14:21 UTC.
+New packages created between 2026-11-26 14:21 UTC and 2026-11-26 15:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-26T14-21-14-134311Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-26T15-21-48-762437Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-26 14:05:22 | [mihome-pc-bin](https://aur.archlinux.org/packages/mihome-pc-bin) | 0.7.38-1 | 0 | Unofficial desktop client for Mi Home devices with a local web UI |
+| 2026-11-26 14:55:26 | [mime-bin](https://aur.archlinux.org/packages/mime-bin) | 0.0.2-1 | 0 | Running Windows programs on macOS and Linux by reimplementing Windows |
 
 ## Data source
 
