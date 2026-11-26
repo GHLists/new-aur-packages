@@ -12,20 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 08:19 UTC
+## Latest list — 2026-11-26 09:21 UTC
 
-New packages created between 2026-11-26 07:21 UTC and 2026-11-26 08:19 UTC.
+New packages created between 2026-11-26 08:19 UTC and 2026-11-26 09:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-26T08-19-12-631056Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-26T09-21-06-463204Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-26 07:36:00 | [promptr](https://aur.archlinux.org/packages/promptr) | 0.3.0-1 | 0 | Native GTK4 chat frontend with independent provider plugins |
-| 2026-11-26 07:45:58 | [minipg-bin](https://aur.archlinux.org/packages/minipg-bin) | 0.3-1 | 0 | PostgreSQL as a single executable |
-| 2026-11-26 08:00:40 | [kiri-screenshot-bin](https://aur.archlinux.org/packages/kiri-screenshot-bin) | 1.6.43-1 | 0 | Screenshot, annotation, OCR and screen recording workspace |
-| 2026-11-26 08:03:52 | [cfluxdo-bin](https://aur.archlinux.org/packages/cfluxdo-bin) | 1.3.4-1 | 0 | Third-party linux.do client with ECH direct connection and node selection |
-| 2026-11-26 08:03:56 | [openrockcli-git](https://aur.archlinux.org/packages/openrockcli-git) | 1+r0+g039ed3a-1 | 0 | A command-line and lightweight TUI firmware flashing tool for Rockchip SoCs |
-| 2026-11-26 08:13:50 | [openrockcli](https://aur.archlinux.org/packages/openrockcli) | 1-1 | 0 | A command-line and lightweight TUI firmware flashing tool for Rockchip SoCs |
+| 2026-11-26 08:24:43 | [conmuta-bin](https://aur.archlinux.org/packages/conmuta-bin) | 1.2.1-1 | 0 | Network profile switcher for IP, gateway and DNS with connectivity diagnostics |
+| 2026-11-26 08:26:47 | [minotari](https://aur.archlinux.org/packages/minotari) | 6.2.0-1 | 0 | Tari layer 1 mainnet node, wallet, mining, and utility applications |
+| 2026-11-26 09:02:37 | [deucessh-git](https://aur.archlinux.org/packages/deucessh-git) | 1.0.0.r532.79c3bc8-1 | 0 | SSH client and server library (development version) |
 
 ## Data source
 
