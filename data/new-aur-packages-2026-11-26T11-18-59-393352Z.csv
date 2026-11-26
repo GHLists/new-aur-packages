@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-26T10:49:41Z,kalliope-bin,0.1-1,0,"Type, and be heard in video calls: a local voice through a virtual microphone"
+2026-11-26T11:02:55Z,overbright-bin,0.6.2-1,1,Native reimplementation of Need for Speed: Underground 2 in Rust and wgpu (requires original PC game files)
+2026-11-26T11:06:45Z,easy-music-bin,0.1.7-1,0,Music player for local files and HTTPS audio streams
