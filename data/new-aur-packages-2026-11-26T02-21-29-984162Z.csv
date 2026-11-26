@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-26T01:27:36Z,okular-backend-libofd,0.2.0-1,0,Standalone Open Fixed-layout Document (OFD) reader plugin for Okular
+2026-11-26T01:45:29Z,redragon-rgb-bin,0.3.0-1,0,GTK4/libadwaita app and CLI to configure RGB lighting on Redragon M711 mice and K556 keyboards
+2026-11-26T02:06:35Z,ordet-bin,0.1.1-1,1,"A local-first, distraction-free word processor for the terminal"
+2026-11-26T02:15:03Z,microsoft-authentication-cli-bin,0.9.8-1,0,Command-line utility for Microsoft Entra authentication (AzureAuth)
