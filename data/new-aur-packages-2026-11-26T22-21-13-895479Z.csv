@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-26T21:23:28Z,c64uv,0.4.0-1,0,"Viewer for the C64 Ultimate / Ultimate 64: video and audio streaming, remote keyboard, gamepad, mouse and menu"
+2026-11-26T21:27:20Z,whatsit,5.0.3-1,0,"Lightweight (KDE) native Qt6 WhatsApp Web client, pinned to a release tag instead of tracking master"
+2026-11-26T21:48:48Z,pandare2-bin,1.0.42-1,0,"Python interface for panda-ng, bundled with the QEMU 11.1 engine (binary release)"
+2026-11-26T22:15:04Z,zensmu-bin,0.1.1-1,0,"Safety-first Rust CLI, live TUI, and unprivileged GUI for AMD Ryzen SMU control and telemetry (prebuilt binary)"
+2026-11-26T22:15:16Z,zensmu-git,0.1.1.r0.gc458c83-1,0,"Safety-first Rust CLI, live TUI, and unprivileged GUI for AMD Ryzen SMU control and telemetry"
+2026-11-26T22:15:40Z,zejtron-bin,11.0.0-1,1,"Unified Linux introspection toolkit for paths, ports, processes, files, services, and diagnostics"
+2026-11-26T22:18:00Z,jarvy-bin,,,"Fast, cross-platform CLI that installs and manages developer tools (binary release)"
