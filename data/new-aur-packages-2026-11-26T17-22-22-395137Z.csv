@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-26T16:19:55Z,kwin-effect-snow,0.3.2-1,0,Native KWin effect that renders falling snow on windows and panels
+2026-11-26T16:52:41Z,tray-idle-inhibitor,0.1.1-1,0,Апплет трея: инхибитор idle для Wayland (labwc/LXQt) — wayland + logind
+2026-11-26T16:57:02Z,remya-launcher,0.1.0-1,0,Application launcher and clipboard history for Hyprland
+2026-11-26T16:57:28Z,remya-launcher-bin,0.1.0-1,0,Application launcher and clipboard history for Hyprland
+2026-11-26T16:58:29Z,authfy,0.1.0-1,0,PAM exec two-factor authenticator backed by ntfy push notifications
+2026-11-26T17:14:20Z,cosmic-ext-manager,0.1.0-1,0,"Browse, install, update and remove community COSMIC extensions"
+2026-11-26T17:14:29Z,cosmic-ext-manager-bin,0.1.0-1,0,"Browse, install, update and remove community COSMIC extensions (prebuilt binary)"
+2026-11-26T17:14:38Z,cosmic-ext-manager-git,0.1.0-1,0,"Browse, install, update and remove community COSMIC extensions"

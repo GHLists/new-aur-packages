@@ -12,31 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 16:19 UTC
+## Latest list — 2026-11-26 17:22 UTC
 
-New packages created between 2026-11-26 15:21 UTC and 2026-11-26 16:19 UTC.
+New packages created between 2026-11-26 16:19 UTC and 2026-11-26 17:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-26T16-19-33-007823Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-26T17-22-22-395137Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-26 15:27:41 | [python-perf_baseline](https://aur.archlinux.org/packages/python-perf_baseline) | 0.1.0-1 | 1 | A performance regression detection tool for Python projects |
-| 2026-11-26 15:46:28 | [md2pdf-alchemy](https://aur.archlinux.org/packages/md2pdf-alchemy) | 0.2.1-1 | 0 | Convert Markdown to PDF, with customizable JSON5 styles and bundled fonts |
-| 2026-11-26 15:47:05 | [kwin-kiri](https://aur.archlinux.org/packages/kwin-kiri) | 1.1-1 | 1 | Scrollable tiling KWin script in the style of niri (Karousel fork) |
-| 2026-11-26 16:10:05 | [loom-niri-git](https://aur.archlinux.org/packages/loom-niri-git) | r3924.g1e65c07-1 | 0 | niri-based compositor for Loom, coexisting with niri |
-| 2026-11-26 16:10:05 | [loom-niri-replace-git](https://aur.archlinux.org/packages/loom-niri-replace-git) | r3924.g1e65c07-1 | 0 | niri-based compositor for Loom, installed as niri |
-| 2026-11-26 16:10:05 | [loom-portal-git](https://aur.archlinux.org/packages/loom-portal-git) | r3924.g1e65c07-1 | 0 | Standalone Screenshot/ScreenCast portal backend for Loom |
-| 2026-11-26 16:10:05 | [loom-companion-git](https://aur.archlinux.org/packages/loom-companion-git) | r3924.g1e65c07-1 | 0 | Automation and parking daemon for Loom |
-| 2026-11-26 16:10:05 | [loom-monitor-git](https://aur.archlinux.org/packages/loom-monitor-git) | r3924.g1e65c07-1 | 0 | Output profile save, apply and rollback for Loom |
-| 2026-11-26 16:10:05 | [loom-session-git](https://aur.archlinux.org/packages/loom-session-git) | r3924.g1e65c07-1 | 0 | Named workspace, window and output contexts for Loom |
-| 2026-11-26 16:10:05 | [loom-shot-git](https://aur.archlinux.org/packages/loom-shot-git) | r3924.g1e65c07-1 | 0 | Screenshot capture for Loom with annotations and clipboard support |
-| 2026-11-26 16:10:05 | [loom-wallpaper-git](https://aur.archlinux.org/packages/loom-wallpaper-git) | r3924.g1e65c07-1 | 0 | Per-workspace wallpaper scenes for Loom |
-| 2026-11-26 16:10:05 | [loom-settings-git](https://aur.archlinux.org/packages/loom-settings-git) | r3924.g1e65c07-1 | 0 | GTK4/libadwaita control center and CLI for Loom |
-| 2026-11-26 16:10:05 | [loom-audio-git](https://aur.archlinux.org/packages/loom-audio-git) | r3924.g1e65c07-1 | 0 | Rule-based PipeWire audio routing for Loom |
-| 2026-11-26 16:10:05 | [loom-sidepanels-git](https://aur.archlinux.org/packages/loom-sidepanels-git) | r3924.g1e65c07-1 | 0 | Layer-shell panels with exclusive zones for Loom |
-| 2026-11-26 16:10:05 | [loom-tui-git](https://aur.archlinux.org/packages/loom-tui-git) | r3924.g1e65c07-1 | 0 | Loom dashboard for outputs, workspaces and windows |
-| 2026-11-26 16:10:05 | [loom-noctalia-plugins-git](https://aur.archlinux.org/packages/loom-noctalia-plugins-git) | r3924.g1e65c07-1 | 0 | Noctalia bar plugins for the Loom tools |
-| 2026-11-26 16:10:05 | [loom-desktop-git](https://aur.archlinux.org/packages/loom-desktop-git) | r3924.g1e65c07-1 | 0 | Meta package for Loom: coexisting compositor, portal and tools |
+| 2026-11-26 16:19:55 | [kwin-effect-snow](https://aur.archlinux.org/packages/kwin-effect-snow) | 0.3.2-1 | 0 | Native KWin effect that renders falling snow on windows and panels |
+| 2026-11-26 16:52:41 | [tray-idle-inhibitor](https://aur.archlinux.org/packages/tray-idle-inhibitor) | 0.1.1-1 | 0 | Апплет трея: инхибитор idle для Wayland (labwc/LXQt) — wayland + logind |
+| 2026-11-26 16:57:02 | [remya-launcher](https://aur.archlinux.org/packages/remya-launcher) | 0.1.0-1 | 0 | Application launcher and clipboard history for Hyprland |
+| 2026-11-26 16:57:28 | [remya-launcher-bin](https://aur.archlinux.org/packages/remya-launcher-bin) | 0.1.0-1 | 0 | Application launcher and clipboard history for Hyprland |
+| 2026-11-26 16:58:29 | [authfy](https://aur.archlinux.org/packages/authfy) | 0.1.0-1 | 0 | PAM exec two-factor authenticator backed by ntfy push notifications |
+| 2026-11-26 17:14:20 | [cosmic-ext-manager](https://aur.archlinux.org/packages/cosmic-ext-manager) | 0.1.0-1 | 0 | Browse, install, update and remove community COSMIC extensions |
+| 2026-11-26 17:14:29 | [cosmic-ext-manager-bin](https://aur.archlinux.org/packages/cosmic-ext-manager-bin) | 0.1.0-1 | 0 | Browse, install, update and remove community COSMIC extensions (prebuilt binary) |
+| 2026-11-26 17:14:38 | [cosmic-ext-manager-git](https://aur.archlinux.org/packages/cosmic-ext-manager-git) | 0.1.0-1 | 0 | Browse, install, update and remove community COSMIC extensions |
 
 ## Data source
 
