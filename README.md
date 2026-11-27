@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 06:22 UTC
+## Latest list — 2026-11-27 07:19 UTC
 
-New packages created between 2026-11-27 05:20 UTC and 2026-11-27 06:22 UTC.
+New packages created between 2026-11-27 06:22 UTC and 2026-11-27 07:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T06-22-25-338317Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T07-19-06-950766Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 05:40:47 | [hghub](https://aur.archlinux.org/packages/hghub) | 0.0.5-1 | 0 | Plug-in media player |
+| 2026-11-27 06:33:45 | [flet-mcp](https://aur.archlinux.org/packages/flet-mcp) | 1.1.4-1 | 0 | Flet MCP server for LLM agents |
+| 2026-11-27 07:07:12 | [mz800emu-git](https://aur.archlinux.org/packages/mz800emu-git) | v2.0.2.preview.r150… | 0 | MZ-Sharp Emulator Suite (git version) |
+| 2026-11-27 07:16:14 | [mz800emu](https://aur.archlinux.org/packages/mz800emu) | 2.0.7-1 | 0 | Sharp MZ-800+ emulator suite |
 
 ## Data source
 
