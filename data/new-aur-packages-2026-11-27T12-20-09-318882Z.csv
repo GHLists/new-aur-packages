@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-27T11:38:16Z,puppetxr,0.2.0-1,0,OpenXR simulator runtime: simulated headset and controllers driven by keyboard and mouse
+2026-11-27T11:38:58Z,kitesurf-git,0.0.5.r400.gb9b904e…,0,"Kitesurf, Cloudflare's browser engine for AI agents"
+2026-11-27T11:43:49Z,puppetxr-bin,0.2.0-1,0,OpenXR simulator runtime: simulated headset and controllers driven by keyboard and mouse (prebuilt)
+2026-11-27T11:43:54Z,puppetxr-git,0.2.0.r0.ga9f9513-1,0,OpenXR simulator runtime: simulated headset and controllers driven by keyboard and mouse (git main)
+2026-11-27T12:02:12Z,python-blackjax-git,1.7.1.r24.gd5809572…,0,"Bayesian Inference library designed for ease of use, speed and modularity (git main)"
+2026-11-27T12:07:22Z,jsrf-launcher-bin,1:v3k-1,1,Launcher for native recompilation of Jet Set Radio Future (Xbox)
