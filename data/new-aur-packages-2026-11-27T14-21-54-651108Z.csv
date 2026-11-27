@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-27T13:20:22Z,flashkit-md,0.1.0.r5.g3aa95b9-1,0,"Read, write, and inspect Mega Drive / 32X cartridges with FlashKit MD"
+2026-11-27T13:47:33Z,gplatch,1.0.0-1,0,"Free system tray client for GlobalProtect VPNs, built on gpclient"
+2026-11-27T13:55:02Z,swaygx-git,0.6.1.r7.g7ebcee14-1,0,"Sway, but with eye candy (swayfx fork)"
+2026-11-27T14:12:36Z,lookout-bin,0.1.0-1,0,"A fast, good-looking system monitor with Rosé Pine themes, an htop replacement with a GUI (prebuilt binary)"
+2026-11-27T14:12:53Z,lookout,0.1.0-1,0,"A fast, good-looking system monitor with Rosé Pine themes, an htop replacement with a GUI"
+2026-11-27T14:15:43Z,canmonitor-git,1.0.2.r4.gcc28faf-1,0,CAN bus monitor built with Fyne on top of gocan v2
