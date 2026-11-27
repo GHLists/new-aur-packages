@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 22:21 UTC
+## Latest list — 2026-11-27 23:21 UTC
 
-New packages created between 2026-11-27 21:21 UTC and 2026-11-27 22:21 UTC.
+New packages created between 2026-11-27 22:21 UTC and 2026-11-27 23:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T22-21-22-679727Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T23-21-47-297508Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 21:30:21 | [hid-logitech-k400plus-dkms](https://aur.archlinux.org/packages/hid-logitech-k400plus-dkms) | 0.4-1 | 0 | Modified hid-logitech-hidpp kernel module, providing native multitouch support… |
-| 2026-11-27 21:38:01 | [zoyi_gui](https://aur.archlinux.org/packages/zoyi_gui) | 0.1.4-1 | 0 | Desktop app for the ZOYI ZT703S and ZT706S scopemeters running OpenOSC firmware |
-| 2026-11-27 22:17:42 | [ridge-racer-type-4-pc-bin](https://aur.archlinux.org/packages/ridge-racer-type-4-pc-bin) |  |  | Native PC port of Ridge Racer Type 4 (upstream binary) |
+| 2026-11-27 22:29:59 | [lem-webview-nightly](https://aur.archlinux.org/packages/lem-webview-nightly) | nightly.latest.r0.g… | 1 | Common Lisp editor/IDE with Webview GUI frontend (nightly build) |
+| 2026-11-27 22:35:54 | [nythera-lib-git](https://aur.archlinux.org/packages/nythera-lib-git) | 0.1.0.r17.gbc201312… | 0 | Shared infrastructure for Nythera Shell and Files |
+| 2026-11-27 22:37:29 | [nythera-files-git](https://aur.archlinux.org/packages/nythera-files-git) | 0.1.0.r23.gd3f8a4a1… | 0 | Nythera Files native Wayland file manager |
+| 2026-11-27 22:52:47 | [pgboxdb-bin](https://aur.archlinux.org/packages/pgboxdb-bin) | 0.2.0-1 | 0 | Lightweight Postgres for AI agents: thousands of isolated databases in one runt… |
+| 2026-11-27 23:13:15 | [pgbook-bin](https://aur.archlinux.org/packages/pgbook-bin) | 0.2.0-1 | 0 | Postgres Book in the terminal, one topic at a time |
 
 ## Data source
 

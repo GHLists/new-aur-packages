@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-27T22:29:59Z,lem-webview-nightly,nightly.latest.r0.g…,1,Common Lisp editor/IDE with Webview GUI frontend (nightly build)
+2026-11-27T22:35:54Z,nythera-lib-git,0.1.0.r17.gbc201312…,0,Shared infrastructure for Nythera Shell and Files
+2026-11-27T22:37:29Z,nythera-files-git,0.1.0.r23.gd3f8a4a1…,0,Nythera Files native Wayland file manager
+2026-11-27T22:52:47Z,pgboxdb-bin,0.2.0-1,0,Lightweight Postgres for AI agents: thousands of isolated databases in one runtime (formerly PGX)
+2026-11-27T23:13:15Z,pgbook-bin,0.2.0-1,0,"Postgres Book in the terminal, one topic at a time"
