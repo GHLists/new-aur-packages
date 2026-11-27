@@ -12,20 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 12:20 UTC
+## Latest list — 2026-11-27 13:19 UTC
 
-New packages created between 2026-11-27 11:19 UTC and 2026-11-27 12:20 UTC.
+New packages created between 2026-11-27 12:20 UTC and 2026-11-27 13:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T12-20-09-318882Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T13-19-00-524945Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 11:38:16 | [puppetxr](https://aur.archlinux.org/packages/puppetxr) | 0.2.0-1 | 0 | OpenXR simulator runtime: simulated headset and controllers driven by keyboard… |
-| 2026-11-27 11:38:58 | [kitesurf-git](https://aur.archlinux.org/packages/kitesurf-git) | 0.0.5.r400.gb9b904e… | 0 | Kitesurf, Cloudflare's browser engine for AI agents |
-| 2026-11-27 11:43:49 | [puppetxr-bin](https://aur.archlinux.org/packages/puppetxr-bin) | 0.2.0-1 | 0 | OpenXR simulator runtime: simulated headset and controllers driven by keyboard… |
-| 2026-11-27 11:43:54 | [puppetxr-git](https://aur.archlinux.org/packages/puppetxr-git) | 0.2.0.r0.ga9f9513-1 | 0 | OpenXR simulator runtime: simulated headset and controllers driven by keyboard… |
-| 2026-11-27 12:02:12 | [python-blackjax-git](https://aur.archlinux.org/packages/python-blackjax-git) | 1.7.1.r24.gd5809572… | 0 | Bayesian Inference library designed for ease of use, speed and modularity (git… |
-| 2026-11-27 12:07:22 | [jsrf-launcher-bin](https://aur.archlinux.org/packages/jsrf-launcher-bin) | 1:v3k-1 | 1 | Launcher for native recompilation of Jet Set Radio Future (Xbox) |
+| 2026-11-27 12:27:12 | [xiaomi-region-detector](https://aur.archlinux.org/packages/xiaomi-region-detector) | 1.0.0-1 | 1 | Detect the firmware region of a Xiaomi device from its build number (CLI) |
+| 2026-11-27 12:41:37 | [libfprint-fte3600-bin](https://aur.archlinux.org/packages/libfprint-fte3600-bin) | 1.94.100.r97-1 | 0 | Prebuilt libfprint with FTE3600 SPI fingerprint support, DKMS glue, and toolkit |
+| 2026-11-27 12:59:28 | [domainager](https://aur.archlinux.org/packages/domainager) | 1.0.3-1 | 0 | Domain management CLI for multiple registrars (Namecheap, Cloudflare, Njalla) |
 
 ## Data source
 
