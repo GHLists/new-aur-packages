@@ -12,15 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 19:19 UTC
+## Latest list — 2026-11-27 20:19 UTC
 
-New packages created between 2026-11-27 18:21 UTC and 2026-11-27 19:19 UTC.
+New packages created between 2026-11-27 19:19 UTC and 2026-11-27 20:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T19-19-42-00824Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T20-19-20-767681Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 18:50:19 | [archoxide-git](https://aur.archlinux.org/packages/archoxide-git) | r35.8c6c6a5-1 | 0 | Keyboard-driven terminal UI for Arch packages, Flatpaks, and AppImages |
+| 2026-11-27 19:51:11 | [otf-allo](https://aur.archlinux.org/packages/otf-allo) | 1.1.0-1 | 0 | A friendly, free, and open source font family |
+| 2026-11-27 19:51:11 | [woff2-allo](https://aur.archlinux.org/packages/woff2-allo) | 1.1.0-1 | 0 | A friendly, free, and open source font family |
+| 2026-11-27 19:51:11 | [ttf-allo](https://aur.archlinux.org/packages/ttf-allo) | 1.1.0-1 | 0 | A friendly, free, and open source font family |
 
 ## Data source
 
