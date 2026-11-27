@@ -1,0 +1,8 @@
+created_at,package,version,votes,description
+2026-11-27T15:36:05Z,kb-indicator-rs,0.1.0-1,0,Индикатор раскладки клавиатуры в системном трее Wayland (LXQt/labwc)
+2026-11-27T15:37:27Z,fizzbee,0.5.4-1,0,Formal specification language and model checker to specify distributed systems
+2026-11-27T15:41:08Z,ttf-helix-mono,1.0-1,0,Monospace typeface by HelixDB (TTF format)
+2026-11-27T15:41:08Z,woff2-helix-mono,1.0-1,0,"Monospace typeface by HelixDB (WOFF2 format, for the web)"
+2026-11-27T15:52:05Z,beluga-git,v0.8.1.r190.3d50c74…,0,Beluga is a functional programming language designed for reasoning about formal systems. It features direct support for object-level binding constructs using higher order abstract syntax and treats contexts as first class objects.
+2026-11-27T15:53:58Z,cefore,0.12.1-1,0,ICN platform using CCNx-1.0 messages (RFC8569/RFC8609)
+2026-11-27T15:55:11Z,mare-bin,1.0.0-1,0,"Hyperextensible AI coding agent harness (Rust core, Lua 5.5 plugins)"

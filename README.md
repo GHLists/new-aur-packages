@@ -12,15 +12,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 15:20 UTC
+## Latest list — 2026-11-27 16:20 UTC
 
-New packages created between 2026-11-27 14:21 UTC and 2026-11-27 15:20 UTC.
+New packages created between 2026-11-27 15:20 UTC and 2026-11-27 16:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T15-20-13-082292Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T16-20-39-84345Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 14:40:46 | [komet-bin](https://aur.archlinux.org/packages/komet-bin) | 0.5.0_dev.23-1 | 0 | Multifunctional MAX client (prebuilt Flutter desktop application) |
+| 2026-11-27 15:36:05 | [kb-indicator-rs](https://aur.archlinux.org/packages/kb-indicator-rs) | 0.1.0-1 | 0 | Индикатор раскладки клавиатуры в системном трее Wayland (LXQt/labwc) |
+| 2026-11-27 15:37:27 | [fizzbee](https://aur.archlinux.org/packages/fizzbee) | 0.5.4-1 | 0 | Formal specification language and model checker to specify distributed systems |
+| 2026-11-27 15:41:08 | [ttf-helix-mono](https://aur.archlinux.org/packages/ttf-helix-mono) | 1.0-1 | 0 | Monospace typeface by HelixDB (TTF format) |
+| 2026-11-27 15:41:08 | [woff2-helix-mono](https://aur.archlinux.org/packages/woff2-helix-mono) | 1.0-1 | 0 | Monospace typeface by HelixDB (WOFF2 format, for the web) |
+| 2026-11-27 15:52:05 | [beluga-git](https://aur.archlinux.org/packages/beluga-git) | v0.8.1.r190.3d50c74… | 0 | Beluga is a functional programming language designed for reasoning about formal… |
+| 2026-11-27 15:53:58 | [cefore](https://aur.archlinux.org/packages/cefore) | 0.12.1-1 | 0 | ICN platform using CCNx-1.0 messages (RFC8569/RFC8609) |
+| 2026-11-27 15:55:11 | [mare-bin](https://aur.archlinux.org/packages/mare-bin) | 1.0.0-1 | 0 | Hyperextensible AI coding agent harness (Rust core, Lua 5.5 plugins) |
 
 ## Data source
 
