@@ -12,16 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 00:21 UTC
+## Latest list — 2026-11-27 01:20 UTC
 
-New packages created between 2026-11-26 23:20 UTC and 2026-11-27 00:21 UTC.
+New packages created between 2026-11-27 00:21 UTC and 2026-11-27 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T00-21-14-813369Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T01-20-35-039613Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-26 23:39:02 | [bbscord](https://aur.archlinux.org/packages/bbscord) | 1.0.0-1 | 0 | Retro BBS-styled Rust Discord TUI with DAVE E2EE voice, WebRTC video, and GIFs |
-| 2026-11-26 23:47:39 | [vds-mango](https://aur.archlinux.org/packages/vds-mango) | 0.5.0beta1-1 | 0 | Bluetooth DualSense as a virtual USB one: haptics, adaptive triggers, speaker a… |
+| 2026-11-27 00:43:48 | [vimma-bin](https://aur.archlinux.org/packages/vimma-bin) | 0.1.24-1 | 1 | Keyboard-first web browser built on Firefox, with Neovim-style modes and a tmux… |
+| 2026-11-27 01:13:25 | [procharbor-bin](https://aur.archlinux.org/packages/procharbor-bin) | 1.3.0-1 | 1 | A lightweight native Linux task manager and system monitor |
+| 2026-11-27 01:18:14 | [kwiklook](https://aur.archlinux.org/packages/kwiklook) |  |  | Quick previews of files from Dolphin |
 
 ## Data source
 

@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-27T00:43:48Z,vimma-bin,0.1.24-1,1,"Keyboard-first web browser built on Firefox, with Neovim-style modes and a tmux-style prefix keymap"
+2026-11-27T01:13:25Z,procharbor-bin,1.3.0-1,1,A lightweight native Linux task manager and system monitor
+2026-11-27T01:18:14Z,kwiklook,,,Quick previews of files from Dolphin
