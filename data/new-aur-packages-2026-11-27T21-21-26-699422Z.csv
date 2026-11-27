@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-27T20:44:38Z,r4ge-bin,1.0.0-2,1,Godot reimplementation of Ridge Racer Type 4 using data from your own US disc image
+2026-11-27T20:48:25Z,cosmic-ext-tasks-git,0.4.2.r0.g121ae5f-1,0,A simple task management application for the COSMIC desktop.
+2026-11-27T21:14:37Z,archoxide-bin,0.1.0-14,0,"Keyboard-driven terminal UI for Arch packages, Flatpaks, and AppImages (prebuilt)"

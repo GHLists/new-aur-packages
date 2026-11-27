@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 20:19 UTC
+## Latest list — 2026-11-27 21:21 UTC
 
-New packages created between 2026-11-27 19:19 UTC and 2026-11-27 20:19 UTC.
+New packages created between 2026-11-27 20:19 UTC and 2026-11-27 21:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T20-19-20-767681Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T21-21-26-699422Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 19:51:11 | [otf-allo](https://aur.archlinux.org/packages/otf-allo) | 1.1.0-1 | 0 | A friendly, free, and open source font family |
-| 2026-11-27 19:51:11 | [woff2-allo](https://aur.archlinux.org/packages/woff2-allo) | 1.1.0-1 | 0 | A friendly, free, and open source font family |
-| 2026-11-27 19:51:11 | [ttf-allo](https://aur.archlinux.org/packages/ttf-allo) | 1.1.0-1 | 0 | A friendly, free, and open source font family |
+| 2026-11-27 20:44:38 | [r4ge-bin](https://aur.archlinux.org/packages/r4ge-bin) | 1.0.0-2 | 1 | Godot reimplementation of Ridge Racer Type 4 using data from your own US disc i… |
+| 2026-11-27 20:48:25 | [cosmic-ext-tasks-git](https://aur.archlinux.org/packages/cosmic-ext-tasks-git) | 0.4.2.r0.g121ae5f-1 | 0 | A simple task management application for the COSMIC desktop. |
+| 2026-11-27 21:14:37 | [archoxide-bin](https://aur.archlinux.org/packages/archoxide-bin) | 0.1.0-14 | 0 | Keyboard-driven terminal UI for Arch packages, Flatpaks, and AppImages (prebuil… |
 
 ## Data source
 
