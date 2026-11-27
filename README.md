@@ -12,17 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 07:19 UTC
+## Latest list — 2026-11-27 08:20 UTC
 
-New packages created between 2026-11-27 06:22 UTC and 2026-11-27 07:19 UTC.
+New packages created between 2026-11-27 07:19 UTC and 2026-11-27 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T07-19-06-950766Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T08-20-44-718858Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 06:33:45 | [flet-mcp](https://aur.archlinux.org/packages/flet-mcp) | 1.1.4-1 | 0 | Flet MCP server for LLM agents |
-| 2026-11-27 07:07:12 | [mz800emu-git](https://aur.archlinux.org/packages/mz800emu-git) | v2.0.2.preview.r150… | 0 | MZ-Sharp Emulator Suite (git version) |
-| 2026-11-27 07:16:14 | [mz800emu](https://aur.archlinux.org/packages/mz800emu) | 2.0.7-1 | 0 | Sharp MZ-800+ emulator suite |
+| 2026-11-27 07:33:02 | [astralparty-toys-bin](https://aur.archlinux.org/packages/astralparty-toys-bin) | 2.5.2-1 | 0 | Astral Party toolbox (AstralParty.Toys): the official Windows build, run throug… |
+| 2026-11-27 07:43:48 | [libfprint-fte3600-git](https://aur.archlinux.org/packages/libfprint-fte3600-git) | 1.94.100.r94-1 | 0 | libfprint with FTE3600 SPI fingerprint support, DKMS glue, and toolkit |
+| 2026-11-27 07:53:37 | [cremniy](https://aur.archlinux.org/packages/cremniy) | 0.4.0-2 | 0 | Integrated low-level development environment with code editor, HEX editor and d… |
+| 2026-11-27 07:53:54 | [cremniy-git](https://aur.archlinux.org/packages/cremniy-git) | r815.9ac8198-2 | 0 | Integrated low-level development environment with code editor, HEX editor and d… |
+| 2026-11-27 07:58:41 | [wallcycle-git](https://aur.archlinux.org/packages/wallcycle-git) | 0.2.0a-1 | 0 | Cross-platform wallpaper slideshow with real-time clock overlay and BT.709 lumi… |
 
 ## Data source
 
