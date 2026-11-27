@@ -12,16 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 04:20 UTC
+## Latest list — 2026-11-27 05:20 UTC
 
-New packages created between 2026-11-27 03:21 UTC and 2026-11-27 04:20 UTC.
+New packages created between 2026-11-27 04:20 UTC and 2026-11-27 05:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T04-20-39-071676Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T05-20-57-573738Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 03:39:50 | [wheatley-cli](https://aur.archlinux.org/packages/wheatley-cli) | 0.3.0-1 | 0 | Self-hosted, always-on personal AI assistant: daemon, CLI, and dashboard |
-| 2026-11-27 04:08:00 | [pasadizo-bin](https://aur.archlinux.org/packages/pasadizo-bin) | 1.15.0_alpha.14_pas… | 0 | Proxy platform derived from sing-box, for a home gateway on a lossy, filtered l… |
+| 2026-11-27 04:24:13 | [zam-web](https://aur.archlinux.org/packages/zam-web) | 1.67.15-1 | 0 | Zam Matrix Client for Web. |
+| 2026-11-27 04:46:48 | [android-tv-remote-git](https://aur.archlinux.org/packages/android-tv-remote-git) | r24.gf6f71ee-1 | 0 | Qt desktop remote for Android TV with a native NVIDIA Shield trackpad |
 
 ## Data source
 
