@@ -1,0 +1,10 @@
+created_at,package,version,votes,description
+2026-11-27T16:43:03Z,7zipl-bin,0.1.0-1,0,"7-Zip File Manager for Linux with a plain GTK 4 interface, using the system 7-Zip library (prebuilt)"
+2026-11-27T16:43:08Z,7zipl-git,0.1.0_r1_g3f13d97-1,0,"7-Zip File Manager for Linux with a plain GTK 4 interface, using the system 7-Zip library (git version)"
+2026-11-27T16:55:53Z,quectop,0.1.0-1,0,Lightweight Linux resource monitor
+2026-11-27T16:56:14Z,quectop-git,0.1.0-1,0,Lightweight Linux resource monitor
+2026-11-27T16:56:34Z,quectop-bin,0.1.0-1,0,Lightweight Linux resource monitor
+2026-11-27T16:56:54Z,quectop-hub,0.1.0-1,0,Dashboard and data collector for quectop probes
+2026-11-27T16:57:12Z,quectop-hub-git,0.1.0-1,0,Dashboard and data collector for quectop probes
+2026-11-27T16:57:32Z,quectop-hub-bin,0.1.0-1,0,Dashboard and data collector for quectop probes
+2026-11-27T17:16:45Z,cel-git,0.1.0.r16.g6560313-1,0,"Play a storyboard one keyframe per key press, and comment on it (Tauri desktop app)"
