@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 10:18 UTC
+## Latest list — 2026-11-27 11:19 UTC
 
-New packages created between 2026-11-27 09:19 UTC and 2026-11-27 10:18 UTC.
+New packages created between 2026-11-27 10:18 UTC and 2026-11-27 11:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T10-18-56-628154Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T11-19-31-119921Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 09:32:38 | [floema](https://aur.archlinux.org/packages/floema) | 1.0.1-1 | 0 | Terminal emulator for Linux where every command is a living capsule, a Genoma a… |
-| 2026-11-27 09:48:45 | [simplenote-electron-git](https://aur.archlinux.org/packages/simplenote-electron-git) | 2.27.2_md_editor_wy… | 0 | The simplest way to keep notes. |
-| 2026-11-27 09:52:12 | [rizoma](https://aur.archlinux.org/packages/rizoma) | 1.0.0-1 | 0 | File manager for Linux, a Genoma app in Bioma's style |
-| 2026-11-27 09:59:38 | [loom-cli-git](https://aur.archlinux.org/packages/loom-cli-git) | r100.1784678-1 | 0 | TUI for finding, downloading and running GGUF models with llama.cpp |
-| 2026-11-27 10:03:33 | [papilot-bin](https://aur.archlinux.org/packages/papilot-bin) | 0.14.1-1 | 0 | A desktop workspace for reading and editing LaTeX papers |
+| 2026-11-27 10:21:56 | [ngbrecomp-bin](https://aur.archlinux.org/packages/ngbrecomp-bin) | 1.0.3-1 | 1 | Ninja Gaiden Black Recompiled, packaged from the official Linux AppImage |
+| 2026-11-27 10:35:14 | [takedawn-bin](https://aur.archlinux.org/packages/takedawn-bin) | 0.3.1-1 | 1 | Native port of Burnout 3: Takedown for the original Xbox (requires your own dis… |
+| 2026-11-27 11:04:58 | [nuschl-bin](https://aur.archlinux.org/packages/nuschl-bin) | 0.3.0-1 | 0 | Voice and text chat for Mumble servers |
+| 2026-11-27 11:14:23 | [thps2x-recompiled-bin](https://aur.archlinux.org/packages/thps2x-recompiled-bin) | 2.0.2-1 | 0 | Native recompilation launcher for Tony Hawk's Pro Skater 2X (Xbox, USA) |
 
 ## Data source
 
