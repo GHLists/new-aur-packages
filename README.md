@@ -12,20 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 23:20 UTC
+## Latest list — 2026-11-27 00:21 UTC
 
-New packages created between 2026-11-26 22:21 UTC and 2026-11-26 23:20 UTC.
+New packages created between 2026-11-26 23:20 UTC and 2026-11-27 00:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-26T23-20-35-876936Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T00-21-14-813369Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-26 22:29:34 | [qt6-imvqml](https://aur.archlinux.org/packages/qt6-imvqml) | 0.1.3-1 | 0 | Qt Quick image pipeline with an isolated decoder |
-| 2026-11-26 22:48:52 | [skwird-bin](https://aur.archlinux.org/packages/skwird-bin) | 0.3.0-1 | 0 | An index of file names kept current, answered over a local socket (its release'… |
-| 2026-11-26 22:52:02 | [tubeglass-bin](https://aur.archlinux.org/packages/tubeglass-bin) | 0.3.0-1 | 0 | YouTube, YouTube Music and podcast desktop client, no account or API key needed |
-| 2026-11-26 22:54:31 | [narcolepsyd](https://aur.archlinux.org/packages/narcolepsyd) | 0.1.0-2 | 0 | An idle power optimizer for Linux laptops with Intel hybrid CPUs |
-| 2026-11-26 22:56:05 | [fileconverter](https://aur.archlinux.org/packages/fileconverter) | 1.4.1-1 | 0 | Right-click file conversion for your Linux file manager (ffmpeg / ImageMagick /… |
-| 2026-11-26 23:08:34 | [fileconverter-git](https://aur.archlinux.org/packages/fileconverter-git) | 1.4.1.r40.g98f37af-1 | 0 | Right-click file conversion for your Linux file manager (ffmpeg / ImageMagick /… |
+| 2026-11-26 23:39:02 | [bbscord](https://aur.archlinux.org/packages/bbscord) | 1.0.0-1 | 0 | Retro BBS-styled Rust Discord TUI with DAVE E2EE voice, WebRTC video, and GIFs |
+| 2026-11-26 23:47:39 | [vds-mango](https://aur.archlinux.org/packages/vds-mango) | 0.5.0beta1-1 | 0 | Bluetooth DualSense as a virtual USB one: haptics, adaptive triggers, speaker a… |
 
 ## Data source
 
