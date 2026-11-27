@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 01:20 UTC
+## Latest list — 2026-11-27 03:21 UTC
 
-New packages created between 2026-11-27 00:21 UTC and 2026-11-27 01:20 UTC.
+New packages created between 2026-11-27 02:19 UTC and 2026-11-27 03:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T01-20-35-039613Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T03-21-38-958701Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 00:43:48 | [vimma-bin](https://aur.archlinux.org/packages/vimma-bin) | 0.1.24-1 | 1 | Keyboard-first web browser built on Firefox, with Neovim-style modes and a tmux… |
-| 2026-11-27 01:13:25 | [procharbor-bin](https://aur.archlinux.org/packages/procharbor-bin) | 1.3.0-1 | 1 | A lightweight native Linux task manager and system monitor |
-| 2026-11-27 01:18:14 | [kwiklook](https://aur.archlinux.org/packages/kwiklook) |  |  | Quick previews of files from Dolphin |
+| 2026-11-27 02:20:10 | [icl-bin](https://aur.archlinux.org/packages/icl-bin) | 1.26.0-1 | 0 | Interactive Common Lisp: an enhanced REPL with editing, completion, browser UI… |
+| 2026-11-27 02:46:20 | [embargo-bin](https://aur.archlinux.org/packages/embargo-bin) | 0.21.0-1 | 1 | Mask secrets and personal data in Go logs, JSON and text |
+| 2026-11-27 02:46:39 | [jose-bin](https://aur.archlinux.org/packages/jose-bin) | 0.5.0-1 | 1 | CLI tool for JOSE (JSON Object Signing and Encryption) |
 
 ## Data source
 

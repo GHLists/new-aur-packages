@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-27T02:20:10Z,icl-bin,1.26.0-1,0,"Interactive Common Lisp: an enhanced REPL with editing, completion, browser UI and notebooks (prebuilt)"
+2026-11-27T02:46:20Z,embargo-bin,0.21.0-1,1,"Mask secrets and personal data in Go logs, JSON and text"
+2026-11-27T02:46:39Z,jose-bin,0.5.0-1,1,CLI tool for JOSE (JSON Object Signing and Encryption)
