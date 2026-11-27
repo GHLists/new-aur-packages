@@ -12,18 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 09:19 UTC
+## Latest list — 2026-11-27 10:18 UTC
 
-New packages created between 2026-11-27 08:20 UTC and 2026-11-27 09:19 UTC.
+New packages created between 2026-11-27 09:19 UTC and 2026-11-27 10:18 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T09-19-38-451248Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T10-18-56-628154Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 08:54:47 | [gpcal](https://aur.archlinux.org/packages/gpcal) | 0.1.0-1 | 0 | A simple calculator built with GPUI |
-| 2026-11-27 09:13:13 | [mark-shot-native-bin](https://aur.archlinux.org/packages/mark-shot-native-bin) | 0.2.5-1 | 0 | Native screenshot, annotation and recording tool for Wayland and X11 |
-| 2026-11-27 09:17:08 | [qbit-plugin-dl-bin](https://aur.archlinux.org/packages/qbit-plugin-dl-bin) |  |  | Finds and installs qBittorrent search plugins from allowlisted catalogs |
-| 2026-11-27 09:17:16 | [reshadelinux-bin](https://aur.archlinux.org/packages/reshadelinux-bin) |  |  | Installs the official ReShade runtime for Wine and Proton games |
+| 2026-11-27 09:32:38 | [floema](https://aur.archlinux.org/packages/floema) | 1.0.1-1 | 0 | Terminal emulator for Linux where every command is a living capsule, a Genoma a… |
+| 2026-11-27 09:48:45 | [simplenote-electron-git](https://aur.archlinux.org/packages/simplenote-electron-git) | 2.27.2_md_editor_wy… | 0 | The simplest way to keep notes. |
+| 2026-11-27 09:52:12 | [rizoma](https://aur.archlinux.org/packages/rizoma) | 1.0.0-1 | 0 | File manager for Linux, a Genoma app in Bioma's style |
+| 2026-11-27 09:59:38 | [loom-cli-git](https://aur.archlinux.org/packages/loom-cli-git) | r100.1784678-1 | 0 | TUI for finding, downloading and running GGUF models with llama.cpp |
+| 2026-11-27 10:03:33 | [papilot-bin](https://aur.archlinux.org/packages/papilot-bin) | 0.14.1-1 | 0 | A desktop workspace for reading and editing LaTeX papers |
 
 ## Data source
 

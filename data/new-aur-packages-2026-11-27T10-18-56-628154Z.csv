@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-27T09:32:38Z,floema,1.0.1-1,0,"Terminal emulator for Linux where every command is a living capsule, a Genoma app in Bioma's style"
+2026-11-27T09:48:45Z,simplenote-electron-git,2.27.2_md_editor_wy…,0,The simplest way to keep notes.
+2026-11-27T09:52:12Z,rizoma,1.0.0-1,0,"File manager for Linux, a Genoma app in Bioma's style"
+2026-11-27T09:59:38Z,loom-cli-git,r100.1784678-1,0,"TUI for finding, downloading and running GGUF models with llama.cpp"
+2026-11-27T10:03:33Z,papilot-bin,0.14.1-1,0,A desktop workspace for reading and editing LaTeX papers
