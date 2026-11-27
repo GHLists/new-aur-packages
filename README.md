@@ -12,17 +12,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 03:21 UTC
+## Latest list — 2026-11-27 04:20 UTC
 
-New packages created between 2026-11-27 02:19 UTC and 2026-11-27 03:21 UTC.
+New packages created between 2026-11-27 03:21 UTC and 2026-11-27 04:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T03-21-38-958701Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T04-20-39-071676Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 02:20:10 | [icl-bin](https://aur.archlinux.org/packages/icl-bin) | 1.26.0-1 | 0 | Interactive Common Lisp: an enhanced REPL with editing, completion, browser UI… |
-| 2026-11-27 02:46:20 | [embargo-bin](https://aur.archlinux.org/packages/embargo-bin) | 0.21.0-1 | 1 | Mask secrets and personal data in Go logs, JSON and text |
-| 2026-11-27 02:46:39 | [jose-bin](https://aur.archlinux.org/packages/jose-bin) | 0.5.0-1 | 1 | CLI tool for JOSE (JSON Object Signing and Encryption) |
+| 2026-11-27 03:39:50 | [wheatley-cli](https://aur.archlinux.org/packages/wheatley-cli) | 0.3.0-1 | 0 | Self-hosted, always-on personal AI assistant: daemon, CLI, and dashboard |
+| 2026-11-27 04:08:00 | [pasadizo-bin](https://aur.archlinux.org/packages/pasadizo-bin) | 1.15.0_alpha.14_pas… | 0 | Proxy platform derived from sing-box, for a home gateway on a lossy, filtered l… |
 
 ## Data source
 

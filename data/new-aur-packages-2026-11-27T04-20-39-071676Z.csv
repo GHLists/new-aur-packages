@@ -1,0 +1,3 @@
+created_at,package,version,votes,description
+2026-11-27T03:39:50Z,wheatley-cli,0.3.0-1,0,"Self-hosted, always-on personal AI assistant: daemon, CLI, and dashboard"
+2026-11-27T04:08:00Z,pasadizo-bin,1.15.0_alpha.14_pas…,0,"Proxy platform derived from sing-box, for a home gateway on a lossy, filtered line"
