@@ -12,16 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 05:20 UTC
+## Latest list — 2026-11-27 06:22 UTC
 
-New packages created between 2026-11-27 04:20 UTC and 2026-11-27 05:20 UTC.
+New packages created between 2026-11-27 05:20 UTC and 2026-11-27 06:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T05-20-57-573738Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T06-22-25-338317Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 04:24:13 | [zam-web](https://aur.archlinux.org/packages/zam-web) | 1.67.15-1 | 0 | Zam Matrix Client for Web. |
-| 2026-11-27 04:46:48 | [android-tv-remote-git](https://aur.archlinux.org/packages/android-tv-remote-git) | r24.gf6f71ee-1 | 0 | Qt desktop remote for Android TV with a native NVIDIA Shield trackpad |
+| 2026-11-27 05:40:47 | [hghub](https://aur.archlinux.org/packages/hghub) | 0.0.5-1 | 0 | Plug-in media player |
 
 ## Data source
 
