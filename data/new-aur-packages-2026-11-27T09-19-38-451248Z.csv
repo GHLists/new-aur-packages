@@ -1,0 +1,5 @@
+created_at,package,version,votes,description
+2026-11-27T08:54:47Z,gpcal,0.1.0-1,0,A simple calculator built with GPUI
+2026-11-27T09:13:13Z,mark-shot-native-bin,0.2.5-1,0,"Native screenshot, annotation and recording tool for Wayland and X11"
+2026-11-27T09:17:08Z,qbit-plugin-dl-bin,,,Finds and installs qBittorrent search plugins from allowlisted catalogs
+2026-11-27T09:17:16Z,reshadelinux-bin,,,Installs the official ReShade runtime for Wine and Proton games

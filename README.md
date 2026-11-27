@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 08:20 UTC
+## Latest list — 2026-11-27 09:19 UTC
 
-New packages created between 2026-11-27 07:19 UTC and 2026-11-27 08:20 UTC.
+New packages created between 2026-11-27 08:20 UTC and 2026-11-27 09:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T08-20-44-718858Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T09-19-38-451248Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 07:33:02 | [astralparty-toys-bin](https://aur.archlinux.org/packages/astralparty-toys-bin) | 2.5.2-1 | 0 | Astral Party toolbox (AstralParty.Toys): the official Windows build, run throug… |
-| 2026-11-27 07:43:48 | [libfprint-fte3600-git](https://aur.archlinux.org/packages/libfprint-fte3600-git) | 1.94.100.r94-1 | 0 | libfprint with FTE3600 SPI fingerprint support, DKMS glue, and toolkit |
-| 2026-11-27 07:53:37 | [cremniy](https://aur.archlinux.org/packages/cremniy) | 0.4.0-2 | 0 | Integrated low-level development environment with code editor, HEX editor and d… |
-| 2026-11-27 07:53:54 | [cremniy-git](https://aur.archlinux.org/packages/cremniy-git) | r815.9ac8198-2 | 0 | Integrated low-level development environment with code editor, HEX editor and d… |
-| 2026-11-27 07:58:41 | [wallcycle-git](https://aur.archlinux.org/packages/wallcycle-git) | 0.2.0a-1 | 0 | Cross-platform wallpaper slideshow with real-time clock overlay and BT.709 lumi… |
+| 2026-11-27 08:54:47 | [gpcal](https://aur.archlinux.org/packages/gpcal) | 0.1.0-1 | 0 | A simple calculator built with GPUI |
+| 2026-11-27 09:13:13 | [mark-shot-native-bin](https://aur.archlinux.org/packages/mark-shot-native-bin) | 0.2.5-1 | 0 | Native screenshot, annotation and recording tool for Wayland and X11 |
+| 2026-11-27 09:17:08 | [qbit-plugin-dl-bin](https://aur.archlinux.org/packages/qbit-plugin-dl-bin) |  |  | Finds and installs qBittorrent search plugins from allowlisted catalogs |
+| 2026-11-27 09:17:16 | [reshadelinux-bin](https://aur.archlinux.org/packages/reshadelinux-bin) |  |  | Installs the official ReShade runtime for Wine and Proton games |
 
 ## Data source
 
