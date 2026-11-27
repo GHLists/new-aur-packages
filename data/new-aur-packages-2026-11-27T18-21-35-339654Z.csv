@@ -1,0 +1,6 @@
+created_at,package,version,votes,description
+2026-11-27T17:32:27Z,azur-promilia-launcher,1.0.0-1,0,蓝色星原：旅谣 Linux 启动器（dwproton + azur 补丁 + SDK 桥接登录）
+2026-11-27T17:56:22Z,headset-tui-bin,0.2.0-1,0,Waybar integration for HeadsetControl with an interactive TUI (pre-built binary)
+2026-11-27T17:56:29Z,headset-tui,0.2.0-1,0,Waybar integration for HeadsetControl with an interactive TUI
+2026-11-27T18:07:58Z,konvert,0.5.0-1,0,"Fast, lightweight, native right-click file converter and optimizer for Linux (Dolphin, Nautilus, Nemo, Thunar)"
+2026-11-27T18:08:55Z,konvert-bin,0.5.0-1,0,"Fast, lightweight, native right-click file converter and optimizer for Linux (prebuilt binary)"

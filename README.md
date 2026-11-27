@@ -12,23 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 17:20 UTC
+## Latest list — 2026-11-27 18:21 UTC
 
-New packages created between 2026-11-27 16:20 UTC and 2026-11-27 17:20 UTC.
+New packages created between 2026-11-27 17:20 UTC and 2026-11-27 18:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T17-20-08-139613Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T18-21-35-339654Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 16:43:03 | [7zipl-bin](https://aur.archlinux.org/packages/7zipl-bin) | 0.1.0-1 | 0 | 7-Zip File Manager for Linux with a plain GTK 4 interface, using the system 7-Z… |
-| 2026-11-27 16:43:08 | [7zipl-git](https://aur.archlinux.org/packages/7zipl-git) | 0.1.0_r1_g3f13d97-1 | 0 | 7-Zip File Manager for Linux with a plain GTK 4 interface, using the system 7-Z… |
-| 2026-11-27 16:55:53 | [quectop](https://aur.archlinux.org/packages/quectop) | 0.1.0-1 | 0 | Lightweight Linux resource monitor |
-| 2026-11-27 16:56:14 | [quectop-git](https://aur.archlinux.org/packages/quectop-git) | 0.1.0-1 | 0 | Lightweight Linux resource monitor |
-| 2026-11-27 16:56:34 | [quectop-bin](https://aur.archlinux.org/packages/quectop-bin) | 0.1.0-1 | 0 | Lightweight Linux resource monitor |
-| 2026-11-27 16:56:54 | [quectop-hub](https://aur.archlinux.org/packages/quectop-hub) | 0.1.0-1 | 0 | Dashboard and data collector for quectop probes |
-| 2026-11-27 16:57:12 | [quectop-hub-git](https://aur.archlinux.org/packages/quectop-hub-git) | 0.1.0-1 | 0 | Dashboard and data collector for quectop probes |
-| 2026-11-27 16:57:32 | [quectop-hub-bin](https://aur.archlinux.org/packages/quectop-hub-bin) | 0.1.0-1 | 0 | Dashboard and data collector for quectop probes |
-| 2026-11-27 17:16:45 | [cel-git](https://aur.archlinux.org/packages/cel-git) | 0.1.0.r16.g6560313-1 | 0 | Play a storyboard one keyframe per key press, and comment on it (Tauri desktop… |
+| 2026-11-27 17:32:27 | [azur-promilia-launcher](https://aur.archlinux.org/packages/azur-promilia-launcher) | 1.0.0-1 | 0 | 蓝色星原：旅谣 Linux 启动器（dwproton + azur 补丁 + SDK 桥接登录） |
+| 2026-11-27 17:56:22 | [headset-tui-bin](https://aur.archlinux.org/packages/headset-tui-bin) | 0.2.0-1 | 0 | Waybar integration for HeadsetControl with an interactive TUI (pre-built binary) |
+| 2026-11-27 17:56:29 | [headset-tui](https://aur.archlinux.org/packages/headset-tui) | 0.2.0-1 | 0 | Waybar integration for HeadsetControl with an interactive TUI |
+| 2026-11-27 18:07:58 | [konvert](https://aur.archlinux.org/packages/konvert) | 0.5.0-1 | 0 | Fast, lightweight, native right-click file converter and optimizer for Linux (D… |
+| 2026-11-27 18:08:55 | [konvert-bin](https://aur.archlinux.org/packages/konvert-bin) | 0.5.0-1 | 0 | Fast, lightweight, native right-click file converter and optimizer for Linux (p… |
 
 ## Data source
 
