@@ -1,0 +1,4 @@
+created_at,package,version,votes,description
+2026-11-27T21:30:21Z,hid-logitech-k400plus-dkms,0.4-1,0,"Modified hid-logitech-hidpp kernel module, providing native multitouch support for Logitech K400 Plus touchpad."
+2026-11-27T21:38:01Z,zoyi_gui,0.1.4-1,0,Desktop app for the ZOYI ZT703S and ZT706S scopemeters running OpenOSC firmware
+2026-11-27T22:17:42Z,ridge-racer-type-4-pc-bin,,,Native PC port of Ridge Racer Type 4 (upstream binary)

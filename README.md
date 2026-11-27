@@ -12,17 +12,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 21:21 UTC
+## Latest list — 2026-11-27 22:21 UTC
 
-New packages created between 2026-11-27 20:19 UTC and 2026-11-27 21:21 UTC.
+New packages created between 2026-11-27 21:21 UTC and 2026-11-27 22:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T21-21-26-699422Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-27T22-21-22-679727Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 20:44:38 | [r4ge-bin](https://aur.archlinux.org/packages/r4ge-bin) | 1.0.0-2 | 1 | Godot reimplementation of Ridge Racer Type 4 using data from your own US disc i… |
-| 2026-11-27 20:48:25 | [cosmic-ext-tasks-git](https://aur.archlinux.org/packages/cosmic-ext-tasks-git) | 0.4.2.r0.g121ae5f-1 | 0 | A simple task management application for the COSMIC desktop. |
-| 2026-11-27 21:14:37 | [archoxide-bin](https://aur.archlinux.org/packages/archoxide-bin) | 0.1.0-14 | 0 | Keyboard-driven terminal UI for Arch packages, Flatpaks, and AppImages (prebuil… |
+| 2026-11-27 21:30:21 | [hid-logitech-k400plus-dkms](https://aur.archlinux.org/packages/hid-logitech-k400plus-dkms) | 0.4-1 | 0 | Modified hid-logitech-hidpp kernel module, providing native multitouch support… |
+| 2026-11-27 21:38:01 | [zoyi_gui](https://aur.archlinux.org/packages/zoyi_gui) | 0.1.4-1 | 0 | Desktop app for the ZOYI ZT703S and ZT706S scopemeters running OpenOSC firmware |
+| 2026-11-27 22:17:42 | [ridge-racer-type-4-pc-bin](https://aur.archlinux.org/packages/ridge-racer-type-4-pc-bin) |  |  | Native PC port of Ridge Racer Type 4 (upstream binary) |
 
 ## Data source
 
