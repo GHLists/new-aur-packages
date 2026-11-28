@@ -12,18 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 04:21 UTC
+## Latest list — 2026-11-28 05:19 UTC
 
-New packages created between 2026-11-28 03:20 UTC and 2026-11-28 04:21 UTC.
+New packages created between 2026-11-28 04:21 UTC and 2026-11-28 05:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-28T04-21-35-048672Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-28T05-19-54-211508Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-28 04:18:35 | [cyberdog-bin](https://aur.archlinux.org/packages/cyberdog-bin) |  |  | Modern SSH/SFTP manager: file explorer, terminal, server health dashboard and q… |
-| 2026-11-28 04:20:51 | [zapfast-plus](https://aur.archlinux.org/packages/zapfast-plus) |  |  | Personal ZapFast fork with GB-inspired privacy, productivity, media and interfa… |
-| 2026-11-28 04:21:07 | [zapfast-plus-bin](https://aur.archlinux.org/packages/zapfast-plus-bin) |  |  | Personal ZapFast fork with GB-inspired privacy, productivity, media and interfa… |
-| 2026-11-28 04:21:20 | [zapfast-plus-git](https://aur.archlinux.org/packages/zapfast-plus-git) |  |  | Personal ZapFast fork with GB-inspired privacy, productivity, media and interfa… |
+| 2026-11-28 04:31:07 | [opengh-bin](https://aur.archlinux.org/packages/opengh-bin) | 0.0.1-1 | 1 | A terminal app for GitHub that feels like opening a repo in your browser |
 
 ## Data source
 
