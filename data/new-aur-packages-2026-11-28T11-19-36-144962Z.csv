@@ -1,0 +1,101 @@
+created_at,package,version,votes,description
+2026-11-28T11:01:57Z,perles-bin,0.9.0-1,0,Terminal UI kanban and query tool for Beads issue tracking
+2026-11-28T11:01:58Z,dbdeployer,2.5.0-1,0,A tool that deploys MySQL database servers easily.
+2026-11-28T11:02:07Z,pewpew-bin,1.1.0-1,0,Flexible HTTP stress tester
+2026-11-28T11:02:17Z,pg_exporter-bin,1.6.1-1,0,PostgreSQL and PgBouncer metrics exporter for Prometheus
+2026-11-28T11:02:30Z,pg_hardstorage-bin,1.7.0-1,0,PostgreSQL backup with continuous WAL streaming and base backups
+2026-11-28T11:02:42Z,pgbackrest_exporter-bin,0.25.0-1,0,Prometheus exporter for pgBackRest
+2026-11-28T11:02:52Z,pgcapture-bin,0.0.70-1,0,Scalable change data capture for PostgreSQL
+2026-11-28T11:03:03Z,pgit-bin,4.2.0-1,0,Git-like version control backed by PostgreSQL
+2026-11-28T11:03:14Z,pgsqlite-bin,0.0.22-1,0,PostgreSQL protocol adapter for SQLite databases
+2026-11-28T11:03:23Z,phanalist-bin,1.2.1-1,0,Fast static analyzer for PHP
+2026-11-28T11:03:33Z,philosopher-bin,5.1.0-1,0,Proteomics data processing and FDR filtering toolkit
+2026-11-28T11:03:44Z,pigeons-bin,0.2.4-1,0,Peer-to-peer messaging that always finds its way home
+2026-11-28T11:03:53Z,pikoci-bin,0.8.0-1,0,Lightweight CI/CD server
+2026-11-28T11:04:07Z,pikpakcli-bin,0.23-1,0,Command-line client for PikPak
+2026-11-28T11:04:17Z,pingclair-bin,0.2.3-1,0,Web server and reverse proxy built on Cloudflare Pingora
+2026-11-28T11:04:29Z,pipewright-bin,2.5.0-1,0,"Self-hosted CI/CD, deployment and ops platform in one binary"
+2026-11-28T11:04:40Z,pktz-bin,0.3.0-1,0,eBPF-powered per-process network traffic monitor
+2026-11-28T11:04:50Z,plandb-bin,0.2.1-1,0,Issue tracker for AI agents
+2026-11-28T11:05:00Z,playconsole-cli-bin,0.5.17-1,0,Scriptable command-line client for Google Play Console
+2026-11-28T11:05:10Z,pocketdev-bin,0.1.0-1,0,Run your AI coding CLI on a Tailscale-only server and code from your phone
+2026-11-28T11:05:21Z,podwise-cli-bin,0.4.2-1,0,Command-line client for podwise.ai podcast insights
+2026-11-28T11:05:31Z,poenskelisten-bin,2.7.0-1,0,Self-hosted wishlist sharing and gift coordination
+2026-11-28T11:05:42Z,poodle-bin,2.2.3-1,0,Build and run API requests from the command line
+2026-11-28T11:05:51Z,poros-bin,1.9.2-1,0,Inject Xposed modules into apps on rooted Android devices
+2026-11-28T11:06:01Z,port_sentinel-bin,2.1.0-1,0,Find port conflicts and manage processes using ports
+2026-11-28T11:06:11Z,portkey-bin,4.0.1-1,0,Simple web start page with a collection of links
+2026-11-28T11:06:22Z,pphack-bin,0.1.6-1,0,Client-side prototype pollution scanner
+2026-11-28T11:06:32Z,presse-bin,0.4.0-1,0,PDF processing CLI
+2026-11-28T11:06:42Z,procoder-bin,3.9.5-1,0,Senior-developer discipline for AI coding agents
+2026-11-28T11:06:55Z,prometheus-mcp-bin,0.18.0-1,0,MCP server for interacting with Prometheus
+2026-11-28T11:07:04Z,prometheus-rds-exporter-bin,0.19.0-1,0,Prometheus exporter for AWS RDS
+2026-11-28T11:07:14Z,promruval-bin,3.13.0-1,0,"Validate Prometheus, Thanos, Mimir and Loki rules"
+2026-11-28T11:07:29Z,promu-bin,0.21.0-1,0,Prometheus build and release utility
+2026-11-28T11:07:40Z,proxysql_exporter-bin,1.1.2-1,0,Prometheus exporter for ProxySQL
+2026-11-28T11:07:50Z,proxyt-bin,0.1.2-1,0,Simple proxy for the Tailscale control plane
+2026-11-28T11:08:00Z,prusa_exporter-bin,2.0.0-1,0,Prometheus exporter for Prusa 3D printers
+2026-11-28T11:08:10Z,psfuzz-bin,1.0.0-1,0,Directory and path web fuzzing scanner
+2026-11-28T11:08:21Z,pssa-bin,0.5.5-1,0,Non-transformer language model written from scratch in Rust
+2026-11-28T11:08:31Z,purrcode-bin,1.0.0-1,0,Judgment-first coding agent runtime
+2026-11-28T11:08:41Z,pysentry-bin,0.5.0-1,0,Scan Python dependencies for known vulnerabilities
+2026-11-28T11:08:51Z,qq-maid-bot-bin,0.26.1-1,0,AI agent bot for QQ via OneBot 11
+2026-11-28T11:09:01Z,qrterminal-bin,4.0.0-1,0,Show QR codes in your terminal
+2026-11-28T11:09:11Z,quickpassthrough-bin,2.1.5-1,0,Simplify GPU passthrough setup for QEMU
+2026-11-28T11:09:21Z,rabbitmq-dump-queue-bin,0.7.3-1,0,Dump RabbitMQ queue messages to files without consuming them
+2026-11-28T11:09:31Z,raftkeeper-bin,2.3.0-1,0,High-performance distributed consensus service
+2026-11-28T11:09:41Z,rainbow-roads-bin,0.4.0-1,0,Animate your exercise maps
+2026-11-28T11:09:51Z,raven-riscv-bin,1.30.0-1,0,RISC-V simulator and IDE for learning assembly
+2026-11-28T11:10:00Z,rayforce-bin,3.0.2-1,0,SIMD-accelerated columnar analytics database
+2026-11-28T11:10:10Z,razorpay-mcp-server-bin,1.3.0-1,0,MCP server for the Razorpay API
+2026-11-28T11:10:21Z,rdmatop-bin,0.1.33-1,0,htop-like TUI for real-time RDMA network monitoring
+2026-11-28T11:10:31Z,recipya-bin,1.2.2-1,0,Self-hosted recipe manager
+2026-11-28T11:10:41Z,reckoner-bin,6.3.1-1,0,Declaratively install and manage multiple Helm chart releases
+2026-11-28T11:10:51Z,reddit-migrate-bin,1.0.0-1,0,Transfer your Reddit account data between accounts
+2026-11-28T11:11:01Z,regolith-bin,1.8.0-1,0,Minecraft Bedrock add-on compiler pipeline
+2026-11-28T11:11:11Z,reminal-bin,3.22.25-1,0,"Access the windows, desktops and terminals of your machines from any browser"
+2026-11-28T11:11:23Z,remindb-bin,0.3.12-1,0,Agent memory database in one portable SQLite file
+2026-11-28T11:11:34Z,remoteaudio-bin,0.5.8-1,0,Audio streaming for amateur radio
+2026-11-28T11:11:44Z,reostream-bin,0.2.12-1,0,Reolink camera proxy serving RTSP and HTTP for NVRs
+2026-11-28T11:11:55Z,resgate-bin,1.8.0-1,0,Realtime API gateway for NATS
+2026-11-28T11:12:05Z,resinator-bin,0.2.0-1,0,Cross-platform Windows resource script compiler
+2026-11-28T11:12:15Z,restoredrill-bin,0.4.4-1,0,Verify that PostgreSQL and MySQL backups actually restore
+2026-11-28T11:12:26Z,reviewengine-bin,0.11.1-1,0,"Multi-expert, scored AI code review"
+2026-11-28T11:12:36Z,revmux-bin,0.3.0-1,0,"Supervised, auditable multi-agent code review"
+2026-11-28T11:12:46Z,reward-bin,0.7.15-1,0,Orchestrate Docker-based development environments
+2026-11-28T11:12:56Z,rewinged-bin,0.15.0-1,0,Self-hosted winget package source
+2026-11-28T11:13:06Z,rguilayout-bin,4.0-1,0,Simple raygui layout editor
+2026-11-28T11:13:16Z,rheo-bin,0.6.4-1,0,Typesetting and static site engine based on Typst
+2026-11-28T11:13:26Z,riffpad-bin,0.2.6-1,0,"Watch, approve and steer coding agents from your phone"
+2026-11-28T11:13:37Z,rings-bin,0.40.0-1,0,Browser-native peer-to-peer network over WebRTC with a Chord DHT
+2026-11-28T11:13:48Z,riscvsim-bin,0.2.0-1,0,RISC-V simulator for learning computer engineering
+2026-11-28T11:13:59Z,rodney-bin,0.4.0-1,0,Command-line tool for interacting with the web
+2026-11-28T11:14:09Z,roofer-bin,1.0.0-1,0,Large-scale automatic LoD2.2 building reconstruction
+2026-11-28T11:14:20Z,rosalind-bin,0.1.0-1,0,Reusable genomic evidence for research and analysis tools
+2026-11-28T11:14:30Z,rose-bin,2.1.2-1,0,Input method user dictionary converter
+2026-11-28T11:14:41Z,rotel-bin,0.2.7-1,0,Resource-efficient OpenTelemetry collector
+2026-11-28T11:14:51Z,rp6502-bin,0.44-1,0,Emulator for the RP6502 Picocomputer
+2026-11-28T11:15:01Z,rrelayer-bin,0.14.0-1,0,EVM transaction relayer
+2026-11-28T11:15:11Z,rss-funnel-bin,0.1.4-1,0,Self-hosted RSS multi-tool
+2026-11-28T11:15:21Z,rsvelte-bin,0.7.6-1,0,Rust-powered Svelte compiler and tooling
+2026-11-28T11:15:34Z,rtty-bin,0.4.0-1,0,Terminal in the browser over WebSocket
+2026-11-28T11:15:45Z,ruseon-core-bin,2.1.5-1,0,"Edge video infrastructure for CCTV RTSP ingest, streaming and recording"
+2026-11-28T11:15:55Z,rust-mcp-filesystem-bin,0.4.5-1,0,Fast asynchronous MCP server for filesystem operations
+2026-11-28T11:16:05Z,rustqc-bin,0.2.1-1,0,Fast quality control tools for genomic sequencing data
+2026-11-28T11:16:18Z,rutis-bin,0.23.0-1,0,Plugin runtime where AI agents write and hot-reload their own plugins
+2026-11-28T11:16:28Z,ruxguitar-bin,0.17.0-1,0,Guitar Pro tablature player
+2026-11-28T11:16:38Z,s3deploy-bin,2.16.0-1,0,Deploy static websites to Amazon S3 and CloudFront
+2026-11-28T11:16:48Z,saki-panel-bin,6.1-1,0,AI-assisted server operations panel
+2026-11-28T11:16:58Z,samyama-graph-bin,1.17.0-1,0,Graph and vector database with OpenCypher and vector search
+2026-11-28T11:17:08Z,satnogs-monitor-bin,0.4.3-1,0,Terminal UI monitor for SatNOGS ground stations
+2026-11-28T11:17:19Z,sato-bin,0.1.52-1,0,Convert ARM or CloudFormation templates into Terraform
+2026-11-28T11:17:30Z,save-to-spotify-bin,0.2.1-1,0,Save your personal media to Spotify from the command line
+2026-11-28T11:17:35Z,dbdeployer-bin,2.5.0-1,0,A tool that deploys MySQL database servers easily.
+2026-11-28T11:17:41Z,savepoint-bin,0.3.12-1,0,Command watcher that commits when you fix errors
+2026-11-28T11:17:51Z,sayna-bin,0.1.16-1,0,Unified voice layer for AI agents
+2026-11-28T11:18:02Z,scopey-bin,0.2.5-1,0,Keep AI coding agent sessions on scope
+2026-11-28T11:18:15Z,score-compose-bin,,,Reference Score implementation for Docker Compose
+2026-11-28T11:18:26Z,screeps-launcher-bin,,,Launcher for Screeps private servers
+2026-11-28T11:18:35Z,screp-bin,,,StarCraft: Brood War replay parser
+2026-11-28T11:18:46Z,scrutineer-bin,,,Security review tool for software projects
+2026-11-28T11:18:56Z,seasonpackarr-bin,,,autobrr companion that hardlinks existing episodes into season pack folders
