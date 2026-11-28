@@ -12,20 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 01:20 UTC
+## Latest list — 2026-11-28 02:21 UTC
 
-New packages created between 2026-11-28 00:19 UTC and 2026-11-28 01:20 UTC.
+New packages created between 2026-11-28 01:20 UTC and 2026-11-28 02:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-28T01-20-45-408623Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-28T02-21-09-625692Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-28 00:25:27 | [lem](https://aur.archlinux.org/packages/lem) | 2.3.0-2 | 1 | Common Lisp editor/IDE with ncurses frontend |
-| 2026-11-28 00:25:35 | [lem-nightly](https://aur.archlinux.org/packages/lem-nightly) | nightly.latest.r0.g… | 1 | Common Lisp editor/IDE with ncurses frontend (nightly build) |
-| 2026-11-28 00:39:00 | [allot](https://aur.archlinux.org/packages/allot) | 0.1.0-1 | 0 | Each project's share of your Claude plan, with a budget Claude Code respects |
-| 2026-11-28 00:48:03 | [lem-sdl2](https://aur.archlinux.org/packages/lem-sdl2) | 2.3.0-1 | 1 | Common Lisp editor/IDE with SDL2 frontend |
-| 2026-11-28 00:48:11 | [lem-sdl3-nightly](https://aur.archlinux.org/packages/lem-sdl3-nightly) | nightly.latest.r0.g… | 1 | Common Lisp editor/IDE with SDL3 frontend (nightly build) |
-| 2026-11-28 00:48:20 | [mint-translations](https://aur.archlinux.org/packages/mint-translations) | 2026.11.25-1 | 0 | Translation files for Linux Mint applications |
+| 2026-11-28 01:25:23 | [wisp-shell](https://aur.archlinux.org/packages/wisp-shell) | 3.2.1-1 | 0 | Small Linux shell written in C++17 with Lua 5.4 embedded for config and structu… |
+| 2026-11-28 01:30:12 | [whatson-bin](https://aur.archlinux.org/packages/whatson-bin) | 2.0.54-1 | 1 | Television broadcast station emulator: channels from a local media library, wit… |
+| 2026-11-28 01:51:23 | [stalescan](https://aur.archlinux.org/packages/stalescan) | 0.1.0-1 | 0 | Check whether a drive reads old data much more slowly than fresh data |
+| 2026-11-28 02:09:34 | [dawn-bin](https://aur.archlinux.org/packages/dawn-bin) | 0.1.3-1 | 0 | A distraction-free writing environment; draft anything, write now |
 
 ## Data source
 
