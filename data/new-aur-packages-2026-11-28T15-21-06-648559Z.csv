@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-28T14:19:15Z,mototunepro,2.1.1+24-1,0,Diagnostics and tuning for supported Buell motorcycles
+2026-11-28T14:31:05Z,strait-bin,1.6.0-1,1,A virtual service between Kubernetes clusters at different sites
+2026-11-28T14:31:20Z,tack-failover-bin,1.7.0-1,1,"Switch a stateful workload's primary between sites, in step with GitOps"
+2026-11-28T14:36:50Z,circuit-bin,1.4.0-1,1,"Declarative, vendor-neutral network configuration"
+2026-11-28T14:38:04Z,ur22c-control,0.1.0-1,0,"Terminal mixer, DSP effect editor, and PipeWire multi-bus setup for the Steinberg UR22C"
+2026-11-28T14:43:08Z,twilightmc-git,0.8.0.r0.g0000000-1,0,TwilightMC launcher - Rust/Tauri Minecraft launcher & client (built from main)
+2026-11-28T14:53:29Z,ur22c-dkms,0.1.0-1,0,Out-of-tree snd-usb-audio DKMS patches for Steinberg UR22C 6-out/8-in multi-bus mode
+2026-11-28T14:54:17Z,nautilus-checksums-rust,0.1.0-1,0,Fast SIMD/ASM-accelerated Nautilus 4 extension for computing file checksums
