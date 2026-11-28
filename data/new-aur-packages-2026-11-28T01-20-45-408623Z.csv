@@ -1,0 +1,7 @@
+created_at,package,version,votes,description
+2026-11-28T00:25:27Z,lem,2.3.0-2,1,Common Lisp editor/IDE with ncurses frontend
+2026-11-28T00:25:35Z,lem-nightly,nightly.latest.r0.g…,1,Common Lisp editor/IDE with ncurses frontend (nightly build)
+2026-11-28T00:39:00Z,allot,0.1.0-1,0,"Each project's share of your Claude plan, with a budget Claude Code respects"
+2026-11-28T00:48:03Z,lem-sdl2,2.3.0-1,1,Common Lisp editor/IDE with SDL2 frontend
+2026-11-28T00:48:11Z,lem-sdl3-nightly,nightly.latest.r0.g…,1,Common Lisp editor/IDE with SDL3 frontend (nightly build)
+2026-11-28T00:48:20Z,mint-translations,2026.11.25-1,0,Translation files for Linux Mint applications

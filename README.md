@@ -12,19 +12,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 23:21 UTC
+## Latest list — 2026-11-28 01:20 UTC
 
-New packages created between 2026-11-27 22:21 UTC and 2026-11-27 23:21 UTC.
+New packages created between 2026-11-28 00:19 UTC and 2026-11-28 01:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-27T23-21-47-297508Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-28T01-20-45-408623Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 22:29:59 | [lem-webview-nightly](https://aur.archlinux.org/packages/lem-webview-nightly) | nightly.latest.r0.g… | 1 | Common Lisp editor/IDE with Webview GUI frontend (nightly build) |
-| 2026-11-27 22:35:54 | [nythera-lib-git](https://aur.archlinux.org/packages/nythera-lib-git) | 0.1.0.r17.gbc201312… | 0 | Shared infrastructure for Nythera Shell and Files |
-| 2026-11-27 22:37:29 | [nythera-files-git](https://aur.archlinux.org/packages/nythera-files-git) | 0.1.0.r23.gd3f8a4a1… | 0 | Nythera Files native Wayland file manager |
-| 2026-11-27 22:52:47 | [pgboxdb-bin](https://aur.archlinux.org/packages/pgboxdb-bin) | 0.2.0-1 | 0 | Lightweight Postgres for AI agents: thousands of isolated databases in one runt… |
-| 2026-11-27 23:13:15 | [pgbook-bin](https://aur.archlinux.org/packages/pgbook-bin) | 0.2.0-1 | 0 | Postgres Book in the terminal, one topic at a time |
+| 2026-11-28 00:25:27 | [lem](https://aur.archlinux.org/packages/lem) | 2.3.0-2 | 1 | Common Lisp editor/IDE with ncurses frontend |
+| 2026-11-28 00:25:35 | [lem-nightly](https://aur.archlinux.org/packages/lem-nightly) | nightly.latest.r0.g… | 1 | Common Lisp editor/IDE with ncurses frontend (nightly build) |
+| 2026-11-28 00:39:00 | [allot](https://aur.archlinux.org/packages/allot) | 0.1.0-1 | 0 | Each project's share of your Claude plan, with a budget Claude Code respects |
+| 2026-11-28 00:48:03 | [lem-sdl2](https://aur.archlinux.org/packages/lem-sdl2) | 2.3.0-1 | 1 | Common Lisp editor/IDE with SDL2 frontend |
+| 2026-11-28 00:48:11 | [lem-sdl3-nightly](https://aur.archlinux.org/packages/lem-sdl3-nightly) | nightly.latest.r0.g… | 1 | Common Lisp editor/IDE with SDL3 frontend (nightly build) |
+| 2026-11-28 00:48:20 | [mint-translations](https://aur.archlinux.org/packages/mint-translations) | 2026.11.25-1 | 0 | Translation files for Linux Mint applications |
 
 ## Data source
 
