@@ -12,16 +12,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 13:20 UTC
+## Latest list — 2026-11-28 14:19 UTC
 
-New packages created between 2026-11-28 12:20 UTC and 2026-11-28 13:20 UTC.
+New packages created between 2026-11-28 13:20 UTC and 2026-11-28 14:19 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-28T13-20-23-360443Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-28T14-19-10-865747Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-28 12:27:49 | [obs-audio-video-sync-dock](https://aur.archlinux.org/packages/obs-audio-video-sync-dock) | 0.1.4-2 | 0 | Measuring latency between audio and video on OBS Studio |
-| 2026-11-28 12:36:00 | [kvt-rusty-teams-bin](https://aur.archlinux.org/packages/kvt-rusty-teams-bin) | 0.6.1.kvt.2-1 | 0 | Native Microsoft Teams client in Rust (KVT build) |
+| 2026-11-28 13:20:31 | [twilightmc-star-bin](https://aur.archlinux.org/packages/twilightmc-star-bin) | 0.8.0~b1-1 | 0 | TwilightMC Star - Rust/Tauri Minecraft launcher (CLI + GUI), Beta pre-release |
+| 2026-11-28 13:20:44 | [twilightmc-bolide-bin](https://aur.archlinux.org/packages/twilightmc-bolide-bin) | 0.7.1~alpha-1 | 0 | TwilightMC Bolide - Rust/Tauri Minecraft launcher (CLI + GUI), Alpha pre-release |
+| 2026-11-28 13:20:57 | [twilightmc-snapshot-bin](https://aur.archlinux.org/packages/twilightmc-snapshot-bin) | 0.8.0.20261128.gb9e… | 0 | TwilightMC Snapshot - Rust/Tauri Minecraft launcher (CLI + GUI), rolling main b… |
+| 2026-11-28 13:49:14 | [fuel-core-bin](https://aur.archlinux.org/packages/fuel-core-bin) | 0.48.4-1 | 0 | Full node for the Fuel v2 blockchain protocol |
+| 2026-11-28 14:01:33 | [obs-async-audio-filter](https://aur.archlinux.org/packages/obs-async-audio-filter) | 0.6.0-1 | 0 | This filter aims to fix audio glitches caused by asynchronous audio of the sour… |
 
 ## Data source
 
