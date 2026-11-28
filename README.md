@@ -12,18 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 02:21 UTC
+## Latest list — 2026-11-28 04:21 UTC
 
-New packages created between 2026-11-28 01:20 UTC and 2026-11-28 02:21 UTC.
+New packages created between 2026-11-28 03:20 UTC and 2026-11-28 04:21 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-28T02-21-09-625692Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-28T04-21-35-048672Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-28 01:25:23 | [wisp-shell](https://aur.archlinux.org/packages/wisp-shell) | 3.2.1-1 | 0 | Small Linux shell written in C++17 with Lua 5.4 embedded for config and structu… |
-| 2026-11-28 01:30:12 | [whatson-bin](https://aur.archlinux.org/packages/whatson-bin) | 2.0.54-1 | 1 | Television broadcast station emulator: channels from a local media library, wit… |
-| 2026-11-28 01:51:23 | [stalescan](https://aur.archlinux.org/packages/stalescan) | 0.1.0-1 | 0 | Check whether a drive reads old data much more slowly than fresh data |
-| 2026-11-28 02:09:34 | [dawn-bin](https://aur.archlinux.org/packages/dawn-bin) | 0.1.3-1 | 0 | A distraction-free writing environment; draft anything, write now |
+| 2026-11-28 04:18:35 | [cyberdog-bin](https://aur.archlinux.org/packages/cyberdog-bin) |  |  | Modern SSH/SFTP manager: file explorer, terminal, server health dashboard and q… |
+| 2026-11-28 04:20:51 | [zapfast-plus](https://aur.archlinux.org/packages/zapfast-plus) |  |  | Personal ZapFast fork with GB-inspired privacy, productivity, media and interfa… |
+| 2026-11-28 04:21:07 | [zapfast-plus-bin](https://aur.archlinux.org/packages/zapfast-plus-bin) |  |  | Personal ZapFast fork with GB-inspired privacy, productivity, media and interfa… |
+| 2026-11-28 04:21:20 | [zapfast-plus-git](https://aur.archlinux.org/packages/zapfast-plus-git) |  |  | Personal ZapFast fork with GB-inspired privacy, productivity, media and interfa… |
 
 ## Data source
 
