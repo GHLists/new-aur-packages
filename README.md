@@ -12,18 +12,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 08:20 UTC
+## Latest list — 2026-11-28 09:22 UTC
 
-New packages created between 2026-11-28 07:20 UTC and 2026-11-28 08:20 UTC.
+New packages created between 2026-11-28 08:20 UTC and 2026-11-28 09:22 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-28T08-20-24-582452Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-28T09-22-17-084188Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-28 07:29:37 | [plasma6-applets-market-tiles](https://aur.archlinux.org/packages/plasma6-applets-market-tiles) | 1.0.0-1 | 0 | KDE Plasma 6 widget: crypto, stock and currency tiles with sparklines, alerts a… |
-| 2026-11-28 07:48:59 | [radiotop-bin](https://aur.archlinux.org/packages/radiotop-bin) | 0.9.3-1 | 0 | Linux desktop internet-radio browser and player |
-| 2026-11-28 07:53:56 | [keyd-s6](https://aur.archlinux.org/packages/keyd-s6) | 2.6.0.r2.f564288-1 | 0 | A key remapping daemon for linux |
-| 2026-11-28 07:56:13 | [x4vrmod](https://aur.archlinux.org/packages/x4vrmod) | 1.0.0-1 | 0 | Unofficial VR mod for native Linux X4: Foundations (not affiliated with Egosoft) |
+| 2026-11-28 08:25:17 | [sbx-pc-bin](https://aur.archlinux.org/packages/sbx-pc-bin) | 0.6.1-2 | 0 | Shutoko Battle X PC port (upstream Linux Vulkan build) |
+| 2026-11-28 08:57:29 | [crucible-plex](https://aur.archlinux.org/packages/crucible-plex) | 2.16.0-1 | 0 | Plex client in the Apple TV design, with Liquid Glass and HDR video (Wayland, V… |
+| 2026-11-28 08:57:36 | [crucible-plex-git](https://aur.archlinux.org/packages/crucible-plex-git) | 2.16.0.r1333.gef079… | 0 | Plex client in the Apple TV design, with Liquid Glass and HDR video (Wayland, V… |
+| 2026-11-28 09:19:38 | [twilightmc-bin](https://aur.archlinux.org/packages/twilightmc-bin) |  |  | TwilightMC launcher - Rust/Tauri Minecraft launcher (CLI + GUI), binary release |
+| 2026-11-28 09:20:30 | [1build-bin](https://aur.archlinux.org/packages/1build-bin) |  |  | Manage project-specific commands |
+| 2026-11-28 09:20:40 | [3code-bin](https://aur.archlinux.org/packages/3code-bin) |  |  | Economical coding agent |
+| 2026-11-28 09:20:50 | [3d-new-era-ai-bin](https://aur.archlinux.org/packages/3d-new-era-ai-bin) |  |  | Home design and floor plan editor with a built-in MCP server for AI agents |
+| 2026-11-28 09:21:00 | [a2a-cli-bin](https://aur.archlinux.org/packages/a2a-cli-bin) |  |  | Command-line interface for Agent2Agent (A2A) compatible agents |
 
 ## Data source
 

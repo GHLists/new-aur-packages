@@ -1,0 +1,9 @@
+created_at,package,version,votes,description
+2026-11-28T08:25:17Z,sbx-pc-bin,0.6.1-2,0,Shutoko Battle X PC port (upstream Linux Vulkan build)
+2026-11-28T08:57:29Z,crucible-plex,2.16.0-1,0,"Plex client in the Apple TV design, with Liquid Glass and HDR video (Wayland, Vulkan)"
+2026-11-28T08:57:36Z,crucible-plex-git,2.16.0.r1333.gef079…,0,"Plex client in the Apple TV design, with Liquid Glass and HDR video (Wayland, Vulkan)"
+2026-11-28T09:19:38Z,twilightmc-bin,,,"TwilightMC launcher - Rust/Tauri Minecraft launcher (CLI + GUI), binary release"
+2026-11-28T09:20:30Z,1build-bin,,,Manage project-specific commands
+2026-11-28T09:20:40Z,3code-bin,,,Economical coding agent
+2026-11-28T09:20:50Z,3d-new-era-ai-bin,,,Home design and floor plan editor with a built-in MCP server for AI agents
+2026-11-28T09:21:00Z,a2a-cli-bin,,,Command-line interface for Agent2Agent (A2A) compatible agents
