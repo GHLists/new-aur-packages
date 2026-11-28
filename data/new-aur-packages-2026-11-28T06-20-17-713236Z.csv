@@ -1,0 +1,2 @@
+created_at,package,version,votes,description
+2026-11-28T05:37:01Z,alphallama-cuda-bin,2.0.12-1,0,Fast local MoE LLM inference engine with OpenAI-compatible API (prebuilt NVIDIA CUDA 12.8)

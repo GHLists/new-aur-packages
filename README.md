@@ -12,15 +12,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 05:19 UTC
+## Latest list — 2026-11-28 06:20 UTC
 
-New packages created between 2026-11-28 04:21 UTC and 2026-11-28 05:19 UTC.
+New packages created between 2026-11-28 05:19 UTC and 2026-11-28 06:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-28T05-19-54-211508Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-28T06-20-17-713236Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-28 04:31:07 | [opengh-bin](https://aur.archlinux.org/packages/opengh-bin) | 0.0.1-1 | 1 | A terminal app for GitHub that feels like opening a repo in your browser |
+| 2026-11-28 05:37:01 | [alphallama-cuda-bin](https://aur.archlinux.org/packages/alphallama-cuda-bin) | 2.0.12-1 | 0 | Fast local MoE LLM inference engine with OpenAI-compatible API (prebuilt NVIDIA… |
 
 ## Data source
 
