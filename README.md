@@ -12,114 +12,114 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 11:19 UTC
+## Latest list — 2026-11-28 12:20 UTC
 
-New packages created between 2026-11-28 10:22 UTC and 2026-11-28 11:19 UTC.
+New packages created between 2026-11-28 11:19 UTC and 2026-11-28 12:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-28T11-19-36-144962Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-28T12-20-44-509337Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-28 11:01:57 | [perles-bin](https://aur.archlinux.org/packages/perles-bin) | 0.9.0-1 | 0 | Terminal UI kanban and query tool for Beads issue tracking |
-| 2026-11-28 11:01:58 | [dbdeployer](https://aur.archlinux.org/packages/dbdeployer) | 2.5.0-1 | 0 | A tool that deploys MySQL database servers easily. |
-| 2026-11-28 11:02:07 | [pewpew-bin](https://aur.archlinux.org/packages/pewpew-bin) | 1.1.0-1 | 0 | Flexible HTTP stress tester |
-| 2026-11-28 11:02:17 | [pg_exporter-bin](https://aur.archlinux.org/packages/pg_exporter-bin) | 1.6.1-1 | 0 | PostgreSQL and PgBouncer metrics exporter for Prometheus |
-| 2026-11-28 11:02:30 | [pg_hardstorage-bin](https://aur.archlinux.org/packages/pg_hardstorage-bin) | 1.7.0-1 | 0 | PostgreSQL backup with continuous WAL streaming and base backups |
-| 2026-11-28 11:02:42 | [pgbackrest_exporter-bin](https://aur.archlinux.org/packages/pgbackrest_exporter-bin) | 0.25.0-1 | 0 | Prometheus exporter for pgBackRest |
-| 2026-11-28 11:02:52 | [pgcapture-bin](https://aur.archlinux.org/packages/pgcapture-bin) | 0.0.70-1 | 0 | Scalable change data capture for PostgreSQL |
-| 2026-11-28 11:03:03 | [pgit-bin](https://aur.archlinux.org/packages/pgit-bin) | 4.2.0-1 | 0 | Git-like version control backed by PostgreSQL |
-| 2026-11-28 11:03:14 | [pgsqlite-bin](https://aur.archlinux.org/packages/pgsqlite-bin) | 0.0.22-1 | 0 | PostgreSQL protocol adapter for SQLite databases |
-| 2026-11-28 11:03:23 | [phanalist-bin](https://aur.archlinux.org/packages/phanalist-bin) | 1.2.1-1 | 0 | Fast static analyzer for PHP |
-| 2026-11-28 11:03:33 | [philosopher-bin](https://aur.archlinux.org/packages/philosopher-bin) | 5.1.0-1 | 0 | Proteomics data processing and FDR filtering toolkit |
-| 2026-11-28 11:03:44 | [pigeons-bin](https://aur.archlinux.org/packages/pigeons-bin) | 0.2.4-1 | 0 | Peer-to-peer messaging that always finds its way home |
-| 2026-11-28 11:03:53 | [pikoci-bin](https://aur.archlinux.org/packages/pikoci-bin) | 0.8.0-1 | 0 | Lightweight CI/CD server |
-| 2026-11-28 11:04:07 | [pikpakcli-bin](https://aur.archlinux.org/packages/pikpakcli-bin) | 0.23-1 | 0 | Command-line client for PikPak |
-| 2026-11-28 11:04:17 | [pingclair-bin](https://aur.archlinux.org/packages/pingclair-bin) | 0.2.3-1 | 0 | Web server and reverse proxy built on Cloudflare Pingora |
-| 2026-11-28 11:04:29 | [pipewright-bin](https://aur.archlinux.org/packages/pipewright-bin) | 2.5.0-1 | 0 | Self-hosted CI/CD, deployment and ops platform in one binary |
-| 2026-11-28 11:04:40 | [pktz-bin](https://aur.archlinux.org/packages/pktz-bin) | 0.3.0-1 | 0 | eBPF-powered per-process network traffic monitor |
-| 2026-11-28 11:04:50 | [plandb-bin](https://aur.archlinux.org/packages/plandb-bin) | 0.2.1-1 | 0 | Issue tracker for AI agents |
-| 2026-11-28 11:05:00 | [playconsole-cli-bin](https://aur.archlinux.org/packages/playconsole-cli-bin) | 0.5.17-1 | 0 | Scriptable command-line client for Google Play Console |
-| 2026-11-28 11:05:10 | [pocketdev-bin](https://aur.archlinux.org/packages/pocketdev-bin) | 0.1.0-1 | 0 | Run your AI coding CLI on a Tailscale-only server and code from your phone |
-| 2026-11-28 11:05:21 | [podwise-cli-bin](https://aur.archlinux.org/packages/podwise-cli-bin) | 0.4.2-1 | 0 | Command-line client for podwise.ai podcast insights |
-| 2026-11-28 11:05:31 | [poenskelisten-bin](https://aur.archlinux.org/packages/poenskelisten-bin) | 2.7.0-1 | 0 | Self-hosted wishlist sharing and gift coordination |
-| 2026-11-28 11:05:42 | [poodle-bin](https://aur.archlinux.org/packages/poodle-bin) | 2.2.3-1 | 0 | Build and run API requests from the command line |
-| 2026-11-28 11:05:51 | [poros-bin](https://aur.archlinux.org/packages/poros-bin) | 1.9.2-1 | 0 | Inject Xposed modules into apps on rooted Android devices |
-| 2026-11-28 11:06:01 | [port_sentinel-bin](https://aur.archlinux.org/packages/port_sentinel-bin) | 2.1.0-1 | 0 | Find port conflicts and manage processes using ports |
-| 2026-11-28 11:06:11 | [portkey-bin](https://aur.archlinux.org/packages/portkey-bin) | 4.0.1-1 | 0 | Simple web start page with a collection of links |
-| 2026-11-28 11:06:22 | [pphack-bin](https://aur.archlinux.org/packages/pphack-bin) | 0.1.6-1 | 0 | Client-side prototype pollution scanner |
-| 2026-11-28 11:06:32 | [presse-bin](https://aur.archlinux.org/packages/presse-bin) | 0.4.0-1 | 0 | PDF processing CLI |
-| 2026-11-28 11:06:42 | [procoder-bin](https://aur.archlinux.org/packages/procoder-bin) | 3.9.5-1 | 0 | Senior-developer discipline for AI coding agents |
-| 2026-11-28 11:06:55 | [prometheus-mcp-bin](https://aur.archlinux.org/packages/prometheus-mcp-bin) | 0.18.0-1 | 0 | MCP server for interacting with Prometheus |
-| 2026-11-28 11:07:04 | [prometheus-rds-exporter-bin](https://aur.archlinux.org/packages/prometheus-rds-exporter-bin) | 0.19.0-1 | 0 | Prometheus exporter for AWS RDS |
-| 2026-11-28 11:07:14 | [promruval-bin](https://aur.archlinux.org/packages/promruval-bin) | 3.13.0-1 | 0 | Validate Prometheus, Thanos, Mimir and Loki rules |
-| 2026-11-28 11:07:29 | [promu-bin](https://aur.archlinux.org/packages/promu-bin) | 0.21.0-1 | 0 | Prometheus build and release utility |
-| 2026-11-28 11:07:40 | [proxysql_exporter-bin](https://aur.archlinux.org/packages/proxysql_exporter-bin) | 1.1.2-1 | 0 | Prometheus exporter for ProxySQL |
-| 2026-11-28 11:07:50 | [proxyt-bin](https://aur.archlinux.org/packages/proxyt-bin) | 0.1.2-1 | 0 | Simple proxy for the Tailscale control plane |
-| 2026-11-28 11:08:00 | [prusa_exporter-bin](https://aur.archlinux.org/packages/prusa_exporter-bin) | 2.0.0-1 | 0 | Prometheus exporter for Prusa 3D printers |
-| 2026-11-28 11:08:10 | [psfuzz-bin](https://aur.archlinux.org/packages/psfuzz-bin) | 1.0.0-1 | 0 | Directory and path web fuzzing scanner |
-| 2026-11-28 11:08:21 | [pssa-bin](https://aur.archlinux.org/packages/pssa-bin) | 0.5.5-1 | 0 | Non-transformer language model written from scratch in Rust |
-| 2026-11-28 11:08:31 | [purrcode-bin](https://aur.archlinux.org/packages/purrcode-bin) | 1.0.0-1 | 0 | Judgment-first coding agent runtime |
-| 2026-11-28 11:08:41 | [pysentry-bin](https://aur.archlinux.org/packages/pysentry-bin) | 0.5.0-1 | 0 | Scan Python dependencies for known vulnerabilities |
-| 2026-11-28 11:08:51 | [qq-maid-bot-bin](https://aur.archlinux.org/packages/qq-maid-bot-bin) | 0.26.1-1 | 0 | AI agent bot for QQ via OneBot 11 |
-| 2026-11-28 11:09:01 | [qrterminal-bin](https://aur.archlinux.org/packages/qrterminal-bin) | 4.0.0-1 | 0 | Show QR codes in your terminal |
-| 2026-11-28 11:09:11 | [quickpassthrough-bin](https://aur.archlinux.org/packages/quickpassthrough-bin) | 2.1.5-1 | 0 | Simplify GPU passthrough setup for QEMU |
-| 2026-11-28 11:09:21 | [rabbitmq-dump-queue-bin](https://aur.archlinux.org/packages/rabbitmq-dump-queue-bin) | 0.7.3-1 | 0 | Dump RabbitMQ queue messages to files without consuming them |
-| 2026-11-28 11:09:31 | [raftkeeper-bin](https://aur.archlinux.org/packages/raftkeeper-bin) | 2.3.0-1 | 0 | High-performance distributed consensus service |
-| 2026-11-28 11:09:41 | [rainbow-roads-bin](https://aur.archlinux.org/packages/rainbow-roads-bin) | 0.4.0-1 | 0 | Animate your exercise maps |
-| 2026-11-28 11:09:51 | [raven-riscv-bin](https://aur.archlinux.org/packages/raven-riscv-bin) | 1.30.0-1 | 0 | RISC-V simulator and IDE for learning assembly |
-| 2026-11-28 11:10:00 | [rayforce-bin](https://aur.archlinux.org/packages/rayforce-bin) | 3.0.2-1 | 0 | SIMD-accelerated columnar analytics database |
-| 2026-11-28 11:10:10 | [razorpay-mcp-server-bin](https://aur.archlinux.org/packages/razorpay-mcp-server-bin) | 1.3.0-1 | 0 | MCP server for the Razorpay API |
-| 2026-11-28 11:10:21 | [rdmatop-bin](https://aur.archlinux.org/packages/rdmatop-bin) | 0.1.33-1 | 0 | htop-like TUI for real-time RDMA network monitoring |
-| 2026-11-28 11:10:31 | [recipya-bin](https://aur.archlinux.org/packages/recipya-bin) | 1.2.2-1 | 0 | Self-hosted recipe manager |
-| 2026-11-28 11:10:41 | [reckoner-bin](https://aur.archlinux.org/packages/reckoner-bin) | 6.3.1-1 | 0 | Declaratively install and manage multiple Helm chart releases |
-| 2026-11-28 11:10:51 | [reddit-migrate-bin](https://aur.archlinux.org/packages/reddit-migrate-bin) | 1.0.0-1 | 0 | Transfer your Reddit account data between accounts |
-| 2026-11-28 11:11:01 | [regolith-bin](https://aur.archlinux.org/packages/regolith-bin) | 1.8.0-1 | 0 | Minecraft Bedrock add-on compiler pipeline |
-| 2026-11-28 11:11:11 | [reminal-bin](https://aur.archlinux.org/packages/reminal-bin) | 3.22.25-1 | 0 | Access the windows, desktops and terminals of your machines from any browser |
-| 2026-11-28 11:11:23 | [remindb-bin](https://aur.archlinux.org/packages/remindb-bin) | 0.3.12-1 | 0 | Agent memory database in one portable SQLite file |
-| 2026-11-28 11:11:34 | [remoteaudio-bin](https://aur.archlinux.org/packages/remoteaudio-bin) | 0.5.8-1 | 0 | Audio streaming for amateur radio |
-| 2026-11-28 11:11:44 | [reostream-bin](https://aur.archlinux.org/packages/reostream-bin) | 0.2.12-1 | 0 | Reolink camera proxy serving RTSP and HTTP for NVRs |
-| 2026-11-28 11:11:55 | [resgate-bin](https://aur.archlinux.org/packages/resgate-bin) | 1.8.0-1 | 0 | Realtime API gateway for NATS |
-| 2026-11-28 11:12:05 | [resinator-bin](https://aur.archlinux.org/packages/resinator-bin) | 0.2.0-1 | 0 | Cross-platform Windows resource script compiler |
-| 2026-11-28 11:12:15 | [restoredrill-bin](https://aur.archlinux.org/packages/restoredrill-bin) | 0.4.4-1 | 0 | Verify that PostgreSQL and MySQL backups actually restore |
-| 2026-11-28 11:12:26 | [reviewengine-bin](https://aur.archlinux.org/packages/reviewengine-bin) | 0.11.1-1 | 0 | Multi-expert, scored AI code review |
-| 2026-11-28 11:12:36 | [revmux-bin](https://aur.archlinux.org/packages/revmux-bin) | 0.3.0-1 | 0 | Supervised, auditable multi-agent code review |
-| 2026-11-28 11:12:46 | [reward-bin](https://aur.archlinux.org/packages/reward-bin) | 0.7.15-1 | 0 | Orchestrate Docker-based development environments |
-| 2026-11-28 11:12:56 | [rewinged-bin](https://aur.archlinux.org/packages/rewinged-bin) | 0.15.0-1 | 0 | Self-hosted winget package source |
-| 2026-11-28 11:13:06 | [rguilayout-bin](https://aur.archlinux.org/packages/rguilayout-bin) | 4.0-1 | 0 | Simple raygui layout editor |
-| 2026-11-28 11:13:16 | [rheo-bin](https://aur.archlinux.org/packages/rheo-bin) | 0.6.4-1 | 0 | Typesetting and static site engine based on Typst |
-| 2026-11-28 11:13:26 | [riffpad-bin](https://aur.archlinux.org/packages/riffpad-bin) | 0.2.6-1 | 0 | Watch, approve and steer coding agents from your phone |
-| 2026-11-28 11:13:37 | [rings-bin](https://aur.archlinux.org/packages/rings-bin) | 0.40.0-1 | 0 | Browser-native peer-to-peer network over WebRTC with a Chord DHT |
-| 2026-11-28 11:13:48 | [riscvsim-bin](https://aur.archlinux.org/packages/riscvsim-bin) | 0.2.0-1 | 0 | RISC-V simulator for learning computer engineering |
-| 2026-11-28 11:13:59 | [rodney-bin](https://aur.archlinux.org/packages/rodney-bin) | 0.4.0-1 | 0 | Command-line tool for interacting with the web |
-| 2026-11-28 11:14:09 | [roofer-bin](https://aur.archlinux.org/packages/roofer-bin) | 1.0.0-1 | 0 | Large-scale automatic LoD2.2 building reconstruction |
-| 2026-11-28 11:14:20 | [rosalind-bin](https://aur.archlinux.org/packages/rosalind-bin) | 0.1.0-1 | 0 | Reusable genomic evidence for research and analysis tools |
-| 2026-11-28 11:14:30 | [rose-bin](https://aur.archlinux.org/packages/rose-bin) | 2.1.2-1 | 0 | Input method user dictionary converter |
-| 2026-11-28 11:14:41 | [rotel-bin](https://aur.archlinux.org/packages/rotel-bin) | 0.2.7-1 | 0 | Resource-efficient OpenTelemetry collector |
-| 2026-11-28 11:14:51 | [rp6502-bin](https://aur.archlinux.org/packages/rp6502-bin) | 0.44-1 | 0 | Emulator for the RP6502 Picocomputer |
-| 2026-11-28 11:15:01 | [rrelayer-bin](https://aur.archlinux.org/packages/rrelayer-bin) | 0.14.0-1 | 0 | EVM transaction relayer |
-| 2026-11-28 11:15:11 | [rss-funnel-bin](https://aur.archlinux.org/packages/rss-funnel-bin) | 0.1.4-1 | 0 | Self-hosted RSS multi-tool |
-| 2026-11-28 11:15:21 | [rsvelte-bin](https://aur.archlinux.org/packages/rsvelte-bin) | 0.7.6-1 | 0 | Rust-powered Svelte compiler and tooling |
-| 2026-11-28 11:15:34 | [rtty-bin](https://aur.archlinux.org/packages/rtty-bin) | 0.4.0-1 | 0 | Terminal in the browser over WebSocket |
-| 2026-11-28 11:15:45 | [ruseon-core-bin](https://aur.archlinux.org/packages/ruseon-core-bin) | 2.1.5-1 | 0 | Edge video infrastructure for CCTV RTSP ingest, streaming and recording |
-| 2026-11-28 11:15:55 | [rust-mcp-filesystem-bin](https://aur.archlinux.org/packages/rust-mcp-filesystem-bin) | 0.4.5-1 | 0 | Fast asynchronous MCP server for filesystem operations |
-| 2026-11-28 11:16:05 | [rustqc-bin](https://aur.archlinux.org/packages/rustqc-bin) | 0.2.1-1 | 0 | Fast quality control tools for genomic sequencing data |
-| 2026-11-28 11:16:18 | [rutis-bin](https://aur.archlinux.org/packages/rutis-bin) | 0.23.0-1 | 0 | Plugin runtime where AI agents write and hot-reload their own plugins |
-| 2026-11-28 11:16:28 | [ruxguitar-bin](https://aur.archlinux.org/packages/ruxguitar-bin) | 0.17.0-1 | 0 | Guitar Pro tablature player |
-| 2026-11-28 11:16:38 | [s3deploy-bin](https://aur.archlinux.org/packages/s3deploy-bin) | 2.16.0-1 | 0 | Deploy static websites to Amazon S3 and CloudFront |
-| 2026-11-28 11:16:48 | [saki-panel-bin](https://aur.archlinux.org/packages/saki-panel-bin) | 6.1-1 | 0 | AI-assisted server operations panel |
-| 2026-11-28 11:16:58 | [samyama-graph-bin](https://aur.archlinux.org/packages/samyama-graph-bin) | 1.17.0-1 | 0 | Graph and vector database with OpenCypher and vector search |
-| 2026-11-28 11:17:08 | [satnogs-monitor-bin](https://aur.archlinux.org/packages/satnogs-monitor-bin) | 0.4.3-1 | 0 | Terminal UI monitor for SatNOGS ground stations |
-| 2026-11-28 11:17:19 | [sato-bin](https://aur.archlinux.org/packages/sato-bin) | 0.1.52-1 | 0 | Convert ARM or CloudFormation templates into Terraform |
-| 2026-11-28 11:17:30 | [save-to-spotify-bin](https://aur.archlinux.org/packages/save-to-spotify-bin) | 0.2.1-1 | 0 | Save your personal media to Spotify from the command line |
-| 2026-11-28 11:17:35 | [dbdeployer-bin](https://aur.archlinux.org/packages/dbdeployer-bin) | 2.5.0-1 | 0 | A tool that deploys MySQL database servers easily. |
-| 2026-11-28 11:17:41 | [savepoint-bin](https://aur.archlinux.org/packages/savepoint-bin) | 0.3.12-1 | 0 | Command watcher that commits when you fix errors |
-| 2026-11-28 11:17:51 | [sayna-bin](https://aur.archlinux.org/packages/sayna-bin) | 0.1.16-1 | 0 | Unified voice layer for AI agents |
-| 2026-11-28 11:18:02 | [scopey-bin](https://aur.archlinux.org/packages/scopey-bin) | 0.2.5-1 | 0 | Keep AI coding agent sessions on scope |
-| 2026-11-28 11:18:15 | [score-compose-bin](https://aur.archlinux.org/packages/score-compose-bin) |  |  | Reference Score implementation for Docker Compose |
-| 2026-11-28 11:18:26 | [screeps-launcher-bin](https://aur.archlinux.org/packages/screeps-launcher-bin) |  |  | Launcher for Screeps private servers |
-| 2026-11-28 11:18:35 | [screp-bin](https://aur.archlinux.org/packages/screp-bin) |  |  | StarCraft: Brood War replay parser |
-| 2026-11-28 11:18:46 | [scrutineer-bin](https://aur.archlinux.org/packages/scrutineer-bin) |  |  | Security review tool for software projects |
-| 2026-11-28 11:18:56 | [seasonpackarr-bin](https://aur.archlinux.org/packages/seasonpackarr-bin) |  |  | autobrr companion that hardlinks existing episodes into season pack folders |
+| 2026-11-28 11:34:02 | [thunderdome-planning-poker-bin](https://aur.archlinux.org/packages/thunderdome-planning-poker-bin) | 5.19.0-1 | 0 | Agile planning poker, sprint retro and story mapping tool |
+| 2026-11-28 11:34:12 | [ticker-wall-bin](https://aur.archlinux.org/packages/ticker-wall-bin) | 0.0.3-1 | 0 | Scalable stock ticker tape display |
+| 2026-11-28 11:34:22 | [tiger-cli-bin](https://aur.archlinux.org/packages/tiger-cli-bin) | 0.30.0-1 | 0 | Command-line interface for Tiger Cloud |
+| 2026-11-28 11:34:32 | [title-tidy-bin](https://aur.archlinux.org/packages/title-tidy-bin) | 1.22.0-1 | 0 | Rename TV shows and movies for media centers |
+| 2026-11-28 11:34:43 | [traefik-forward-auth-bin](https://aur.archlinux.org/packages/traefik-forward-auth-bin) | 4.16.0-1 | 0 | Forward authentication service with Google and OpenID login for Traefik |
+| 2026-11-28 11:34:54 | [traffic-guard-bin](https://aur.archlinux.org/packages/traffic-guard-bin) | 0.0.5-1 | 0 | Traffic blocker and firewall management tool |
+| 2026-11-28 11:35:04 | [trajan-bin](https://aur.archlinux.org/packages/trajan-bin) | 1.0.2-1 | 0 | CI/CD pipeline vulnerability detection and attack automation tool |
+| 2026-11-28 11:35:15 | [transmission-telegram-bin](https://aur.archlinux.org/packages/transmission-telegram-bin) | 2.2.1-1 | 0 | Control Transmission through a Telegram bot |
+| 2026-11-28 11:35:25 | [triviumdb-bin](https://aur.archlinux.org/packages/triviumdb-bin) | 0.9.3-1 | 0 | Embedded database combining vector search, graph and document metadata |
+| 2026-11-28 11:35:34 | [truehdd-bin](https://aur.archlinux.org/packages/truehdd-bin) | 0.6.3-1 | 0 | Inspect and decode Dolby TrueHD bitstreams |
+| 2026-11-28 11:35:45 | [tsflow-bin](https://aur.archlinux.org/packages/tsflow-bin) | 1.7.1-1 | 0 | Network flow visualizer for Tailscale |
+| 2026-11-28 11:35:55 | [tsuru-client-bin](https://aur.archlinux.org/packages/tsuru-client-bin) | 1.38.1-1 | 0 | Command-line client for the Tsuru PaaS |
+| 2026-11-28 11:36:08 | [ttrpg-convert-cli-bin](https://aur.archlinux.org/packages/ttrpg-convert-cli-bin) | 3.3.9-1 | 0 | Convert 5etools and pf2etools JSON data you own into Obsidian Markdown |
+| 2026-11-28 11:36:20 | [tty2web-bin](https://aur.archlinux.org/packages/tty2web-bin) | 3.0.4-1 | 0 | Share your terminal as a web application |
+| 2026-11-28 11:36:30 | [tuisage-bin](https://aur.archlinux.org/packages/tuisage-bin) | 0.2.2-1 | 0 | Terminal UI for running mise tasks and usage-spec commands |
+| 2026-11-28 11:36:40 | [tuiui-bin](https://aur.archlinux.org/packages/tuiui-bin) | 0.2.14-1 | 0 | Terminal window manager and desktop with floating windows, dock and launcher |
+| 2026-11-28 11:36:50 | [turbocrypt-bin](https://aur.archlinux.org/packages/turbocrypt-bin) | 0.9.10-1 | 0 | Encrypt and decrypt files, git repositories and directory trees |
+| 2026-11-28 11:37:00 | [turbolift-bin](https://aur.archlinux.org/packages/turbolift-bin) | 4.1.3-1 | 0 | Apply changes across many GitHub repositories at once |
+| 2026-11-28 11:37:10 | [turnable-bin](https://aur.archlinux.org/packages/turnable-bin) | 0.8.7-1 | 0 | VPN core for tunneling through TURN or SFU servers |
+| 2026-11-28 11:37:21 | [tusk-cli-bin](https://aur.archlinux.org/packages/tusk-cli-bin) | 0.2.16-1 | 0 | Automated testing with live traffic record and replay |
+| 2026-11-28 11:37:31 | [tutor-mcp-bin](https://aur.archlinux.org/packages/tutor-mcp-bin) | 0.7.6-1 | 0 | MCP server that turns any LLM into an intelligent tutoring system |
+| 2026-11-28 11:37:41 | [tweety-bin](https://aur.archlinux.org/packages/tweety-bin) | 2.3.0-1 | 0 | Integrated terminal for your browser |
+| 2026-11-28 11:37:51 | [txtx-bin](https://aur.archlinux.org/packages/txtx-bin) | 0.5.2-1 | 0 | Infrastructure-as-code runbooks for web3 |
+| 2026-11-28 11:38:01 | [tylertoo-bin](https://aur.archlinux.org/packages/tylertoo-bin) | 0.9.2-1 | 0 | Convert GeoParquet to PMTiles |
+| 2026-11-28 11:38:11 | [ua3f-bin](https://aur.archlinux.org/packages/ua3f-bin) | 3.7.0-1 | 0 | HTTP(S) rewriting proxy |
+| 2026-11-28 11:38:21 | [ublockdnsclient-bin](https://aur.archlinux.org/packages/ublockdnsclient-bin) | 0.4.0-1 | 0 | System DNS client for uBlockDNS ad and tracker blocking |
+| 2026-11-28 11:38:30 | [uhyve-bin](https://aur.archlinux.org/packages/uhyve-bin) | 0.10.1-1 | 0 | Specialized hypervisor for Hermit unikernels |
+| 2026-11-28 11:38:40 | [ultrafocus-bin](https://aur.archlinux.org/packages/ultrafocus-bin) | 0.3.3-1 | 0 | Block distracting websites to boost productivity |
+| 2026-11-28 11:38:50 | [unicli-bin](https://aur.archlinux.org/packages/unicli-bin) | 1.7.0-1 | 0 | Control the Unity Editor from the terminal |
+| 2026-11-28 11:39:00 | [unspeech-bin](https://aur.archlinux.org/packages/unspeech-bin) | 0.1.20-1 | 0 | Unified proxy for text-to-speech services |
+| 2026-11-28 11:39:10 | [upgit-bin](https://aur.archlinux.org/packages/upgit-bin) | 0.3.0-1 | 0 | Upload files and clipboard content to various storage backends |
+| 2026-11-28 11:39:20 | [urdf-viz-bin](https://aur.archlinux.org/packages/urdf-viz-bin) | 0.46.1-1 | 0 | Visualize URDF and XACRO robot description files |
+| 2026-11-28 11:39:30 | [utpm-bin](https://aur.archlinux.org/packages/utpm-bin) | 0.4.1-1 | 0 | Package manager for local and remote Typst packages |
+| 2026-11-28 11:39:40 | [utreexod-bin](https://aur.archlinux.org/packages/utreexod-bin) | 0.6.0-1 | 0 | Fully validating Bitcoin node with Utreexo support |
+| 2026-11-28 11:39:50 | [vaku-bin](https://aur.archlinux.org/packages/vaku-bin) | 2.12.1-1 | 0 | Extend the Vault API and CLI |
+| 2026-11-28 11:39:58 | [bose-connect-gui](https://aur.archlinux.org/packages/bose-connect-gui) | 0.8.0-1 | 0 | Control Bose Bluetooth headphones and speakers (GTK 4 window) |
+| 2026-11-28 11:40:00 | [valin-bin](https://aur.archlinux.org/packages/valin-bin) | 0.25.0-1 | 0 | Cross-platform code editor built with Freya |
+| 2026-11-28 11:40:06 | [bose-connect-cli](https://aur.archlinux.org/packages/bose-connect-cli) | 0.8.0-1 | 0 | Control Bose Bluetooth headphones and speakers from the command line |
+| 2026-11-28 11:40:10 | [veloq-bin](https://aur.archlinux.org/packages/veloq-bin) | 0.6.3-1 | 0 | Agent-friendly GPU profile query CLI |
+| 2026-11-28 11:40:21 | [vera-bin](https://aur.archlinux.org/packages/vera-bin) | 2.5.0-1 | 0 | Local code search with BM25, vector similarity and reranking |
+| 2026-11-28 11:40:31 | [vespasian-bin](https://aur.archlinux.org/packages/vespasian-bin) | 1.0.0-1 | 0 | Map API attack surfaces from captured traffic |
+| 2026-11-28 11:40:41 | [vibeguard-bin](https://aur.archlinux.org/packages/vibeguard-bin) | 0.2.6-1 | 0 | Lightweight privacy guard for AI coding agents |
+| 2026-11-28 11:40:51 | [viceroy-bin](https://aur.archlinux.org/packages/viceroy-bin) | 0.22.0-1 | 0 | Local testing environment for Fastly Compute |
+| 2026-11-28 11:41:02 | [vide_cli-bin](https://aur.archlinux.org/packages/vide_cli-bin) | 0.7.1-1 | 0 | Agentic terminal UI for Claude for Flutter developers |
+| 2026-11-28 11:41:14 | [vip-manager-bin](https://aur.archlinux.org/packages/vip-manager-bin) | 5.0.0-1 | 0 | Manage a virtual IP based on state in etcd or Consul |
+| 2026-11-28 11:41:26 | [voiceblender-bin](https://aur.archlinux.org/packages/voiceblender-bin) | 1.0.1-1 | 0 | Programmable voice AI platform with SIP and WebRTC call control |
+| 2026-11-28 11:41:36 | [voxeldash-bin](https://aur.archlinux.org/packages/voxeldash-bin) | 1.2.1-1 | 0 | Dashboard for Minecraft and Hytale servers |
+| 2026-11-28 11:41:39 | [headset-tui-git](https://aur.archlinux.org/packages/headset-tui-git) | 0.2.0.r61.g8019b8a-1 | 0 | Waybar integration for HeadsetControl with an interactive TUI (git version) |
+| 2026-11-28 11:41:47 | [wacrawl-bin](https://aur.archlinux.org/packages/wacrawl-bin) | 0.5.1-1 | 0 | Archive and search your WhatsApp history locally |
+| 2026-11-28 11:41:57 | [wado-bin](https://aur.archlinux.org/packages/wado-bin) | 0.0.40-1 | 0 | Wado programming language |
+| 2026-11-28 11:42:07 | [waf-detector-bin](https://aur.archlinux.org/packages/waf-detector-bin) | 0.1.0-1 | 0 | WAF and CDN detection tool |
+| 2026-11-28 11:42:17 | [waggle-bin](https://aur.archlinux.org/packages/waggle-bin) | 0.5.3-1 | 0 | Compact artifact references for AI agent handoffs |
+| 2026-11-28 11:42:28 | [wait4it-bin](https://aur.archlinux.org/packages/wait4it-bin) | 17.1.2-1 | 0 | Wait until a port or service is ready |
+| 2026-11-28 11:42:38 | [wally-package-types-bin](https://aur.archlinux.org/packages/wally-package-types-bin) | 1.7.0-1 | 0 | Re-export types in Wally package thunks |
+| 2026-11-28 11:42:48 | [wanaku-bin](https://aur.archlinux.org/packages/wanaku-bin) | 0.3.1-1 | 0 | Governed action proxy for AI agents |
+| 2026-11-28 11:42:59 | [warden-bin](https://aur.archlinux.org/packages/warden-bin) | 0.22.0-1 | 0 | Secure gateway connecting AI agents to enterprise systems |
+| 2026-11-28 11:43:09 | [wardgate-bin](https://aur.archlinux.org/packages/wardgate-bin) | 0.18.0-1 | 0 | Security gateway for AI agents with credential isolation and policy-gated execu… |
+| 2026-11-28 11:43:19 | [easypaint-gtk3](https://aur.archlinux.org/packages/easypaint-gtk3) | 0.2.0-1 | 0 | A simple bitmap graphics editor (GTK 3 port) |
+| 2026-11-28 11:43:20 | [wasi-vfs-bin](https://aur.archlinux.org/packages/wasi-vfs-bin) | 0.6.3-1 | 0 | Virtual filesystem layer for WASI |
+| 2026-11-28 11:43:31 | [watgbridge-bin](https://aur.archlinux.org/packages/watgbridge-bin) | 1.13.16-1 | 0 | Bridge WhatsApp chats to Telegram |
+| 2026-11-28 11:43:41 | [watt-bin](https://aur.archlinux.org/packages/watt-bin) | 1.4.0-1 | 0 | CPU frequency and power management utility |
+| 2026-11-28 11:43:52 | [wavedrom-rs-bin](https://aur.archlinux.org/packages/wavedrom-rs-bin) | 0.1.0-1 | 0 | Render digital timing diagrams |
+| 2026-11-28 11:43:56 | [easypaint-gtk4](https://aur.archlinux.org/packages/easypaint-gtk4) | 0.2.0-1 | 0 | A simple bitmap graphics editor (GTK 4 port) |
+| 2026-11-28 11:44:02 | [wayfinder-maps-bin](https://aur.archlinux.org/packages/wayfinder-maps-bin) | 0.2.3-1 | 0 | Planetary visualization tool |
+| 2026-11-28 11:44:13 | [webctl-bin](https://aur.archlinux.org/packages/webctl-bin) | 0.1.9-1 | 0 | Web search CLI for AI agents |
+| 2026-11-28 11:44:26 | [webhookx-bin](https://aur.archlinux.org/packages/webhookx-bin) | 1.2.0-1 | 0 | Webhooks gateway |
+| 2026-11-28 11:44:38 | [webreaper-bin](https://aur.archlinux.org/packages/webreaper-bin) | 11.3.2-1 | 0 | AI-native web scraper |
+| 2026-11-28 11:44:50 | [wesl-rs-bin](https://aur.archlinux.org/packages/wesl-rs-bin) | 0.6.0-1 | 0 | Compiler for WESL (WGSL Extended) shaders |
+| 2026-11-28 11:45:03 | [whalewall-bin](https://aur.archlinux.org/packages/whalewall-bin) | 0.2.3-1 | 0 | Automatically manage firewall rules for Docker containers |
+| 2026-11-28 11:45:13 | [who-dat-bin](https://aur.archlinux.org/packages/who-dat-bin) | 2.0.0-1 | 0 | Domain lookup API using RDAP and WHOIS |
+| 2026-11-28 11:45:31 | [wire-seek-bin](https://aur.archlinux.org/packages/wire-seek-bin) | 0.4.0-1 | 0 | Find the best MTU for a WireGuard tunnel |
+| 2026-11-28 11:45:43 | [wireblast-bin](https://aur.archlinux.org/packages/wireblast-bin) | 0.6.1-1 | 0 | AF_XDP traffic generator |
+| 2026-11-28 11:45:54 | [wirez-bin](https://aur.archlinux.org/packages/wirez-bin) | 0.1.0-1 | 0 | Redirect a program's TCP and UDP traffic to a SOCKS5 proxy |
+| 2026-11-28 11:46:04 | [witnet-rust-bin](https://aur.archlinux.org/packages/witnet-rust-bin) | 2.0.27-1 | 0 | Witnet decentralized oracle node and wallet backend |
+| 2026-11-28 11:46:15 | [world-chain-bin](https://aur.archlinux.org/packages/world-chain-bin) | 2.8.3-1 | 0 | World Chain node |
+| 2026-11-28 11:46:27 | [wp2hugo-bin](https://aur.archlinux.org/packages/wp2hugo-bin) | 1.40.0-1 | 0 | Migrate WordPress sites to Hugo |
+| 2026-11-28 11:46:40 | [wrapperr-bin](https://aur.archlinux.org/packages/wrapperr-bin) | 3.3.1-1 | 0 | Summarize Plex statistics for a period in a web page |
+| 2026-11-28 11:46:51 | [wwhrd-bin](https://aur.archlinux.org/packages/wwhrd-bin) | 0.4.0-1 | 0 | Check Go dependency licenses against allow and deny lists |
+| 2026-11-28 11:47:04 | [wxdown-bin](https://aur.archlinux.org/packages/wxdown-bin) | 1.1.3-1 | 0 | Download WeChat articles as HTML or PDF |
+| 2026-11-28 11:47:19 | [xcrawl3r-bin](https://aur.archlinux.org/packages/xcrawl3r-bin) | 1.2.0-1 | 0 | Recursively spider webpages for URLs |
+| 2026-11-28 11:47:32 | [xrdebug-bin](https://aur.archlinux.org/packages/xrdebug-bin) | 3.0.5-1 | 0 | Lightweight real-time debugger with a web interface |
+| 2026-11-28 11:47:42 | [xsd2go-bin](https://aur.archlinux.org/packages/xsd2go-bin) | 0.1.11-1 | 0 | Generate Go XML parsers from XSD schemas |
+| 2026-11-28 11:47:55 | [xsubfind3r-bin](https://aur.archlinux.org/packages/xsubfind3r-bin) | 1.1.2-1 | 0 | Discover subdomains for a given domain |
+| 2026-11-28 11:48:08 | [yatas-bin](https://aur.archlinux.org/packages/yatas-bin) | 1.6.1-1 | 0 | Audit AWS and GCP infrastructure for misconfigurations and security issues |
+| 2026-11-28 11:48:21 | [yoloai-bin](https://aur.archlinux.org/packages/yoloai-bin) | 0.12.0-1 | 0 | Run AI coding agents in sandboxes |
+| 2026-11-28 11:48:35 | [yolorouter-bin](https://aur.archlinux.org/packages/yolorouter-bin) | 0.2.9-1 | 0 | Self-hosted OpenAI-compatible LLM gateway with multi-provider failover |
+| 2026-11-28 11:48:46 | [zakura-bin](https://aur.archlinux.org/packages/zakura-bin) | 1.9.0-1 | 0 | Zcash full node |
+| 2026-11-28 11:48:56 | [zanadir-bin](https://aur.archlinux.org/packages/zanadir-bin) | 0.32.0-1 | 0 | CI/CD security tool that finds missing pipeline security checks |
+| 2026-11-28 11:49:06 | [zaparoo-core-bin](https://aur.archlinux.org/packages/zaparoo-core-bin) | 2.24.0-1 | 0 | Core service for Zaparoo |
+| 2026-11-28 11:49:17 | [zbpack-bin](https://aur.archlinux.org/packages/zbpack-bin) | 1.0.2-1 | 0 | Build projects into static assets, serverless functions or container images |
+| 2026-11-28 11:49:28 | [zbxtable-bin](https://aur.archlinux.org/packages/zbxtable-bin) | 3.0.8-1 | 0 | Reporting system for Zabbix |
+| 2026-11-28 11:49:39 | [zedra-bin](https://aur.archlinux.org/packages/zedra-bin) | 0.4.4-1 | 0 | Remote control for AI coding agents |
+| 2026-11-28 11:49:50 | [zentinel-bin](https://aur.archlinux.org/packages/zentinel-bin) | 26.11_11-1 | 0 | Security-first reverse proxy |
+| 2026-11-28 11:50:07 | [zerobox-bin](https://aur.archlinux.org/packages/zerobox-bin) | 0.3.3-1 | 0 | Lightweight process sandboxing based on the Codex runtime |
+| 2026-11-28 11:50:21 | [zeroid-bin](https://aur.archlinux.org/packages/zeroid-bin) | 1.34.0-1 | 0 | Identity management for autonomous AI agents |
+| 2026-11-28 11:50:37 | [zihuan-next-bin](https://aur.archlinux.org/packages/zihuan-next-bin) | 0.1.0-1 | 0 | Customizable AI agent platform |
+| 2026-11-28 11:50:52 | [zkar-bin](https://aur.archlinux.org/packages/zkar-bin) | 1.6.0-1 | 0 | Java serialization protocol analysis tool |
+| 2026-11-28 11:51:07 | [zoro-bin](https://aur.archlinux.org/packages/zoro-bin) | 20240828-1 | 0 | Expose a local server to the internet |
+| 2026-11-28 11:51:24 | [zwasm-bin](https://aur.archlinux.org/packages/zwasm-bin) | 2.12.1-1 | 0 | Fast, spec-compliant WebAssembly runtime |
+| 2026-11-28 11:52:28 | [project-avalanche-bin](https://aur.archlinux.org/packages/project-avalanche-bin) | 0.4.2-1 | 1 | Native Linux port of SSX (2012) |
 
 > The newest-packages feed does not reach past the window
 > start, so some packages in this window may be missing.
