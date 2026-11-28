@@ -12,19 +12,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 07:20 UTC
+## Latest list — 2026-11-28 08:20 UTC
 
-New packages created between 2026-11-28 06:20 UTC and 2026-11-28 07:20 UTC.
+New packages created between 2026-11-28 07:20 UTC and 2026-11-28 08:20 UTC.
 
-[Full CSV](data/new-aur-packages-2026-11-28T07-20-24-403716Z.csv)
+[Full CSV](data/new-aur-packages-2026-11-28T08-20-24-582452Z.csv)
 
 | Created (UTC) | Package | Version | Votes | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-28 06:46:12 | [hghub-bin](https://aur.archlinux.org/packages/hghub-bin) | 0.0.6-1 | 0 | Plug-in media player |
-| 2026-11-28 06:53:26 | [z80dasm-git](https://aur.archlinux.org/packages/z80dasm-git) | 1.2.0-1 | 0 | Disassembler for the Zilog Z80 microprocessor |
-| 2026-11-28 07:08:31 | [arch-pkg-installer](https://aur.archlinux.org/packages/arch-pkg-installer) | 1.0.0-1 | 0 | 图形化Arch本地包安装器，类似gdebi，基于paru自动解决依赖 |
-| 2026-11-28 07:13:34 | [aufs-ng-dkms-git](https://aur.archlinux.org/packages/aufs-ng-dkms-git) | r75.8633115-1 | 0 | aufs-ng union filesystem kernel module (DKMS) - standalone drop-in aufs replace… |
-| 2026-11-28 07:18:42 | [l3afpad-md-git](https://aur.archlinux.org/packages/l3afpad-md-git) |  |  | Simple GTK3 text editor (l3afpad fork) with Markdown preview and formatted edit… |
+| 2026-11-28 07:29:37 | [plasma6-applets-market-tiles](https://aur.archlinux.org/packages/plasma6-applets-market-tiles) | 1.0.0-1 | 0 | KDE Plasma 6 widget: crypto, stock and currency tiles with sparklines, alerts a… |
+| 2026-11-28 07:48:59 | [radiotop-bin](https://aur.archlinux.org/packages/radiotop-bin) | 0.9.3-1 | 0 | Linux desktop internet-radio browser and player |
+| 2026-11-28 07:53:56 | [keyd-s6](https://aur.archlinux.org/packages/keyd-s6) | 2.6.0.r2.f564288-1 | 0 | A key remapping daemon for linux |
+| 2026-11-28 07:56:13 | [x4vrmod](https://aur.archlinux.org/packages/x4vrmod) | 1.0.0-1 | 0 | Unofficial VR mod for native Linux X4: Foundations (not affiliated with Egosoft) |
 
 ## Data source
 
